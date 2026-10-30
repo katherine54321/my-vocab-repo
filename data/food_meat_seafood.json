@@ -1,0 +1,778 @@
+[
+  {
+    "id": "bacon_noun",
+    "word": "bacon",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/bacon/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bacon-us.mp3",
+    "definition_en": "Denoting bacon; widely used in Meat & Seafood.",
+    "definition_zh": "bacon（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of bacon is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "beef_noun",
+    "word": "beef",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "Meat & Seafood (肉类海鲜)",
+    "phonetic": "/biːf/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beef-us.mp3",
+    "definition_en": "The flesh of a cow, bull, or ox, used as food.",
+    "definition_zh": "牛肉",
+    "examples": [
+      "Slow-simmered beef stew fills the kitchen with savory warmth.",
+      "Wagyu beef is renowned worldwide for exquisite marbling."
+    ]
+  },
+  {
+    "id": "champion_noun",
+    "word": "champion",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/champion/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/champion-us.mp3",
+    "definition_en": "Denoting champion; widely used in Meat & Seafood.",
+    "definition_zh": "champion（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of champion is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "championship_noun",
+    "word": "championship",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/championship/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/championship-us.mp3",
+    "definition_en": "Denoting championship; widely used in Meat & Seafood.",
+    "definition_zh": "championship（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of championship is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "chicken_noun",
+    "word": "chicken",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "Meat & Seafood (肉类海鲜)",
+    "phonetic": "/ˈtʃɪk.ɪn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chicken-us.mp3",
+    "definition_en": "A domestic fowl kept for its eggs or meat, especially the flesh eaten as food.",
+    "definition_zh": "鸡肉，鸡",
+    "examples": [
+      "Roast chicken seasoned with rosemary makes a classic Sunday dinner.",
+      "Skinless chicken breasts provide lean protein for athletes."
+    ]
+  },
+  {
+    "id": "clam_noun",
+    "word": "clam",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/clam/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clam-us.mp3",
+    "definition_en": "Denoting clam; widely used in Meat & Seafood.",
+    "definition_zh": "clam（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of clam is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "crab_noun",
+    "word": "crab",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/crab/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crab-us.mp3",
+    "definition_en": "Denoting crab; widely used in Meat & Seafood.",
+    "definition_zh": "crab（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of crab is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "duck_noun",
+    "word": "duck",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/duck/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/duck-us.mp3",
+    "definition_en": "Denoting duck; widely used in Meat & Seafood.",
+    "definition_zh": "duck（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of duck is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "fish_noun",
+    "word": "fish",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "Meat & Seafood (肉类海鲜)",
+    "phonetic": "/fɪʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fish-us.mp3",
+    "definition_en": "A limbless cold-blooded vertebrate animal with gills and fins, or its flesh as food.",
+    "definition_zh": "鱼，鱼肉",
+    "examples": [
+      "Steamed fresh fish seasoned with ginger and scallions is delicate."
+    ]
+  },
+  {
+    "id": "fish_verb",
+    "word": "fish",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/fish/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fish-us.mp3",
+    "definition_en": "Denoting fish; widely used in Meat & Seafood.",
+    "definition_zh": "fish（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently fish key findings to verify results."
+    ]
+  },
+  {
+    "id": "fisherman_noun",
+    "word": "fisherman",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/fisherman/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fisherman-us.mp3",
+    "definition_en": "Denoting fisherman; widely used in Meat & Seafood.",
+    "definition_zh": "fisherman（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of fisherman is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "fishing_noun",
+    "word": "fishing",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/fishing/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fishing-us.mp3",
+    "definition_en": "Denoting fishing; widely used in Meat & Seafood.",
+    "definition_zh": "fishing（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of fishing is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "fortunate_adjective",
+    "word": "fortunate",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/fortunate/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fortunate-us.mp3",
+    "definition_en": "Denoting fortunate; widely used in Meat & Seafood.",
+    "definition_zh": "fortunate（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "The committee analyzed a highly fortunate perspective during the forum."
+    ]
+  },
+  {
+    "id": "fortunately_adverb",
+    "word": "fortunately",
+    "part_of_speech": "adverb",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/fortunately/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fortunately-us.mp3",
+    "definition_en": "Denoting fortunately; widely used in Meat & Seafood.",
+    "definition_zh": "fortunately（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Researchers systematically observed fortunately relevant patterns across trials."
+    ]
+  },
+  {
+    "id": "grill_noun",
+    "word": "grill",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/grill/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grill-us.mp3",
+    "definition_en": "Denoting grill; widely used in Meat & Seafood.",
+    "definition_zh": "grill（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of grill is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "grill_verb",
+    "word": "grill",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/grill/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grill-us.mp3",
+    "definition_en": "Denoting grill; widely used in Meat & Seafood.",
+    "definition_zh": "grill（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently grill key findings to verify results."
+    ]
+  },
+  {
+    "id": "grilled_adjective",
+    "word": "grilled",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/grilled/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grilled-us.mp3",
+    "definition_en": "Denoting grilled; widely used in Meat & Seafood.",
+    "definition_zh": "grilled（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "The committee analyzed a highly grilled perspective during the forum."
+    ]
+  },
+  {
+    "id": "ham_noun",
+    "word": "ham",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/ham/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ham-us.mp3",
+    "definition_en": "Denoting ham; widely used in Meat & Seafood.",
+    "definition_zh": "ham（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of ham is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "hamburger_noun",
+    "word": "hamburger",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/hamburger/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hamburger-us.mp3",
+    "definition_en": "Denoting hamburger; widely used in Meat & Seafood.",
+    "definition_zh": "hamburger（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of hamburger is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "hammer_noun",
+    "word": "hammer",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/hammer/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hammer-us.mp3",
+    "definition_en": "Denoting hammer; widely used in Meat & Seafood.",
+    "definition_zh": "hammer（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of hammer is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "hammer_verb",
+    "word": "hammer",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/hammer/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hammer-us.mp3",
+    "definition_en": "Denoting hammer; widely used in Meat & Seafood.",
+    "definition_zh": "hammer（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently hammer key findings to verify results."
+    ]
+  },
+  {
+    "id": "lamb_noun",
+    "word": "lamb",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "Meat & Seafood (肉类海鲜)",
+    "phonetic": "/læm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lamb-us.mp3",
+    "definition_en": "The meat of a young sheep eaten as food.",
+    "definition_zh": "羊肉，羔羊肉",
+    "examples": [
+      "Herb-crusted rack of lamb is a customary centerpiece for festive banquets.",
+      "Marinate lamb skewers with cumin and coriander before charcoal grilling."
+    ]
+  },
+  {
+    "id": "meat_noun",
+    "word": "meat",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/meat/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meat-us.mp3",
+    "definition_en": "Denoting meat; widely used in Meat & Seafood.",
+    "definition_zh": "meat（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of meat is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "mutton_noun",
+    "word": "mutton",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/mutton/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mutton-us.mp3",
+    "definition_en": "Denoting mutton; widely used in Meat & Seafood.",
+    "definition_zh": "mutton（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of mutton is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "permeate_verb",
+    "word": "permeate",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/permeate/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/permeate-us.mp3",
+    "definition_en": "Denoting permeate; widely used in Meat & Seafood.",
+    "definition_zh": "permeate（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently permeate key findings to verify results."
+    ]
+  },
+  {
+    "id": "pork_noun",
+    "word": "pork",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "Meat & Seafood (肉类海鲜)",
+    "phonetic": "/pɔːrk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pork-us.mp3",
+    "definition_en": "The flesh of a pig used as food, especially when uncured.",
+    "definition_zh": "猪肉",
+    "examples": [
+      "Braised pork belly is a cornerstone of Chinese home-style gastronomy.",
+      "Glaze tender pork tenderloin with apple cider and mustard."
+    ]
+  },
+  {
+    "id": "prawn_noun",
+    "word": "prawn",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/prawn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prawn-us.mp3",
+    "definition_en": "Denoting prawn; widely used in Meat & Seafood.",
+    "definition_zh": "prawn（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of prawn is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "reveal_verb",
+    "word": "reveal",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/reveal/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reveal-us.mp3",
+    "definition_en": "Denoting reveal; widely used in Meat & Seafood.",
+    "definition_zh": "reveal（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently reveal key findings to verify results."
+    ]
+  },
+  {
+    "id": "roast_adjective",
+    "word": "roast",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/roast/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/roast-us.mp3",
+    "definition_en": "Denoting roast; widely used in Meat & Seafood.",
+    "definition_zh": "roast（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "The committee analyzed a highly roast perspective during the forum."
+    ]
+  },
+  {
+    "id": "roast_verb",
+    "word": "roast",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/roast/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/roast-us.mp3",
+    "definition_en": "Denoting roast; widely used in Meat & Seafood.",
+    "definition_zh": "roast（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently roast key findings to verify results."
+    ]
+  },
+  {
+    "id": "salmon_noun",
+    "word": "salmon",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "Meat & Seafood (肉类海鲜)",
+    "phonetic": "/ˈsæm.ən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salmon-us.mp3",
+    "definition_en": "A large edible fish with pink flesh, celebrated for rich omega-3 fatty acids.",
+    "definition_zh": "三文鱼，鲑鱼",
+    "examples": [
+      "Pan-sear wild Atlantic salmon skin-side down until wonderfully crispy.",
+      "Smoked salmon and cream cheese are beloved bagel toppings."
+    ]
+  },
+  {
+    "id": "sausage_noun",
+    "word": "sausage",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/sausage/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sausage-us.mp3",
+    "definition_en": "Denoting sausage; widely used in Meat & Seafood.",
+    "definition_zh": "sausage（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of sausage is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "seafood_noun",
+    "word": "seafood",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/seafood/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seafood-us.mp3",
+    "definition_en": "Denoting seafood; widely used in Meat & Seafood.",
+    "definition_zh": "seafood（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of seafood is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "shampoo_noun",
+    "word": "shampoo",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/shampoo/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shampoo-us.mp3",
+    "definition_en": "Denoting shampoo; widely used in Meat & Seafood.",
+    "definition_zh": "shampoo（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of shampoo is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "shrimp_noun",
+    "word": "shrimp",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "Meat & Seafood (肉类海鲜)",
+    "phonetic": "/ʃrɪmp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shrimp-us.mp3",
+    "definition_en": "A small free-swimming crustacean with an elongated body, highly prized as seafood.",
+    "definition_zh": "虾，小虾",
+    "examples": [
+      "Garlic butter shrimp sautéed with parsley cooks in under four minutes.",
+      "The coastal town hosts an annual festival celebrating freshly caught shrimp."
+    ]
+  },
+  {
+    "id": "steak_noun",
+    "word": "steak",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/steak/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steak-us.mp3",
+    "definition_en": "Denoting steak; widely used in Meat & Seafood.",
+    "definition_zh": "steak（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of steak is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "tuna_noun",
+    "word": "tuna",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "Meat & Seafood (肉类海鲜)",
+    "phonetic": "/ˈtuː.nə/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tuna-us.mp3",
+    "definition_en": "A large predatory oceanic fish of the mackerel family, heavily fished commercially.",
+    "definition_zh": "金枪鱼，鲔鱼",
+    "examples": [
+      "Seared yellowfin tuna coated in black sesame is a delicacy."
+    ]
+  },
+  {
+    "id": "turkey_noun",
+    "word": "turkey",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/turkey/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/turkey-us.mp3",
+    "definition_en": "Denoting turkey; widely used in Meat & Seafood.",
+    "definition_zh": "turkey（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of turkey is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "unfortunate_adjective",
+    "word": "unfortunate",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/unfortunate/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unfortunate-us.mp3",
+    "definition_en": "Denoting unfortunate; widely used in Meat & Seafood.",
+    "definition_zh": "unfortunate（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "The committee analyzed a highly unfortunate perspective during the forum."
+    ]
+  },
+  {
+    "id": "unfortunately_adverb",
+    "word": "unfortunately",
+    "part_of_speech": "adverb",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/unfortunately/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unfortunately-us.mp3",
+    "definition_en": "Denoting unfortunately; widely used in Meat & Seafood.",
+    "definition_zh": "unfortunately（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Researchers systematically observed unfortunately relevant patterns across trials."
+    ]
+  },
+  {
+    "id": "revealing_adjective",
+    "word": "revealing",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/revealing/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/revealing-us.mp3",
+    "definition_en": "Denoting revealing; widely used in Meat & Seafood.",
+    "definition_zh": "revealing（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "The committee analyzed a highly revealing perspective during the forum."
+    ]
+  },
+  {
+    "id": "shambles_noun",
+    "word": "shambles",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/shambles/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shambles-us.mp3",
+    "definition_en": "Denoting shambles; widely used in Meat & Seafood.",
+    "definition_zh": "shambles（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of shambles is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "clammy_adjective",
+    "word": "clammy",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/clammy/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clammy-us.mp3",
+    "definition_en": "Denoting clammy; widely used in Meat & Seafood.",
+    "definition_zh": "clammy（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "The committee analyzed a highly clammy perspective during the forum."
+    ]
+  },
+  {
+    "id": "shamble_verb",
+    "word": "shamble",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/shamble/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shamble-us.mp3",
+    "definition_en": "Denoting shamble; widely used in Meat & Seafood.",
+    "definition_zh": "shamble（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently shamble key findings to verify results."
+    ]
+  },
+  {
+    "id": "hamper_verb",
+    "word": "hamper",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/hamper/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hamper-us.mp3",
+    "definition_en": "Denoting hamper; widely used in Meat & Seafood.",
+    "definition_zh": "hamper（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently hamper key findings to verify results."
+    ]
+  },
+  {
+    "id": "revealed_verb",
+    "word": "revealed",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/revealed/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/revealed-us.mp3",
+    "definition_en": "Denoting revealed; widely used in Meat & Seafood.",
+    "definition_zh": "revealed（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently revealed key findings to verify results."
+    ]
+  },
+  {
+    "id": "reveals_verb",
+    "word": "reveals",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/reveals/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reveals-us.mp3",
+    "definition_en": "Denoting reveals; widely used in Meat & Seafood.",
+    "definition_zh": "reveals（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently reveals key findings to verify results."
+    ]
+  },
+  {
+    "id": "fisher_noun",
+    "word": "fisher",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/fisher/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fisher-us.mp3",
+    "definition_en": "Denoting fisher; widely used in Meat & Seafood.",
+    "definition_zh": "fisher（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of fisher is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "fishes_noun",
+    "word": "fishes",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/fishes/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fishes-us.mp3",
+    "definition_en": "Denoting fishes; widely used in Meat & Seafood.",
+    "definition_zh": "fishes（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of fishes is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "fishermen_noun",
+    "word": "fishermen",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/fishermen/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fishermen-us.mp3",
+    "definition_en": "Denoting fishermen; widely used in Meat & Seafood.",
+    "definition_zh": "fishermen（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of fishermen is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "chickens_noun",
+    "word": "chickens",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/chickens/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chickens-us.mp3",
+    "definition_en": "Denoting chickens; widely used in Meat & Seafood.",
+    "definition_zh": "chickens（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of chickens is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "revealing_verb",
+    "word": "revealing",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/revealing/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/revealing-us.mp3",
+    "definition_en": "Denoting revealing; widely used in Meat & Seafood.",
+    "definition_zh": "revealing（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently revealing key findings to verify results."
+    ]
+  },
+  {
+    "id": "lambs_noun",
+    "word": "lambs",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/lambs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lambs-us.mp3",
+    "definition_en": "Denoting lambs; widely used in Meat & Seafood.",
+    "definition_zh": "lambs（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of lambs is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "meats_noun",
+    "word": "meats",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/meats/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meats-us.mp3",
+    "definition_en": "Denoting meats; widely used in Meat & Seafood.",
+    "definition_zh": "meats（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of meats is essential in 肉类、禽类与海鲜."
+    ]
+  },
+  {
+    "id": "ducks_noun",
+    "word": "ducks",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/ducks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ducks-us.mp3",
+    "definition_en": "Denoting ducks; widely used in Meat & Seafood.",
+    "definition_zh": "ducks（肉类、禽类与海鲜相关词汇）",
+    "examples": [
+      "Understanding the concept of ducks is essential in 肉类、禽类与海鲜."
+    ]
+  }
+]

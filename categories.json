@@ -1,0 +1,404 @@
+{
+  "version": "2.0.0",
+  "total_words": 14200,
+  "total_categories": 22,
+  "cdn_base_pattern": "https://cdn.jsdelivr.net/gh/{username}/{repo}@{branch}/data/{category_id}.json",
+  "categories": [
+    {
+      "id": "psychology",
+      "name_en": "Psychology",
+      "name_zh": "心理学与心智认知",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "🧠",
+      "slice_file": "data/psychology.json",
+      "word_count": 94,
+      "level_distribution": {
+        "A1": 4,
+        "A2": 14,
+        "B1": 23,
+        "B2": 34,
+        "C1": 16,
+        "C2": 3
+      }
+    },
+    {
+      "id": "politics",
+      "name_en": "Politics & Governance",
+      "name_zh": "政治学与公共治理",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "🏛️",
+      "slice_file": "data/politics.json",
+      "word_count": 106,
+      "level_distribution": {
+        "A1": 6,
+        "A2": 13,
+        "B1": 35,
+        "B2": 45,
+        "C1": 5,
+        "C2": 2
+      }
+    },
+    {
+      "id": "philosophy",
+      "name_en": "Philosophy & Ethics",
+      "name_zh": "哲学与伦理思辨",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "📜",
+      "slice_file": "data/philosophy.json",
+      "word_count": 77,
+      "level_distribution": {
+        "A1": 4,
+        "A2": 6,
+        "B1": 19,
+        "B2": 25,
+        "C1": 6,
+        "C2": 17
+      }
+    },
+    {
+      "id": "economics",
+      "name_en": "Economics & Finance",
+      "name_zh": "经济学与金融商贸",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "📈",
+      "slice_file": "data/economics.json",
+      "word_count": 152,
+      "level_distribution": {
+        "A1": 8,
+        "A2": 33,
+        "B1": 53,
+        "B2": 48,
+        "C1": 3,
+        "C2": 7
+      }
+    },
+    {
+      "id": "law_justice",
+      "name_en": "Law & Justice",
+      "name_zh": "法学与司法正义",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "⚖️",
+      "slice_file": "data/law_justice.json",
+      "word_count": 119,
+      "level_distribution": {
+        "A1": 3,
+        "A2": 18,
+        "B1": 36,
+        "B2": 50,
+        "C1": 7,
+        "C2": 5
+      }
+    },
+    {
+      "id": "human_organs",
+      "name_en": "Human Organs & Anatomy",
+      "name_zh": "人体器官与生理解剖",
+      "group": "human",
+      "group_name_zh": "人类与生理",
+      "icon": "🫀",
+      "slice_file": "data/human_organs.json",
+      "word_count": 224,
+      "level_distribution": {
+        "A1": 36,
+        "A2": 27,
+        "B1": 79,
+        "B2": 59,
+        "C1": 12,
+        "C2": 11
+      }
+    },
+    {
+      "id": "human_emotions",
+      "name_en": "Human Emotions",
+      "name_zh": "人类情感与心境",
+      "group": "human",
+      "group_name_zh": "人类与生理",
+      "icon": "🎭",
+      "slice_file": "data/human_emotions.json",
+      "word_count": 133,
+      "level_distribution": {
+        "A1": 14,
+        "A2": 34,
+        "B1": 43,
+        "B2": 28,
+        "C1": 4,
+        "C2": 10
+      }
+    },
+    {
+      "id": "personality_traits",
+      "name_en": "Personality & Character",
+      "name_zh": "性格品质与人格特质",
+      "group": "human",
+      "group_name_zh": "人类与生理",
+      "icon": "🌟",
+      "slice_file": "data/personality_traits.json",
+      "word_count": 95,
+      "level_distribution": {
+        "A1": 4,
+        "A2": 16,
+        "B1": 31,
+        "B2": 28,
+        "C1": 12,
+        "C2": 4
+      }
+    },
+    {
+      "id": "interpersonal_relations",
+      "name_en": "Interpersonal & Social",
+      "name_zh": "人际交往与家庭社交",
+      "group": "human",
+      "group_name_zh": "人类与生理",
+      "icon": "👥",
+      "slice_file": "data/interpersonal_relations.json",
+      "word_count": 183,
+      "level_distribution": {
+        "A1": 51,
+        "A2": 26,
+        "B1": 44,
+        "B2": 46,
+        "C1": 12,
+        "C2": 4
+      }
+    },
+    {
+      "id": "food_fruits",
+      "name_en": "Fruits & Berries",
+      "name_zh": "水果与浆果坚果",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🍎",
+      "slice_file": "data/food_fruits.json",
+      "word_count": 72,
+      "level_distribution": {
+        "A1": 11,
+        "A2": 21,
+        "B1": 12,
+        "B2": 19,
+        "C1": 5,
+        "C2": 4
+      }
+    },
+    {
+      "id": "food_vegetables",
+      "name_en": "Vegetables & Greens",
+      "name_zh": "蔬菜根茎与菌类",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🥦",
+      "slice_file": "data/food_vegetables.json",
+      "word_count": 58,
+      "level_distribution": {
+        "A1": 22,
+        "A2": 13,
+        "B1": 7,
+        "B2": 11,
+        "C1": 5,
+        "C2": 0
+      }
+    },
+    {
+      "id": "food_meat_seafood",
+      "name_en": "Meat & Seafood",
+      "name_zh": "肉类、禽类与海鲜",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🥩",
+      "slice_file": "data/food_meat_seafood.json",
+      "word_count": 55,
+      "level_distribution": {
+        "A1": 8,
+        "A2": 22,
+        "B1": 13,
+        "B2": 7,
+        "C1": 3,
+        "C2": 2
+      }
+    },
+    {
+      "id": "food_dining",
+      "name_en": "Menu & Culinary Arts",
+      "name_zh": "餐饮美食、菜单与烹饪",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🍽️",
+      "slice_file": "data/food_dining.json",
+      "word_count": 79,
+      "level_distribution": {
+        "A1": 26,
+        "A2": 16,
+        "B1": 15,
+        "B2": 10,
+        "C1": 5,
+        "C2": 7
+      }
+    },
+    {
+      "id": "food_beverages",
+      "name_en": "Drinks & Beverages",
+      "name_zh": "饮品、茶酒与水饮",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "☕",
+      "slice_file": "data/food_beverages.json",
+      "word_count": 104,
+      "level_distribution": {
+        "A1": 16,
+        "A2": 23,
+        "B1": 27,
+        "B2": 22,
+        "C1": 9,
+        "C2": 7
+      }
+    },
+    {
+      "id": "science_tech",
+      "name_en": "Science & Technology",
+      "name_zh": "计算机、AI与前沿科技",
+      "group": "tech_nature",
+      "group_name_zh": "科技与自然",
+      "icon": "💻",
+      "slice_file": "data/science_tech.json",
+      "word_count": 2676,
+      "level_distribution": {
+        "A1": 377,
+        "A2": 482,
+        "B1": 742,
+        "B2": 667,
+        "C1": 200,
+        "C2": 208
+      }
+    },
+    {
+      "id": "medicine_healthcare",
+      "name_en": "Medicine & Health",
+      "name_zh": "临床医学与医药健康",
+      "group": "tech_nature",
+      "group_name_zh": "科技与自然",
+      "icon": "🏥",
+      "slice_file": "data/medicine_healthcare.json",
+      "word_count": 177,
+      "level_distribution": {
+        "A1": 22,
+        "A2": 27,
+        "B1": 49,
+        "B2": 58,
+        "C1": 14,
+        "C2": 7
+      }
+    },
+    {
+      "id": "nature_environment",
+      "name_en": "Nature & Ecology",
+      "name_zh": "自然生态与地理环境",
+      "group": "tech_nature",
+      "group_name_zh": "科技与自然",
+      "icon": "🌿",
+      "slice_file": "data/nature_environment.json",
+      "word_count": 119,
+      "level_distribution": {
+        "A1": 30,
+        "A2": 25,
+        "B1": 27,
+        "B2": 28,
+        "C1": 7,
+        "C2": 2
+      }
+    },
+    {
+      "id": "travel_transport",
+      "name_en": "Travel & Transportation",
+      "name_zh": "旅行出行与城市交通",
+      "group": "society_daily",
+      "group_name_zh": "生活与社会",
+      "icon": "✈️",
+      "slice_file": "data/travel_transport.json",
+      "word_count": 136,
+      "level_distribution": {
+        "A1": 39,
+        "A2": 24,
+        "B1": 23,
+        "B2": 31,
+        "C1": 10,
+        "C2": 9
+      }
+    },
+    {
+      "id": "work_career",
+      "name_en": "Work & Business",
+      "name_zh": "职场发展与商业管理",
+      "group": "society_daily",
+      "group_name_zh": "生活与社会",
+      "icon": "💼",
+      "slice_file": "data/work_career.json",
+      "word_count": 2316,
+      "level_distribution": {
+        "A1": 334,
+        "A2": 382,
+        "B1": 607,
+        "B2": 610,
+        "C1": 177,
+        "C2": 206
+      }
+    },
+    {
+      "id": "arts_literature",
+      "name_en": "Arts & Literature",
+      "name_zh": "文学创作与文娱艺术",
+      "group": "society_daily",
+      "group_name_zh": "生活与社会",
+      "icon": "🎨",
+      "slice_file": "data/arts_literature.json",
+      "word_count": 2449,
+      "level_distribution": {
+        "A1": 373,
+        "A2": 426,
+        "B1": 623,
+        "B2": 618,
+        "C1": 190,
+        "C2": 219
+      }
+    },
+    {
+      "id": "education_learning",
+      "name_en": "Education & Academia",
+      "name_zh": "学术教育与学习研究",
+      "group": "society_daily",
+      "group_name_zh": "生活与社会",
+      "icon": "🎓",
+      "slice_file": "data/education_learning.json",
+      "word_count": 2298,
+      "level_distribution": {
+        "A1": 314,
+        "A2": 389,
+        "B1": 625,
+        "B2": 630,
+        "C1": 162,
+        "C2": 178
+      }
+    },
+    {
+      "id": "daily_lifestyle",
+      "name_en": "Daily Lifestyle & Home",
+      "name_zh": "日常生活与家居事物",
+      "group": "society_daily",
+      "group_name_zh": "生活与社会",
+      "icon": "🏠",
+      "slice_file": "data/daily_lifestyle.json",
+      "word_count": 2478,
+      "level_distribution": {
+        "A1": 426,
+        "A2": 398,
+        "B1": 683,
+        "B2": 602,
+        "C1": 181,
+        "C2": 188
+      }
+    }
+  ]
+}

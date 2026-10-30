@@ -1,0 +1,820 @@
+[
+  {
+    "id": "bean_noun",
+    "word": "bean",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/bean/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bean-us.mp3",
+    "definition_en": "Denoting bean; widely used in Vegetables & Greens.",
+    "definition_zh": "bean（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of bean is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "broccoli_noun",
+    "word": "broccoli",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "Vegetables (蔬菜与根茎)",
+    "phonetic": "/ˈbrɑː.kəl.i/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/broccoli-us.mp3",
+    "definition_en": "A cultivated variety of cabbage bearing heads of green or purplish flower buds.",
+    "definition_zh": "西兰花，花椰菜",
+    "examples": [
+      "Steamed broccoli preserves vital micronutrients and retains a vibrant green hue.",
+      "Toss roasted broccoli with minced garlic and grated parmesan."
+    ]
+  },
+  {
+    "id": "cabbage_noun",
+    "word": "cabbage",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "Vegetables (蔬菜与根茎)",
+    "phonetic": "/ˈkæb.ɪdʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cabbage-us.mp3",
+    "definition_en": "A cultivated plant with a round head of dense green or reddish leaves.",
+    "definition_zh": "卷心菜，圆白菜",
+    "examples": [
+      "Shredded red cabbage adds vibrant crunch to winter salads."
+    ]
+  },
+  {
+    "id": "carrot_noun",
+    "word": "carrot",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "Vegetables (蔬菜与根茎)",
+    "phonetic": "/ˈker.ət/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carrot-us.mp3",
+    "definition_en": "A tapering orange-colored root eaten as a vegetable.",
+    "definition_zh": "胡萝卜",
+    "examples": [
+      "Carrots contain high concentrations of beta-carotene beneficial for eye health.",
+      "Grate raw carrots finely for an aromatic spiced cake."
+    ]
+  },
+  {
+    "id": "corn_noun",
+    "word": "corn",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/corn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corn-us.mp3",
+    "definition_en": "Denoting corn; widely used in Vegetables & Greens.",
+    "definition_zh": "corn（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of corn is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "corner_noun",
+    "word": "corner",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/corner/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corner-us.mp3",
+    "definition_en": "Denoting corner; widely used in Vegetables & Greens.",
+    "definition_zh": "corner（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of corner is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "cornerstone_noun",
+    "word": "cornerstone",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/cornerstone/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cornerstone-us.mp3",
+    "definition_en": "Denoting cornerstone; widely used in Vegetables & Greens.",
+    "definition_zh": "cornerstone（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of cornerstone is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "cornet_noun",
+    "word": "cornet",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/cornet/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cornet-us.mp3",
+    "definition_en": "Denoting cornet; widely used in Vegetables & Greens.",
+    "definition_zh": "cornet（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of cornet is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "cucumber_noun",
+    "word": "cucumber",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "Vegetables (蔬菜与根茎)",
+    "phonetic": "/ˈkjuː.kʌm.bɚ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cucumber-us.mp3",
+    "definition_en": "A long, green-skinned fruit with watery flesh, usually eaten raw in salads.",
+    "definition_zh": "黄瓜",
+    "examples": [
+      "Chilled cucumber slices soothe puffy eyes after long flights."
+    ]
+  },
+  {
+    "id": "garlic_noun",
+    "word": "garlic",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/garlic/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/garlic-us.mp3",
+    "definition_en": "Denoting garlic; widely used in Vegetables & Greens.",
+    "definition_zh": "garlic（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of garlic is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "ginger_noun",
+    "word": "ginger",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/ginger/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ginger-us.mp3",
+    "definition_en": "Denoting ginger; widely used in Vegetables & Greens.",
+    "definition_zh": "ginger（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of ginger is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "herb_noun",
+    "word": "herb",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/herb/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/herb-us.mp3",
+    "definition_en": "Denoting herb; widely used in Vegetables & Greens.",
+    "definition_zh": "herb（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of herb is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "leek_noun",
+    "word": "leek",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/leek/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leek-us.mp3",
+    "definition_en": "Denoting leek; widely used in Vegetables & Greens.",
+    "definition_zh": "leek（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of leek is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "lettuce_noun",
+    "word": "lettuce",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/lettuce/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lettuce-us.mp3",
+    "definition_en": "Denoting lettuce; widely used in Vegetables & Greens.",
+    "definition_zh": "lettuce（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of lettuce is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "loudspeaker_noun",
+    "word": "loudspeaker",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/loudspeaker/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loudspeaker-us.mp3",
+    "definition_en": "Denoting loudspeaker; widely used in Vegetables & Greens.",
+    "definition_zh": "loudspeaker（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of loudspeaker is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "mushroom_noun",
+    "word": "mushroom",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/mushroom/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mushroom-us.mp3",
+    "definition_en": "Denoting mushroom; widely used in Vegetables & Greens.",
+    "definition_zh": "mushroom（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of mushroom is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "onion_noun",
+    "word": "onion",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "Vegetables (蔬菜与根茎)",
+    "phonetic": "/ˈʌn.jən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/onion-us.mp3",
+    "definition_en": "A swollen edible bulb with a pungent taste and smell, composed of several concentric layers.",
+    "definition_zh": "洋葱，葱头",
+    "examples": [
+      "Sauté diced onions slowly in olive oil until golden and caramelized.",
+      "Chopping raw onions releases sulfurous vapors that cause tearing."
+    ]
+  },
+  {
+    "id": "pea_noun",
+    "word": "pea",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/pea/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pea-us.mp3",
+    "definition_en": "Denoting pea; widely used in Vegetables & Greens.",
+    "definition_zh": "pea（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of pea is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "peace_noun",
+    "word": "peace",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/peace/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peace-us.mp3",
+    "definition_en": "Denoting peace; widely used in Vegetables & Greens.",
+    "definition_zh": "peace（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of peace is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "peaceful_adjective",
+    "word": "peaceful",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/peaceful/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peaceful-us.mp3",
+    "definition_en": "Denoting peaceful; widely used in Vegetables & Greens.",
+    "definition_zh": "peaceful（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "The committee analyzed a highly peaceful perspective during the forum."
+    ]
+  },
+  {
+    "id": "peacefully_adverb",
+    "word": "peacefully",
+    "part_of_speech": "adverb",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/peacefully/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peacefully-us.mp3",
+    "definition_en": "Denoting peacefully; widely used in Vegetables & Greens.",
+    "definition_zh": "peacefully（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Researchers systematically observed peacefully relevant patterns across trials."
+    ]
+  },
+  {
+    "id": "peak_noun",
+    "word": "peak",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/peak/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peak-us.mp3",
+    "definition_en": "Denoting peak; widely used in Vegetables & Greens.",
+    "definition_zh": "peak（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of peak is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "pepper_noun",
+    "word": "pepper",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/pepper/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pepper-us.mp3",
+    "definition_en": "Denoting pepper; widely used in Vegetables & Greens.",
+    "definition_zh": "pepper（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of pepper is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "popcorn_noun",
+    "word": "popcorn",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/popcorn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/popcorn-us.mp3",
+    "definition_en": "Denoting popcorn; widely used in Vegetables & Greens.",
+    "definition_zh": "popcorn（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of popcorn is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "potato_noun",
+    "word": "potato",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "Vegetables (蔬菜与根茎)",
+    "phonetic": "/pəˈteɪ.t̬oʊ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/potato-us.mp3",
+    "definition_en": "A starchy plant tuber that is one of the most important food crops worldwide.",
+    "definition_zh": "马铃薯，土豆",
+    "examples": [
+      "Mashed potatoes seasoned with butter and chives accompany the steak.",
+      "Boil the potatoes until tender to make potato salad."
+    ]
+  },
+  {
+    "id": "pumpkin_noun",
+    "word": "pumpkin",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/pumpkin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pumpkin-us.mp3",
+    "definition_en": "Denoting pumpkin; widely used in Vegetables & Greens.",
+    "definition_zh": "pumpkin（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of pumpkin is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "repeat_verb",
+    "word": "repeat",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/repeat/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repeat-us.mp3",
+    "definition_en": "Denoting repeat; widely used in Vegetables & Greens.",
+    "definition_zh": "repeat（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently repeat key findings to verify results."
+    ]
+  },
+  {
+    "id": "repeatedly_adverb",
+    "word": "repeatedly",
+    "part_of_speech": "adverb",
+    "level": "B1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/repeatedly/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repeatedly-us.mp3",
+    "definition_en": "Denoting repeatedly; widely used in Vegetables & Greens.",
+    "definition_zh": "repeatedly（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Researchers systematically observed repeatedly relevant patterns across trials."
+    ]
+  },
+  {
+    "id": "soybean_noun",
+    "word": "soybean",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/soybean/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soybean-us.mp3",
+    "definition_en": "Denoting soybean; widely used in Vegetables & Greens.",
+    "definition_zh": "soybean（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of soybean is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "speak_verb",
+    "word": "speak",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/speak/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speak-us.mp3",
+    "definition_en": "Denoting speak; widely used in Vegetables & Greens.",
+    "definition_zh": "speak（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently speak key findings to verify results."
+    ]
+  },
+  {
+    "id": "speaker_noun",
+    "word": "speaker",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/speaker/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speaker-us.mp3",
+    "definition_en": "Denoting speaker; widely used in Vegetables & Greens.",
+    "definition_zh": "speaker（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of speaker is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "spinach_noun",
+    "word": "spinach",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "Vegetables (蔬菜与根茎)",
+    "phonetic": "/ˈspɪn.ɪtʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spinach-us.mp3",
+    "definition_en": "An edible flowering plant in the family Amaranthaceae with dark green succulent leaves.",
+    "definition_zh": "菠菜",
+    "examples": [
+      "Fresh baby spinach wilts within seconds when tossed into hot soup.",
+      "Spinach is renowned for iron and folate content."
+    ]
+  },
+  {
+    "id": "tomato_noun",
+    "word": "tomato",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "Vegetables (蔬菜与根茎)",
+    "phonetic": "/təˈmeɪ.t̬oʊ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomato-us.mp3",
+    "definition_en": "A glossy red, or occasionally yellow, pulpy edible fruit eaten as a vegetable or in salad.",
+    "definition_zh": "番茄，西红柿",
+    "examples": [
+      "Sun-ripened tomatoes possess sweet acidity ideal for pasta sauce.",
+      "Slice heirloom tomatoes with fresh mozzarella and basil."
+    ]
+  },
+  {
+    "id": "vegetable_noun",
+    "word": "vegetable",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/vegetable/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetable-us.mp3",
+    "definition_en": "Denoting vegetable; widely used in Vegetables & Greens.",
+    "definition_zh": "vegetable（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of vegetable is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "peacock_noun",
+    "word": "peacock",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/peacock/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peacock-us.mp3",
+    "definition_en": "Denoting peacock; widely used in Vegetables & Greens.",
+    "definition_zh": "peacock（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of peacock is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "peasant_noun",
+    "word": "peasant",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/peasant/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peasant-us.mp3",
+    "definition_en": "Denoting peasant; widely used in Vegetables & Greens.",
+    "definition_zh": "peasant（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of peasant is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "scorn_noun",
+    "word": "scorn",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/scorn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scorn-us.mp3",
+    "definition_en": "Denoting scorn; widely used in Vegetables & Greens.",
+    "definition_zh": "scorn（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of scorn is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "scornful_adjective",
+    "word": "scornful",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/scornful/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scornful-us.mp3",
+    "definition_en": "Denoting scornful; widely used in Vegetables & Greens.",
+    "definition_zh": "scornful（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "The committee analyzed a highly scornful perspective during the forum."
+    ]
+  },
+  {
+    "id": "scornfully_adverb",
+    "word": "scornfully",
+    "part_of_speech": "adverb",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/scornfully/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scornfully-us.mp3",
+    "definition_en": "Denoting scornfully; widely used in Vegetables & Greens.",
+    "definition_zh": "scornfully（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Researchers systematically observed scornfully relevant patterns across trials."
+    ]
+  },
+  {
+    "id": "speaking_verb",
+    "word": "speaking",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/speaking/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speaking-us.mp3",
+    "definition_en": "Denoting speaking; widely used in Vegetables & Greens.",
+    "definition_zh": "speaking（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently speaking key findings to verify results."
+    ]
+  },
+  {
+    "id": "repeated_verb",
+    "word": "repeated",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/repeated/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repeated-us.mp3",
+    "definition_en": "Denoting repeated; widely used in Vegetables & Greens.",
+    "definition_zh": "repeated（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently repeated key findings to verify results."
+    ]
+  },
+  {
+    "id": "vegetables_noun",
+    "word": "vegetables",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/vegetables/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetables-us.mp3",
+    "definition_en": "Denoting vegetables; widely used in Vegetables & Greens.",
+    "definition_zh": "vegetables（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of vegetables is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "speaks_verb",
+    "word": "speaks",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/speaks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speaks-us.mp3",
+    "definition_en": "Denoting speaks; widely used in Vegetables & Greens.",
+    "definition_zh": "speaks（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently speaks key findings to verify results."
+    ]
+  },
+  {
+    "id": "potatoes_noun",
+    "word": "potatoes",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/potatoes/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/potatoes-us.mp3",
+    "definition_en": "Denoting potatoes; widely used in Vegetables & Greens.",
+    "definition_zh": "potatoes（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of potatoes is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "speakers_noun",
+    "word": "speakers",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/speakers/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speakers-us.mp3",
+    "definition_en": "Denoting speakers; widely used in Vegetables & Greens.",
+    "definition_zh": "speakers（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of speakers is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "beans_noun",
+    "word": "beans",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/beans/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beans-us.mp3",
+    "definition_en": "Denoting beans; widely used in Vegetables & Greens.",
+    "definition_zh": "beans（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of beans is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "corners_noun",
+    "word": "corners",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/corners/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corners-us.mp3",
+    "definition_en": "Denoting corners; widely used in Vegetables & Greens.",
+    "definition_zh": "corners（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of corners is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "peaks_noun",
+    "word": "peaks",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/peaks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peaks-us.mp3",
+    "definition_en": "Denoting peaks; widely used in Vegetables & Greens.",
+    "definition_zh": "peaks（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of peaks is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "speaking_adjective",
+    "word": "speaking",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/speaking/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speaking-us.mp3",
+    "definition_en": "Denoting speaking; widely used in Vegetables & Greens.",
+    "definition_zh": "speaking（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "The committee analyzed a highly speaking perspective during the forum."
+    ]
+  },
+  {
+    "id": "repeat_noun",
+    "word": "repeat",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/repeat/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repeat-us.mp3",
+    "definition_en": "Denoting repeat; widely used in Vegetables & Greens.",
+    "definition_zh": "repeat（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of repeat is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "speaking_noun",
+    "word": "speaking",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/speaking/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speaking-us.mp3",
+    "definition_en": "Denoting speaking; widely used in Vegetables & Greens.",
+    "definition_zh": "speaking（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of speaking is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "tomatoes_noun",
+    "word": "tomatoes",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/tomatoes/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomatoes-us.mp3",
+    "definition_en": "Denoting tomatoes; widely used in Vegetables & Greens.",
+    "definition_zh": "tomatoes（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of tomatoes is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "peas_noun",
+    "word": "peas",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/peas/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peas-us.mp3",
+    "definition_en": "Denoting peas; widely used in Vegetables & Greens.",
+    "definition_zh": "peas（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of peas is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "repeating_verb",
+    "word": "repeating",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/repeating/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repeating-us.mp3",
+    "definition_en": "Denoting repeating; widely used in Vegetables & Greens.",
+    "definition_zh": "repeating（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Scholars and practitioners frequently repeating key findings to verify results."
+    ]
+  },
+  {
+    "id": "herbs_noun",
+    "word": "herbs",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/herbs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/herbs-us.mp3",
+    "definition_en": "Denoting herbs; widely used in Vegetables & Greens.",
+    "definition_zh": "herbs（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of herbs is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "peak_adjective",
+    "word": "peak",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/peak/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peak-us.mp3",
+    "definition_en": "Denoting peak; widely used in Vegetables & Greens.",
+    "definition_zh": "peak（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "The committee analyzed a highly peak perspective during the forum."
+    ]
+  },
+  {
+    "id": "onions_noun",
+    "word": "onions",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/onions/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/onions-us.mp3",
+    "definition_en": "Denoting onions; widely used in Vegetables & Greens.",
+    "definition_zh": "onions（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of onions is essential in 蔬菜根茎与菌类."
+    ]
+  },
+  {
+    "id": "beet_noun",
+    "word": "beet",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/beet/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beet-us.mp3",
+    "definition_en": "Denoting beet; widely used in Vegetables & Greens.",
+    "definition_zh": "beet（蔬菜根茎与菌类相关词汇）",
+    "examples": [
+      "Understanding the concept of beet is essential in 蔬菜根茎与菌类."
+    ]
+  }
+]
