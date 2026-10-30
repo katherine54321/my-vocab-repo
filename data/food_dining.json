@@ -5,7 +5,7 @@
     "part_of_speech": "verb",
     "level": "B1",
     "topic": "Food & Dining",
-    "phonetic": "/beɪk/",
+    "phonetic": "/beik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bake-us.mp3",
     "definition_en": "To cook food using dry heat in an enclosed oven.",
     "definition_zh": "烘烤，烘焙",
@@ -20,12 +20,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/baker/",
+    "phonetic": "/'beikә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/baker-us.mp3",
-    "definition_en": "Denoting baker; widely used in Menu & Culinary Arts.",
-    "definition_zh": "baker（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Someone who bakes commercially",
+    "definition_zh": "n. 面包师",
     "examples": [
-      "Understanding the concept of baker is essential in 餐饮美食、菜单与烹饪."
+      "Fresh baker can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -34,12 +34,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/bakery/",
+    "phonetic": "/'beikәri/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bakery-us.mp3",
-    "definition_en": "Denoting bakery; widely used in Menu & Culinary Arts.",
-    "definition_zh": "bakery（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A workplace where baked goods (breads and cakes and pastries) are produced or sold",
+    "definition_zh": "n. 面包店",
     "examples": [
-      "Understanding the concept of bakery is essential in 餐饮美食、菜单与烹饪."
+      "Fresh bakery can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -48,12 +48,12 @@
     "part_of_speech": "verb",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/boil/",
+    "phonetic": "/bɒil/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boil-us.mp3",
-    "definition_en": "Denoting boil; widely used in Menu & Culinary Arts.",
-    "definition_zh": "boil（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Come to the boiling point and change from a liquid to vapor",
+    "definition_zh": "v. 煮沸, 激动",
     "examples": [
-      "Scholars and practitioners frequently boil key findings to verify results."
+      "Make sure to boil the ingredients thoroughly before serving."
     ]
   },
   {
@@ -62,10 +62,10 @@
     "part_of_speech": "adjective",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/boiled/",
+    "phonetic": "/bɔild/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boiled-us.mp3",
-    "definition_en": "Denoting boiled; widely used in Menu & Culinary Arts.",
-    "definition_zh": "boiled（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Cooked in hot water",
+    "definition_zh": "a. 煮沸的, (非正式)喝醉的, 烧滚的",
     "examples": [
       "The committee analyzed a highly boiled perspective during the forum."
     ]
@@ -76,10 +76,10 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/boiling/",
+    "phonetic": "/'bɒiliŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boiling-us.mp3",
-    "definition_en": "Denoting boiling; widely used in Menu & Culinary Arts.",
-    "definition_zh": "boiling（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "The application of heat to change something from a liquid to a gas",
+    "definition_zh": "a. 沸腾的, 激昂的",
     "examples": [
       "The committee analyzed a highly boiling perspective during the forum."
     ]
@@ -104,12 +104,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/breakfast/",
+    "phonetic": "/'brekfәst/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/breakfast-us.mp3",
-    "definition_en": "Denoting breakfast; widely used in Menu & Culinary Arts.",
-    "definition_zh": "breakfast（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "The first meal of the day (usually in the morning)",
+    "definition_zh": "n. 早餐",
     "examples": [
-      "Understanding the concept of breakfast is essential in 餐饮美食、菜单与烹饪."
+      "Fresh breakfast can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -118,12 +118,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/butter/",
+    "phonetic": "/'bʌtә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/butter-us.mp3",
-    "definition_en": "Denoting butter; widely used in Menu & Culinary Arts.",
-    "definition_zh": "butter（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "An edible emulsion of fat globules made by churning milk or cream; for cooking and table use",
+    "definition_zh": "n. 奶油, 黄油",
     "examples": [
-      "Understanding the concept of butter is essential in 餐饮美食、菜单与烹饪."
+      "Fresh butter can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -132,12 +132,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/butterfly/",
+    "phonetic": "/'bʌtәflai/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/butterfly-us.mp3",
-    "definition_en": "Denoting butterfly; widely used in Menu & Culinary Arts.",
-    "definition_zh": "butterfly（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Diurnal insect typically having a slender body with knobbed antennae and broad colorful wings",
+    "definition_zh": "n. 蝴蝶",
     "examples": [
-      "Understanding the concept of butterfly is essential in 餐饮美食、菜单与烹饪."
+      "Fresh butterfly can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -146,12 +146,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/cake/",
+    "phonetic": "/keik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cake-us.mp3",
-    "definition_en": "Denoting cake; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cake（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A block of solid substance (such as soap or wax)",
+    "definition_zh": "n. 蛋糕, 块, 饼",
     "examples": [
-      "Understanding the concept of cake is essential in 餐饮美食、菜单与烹饪."
+      "Fresh cake can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/cheese/",
+    "phonetic": "/tʃi:z/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cheese-us.mp3",
-    "definition_en": "Denoting cheese; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cheese（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A solid food prepared from the pressed curd of milk",
+    "definition_zh": "n. 乳酪",
     "examples": [
-      "Understanding the concept of cheese is essential in 餐饮美食、菜单与烹饪."
+      "Fresh cheese can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -174,12 +174,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/chef/",
+    "phonetic": "/ʃef/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chef-us.mp3",
-    "definition_en": "Denoting chef; widely used in Menu & Culinary Arts.",
-    "definition_zh": "chef（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A professional cook",
+    "definition_zh": "n. 厨师",
     "examples": [
-      "Understanding the concept of chef is essential in 餐饮美食、菜单与烹饪."
+      "The chef provided valuable guidance and expertise to the entire team."
     ]
   },
   {
@@ -188,12 +188,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/cook/",
+    "phonetic": "/kuk/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cook-us.mp3",
-    "definition_en": "Denoting cook; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cook（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Someone who cooks food",
+    "definition_zh": "n. 厨子, 厨师",
     "examples": [
-      "Understanding the concept of cook is essential in 餐饮美食、菜单与烹饪."
+      "Fresh cook can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -202,12 +202,12 @@
     "part_of_speech": "verb",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/cook/",
+    "phonetic": "/kuk/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cook-us.mp3",
-    "definition_en": "Denoting cook; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cook（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Prepare a hot meal",
+    "definition_zh": "vt. 烹调, 煮饭, 加热",
     "examples": [
-      "Scholars and practitioners frequently cook key findings to verify results."
+      "Make sure to cook the ingredients thoroughly before serving."
     ]
   },
   {
@@ -216,12 +216,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/cooker/",
+    "phonetic": "/'kukә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cooker-us.mp3",
-    "definition_en": "Denoting cooker; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cooker（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A utensil for cooking",
+    "definition_zh": "n. 炊事用具, 炉灶, 锅, 炊具, 烹饪用水果, 窜改者, 伪造者",
     "examples": [
-      "Understanding the concept of cooker is essential in 餐饮美食、菜单与烹饪."
+      "The cooker provided valuable guidance and expertise to the entire team."
     ]
   },
   {
@@ -230,12 +230,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/cookie/",
+    "phonetic": "/'kuki/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cookie-us.mp3",
-    "definition_en": "Denoting cookie; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cookie（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Any of various small flat sweet cakes (`biscuit' is the British term)",
+    "definition_zh": "n. 饼干, 小甜点",
     "examples": [
-      "Understanding the concept of cookie is essential in 餐饮美食、菜单与烹饪."
+      "Fresh cookie can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -244,12 +244,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/cooking/",
+    "phonetic": "/'kukiŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cooking-us.mp3",
-    "definition_en": "Denoting cooking; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cooking（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "The act of preparing something (as food) by the application of heat",
+    "definition_zh": "n. 烹饪",
     "examples": [
-      "Understanding the concept of cooking is essential in 餐饮美食、菜单与烹饪."
+      "Fresh ingredients and skilled cooking are essential for exceptional dining."
     ]
   },
   {
@@ -258,7 +258,7 @@
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "Menu & Cooking (菜单与料理)",
-    "phonetic": "/ˈdel.ə.kə.si/",
+    "phonetic": "/'delikәsi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delicacy-us.mp3",
     "definition_en": "Something considered choice to eat, typically being rare, expensive, or culturally prized.",
     "definition_zh": "佳肴，美味，珍馐",
@@ -273,7 +273,7 @@
     "part_of_speech": "adjective",
     "level": "A2",
     "topic": "Food & Dining",
-    "phonetic": "/dɪˈlɪʃ.əs/",
+    "phonetic": "/di'liʃәs/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delicious-us.mp3",
     "definition_en": "Affording great pleasure to the sense of taste or smell.",
     "definition_zh": "美味的，可口的",
@@ -288,7 +288,7 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "Menu & Cooking (菜单与料理)",
-    "phonetic": "/dɪˈzɝːt/",
+    "phonetic": "/di'zә:t/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dessert-us.mp3",
     "definition_en": "The sweet course eaten at the end of a meal.",
     "definition_zh": "甜点，饭后甜食",
@@ -303,12 +303,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/dinner/",
+    "phonetic": "/'dinә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dinner-us.mp3",
-    "definition_en": "Denoting dinner; widely used in Menu & Culinary Arts.",
-    "definition_zh": "dinner（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "The main meal of the day served in the evening or at midday",
+    "definition_zh": "n. 晚餐, 正餐, 宴会",
     "examples": [
-      "Understanding the concept of dinner is essential in 餐饮美食、菜单与烹饪."
+      "Fresh dinner can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -317,12 +317,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/dish/",
+    "phonetic": "/diʃ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dish-us.mp3",
-    "definition_en": "Denoting dish; widely used in Menu & Culinary Arts.",
-    "definition_zh": "dish（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A piece of dishware normally used as a container for holding or serving food",
+    "definition_zh": "n. 盘子, 碟, 菜肴",
     "examples": [
-      "Understanding the concept of dish is essential in 餐饮美食、菜单与烹饪."
+      "Fresh dish can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -331,12 +331,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/dishwasher/",
+    "phonetic": "/'diʃwɒʃә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dishwasher-us.mp3",
-    "definition_en": "Denoting dishwasher; widely used in Menu & Culinary Arts.",
-    "definition_zh": "dishwasher（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A machine for washing dishes",
+    "definition_zh": "n. 洗碗机, 洗碗工",
     "examples": [
-      "Understanding the concept of dishwasher is essential in 餐饮美食、菜单与烹饪."
+      "Fresh dishwasher can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -345,12 +345,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/flavor/",
+    "phonetic": "/'fleivә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flavor-us.mp3",
-    "definition_en": "Denoting flavor; widely used in Menu & Culinary Arts.",
-    "definition_zh": "flavor（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "(physics) the six kinds of quarks",
+    "definition_zh": "n. 滋味, 调味品",
     "examples": [
-      "Understanding the concept of flavor is essential in 餐饮美食、菜单与烹饪."
+      "Fresh flavor can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -359,12 +359,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/fry/",
+    "phonetic": "/frai/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fry-us.mp3",
-    "definition_en": "Denoting fry; widely used in Menu & Culinary Arts.",
-    "definition_zh": "fry（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "English painter and art critic (1866-1934)",
+    "definition_zh": "n. 油炸食物, 鱼苗",
     "examples": [
-      "Understanding the concept of fry is essential in 餐饮美食、菜单与烹饪."
+      "Fresh fry can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -373,12 +373,12 @@
     "part_of_speech": "verb",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/fry/",
+    "phonetic": "/frai/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fry-us.mp3",
-    "definition_en": "Denoting fry; widely used in Menu & Culinary Arts.",
-    "definition_zh": "fry（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Be excessively hot",
+    "definition_zh": "v. 油炸, 煎",
     "examples": [
-      "Scholars and practitioners frequently fry key findings to verify results."
+      "Make sure to fry the ingredients thoroughly before serving."
     ]
   },
   {
@@ -387,12 +387,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/hospice/",
+    "phonetic": "/'hɒspis/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospice-us.mp3",
-    "definition_en": "Denoting hospice; widely used in Menu & Culinary Arts.",
-    "definition_zh": "hospice（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A lodging for travelers (especially one kept by a monastic order)",
+    "definition_zh": "n. 旅客住宿处, 收容所",
     "examples": [
-      "Understanding the concept of hospice is essential in 餐饮美食、菜单与烹饪."
+      "Fresh hospice can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -401,12 +401,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/lunch/",
+    "phonetic": "/lʌntʃ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lunch-us.mp3",
-    "definition_en": "Denoting lunch; widely used in Menu & Culinary Arts.",
-    "definition_zh": "lunch（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A midday meal",
+    "definition_zh": "n. 午餐",
     "examples": [
-      "Understanding the concept of lunch is essential in 餐饮美食、菜单与烹饪."
+      "Fresh lunch can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -415,12 +415,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/lunchtime/",
+    "phonetic": "/'lʌntʃtaim/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lunchtime-us.mp3",
-    "definition_en": "Denoting lunchtime; widely used in Menu & Culinary Arts.",
-    "definition_zh": "lunchtime（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "The customary or habitual hour for eating lunch",
+    "definition_zh": "n. 午餐时间",
     "examples": [
-      "Understanding the concept of lunchtime is essential in 餐饮美食、菜单与烹饪."
+      "Fresh lunchtime can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -429,12 +429,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/masterpiece/",
+    "phonetic": "/'mɑ:stәpi:s/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/masterpiece-us.mp3",
-    "definition_en": "Denoting masterpiece; widely used in Menu & Culinary Arts.",
-    "definition_zh": "masterpiece（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "The most outstanding work of a creative artist or craftsman",
+    "definition_zh": "n. 杰作, 名著",
     "examples": [
-      "Understanding the concept of masterpiece is essential in 餐饮美食、菜单与烹饪."
+      "Fresh masterpiece can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -443,12 +443,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/meal/",
+    "phonetic": "/mi:l/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meal-us.mp3",
-    "definition_en": "Denoting meal; widely used in Menu & Culinary Arts.",
-    "definition_zh": "meal（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "The food served and eaten at one time",
+    "definition_zh": "n. 一餐, 膳食, 粗粉",
     "examples": [
-      "Understanding the concept of meal is essential in 餐饮美食、菜单与烹饪."
+      "Fresh meal can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -457,12 +457,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/menu/",
+    "phonetic": "/'menju:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/menu-us.mp3",
-    "definition_en": "Denoting menu; widely used in Menu & Culinary Arts.",
-    "definition_zh": "menu（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A list of dishes available at a restaurant",
+    "definition_zh": "n. 菜单, (功能)选择单",
     "examples": [
-      "Understanding the concept of menu is essential in 餐饮美食、菜单与烹饪."
+      "Fresh menu can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -471,12 +471,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/pancake/",
+    "phonetic": "/'pænkeik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pancake-us.mp3",
-    "definition_en": "Denoting pancake; widely used in Menu & Culinary Arts.",
-    "definition_zh": "pancake（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A flat cake of thin batter fried on both sides on a griddle",
+    "definition_zh": "n. 薄烤饼, 薄煎饼, 烙饼",
     "examples": [
-      "Understanding the concept of pancake is essential in 餐饮美食、菜单与烹饪."
+      "Fresh pancake can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -485,7 +485,7 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "Menu & Cooking (菜单与料理)",
-    "phonetic": "/ˈpɑː.stə/",
+    "phonetic": "/'pæstә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pasta-us.mp3",
     "definition_en": "A dish originally from Italy consisting of dough made from durum wheat and water, cooked in boiling water.",
     "definition_zh": "意面，意大利面食",
@@ -499,12 +499,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/pie/",
+    "phonetic": "/pai/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pie-us.mp3",
-    "definition_en": "Denoting pie; widely used in Menu & Culinary Arts.",
-    "definition_zh": "pie（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Dish baked in pastry-lined pan often with a pastry top",
+    "definition_zh": "n. 馅饼, 财富, 总额, 贪污受贿, 杂乱, 喜鹊",
     "examples": [
-      "Understanding the concept of pie is essential in 餐饮美食、菜单与烹饪."
+      "Fresh pie can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -513,12 +513,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/piece/",
+    "phonetic": "/pi:s/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/piece-us.mp3",
-    "definition_en": "Denoting piece; widely used in Menu & Culinary Arts.",
-    "definition_zh": "piece（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A separate part of a whole",
+    "definition_zh": "n. 块, 片, 篇, 碎片, 部分, 部件, 标准量",
     "examples": [
-      "Understanding the concept of piece is essential in 餐饮美食、菜单与烹饪."
+      "Fresh piece can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -527,12 +527,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/piety/",
+    "phonetic": "/'paiәti/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/piety-us.mp3",
-    "definition_en": "Denoting piety; widely used in Menu & Culinary Arts.",
-    "definition_zh": "piety（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Righteousness by virtue of being pious",
+    "definition_zh": "n. 虔诚, 孝敬, 虔诚的行为",
     "examples": [
-      "Understanding the concept of piety is essential in 餐饮美食、菜单与烹饪."
+      "Fresh piety can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -541,12 +541,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/recipe/",
+    "phonetic": "/'resipi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recipe-us.mp3",
-    "definition_en": "Denoting recipe; widely used in Menu & Culinary Arts.",
-    "definition_zh": "recipe（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Directions for making something",
+    "definition_zh": "n. 食谱, 处方, 秘诀",
     "examples": [
-      "Understanding the concept of recipe is essential in 餐饮美食、菜单与烹饪."
+      "Fresh recipe can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -555,12 +555,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/restaurant/",
+    "phonetic": "/'restәrɒŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/restaurant-us.mp3",
-    "definition_en": "Denoting restaurant; widely used in Menu & Culinary Arts.",
-    "definition_zh": "restaurant（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A building where people go to eat",
+    "definition_zh": "n. 餐馆, 饭店",
     "examples": [
-      "Understanding the concept of restaurant is essential in 餐饮美食、菜单与烹饪."
+      "Fresh restaurant can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -569,7 +569,7 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "Menu & Cooking (菜单与料理)",
-    "phonetic": "/ˈsæl.əd/",
+    "phonetic": "/'sælәd/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salad-us.mp3",
     "definition_en": "A cold dish of various raw or cooked vegetables seasoned with oil, vinegar, or other dressing.",
     "definition_zh": "沙拉，凉拌蔬菜",
@@ -584,12 +584,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/salt/",
+    "phonetic": "/sɒ:lt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salt-us.mp3",
-    "definition_en": "Denoting salt; widely used in Menu & Culinary Arts.",
-    "definition_zh": "salt（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal)",
+    "definition_zh": "n. 盐, 风趣, 刺激",
     "examples": [
-      "Understanding the concept of salt is essential in 餐饮美食、菜单与烹饪."
+      "Fresh salt can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -598,10 +598,10 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/salty/",
+    "phonetic": "/'sɒ:lti/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salty-us.mp3",
-    "definition_en": "Denoting salty; widely used in Menu & Culinary Arts.",
-    "definition_zh": "salty（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Containing or filled with salt",
+    "definition_zh": "a. 有盐分的, 咸味浓的, 海洋的, 辛辣的, 有经验的",
     "examples": [
       "The committee analyzed a highly salty perspective during the forum."
     ]
@@ -612,12 +612,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/sauce/",
+    "phonetic": "/sɒ:s/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sauce-us.mp3",
-    "definition_en": "Denoting sauce; widely used in Menu & Culinary Arts.",
-    "definition_zh": "sauce（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Flavorful relish or dressing or topping served as an accompaniment to food",
+    "definition_zh": "n. 酱油, 调味汁, 酱",
     "examples": [
-      "Understanding the concept of sauce is essential in 餐饮美食、菜单与烹饪."
+      "Fresh sauce can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -626,12 +626,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/saucepan/",
+    "phonetic": "/'sɒ:spәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saucepan-us.mp3",
-    "definition_en": "Denoting saucepan; widely used in Menu & Culinary Arts.",
-    "definition_zh": "saucepan（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A deep pan with a handle; used for stewing or boiling",
+    "definition_zh": "n. (长柄有盖)深平底锅, 炖锅",
     "examples": [
-      "Understanding the concept of saucepan is essential in 餐饮美食、菜单与烹饪."
+      "Fresh saucepan can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -640,12 +640,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/saucer/",
+    "phonetic": "/'sɒ:sә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saucer-us.mp3",
-    "definition_en": "Denoting saucer; widely used in Menu & Culinary Arts.",
-    "definition_zh": "saucer（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A small shallow dish for holding a cup at the table",
+    "definition_zh": "n. 茶碟, 茶托",
     "examples": [
-      "Understanding the concept of saucer is essential in 餐饮美食、菜单与烹饪."
+      "Fresh saucer can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -654,7 +654,7 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "Menu & Cooking (菜单与料理)",
-    "phonetic": "/suːp/",
+    "phonetic": "/su:p/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soup-us.mp3",
     "definition_en": "A liquid dish, typically made by boiling meat, fish, or vegetables in stock or water.",
     "definition_zh": "汤，羹",
@@ -669,12 +669,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/spice/",
+    "phonetic": "/spais/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spice-us.mp3",
-    "definition_en": "Denoting spice; widely used in Menu & Culinary Arts.",
-    "definition_zh": "spice（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Aromatic substances of vegetable origin used as a preservative",
+    "definition_zh": "n. 香料, 药料, 香气, 调味品, 情趣, 少许",
     "examples": [
-      "Understanding the concept of spice is essential in 餐饮美食、菜单与烹饪."
+      "Fresh spice can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -683,12 +683,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/stew/",
+    "phonetic": "/stju:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stew-us.mp3",
-    "definition_en": "Denoting stew; widely used in Menu & Culinary Arts.",
-    "definition_zh": "stew（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Food prepared by stewing especially meat or fish with vegetables",
+    "definition_zh": "n. 炖, 烦恼, 热浴, 妓院, 鱼塘",
     "examples": [
-      "Understanding the concept of stew is essential in 餐饮美食、菜单与烹饪."
+      "Fresh stew can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -697,10 +697,10 @@
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/tasty/",
+    "phonetic": "/'teisti/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tasty-us.mp3",
-    "definition_en": "Denoting tasty; widely used in Menu & Culinary Arts.",
-    "definition_zh": "tasty（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Pleasing to the sense of taste",
+    "definition_zh": "a. 好吃的, 可口的",
     "examples": [
       "The committee analyzed a highly tasty perspective during the forum."
     ]
@@ -711,10 +711,10 @@
     "part_of_speech": "adjective",
     "level": "C1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/unoccupied/",
+    "phonetic": "/.ʌn'ɒkjupaid/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unoccupied-us.mp3",
-    "definition_en": "Denoting unoccupied; widely used in Menu & Culinary Arts.",
-    "definition_zh": "unoccupied（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Not held or filled or in use",
+    "definition_zh": "a. 空着的, 没人占的, 未被占领的",
     "examples": [
       "The committee analyzed a highly unoccupied perspective during the forum."
     ]
@@ -725,7 +725,7 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "Menu & Cooking (菜单与料理)",
-    "phonetic": "/ɡʊrˈmeɪ/",
+    "phonetic": "/'guәmei/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gourmet-us.mp3",
     "definition_en": "Of a kind or standard suitable for a gourmet; of high quality and refined flavor.",
     "definition_zh": "美食的，美味的，考究的",
@@ -739,12 +739,12 @@
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/gourmet/",
+    "phonetic": "/'guәmei/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gourmet-us.mp3",
-    "definition_en": "Denoting gourmet; widely used in Menu & Culinary Arts.",
-    "definition_zh": "gourmet（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "N a person devoted to refined sensuous enjoyment (especially good food and drink)",
+    "definition_zh": "n. 美食家",
     "examples": [
-      "Understanding the concept of gourmet is essential in 餐饮美食、菜单与烹饪."
+      "Fresh gourmet can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -753,10 +753,10 @@
     "part_of_speech": "adjective",
     "level": "C1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/fiendish/",
+    "phonetic": "/'fi:ndiʃ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fiendish-us.mp3",
-    "definition_en": "Denoting fiendish; widely used in Menu & Culinary Arts.",
-    "definition_zh": "fiendish（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "S extremely evil or cruel; expressive of cruelty or befitting hell",
+    "definition_zh": "a. 恶魔似的",
     "examples": [
       "The committee analyzed a highly fiendish perspective during the forum."
     ]
@@ -767,10 +767,10 @@
     "part_of_speech": "adverb",
     "level": "C1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/fiendishly/",
+    "phonetic": "/'fi:ndiʃli/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fiendishly-us.mp3",
-    "definition_en": "Denoting fiendishly; widely used in Menu & Culinary Arts.",
-    "definition_zh": "fiendishly（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "R as a devil; in an evil manner",
+    "definition_zh": "adv. 恶魔似, 极坏, 残忍, 凶恶, (非正式)非常聪明, 不简单, 不平凡",
     "examples": [
       "Researchers systematically observed fiendishly relevant patterns across trials."
     ]
@@ -781,12 +781,12 @@
     "part_of_speech": "verb",
     "level": "C2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/brandish/",
+    "phonetic": "/'brændiŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brandish-us.mp3",
-    "definition_en": "Denoting brandish; widely used in Menu & Culinary Arts.",
-    "definition_zh": "brandish（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Move or swing back and forth",
+    "definition_zh": "vt. 挥, 挥舞",
     "examples": [
-      "Scholars and practitioners frequently brandish key findings to verify results."
+      "Make sure to brandish the ingredients thoroughly before serving."
     ]
   },
   {
@@ -795,12 +795,12 @@
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/blandishment/",
+    "phonetic": "/'blændiʃmәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blandishment-us.mp3",
-    "definition_en": "Denoting blandishment; widely used in Menu & Culinary Arts.",
-    "definition_zh": "blandishment（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Flattery intended to persuade",
+    "definition_zh": "n. 甜言蜜语, 谄媚, 奉承",
     "examples": [
-      "Understanding the concept of blandishment is essential in 餐饮美食、菜单与烹饪."
+      "Fresh blandishment can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -809,12 +809,12 @@
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/magpie/",
+    "phonetic": "/'mægpai/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/magpie-us.mp3",
-    "definition_en": "Denoting magpie; widely used in Menu & Culinary Arts.",
-    "definition_zh": "magpie（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Long-tailed black-and-white crow that utters a raucous chattering call",
+    "definition_zh": "n. 鹊, 珍种家鸽, 饶舌的人",
     "examples": [
-      "Understanding the concept of magpie is essential in 餐饮美食、菜单与烹饪."
+      "Fresh magpie can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -823,12 +823,12 @@
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/breadwinner/",
+    "phonetic": "/'bred.winә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/breadwinner-us.mp3",
-    "definition_en": "Denoting breadwinner; widely used in Menu & Culinary Arts.",
-    "definition_zh": "breadwinner（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "One whose earnings are the primary source of support for their dependents",
+    "definition_zh": "n. 负担家计的人",
     "examples": [
-      "Understanding the concept of breadwinner is essential in 餐饮美食、菜单与烹饪."
+      "Fresh breadwinner can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -837,10 +837,10 @@
     "part_of_speech": "adjective",
     "level": "C2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/incipient/",
+    "phonetic": "/in'sipiәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/incipient-us.mp3",
-    "definition_en": "Denoting incipient; widely used in Menu & Culinary Arts.",
-    "definition_zh": "incipient（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Only partly in existence; imperfectly formed",
+    "definition_zh": "a. 起初的, 发端的, 初期的",
     "examples": [
       "The committee analyzed a highly incipient perspective during the forum."
     ]
@@ -853,10 +853,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/pieces/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pieces-us.mp3",
-    "definition_en": "Denoting pieces; widely used in Menu & Culinary Arts.",
-    "definition_zh": "pieces（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "N a separate part of a whole",
+    "definition_zh": "n. 匹头, 毛束；件片块个工件零件",
     "examples": [
-      "Understanding the concept of pieces is essential in 餐饮美食、菜单与烹饪."
+      "Fresh pieces can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -867,10 +867,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/occupied/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/occupied-us.mp3",
-    "definition_en": "Denoting occupied; widely used in Menu & Culinary Arts.",
-    "definition_zh": "occupied（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Held or filled or in use",
+    "definition_zh": "a. 已占用的；使用中的；无空闲的",
     "examples": [
-      "Scholars and practitioners frequently occupied key findings to verify results."
+      "Make sure to occupied the ingredients thoroughly before serving."
     ]
   },
   {
@@ -881,10 +881,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/meals/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meals-us.mp3",
-    "definition_en": "Denoting meals; widely used in Menu & Culinary Arts.",
-    "definition_zh": "meals（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "N the food served and eaten at one time",
+    "definition_zh": "n. 膳食；谷类（meal的复数）",
     "examples": [
-      "Understanding the concept of meals is essential in 餐饮美食、菜单与烹饪."
+      "Fresh meals can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -893,12 +893,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/salts/",
+    "phonetic": "/sɔ:lts/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salts-us.mp3",
-    "definition_en": "Denoting salts; widely used in Menu & Culinary Arts.",
-    "definition_zh": "salts（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "N a compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal)",
+    "definition_zh": "n. 盐( salt的名词复数 ); 风趣; 味道或外观等像盐的物质; 增添趣味的事物",
     "examples": [
-      "Understanding the concept of salts is essential in 餐饮美食、菜单与烹饪."
+      "Fresh salts can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -907,12 +907,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/restaurants/",
+    "phonetic": "/ˈrestərənts/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/restaurants-us.mp3",
-    "definition_en": "Denoting restaurants; widely used in Menu & Culinary Arts.",
-    "definition_zh": "restaurants（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "N a building where people go to eat",
+    "definition_zh": "n. 饭店( restaurant的名词复数 ); 餐馆; 饭馆; 菜馆",
     "examples": [
-      "Understanding the concept of restaurants is essential in 餐饮美食、菜单与烹饪."
+      "Fresh restaurants can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -923,10 +923,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/dishes/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dishes-us.mp3",
-    "definition_en": "Denoting dishes; widely used in Menu & Culinary Arts.",
-    "definition_zh": "dishes（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "N a piece of dishware normally used as a container for holding or serving food",
+    "definition_zh": "n. 餐具",
     "examples": [
-      "Understanding the concept of dishes is essential in 餐饮美食、菜单与烹饪."
+      "Fresh dishes can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -935,12 +935,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/breadth/",
+    "phonetic": "/bredθ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/breadth-us.mp3",
-    "definition_en": "Denoting breadth; widely used in Menu & Culinary Arts.",
-    "definition_zh": "breadth（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "The capacity to understand a broad range of topics",
+    "definition_zh": "n. 宽度",
     "examples": [
-      "Understanding the concept of breadth is essential in 餐饮美食、菜单与烹饪."
+      "Fresh breadth can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -949,12 +949,12 @@
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/pier/",
+    "phonetic": "/piә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pier-us.mp3",
-    "definition_en": "Denoting pier; widely used in Menu & Culinary Arts.",
-    "definition_zh": "pier（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A platform built out from the shore into the water and supported by piles; provides access to ships and boats",
+    "definition_zh": "n. 码头, 桥墩, 支框, 防波堤",
     "examples": [
-      "Understanding the concept of pier is essential in 餐饮美食、菜单与烹饪."
+      "Fresh pier can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -963,12 +963,12 @@
     "part_of_speech": "verb",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/occupies/",
+    "phonetic": "/ˈɔkjupaiz/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/occupies-us.mp3",
-    "definition_en": "Denoting occupies; widely used in Menu & Culinary Arts.",
-    "definition_zh": "occupies（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "V keep busy with",
+    "definition_zh": "v. 占领( occupy的第三人称单数 ); 使用; 使从事; 任职",
     "examples": [
-      "Scholars and practitioners frequently occupies key findings to verify results."
+      "Make sure to occupies the ingredients thoroughly before serving."
     ]
   },
   {
@@ -979,8 +979,8 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/occupied/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/occupied-us.mp3",
-    "definition_en": "Denoting occupied; widely used in Menu & Culinary Arts.",
-    "definition_zh": "occupied（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Held or filled or in use",
+    "definition_zh": "a. 已占用的；使用中的；无空闲的",
     "examples": [
       "The committee analyzed a highly occupied perspective during the forum."
     ]
@@ -991,12 +991,12 @@
     "part_of_speech": "verb",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/cooked/",
+    "phonetic": "/kukt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cooked-us.mp3",
-    "definition_en": "Denoting cooked; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cooked（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Having been prepared for eating by the application of heat",
+    "definition_zh": "a. 精疲力竭的, 被揍得昏厥的, 未达到目的就完蛋的, 喝醉了的",
     "examples": [
-      "Scholars and practitioners frequently cooked key findings to verify results."
+      "Make sure to cooked the ingredients thoroughly before serving."
     ]
   },
   {
@@ -1005,12 +1005,12 @@
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/boiling/",
+    "phonetic": "/'bɒiliŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boiling-us.mp3",
-    "definition_en": "Denoting boiling; widely used in Menu & Culinary Arts.",
-    "definition_zh": "boiling（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "The application of heat to change something from a liquid to a gas",
+    "definition_zh": "a. 沸腾的, 激昂的",
     "examples": [
-      "Scholars and practitioners frequently boiling key findings to verify results."
+      "Make sure to boiling the ingredients thoroughly before serving."
     ]
   },
   {
@@ -1019,12 +1019,12 @@
     "part_of_speech": "verb",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/boiled/",
+    "phonetic": "/bɔild/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boiled-us.mp3",
-    "definition_en": "Denoting boiled; widely used in Menu & Culinary Arts.",
-    "definition_zh": "boiled（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Cooked in hot water",
+    "definition_zh": "a. 煮沸的, (非正式)喝醉的, 烧滚的",
     "examples": [
-      "Scholars and practitioners frequently boiled key findings to verify results."
+      "Make sure to boiled the ingredients thoroughly before serving."
     ]
   },
   {
@@ -1033,12 +1033,12 @@
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/auspices/",
+    "phonetic": "/'ɔ:spisiz/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/auspices-us.mp3",
-    "definition_en": "Denoting auspices; widely used in Menu & Culinary Arts.",
-    "definition_zh": "auspices（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Kindly endorsement and guidance",
+    "definition_zh": "n. 赞助, 主办, 保护",
     "examples": [
-      "Understanding the concept of auspices is essential in 餐饮美食、菜单与烹饪."
+      "Fresh auspices can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -1047,12 +1047,12 @@
     "part_of_speech": "verb",
     "level": "A2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/cooking/",
+    "phonetic": "/'kukiŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cooking-us.mp3",
-    "definition_en": "Denoting cooking; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cooking（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "The act of preparing something (as food) by the application of heat",
+    "definition_zh": "n. 烹饪",
     "examples": [
-      "Scholars and practitioners frequently cooking key findings to verify results."
+      "Make sure to cooking the ingredients thoroughly before serving."
     ]
   },
   {
@@ -1063,10 +1063,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/cakes/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cakes-us.mp3",
-    "definition_en": "Denoting cakes; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cakes（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "N a block of solid substance (such as soap or wax)",
+    "definition_zh": "n. 蛋糕（cake的复数）",
     "examples": [
-      "Understanding the concept of cakes is essential in 餐饮美食、菜单与烹饪."
+      "Fresh cakes can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -1077,10 +1077,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/cooke/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cooke-us.mp3",
-    "definition_en": "Denoting cooke; widely used in Menu & Culinary Arts.",
-    "definition_zh": "cooke（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "United States journalist (born in England in 1908)",
+    "definition_zh": "n. 库克（男子名）",
     "examples": [
-      "Understanding the concept of cooke is essential in 餐饮美食、菜单与烹饪."
+      "Fresh cooke can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -1089,12 +1089,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/recipes/",
+    "phonetic": "/'resəpɪz/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recipes-us.mp3",
-    "definition_en": "Denoting recipes; widely used in Menu & Culinary Arts.",
-    "definition_zh": "recipes（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "Pl.  of Recipe",
+    "definition_zh": "n. 烹饪法( recipe的名词复数 ); 食谱; 方法; 秘诀",
     "examples": [
-      "Understanding the concept of recipes is essential in 餐饮美食、菜单与烹饪."
+      "Fresh recipes can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -1105,8 +1105,8 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/happier/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/happier-us.mp3",
-    "definition_en": "Denoting happier; widely used in Menu & Culinary Arts.",
-    "definition_zh": "happier（餐饮美食、菜单与烹饪相关词汇）",
+    "definition_en": "A enjoying or showing or marked by joy or pleasure",
+    "definition_zh": "a. 更快乐的, 更幸福的",
     "examples": [
       "The committee analyzed a highly happier perspective during the forum."
     ]

@@ -5,7 +5,7 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "Psychology (心理学)",
-    "phonetic": "/æŋˈzaɪ.ə.t̬i/",
+    "phonetic": "/æŋ'zaiәti/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anxiety-us.mp3",
     "definition_en": "A feeling of worry, nervousness, or unease typically about an imminent event or uncertain outcome.",
     "definition_zh": "焦虑，忧虑，渴望",
@@ -20,7 +20,7 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "Psychology (心理学)",
-    "phonetic": "/bɪˈheɪ.vjɚ/",
+    "phonetic": "/bi'heivjә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/behavior-us.mp3",
     "definition_en": "The way in which one acts or conducts oneself, especially toward others.",
     "definition_zh": "行为，举止，表现",
@@ -34,12 +34,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/chemotherapy/",
+    "phonetic": "/.kemәu'θerәpi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chemotherapy-us.mp3",
-    "definition_en": "Denoting chemotherapy; widely used in Psychology.",
-    "definition_zh": "chemotherapy（心理学与心智认知相关词汇）",
+    "definition_en": "The use of chemical agents to treat or control disease (or mental illness)",
+    "definition_zh": "n. 化学疗法",
     "examples": [
-      "Understanding the concept of chemotherapy is essential in 心理学与心智认知."
+      "Psychologists study how chemotherapy impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -48,10 +48,10 @@
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/complex/",
+    "phonetic": "/kәm'pleks/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/complex-us.mp3",
-    "definition_en": "Denoting complex; widely used in Psychology.",
-    "definition_zh": "complex（心理学与心智认知相关词汇）",
+    "definition_en": "Complicated in structure; consisting of interconnected parts",
+    "definition_zh": "a. 复杂的, 组合的",
     "examples": [
       "The committee analyzed a highly complex perspective during the forum."
     ]
@@ -62,12 +62,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/complexion/",
+    "phonetic": "/kәm'plekʃn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/complexion-us.mp3",
-    "definition_en": "Denoting complexion; widely used in Psychology.",
-    "definition_zh": "complexion（心理学与心智认知相关词汇）",
+    "definition_en": "The coloring of a person's face",
+    "definition_zh": "n. 肤色, 情况, 局面",
     "examples": [
-      "Understanding the concept of complexion is essential in 心理学与心智认知."
+      "Psychologists study how complexion impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -76,12 +76,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/complexity/",
+    "phonetic": "/kәm'pleksiti/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/complexity-us.mp3",
-    "definition_en": "Denoting complexity; widely used in Psychology.",
-    "definition_zh": "complexity（心理学与心智认知相关词汇）",
+    "definition_en": "The quality of being intricate and compounded",
+    "definition_zh": "n. 复杂, 复杂性, 复杂的事物",
     "examples": [
-      "Understanding the concept of complexity is essential in 心理学与心智认知."
+      "Psychologists study how complexity impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -90,10 +90,10 @@
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/depressed/",
+    "phonetic": "/di'prest/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depressed-us.mp3",
-    "definition_en": "Denoting depressed; widely used in Psychology.",
-    "definition_zh": "depressed（心理学与心智认知相关词汇）",
+    "definition_en": "Lower than previously",
+    "definition_zh": "a. 沮丧的, 降低的",
     "examples": [
       "The committee analyzed a highly depressed perspective during the forum."
     ]
@@ -104,10 +104,10 @@
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/depressing/",
+    "phonetic": "/di'presiŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depressing-us.mp3",
-    "definition_en": "Denoting depressing; widely used in Psychology.",
-    "definition_zh": "depressing（心理学与心智认知相关词汇）",
+    "definition_en": "Causing sad feelings of gloom and inadequacy",
+    "definition_zh": "a. 抑压的, 沉闷的, 阴沉的",
     "examples": [
       "The committee analyzed a highly depressing perspective during the forum."
     ]
@@ -118,12 +118,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/depression/",
+    "phonetic": "/di'preʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depression-us.mp3",
-    "definition_en": "Denoting depression; widely used in Psychology.",
-    "definition_zh": "depression（心理学与心智认知相关词汇）",
+    "definition_en": "A mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity",
+    "definition_zh": "n. 不景气, 消沉, 沮丧, 洼地",
     "examples": [
-      "Understanding the concept of depression is essential in 心理学与心智认知."
+      "Psychologists study how depression impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -132,7 +132,7 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "Psychology (心理学)",
-    "phonetic": "/driːm/",
+    "phonetic": "/dri:m/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dream-us.mp3",
     "definition_en": "A series of thoughts, images, and sensations occurring in a person's mind during sleep.",
     "definition_zh": "梦，梦想",
@@ -147,12 +147,12 @@
     "part_of_speech": "verb",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/dream/",
+    "phonetic": "/dri:m/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dream-us.mp3",
-    "definition_en": "Denoting dream; widely used in Psychology.",
-    "definition_zh": "dream（心理学与心智认知相关词汇）",
+    "definition_en": "A series of mental images and emotions occurring during sleep",
+    "definition_zh": "v. 做梦, 想象, 梦想",
     "examples": [
-      "Scholars and practitioners frequently dream key findings to verify results."
+      "Therapists help clients dream underlying thoughts to reduce stress."
     ]
   },
   {
@@ -161,10 +161,10 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/dreamy/",
+    "phonetic": "/'dri:mi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dreamy-us.mp3",
-    "definition_en": "Denoting dreamy; widely used in Psychology.",
-    "definition_zh": "dreamy（心理学与心智认知相关词汇）",
+    "definition_en": "Dreamy in mood or nature",
+    "definition_zh": "a. 空幻的, 梦想的",
     "examples": [
       "The committee analyzed a highly dreamy perspective during the forum."
     ]
@@ -175,10 +175,10 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/elemental/",
+    "phonetic": "/.eli'mentәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elemental-us.mp3",
-    "definition_en": "Denoting elemental; widely used in Psychology.",
-    "definition_zh": "elemental（心理学与心智认知相关词汇）",
+    "definition_en": "Relating to or being an element",
+    "definition_zh": "a. 元素的, 基本的",
     "examples": [
       "The committee analyzed a highly elemental perspective during the forum."
     ]
@@ -189,10 +189,10 @@
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/environmental/",
+    "phonetic": "/in.vaiәrәn'mentәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environmental-us.mp3",
-    "definition_en": "Denoting environmental; widely used in Psychology.",
-    "definition_zh": "environmental（心理学与心智认知相关词汇）",
+    "definition_en": "Of or relating to the external conditions or surroundings",
+    "definition_zh": "a. 周围的, 环境的",
     "examples": [
       "The committee analyzed a highly environmental perspective during the forum."
     ]
@@ -203,12 +203,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/environmentalist/",
+    "phonetic": "/in,vaiәrәn'mentlist/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environmentalist-us.mp3",
-    "definition_en": "Denoting environmentalist; widely used in Psychology.",
-    "definition_zh": "environmentalist（心理学与心智认知相关词汇）",
+    "definition_en": "Someone who works to protect the environment from destruction or pollution",
+    "definition_zh": "n. 环保人士",
     "examples": [
-      "Understanding the concept of environmentalist is essential in 心理学与心智认知."
+      "Psychologists study how environmentalist impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -219,8 +219,8 @@
     "topic": "心理学与心智认知",
     "phonetic": "/environmentally/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environmentally-us.mp3",
-    "definition_en": "Denoting environmentally; widely used in Psychology.",
-    "definition_zh": "environmentally（心理学与心智认知相关词汇）",
+    "definition_en": "For the environment",
+    "definition_zh": "adv. 有关环境方面",
     "examples": [
       "Researchers systematically observed environmentally relevant patterns across trials."
     ]
@@ -231,10 +231,10 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/fundamental/",
+    "phonetic": "/.fʌndә'mentәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fundamental-us.mp3",
-    "definition_en": "Denoting fundamental; widely used in Psychology.",
-    "definition_zh": "fundamental（心理学与心智认知相关词汇）",
+    "definition_en": "Any factor that could be considered important to the understanding of a particular business",
+    "definition_zh": "a. 基本的, 重要的, 原音的",
     "examples": [
       "The committee analyzed a highly fundamental perspective during the forum."
     ]
@@ -245,10 +245,10 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/governmental/",
+    "phonetic": "/.gʌvәn'mentl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/governmental-us.mp3",
-    "definition_en": "Denoting governmental; widely used in Psychology.",
-    "definition_zh": "governmental（心理学与心智认知相关词汇）",
+    "definition_en": "Relating to or dealing with the affairs or structure of government or politics or the state",
+    "definition_zh": "a. 政治的, 统治上的, 政府的",
     "examples": [
       "The committee analyzed a highly governmental perspective during the forum."
     ]
@@ -259,12 +259,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "心理学与心智认知",
-    "phonetic": "/habit/",
+    "phonetic": "/'hæbit/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/habit-us.mp3",
-    "definition_en": "Denoting habit; widely used in Psychology.",
-    "definition_zh": "habit（心理学与心智认知相关词汇）",
+    "definition_en": "An established custom",
+    "definition_zh": "n. 习惯, 嗜好, 习性",
     "examples": [
-      "Understanding the concept of habit is essential in 心理学与心智认知."
+      "Psychologists study how habit impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -273,12 +273,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/habitant/",
+    "phonetic": "/'hæbitәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/habitant-us.mp3",
-    "definition_en": "Denoting habitant; widely used in Psychology.",
-    "definition_zh": "habitant（心理学与心智认知相关词汇）",
+    "definition_en": "N a person who inhabits a particular place",
+    "definition_zh": "n. 居住者, 居民",
     "examples": [
-      "Understanding the concept of habitant is essential in 心理学与心智认知."
+      "Psychologists study how habitant impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -287,12 +287,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/habitat/",
+    "phonetic": "/'hæbitæt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/habitat-us.mp3",
-    "definition_en": "Denoting habitat; widely used in Psychology.",
-    "definition_zh": "habitat（心理学与心智认知相关词汇）",
+    "definition_en": "The type of environment in which an organism or group normally lives or occurs",
+    "definition_zh": "n. 栖息地, 居留地, 自生地, 聚集处",
     "examples": [
-      "Understanding the concept of habitat is essential in 心理学与心智认知."
+      "Psychologists study how habitat impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -301,12 +301,12 @@
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/inhabit/",
+    "phonetic": "/in'hæbit/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inhabit-us.mp3",
-    "definition_en": "Denoting inhabit; widely used in Psychology.",
-    "definition_zh": "inhabit（心理学与心智认知相关词汇）",
+    "definition_en": "Be present in",
+    "definition_zh": "vt. 居住于, 占据, 栖息",
     "examples": [
-      "Scholars and practitioners frequently inhabit key findings to verify results."
+      "Therapists help clients inhabit underlying thoughts to reduce stress."
     ]
   },
   {
@@ -315,12 +315,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/inhabitant/",
+    "phonetic": "/in'hæbitәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inhabitant-us.mp3",
-    "definition_en": "Denoting inhabitant; widely used in Psychology.",
-    "definition_zh": "inhabitant（心理学与心智认知相关词汇）",
+    "definition_en": "A person who inhabits a particular place",
+    "definition_zh": "n. 居民, 居住者",
     "examples": [
-      "Understanding the concept of inhabitant is essential in 心理学与心智认知."
+      "Psychologists study how inhabitant impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -329,12 +329,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/instinct/",
+    "phonetic": "/'instiŋkt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instinct-us.mp3",
-    "definition_en": "Denoting instinct; widely used in Psychology.",
-    "definition_zh": "instinct（心理学与心智认知相关词汇）",
+    "definition_en": "Inborn pattern of behavior often responsive to specific stimuli",
+    "definition_zh": "n. 本能, 直觉",
     "examples": [
-      "Understanding the concept of instinct is essential in 心理学与心智认知."
+      "Psychologists study how instinct impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -343,7 +343,7 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "Psychology (心理学)",
-    "phonetic": "/ˈmem.ər.i/",
+    "phonetic": "/'memәri/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/memory-us.mp3",
     "definition_en": "The faculty by which the mind stores and remembers information.",
     "definition_zh": "记忆，记忆力，回忆",
@@ -358,10 +358,10 @@
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/mental/",
+    "phonetic": "/'mentl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mental-us.mp3",
-    "definition_en": "Denoting mental; widely used in Psychology.",
-    "definition_zh": "mental（心理学与心智认知相关词汇）",
+    "definition_en": "Involving the mind or an intellectual process",
+    "definition_zh": "a. 心智的, 精神病的, 心理的, 颏的",
     "examples": [
       "The committee analyzed a highly mental perspective during the forum."
     ]
@@ -372,10 +372,10 @@
     "part_of_speech": "adverb",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/mentally/",
+    "phonetic": "/'mentli/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mentally-us.mp3",
-    "definition_en": "Denoting mentally; widely used in Psychology.",
-    "definition_zh": "mentally（心理学与心智认知相关词汇）",
+    "definition_en": "In your mind",
+    "definition_zh": "adv. 心理上, 精神上, 智力上",
     "examples": [
       "Researchers systematically observed mentally relevant patterns across trials."
     ]
@@ -386,7 +386,7 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "Psychology (心理学)",
-    "phonetic": "/maɪnd/",
+    "phonetic": "/maind/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mind-us.mp3",
     "definition_en": "The element of a person that enables them to be aware of the world and their experiences, to think, and to feel.",
     "definition_zh": "大脑，头脑，心思",
@@ -401,12 +401,12 @@
     "part_of_speech": "verb",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/mind/",
+    "phonetic": "/maind/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mind-us.mp3",
-    "definition_en": "Denoting mind; widely used in Psychology.",
-    "definition_zh": "mind（心理学与心智认知相关词汇）",
+    "definition_en": "That which is responsible for one's thoughts and feelings; the seat of the faculty of reason",
+    "definition_zh": "vi. 介意, 注意, 留心",
     "examples": [
-      "Scholars and practitioners frequently mind key findings to verify results."
+      "Therapists help clients mind underlying thoughts to reduce stress."
     ]
   },
   {
@@ -415,12 +415,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/mood/",
+    "phonetic": "/mu:d/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mood-us.mp3",
-    "definition_en": "Denoting mood; widely used in Psychology.",
-    "definition_zh": "mood（心理学与心智认知相关词汇）",
+    "definition_en": "Verb inflections that express how the action or state is conceived by the speaker",
+    "definition_zh": "n. 心情, 气氛, 生气, 基调",
     "examples": [
-      "Understanding the concept of mood is essential in 心理学与心智认知."
+      "Psychologists study how mood impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -429,10 +429,10 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/moody/",
+    "phonetic": "/'mu:di/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moody-us.mp3",
-    "definition_en": "Denoting moody; widely used in Psychology.",
-    "definition_zh": "moody（心理学与心智认知相关词汇）",
+    "definition_en": "United States tennis player who dominated women's tennis in the 1920s and 1930s (1905-1998)",
+    "definition_zh": "a. 心情不稳的, 郁郁寡欢的, 喜怒无常的",
     "examples": [
       "The committee analyzed a highly moody perspective during the forum."
     ]
@@ -443,7 +443,7 @@
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "Psychology (心理学)",
-    "phonetic": "/nʊˈroʊ.sɪs/",
+    "phonetic": "/nju'rәusis/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neurosis-us.mp3",
     "definition_en": "A mild mental illness involving symptoms of stress (depression, anxiety, obsessive behavior).",
     "definition_zh": "神经症，神经官能症",
@@ -457,12 +457,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/perception/",
+    "phonetic": "/pә'sepʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perception-us.mp3",
-    "definition_en": "Denoting perception; widely used in Psychology.",
-    "definition_zh": "perception（心理学与心智认知相关词汇）",
+    "definition_en": "A way of conceiving something",
+    "definition_zh": "n. 知觉, 感觉, 领悟力, 获取",
     "examples": [
-      "Understanding the concept of perception is essential in 心理学与心智认知."
+      "Psychologists study how perception impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -471,10 +471,10 @@
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/psychological/",
+    "phonetic": "/.saikә'lɒdʒikәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychological-us.mp3",
-    "definition_en": "Denoting psychological; widely used in Psychology.",
-    "definition_zh": "psychological（心理学与心智认知相关词汇）",
+    "definition_en": "Of or relating to or determined by psychology",
+    "definition_zh": "a. 心理学的, 精神上的, 心灵的",
     "examples": [
       "The committee analyzed a highly psychological perspective during the forum."
     ]
@@ -485,10 +485,10 @@
     "part_of_speech": "adverb",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/psychologically/",
+    "phonetic": "/,psaikә'lɔdʒikәli/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychologically-us.mp3",
-    "definition_en": "Denoting psychologically; widely used in Psychology.",
-    "definition_zh": "psychologically（心理学与心智认知相关词汇）",
+    "definition_en": "With regard to psychology",
+    "definition_zh": "adv. 心理上, 从心理学角度",
     "examples": [
       "Researchers systematically observed psychologically relevant patterns across trials."
     ]
@@ -499,12 +499,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/psychologist/",
+    "phonetic": "/sai'kɒlәdʒist/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychologist-us.mp3",
-    "definition_en": "Denoting psychologist; widely used in Psychology.",
-    "definition_zh": "psychologist（心理学与心智认知相关词汇）",
+    "definition_en": "A scientist trained in psychology",
+    "definition_zh": "n. 心理学家",
     "examples": [
-      "Understanding the concept of psychologist is essential in 心理学与心智认知."
+      "Psychologists study how psychologist impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -513,12 +513,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/psychology/",
+    "phonetic": "/sai'kɒlәdʒi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychology-us.mp3",
-    "definition_en": "Denoting psychology; widely used in Psychology.",
-    "definition_zh": "psychology（心理学与心智认知相关词汇）",
+    "definition_en": "The science of mental life",
+    "definition_zh": "n. 心理学, 心理状态",
     "examples": [
-      "Understanding the concept of psychology is essential in 心理学与心智认知."
+      "Psychologists study how psychology impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -527,12 +527,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/recognition/",
+    "phonetic": "/.rekәg'niʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recognition-us.mp3",
-    "definition_en": "Denoting recognition; widely used in Psychology.",
-    "definition_zh": "recognition（心理学与心智认知相关词汇）",
+    "definition_en": "The state or quality of being recognized or acknowledged",
+    "definition_zh": "n. 赞誉, 认得, 识别, 承认, 认可, 认识",
     "examples": [
-      "Understanding the concept of recognition is essential in 心理学与心智认知."
+      "Psychologists study how recognition impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -541,12 +541,12 @@
     "part_of_speech": "verb",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/remind/",
+    "phonetic": "/ri'maind/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/remind-us.mp3",
-    "definition_en": "Denoting remind; widely used in Psychology.",
-    "definition_zh": "remind（心理学与心智认知相关词汇）",
+    "definition_en": "Put in the mind of someone",
+    "definition_zh": "vt. 提醒, 使想起",
     "examples": [
-      "Scholars and practitioners frequently remind key findings to verify results."
+      "Therapists help clients remind underlying thoughts to reduce stress."
     ]
   },
   {
@@ -555,12 +555,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/reminder/",
+    "phonetic": "/ri'maindә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reminder-us.mp3",
-    "definition_en": "Denoting reminder; widely used in Psychology.",
-    "definition_zh": "reminder（心理学与心智认知相关词汇）",
+    "definition_en": "A message that helps you remember something",
+    "definition_zh": "n. 提醒的人, 暗示",
     "examples": [
-      "Understanding the concept of reminder is essential in 心理学与心智认知."
+      "Psychologists study how reminder impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -569,12 +569,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/stimulant/",
+    "phonetic": "/'stimjulәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stimulant-us.mp3",
-    "definition_en": "Denoting stimulant; widely used in Psychology.",
-    "definition_zh": "stimulant（心理学与心智认知相关词汇）",
+    "definition_en": "A drug that temporarily quickens some vital process",
+    "definition_zh": "n. 兴奋剂, 酒精饮料",
     "examples": [
-      "Understanding the concept of stimulant is essential in 心理学与心智认知."
+      "Psychologists study how stimulant impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -583,12 +583,12 @@
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/stimulate/",
+    "phonetic": "/'stimjuleit/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stimulate-us.mp3",
-    "definition_en": "Denoting stimulate; widely used in Psychology.",
-    "definition_zh": "stimulate（心理学与心智认知相关词汇）",
+    "definition_en": "Act as a stimulant",
+    "definition_zh": "vt. 刺激, 激励, 鼓舞",
     "examples": [
-      "Scholars and practitioners frequently stimulate key findings to verify results."
+      "Therapists help clients stimulate underlying thoughts to reduce stress."
     ]
   },
   {
@@ -597,12 +597,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/stimulation/",
+    "phonetic": "/.stimju'leiʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stimulation-us.mp3",
-    "definition_en": "Denoting stimulation; widely used in Psychology.",
-    "definition_zh": "stimulation（心理学与心智认知相关词汇）",
+    "definition_en": "The act of arousing an organism to action",
+    "definition_zh": "n. 刺激, 激励, 鼓舞",
     "examples": [
-      "Understanding the concept of stimulation is essential in 心理学与心智认知."
+      "Psychologists study how stimulation impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -611,7 +611,7 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "Psychology (心理学)",
-    "phonetic": "/ˌsʌbˈkɑːn.ʃəs/",
+    "phonetic": "/.sʌb'kɒnʃәs/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subconscious-us.mp3",
     "definition_en": "Concerning the part of the mind of which one is not fully aware but which influences actions and feelings.",
     "definition_zh": "下意识的，潜意识的",
@@ -626,12 +626,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/therapy/",
+    "phonetic": "/'θerәpi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/therapy-us.mp3",
-    "definition_en": "Denoting therapy; widely used in Psychology.",
-    "definition_zh": "therapy（心理学与心智认知相关词汇）",
+    "definition_en": "(medicine) the act of caring for someone (as by medication or remedial training etc.)",
+    "definition_zh": "n. 治疗",
     "examples": [
-      "Understanding the concept of therapy is essential in 心理学与心智认知."
+      "Psychologists study how therapy impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -640,10 +640,10 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/unconscious/",
+    "phonetic": "/.ʌn'kɒnʃәs/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unconscious-us.mp3",
-    "definition_en": "Denoting unconscious; widely used in Psychology.",
-    "definition_zh": "unconscious（心理学与心智认知相关词汇）",
+    "definition_en": "Not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead",
+    "definition_zh": "a. 未意识到的, 无意识的, 无知觉的",
     "examples": [
       "The committee analyzed a highly unconscious perspective during the forum."
     ]
@@ -656,8 +656,8 @@
     "topic": "心理学与心智认知",
     "phonetic": "/undreamed/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/undreamed-us.mp3",
-    "definition_en": "Denoting undreamed; widely used in Psychology.",
-    "definition_zh": "undreamed（心理学与心智认知相关词汇）",
+    "definition_en": "Not imagined even in a dream",
+    "definition_zh": "a. 梦想不到的, 意外的",
     "examples": [
       "The committee analyzed a highly undreamed perspective during the forum."
     ]
@@ -668,7 +668,7 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "Psychology (心理学)",
-    "phonetic": "/ˈtraʊ.mə/",
+    "phonetic": "/'trɒ:mә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trauma-us.mp3",
     "definition_en": "A deeply distressing or disturbing emotional or mental experience.",
     "definition_zh": "创伤，心理损伤",
@@ -683,10 +683,10 @@
     "part_of_speech": "adjective",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/traumatic/",
+    "phonetic": "/trɒ:'mætik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/traumatic-us.mp3",
-    "definition_en": "Denoting traumatic; widely used in Psychology.",
-    "definition_zh": "traumatic（心理学与心智认知相关词汇）",
+    "definition_en": "Of or relating to a physical injury or wound to the body",
+    "definition_zh": "a. 外伤的, 创伤的",
     "examples": [
       "The committee analyzed a highly traumatic perspective during the forum."
     ]
@@ -697,12 +697,12 @@
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/claustrophobia/",
+    "phonetic": "/klɒ:strә'fәubiә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/claustrophobia-us.mp3",
-    "definition_en": "Denoting claustrophobia; widely used in Psychology.",
-    "definition_zh": "claustrophobia（心理学与心智认知相关词汇）",
+    "definition_en": "A morbid fear of being closed in a confined space",
+    "definition_zh": "n. 幽闭恐怖症",
     "examples": [
-      "Understanding the concept of claustrophobia is essential in 心理学与心智认知."
+      "Psychologists study how claustrophobia impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -711,10 +711,10 @@
     "part_of_speech": "adjective",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/ornamental/",
+    "phonetic": "/.ɒ:nә'mentl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ornamental-us.mp3",
-    "definition_en": "Denoting ornamental; widely used in Psychology.",
-    "definition_zh": "ornamental（心理学与心智认知相关词汇）",
+    "definition_en": "Any plant grown for its beauty or ornamental value",
+    "definition_zh": "a. 装饰性的, 装饰的, 观赏用的",
     "examples": [
       "The committee analyzed a highly ornamental perspective during the forum."
     ]
@@ -725,12 +725,12 @@
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/daydream/",
+    "phonetic": "/'deidri:m/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/daydream-us.mp3",
-    "definition_en": "Denoting daydream; widely used in Psychology.",
-    "definition_zh": "daydream（心理学与心智认知相关词汇）",
+    "definition_en": "Have dreamlike musings or fantasies while awake",
+    "definition_zh": "n. 白日梦",
     "examples": [
-      "Understanding the concept of daydream is essential in 心理学与心智认知."
+      "Psychologists study how daydream impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -739,12 +739,12 @@
     "part_of_speech": "verb",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/daydream/",
+    "phonetic": "/'deidri:m/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/daydream-us.mp3",
-    "definition_en": "Denoting daydream; widely used in Psychology.",
-    "definition_zh": "daydream（心理学与心智认知相关词汇）",
+    "definition_en": "Have dreamlike musings or fantasies while awake",
+    "definition_zh": "vi. 做白日梦",
     "examples": [
-      "Scholars and practitioners frequently daydream key findings to verify results."
+      "Therapists help clients daydream underlying thoughts to reduce stress."
     ]
   },
   {
@@ -753,10 +753,10 @@
     "part_of_speech": "adjective",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/instinctive/",
+    "phonetic": "/in'stiŋktiv/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instinctive-us.mp3",
-    "definition_en": "Denoting instinctive; widely used in Psychology.",
-    "definition_zh": "instinctive（心理学与心智认知相关词汇）",
+    "definition_en": "S unthinking; prompted by (or as if by) instinct",
+    "definition_zh": "a. 本能的, 天生的, 直觉的",
     "examples": [
       "The committee analyzed a highly instinctive perspective during the forum."
     ]
@@ -769,8 +769,8 @@
     "topic": "心理学与心智认知",
     "phonetic": "/instinctively/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instinctively-us.mp3",
-    "definition_en": "Denoting instinctively; widely used in Psychology.",
-    "definition_zh": "instinctively（心理学与心智认知相关词汇）",
+    "definition_en": "As a matter of instinct",
+    "definition_zh": "adv. 本能地, 直觉地",
     "examples": [
       "Researchers systematically observed instinctively relevant patterns across trials."
     ]
@@ -781,10 +781,10 @@
     "part_of_speech": "adjective",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/sentimental/",
+    "phonetic": "/.senti'mentl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sentimental-us.mp3",
-    "definition_en": "Denoting sentimental; widely used in Psychology.",
-    "definition_zh": "sentimental（心理学与心智认知相关词汇）",
+    "definition_en": "Given to or marked by sentiment or sentimentality",
+    "definition_zh": "a. 感伤的, 感情用事的",
     "examples": [
       "The committee analyzed a highly sentimental perspective during the forum."
     ]
@@ -795,10 +795,10 @@
     "part_of_speech": "adverb",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/sentimentally/",
+    "phonetic": "/ˌsentɪ'mentəlɪ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sentimentally-us.mp3",
-    "definition_en": "Denoting sentimentally; widely used in Psychology.",
-    "definition_zh": "sentimentally（心理学与心智认知相关词汇）",
+    "definition_en": "In a sentimental manner",
+    "definition_zh": "adv. 富情感地",
     "examples": [
       "Researchers systematically observed sentimentally relevant patterns across trials."
     ]
@@ -809,10 +809,10 @@
     "part_of_speech": "adjective",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/detrimental/",
+    "phonetic": "/.detri'mentәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/detrimental-us.mp3",
-    "definition_en": "Denoting detrimental; widely used in Psychology.",
-    "definition_zh": "detrimental（心理学与心智认知相关词汇）",
+    "definition_en": "S (sometimes followed by `to') causing harm or injury",
+    "definition_zh": "a. 有害的",
     "examples": [
       "The committee analyzed a highly detrimental perspective during the forum."
     ]
@@ -823,10 +823,10 @@
     "part_of_speech": "adverb",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/detrimentally/",
+    "phonetic": "/ˌdetrɪ'mentəlɪ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/detrimentally-us.mp3",
-    "definition_en": "Denoting detrimentally; widely used in Psychology.",
-    "definition_zh": "detrimentally（心理学与心智认知相关词汇）",
+    "definition_en": "In a detrimental manner",
+    "definition_zh": "adv. 有害地, 不利地",
     "examples": [
       "Researchers systematically observed detrimentally relevant patterns across trials."
     ]
@@ -837,12 +837,12 @@
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/temperament/",
+    "phonetic": "/'temprәmәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/temperament-us.mp3",
-    "definition_en": "Denoting temperament; widely used in Psychology.",
-    "definition_zh": "temperament（心理学与心智认知相关词汇）",
+    "definition_en": "Excessive emotionalism or irritability and excitability (especially when displayed openly)",
+    "definition_zh": "n. 气质, 性格, 性情",
     "examples": [
-      "Understanding the concept of temperament is essential in 心理学与心智认知."
+      "Psychologists study how temperament impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -851,10 +851,10 @@
     "part_of_speech": "adjective",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/temperamental/",
+    "phonetic": "/.temprә'mentl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/temperamental-us.mp3",
-    "definition_en": "Denoting temperamental; widely used in Psychology.",
-    "definition_zh": "temperamental（心理学与心智认知相关词汇）",
+    "definition_en": "Relating to or caused by temperament",
+    "definition_zh": "a. 气质的, 性格的, 易兴奋的",
     "examples": [
       "The committee analyzed a highly temperamental perspective during the forum."
     ]
@@ -865,10 +865,10 @@
     "part_of_speech": "adverb",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/temperamentally/",
+    "phonetic": "/ˌtemprə'mentəlɪ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/temperamentally-us.mp3",
-    "definition_en": "Denoting temperamentally; widely used in Psychology.",
-    "definition_zh": "temperamentally（心理学与心智认知相关词汇）",
+    "definition_en": "By temperament",
+    "definition_zh": "adv. 在气质上; 易兴奋地, 神经质地",
     "examples": [
       "Researchers systematically observed temperamentally relevant patterns across trials."
     ]
@@ -881,10 +881,10 @@
     "topic": "心理学与心智认知",
     "phonetic": "/stimuli/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stimuli-us.mp3",
-    "definition_en": "Denoting stimuli; widely used in Psychology.",
-    "definition_zh": "stimuli（心理学与心智认知相关词汇）",
+    "definition_en": "N any stimulating information or event; acts to arouse action",
+    "definition_zh": "剌激, 剌激物, 促进因素, 动因",
     "examples": [
-      "Understanding the concept of stimuli is essential in 心理学与心智认知."
+      "Psychologists study how stimuli impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -893,12 +893,12 @@
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "心理学与心智认知",
-    "phonetic": "/habitation/",
+    "phonetic": "/.hæbi'teiʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/habitation-us.mp3",
-    "definition_en": "Denoting habitation; widely used in Psychology.",
-    "definition_zh": "habitation（心理学与心智认知相关词汇）",
+    "definition_en": "The native habitat or home of an animal or plant",
+    "definition_zh": "n. 居住, 住所",
     "examples": [
-      "Understanding the concept of habitation is essential in 心理学与心智认知."
+      "Psychologists study how habitation impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -907,7 +907,7 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "Psychology (心理学)",
-    "phonetic": "/ˈkɑːɡ.nə.t̬ɪv/",
+    "phonetic": "/'kɒgnitiv/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cognitive-us.mp3",
     "definition_en": "Relating to conscious mental processes of cognition, perception, memory, and judgment.",
     "definition_zh": "认知的，认识过程的",
@@ -922,10 +922,10 @@
     "part_of_speech": "adjective",
     "level": "C2",
     "topic": "心理学与心智认知",
-    "phonetic": "/depressive/",
+    "phonetic": "/di'presiv/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depressive-us.mp3",
-    "definition_en": "Denoting depressive; widely used in Psychology.",
-    "definition_zh": "depressive（心理学与心智认知相关词汇）",
+    "definition_en": "Someone suffering psychological depression",
+    "definition_zh": "a. 压抑的, 压下的, 沉闷的",
     "examples": [
       "The committee analyzed a highly depressive perspective during the forum."
     ]
@@ -936,12 +936,12 @@
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "心理学与心智认知",
-    "phonetic": "/hypnotherapy/",
+    "phonetic": "/.hipnә'θerәpi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hypnotherapy-us.mp3",
-    "definition_en": "Denoting hypnotherapy; widely used in Psychology.",
-    "definition_zh": "hypnotherapy（心理学与心智认知相关词汇）",
+    "definition_en": "The use of hypnosis in psychotherapy",
+    "definition_zh": "n. 催眠疗法",
     "examples": [
-      "Understanding the concept of hypnotherapy is essential in 心理学与心智认知."
+      "Psychologists study how hypnotherapy impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -950,12 +950,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/environmental/",
+    "phonetic": "/in.vaiәrәn'mentәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environmental-us.mp3",
-    "definition_en": "Denoting environmental; widely used in Psychology.",
-    "definition_zh": "environmental（心理学与心智认知相关词汇）",
+    "definition_en": "Of or relating to the external conditions or surroundings",
+    "definition_zh": "a. 周围的, 环境的",
     "examples": [
-      "Understanding the concept of environmental is essential in 心理学与心智认知."
+      "Psychologists study how environmental impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -964,12 +964,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/complex/",
+    "phonetic": "/kәm'pleks/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/complex-us.mp3",
-    "definition_en": "Denoting complex; widely used in Psychology.",
-    "definition_zh": "complex（心理学与心智认知相关词汇）",
+    "definition_en": "A conceptual whole made up of complicated and related parts",
+    "definition_zh": "n. 综合体, 情结, 络合物",
     "examples": [
-      "Understanding the concept of complex is essential in 心理学与心智认知."
+      "Psychologists study how complex impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -978,12 +978,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/inhabitants/",
+    "phonetic": "/ɪn'hæbɪtənts/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inhabitants-us.mp3",
-    "definition_en": "Denoting inhabitants; widely used in Psychology.",
-    "definition_zh": "inhabitants（心理学与心智认知相关词汇）",
+    "definition_en": "A person who inhabits a particular place",
+    "definition_zh": "n. 居民, 住户, （栖息在某地区的）动物( inhabitant的复数形式 )",
     "examples": [
-      "Understanding the concept of inhabitants is essential in 心理学与心智认知."
+      "Psychologists study how inhabitants impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -994,10 +994,10 @@
     "topic": "心理学与心智认知",
     "phonetic": "/habits/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/habits-us.mp3",
-    "definition_en": "Denoting habits; widely used in Psychology.",
-    "definition_zh": "habits（心理学与心智认知相关词汇）",
+    "definition_en": "N an established custom",
+    "definition_zh": "n. 习性；习惯（habit的复数）",
     "examples": [
-      "Understanding the concept of habits is essential in 心理学与心智认知."
+      "Psychologists study how habits impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1006,12 +1006,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/behaviors/",
+    "phonetic": "/bɪheɪ'vi:əʊz/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/behaviors-us.mp3",
-    "definition_en": "Denoting behaviors; widely used in Psychology.",
-    "definition_zh": "behaviors（心理学与心智认知相关词汇）",
+    "definition_en": "Manner of acting or controlling yourself",
+    "definition_zh": "n. 行为( behavior的复数形式 ); 态度; （机器等的）运转状态; （事物的）反应",
     "examples": [
-      "Understanding the concept of behaviors is essential in 心理学与心智认知."
+      "Psychologists study how behaviors impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1020,10 +1020,10 @@
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/developmental/",
+    "phonetic": "/di.velәp'mentәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/developmental-us.mp3",
-    "definition_en": "Denoting developmental; widely used in Psychology.",
-    "definition_zh": "developmental（心理学与心智认知相关词汇）",
+    "definition_en": "Of or relating to or constituting development",
+    "definition_zh": "a. 发展的, 进化的, 启发的",
     "examples": [
       "The committee analyzed a highly developmental perspective during the forum."
     ]
@@ -1034,12 +1034,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/mental/",
+    "phonetic": "/'mentl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mental-us.mp3",
-    "definition_en": "Denoting mental; widely used in Psychology.",
-    "definition_zh": "mental（心理学与心智认知相关词汇）",
+    "definition_en": "Involving the mind or an intellectual process",
+    "definition_zh": "n. 精神病患者",
     "examples": [
-      "Understanding the concept of mental is essential in 心理学与心智认知."
+      "Psychologists study how mental impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1048,12 +1048,12 @@
     "part_of_speech": "verb",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/reminded/",
+    "phonetic": "/riˈmaindid/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reminded-us.mp3",
-    "definition_en": "Denoting reminded; widely used in Psychology.",
-    "definition_zh": "reminded（心理学与心智认知相关词汇）",
+    "definition_en": "V put in the mind of someone",
+    "definition_zh": "v. 使想起( remind的过去式和过去分词 ); 提醒",
     "examples": [
-      "Scholars and practitioners frequently reminded key findings to verify results."
+      "Therapists help clients reminded underlying thoughts to reduce stress."
     ]
   },
   {
@@ -1062,10 +1062,10 @@
     "part_of_speech": "adjective",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/behavioral/",
+    "phonetic": "/bi'heivjәrәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/behavioral-us.mp3",
-    "definition_en": "Denoting behavioral; widely used in Psychology.",
-    "definition_zh": "behavioral（心理学与心智认知相关词汇）",
+    "definition_en": "Of or relating to behavior",
+    "definition_zh": "a. 行为的",
     "examples": [
       "The committee analyzed a highly behavioral perspective during the forum."
     ]
@@ -1078,10 +1078,10 @@
     "topic": "心理学与心智认知",
     "phonetic": "/complexes/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/complexes-us.mp3",
-    "definition_en": "Denoting complexes; widely used in Psychology.",
-    "definition_zh": "complexes（心理学与心智认知相关词汇）",
+    "definition_en": "N a conceptual whole made up of complicated and related parts",
+    "definition_zh": "n. 复体, 复合物",
     "examples": [
-      "Understanding the concept of complexes is essential in 心理学与心智认知."
+      "Psychologists study how complexes impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1090,12 +1090,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/perceptions/",
+    "phonetic": "/pɚ'sɛpʃən/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perceptions-us.mp3",
-    "definition_en": "Denoting perceptions; widely used in Psychology.",
-    "definition_zh": "perceptions（心理学与心智认知相关词汇）",
+    "definition_en": "The representation of what is perceived; basic component in the formation of a concept",
+    "definition_zh": "n. 感知（能力）( perception的复数形式 ); 觉察（力）; 认识; 观念",
     "examples": [
-      "Understanding the concept of perceptions is essential in 心理学与心智认知."
+      "Psychologists study how perceptions impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1106,10 +1106,10 @@
     "topic": "心理学与心智认知",
     "phonetic": "/stimulated/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stimulated-us.mp3",
-    "definition_en": "Denoting stimulated; widely used in Psychology.",
-    "definition_zh": "stimulated（心理学与心智认知相关词汇）",
+    "definition_en": "Emotionally aroused",
+    "definition_zh": "a. 受激的",
     "examples": [
-      "Scholars and practitioners frequently stimulated key findings to verify results."
+      "Therapists help clients stimulated underlying thoughts to reduce stress."
     ]
   },
   {
@@ -1118,10 +1118,10 @@
     "part_of_speech": "adjective",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/instrumental/",
+    "phonetic": "/.instru'mentәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instrumental-us.mp3",
-    "definition_en": "Denoting instrumental; widely used in Psychology.",
-    "definition_zh": "instrumental（心理学与心智认知相关词汇）",
+    "definition_en": "Relating to or designed for or performed on musical instruments",
+    "definition_zh": "a. 仪器的, 器具的, 可作为手段的",
     "examples": [
       "The committee analyzed a highly instrumental perspective during the forum."
     ]
@@ -1132,10 +1132,10 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/supplemental/",
+    "phonetic": "/.sʌpli'mentl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/supplemental-us.mp3",
-    "definition_en": "Denoting supplemental; widely used in Psychology.",
-    "definition_zh": "supplemental（心理学与心智认知相关词汇）",
+    "definition_en": "S functioning in a supporting capacity",
+    "definition_zh": "a. 补足的, 追加的",
     "examples": [
       "The committee analyzed a highly supplemental perspective during the forum."
     ]
@@ -1146,10 +1146,10 @@
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/departmental/",
+    "phonetic": "/.di:pɑ:t'mentәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/departmental-us.mp3",
-    "definition_en": "Denoting departmental; widely used in Psychology.",
-    "definition_zh": "departmental（心理学与心智认知相关词汇）",
+    "definition_en": "Of or relating to a department",
+    "definition_zh": "a. 部门的, 各部的, 分科的",
     "examples": [
       "The committee analyzed a highly departmental perspective during the forum."
     ]
@@ -1160,12 +1160,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/psychologists/",
+    "phonetic": "/saɪˈkɔlədʒɪsts/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychologists-us.mp3",
-    "definition_en": "Denoting psychologists; widely used in Psychology.",
-    "definition_zh": "psychologists（心理学与心智认知相关词汇）",
+    "definition_en": "A scientist trained in psychology",
+    "definition_zh": "n. 心理学研究者, 心理学家( psychologist的复数形式 )",
     "examples": [
-      "Understanding the concept of psychologists is essential in 心理学与心智认知."
+      "Psychologists study how psychologists impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1174,10 +1174,10 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/stimulating/",
+    "phonetic": "/'stimjuleitiŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stimulating-us.mp3",
-    "definition_en": "Denoting stimulating; widely used in Psychology.",
-    "definition_zh": "stimulating（心理学与心智认知相关词汇）",
+    "definition_en": "Rousing or quickening activity or the senses",
+    "definition_zh": "a. 刺激的, 有刺激性的",
     "examples": [
       "The committee analyzed a highly stimulating perspective during the forum."
     ]
@@ -1188,12 +1188,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/habitats/",
+    "phonetic": "/'hæbɪtæts/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/habitats-us.mp3",
-    "definition_en": "Denoting habitats; widely used in Psychology.",
-    "definition_zh": "habitats（心理学与心智认知相关词汇）",
+    "definition_en": "The type of environment in which an organism or group normally lives or occurs",
+    "definition_zh": "n. （动物的）栖息地, 住处( habitat的复数形式 )",
     "examples": [
-      "Understanding the concept of habitats is essential in 心理学与心智认知."
+      "Psychologists study how habitats impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1202,12 +1202,12 @@
     "part_of_speech": "verb",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/reminds/",
+    "phonetic": "/riˈmaindz/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reminds-us.mp3",
-    "definition_en": "Denoting reminds; widely used in Psychology.",
-    "definition_zh": "reminds（心理学与心智认知相关词汇）",
+    "definition_en": "V put in the mind of someone",
+    "definition_zh": "v. 使想起( remind的第三人称单数 ); 提醒",
     "examples": [
-      "Scholars and practitioners frequently reminds key findings to verify results."
+      "Therapists help clients reminds underlying thoughts to reduce stress."
     ]
   },
   {
@@ -1216,12 +1216,12 @@
     "part_of_speech": "verb",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/depressed/",
+    "phonetic": "/di'prest/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depressed-us.mp3",
-    "definition_en": "Denoting depressed; widely used in Psychology.",
-    "definition_zh": "depressed（心理学与心智认知相关词汇）",
+    "definition_en": "Lower than previously",
+    "definition_zh": "a. 沮丧的, 降低的",
     "examples": [
-      "Scholars and practitioners frequently depressed key findings to verify results."
+      "Therapists help clients depressed underlying thoughts to reduce stress."
     ]
   },
   {
@@ -1232,10 +1232,10 @@
     "topic": "心理学与心智认知",
     "phonetic": "/fundamentals/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fundamentals-us.mp3",
-    "definition_en": "Denoting fundamentals; widely used in Psychology.",
-    "definition_zh": "fundamentals（心理学与心智认知相关词汇）",
+    "definition_en": "Principles from which other truths can be derived",
+    "definition_zh": "n. 基本面；基本原理（fundamental的复数）",
     "examples": [
-      "Understanding the concept of fundamentals is essential in 心理学与心智认知."
+      "Psychologists study how fundamentals impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1244,12 +1244,12 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/supplemental/",
+    "phonetic": "/.sʌpli'mentl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/supplemental-us.mp3",
-    "definition_en": "Denoting supplemental; widely used in Psychology.",
-    "definition_zh": "supplemental（心理学与心智认知相关词汇）",
+    "definition_en": "S functioning in a supporting capacity",
+    "definition_zh": "a. 补足的, 追加的",
     "examples": [
-      "Understanding the concept of supplemental is essential in 心理学与心智认知."
+      "Psychologists study how supplemental impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1258,12 +1258,12 @@
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/behavioral/",
+    "phonetic": "/bi'heivjәrәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/behavioral-us.mp3",
-    "definition_en": "Denoting behavioral; widely used in Psychology.",
-    "definition_zh": "behavioral（心理学与心智认知相关词汇）",
+    "definition_en": "Of or relating to behavior",
+    "definition_zh": "a. 行为的",
     "examples": [
-      "Understanding the concept of behavioral is essential in 心理学与心智认知."
+      "Psychologists study how behavioral impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1272,12 +1272,12 @@
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/developmental/",
+    "phonetic": "/di.velәp'mentәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/developmental-us.mp3",
-    "definition_en": "Denoting developmental; widely used in Psychology.",
-    "definition_zh": "developmental（心理学与心智认知相关词汇）",
+    "definition_en": "Of or relating to or constituting development",
+    "definition_zh": "a. 发展的, 进化的, 启发的",
     "examples": [
-      "Understanding the concept of developmental is essential in 心理学与心智认知."
+      "Psychologists study how developmental impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1288,10 +1288,10 @@
     "topic": "心理学与心智认知",
     "phonetic": "/instincts/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instincts-us.mp3",
-    "definition_en": "Denoting instincts; widely used in Psychology.",
-    "definition_zh": "instincts（心理学与心智认知相关词汇）",
+    "definition_en": "N inborn pattern of behavior often responsive to specific stimuli",
+    "definition_zh": "n. 直觉；本能（instinct的复数）",
     "examples": [
-      "Understanding the concept of instincts is essential in 心理学与心智认知."
+      "Psychologists study how instincts impacts emotional well-being and daily behavior."
     ]
   },
   {
@@ -1300,12 +1300,12 @@
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/inhabited/",
+    "phonetic": "/in'hæbitid/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inhabited-us.mp3",
-    "definition_en": "Denoting inhabited; widely used in Psychology.",
-    "definition_zh": "inhabited（心理学与心智认知相关词汇）",
+    "definition_en": "Having inhabitants; lived in",
+    "definition_zh": "a. 有人居住的",
     "examples": [
-      "Scholars and practitioners frequently inhabited key findings to verify results."
+      "Therapists help clients inhabited underlying thoughts to reduce stress."
     ]
   },
   {
@@ -1314,10 +1314,10 @@
     "part_of_speech": "adjective",
     "level": "A1",
     "topic": "心理学与心智认知",
-    "phonetic": "/habitual/",
+    "phonetic": "/hә'hitʃuәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/habitual-us.mp3",
-    "definition_en": "Denoting habitual; widely used in Psychology.",
-    "definition_zh": "habitual（心理学与心智认知相关词汇）",
+    "definition_en": "S commonly used or practiced; usual",
+    "definition_zh": "a. 习惯的, 惯常的, 平常的",
     "examples": [
       "The committee analyzed a highly habitual perspective during the forum."
     ]
