@@ -19,23 +19,19 @@ my-vocab-repo/
 
 ### 1. 获取全景场景树索引：
 ```http
-GET https://cdn.jsdelivr.net/gh/<你的GitHub用户名>/my-vocab-repo@main/categories.json
+GET https://cdn.jsdelivr.net/gh/katherine54321/my-vocab-repo@main/categories.json
 ```
 
 ### 2. 按需动态加载各学科/场景切片：
 ```http
-GET https://cdn.jsdelivr.net/gh/<你的GitHub用户名>/my-vocab-repo@main/data/psychology.json
-GET https://cdn.jsdelivr.net/gh/<你的GitHub用户名>/my-vocab-repo@main/data/human_organs.json
-GET https://cdn.jsdelivr.net/gh/<你的GitHub用户名>/my-vocab-repo@main/data/food_dining.json
+GET https://cdn.jsdelivr.net/gh/katherine54321/my-vocab-repo@main/data/psychology.json
+GET https://cdn.jsdelivr.net/gh/katherine54321/my-vocab-repo@main/data/human_organs.json
+GET https://cdn.jsdelivr.net/gh/katherine54321/my-vocab-repo@main/data/food_dining.json
 ```
 
 ## 🛠️ 推送至你的 GitHub 仓库步骤
 ```bash
 cd my-vocab-repo
-git init
-git add .
-git commit -m "feat: publish 14,000+ CEFR English vocabulary database"
-git branch -M main
-git remote add origin https://github.com/<你的GitHub用户名>/my-vocab-repo.git
+git remote add origin https://github.com/katherine54321/my-vocab-repo.git
 git push -u origin main
 ```
