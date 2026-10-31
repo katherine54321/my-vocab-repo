@@ -1,142 +1,218 @@
 [
   {
-    "id": "life_noun",
-    "word": "life",
+    "id": "axiom_noun",
+    "word": "axiom",
     "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/laif/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/life-us.mp3",
-    "definition_en": "n. a characteristic state or mode of living n. the experience of being alive; the course of human events and activities n. the course of existence of an individual; the actions and events that occur in living n. the period during which something is functional (as between birth and death)",
-    "definition_zh": "n. 生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑",
+    "level": "C2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'æksiәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/axiom-us.mp3",
+    "definition_en": "n. (logic) a proposition that is not susceptible of proof or disproof; its truth is assumed to be self-evident",
+    "definition_zh": "n. 自明之理, 公理, 原理, 格言\\n 公理, 原理, 原则",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of life."
+      {
+        "en": "Scholars debated whether axiom provides objective moral guidelines.",
+        "zh": "在相关语境中，'axiom'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "question_noun",
-    "word": "question",
+    "id": "conscience_noun",
+    "word": "conscience",
     "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'kwestʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/question-us.mp3",
-    "definition_en": "n. an instance of questioning n. the subject matter at issue n. a sentence of inquiry that asks for a reply n. an informal reference to a marriage proposal",
-    "definition_zh": "n. 问题, 询问",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'kɒnʃәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conscience-us.mp3",
+    "definition_en": "n. motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions\\nn. conformity to one's own sense of right conduct\\nn. a feeling of shame when you do something immoral",
+    "definition_zh": "n. 良心\\n 良心, 道德感, 正义感",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of question."
+      {
+        "en": "Scholars debated whether conscience provides objective moral guidelines.",
+        "zh": "在相关语境中，'conscience'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "real_adjective",
-    "word": "real",
+    "id": "conscientious_adjective",
+    "word": "conscientious",
     "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'riәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/real-us.mp3",
-    "definition_en": "n. the basic unit of money in Brazil; equal to 100 centavos n. an old small silver Spanish coin a. being or occurring in fact or actuality; having verified existence; not illusory; not ghosts\" a. no less than what is stated; worthy of the name",
-    "definition_zh": "a. 真的, 真实的, 实际的, 实在的, 不动(产)的, 实数的",
+    "level": "C1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/.kɒnʃi'enʃәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conscientious-us.mp3",
+    "definition_en": "s. characterized by extreme care and great effort\\na. guided by or in accordance with conscience or sense of right and wrong",
+    "definition_zh": "a. 有责任心的, 负责的, 本着良心的\\n 凭良心做的, 有道德感的",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of real."
+      {
+        "en": "The author presented a deeply conscientious analysis of human nature.",
+        "zh": "在相关语境中，'conscientious'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "right_adjective",
-    "word": "right",
+    "id": "demystification_noun",
+    "word": "demystification",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/di:,mistifi'keiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/demystification-us.mp3",
+    "definition_en": "",
+    "definition_zh": "n. 非神秘化启蒙,启发",
+    "examples": [
+      {
+        "en": "Scholars debated whether demystification provides objective moral guidelines.",
+        "zh": "在相关语境中，'demystification'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "depraved_adjective",
+    "word": "depraved",
     "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/rait/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/right-us.mp3",
-    "definition_en": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\" n. location near or direction toward the right side; i.e. the side to the south when a person or object faces east n. those who support political or social or economic conservatism; those who believe that things are better left unchanged n. the hand that is on the right side of the body",
-    "definition_zh": "a. 正确的, 对的, 恰当的, 正常的, 正直的, 正面的, 右方的",
+    "level": "C2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/di'preivd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depraved-us.mp3",
+    "definition_en": "s. deviating from what is considered moral or right or proper or good",
+    "definition_zh": "a. 堕落的, 腐化的, 道德败坏的\\n 恶化的, 变坏的",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of right."
+      {
+        "en": "The author presented a deeply depraved analysis of human nature.",
+        "zh": "在相关语境中，'depraved'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "true_adjective",
-    "word": "true",
+    "id": "ethic_noun",
+    "word": "ethic",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'eθik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ethic-us.mp3",
+    "definition_en": "n. the principles of right and wrong that are accepted by an individual or a social group\\nn. a system of principles governing morality and acceptable conduct",
+    "definition_zh": "n. 道德规范, 伦理",
+    "examples": [
+      {
+        "en": "Scholars debated whether ethic provides objective moral guidelines.",
+        "zh": "在相关语境中，'ethic'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "ethical_adjective",
+    "word": "ethical",
     "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/tru:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/true-us.mp3",
-    "definition_en": "n. proper alignment; the property possessed by something that is in correct or proper alignment v. make level, square, balanced, or concentric a. consistent with fact or reality; not false s. accurately placed or thrown",
-    "definition_zh": "a. 真实的, 正确的, 忠诚的, 可靠的, 纯粹的, 正式的",
+    "level": "C1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'eθikәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ethical-us.mp3",
+    "definition_en": "a. of or relating to the philosophical study of ethics\\na. conforming to accepted standards of social or professional behavior\\ns. adhering to ethical and moral principles",
+    "definition_zh": "a. 伦理的, 民族的, 民族特有的\\n 伦理的, 道德的",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of true."
+      {
+        "en": "The author presented a deeply ethical analysis of human nature.",
+        "zh": "在相关语境中，'ethical'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "wrong_adjective",
-    "word": "wrong",
+    "id": "ethically_adverb",
+    "word": "ethically",
+    "part_of_speech": "adverb",
+    "level": "C1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ethically-us.mp3",
+    "definition_en": "r. in an ethical manner; from an ethical point of view; according to ethics",
+    "definition_zh": "adv. 伦理上",
+    "examples": [
+      {
+        "en": "The author presented a deeply ethically analysis of human nature.",
+        "zh": "在相关语境中，'ethically'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "immoral_adjective",
+    "word": "immoral",
     "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/rɒŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wrong-us.mp3",
-    "definition_en": "n. that which is contrary to the principles of justice or law n. any harm or injury resulting from a violation of a legal right v. treat unjustly; do wrong to a. contrary to conscience or morality or law",
-    "definition_zh": "a. 错误的, 不正当的, 失常的",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/i'mɒrәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/immoral-us.mp3",
+    "definition_en": "a. deliberately violating accepted principles of right and wrong",
+    "definition_zh": "a. 不道德的, 邪恶的, 放荡的\\n 不道德的, 道德败坏的, 邪恶的",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of wrong."
+      {
+        "en": "The author presented a deeply immoral analysis of human nature.",
+        "zh": "在相关语境中，'immoral'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "truth_noun",
-    "word": "truth",
+    "id": "improper_adjective",
+    "word": "improper",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/im'prɒpә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/improper-us.mp3",
+    "definition_en": "a. not suitable or right or appropriate\\ns. not conforming to legality, moral law, or social convention\\ns. not appropriate for a purpose or occasion",
+    "definition_zh": "a. 不合适的, 错误的, 不成体统的, 不道德的\\n 不适当的, 不合适的, 不正确的",
+    "examples": [
+      {
+        "en": "The author presented a deeply improper analysis of human nature.",
+        "zh": "在相关语境中，'improper'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "intersection_noun",
+    "word": "intersection",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/.intә'sekʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/intersection-us.mp3",
+    "definition_en": "n. a point where lines intersect\\nn. a junction where one street or road crosses another\\nn. a point or set of points common to two or more geometric configurations",
+    "definition_zh": "n. 交集, 十字路口, 交叉点\\n 逻辑乘; 与",
+    "examples": [
+      {
+        "en": "Scholars debated whether intersection provides objective moral guidelines.",
+        "zh": "在相关语境中，'intersection'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "lamp_noun",
+    "word": "lamp",
     "part_of_speech": "noun",
     "level": "A2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/tru:θ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/truth-us.mp3",
-    "definition_en": "n. a fact that has been verified n. conformity to reality or actuality n. a true statement n. United States abolitionist and feminist who was freed from slavery and became a leading advocate of the abolition of slavery and for the rights of women (1797-1883)",
-    "definition_zh": "n. 事实, 实情",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/læmp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lamp-us.mp3",
+    "definition_en": "n. an artificial source of visible illumination\\nn. a piece of furniture holding one or more electric light bulbs",
+    "definition_zh": "n. 灯\\nvt. 照亮\\n 逻辑模拟分析系统",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of truth."
-    ]
-  },
-  {
-    "id": "belief_noun",
-    "word": "belief",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/bi'li:f/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/belief-us.mp3",
-    "definition_en": "n. any cognitive content held as true",
-    "definition_zh": "n. 信念, 相信, 信仰",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of belief."
-    ]
-  },
-  {
-    "id": "believe_verb",
-    "word": "believe",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/bi'li:v/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/believe-us.mp3",
-    "definition_en": "v. accept as true; take to be true v. be confident about something v. follow a credo; have a faith; be a believer v. credit with veracity",
-    "definition_zh": "v. 相信",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of believe."
-    ]
-  },
-  {
-    "id": "concept_noun",
-    "word": "concept",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'kɒnsept/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/concept-us.mp3",
-    "definition_en": "n. an abstract or general idea inferred or derived from specific instances",
-    "definition_zh": "n. 观念, 概念",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of concept."
+      {
+        "en": "Scholars debated whether lamp provides objective moral guidelines.",
+        "zh": "在相关语境中，'lamp'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -144,195 +220,197 @@
     "word": "logic",
     "part_of_speech": "noun",
     "level": "B1",
-    "topic": "哲学与伦理思辨",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
     "phonetic": "/'lɒdʒik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/logic-us.mp3",
-    "definition_en": "n. the branch of philosophy that analyzes inference n. reasoned and reasonable judgment n. the principles that guide reasoning within a given field or situation n. the system of operations performed by a computer that underlies the machine's representation of logical operations",
-    "definition_zh": "n. 逻辑, 逻辑学, 推理的方法, 推理, 逻辑性",
+    "definition_en": "n. the branch of philosophy that analyzes inference\\nn. reasoned and reasonable judgment\\nn. the principles that guide reasoning within a given field or situation\\nn. the system of operations performed by a computer that underlies the machine's representation of logical operations",
+    "definition_zh": "n. 逻辑, 逻辑学, 推理的方法, 推理, 逻辑性\\n 逻辑",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of logic."
-    ]
-  },
-  {
-    "id": "moral_adjective",
-    "word": "moral",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'mɒrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moral-us.mp3",
-    "definition_en": "n. the significance of a story or event a. concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles s. psychological rather than physical or tangible in effect",
-    "definition_zh": "a. 道德的, 品性端正的, 精神上的",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of moral."
-    ]
-  },
-  {
-    "id": "morality_noun",
-    "word": "morality",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/mә'ræliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/morality-us.mp3",
-    "definition_en": "n. concern with the distinction between good and evil or right and wrong; right or good conduct",
-    "definition_zh": "n. 道德, 教训, 品行",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of morality."
-    ]
-  },
-  {
-    "id": "reason_noun",
-    "word": "reason",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'ri:zn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reason-us.mp3",
-    "definition_en": "n. a rational motive for a belief or action n. an explanation of the cause of some phenomenon n. the capacity for rational thought or inference or discrimination n. a fact that logically justifies some premise or conclusion",
-    "definition_zh": "n. 理由, 原因, 理智, 道理, 前提, 理性",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of reason."
-    ]
-  },
-  {
-    "id": "wisdom_noun",
-    "word": "wisdom",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'wizdәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wisdom-us.mp3",
-    "definition_en": "n. accumulated knowledge or erudition or enlightenment n. the trait of utilizing knowledge and experience with common sense and insight n. ability to apply knowledge or experience or understanding or common sense and insight n. the quality of being prudent and sensible",
-    "definition_zh": "n. 智慧, 明智行为, 学识, 名言, 贤人",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of wisdom."
-    ]
-  },
-  {
-    "id": "assertion_noun",
-    "word": "assertion",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/ә'sә:ʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assertion-us.mp3",
-    "definition_en": "n. a declaration that is made emphatically (as if no supporting evidence were necessary)",
-    "definition_zh": "n. 断言, 主张",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of assertion."
-    ]
-  },
-  {
-    "id": "deduction_noun",
-    "word": "deduction",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/di'dʌkʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deduction-us.mp3",
-    "definition_en": "n. an amount or percentage deducted n. something that is inferred (deduced or entailed or implied) n. reasoning from the general to the particular (or from cause to effect)",
-    "definition_zh": "n. 减除, 扣除, 减除额, 推论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of deduction."
-    ]
-  },
-  {
-    "id": "dogma_noun",
-    "word": "dogma",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'dɒgmә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dogma-us.mp3",
-    "definition_en": "n. a religious doctrine that is proclaimed as true without proof n. a doctrine or code of beliefs accepted as authoritative",
-    "definition_zh": "n. 教条",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of dogma."
-    ]
-  },
-  {
-    "id": "essence_noun",
-    "word": "essence",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'esns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/essence-us.mp3",
-    "definition_en": "n. any substance possessing to a high degree the predominant properties of a plant or drug or other natural product from which it is extracted",
-    "definition_zh": "n. 实质, 本质, 香精",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of essence."
-    ]
-  },
-  {
-    "id": "ethical_adjective",
-    "word": "ethical",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'eθikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ethical-us.mp3",
-    "definition_en": "a. of or relating to the philosophical study of ethics a. conforming to accepted standards of social or professional behavior s. adhering to ethical and moral principles",
-    "definition_zh": "a. 伦理的, 民族的, 民族特有的",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of ethical."
-    ]
-  },
-  {
-    "id": "ethics_noun",
-    "word": "ethics",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'eθiks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ethics-us.mp3",
-    "definition_en": "n. the philosophical study of moral values and rules",
-    "definition_zh": "n. 道德规范",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of ethics."
-    ]
-  },
-  {
-    "id": "fallacy_noun",
-    "word": "fallacy",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'fælәsi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fallacy-us.mp3",
-    "definition_en": "n. a misconception resulting from incorrect reasoning",
-    "definition_zh": "n. 错误的观念(或信念), 谬见, 谬论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of fallacy."
-    ]
-  },
-  {
-    "id": "justice_noun",
-    "word": "justice",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'dʒʌstis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/justice-us.mp3",
-    "definition_en": "n. the quality of being just or fair n. judgment involved in the determination of rights and the assignment of rewards and punishments",
-    "definition_zh": "n. 正义, 公平, 公正, 正确, 司法, 审判",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of justice."
+      {
+        "en": "Scholars debated whether logic provides objective moral guidelines.",
+        "zh": "在相关语境中，'logic'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
     "id": "logical_adjective",
     "word": "logical",
     "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
+    "level": "A2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
     "phonetic": "/'lɒdʒikәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/logical-us.mp3",
     "definition_en": "a. capable of or reflecting the capability for correct and valid reasoning",
-    "definition_zh": "a. 合乎逻辑的, 合理的",
+    "definition_zh": "a. 合乎逻辑的, 合理的\\n 逻辑的, 符合逻辑的",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of logical."
+      {
+        "en": "The author presented a deeply logical analysis of human nature.",
+        "zh": "在相关语境中，'logical'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "logically_adverb",
+    "word": "logically",
+    "part_of_speech": "adverb",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'lɔdʒikәli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/logically-us.mp3",
+    "definition_en": "r. according to logical reasoning\\nr. in a logical manner",
+    "definition_zh": "adv. 逻辑, 合乎逻辑, 符合逻辑, 逻辑上, 有逻辑, 有逻辑头脑, 合理, 明智",
+    "examples": [
+      {
+        "en": "The author presented a deeply logically analysis of human nature.",
+        "zh": "在相关语境中，'logically'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "majority_noun",
+    "word": "majority",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/mә'dʒɒriti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/majority-us.mp3",
+    "definition_en": "n. the property resulting from being or relating to the greater in number of two parts; the main part\\nn. (elections) more than half of the votes\\nn. the age at which persons are considered competent to manage their own affairs",
+    "definition_zh": "n. 多数, 大半\\n 多数逻辑",
+    "examples": [
+      {
+        "en": "Scholars debated whether majority provides objective moral guidelines.",
+        "zh": "在相关语境中，'majority'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "materialism_noun",
+    "word": "materialism",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/mә'tiәriәlizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/materialism-us.mp3",
+    "definition_en": "n. a desire for wealth and material possessions with little interest in ethical or spiritual matters\\nn. (philosophy) the philosophical theory that matter is the only reality",
+    "definition_zh": "n. 唯物主义",
+    "examples": [
+      {
+        "en": "Scholars debated whether materialism provides objective moral guidelines.",
+        "zh": "在相关语境中，'materialism'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "materialistic_adjective",
+    "word": "materialistic",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/mә.tiәriә'listik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/materialistic-us.mp3",
+    "definition_en": "s. marked by materialism",
+    "definition_zh": "a. 唯物论的, 唯物主义的",
+    "examples": [
+      {
+        "en": "The author presented a deeply materialistic analysis of human nature.",
+        "zh": "在相关语境中，'materialistic'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "metaphysics_noun",
+    "word": "metaphysics",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/.metә'fiziks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/metaphysics-us.mp3",
+    "definition_en": "n. the philosophical study of being and knowing",
+    "definition_zh": "n. 形而上学, 玄学, 空头理论",
+    "examples": [
+      {
+        "en": "Scholars debated whether metaphysics provides objective moral guidelines.",
+        "zh": "在相关语境中，'metaphysics'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "moral_adjective",
+    "word": "moral",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'mɒrәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moral-us.mp3",
+    "definition_en": "n. the significance of a story or event\\na. concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles\\ns. psychological rather than physical or tangible in effect",
+    "definition_zh": "n. 道德, 品行, 寓意\\na. 道德的, 品性端正的, 精神上的",
+    "examples": [
+      {
+        "en": "The author presented a deeply moral analysis of human nature.",
+        "zh": "在相关语境中，'moral'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "moral_noun",
+    "word": "moral",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'mɒrәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moral-us.mp3",
+    "definition_en": "n. the significance of a story or event\\na. concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles\\ns. psychological rather than physical or tangible in effect",
+    "definition_zh": "n. 道德, 品行, 寓意\\na. 道德的, 品性端正的, 精神上的",
+    "examples": [
+      {
+        "en": "Scholars debated whether moral provides objective moral guidelines.",
+        "zh": "在相关语境中，'moral'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "morality_noun",
+    "word": "morality",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/mә'ræliti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/morality-us.mp3",
+    "definition_en": "n. concern with the distinction between good and evil or right and wrong; right or good conduct",
+    "definition_zh": "n. 道德, 教训, 品行\\n 道德, 道义",
+    "examples": [
+      {
+        "en": "Scholars debated whether morality provides objective moral guidelines.",
+        "zh": "在相关语境中，'morality'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "morally_adverb",
+    "word": "morally",
+    "part_of_speech": "adverb",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'mɒrәli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/morally-us.mp3",
+    "definition_en": "r. with respect to moral principles\\nr. in a moral manner",
+    "definition_zh": "adv. 道德上, 德性上, 有道德地",
+    "examples": [
+      {
+        "en": "The author presented a deeply morally analysis of human nature.",
+        "zh": "在相关语境中，'morally'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -340,27 +418,53 @@
     "word": "paradox",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "哲学与伦理思辨",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
     "phonetic": "/'pærәdɒks/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paradox-us.mp3",
     "definition_en": "n. (logic) a statement that contradicts itself",
-    "definition_zh": "n. 似非而是的论点, 自相矛盾的话, 悖论, 怪人怪事",
+    "definition_zh": "n. 似非而是的论点, 自相矛盾的话, 悖论, 怪人怪事\\n 佯谬",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of paradox."
+      {
+        "en": "Scholars debated whether paradox provides objective moral guidelines.",
+        "zh": "在相关语境中，'paradox'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
     "id": "philosopher_noun",
     "word": "philosopher",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
     "phonetic": "/fi'lɒsәfә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/philosopher-us.mp3",
-    "definition_en": "n. a specialist in philosophy n. a wise person who is calm and rational; someone who lives a life of reason with equanimity",
-    "definition_zh": "n. 哲学家, 哲人, 思想开创人, 达观的人",
+    "definition_en": "n. a specialist in philosophy\\nn. a wise person who is calm and rational; someone who lives a life of reason with equanimity",
+    "definition_zh": "n. 哲学家, 哲人, 思想开创人, 达观的人\\n 哲学家, 哲学研究者",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of philosopher."
+      {
+        "en": "Scholars debated whether philosopher provides objective moral guidelines.",
+        "zh": "在相关语境中，'philosopher'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "philosophers_noun",
+    "word": "philosophers",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/fɪ'lɒsəfəz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/philosophers-us.mp3",
+    "definition_en": "n. a specialist in philosophy\\nn. a wise person who is calm and rational; someone who lives a life of reason with equanimity",
+    "definition_zh": "n. 哲学家( philosopher的复数形式 ); 豁达的人",
+    "examples": [
+      {
+        "en": "Scholars debated whether philosophers provides objective moral guidelines.",
+        "zh": "在相关语境中，'philosophers'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -368,111 +472,161 @@
     "word": "philosophical",
     "part_of_speech": "adjective",
     "level": "B2",
-    "topic": "哲学与伦理思辨",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
     "phonetic": "/.filә'sɒfikl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/philosophical-us.mp3",
     "definition_en": "s. characterized by the attitude of a philosopher; meeting trouble with level-headed detachment",
     "definition_zh": "a. 哲学的, 冷静的, 达观的, 哲学上的, 哲学家似的",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of philosophical."
+      {
+        "en": "The author presented a deeply philosophical analysis of human nature.",
+        "zh": "在相关语境中，'philosophical'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
     "id": "philosophy_noun",
     "word": "philosophy",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
     "phonetic": "/fi'lɒsәfi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/philosophy-us.mp3",
-    "definition_en": "n. the rational investigation of questions about existence and knowledge and ethics n. any personal belief about how to live or how to deal with a situation",
+    "definition_en": "n. the rational investigation of questions about existence and knowledge and ethics\\nn. any personal belief about how to live or how to deal with a situation",
     "definition_zh": "n. 哲学, 人生观, 哲学思想, 哲理, 基本原理, 见解, 达观, 沉着",
     "examples": [
-      "Ancient philosophy encourages thinkers to question assumptions and seek wisdom."
+      {
+        "en": "Scholars debated whether philosophy provides objective moral guidelines.",
+        "zh": "在相关语境中，'philosophy'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "premise_noun",
-    "word": "premise",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'premis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/premise-us.mp3",
-    "definition_en": "n. a statement that is assumed to be true and from which a conclusion can be drawn v. set forth beforehand, often as an explanation v. take something as preexisting and given",
-    "definition_zh": "n. 前提, 房屋连地基, 上述各项",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of premise."
-    ]
-  },
-  {
-    "id": "principle_noun",
-    "word": "principle",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'prinsipl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/principle-us.mp3",
-    "definition_en": "n. a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct n. a rule or standard especially of good behavior n. a basic truth or law or assumption n. a rule or law concerning a natural phenomenon or the function of a complex system",
-    "definition_zh": "n. 原则, 原理, 主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of principle."
-    ]
-  },
-  {
-    "id": "rational_adjective",
-    "word": "rational",
+    "id": "puritanical_adjective",
+    "word": "puritanical",
     "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'ræʃәnl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rational-us.mp3",
-    "definition_en": "a. consistent with or based on or using reason a. capable of being expressed as a quotient of integers s. having its source in or being guided by the intellect (as distinguished from experience or emotion)",
-    "definition_zh": "a. 理性的, 合理的",
+    "level": "C2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/,pjuәri'tænikәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/puritanical-us.mp3",
+    "definition_en": "a. of or relating to Puritans or Puritanism",
+    "definition_zh": "a. 清教徒的, 清教主义的, 宗教上极端拘谨的, 道德上极端拘谨的",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of rational."
+      {
+        "en": "The author presented a deeply puritanical analysis of human nature.",
+        "zh": "在相关语境中，'puritanical'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "realism_noun",
-    "word": "realism",
+    "id": "scholasticism_noun",
+    "word": "scholasticism",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'riәlizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/realism-us.mp3",
-    "definition_en": "n. the attribute of accepting the facts of life and favoring practicality and literal truth n. (philosophy) the philosophical doctrine that physical objects continue to exist when not perceived",
-    "definition_zh": "n. 写实主义, 现实, 实在论",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/skә'læstisizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scholasticism-us.mp3",
+    "definition_en": "n. the system of philosophy dominant in medieval Europe; based on Aristotle and the Church Fathers\\nn. orthodoxy of a scholastic variety",
+    "definition_zh": "n. 繁琐哲学, 墨守成规, 经院哲学\\n 宗教哲学",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of realism."
+      {
+        "en": "Scholars debated whether scholasticism provides objective moral guidelines.",
+        "zh": "在相关语境中，'scholasticism'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "skeptic_noun",
-    "word": "skeptic",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'skeptik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skeptic-us.mp3",
-    "definition_en": "n. someone who habitually doubts accepted beliefs",
-    "definition_zh": "n. 怀疑者, 怀疑论者, 不可知论者",
+    "id": "shameful_adjective",
+    "word": "shameful",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'ʃeimful/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shameful-us.mp3",
+    "definition_en": "s (used of conduct or character) deserving or bringing disgrace or shame\\ns giving offense to moral sensibilities and injurious to reputation",
+    "definition_zh": "a. 可耻的, 丢脸的, 不道德的, 淫猥的, 猥亵的, 不体面的",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of skeptic."
+      {
+        "en": "The author presented a deeply shameful analysis of human nature.",
+        "zh": "在相关语境中，'shameful'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "skepticism_noun",
-    "word": "skepticism",
+    "id": "stoicism_noun",
+    "word": "stoicism",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'skeptisizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skepticism-us.mp3",
-    "definition_en": "n doubt about the truth of something n the disbelief in any claims of ultimate knowledge",
-    "definition_zh": "n. 怀疑论",
+    "level": "C2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'stәuisizәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stoicism-us.mp3",
+    "definition_en": "n. an indifference to pleasure or pain\\nn. (philosophy) the philosophical system of the Stoics following the teachings of the ancient Greek philosopher Zeno",
+    "definition_zh": "n. 斯多葛哲学, 禁欲主义, 淡泊",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of skepticism."
+      {
+        "en": "Scholars debated whether stoicism provides objective moral guidelines.",
+        "zh": "在相关语境中，'stoicism'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "truth_noun",
+    "word": "truth",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/tru:θ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/truth-us.mp3",
+    "definition_en": "n. a fact that has been verified\\nn. conformity to reality or actuality\\nn. a true statement\\nn. United States abolitionist and feminist who was freed from slavery and became a leading advocate of the abolition of slavery and for the rights of women (1797-1883)",
+    "definition_zh": "n. 事实, 实情\\n 真实, 真相, 事实",
+    "examples": [
+      {
+        "en": "Scholars debated whether truth provides objective moral guidelines.",
+        "zh": "在相关语境中，'truth'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "truths_noun",
+    "word": "truths",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/truths-us.mp3",
+    "definition_en": "n a fact that has been verified\\nn conformity to reality or actuality\\nn a true statement\\nn the quality of being near to the true value\\nn United States abolitionist and feminist who was freed from slavery and became a leading advocate of the abolition of slavery and for the rights of women (1797-1883)",
+    "definition_zh": "真理, 真实, 实际情况, 真相, 真实性, 忠实性",
+    "examples": [
+      {
+        "en": "Scholars debated whether truths provides objective moral guidelines.",
+        "zh": "在相关语境中，'truths'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "utilitarian_adjective",
+    "word": "utilitarian",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/.ju:tili'tєәriәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/utilitarian-us.mp3",
+    "definition_en": "n. someone who believes that the value of a thing depends on its utility\\ns. having a useful function\\ns. having utility often to the exclusion of values",
+    "definition_zh": "a. 有效用的, 实利主义的, 功利主义的\\nn. 功利主义者",
+    "examples": [
+      {
+        "en": "The author presented a deeply utilitarian analysis of human nature.",
+        "zh": "在相关语境中，'utilitarian'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -480,615 +634,53 @@
     "word": "virtue",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "哲学与伦理思辨",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
     "phonetic": "/'vә:tju:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/virtue-us.mp3",
-    "definition_en": "n. the quality of doing what is right and avoiding what is wrong n. morality with respect to sexual relations n. a particular moral excellence",
-    "definition_zh": "n. 德行, 美德, 优点, 功效, 效力",
+    "definition_en": "n. the quality of doing what is right and avoiding what is wrong\\nn. morality with respect to sexual relations\\nn. a particular moral excellence",
+    "definition_zh": "n. 德行, 美德, 优点, 功效, 效力\\n 美德, 贞操, 优点",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of virtue."
+      {
+        "en": "Scholars debated whether virtue provides objective moral guidelines.",
+        "zh": "在相关语境中，'virtue'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "altruism_noun",
-    "word": "altruism",
+    "id": "virtues_noun",
+    "word": "virtues",
     "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'æltruizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/altruism-us.mp3",
-    "definition_en": "n. the quality of unselfish concern for the welfare of others",
-    "definition_zh": "n. 利他主义, 利他",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'vɜ:tʃu:z/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/virtues-us.mp3",
+    "definition_en": "n. the quality of doing what is right and avoiding what is wrong\\nn. any admirable quality or attribute\\nn. morality with respect to sexual relations",
+    "definition_zh": "n. 美德( virtue的复数形式 ); 德行; 优点; 长处",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of altruism."
+      {
+        "en": "Scholars debated whether virtues provides objective moral guidelines.",
+        "zh": "在相关语境中，'virtues'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "axiom_noun",
-    "word": "axiom",
+    "id": "wisdom_noun",
+    "word": "wisdom",
     "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'æksiәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/axiom-us.mp3",
-    "definition_en": "n. (logic) a proposition that is not susceptible of proof or disproof; its truth is assumed to be self-evident",
-    "definition_zh": "n. 自明之理, 公理, 原理, 格言",
+    "level": "A2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'wizdәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wisdom-us.mp3",
+    "definition_en": "n. accumulated knowledge or erudition or enlightenment\\nn. the trait of utilizing knowledge and experience with common sense and insight\\nn. ability to apply knowledge or experience or understanding or common sense and insight\\nn. the quality of being prudent and sensible",
+    "definition_zh": "n. 智慧, 明智行为, 学识, 名言, 贤人",
     "examples": [
-      "The dialogue delved deeply into the ethical implications of axiom."
-    ]
-  },
-  {
-    "id": "causality_noun",
-    "word": "causality",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/kɒ:'zæliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/causality-us.mp3",
-    "definition_en": "n. the relation between causes and effects",
-    "definition_zh": "n. 因果关系",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of causality."
-    ]
-  },
-  {
-    "id": "cynicism_noun",
-    "word": "cynicism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'sinisizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cynicism-us.mp3",
-    "definition_en": "n. a cynical feeling of distrust",
-    "definition_zh": "n. 犬儒主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of cynicism."
-    ]
-  },
-  {
-    "id": "dialectic_noun",
-    "word": "dialectic",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/daiә'lektik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dialectic-us.mp3",
-    "definition_en": "n. any formal system of reasoning that arrives at the truth by the exchange of logical arguments n. a contradiction of ideas that serves as the determining factor in their interaction a. of or relating to or employing dialectic",
-    "definition_zh": "n. 辩证法, 逻辑论证",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of dialectic."
-    ]
-  },
-  {
-    "id": "dualism_noun",
-    "word": "dualism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'dju:әlizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dualism-us.mp3",
-    "definition_en": "n. the doctrine that reality consists of two basic opposing elements, often taken to be mind and matter (or mind and body), or good and evil",
-    "definition_zh": "n. 双重性, 二元论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of dualism."
-    ]
-  },
-  {
-    "id": "empiricism_noun",
-    "word": "empiricism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/em'pirisizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/empiricism-us.mp3",
-    "definition_en": "n. (philosophy) the doctrine that knowledge derives from experience n. the application of empirical methods in any art or science",
-    "definition_zh": "n. 经验主义, 庸医的医术, 经验论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of empiricism."
-    ]
-  },
-  {
-    "id": "enlightenment_noun",
-    "word": "enlightenment",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/in'laitmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enlightenment-us.mp3",
-    "definition_en": "n. education that results in understanding and the spread of knowledge n. a movement in Europe from about 1650 until 1800 that advocated the use of reason and individualism instead of tradition and established doctrine",
-    "definition_zh": "n. 启迪, 教化",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of enlightenment."
-    ]
-  },
-  {
-    "id": "epistemology_noun",
-    "word": "epistemology",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/i.pisti:'mɒlәdʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/epistemology-us.mp3",
-    "definition_en": "n. the philosophical theory of knowledge",
-    "definition_zh": "n. 认识论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of epistemology."
-    ]
-  },
-  {
-    "id": "existential_adjective",
-    "word": "existential",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.egzis'tenʃәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/existential-us.mp3",
-    "definition_en": "a. of or as conceived by existentialism a. relating to or dealing with existence (especially with human existence)",
-    "definition_zh": "a. 有关存在的",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of existential."
-    ]
-  },
-  {
-    "id": "existentialism_noun",
-    "word": "existentialism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/e^zi'stenʃәliz(ә)m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/existentialism-us.mp3",
-    "definition_en": "n. (philosophy) a 20th-century philosophical movement chiefly in Europe; assumes that people are entirely free and thus responsible for what they make of themselves",
-    "definition_zh": "n. 存在主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of existentialism."
-    ]
-  },
-  {
-    "id": "humanism_noun",
-    "word": "humanism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'hju:mәnizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/humanism-us.mp3",
-    "definition_en": "n. the doctrine emphasizing a person's capacity for self-realization through reason; rejects religion and the supernatural n. the cultural movement of the Renaissance; based on classical studies",
-    "definition_zh": "n. 人本主义, 人文主义, 人道主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of humanism."
-    ]
-  },
-  {
-    "id": "idealism_noun",
-    "word": "idealism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/ai'diәlizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/idealism-us.mp3",
-    "definition_en": "n. (philosophy) the philosophical theory that ideas are the only reality n. impracticality by virtue of thinking of things in their ideal form rather than as they really are",
-    "definition_zh": "n. 唯心主义, 观念论, 唯心论, 理想主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of idealism."
-    ]
-  },
-  {
-    "id": "materialism_noun",
-    "word": "materialism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/mә'tiәriәlizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/materialism-us.mp3",
-    "definition_en": "n. a desire for wealth and material possessions with little interest in ethical or spiritual matters n. (philosophy) the philosophical theory that matter is the only reality",
-    "definition_zh": "n. 唯物主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of materialism."
-    ]
-  },
-  {
-    "id": "metaphysical_adjective",
-    "word": "metaphysical",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.metә'fizikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/metaphysical-us.mp3",
-    "definition_en": "a. pertaining to or of the nature of metaphysics s. without material form or substance s. highly abstract and overly theoretical",
-    "definition_zh": "a. 形而上学的, 纯粹哲学的, 抽象的",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of metaphysical."
-    ]
-  },
-  {
-    "id": "metaphysics_noun",
-    "word": "metaphysics",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.metә'fiziks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/metaphysics-us.mp3",
-    "definition_en": "n. the philosophical study of being and knowing",
-    "definition_zh": "n. 形而上学, 玄学, 空头理论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of metaphysics."
-    ]
-  },
-  {
-    "id": "mysticism_noun",
-    "word": "mysticism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'mistisizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mysticism-us.mp3",
-    "definition_en": "n. a religion based on mystical communion with an ultimate reality n. obscure or irrational thought",
-    "definition_zh": "n. 神秘, 神秘教, 模糊思想",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of mysticism."
-    ]
-  },
-  {
-    "id": "nihilism_noun",
-    "word": "nihilism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'naiilizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nihilism-us.mp3",
-    "definition_en": "n. a revolutionary doctrine that advocates destruction of the social system for its own sake n. complete denial of all established authority and institutions",
-    "definition_zh": "n. 虚无主义, 无政府主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of nihilism."
-    ]
-  },
-  {
-    "id": "ontology_noun",
-    "word": "ontology",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/ɒn'tɒlәdʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ontology-us.mp3",
-    "definition_en": "n. (computer science) a rigorous and exhaustive organization of some knowledge domain that is usually hierarchical and contains all the relevant entities and their relations n. the metaphysical study of the nature of being and existence",
-    "definition_zh": "n. 存在论, 本体论, 实体论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of ontology."
-    ]
-  },
-  {
-    "id": "positivism_noun",
-    "word": "positivism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'pɒzitivizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/positivism-us.mp3",
-    "definition_en": "n. the form of empiricism that bases all knowledge on perceptual experience (not on intuition or revelation)",
-    "definition_zh": "n. 实证论, 实证主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of positivism."
-    ]
-  },
-  {
-    "id": "pragmatism_noun",
-    "word": "pragmatism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'prægmәtizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pragmatism-us.mp3",
-    "definition_en": "n. (philosophy) the doctrine that practical consequences are the criteria of knowledge and meaning and value",
-    "definition_zh": "n. 实用主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of pragmatism."
-    ]
-  },
-  {
-    "id": "rationalism_noun",
-    "word": "rationalism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'ræʃәnәlizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rationalism-us.mp3",
-    "definition_en": "n. (philosophy) the doctrine that knowledge is acquired by reason without resort to experience n. the theological doctrine that human reason rather than divine revelation establishes religious truth n. the doctrine that reason is the right basis for regulating conduct",
-    "definition_zh": "n. 合理主义, 理性论, 纯理论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of rationalism."
-    ]
-  },
-  {
-    "id": "relativism_noun",
-    "word": "relativism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'relәtivizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relativism-us.mp3",
-    "definition_en": "n. (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved",
-    "definition_zh": "n. 相对论, 相对主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of relativism."
-    ]
-  },
-  {
-    "id": "secularism_noun",
-    "word": "secularism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'sekjulәrizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/secularism-us.mp3",
-    "definition_en": "n. a doctrine that rejects religion and religious considerations",
-    "definition_zh": "n. 现世主义, 宗教与教育分离论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of secularism."
-    ]
-  },
-  {
-    "id": "solipsism_noun",
-    "word": "solipsism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'sɒlipsizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/solipsism-us.mp3",
-    "definition_en": "n. (philosophy) the philosophical theory that the self is all that you know to exist",
-    "definition_zh": "n. 唯我论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of solipsism."
-    ]
-  },
-  {
-    "id": "stoicism_noun",
-    "word": "stoicism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'stәuisizәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stoicism-us.mp3",
-    "definition_en": "n. an indifference to pleasure or pain n. (philosophy) the philosophical system of the Stoics following the teachings of the ancient Greek philosopher Zeno",
-    "definition_zh": "n. 斯多葛哲学, 禁欲主义, 淡泊",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of stoicism."
-    ]
-  },
-  {
-    "id": "syllogism_noun",
-    "word": "syllogism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'silәdʒizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/syllogism-us.mp3",
-    "definition_en": "n. deductive reasoning in which a conclusion is derived from two premises",
-    "definition_zh": "n. 三段论, 推论, 演绎",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of syllogism."
-    ]
-  },
-  {
-    "id": "utilitarianism_noun",
-    "word": "utilitarianism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/,ju:tili'teәriәnizəm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/utilitarianism-us.mp3",
-    "definition_en": "n. doctrine that the useful is the good; especially as elaborated by Jeremy Bentham and James Mill; the aim was said to be the greatest happiness for the greatest number",
-    "definition_zh": "n. 功利主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of utilitarianism."
-    ]
-  },
-  {
-    "id": "absurdism_noun",
-    "word": "absurdism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/әb'sә:dizәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/absurdism-us.mp3",
-    "definition_en": "A term denoting absurdism.",
-    "definition_zh": "n. 荒诞主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of absurdism."
-    ]
-  },
-  {
-    "id": "deontology_noun",
-    "word": "deontology",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.di:ɒn'tɒlәdʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deontology-us.mp3",
-    "definition_en": "n. The science relat/ to duty or moral obligation.",
-    "definition_zh": "n. 义务论, 道义论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of deontology."
-    ]
-  },
-  {
-    "id": "epistemological_adjective",
-    "word": "epistemological",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/,episti(:)mә'lɔdʒikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/epistemological-us.mp3",
-    "definition_en": "a of or relating to epistemology",
-    "definition_zh": "a. 认识论的",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of epistemological."
-    ]
-  },
-  {
-    "id": "fatalism_noun",
-    "word": "fatalism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'feitәlizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fatalism-us.mp3",
-    "definition_en": "n. a submissive mental attitude resulting from acceptance of the doctrine that everything that happens is predetermined and inevitable n. a philosophical doctrine holding that all events are predetermined in advance for all time and human beings are powerless to change them",
-    "definition_zh": "n. 宿命论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of fatalism."
-    ]
-  },
-  {
-    "id": "hedonism_noun",
-    "word": "hedonism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'hi:dәunizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hedonism-us.mp3",
-    "definition_en": "n. the pursuit of pleasure as a matter of ethical principle n. an ethical system that evaluates the pursuit of pleasure as the highest good",
-    "definition_zh": "n. 快乐论, 享乐主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of hedonism."
-    ]
-  },
-  {
-    "id": "hermeneutics_noun",
-    "word": "hermeneutics",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/,h\\\\\\\\:mә'nju:tiks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hermeneutics-us.mp3",
-    "definition_en": "n. the branch of theology that deals with principles of exegesis",
-    "definition_zh": "n. 诠释学, 解释学",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of hermeneutics."
-    ]
-  },
-  {
-    "id": "monism_noun",
-    "word": "monism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'mɒnizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/monism-us.mp3",
-    "definition_en": "n. the doctrine that reality consists of a single basic substance or element",
-    "definition_zh": "n. 一元论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of monism."
-    ]
-  },
-  {
-    "id": "nominalism_noun",
-    "word": "nominalism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'nɔminәliz(ә)m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nominalism-us.mp3",
-    "definition_en": "n. (philosophy) the doctrine that the various objects labeled by the same term have nothing in common but their name",
-    "definition_zh": "n. 唯名论, 名义主义",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of nominalism."
-    ]
-  },
-  {
-    "id": "phenomenology_noun",
-    "word": "phenomenology",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/fi.nɒmi'nɒlәdʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phenomenology-us.mp3",
-    "definition_en": "n. a philosophical doctrine proposed by Edmund Husserl based on the study of human experience in which considerations of objective reality are not taken into account",
-    "definition_zh": "n. 现象学, 现象论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of phenomenology."
-    ]
-  },
-  {
-    "id": "scholasticism_noun",
-    "word": "scholasticism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/skә'læstisizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scholasticism-us.mp3",
-    "definition_en": "n. the system of philosophy dominant in medieval Europe; based on Aristotle and the Church Fathers n. orthodoxy of a scholastic variety",
-    "definition_zh": "n. 繁琐哲学, 墨守成规, 经院哲学",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of scholasticism."
-    ]
-  },
-  {
-    "id": "solipsistic_adjective",
-    "word": "solipsistic",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/solipsistic-us.mp3",
-    "definition_en": "A term denoting solipsistic.",
-    "definition_zh": "唯我论的",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of solipsistic."
-    ]
-  },
-  {
-    "id": "tautology_noun",
-    "word": "tautology",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/tɒ:'tɒlәdʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tautology-us.mp3",
-    "definition_en": "n. (logic) a statement that is necessarily true n. useless repetition",
-    "definition_zh": "n. 同义反复, 赘述, 重言式",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of tautology."
-    ]
-  },
-  {
-    "id": "teleology_noun",
-    "word": "teleology",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.teli'ɒlәdʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teleology-us.mp3",
-    "definition_en": "n. (philosophy) a doctrine explaining phenomena by their ends or purposes",
-    "definition_zh": "n. 目的论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of teleology."
-    ]
-  },
-  {
-    "id": "theism_noun",
-    "word": "theism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'θi:izm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/theism-us.mp3",
-    "definition_en": "n. the doctrine or belief in the existence of a God or gods",
-    "definition_zh": "n. 有神论, 一神论, 茶中毒",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of theism."
-    ]
-  },
-  {
-    "id": "transcendentalism_noun",
-    "word": "transcendentalism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transcendentalism-us.mp3",
-    "definition_en": "n. any system of philosophy emphasizing the intuitive and spiritual above the empirical and material",
-    "definition_zh": "n. 先验论",
-    "examples": [
-      "The dialogue delved deeply into the ethical implications of transcendentalism."
+      {
+        "en": "Scholars debated whether wisdom provides objective moral guidelines.",
+        "zh": "在相关语境中，'wisdom'的实际运用体现了明确的语义搭配。"
+      }
     ]
   }
 ]

@@ -1,0 +1,934 @@
+// Auto-generated 34-category index
+window.CATEGORIES_INDEX = {
+  "version": "5.0.0",
+  "total_words": 14200,
+  "total_categories": 34,
+  "level_distribution": {
+    "A1": 2128,
+    "A2": 2435,
+    "B1": 3816,
+    "B2": 3676,
+    "C1": 1045,
+    "C2": 1100
+  },
+  "categories": [
+    {
+      "id": "psychology",
+      "name_en": "Psychology & Cognition",
+      "name_zh": "心理学与心智认知",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "🧠",
+      "count": 58,
+      "level_distribution": {
+        "A1": 3,
+        "A2": 9,
+        "B1": 14,
+        "B2": 14,
+        "C1": 12,
+        "C2": 6
+      },
+      "sample_words": [
+        "aberration",
+        "abject",
+        "analyst",
+        "automatic",
+        "automatic",
+        "automatic",
+        "cognitive",
+        "colonization"
+      ]
+    },
+    {
+      "id": "politics",
+      "name_en": "Politics & Governance",
+      "name_zh": "政治学与公共治理",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "🏛️",
+      "count": 94,
+      "level_distribution": {
+        "A1": 10,
+        "A2": 15,
+        "B1": 23,
+        "B2": 38,
+        "C1": 6,
+        "C2": 2
+      },
+      "sample_words": [
+        "absolute",
+        "absolute",
+        "administration",
+        "agent",
+        "anarchic",
+        "aristocracy",
+        "ballot",
+        "ballots"
+      ]
+    },
+    {
+      "id": "philosophy",
+      "name_en": "Philosophy & Ethics",
+      "name_zh": "哲学思想与伦理逻辑",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "📜",
+      "count": 38,
+      "level_distribution": {
+        "A1": 0,
+        "A2": 5,
+        "B1": 9,
+        "B2": 12,
+        "C1": 4,
+        "C2": 8
+      },
+      "sample_words": [
+        "axiom",
+        "conscience",
+        "conscientious",
+        "demystification",
+        "depraved",
+        "ethic",
+        "ethical",
+        "ethically"
+      ]
+    },
+    {
+      "id": "economics",
+      "name_en": "Economics & Finance",
+      "name_zh": "经济金融与商贸投资",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "📈",
+      "count": 479,
+      "level_distribution": {
+        "A1": 47,
+        "A2": 71,
+        "B1": 147,
+        "B2": 147,
+        "C1": 31,
+        "C2": 36
+      },
+      "sample_words": [
+        "abandonment",
+        "abolish",
+        "absentee",
+        "abundance",
+        "acceptance",
+        "accepted",
+        "accepted",
+        "accommodation"
+      ]
+    },
+    {
+      "id": "law_justice",
+      "name_en": "Law & Justice",
+      "name_zh": "法律条文与司法审判",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "⚖️",
+      "count": 625,
+      "level_distribution": {
+        "A1": 44,
+        "A2": 86,
+        "B1": 174,
+        "B2": 215,
+        "C1": 56,
+        "C2": 50
+      },
+      "sample_words": [
+        "accusation",
+        "accused",
+        "action",
+        "addicted",
+        "adequate",
+        "administrations",
+        "administrative",
+        "adoption"
+      ]
+    },
+    {
+      "id": "human_organs",
+      "name_en": "Human Organs & Anatomy",
+      "name_zh": "人体器官与生理解剖",
+      "group": "human",
+      "group_name_zh": "人类与生理",
+      "icon": "🫀",
+      "count": 91,
+      "level_distribution": {
+        "A1": 17,
+        "A2": 14,
+        "B1": 23,
+        "B2": 30,
+        "C1": 3,
+        "C2": 4
+      },
+      "sample_words": [
+        "ankle",
+        "armed",
+        "armed",
+        "armed",
+        "arterial",
+        "arteries",
+        "artery",
+        "articulate"
+      ]
+    },
+    {
+      "id": "human_emotions",
+      "name_en": "Human Emotions",
+      "name_zh": "人类情感与心境体验",
+      "group": "human",
+      "group_name_zh": "人类与生理",
+      "icon": "🎭",
+      "count": 257,
+      "level_distribution": {
+        "A1": 26,
+        "A2": 41,
+        "B1": 68,
+        "B2": 63,
+        "C1": 31,
+        "C2": 28
+      },
+      "sample_words": [
+        "affection",
+        "afraid",
+        "alone",
+        "alone",
+        "angrily",
+        "angry",
+        "angst",
+        "animate"
+      ]
+    },
+    {
+      "id": "personality_traits",
+      "name_en": "Personality & Character",
+      "name_zh": "性格品质与人格特质",
+      "group": "human",
+      "group_name_zh": "人类与生理",
+      "icon": "🌟",
+      "count": 266,
+      "level_distribution": {
+        "A1": 28,
+        "A2": 30,
+        "B1": 61,
+        "B2": 74,
+        "C1": 40,
+        "C2": 33
+      },
+      "sample_words": [
+        "abilities",
+        "ability",
+        "ambitious",
+        "antics",
+        "arch",
+        "arrogant",
+        "assuming",
+        "attributed"
+      ]
+    },
+    {
+      "id": "interpersonal_relations",
+      "name_en": "Interpersonal & Family",
+      "name_zh": "人际社交与家庭亲情",
+      "group": "human",
+      "group_name_zh": "人类与生理",
+      "icon": "👥",
+      "count": 175,
+      "level_distribution": {
+        "A1": 59,
+        "A2": 26,
+        "B1": 39,
+        "B2": 38,
+        "C1": 7,
+        "C2": 6
+      },
+      "sample_words": [
+        "accomplished",
+        "argues",
+        "arguing",
+        "aunt",
+        "babies",
+        "baby",
+        "boy",
+        "boyfriend"
+      ]
+    },
+    {
+      "id": "food_beverages",
+      "name_en": "Drinks & Beverages",
+      "name_zh": "饮品、茶酒与水饮",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "☕",
+      "count": 158,
+      "level_distribution": {
+        "A1": 15,
+        "A2": 25,
+        "B1": 54,
+        "B2": 38,
+        "C1": 18,
+        "C2": 8
+      },
+      "sample_words": [
+        "alcohol",
+        "ammonia",
+        "aqua",
+        "aquarium",
+        "armor",
+        "aspirin",
+        "attaining",
+        "average"
+      ]
+    },
+    {
+      "id": "food_fruits",
+      "name_en": "Fruits & Berries",
+      "name_zh": "水果浆果与坚果",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🍎",
+      "count": 33,
+      "level_distribution": {
+        "A1": 11,
+        "A2": 6,
+        "B1": 4,
+        "B2": 9,
+        "C1": 1,
+        "C2": 2
+      },
+      "sample_words": [
+        "apple",
+        "apples",
+        "banana",
+        "berries",
+        "berry",
+        "cherry",
+        "coconut",
+        "fool"
+      ]
+    },
+    {
+      "id": "food_vegetables",
+      "name_en": "Vegetables & Crops",
+      "name_zh": "蔬菜菌菇与农作物",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🥦",
+      "count": 38,
+      "level_distribution": {
+        "A1": 7,
+        "A2": 13,
+        "B1": 7,
+        "B2": 7,
+        "C1": 3,
+        "C2": 1
+      },
+      "sample_words": [
+        "aubergine",
+        "broccoli",
+        "carrot",
+        "chili",
+        "chips",
+        "crop",
+        "cucumber",
+        "foodstuffs"
+      ]
+    },
+    {
+      "id": "food_meat_seafood",
+      "name_en": "Meat & Seafood",
+      "name_zh": "肉禽蛋类与海鲜水产",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🥩",
+      "count": 51,
+      "level_distribution": {
+        "A1": 12,
+        "A2": 11,
+        "B1": 13,
+        "B2": 11,
+        "C1": 4,
+        "C2": 0
+      },
+      "sample_words": [
+        "angle",
+        "angle",
+        "bacon",
+        "barbecue",
+        "barbecue",
+        "beef",
+        "blocks",
+        "butcher"
+      ]
+    },
+    {
+      "id": "food_dining",
+      "name_en": "Dining & Cooking",
+      "name_zh": "餐饮烹饪、菜单与调味",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🍽️",
+      "count": 109,
+      "level_distribution": {
+        "A1": 20,
+        "A2": 32,
+        "B1": 24,
+        "B2": 24,
+        "C1": 4,
+        "C2": 5
+      },
+      "sample_words": [
+        "bake",
+        "baker",
+        "bakery",
+        "baking",
+        "batch",
+        "bikini",
+        "biscuit",
+        "blast"
+      ]
+    },
+    {
+      "id": "housing_architecture",
+      "name_en": "Housing & Architecture",
+      "name_zh": "建筑结构与居住设施",
+      "group": "living",
+      "group_name_zh": "生活与空间",
+      "icon": "🏠",
+      "count": 211,
+      "level_distribution": {
+        "A1": 45,
+        "A2": 41,
+        "B1": 52,
+        "B2": 48,
+        "C1": 18,
+        "C2": 7
+      },
+      "sample_words": [
+        "aisle",
+        "alterations",
+        "annex",
+        "annex",
+        "apartment",
+        "apartments",
+        "approach",
+        "approach"
+      ]
+    },
+    {
+      "id": "fashion_apparel",
+      "name_en": "Fashion & Apparel",
+      "name_zh": "时尚服饰与穿搭鞋包",
+      "group": "living",
+      "group_name_zh": "生活与空间",
+      "icon": "👗",
+      "count": 110,
+      "level_distribution": {
+        "A1": 27,
+        "A2": 26,
+        "B1": 30,
+        "B2": 19,
+        "C1": 8,
+        "C2": 0
+      },
+      "sample_words": [
+        "backpack",
+        "backpacker",
+        "belt",
+        "belts",
+        "boots",
+        "bracelet",
+        "buttons",
+        "cassette"
+      ]
+    },
+    {
+      "id": "tools_materials",
+      "name_en": "Tools, Machines & Materials",
+      "name_zh": "生产工具、机械与材料用品",
+      "group": "living",
+      "group_name_zh": "生活与空间",
+      "icon": "🔧",
+      "count": 193,
+      "level_distribution": {
+        "A1": 32,
+        "A2": 41,
+        "B1": 58,
+        "B2": 46,
+        "C1": 9,
+        "C2": 7
+      },
+      "sample_words": [
+        "accessory",
+        "acquire",
+        "airline",
+        "appliance",
+        "apt",
+        "artifacts",
+        "assemblies",
+        "ate"
+      ]
+    },
+    {
+      "id": "daily_actions",
+      "name_en": "Daily Routine & Living",
+      "name_zh": "日常生活习惯与起居作息",
+      "group": "living",
+      "group_name_zh": "生活与空间",
+      "icon": "⏰",
+      "count": 50,
+      "level_distribution": {
+        "A1": 12,
+        "A2": 7,
+        "B1": 13,
+        "B2": 9,
+        "C1": 3,
+        "C2": 6
+      },
+      "sample_words": [
+        "arouse",
+        "arrangements",
+        "awake",
+        "bathe",
+        "caffeinate",
+        "clean",
+        "clean",
+        "clean"
+      ]
+    },
+    {
+      "id": "geography_places",
+      "name_en": "Geography & Landmarks",
+      "name_zh": "地理地名、国家城市与名胜景点",
+      "group": "nature_geo",
+      "group_name_zh": "地理与自然",
+      "icon": "🗺️",
+      "count": 193,
+      "level_distribution": {
+        "A1": 40,
+        "A2": 46,
+        "B1": 51,
+        "B2": 36,
+        "C1": 5,
+        "C2": 15
+      },
+      "sample_words": [
+        "adds",
+        "aids",
+        "alliances",
+        "allies",
+        "americans",
+        "angeles",
+        "animals",
+        "arm"
+      ]
+    },
+    {
+      "id": "animals_wildlife",
+      "name_en": "Animals & Wildlife",
+      "name_zh": "动物世界、鸟类与陆海生物",
+      "group": "nature_geo",
+      "group_name_zh": "地理与自然",
+      "icon": "🦁",
+      "count": 145,
+      "level_distribution": {
+        "A1": 35,
+        "A2": 24,
+        "B1": 37,
+        "B2": 29,
+        "C1": 3,
+        "C2": 17
+      },
+      "sample_words": [
+        "ancestors",
+        "animal",
+        "ant",
+        "anticlimactic",
+        "ants",
+        "avian",
+        "beak",
+        "bear"
+      ]
+    },
+    {
+      "id": "nature_weather",
+      "name_en": "Nature & Weather",
+      "name_zh": "自然生态、天气气候与宇宙",
+      "group": "nature_geo",
+      "group_name_zh": "地理与自然",
+      "icon": "🌿",
+      "count": 151,
+      "level_distribution": {
+        "A1": 23,
+        "A2": 33,
+        "B1": 32,
+        "B2": 36,
+        "C1": 12,
+        "C2": 15
+      },
+      "sample_words": [
+        "accrue",
+        "antediluvian",
+        "aptitude",
+        "artificially",
+        "blitz",
+        "blitz",
+        "bolt",
+        "bolt"
+      ]
+    },
+    {
+      "id": "time_calendar",
+      "name_en": "Time & Calendar",
+      "name_zh": "时间历法、时段与季节周期",
+      "group": "nature_geo",
+      "group_name_zh": "地理与自然",
+      "icon": "📅",
+      "count": 223,
+      "level_distribution": {
+        "A1": 85,
+        "A2": 33,
+        "B1": 58,
+        "B2": 36,
+        "C1": 2,
+        "C2": 9
+      },
+      "sample_words": [
+        "about",
+        "about",
+        "about",
+        "afternoon",
+        "age",
+        "age",
+        "agenda",
+        "anniversary"
+      ]
+    },
+    {
+      "id": "travel_transport",
+      "name_en": "Travel & Transportation",
+      "name_zh": "旅行出行、交通工具与路径",
+      "group": "leisure_transport",
+      "group_name_zh": "出行与文体",
+      "icon": "✈️",
+      "count": 147,
+      "level_distribution": {
+        "A1": 33,
+        "A2": 36,
+        "B1": 32,
+        "B2": 31,
+        "C1": 9,
+        "C2": 6
+      },
+      "sample_words": [
+        "aboard",
+        "aboard",
+        "aircraft",
+        "airplane",
+        "airplanes",
+        "airport",
+        "airports",
+        "autopilot"
+      ]
+    },
+    {
+      "id": "sports_fitness",
+      "name_en": "Sports & Fitness",
+      "name_zh": "体育运动、健身竞技与球类",
+      "group": "leisure_transport",
+      "group_name_zh": "出行与文体",
+      "icon": "⚽",
+      "count": 133,
+      "level_distribution": {
+        "A1": 32,
+        "A2": 34,
+        "B1": 40,
+        "B2": 20,
+        "C1": 4,
+        "C2": 3
+      },
+      "sample_words": [
+        "aerobics",
+        "anchorman",
+        "archer",
+        "athlete",
+        "athletes",
+        "athletic",
+        "athleticism",
+        "athletics"
+      ]
+    },
+    {
+      "id": "arts_literature",
+      "name_en": "Arts & Literature",
+      "name_zh": "艺术文学、音乐绘画与戏剧",
+      "group": "leisure_transport",
+      "group_name_zh": "出行与文体",
+      "icon": "🎨",
+      "count": 222,
+      "level_distribution": {
+        "A1": 43,
+        "A2": 35,
+        "B1": 57,
+        "B2": 52,
+        "C1": 18,
+        "C2": 17
+      },
+      "sample_words": [
+        "'re",
+        "'s",
+        "abstracts",
+        "air",
+        "alternatives",
+        "applause",
+        "art",
+        "artist"
+      ]
+    },
+    {
+      "id": "entertainment_media",
+      "name_en": "Entertainment & Media",
+      "name_zh": "影视娱乐、大众传媒与资讯",
+      "group": "leisure_transport",
+      "group_name_zh": "出行与文体",
+      "icon": "🎬",
+      "count": 150,
+      "level_distribution": {
+        "A1": 32,
+        "A2": 34,
+        "B1": 38,
+        "B2": 33,
+        "C1": 6,
+        "C2": 7
+      },
+      "sample_words": [
+        "actors",
+        "ad",
+        "advert",
+        "advertise",
+        "advertised",
+        "advertisement",
+        "advertisements",
+        "advertising"
+      ]
+    },
+    {
+      "id": "medicine_healthcare",
+      "name_en": "Medicine & Healthcare",
+      "name_zh": "医药健康、临床医疗与防治",
+      "group": "leisure_transport",
+      "group_name_zh": "出行与文体",
+      "icon": "🏥",
+      "count": 695,
+      "level_distribution": {
+        "A1": 54,
+        "A2": 92,
+        "B1": 203,
+        "B2": 183,
+        "C1": 69,
+        "C2": 94
+      },
+      "sample_words": [
+        "absence",
+        "absorb",
+        "acoustic",
+        "acquired",
+        "actor",
+        "actual",
+        "acute",
+        "addiction"
+      ]
+    },
+    {
+      "id": "education_learning",
+      "name_en": "Education & Learning",
+      "name_zh": "学校教育、学术科研与学业",
+      "group": "education_work",
+      "group_name_zh": "教育与职场",
+      "icon": "🎓",
+      "count": 166,
+      "level_distribution": {
+        "A1": 35,
+        "A2": 32,
+        "B1": 58,
+        "B2": 32,
+        "C1": 5,
+        "C2": 4
+      },
+      "sample_words": [
+        "'m",
+        "academic",
+        "academic",
+        "academy",
+        "account",
+        "account",
+        "acquisitions",
+        "adviser"
+      ]
+    },
+    {
+      "id": "work_career",
+      "name_en": "Work & Business Career",
+      "name_zh": "职场商务、职业发展与管理",
+      "group": "education_work",
+      "group_name_zh": "教育与职场",
+      "icon": "💼",
+      "count": 320,
+      "level_distribution": {
+        "A1": 50,
+        "A2": 44,
+        "B1": 97,
+        "B2": 96,
+        "C1": 10,
+        "C2": 23
+      },
+      "sample_words": [
+        "achievements",
+        "admission",
+        "agreed",
+        "agreement",
+        "agreements",
+        "airlines",
+        "analyzing",
+        "appointment"
+      ]
+    },
+    {
+      "id": "science_tech",
+      "name_en": "Science & Computer Tech",
+      "name_zh": "计算机、AI与信息技术",
+      "group": "science_tech",
+      "group_name_zh": "科技与数理",
+      "icon": "💻",
+      "count": 62,
+      "level_distribution": {
+        "A1": 14,
+        "A2": 8,
+        "B1": 14,
+        "B2": 15,
+        "C1": 4,
+        "C2": 7
+      },
+      "sample_words": [
+        "acquires",
+        "act",
+        "act",
+        "ai",
+        "aim",
+        "aim",
+        "angsty",
+        "applications"
+      ]
+    },
+    {
+      "id": "math_physics_chem",
+      "name_en": "Math, Physics & Chemistry",
+      "name_zh": "数理化基础科学与工程规律",
+      "group": "science_tech",
+      "group_name_zh": "科技与数理",
+      "icon": "🔬",
+      "count": 449,
+      "level_distribution": {
+        "A1": 28,
+        "A2": 57,
+        "B1": 138,
+        "B2": 149,
+        "C1": 36,
+        "C2": 41
+      },
+      "sample_words": [
+        "abstraction",
+        "accessibility",
+        "accident",
+        "acidity",
+        "acoustics",
+        "active",
+        "active",
+        "adhesion"
+      ]
+    },
+    {
+      "id": "communication_language",
+      "name_en": "Communication & Language",
+      "name_zh": "语言表达、社会沟通与讯息",
+      "group": "core_language",
+      "group_name_zh": "语言与核心表达",
+      "icon": "💬",
+      "count": 3505,
+      "level_distribution": {
+        "A1": 581,
+        "A2": 635,
+        "B1": 935,
+        "B2": 936,
+        "C1": 199,
+        "C2": 219
+      },
+      "sample_words": [
+        "abbreviations",
+        "abnormalities",
+        "aborigine",
+        "abstract",
+        "abuse",
+        "abuses",
+        "accent",
+        "access"
+      ]
+    },
+    {
+      "id": "core_verbs_actions",
+      "name_en": "Core Actions & Verbs",
+      "name_zh": "通用高频交互与行为动作",
+      "group": "core_language",
+      "group_name_zh": "语言与核心表达",
+      "icon": "⚡",
+      "count": 2355,
+      "level_distribution": {
+        "A1": 295,
+        "A2": 439,
+        "B1": 690,
+        "B2": 610,
+        "C1": 146,
+        "C2": 175
+      },
+      "sample_words": [
+        "abandon",
+        "abandoned",
+        "abhor",
+        "abolished",
+        "abound",
+        "absorbed",
+        "absorbing",
+        "abused"
+      ]
+    },
+    {
+      "id": "core_descriptors",
+      "name_en": "Core Descriptors & Logic",
+      "name_zh": "核心性状特征与程度逻辑",
+      "group": "core_language",
+      "group_name_zh": "语言与核心表达",
+      "icon": "✨",
+      "count": 2248,
+      "level_distribution": {
+        "A1": 333,
+        "A2": 354,
+        "B1": 523,
+        "B2": 540,
+        "C1": 259,
+        "C2": 239
+      },
+      "sample_words": [
+        "abandoned",
+        "abhorrent",
+        "abhorrently",
+        "able",
+        "abnormal",
+        "abnormally",
+        "aboriginal",
+        "above"
+      ]
+    }
+  ]
+};

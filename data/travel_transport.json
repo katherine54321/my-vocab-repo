@@ -1,968 +1,38 @@
 [
   {
-    "id": "bicycle_noun",
-    "word": "bicycle",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'baisikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bicycle-us.mp3",
-    "definition_en": "n. a wheeled vehicle that has two wheels and is moved by foot pedals v. ride a bicycle",
-    "definition_zh": "n. 自行车",
-    "examples": [
-      "Passengers checked their bicycle before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "boat_noun",
-    "word": "boat",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/bәut/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boat-us.mp3",
-    "definition_en": "n. a small vessel for travel on water v. ride in a boat on water",
-    "definition_zh": "n. 船",
-    "examples": [
-      "Passengers checked their boat before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "bus_noun",
-    "word": "bus",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/bʌs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bus-us.mp3",
-    "definition_en": "n. a vehicle carrying many passengers; used for public transport n. a car that is old and unreliable v. send or move around by bus v. ride in a bus",
-    "definition_zh": "n. 公共汽车",
-    "examples": [
-      "Passengers checked their bus before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "car_noun",
-    "word": "car",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/kɑ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/car-us.mp3",
-    "definition_en": "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine n. a wheeled vehicle adapted to the rails of railroad n. the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant n. where passengers ride up and down",
-    "definition_zh": "n. 汽车, 客车",
-    "examples": [
-      "Passengers checked their car before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "hotel_noun",
-    "word": "hotel",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/hәu'tel/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hotel-us.mp3",
-    "definition_en": "n. a building where travelers can pay for lodging and meals and other services",
-    "definition_zh": "n. 旅馆, 客栈",
-    "examples": [
-      "Passengers checked their hotel before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "plane_noun",
-    "word": "plane",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/plein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plane-us.mp3",
-    "definition_en": "n. (mathematics) an unbounded two-dimensional shape n. a level of existence or development n. a power tool for smoothing or shaping wood n. a carpenter's hand tool with an adjustable blade for smoothing or shaping wood",
-    "definition_zh": "n. 平面, 扁平物, 机翼, 飞机, 水准, 地位",
-    "examples": [
-      "Passengers checked their plane before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "road_noun",
-    "word": "road",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/rәud/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/road-us.mp3",
-    "definition_en": "n. an open way (generally public) for travel or transportation n. a way or means to achieve something",
-    "definition_zh": "n. 路, 道路, 公路, 途径, 方法",
-    "examples": [
-      "Passengers checked their road before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "stop_noun",
-    "word": "stop",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/stɒp/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stop-us.mp3",
-    "definition_en": "n. the event of something ending n. the act of stopping something n. a brief stay in the course of a journey n. a spot where something halts or pauses",
-    "definition_zh": "n. 停止, 车站, 逗留, 填塞, 障碍, (风琴的)音栓",
-    "examples": [
-      "Passengers checked their stop before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "ticket_noun",
-    "word": "ticket",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'tikit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ticket-us.mp3",
-    "definition_en": "n. a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment) n. a summons issued to an offender (especially to someone who violates a traffic regulation) n. the appropriate or desirable thing v. issue a ticket or a fine to as a penalty",
-    "definition_zh": "n. 票, 券, 车票, 标签, 入场券, 证明书",
-    "examples": [
-      "Passengers checked their ticket before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "train_noun",
-    "word": "train",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/trein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/train-us.mp3",
-    "definition_en": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive n. a series of consequences wrought by an event n. piece of cloth forming the long back section of a gown that is drawn along the floor v. create by training and teaching",
-    "definition_zh": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序",
-    "examples": [
-      "Passengers checked their train before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "travel_verb",
-    "word": "travel",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'trævl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/travel-us.mp3",
-    "definition_en": "n. the act of going from one place to another v. change location; move, travel, or proceed, also metaphorically v. undertake a journey or trip v. make a trip for pleasure",
-    "definition_zh": "vi. 旅行, 行进, 移动, 被传播",
-    "examples": [
-      "Passengers checked their travel before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "trip_noun",
-    "word": "trip",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/trip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trip-us.mp3",
-    "definition_en": "n. a journey for some purpose (usually including the return) n. a hallucinatory experience induced by drugs n. an exciting or stimulating experience n. a light or nimble tread",
-    "definition_zh": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程",
-    "examples": [
-      "Passengers checked their trip before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "visit_verb",
-    "word": "visit",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'vizit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/visit-us.mp3",
-    "definition_en": "n. the act of going to see some person or place or thing for a short time n. a meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice n. the act of visiting in an official capacity (as for an inspection) n. the act of going to see some person in a professional capacity",
-    "definition_zh": "vt. 拜访, 访问, 参观, 视察, 降临",
-    "examples": [
-      "Passengers checked their visit before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "cab_noun",
-    "word": "cab",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/kæb/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cab-us.mp3",
-    "definition_en": "n. a compartment at the front of a motor vehicle or locomotive where driver sits n. small two-wheeled horse-drawn carriage; with two seats and a folding hood n. a car driven by a person whose job is to take passengers where they want to go in exchange for money",
-    "definition_zh": "n. 出租车, 出租汽车, 出租马车",
-    "examples": [
-      "Passengers checked their cab before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "flight attendant_noun",
-    "word": "flight attendant",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/flait əˈtendənt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flight attendant-us.mp3",
-    "definition_en": "A term denoting flight attendant.",
-    "definition_zh": "n. 飞行服务员",
-    "examples": [
-      "Passengers checked their flight attendant before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "gate_noun",
-    "word": "gate",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/geit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gate-us.mp3",
-    "definition_en": "n. a movable barrier in a fence or wall n. a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs n. total admission receipts at a sports event n. passageway (as in an air terminal) where passengers can embark or disembark",
-    "definition_zh": "n. 门, 牌楼, 大门, 通道, 闸",
-    "examples": [
-      "Passengers checked their gate before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "helicopter_noun",
-    "word": "helicopter",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'helikɒptә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/helicopter-us.mp3",
-    "definition_en": "n. an aircraft without wings that obtains its lift from the rotation of overhead blades",
-    "definition_zh": "n. 直升机",
-    "examples": [
-      "Passengers checked their helicopter before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "information desk_noun",
-    "word": "information desk",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/information desk-us.mp3",
-    "definition_en": "A term denoting information desk.",
-    "definition_zh": "服务台",
-    "examples": [
-      "Passengers checked their information desk before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "metro_noun",
-    "word": "metro",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'metrәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/metro-us.mp3",
-    "definition_en": "n. an electric railway operating below the surface of the ground (usually in a city)",
-    "definition_zh": "n. 地铁",
-    "examples": [
-      "Passengers checked their metro before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "passport control_noun",
-    "word": "passport control",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/passport control/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passport control-us.mp3",
-    "definition_en": "A term denoting passport control in standard English.",
-    "definition_zh": "n. passport control",
-    "examples": [
-      "Passengers checked their passport control before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "platform_noun",
-    "word": "platform",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'plætfɒ:m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/platform-us.mp3",
-    "definition_en": "n. a raised horizontal surface n. a document stating the aims and principles of a political party n. the combination of a particular computer and a particular operating system n. any military structure or vehicle bearing weapons",
-    "definition_zh": "n. 站台, 月台, 讲台, 论坛, 平台",
-    "examples": [
-      "Passengers checked their platform before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "subway_noun",
-    "word": "subway",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'sʌbwei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subway-us.mp3",
-    "definition_en": "n an electric railway operating below the surface of the ground (usually in a city) n an underground tunnel or passage enabling pedestrians to cross a road or railway",
-    "definition_zh": "n. 地铁, 地道",
-    "examples": [
-      "Passengers checked their subway before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "suitcase_noun",
-    "word": "suitcase",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'sju:tkeis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/suitcase-us.mp3",
-    "definition_en": "n a portable rectangular container for carrying clothes",
-    "definition_zh": "n. 手提箱",
-    "examples": [
-      "Passengers checked their suitcase before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "ticket office_noun",
-    "word": "ticket office",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ticket office-us.mp3",
-    "definition_en": "A term denoting ticket office.",
-    "definition_zh": "票房, 售票处",
-    "examples": [
-      "Passengers checked their ticket office before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "timetable_noun",
-    "word": "timetable",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'taimteibl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/timetable-us.mp3",
-    "definition_en": "n. a schedule listing events and the times at which they will take place n. a schedule of times of arrivals and departures",
-    "definition_zh": "n. 时间表",
-    "examples": [
-      "Passengers checked their timetable before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "traffic_noun",
-    "word": "traffic",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'træfik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/traffic-us.mp3",
-    "definition_en": "n. the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time n. buying and selling; especially illicit trade n. the amount of activity over a communication system during a given period of time v. deal illegally",
-    "definition_zh": "n. 交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量",
-    "examples": [
-      "Passengers checked their traffic before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "traffic jam_noun",
-    "word": "traffic jam",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/traffic jam-us.mp3",
-    "definition_en": "A term denoting traffic jam.",
-    "definition_zh": "塞车, 交通阻塞",
-    "examples": [
-      "Passengers checked their traffic jam before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "tram_noun",
-    "word": "tram",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/træm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tram-us.mp3",
-    "definition_en": "v. travel by tram",
-    "definition_zh": "n. 电车轨道, 煤车, 纬纱, 纬丝",
-    "examples": [
-      "Passengers checked their tram before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "underground_noun",
-    "word": "underground",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'ʌndәgraund/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/underground-us.mp3",
-    "definition_en": "n. a secret group organized to overthrow a government or occupation force r. in or into hiding or secret operation r. beneath the surface of the earth",
-    "definition_zh": "n. 地下, 地铁, 地道, 秘密活动",
-    "examples": [
-      "Passengers checked their underground before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "van_noun",
-    "word": "van",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/væn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/van-us.mp3",
-    "definition_en": "n. (Great Britain) a closed railroad car that carries baggage or freight n. a camper equipped with living quarters n. a truck with an enclosed cargo space",
-    "definition_zh": "n. 货车, 篷车, 先锋, 前驱, 前卫",
-    "examples": [
-      "Passengers checked their van before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "waiting room_noun",
-    "word": "waiting room",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/waiting room-us.mp3",
-    "definition_en": "A term denoting waiting room.",
-    "definition_zh": "候车室, 等候室",
-    "examples": [
-      "Passengers checked their waiting room before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "accommodation_noun",
-    "word": "accommodation",
-    "part_of_speech": "noun",
+    "id": "aboard_adverb",
+    "word": "aboard",
+    "part_of_speech": "adverb",
     "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/ә.kɒmә'deiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accommodation-us.mp3",
-    "definition_en": "n. a settlement of differences n. in the theories of Jean Piaget: the modification of internal representations in order to accommodate a changing knowledge of reality n. living quarters provided for public convenience n. the act of providing something (lodging or seat or food) to meet a need",
-    "definition_zh": "n. 膳宿, 预订铺位, 适应性调节, 调和, 贷款",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ә'bɒ:d/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aboard-us.mp3",
+    "definition_en": "r. on a ship, train, plane or other vehicle\\nr. on first or second or third base\\nr. side by side\\nr. part of a group",
+    "definition_zh": "adv. 在船上, 在火车上, 在飞机上\\nprep. 在...之上",
     "examples": [
-      "Passengers checked their accommodation before boarding the express service to the capital."
+      {
+        "en": "They adopted a aboard perspective to address the challenge.",
+        "zh": "在相关语境中，'aboard'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "airline_noun",
-    "word": "airline",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'єәlain/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airline-us.mp3",
-    "definition_en": "n. a hose that carries air under pressure n. a commercial enterprise that provides scheduled flights for passengers",
-    "definition_zh": "n. 航线, 航线的设备, 航空公司",
+    "id": "aboard_preposition",
+    "word": "aboard",
+    "part_of_speech": "preposition",
+    "level": "C1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ә'bɒ:d/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aboard-us.mp3",
+    "definition_en": "r. on a ship, train, plane or other vehicle\\nr. on first or second or third base\\nr. side by side\\nr. part of a group",
+    "definition_zh": "adv. 在船上, 在火车上, 在飞机上\\nprep. 在...之上",
     "examples": [
-      "Passengers checked their airline before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "airport_noun",
-    "word": "airport",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'єәpɒ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airport-us.mp3",
-    "definition_en": "n. an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
-    "definition_zh": "n. 飞机场",
-    "examples": [
-      "Passengers checked their airport before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "baggage claim_noun",
-    "word": "baggage claim",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/ˈbæɡidʒ kleim/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/baggage claim-us.mp3",
-    "definition_en": "A term denoting baggage claim.",
-    "definition_zh": "领取行李",
-    "examples": [
-      "Passengers checked their baggage claim before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "boarding pass_noun",
-    "word": "boarding pass",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boarding pass-us.mp3",
-    "definition_en": "A term denoting boarding pass.",
-    "definition_zh": "登机卡,飞机票",
-    "examples": [
-      "Passengers checked their boarding pass before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "brochure_noun",
-    "word": "brochure",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'brәuʃә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brochure-us.mp3",
-    "definition_en": "n a small book usually having a paper cover",
-    "definition_zh": "n. 小册子, 小册",
-    "examples": [
-      "Passengers checked their brochure before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "cable car_noun",
-    "word": "cable car",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cable car-us.mp3",
-    "definition_en": "A term denoting cable car.",
-    "definition_zh": "缆车",
-    "examples": [
-      "Passengers checked their cable car before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "connection_noun",
-    "word": "connection",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/kә'nekʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/connection-us.mp3",
-    "definition_en": "n. a relation between things or events (as in the case of one causing the other or sharing features with it) n. the state of being connected n. an instrumentality that connects n. (usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)",
-    "definition_zh": "n. 连接, 关系, 前后关系",
-    "examples": [
-      "Passengers checked their connection before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "currency exchange_noun",
-    "word": "currency exchange",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/currency exchange-us.mp3",
-    "definition_en": "A term denoting currency exchange.",
-    "definition_zh": "货币兑换",
-    "examples": [
-      "Passengers checked their currency exchange before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "driver_noun",
-    "word": "driver",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'draivә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/driver-us.mp3",
-    "definition_en": "n. the operator of a motor vehicle n. someone who drives animals that pull a vehicle n. a golfer who hits the golf ball with a driver n. (computer science) a program that determines how a computer will communicate with a peripheral device",
-    "definition_zh": "n. 驾驶员, 驱动器, 驱动程序",
-    "examples": [
-      "Passengers checked their driver before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "duty-free_adjective",
-    "word": "duty-free",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/duty-free-us.mp3",
-    "definition_en": "s. exempt from duty",
-    "definition_zh": "a. 免税的",
-    "examples": [
-      "Passengers checked their duty-free before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "fare_noun",
-    "word": "fare",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/fєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fare-us.mp3",
-    "definition_en": "n. the sum charged for riding in a public conveyance n. a paying (taxi) passenger n. the food and drink that are regularly served or consumed v. eat well",
-    "definition_zh": "n. 费用, 旅客, 食物",
-    "examples": [
-      "Passengers checked their fare before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "ferry_noun",
-    "word": "ferry",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'feri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ferry-us.mp3",
-    "definition_en": "n. a boat that transports people or vehicles across a body of water and operates on a regular schedule n. transport by boat or aircraft v. transport from one place to another v. transport by ferry",
-    "definition_zh": "n. 渡船, 渡口",
-    "examples": [
-      "Passengers checked their ferry before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "flight_noun",
-    "word": "flight",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/flait/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flight-us.mp3",
-    "definition_en": "n. a formation of aircraft in flight n. an instance of traveling by air n. a stairway (set of steps) between one floor or landing and the next n. an air force unit smaller than a squadron",
-    "definition_zh": "n. 飞行, 射程, 逃走, 飞跃, 飞机航程, 班机, 迁徙, 飞逝",
-    "examples": [
-      "Passengers checked their flight before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "harbor_noun",
-    "word": "harbor",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'hɑ:bә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/harbor-us.mp3",
-    "definition_en": "n. a place of refuge and comfort and security v. maintain (a theory, thoughts, or feelings) v. secretly shelter (as of fugitives or criminals)",
-    "definition_zh": "n. 港, 避难所",
-    "examples": [
-      "Passengers checked their harbor before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "highway_noun",
-    "word": "highway",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'haiwei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/highway-us.mp3",
-    "definition_en": "n. a major road for any form of motor transport",
-    "definition_zh": "n. 公路, 大道, 捷径",
-    "examples": [
-      "Passengers checked their highway before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "journey_noun",
-    "word": "journey",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'dʒә:ni/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/journey-us.mp3",
-    "definition_en": "n. the act of traveling from one place to another",
-    "definition_zh": "n. 旅程, 旅行, 行程",
-    "examples": [
-      "Passengers checked their journey before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "lost property_noun",
-    "word": "lost property",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lost property-us.mp3",
-    "definition_en": "A term denoting lost property.",
-    "definition_zh": "拾得物, 遗失物",
-    "examples": [
-      "Passengers checked their lost property before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "luggage_noun",
-    "word": "luggage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'lʌgidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/luggage-us.mp3",
-    "definition_en": "n cases used to carry belongings when traveling",
-    "definition_zh": "n. 行李, 皮箱",
-    "examples": [
-      "Passengers checked their luggage before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "luggage rack_noun",
-    "word": "luggage rack",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/ˈlʌɡidʒ ræk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/luggage rack-us.mp3",
-    "definition_en": "A term denoting luggage rack.",
-    "definition_zh": "行李架",
-    "examples": [
-      "Passengers checked their luggage rack before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "motorway_noun",
-    "word": "motorway",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'mәutәwei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motorway-us.mp3",
-    "definition_en": "n a broad highway designed for high-speed traffic",
-    "definition_zh": "n. 高速公路",
-    "examples": [
-      "Passengers checked their motorway before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "passenger_noun",
-    "word": "passenger",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'pæsindʒә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passenger-us.mp3",
-    "definition_en": "n. a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it",
-    "definition_zh": "n. 乘客, 旅客",
-    "examples": [
-      "Passengers checked their passenger before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "passport_noun",
-    "word": "passport",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'pæspɒ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passport-us.mp3",
-    "definition_en": "n. a document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country",
-    "definition_zh": "n. 护照, 手段, 通行证",
-    "examples": [
-      "Passengers checked their passport before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "port_noun",
-    "word": "port",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/pɒ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/port-us.mp3",
-    "definition_en": "n. a place (seaport or airport) where people and merchandise can enter or leave a country n. sweet dark-red dessert wine originally from Portugal n. an opening (in a wall or ship or armored vehicle) for firing through v. put or turn on the left side, of a ship",
-    "definition_zh": "n. 港口, 埠, 舱门, 避风港, 左舷, 炮眼, 姿势, 意义",
-    "examples": [
-      "Passengers checked their port before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "railway_noun",
-    "word": "railway",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'reilwei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/railway-us.mp3",
-    "definition_en": "n. line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight",
-    "definition_zh": "n. 铁路, 轨道",
-    "examples": [
-      "Passengers checked their railway before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "reservation_noun",
-    "word": "reservation",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/.rezә'veiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reservation-us.mp3",
-    "definition_en": "n. a district that is reserved for particular purpose n. a statement that limits or restricts some claim n. the written record or promise of an arrangement by which accommodations are secured in advance n. something reserved in advance (as a hotel accommodation or a seat on a plane etc.)",
-    "definition_zh": "n. 保留, 预定, 保留品, 保留地",
-    "examples": [
-      "Passengers checked their reservation before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "roundabout_noun",
-    "word": "roundabout",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'raundә.baut/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/roundabout-us.mp3",
-    "definition_en": "n a road junction at which traffic streams circularly around a central island n a large, rotating machine with seats for children to ride or amusement s marked by obliqueness or indirection in speech or conduct s deviating from a straight course",
-    "definition_zh": "n. 迂回路线",
-    "examples": [
-      "Passengers checked their roundabout before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "seatbelt_noun",
-    "word": "seatbelt",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seatbelt-us.mp3",
-    "definition_en": "n a safety belt used in a car or plane to hold you in your seat in case of an accident",
-    "definition_zh": "n. 座位安全带",
-    "examples": [
-      "Passengers checked their seatbelt before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "ship_noun",
-    "word": "ship",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/ʃip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ship-us.mp3",
-    "definition_en": "n. a vessel that carries passengers or freight v. hire for work on a ship v. travel by ship v. place on board a ship",
-    "definition_zh": "n. 船, 舰",
-    "examples": [
-      "Passengers checked their ship before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "station_noun",
-    "word": "station",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'steiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/station-us.mp3",
-    "definition_en": "n. a facility equipped with special equipment and personnel for a particular purpose n. (nautical) the location to which a ship or fleet is assigned for duty n. the frequency assigned to a broadcasting station v. assign to a station",
-    "definition_zh": "n. 车站, 站, 局, 驻地, 位置, 身分, 地位",
-    "examples": [
-      "Passengers checked their station before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "taxi_noun",
-    "word": "taxi",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'tæksi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxi-us.mp3",
-    "definition_en": "v. travel slowly v. ride in a taxicab",
-    "definition_zh": "n. 出租车",
-    "examples": [
-      "Passengers checked their taxi before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "tour_noun",
-    "word": "tour",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/tuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tour-us.mp3",
-    "definition_en": "n. a journey or route all the way around a particular place or area v. make a tour of a certain place",
-    "definition_zh": "n. 旅游, 观光旅行, 任期",
-    "examples": [
-      "Passengers checked their tour before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "tourism_noun",
-    "word": "tourism",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'tuәrizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tourism-us.mp3",
-    "definition_en": "n. the business of providing services to tourists",
-    "definition_zh": "n. 观光业, 游览",
-    "examples": [
-      "Passengers checked their tourism before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "tourist_noun",
-    "word": "tourist",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'tuәrist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tourist-us.mp3",
-    "definition_en": "n. someone who travels for pleasure",
-    "definition_zh": "n. 观光客, 旅行者",
-    "examples": [
-      "Passengers checked their tourist before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "track_noun",
-    "word": "track",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/træk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/track-us.mp3",
-    "definition_en": "n. a pair of parallel rails providing a runway for wheels n. an endless metal belt on which tracked vehicles move over the ground n. (computer science) one of the circular magnetic paths on a magnetic disk that serve as a guide for writing and reading data n. a groove on a phonograph recording",
-    "definition_zh": "n. 轨迹, 足迹, 径迹, 小道, 轨道, 磁轨, 途径",
-    "examples": [
-      "Passengers checked their track before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "vacation_noun",
-    "word": "vacation",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/vei'keiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vacation-us.mp3",
-    "definition_en": "n. leisure time away from work devoted to rest or pleasure n. the act of making something legally void v. spend or take a vacation",
-    "definition_zh": "n. 假期, 休假",
-    "examples": [
-      "Passengers checked their vacation before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "vehicle_noun",
-    "word": "vehicle",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'vi:ikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vehicle-us.mp3",
-    "definition_en": "n. a conveyance that transports people or objects n. a medium for the expression or achievement of something n. any substance that facilitates the use of a drug or pigment or other material that is mixed with it",
-    "definition_zh": "n. 交通工具, 车辆, 传播媒介",
-    "examples": [
-      "Passengers checked their vehicle before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "visa_noun",
-    "word": "visa",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'vi:zә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/visa-us.mp3",
-    "definition_en": "n. an endorsement made in a passport that allows the bearer to enter the country issuing it v. provide (a passport) with a visa v. approve officially",
-    "definition_zh": "n. 签证",
-    "examples": [
-      "Passengers checked their visa before boarding the express service to the capital."
+      {
+        "en": "They adopted a aboard perspective to address the challenge.",
+        "zh": "在相关语境中，'aboard'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -970,83 +40,287 @@
     "word": "aircraft",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "旅行出行与交通住宿",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
     "phonetic": "/'єәkræft/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aircraft-us.mp3",
     "definition_en": "n. a vehicle that can fly",
-    "definition_zh": "n. 航空器, 飞机",
+    "definition_zh": "n. 航空器, 飞机\\n 航空器",
     "examples": [
-      "Passengers checked their aircraft before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of aircraft is beneficial in everyday life.",
+        "zh": "在相关语境中，'aircraft'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "aisle_noun",
-    "word": "aisle",
+    "id": "airplane_noun",
+    "word": "airplane",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/ail/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aisle-us.mp3",
-    "definition_en": "n. a long narrow passage (as in a cave or woods) n. passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores n. part of a church divided laterally from the nave proper by rows of pillars or columns",
-    "definition_zh": "n. 走廊, 侧廊, 过道",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'єәplein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airplane-us.mp3",
+    "definition_en": "n. an aircraft that has a fixed wing and is powered by propellers or jets",
+    "definition_zh": "n. 飞机\\n 飞机",
     "examples": [
-      "Passengers checked their aisle before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of airplane is beneficial in everyday life.",
+        "zh": "在相关语境中，'airplane'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "arrival_noun",
-    "word": "arrival",
+    "id": "airplanes_noun",
+    "word": "airplanes",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/ә'raivl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrival-us.mp3",
-    "definition_en": "n. accomplishment of an objective n. the act of arriving at a certain place n. someone who arrives (or has arrived)",
-    "definition_zh": "n. 到达, 抵达, 到达者",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ˈɛəpleinz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airplanes-us.mp3",
+    "definition_en": "n. an aircraft that has a fixed wing and is powered by propellers or jets",
+    "definition_zh": "n. <美>飞机( airplane的复数形式 )",
     "examples": [
-      "Passengers checked their arrival before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of airplanes is beneficial in everyday life.",
+        "zh": "在相关语境中，'airplanes'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "airport_noun",
+    "word": "airport",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'єәpɒ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airport-us.mp3",
+    "definition_en": "n. an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
+    "definition_zh": "n. 飞机场\\n 航空站, 机场",
+    "examples": [
+      {
+        "en": "A deep understanding of airport is beneficial in everyday life.",
+        "zh": "在相关语境中，'airport'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "airports_noun",
+    "word": "airports",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'eəpɔ:ts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airports-us.mp3",
+    "definition_en": "n. an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
+    "definition_zh": "n. 航空站, 机场, 航空港( airport的复数形式 )",
+    "examples": [
+      {
+        "en": "A deep understanding of airports is beneficial in everyday life.",
+        "zh": "在相关语境中，'airports'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "autopilot_noun",
+    "word": "autopilot",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'ɔ:tәpailәt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/autopilot-us.mp3",
+    "definition_en": "n. a navigational device that automatically keeps ships or planes or spacecraft on a steady course",
+    "definition_zh": "自动驾驶仪",
+    "examples": [
+      {
+        "en": "A deep understanding of autopilot is beneficial in everyday life.",
+        "zh": "在相关语境中，'autopilot'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "backpacking_noun",
+    "word": "backpacking",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'bæk,pækɪŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/backpacking-us.mp3",
+    "definition_en": "n carrying something in a pack on the back\\nv hike with a backpack",
+    "definition_zh": "n. 徒步旅行",
+    "examples": [
+      {
+        "en": "A deep understanding of backpacking is beneficial in everyday life.",
+        "zh": "在相关语境中，'backpacking'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
     "id": "baggage_noun",
     "word": "baggage",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
     "phonetic": "/'bægidʒ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/baggage-us.mp3",
-    "definition_en": "n. cases used to carry belongings when traveling n. a worthless or immoral woman n. the portable equipment and supplies of an army",
-    "definition_zh": "n. 行李",
+    "definition_en": "n. cases used to carry belongings when traveling\\nn. a worthless or immoral woman\\nn. the portable equipment and supplies of an army",
+    "definition_zh": "n. 行李\\n 行李",
     "examples": [
-      "Passengers checked their baggage before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of baggage is beneficial in everyday life.",
+        "zh": "在相关语境中，'baggage'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "boarding_noun",
-    "word": "boarding",
+    "id": "beaver_noun",
+    "word": "beaver",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'bɒ:diŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boarding-us.mp3",
-    "definition_en": "n. the act of passengers and crew getting aboard a ship or aircraft n. a structure of boards",
-    "definition_zh": "n. 木板",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'bi:vә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beaver-us.mp3",
+    "definition_en": "n. the soft brown fur of the beaver\\nn. a full beard\\nn. a movable piece of armor on a medieval helmet used to protect the lower face\\nn. a hat made with the fur of a beaver (or similar material)",
+    "definition_zh": "n. 海狸(毛皮)\\n 轻型及中型飞机加油",
     "examples": [
-      "Passengers checked their boarding before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of beaver is beneficial in everyday life.",
+        "zh": "在相关语境中，'beaver'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "cabin_noun",
-    "word": "cabin",
+    "id": "bicycle_noun",
+    "word": "bicycle",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'kæbin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cabin-us.mp3",
-    "definition_en": "n. small room on a ship or boat where people sleep n. a small house built of wood; usually in a wooded area n. the enclosed compartment of an aircraft or spacecraft where passengers are carried v. confine to a small space, such as a cabin",
-    "definition_zh": "n. 小屋, 客舱",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'baisikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bicycle-us.mp3",
+    "definition_en": "n. a wheeled vehicle that has two wheels and is moved by foot pedals\\nv. ride a bicycle",
+    "definition_zh": "n. 自行车",
     "examples": [
-      "Passengers checked their cabin before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of bicycle is beneficial in everyday life.",
+        "zh": "在相关语境中，'bicycle'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "bike_noun",
+    "word": "bike",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/baik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bike-us.mp3",
+    "definition_en": "n a motor vehicle with two wheels and a strong frame\\nn a wheeled vehicle that has two wheels and is moved by foot pedals\\nv ride a bicycle",
+    "definition_zh": "n. 自行车, 脚踏车",
+    "examples": [
+      {
+        "en": "A deep understanding of bike is beneficial in everyday life.",
+        "zh": "在相关语境中，'bike'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "bug_noun",
+    "word": "bug",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/bʌg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bug-us.mp3",
+    "definition_en": "n. general term for any insect or similar creeping or crawling invertebrate\\nn. a fault or defect in a computer program, system, or machine\\nn. a small hidden microphone; for listening secretly",
+    "definition_zh": "n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人\\nvt. 装防盗报警器, 装窃听器, 激怒\\nvi. 捉虫, 暴突\\n 缺点, 错误",
+    "examples": [
+      {
+        "en": "A deep understanding of bug is beneficial in everyday life.",
+        "zh": "在相关语境中，'bug'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "bus_noun",
+    "word": "bus",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/bʌs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bus-us.mp3",
+    "definition_en": "n. a vehicle carrying many passengers; used for public transport\\nn. a car that is old and unreliable\\nv. send or move around by bus\\nv. ride in a bus",
+    "definition_zh": "n. 公共汽车\\n 总线; 汇流条; 母线",
+    "examples": [
+      {
+        "en": "A deep understanding of bus is beneficial in everyday life.",
+        "zh": "在相关语境中，'bus'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "buses_noun",
+    "word": "buses",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buses-us.mp3",
+    "definition_en": "n a vehicle carrying many passengers; used for public transport\\nn the topology of a network whose components are connected by a busbar\\nn an electrical conductor that makes a common connection between several circuits\\nn a car that is old and unreliable\\nv send or move around by bus\\nv ride in a bus\\nv remove used dishes from the table in restaurants",
+    "definition_zh": "n. 公共汽车（bus的复数形式）",
+    "examples": [
+      {
+        "en": "A deep understanding of buses is beneficial in everyday life.",
+        "zh": "在相关语境中，'buses'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cab_noun",
+    "word": "cab",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/kæb/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cab-us.mp3",
+    "definition_en": "n. a compartment at the front of a motor vehicle or locomotive where driver sits\\nn. small two-wheeled horse-drawn carriage; with two seats and a folding hood\\nn. a car driven by a person whose job is to take passengers where they want to go in exchange for money",
+    "definition_zh": "n. 出租车, 出租汽车, 出租马车\\nvi. 乘出租马车(或汽车)",
+    "examples": [
+      {
+        "en": "A deep understanding of cab is beneficial in everyday life.",
+        "zh": "在相关语境中，'cab'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "car_noun",
+    "word": "car",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/kɑ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/car-us.mp3",
+    "definition_en": "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine\\nn. a wheeled vehicle adapted to the rails of railroad\\nn. the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\\nn. where passengers ride up and down",
+    "definition_zh": "n. 汽车, 客车\\n 车",
+    "examples": [
+      {
+        "en": "A deep understanding of car is beneficial in everyday life.",
+        "zh": "在相关语境中，'car'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -1054,531 +328,341 @@
     "word": "caravan",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "旅行出行与交通住宿",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
     "phonetic": "/'kærәvæn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caravan-us.mp3",
-    "definition_en": "n. a procession (of wagons or mules or camels) traveling together in single file v. travel in a caravan",
-    "definition_zh": "n. 旅行队, 有篷顶的大车",
+    "definition_en": "n. a procession (of wagons or mules or camels) traveling together in single file\\nv. travel in a caravan",
+    "definition_zh": "n. 旅行队, 有篷顶的大车\\n 商队, 结队商贩",
     "examples": [
-      "Passengers checked their caravan before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of caravan is beneficial in everyday life.",
+        "zh": "在相关语境中，'caravan'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "carriage_noun",
-    "word": "carriage",
+    "id": "carpool_noun",
+    "word": "carpool",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'kæridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carriage-us.mp3",
-    "definition_en": "n. a vehicle with wheels drawn by one or more horses n. characteristic way of bearing one's body n. a machine part that carries something else",
-    "definition_zh": "n. 马车, 客车, 举止, 运输",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'kɑ:pu:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carpool-us.mp3",
+    "definition_en": "",
+    "definition_zh": "v. 合伙使用汽车",
     "examples": [
-      "Passengers checked their carriage before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of carpool is beneficial in everyday life.",
+        "zh": "在相关语境中，'carpool'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "checkpoint_noun",
-    "word": "checkpoint",
+    "id": "casing_noun",
+    "word": "casing",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'tʃekpɒint/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/checkpoint-us.mp3",
-    "definition_en": "n. a place (as at a frontier) where travellers are stopped for inspection and clearance",
-    "definition_zh": "n. 检查站",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'keisiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/casing-us.mp3",
+    "definition_en": "n. the outermost covering of a pneumatic tire\\nn. the enclosing frame around a door or window opening",
+    "definition_zh": "n. 箱, 盒, 包装, 框, 套管\\n 汽车外胎",
     "examples": [
-      "Passengers checked their checkpoint before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of casing is beneficial in everyday life.",
+        "zh": "在相关语境中，'casing'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "commute_verb",
-    "word": "commute",
+    "id": "circumnavigate_verb",
+    "word": "circumnavigate",
     "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/kә'mju:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/commute-us.mp3",
-    "definition_en": "n. a regular journey of some distance to and from your place of work v. exchange positions without a change in value v. travel back and forth regularly, as between one's place of work and home v. exchange a penalty for a less severe one",
-    "definition_zh": "vt. 交换, 折偿, 减轻",
+    "level": "C2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/.sә:kәm'nævigeit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/circumnavigate-us.mp3",
+    "definition_en": "v. travel around, either by plane or ship",
+    "definition_zh": "vt. 环绕航行",
     "examples": [
-      "Passengers checked their commute before boarding the express service to the capital."
+      {
+        "en": "Specialists actively circumnavigate practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'circumnavigate'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "commuter_noun",
-    "word": "commuter",
+    "id": "circumnavigation_noun",
+    "word": "circumnavigation",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/kә'mju:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/commuter-us.mp3",
-    "definition_en": "n. a passenger train that is ridden primarily by passengers who travel regularly from one place to another n. someone who travels regularly from home in a suburb to work in a city",
-    "definition_zh": "n. 乘公共车辆上下班者, 月季票乘客",
-    "examples": [
-      "Passengers checked their commuter before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "compartment_noun",
-    "word": "compartment",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/kәm'pɑ:tmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compartment-us.mp3",
-    "definition_en": "n. a space into which an area is subdivided n. a partitioned section, chamber, or separate room within a larger enclosed area",
-    "definition_zh": "n. 分隔间, 卧车包房, 防水舱隔",
-    "examples": [
-      "Passengers checked their compartment before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "conductor_noun",
-    "word": "conductor",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/kәn'dʌktә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conductor-us.mp3",
-    "definition_en": "n. the person who leads a musical group n. a substance that readily conducts e.g. electricity and heat n. the person who collects fares on a public conveyance n. a device designed to transmit electricity, heat, etc.",
-    "definition_zh": "n. 领导者, 指挥者, 售票员, 向导",
-    "examples": [
-      "Passengers checked their conductor before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "cruise_noun",
-    "word": "cruise",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/kru:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cruise-us.mp3",
-    "definition_en": "n. an ocean trip taken for pleasure v. drive around aimlessly but ostentatiously and at leisure v. travel at a moderate speed v. look for a sexual partner in a public place",
-    "definition_zh": "n. 巡航, 巡弋, 漫游",
-    "examples": [
-      "Passengers checked their cruise before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "customs_noun",
-    "word": "customs",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
+    "level": "C2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
     "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/customs-us.mp3",
-    "definition_en": "n. money collected under a tariff n. money collected under a tariff",
-    "definition_zh": "n. 海关, 关卡, 关税",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/circumnavigation-us.mp3",
+    "definition_en": "n. traveling around something (by ship or plane)",
+    "definition_zh": "n. 环绕航行",
     "examples": [
-      "Passengers checked their customs before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of circumnavigation is beneficial in everyday life.",
+        "zh": "在相关语境中，'circumnavigation'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "delay_noun",
-    "word": "delay",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/di'lei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delay-us.mp3",
-    "definition_en": "n. time during which some action is awaited n. the act of delaying; inactivity resulting in something being put off until a later time v. cause to be slowed down or delayed v. act later than planned, scheduled, or required",
-    "definition_zh": "n. 耽搁, 迟滞",
-    "examples": [
-      "Passengers checked their delay before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "departure_noun",
-    "word": "departure",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/di'pɑ:tʃә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/departure-us.mp3",
-    "definition_en": "n. the act of departing",
-    "definition_zh": "n. 离开, 出发, 违背, 偏离",
-    "examples": [
-      "Passengers checked their departure before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "destination_noun",
-    "word": "destination",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/.desti'neiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/destination-us.mp3",
-    "definition_en": "n. the ultimate goal for which something is done",
-    "definition_zh": "n. 目的地, 目标, 目的",
-    "examples": [
-      "Passengers checked their destination before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "expressway_noun",
-    "word": "expressway",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/ik'spreswei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/expressway-us.mp3",
-    "definition_en": "n. a broad highway designed for high-speed traffic",
-    "definition_zh": "n. 高速公路",
-    "examples": [
-      "Passengers checked their expressway before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "hostel_noun",
-    "word": "hostel",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'hɒstәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hostel-us.mp3",
-    "definition_en": "n. a hotel providing overnight lodging for travelers n. inexpensive supervised lodging (especially for youths on bicycling trips)",
-    "definition_zh": "n. 青年招待所, 宿舍, 旅店",
-    "examples": [
-      "Passengers checked their hostel before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "itinerary_noun",
-    "word": "itinerary",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/ai'tinәrәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/itinerary-us.mp3",
-    "definition_en": "n an established line of travel or access n a guidebook for travelers n a proposed route of travel",
-    "definition_zh": "n. 旅程, 旅行指南, 游记",
-    "examples": [
-      "Passengers checked their itinerary before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "jet lag_noun",
-    "word": "jet lag",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/dʒet læɡ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jet lag-us.mp3",
-    "definition_en": "A term denoting jet lag.",
-    "definition_zh": "n. 飞行时差反应, 时差感",
-    "examples": [
-      "Passengers checked their jet lag before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "landing_noun",
-    "word": "landing",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'lændiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/landing-us.mp3",
-    "definition_en": "n. an intermediate platform in a staircase n. structure providing a place where boats can land people or goods n. the act of coming down to the earth (or other surface) n. the act of coming to land after a voyage",
-    "definition_zh": "n. 登陆, 码头, 降落",
-    "examples": [
-      "Passengers checked their landing before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "motel_noun",
-    "word": "motel",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/mәu'tel/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motel-us.mp3",
-    "definition_en": "n. a motor hotel",
-    "definition_zh": "n. 汽车旅馆",
-    "examples": [
-      "Passengers checked their motel before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "navigation_noun",
-    "word": "navigation",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/.nævi'geiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/navigation-us.mp3",
-    "definition_en": "n. the guidance of ships or airplanes from place to place n. ship traffic",
-    "definition_zh": "n. 航行, 航海, 导航",
-    "examples": [
-      "Passengers checked their navigation before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "overhead locker_noun",
-    "word": "overhead locker",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/overhead locker/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/overhead locker-us.mp3",
-    "definition_en": "A term denoting overhead locker in standard English.",
-    "definition_zh": "n. overhead locker",
-    "examples": [
-      "Passengers checked their overhead locker before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "pedestrian_noun",
-    "word": "pedestrian",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/pә'destriәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pedestrian-us.mp3",
-    "definition_en": "n. a person who travels by foot s. lacking wit or imagination",
-    "definition_zh": "n. 行人, 步行者",
-    "examples": [
-      "Passengers checked their pedestrian before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "refund_noun",
-    "word": "refund",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'ri:fʌnd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refund-us.mp3",
-    "definition_en": "n. money returned to a payer n. the act of returning money received previously v. pay back",
-    "definition_zh": "n. 偿还",
-    "examples": [
-      "Passengers checked their refund before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "resort_noun",
-    "word": "resort",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/ri'zɒ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resort-us.mp3",
-    "definition_en": "n. a hotel located in a resort area",
-    "definition_zh": "n. 度假胜地, 手段, 凭借, 常去之地",
-    "examples": [
-      "Passengers checked their resort before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "route_noun",
-    "word": "route",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/ru:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/route-us.mp3",
-    "definition_en": "v. send documents or materials to appropriate destinations v. send via a specific route v. divert in a specified direction",
-    "definition_zh": "n. 路径, 途径, 路线",
-    "examples": [
-      "Passengers checked their route before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "runway_noun",
-    "word": "runway",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'rʌnwei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/runway-us.mp3",
-    "definition_en": "n. a chute down which logs can slide n. a narrow platform extending from the stage into the audience in a theater or nightclub etc. n. a strip of level paved surface where planes can take off and land",
-    "definition_zh": "n. 跑道, 河床, 过道",
-    "examples": [
-      "Passengers checked their runway before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "shuttle_noun",
-    "word": "shuttle",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'ʃʌtl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shuttle-us.mp3",
-    "definition_en": "n. public transport that consists of a bus or train or airplane that plies back and forth between two points n. bobbin that passes the weft thread between the warp threads v. travel back and forth between two points",
-    "definition_zh": "n. 穿梭, 梭子, 往返移动之物",
-    "examples": [
-      "Passengers checked their shuttle before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "sightseeing_noun",
-    "word": "sightseeing",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'saitsi:iŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sightseeing-us.mp3",
-    "definition_en": "n. going about to look at places of interest",
-    "definition_zh": "n. 观光, 游览",
-    "examples": [
-      "Passengers checked their sightseeing before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "sleeper_noun",
-    "word": "sleeper",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'sli:pә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sleeper-us.mp3",
-    "definition_en": "n. a rester who is sleeping n. a spy or saboteur or terrorist planted in an enemy country who lives there as a law-abiding citizen until activated by a prearranged signal n. an unexpected achiever of success n. pajamas with feet; worn by children",
-    "definition_zh": "n. 睡眠者, 枕木, 卧铺",
-    "examples": [
-      "Passengers checked their sleeper before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "terminal_noun",
-    "word": "terminal",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'tә:minәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/terminal-us.mp3",
-    "definition_en": "n. station where transport vehicles load or unload passengers or goods n. a contact on an electrical device (such as a battery) at which electric current enters or leaves n. electronic equipment consisting of a device providing access to a computer; has a keyboard and display a. of or relating to or situated at the ends of a delivery route",
-    "definition_zh": "n. 终端机, 终点, 末端, 极限, 终点站",
-    "examples": [
-      "Passengers checked their terminal before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "toll_noun",
-    "word": "toll",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/tәul/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toll-us.mp3",
-    "definition_en": "n. a fee levied for the use of roads or bridges (used for maintenance) v. ring slowly v. charge a fee for using",
-    "definition_zh": "n. 通行费, 代价, 钟声",
-    "examples": [
-      "Passengers checked their toll before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "transfer_noun",
-    "word": "transfer",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/træns'fә:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transfer-us.mp3",
-    "definition_en": "n. someone who transfers or is transferred from one position to another n. the act of transfering something from one form to another n. a ticket that allows a passenger to change conveyances n. application of a skill learned in one situation to a different but similar situation",
-    "definition_zh": "n. 迁移, 移动, 传递, 转让, 转移, 过户, 汇兑, 换车",
-    "examples": [
-      "Passengers checked their transfer before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "transportation_noun",
-    "word": "transportation",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/.trænspә'teiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transportation-us.mp3",
-    "definition_en": "n. the act of moving something from one location to another n. the commercial enterprise of moving goods and materials",
-    "definition_zh": "n. 运输, 输送, 交通车辆",
-    "examples": [
-      "Passengers checked their transportation before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "voyage_noun",
-    "word": "voyage",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'vɒiidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/voyage-us.mp3",
-    "definition_en": "n. a journey to some distant place v. travel on water propelled by wind or by other means",
-    "definition_zh": "n. 航行, 航海, 航程, 旅行, 航空",
-    "examples": [
-      "Passengers checked their voyage before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "airfare_noun",
-    "word": "airfare",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'εә.fεә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airfare-us.mp3",
-    "definition_en": "n. the fare charged for traveling by airplane",
-    "definition_zh": "n. 飞机票价",
-    "examples": [
-      "Passengers checked their airfare before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "charter_noun",
-    "word": "charter",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'tʃɑ:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/charter-us.mp3",
-    "definition_en": "n. a document incorporating an institution and specifying its rights; includes the articles of incorporation and the certificate of incorporation n. a contract to hire or lease transportation v. grant a charter to",
-    "definition_zh": "n. 特许状, 执照, 宪章",
-    "examples": [
-      "Passengers checked their charter before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "concourse_noun",
-    "word": "concourse",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'kɒŋkɒ:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/concourse-us.mp3",
-    "definition_en": "n. a wide hallway in a building where people can walk n. a coming together of people",
-    "definition_zh": "n. 集合, 总汇, 群集",
-    "examples": [
-      "Passengers checked their concourse before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "congestion_noun",
-    "word": "congestion",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/kәn'dʒestʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/congestion-us.mp3",
-    "definition_en": "n. excessive accumulation of blood or other fluid in a body part n. excessive crowding",
-    "definition_zh": "n. 拥挤, 充血",
-    "examples": [
-      "Passengers checked their congestion before boarding the express service to the capital."
-    ]
-  },
-  {
-    "id": "disembark_verb",
-    "word": "disembark",
+    "id": "clutch_verb",
+    "word": "clutch",
     "part_of_speech": "verb",
     "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/.disim'bɑ:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disembark-us.mp3",
-    "definition_en": "v. go ashore",
-    "definition_zh": "v. (使)上岸, (使)登陆",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/klʌtʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clutch-us.mp3",
+    "definition_en": "n. a tense critical situation\\nn. a number of birds hatched at the same time\\nn. a pedal or lever that engages or disengages a rotating shaft and a driving mechanism\\nn. a coupling that connects or disconnects driving and driven parts of a driving mechanism",
+    "definition_zh": "n. 抓紧, 掌握, 离合器, 一窝小鸡\\nvt. 抓住, 踩汽车离合器踏板\\nvi. 抓\\n 联轴器; 离合器",
     "examples": [
-      "Passengers checked their disembark before boarding the express service to the capital."
+      {
+        "en": "Specialists actively clutch practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'clutch'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "clutch_noun",
+    "word": "clutch",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/klʌtʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clutch-us.mp3",
+    "definition_en": "n. a tense critical situation\\nn. a number of birds hatched at the same time\\nn. a pedal or lever that engages or disengages a rotating shaft and a driving mechanism\\nn. a coupling that connects or disconnects driving and driven parts of a driving mechanism",
+    "definition_zh": "n. 抓紧, 掌握, 离合器, 一窝小鸡\\nvt. 抓住, 踩汽车离合器踏板\\nvi. 抓\\n 联轴器; 离合器",
+    "examples": [
+      {
+        "en": "A deep understanding of clutch is beneficial in everyday life.",
+        "zh": "在相关语境中，'clutch'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "coach_noun",
+    "word": "coach",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/kәutʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coach-us.mp3",
+    "definition_en": "n. (sports) someone in charge of training an athlete or a team\\nn. a person who gives private instruction (as in singing, acting, etc.)\\nn. a carriage pulled by four horses with one driver\\nv. teach and supervise (someone); act as a trainer or coach (to), as in sports",
+    "definition_zh": "n. 四轮大马车, 教练\\nvt. 训练, 指导\\nvi. 坐马车旅行, 作指导",
+    "examples": [
+      {
+        "en": "A deep understanding of coach is beneficial in everyday life.",
+        "zh": "在相关语境中，'coach'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "coach_verb",
+    "word": "coach",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/kәutʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coach-us.mp3",
+    "definition_en": "n. (sports) someone in charge of training an athlete or a team\\nn. a person who gives private instruction (as in singing, acting, etc.)\\nn. a carriage pulled by four horses with one driver\\nv. teach and supervise (someone); act as a trainer or coach (to), as in sports",
+    "definition_zh": "n. 四轮大马车, 教练\\nvt. 训练, 指导\\nvi. 坐马车旅行, 作指导",
+    "examples": [
+      {
+        "en": "Specialists actively coach practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'coach'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "communication_noun",
+    "word": "communication",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/kә.mju:ni'keiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/communication-us.mp3",
+    "definition_en": "n. the activity of communicating; the activity of conveying information\\nn. something that is communicated by or to or between people or groups\\nn. a connection allowing access between persons or places",
+    "definition_zh": "n. 交流, 交通, 通讯\\n 通信",
+    "examples": [
+      {
+        "en": "A deep understanding of communication is beneficial in everyday life.",
+        "zh": "在相关语境中，'communication'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "communications_noun",
+    "word": "communications",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/kәmju:ni'keiʃ(ә)nz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/communications-us.mp3",
+    "definition_en": "n. the discipline that studies the principles of transmiting information and the methods by which it is delivered (as print or radio or television etc.)",
+    "definition_zh": "n. 交通设施, 通讯系统",
+    "examples": [
+      {
+        "en": "A deep understanding of communications is beneficial in everyday life.",
+        "zh": "在相关语境中，'communications'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "course_noun",
+    "word": "course",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/kɒ:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/course-us.mp3",
+    "definition_en": "n. education imparted in a series of lessons or meetings\\nn. a connected series of events or actions or developments\\nn. general line of orientation\\nn. a mode of action",
+    "definition_zh": "n. 课程, 路线, 过程, 一道菜, 道路\\nv. 追, (使)跑",
+    "examples": [
+      {
+        "en": "A deep understanding of course is beneficial in everyday life.",
+        "zh": "在相关语境中，'course'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "deck_noun",
+    "word": "deck",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/dek/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deck-us.mp3",
+    "definition_en": "n. any of various platforms built into a vessel\\nn. street name for a packet of illegal drugs\\nn. a porch that resembles the deck on a ship\\nv. be beautiful to look at",
+    "definition_zh": "n. 甲板, (汽车后部的)行李仓\\nvt. 装饰, 打扮, 装甲板\\n 纸牌背面图案",
+    "examples": [
+      {
+        "en": "A deep understanding of deck is beneficial in everyday life.",
+        "zh": "在相关语境中，'deck'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "depot_noun",
+    "word": "depot",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'depәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depot-us.mp3",
+    "definition_en": "n station where transport vehicles load or unload passengers or goods\\nn a depository for goods",
+    "definition_zh": "n. 停车场, 车站, 贮藏所, 仓库\\n 仓库, 贮存, 积存",
+    "examples": [
+      {
+        "en": "A deep understanding of depot is beneficial in everyday life.",
+        "zh": "在相关语境中，'depot'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "distributors_noun",
+    "word": "distributors",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/dɪst'rɪbju:təz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distributors-us.mp3",
+    "definition_en": "n. someone who markets merchandise\\nn. a person with authority to allot or deal out or apportion\\nn. a company that markets merchandise",
+    "definition_zh": "n. 批发公司, 批发商( distributor的复数形式 ); （汽车上的）配电器",
+    "examples": [
+      {
+        "en": "A deep understanding of distributors is beneficial in everyday life.",
+        "zh": "在相关语境中，'distributors'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "docilely_adverb",
+    "word": "docilely",
+    "part_of_speech": "adverb",
+    "level": "C1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'dɔsaili/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/docilely-us.mp3",
+    "definition_en": "",
+    "definition_zh": "adv. 容易教地, 易驾驶地, 驯服地",
+    "examples": [
+      {
+        "en": "They adopted a docilely perspective to address the challenge.",
+        "zh": "在相关语境中，'docilely'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "drive_noun",
+    "word": "drive",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/draiv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drive-us.mp3",
+    "definition_en": "n. the act of applying force to propel something\\nn. a mechanism by which force or power is transmitted in a machine\\nn. the trait of being highly motivated\\nn. hitting a golf ball off of a tee with a driver",
+    "definition_zh": "n. 驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器\\nvt. 开车, 驱使, 推动, 驾驶\\nvi. 开车, 猛击, 飞跑\\n 驱动器",
+    "examples": [
+      {
+        "en": "A deep understanding of drive is beneficial in everyday life.",
+        "zh": "在相关语境中，'drive'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "drive_verb",
+    "word": "drive",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/draiv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drive-us.mp3",
+    "definition_en": "n. the act of applying force to propel something\\nn. a mechanism by which force or power is transmitted in a machine\\nn. the trait of being highly motivated\\nn. hitting a golf ball off of a tee with a driver",
+    "definition_zh": "n. 驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器\\nvt. 开车, 驱使, 推动, 驾驶\\nvi. 开车, 猛击, 飞跑\\n 驱动器",
+    "examples": [
+      {
+        "en": "Specialists actively drive practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'drive'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "driver_noun",
+    "word": "driver",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'draivә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/driver-us.mp3",
+    "definition_en": "n. the operator of a motor vehicle\\nn. someone who drives animals that pull a vehicle\\nn. a golfer who hits the golf ball with a driver\\nn. (computer science) a program that determines how a computer will communicate with a peripheral device",
+    "definition_zh": "n. 驾驶员, 驱动器, 驱动程序\\n 驱动器",
+    "examples": [
+      {
+        "en": "A deep understanding of driver is beneficial in everyday life.",
+        "zh": "在相关语境中，'driver'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -1586,209 +670,1979 @@
     "word": "embark",
     "part_of_speech": "verb",
     "level": "C1",
-    "topic": "旅行出行与交通住宿",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
     "phonetic": "/im'bɑ:k/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embark-us.mp3",
-    "definition_en": "v. go on board v. set out on (an enterprise or subject of study)",
-    "definition_zh": "vi. 乘船, 着手, 从事, 上飞机",
+    "definition_en": "v. go on board\\nv. set out on (an enterprise or subject of study)",
+    "definition_zh": "vi. 乘船, 着手, 从事, 上飞机\\nvt. 使上船, 使上飞机, 使从事",
     "examples": [
-      "Passengers checked their embark before boarding the express service to the capital."
+      {
+        "en": "Specialists actively embark practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'embark'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "embarkation_noun",
-    "word": "embarkation",
+    "id": "engines_noun",
+    "word": "engines",
     "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/.embɑ:'keiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarkation-us.mp3",
-    "definition_en": "n the act of passengers and crew getting aboard a ship or aircraft",
-    "definition_zh": "n. 乘坐, 运载, 从事",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/engines-us.mp3",
+    "definition_en": "n motor that converts thermal energy to mechanical work\\nn something used to achieve a purpose\\nn a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks\\nn an instrument or machine that is used in warfare, such as a battering ram, catapult, artillery piece, etc.",
+    "definition_zh": "n. 火车头；发动机, 引擎（engine的复数形式）",
     "examples": [
-      "Passengers checked their embarkation before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of engines is beneficial in everyday life.",
+        "zh": "在相关语境中，'engines'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "expedition_noun",
-    "word": "expedition",
+    "id": "excursion_noun",
+    "word": "excursion",
     "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/.ekspi'diʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/expedition-us.mp3",
-    "definition_en": "n. a military campaign designed to achieve a specific objective in a foreign country n. an organized group of people undertaking a journey for a particular purpose n. a journey organized for a particular purpose",
-    "definition_zh": "n. 远征, 探险队, 迅速",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ik'skә:ʒәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/excursion-us.mp3",
+    "definition_en": "n. a journey taken for pleasure",
+    "definition_zh": "n. 远足, 游览圆, 短程旅行\\n 移动, 离轨, 逸出",
     "examples": [
-      "Passengers checked their expedition before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of excursion is beneficial in everyday life.",
+        "zh": "在相关语境中，'excursion'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "layover_noun",
-    "word": "layover",
+    "id": "fare_noun",
+    "word": "fare",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/fєә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fare-us.mp3",
+    "definition_en": "n. the sum charged for riding in a public conveyance\\nn. a paying (taxi) passenger\\nn. the food and drink that are regularly served or consumed\\nv. eat well",
+    "definition_zh": "n. 费用, 旅客, 食物\\nvi. 进展, 进步, 经营, 过活",
+    "examples": [
+      {
+        "en": "A deep understanding of fare is beneficial in everyday life.",
+        "zh": "在相关语境中，'fare'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "guest_noun",
+    "word": "guest",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/gest/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guest-us.mp3",
+    "definition_en": "n. a visitor to whom hospitality is extended\\nn. United States journalist (born in England) noted for his syndicated homey verse (1881-1959)\\nn. a customer of a hotel or restaurant etc.",
+    "definition_zh": "n. 客人, 来宾, 旅客\\n 客体",
+    "examples": [
+      {
+        "en": "A deep understanding of guest is beneficial in everyday life.",
+        "zh": "在相关语境中，'guest'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "guideline_noun",
+    "word": "guideline",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'gaidlain/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guideline-us.mp3",
+    "definition_en": "n. a light line that is used in lettering to help align the letters",
+    "definition_zh": "n. 指导路线, 方针, 指标\\n 指导路线, 方针, 准则",
+    "examples": [
+      {
+        "en": "A deep understanding of guideline is beneficial in everyday life.",
+        "zh": "在相关语境中，'guideline'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "hack_verb",
+    "word": "hack",
+    "part_of_speech": "verb",
+    "level": "C1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/hæk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hack-us.mp3",
+    "definition_en": "n. one who works hard at boring tasks\\nn. a mediocre and disdained writer\\nn. a tool (as a hoe or pick or mattock) used for breaking up the surface of the soil\\nn. an old or over-worked horse",
+    "definition_zh": "n. 劈, 砍, 砍痕, 出租车, 干咳, 晒架, 鹤嘴锄\\nvt. 劈, 砍, 出租, 用旧\\nvi. 劈, 砍, 干咳, 驾驶出租车\\na. 出租的",
+    "examples": [
+      {
+        "en": "Specialists actively hack practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'hack'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "hack_noun",
+    "word": "hack",
     "part_of_speech": "noun",
     "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'leiәuvә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/layover-us.mp3",
-    "definition_en": "n a brief stay in the course of a journey",
-    "definition_zh": "n. 中途短暂的停留",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/hæk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hack-us.mp3",
+    "definition_en": "n. one who works hard at boring tasks\\nn. a mediocre and disdained writer\\nn. a tool (as a hoe or pick or mattock) used for breaking up the surface of the soil\\nn. an old or over-worked horse",
+    "definition_zh": "n. 劈, 砍, 砍痕, 出租车, 干咳, 晒架, 鹤嘴锄\\nvt. 劈, 砍, 出租, 用旧\\nvi. 劈, 砍, 干咳, 驾驶出租车\\na. 出租的",
     "examples": [
-      "Passengers checked their layover before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of hack is beneficial in everyday life.",
+        "zh": "在相关语境中，'hack'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "helm_noun",
+    "word": "helm",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/helm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/helm-us.mp3",
+    "definition_en": "n. steering mechanism for a vessel; a mechanical device by which a vessel is steered\\nn. a position of leadership\\nv. be at or take the helm of",
+    "definition_zh": "n. 舵, 驾驶盘, 枢机, 头盔\\nvt. 给...掌舵, 指挥, 给...戴头盔",
+    "examples": [
+      {
+        "en": "A deep understanding of helm is beneficial in everyday life.",
+        "zh": "在相关语境中，'helm'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "highways_noun",
+    "word": "highways",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/highways-us.mp3",
+    "definition_en": "n a major road for any form of motor transport",
+    "definition_zh": "n. 公路；高速公路（highway的复数）",
+    "examples": [
+      {
+        "en": "A deep understanding of highways is beneficial in everyday life.",
+        "zh": "在相关语境中，'highways'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "hike_noun",
+    "word": "hike",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/haik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hike-us.mp3",
+    "definition_en": "n. a long walk usually for exercise or pleasure\\nv. increase\\nv. walk a long way, as for pleasure or physical exercise",
+    "definition_zh": "n. 徒步旅行, 远足, 涨价, 提高\\nvi. 步行, 徒步旅行, 上升\\nvt. 使高涨, 拉起",
+    "examples": [
+      {
+        "en": "A deep understanding of hike is beneficial in everyday life.",
+        "zh": "在相关语境中，'hike'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "hiking_noun",
+    "word": "hiking",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'haikiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hiking-us.mp3",
+    "definition_en": "n a long walk usually for exercise or pleasure\\nv increase\\nv walk a long way, as for pleasure or physical exercise",
+    "definition_zh": "n. 徒步旅行",
+    "examples": [
+      {
+        "en": "A deep understanding of hiking is beneficial in everyday life.",
+        "zh": "在相关语境中，'hiking'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "honk_verb",
+    "word": "honk",
+    "part_of_speech": "verb",
+    "level": "C1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/hɒŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/honk-us.mp3",
+    "definition_en": "n. the cry of a goose (or any sound resembling this)\\nv. make a loud noise\\nv. use the horn of a car",
+    "definition_zh": "n. 雁鸣, 汽车的喇叭声\\nvi. 雁鸣叫, 按汽车喇叭\\nvt. 揿(喇叭)",
+    "examples": [
+      {
+        "en": "Specialists actively honk practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'honk'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "honk_noun",
+    "word": "honk",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/hɒŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/honk-us.mp3",
+    "definition_en": "n. the cry of a goose (or any sound resembling this)\\nv. make a loud noise\\nv. use the horn of a car",
+    "definition_zh": "n. 雁鸣, 汽车的喇叭声\\nvi. 雁鸣叫, 按汽车喇叭\\nvt. 揿(喇叭)",
+    "examples": [
+      {
+        "en": "A deep understanding of honk is beneficial in everyday life.",
+        "zh": "在相关语境中，'honk'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "hospice_noun",
+    "word": "hospice",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'hɒspis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospice-us.mp3",
+    "definition_en": "n. a lodging for travelers (especially one kept by a monastic order)\\nn. a program of medical and emotional care for the terminally ill",
+    "definition_zh": "n. 旅客住宿处, 收容所",
+    "examples": [
+      {
+        "en": "A deep understanding of hospice is beneficial in everyday life.",
+        "zh": "在相关语境中，'hospice'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "inspectors_noun",
+    "word": "inspectors",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ɪnˈspektəz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inspectors-us.mp3",
+    "definition_en": "n. a high ranking police officer\\nn. an investigator who observes carefully",
+    "definition_zh": "n. 检查员( inspector的复数形式 ); （英国公共汽车或火车上的）查票员; （警察）巡官; 检阅官",
+    "examples": [
+      {
+        "en": "A deep understanding of inspectors is beneficial in everyday life.",
+        "zh": "在相关语境中，'inspectors'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "itinerary_noun",
+    "word": "itinerary",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ai'tinәrәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/itinerary-us.mp3",
+    "definition_en": "n an established line of travel or access\\nn a guidebook for travelers\\nn a proposed route of travel",
+    "definition_zh": "n. 旅程, 旅行指南, 游记\\na. 巡回的, 旅程的",
+    "examples": [
+      {
+        "en": "A deep understanding of itinerary is beneficial in everyday life.",
+        "zh": "在相关语境中，'itinerary'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "journey_noun",
+    "word": "journey",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'dʒә:ni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/journey-us.mp3",
+    "definition_en": "n. the act of traveling from one place to another",
+    "definition_zh": "n. 旅程, 旅行, 行程\\nvi. 旅行\\nvt. 游历",
+    "examples": [
+      {
+        "en": "A deep understanding of journey is beneficial in everyday life.",
+        "zh": "在相关语境中，'journey'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "locomotion_noun",
+    "word": "locomotion",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/.lәukә'mәuʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/locomotion-us.mp3",
+    "definition_en": "n. the power or ability to move\\nn. self-propelled movement",
+    "definition_zh": "n. 运动, 移动, 旅行\\n 行动, 运动",
+    "examples": [
+      {
+        "en": "A deep understanding of locomotion is beneficial in everyday life.",
+        "zh": "在相关语境中，'locomotion'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
     "id": "locomotive_noun",
     "word": "locomotive",
     "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
+    "level": "C2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
     "phonetic": "/.lәukә'mәutiv/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/locomotive-us.mp3",
-    "definition_en": "n. a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks a. of or relating to locomotion",
-    "definition_zh": "n. 火车头, 机车",
+    "definition_en": "n. a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks\\na. of or relating to locomotion",
+    "definition_zh": "n. 火车头, 机车\\na. 运转的, 火车头的, 移动的",
     "examples": [
-      "Passengers checked their locomotive before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of locomotive is beneficial in everyday life.",
+        "zh": "在相关语境中，'locomotive'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "navigator_noun",
-    "word": "navigator",
+    "id": "log_noun",
+    "word": "log",
     "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'nævigeitә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/navigator-us.mp3",
-    "definition_en": "n. the member of an aircrew who is responsible for the aircraft's course n. in earlier times, a person who explored by ship",
-    "definition_zh": "n. 航海家",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/lɒg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/log-us.mp3",
+    "definition_en": "n. a segment of the trunk of a tree when stripped of branches\\nn. a written record of messages sent or received\\nn. a written record of events on a voyage (of a ship or plane)\\nn. measuring instrument that consists of a float that trails from a ship by a knotted line in order to measure the ship's speed through the water",
+    "definition_zh": "n. 记录, 圆木, 日志, 计程仪\\nvt. 伐木, 切, 航行\\nvi. 伐木\\n 日志",
     "examples": [
-      "Passengers checked their navigator before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of log is beneficial in everyday life.",
+        "zh": "在相关语境中，'log'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "sojourn_noun",
-    "word": "sojourn",
+    "id": "log_verb",
+    "word": "log",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/lɒg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/log-us.mp3",
+    "definition_en": "n. a segment of the trunk of a tree when stripped of branches\\nn. a written record of messages sent or received\\nn. a written record of events on a voyage (of a ship or plane)\\nn. measuring instrument that consists of a float that trails from a ship by a knotted line in order to measure the ship's speed through the water",
+    "definition_zh": "n. 记录, 圆木, 日志, 计程仪\\nvt. 伐木, 切, 航行\\nvi. 伐木\\n 日志",
+    "examples": [
+      {
+        "en": "Specialists actively log practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'log'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "lorry_noun",
+    "word": "lorry",
     "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'sɒdʒә:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sojourn-us.mp3",
-    "definition_en": "n. a temporary stay (e.g., as a guest) v. spend a certain length of time; reside temporarily",
-    "definition_zh": "n. 逗留, 旅居",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'lɒri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lorry-us.mp3",
+    "definition_en": "n. a large low horse-drawn wagon without sides\\nn. a large truck designed to carry heavy loads; usually without sides",
+    "definition_zh": "n. 卡车, 货车\\n 载重汽车",
     "examples": [
-      "Passengers checked their sojourn before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of lorry is beneficial in everyday life.",
+        "zh": "在相关语境中，'lorry'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "surcharge_noun",
-    "word": "surcharge",
+    "id": "luggage_noun",
+    "word": "luggage",
     "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'sә:tʃɑ:dʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surcharge-us.mp3",
-    "definition_en": "n. an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or common skill) v. charge an extra fee, as for a special service v. fill to capacity with people v. print a new denomination on a stamp or a banknote",
-    "definition_zh": "n. 装载过多, 超载, 追加罚款, 附加税",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'lʌgidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/luggage-us.mp3",
+    "definition_en": "n cases used to carry belongings when traveling",
+    "definition_zh": "n. 行李, 皮箱",
     "examples": [
-      "Passengers checked their surcharge before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of luggage is beneficial in everyday life.",
+        "zh": "在相关语境中，'luggage'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "terminus_noun",
-    "word": "terminus",
+    "id": "motor_noun",
+    "word": "motor",
     "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'tә:minәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/terminus-us.mp3",
-    "definition_en": "n. (architecture) a statue or a human bust or an animal carved out of the top of a square pillar; originally used as a boundary marker in ancient Rome n. either end of a railroad or bus route",
-    "definition_zh": "n. 终点, 界标, 终点站",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'mәutә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motor-us.mp3",
+    "definition_en": "n. machine that converts other forms of energy into mechanical energy and so imparts motion\\nn. a nonspecific agent that imparts motion",
+    "definition_zh": "n. 马达, 发动机, 原动力, 汽车\\na. 马达的, 发动机的, 汽车的, 发动的\\nvt. 推动, 以汽车载运\\nvi. 乘汽车, 驾车",
     "examples": [
-      "Passengers checked their terminus before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of motor is beneficial in everyday life.",
+        "zh": "在相关语境中，'motor'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "transit_noun",
-    "word": "transit",
+    "id": "motorbike_noun",
+    "word": "motorbike",
     "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'trænsit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transit-us.mp3",
-    "definition_en": "v. make a passage or journey from one place to another v. pass across (a sign or house of the zodiac) or pass across (the disk of a celestial body or the meridian of a place) v. revolve (the telescope of a surveying transit) about its horizontal transverse axis in order to reverse its direction v. cause or enable to pass through",
-    "definition_zh": "n. 经过, 通行, 运输, 运输线, 转变",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'mәjtәbaik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motorbike-us.mp3",
+    "definition_en": "v. ride a motorcycle",
+    "definition_zh": "n. 机动脚踏两用车, 摩托车",
     "examples": [
-      "Passengers checked their transit before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of motorbike is beneficial in everyday life.",
+        "zh": "在相关语境中，'motorbike'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "globetrotter_noun",
-    "word": "globetrotter",
+    "id": "motorcycle_noun",
+    "word": "motorcycle",
     "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'^lәjbtrɔtә(r)/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/globetrotter-us.mp3",
-    "definition_en": "n. someone who travels widely and often",
-    "definition_zh": "n. 环球旅行者, 周游世界者, 环球游览者",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'mәutәsaikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motorcycle-us.mp3",
+    "definition_en": "n. a motor vehicle with two wheels and a strong frame",
+    "definition_zh": "n. 摩托车\\n 机动车, 机踏车, 摩托车",
     "examples": [
-      "Passengers checked their globetrotter before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of motorcycle is beneficial in everyday life.",
+        "zh": "在相关语境中，'motorcycle'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "itinerant_adjective",
-    "word": "itinerant",
+    "id": "motorist_noun",
+    "word": "motorist",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'mәutәrist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motorist-us.mp3",
+    "definition_en": "n. someone who drives (or travels in) an automobile",
+    "definition_zh": "n. 开汽车者, 驾车旅行的人",
+    "examples": [
+      {
+        "en": "A deep understanding of motorist is beneficial in everyday life.",
+        "zh": "在相关语境中，'motorist'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "motors_noun",
+    "word": "motors",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motors-us.mp3",
+    "definition_en": "n machine that converts other forms of energy into mechanical energy and so imparts motion\\nn a nonspecific agent that imparts motion\\nv travel or be transported in a vehicle",
+    "definition_zh": "n. 汽车公司证券；汽车；发动机（motor的复数）",
+    "examples": [
+      {
+        "en": "A deep understanding of motors is beneficial in everyday life.",
+        "zh": "在相关语境中，'motors'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "motorway_noun",
+    "word": "motorway",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'mәutәwei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motorway-us.mp3",
+    "definition_en": "n a broad highway designed for high-speed traffic",
+    "definition_zh": "n. 高速公路",
+    "examples": [
+      {
+        "en": "A deep understanding of motorway is beneficial in everyday life.",
+        "zh": "在相关语境中，'motorway'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "navigate_verb",
+    "word": "navigate",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'nævigeit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/navigate-us.mp3",
+    "definition_en": "v. act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance\\nv. direct carefully and safely",
+    "definition_zh": "vi. 航行\\nvt. 航行于, 驾驶, 操纵, 使通过",
+    "examples": [
+      {
+        "en": "Specialists actively navigate practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'navigate'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "navigation_noun",
+    "word": "navigation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/.nævi'geiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/navigation-us.mp3",
+    "definition_en": "n. the guidance of ships or airplanes from place to place\\nn. ship traffic",
+    "definition_zh": "n. 航行, 航海, 导航\\n 航空, 航海, 航船",
+    "examples": [
+      {
+        "en": "A deep understanding of navigation is beneficial in everyday life.",
+        "zh": "在相关语境中，'navigation'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pass_noun",
+    "word": "pass",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/pæs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pass-us.mp3",
+    "definition_en": "n. (military) a written leave of absence\\nn. (American football) a play that involves one player throwing the ball to a teammate\\nn. the location in a range of mountains of a geological formation that is lower than the surrounding peaks\\nn. any authorization to pass or go somewhere",
+    "definition_zh": "n. 经过, 要隘, 途径, 通行, 护照, 及格\\nvt. 经过, 越过, 通过, 批准, 度过, 传递, 忽略\\nvi. 经过, 变化, 流通, 及格, 宣判, 终止, 消逝, 被忽略, 不叫牌, 传递\\n 遍",
+    "examples": [
+      {
+        "en": "A deep understanding of pass is beneficial in everyday life.",
+        "zh": "在相关语境中，'pass'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pass_verb",
+    "word": "pass",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/pæs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pass-us.mp3",
+    "definition_en": "n. (military) a written leave of absence\\nn. (American football) a play that involves one player throwing the ball to a teammate\\nn. the location in a range of mountains of a geological formation that is lower than the surrounding peaks\\nn. any authorization to pass or go somewhere",
+    "definition_zh": "n. 经过, 要隘, 途径, 通行, 护照, 及格\\nvt. 经过, 越过, 通过, 批准, 度过, 传递, 忽略\\nvi. 经过, 变化, 流通, 及格, 宣判, 终止, 消逝, 被忽略, 不叫牌, 传递\\n 遍",
+    "examples": [
+      {
+        "en": "Specialists actively pass practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'pass'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pass_adjective",
+    "word": "pass",
     "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/i'tinәrәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/itinerant-us.mp3",
-    "definition_en": "n. a laborer who moves from place to place as demanded by employment s. traveling from place to place to work",
-    "definition_zh": "a. 巡回的",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/pæs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pass-us.mp3",
+    "definition_en": "n. (military) a written leave of absence\\nn. (American football) a play that involves one player throwing the ball to a teammate\\nn. the location in a range of mountains of a geological formation that is lower than the surrounding peaks\\nn. any authorization to pass or go somewhere",
+    "definition_zh": "n. 经过, 要隘, 途径, 通行, 护照, 及格\\nvt. 经过, 越过, 通过, 批准, 度过, 传递, 忽略\\nvi. 经过, 变化, 流通, 及格, 宣判, 终止, 消逝, 被忽略, 不叫牌, 传递\\n 遍",
     "examples": [
-      "Passengers checked their itinerant before boarding the express service to the capital."
+      {
+        "en": "They adopted a pass perspective to address the challenge.",
+        "zh": "在相关语境中，'pass'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "peregrination_noun",
-    "word": "peregrination",
+    "id": "passenger_noun",
+    "word": "passenger",
     "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/.perigri'neiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peregrination-us.mp3",
-    "definition_en": "n. traveling or wandering around",
-    "definition_zh": "n. 徒步旅行, 旅程, 人生历程, 漫谈, 泛论",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'pæsindʒә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passenger-us.mp3",
+    "definition_en": "n. a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it",
+    "definition_zh": "n. 乘客, 旅客\\n 乘客, 旅客",
     "examples": [
-      "Passengers checked their peregrination before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of passenger is beneficial in everyday life.",
+        "zh": "在相关语境中，'passenger'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "peripatetic_adjective",
-    "word": "peripatetic",
+    "id": "passengers_noun",
+    "word": "passengers",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'pæsndʒɚ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passengers-us.mp3",
+    "definition_en": "n a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it",
+    "definition_zh": "n. 乘客( passenger的名词复数 ); 旅客; 白吃饭的人; 闲散人员",
+    "examples": [
+      {
+        "en": "A deep understanding of passengers is beneficial in everyday life.",
+        "zh": "在相关语境中，'passengers'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "passport_noun",
+    "word": "passport",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'pæspɒ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passport-us.mp3",
+    "definition_en": "n. a document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country",
+    "definition_zh": "n. 护照, 手段, 通行证\\n 通行证, 护照",
+    "examples": [
+      {
+        "en": "A deep understanding of passport is beneficial in everyday life.",
+        "zh": "在相关语境中，'passport'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "path_noun",
+    "word": "path",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/pɑ:θ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/path-us.mp3",
+    "definition_en": "n. a way especially designed for a particular use\\nn. an established line of travel or access\\nn. a line or route along which something travels or moves",
+    "definition_zh": "n. 路径, 小路, 道路, 途径, 路线, 轨道\\n 路径; DOS内部命令:设定DOS读取程序的路径",
+    "examples": [
+      {
+        "en": "A deep understanding of path is beneficial in everyday life.",
+        "zh": "在相关语境中，'path'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "peep_noun",
+    "word": "peep",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/pi:p/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peep-us.mp3",
+    "definition_en": "v. look furtively\\nv. cause to appear\\nv. make high-pitched sounds\\nv. speak in a hesitant and high-pitched tone of voice",
+    "definition_zh": "n. 一瞥, 偷看, 不完全的景象, 初现, 吱吱声, 嘀咕抱怨声, 汽车喇叭声\\nvi. 窥视, 出现, 吱吱叫\\nvt. 使隐约显现",
+    "examples": [
+      {
+        "en": "A deep understanding of peep is beneficial in everyday life.",
+        "zh": "在相关语境中，'peep'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pilgrim_noun",
+    "word": "pilgrim",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'pilgrim/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pilgrim-us.mp3",
+    "definition_en": "n. someone who journeys in foreign lands\\nn. one of the colonists from England who sailed to America on the Mayflower and founded the colony of Plymouth in New England in 1620\\nn. someone who journeys to a sacred place as an act of religious devotion",
+    "definition_zh": "n. 旅行者, 朝圣者, 香客\\nvi. 朝圣",
+    "examples": [
+      {
+        "en": "A deep understanding of pilgrim is beneficial in everyday life.",
+        "zh": "在相关语境中，'pilgrim'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pilot_noun",
+    "word": "pilot",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'pailәt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pilot-us.mp3",
+    "definition_en": "n. someone who is licensed to operate an aircraft in flight\\nn. a person qualified to guide ships through difficult waters going into or out of a harbor",
+    "definition_zh": "n. 飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人\\nvt. 领航, 驾驶, 引导, 试用\\na. 引导的, 控制的, 试点的\\n 引导",
+    "examples": [
+      {
+        "en": "A deep understanding of pilot is beneficial in everyday life.",
+        "zh": "在相关语境中，'pilot'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pilots_noun",
+    "word": "pilots",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pilots-us.mp3",
+    "definition_en": "n someone who is licensed to operate an aircraft in flight\\nn a person qualified to guide ships through difficult waters going into or out of a harbor\\nn a program exemplifying a contemplated series; intended to attract sponsors\\nn something that serves as a model or a basis for making copies\\nn small auxiliary gas burner that provides a flame to ignite a larger gas burner\\nn an inclined metal frame at the front of a locomotive to clear the track\\nv operate an airplane\\nv act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance",
+    "definition_zh": "n. 飞行员；向导；试播节目；自动驾驶仪（pilot的复数）",
+    "examples": [
+      {
+        "en": "A deep understanding of pilots is beneficial in everyday life.",
+        "zh": "在相关语境中，'pilots'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "plane_noun",
+    "word": "plane",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/plein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plane-us.mp3",
+    "definition_en": "n. (mathematics) an unbounded two-dimensional shape\\nn. a level of existence or development\\nn. a power tool for smoothing or shaping wood\\nn. a carpenter's hand tool with an adjustable blade for smoothing or shaping wood",
+    "definition_zh": "n. 平面, 扁平物, 机翼, 飞机, 水准, 地位\\na. 平的, 平面的\\nvt. 将...刨平, 刨平, 掠过水面\\nvi. 翱翔, 乘飞机旅行, 刨掉",
+    "examples": [
+      {
+        "en": "A deep understanding of plane is beneficial in everyday life.",
+        "zh": "在相关语境中，'plane'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "proceeded_verb",
+    "word": "proceeded",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/prəˈsi:did/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/proceeded-us.mp3",
+    "definition_en": "imp. & p. p. of Proceed",
+    "definition_zh": "v. 进行( proceed的过去式和过去分词 ); 前进; （沿特定路线）行进; （尤指打断后）继续说",
+    "examples": [
+      {
+        "en": "Specialists actively proceeded practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'proceeded'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "put_verb",
+    "word": "put",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/put/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/put-us.mp3",
+    "definition_en": "v. put into a certain place or abstract location\\nv. cause to be in a certain state; cause to be in a certain relation\\nv. attribute or give\\nv. cause (someone) to undergo something",
+    "definition_zh": "vt. 放, 摆, 安置, 移动, 发射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予\\nvi. 出发, 航行, 发芽\\nn. 掷, 股票出售权, 笨蛋\\na. 固定不动的\\n 发送文件",
+    "examples": [
+      {
+        "en": "Specialists actively put practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'put'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "quarantine_noun",
+    "word": "quarantine",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'kwɒrәnti:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quarantine-us.mp3",
+    "definition_en": "n. enforced isolation of patients suffering from a contagious disease in order to prevent the spread of disease\\nn. isolation to prevent the spread of infectious disease\\nv. place into enforced isolation, as for medical reasons",
+    "definition_zh": "n. 隔离, 封锁交通, 检疫期\\nvt. 隔离, 排斥",
+    "examples": [
+      {
+        "en": "A deep understanding of quarantine is beneficial in everyday life.",
+        "zh": "在相关语境中，'quarantine'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "rack_noun",
+    "word": "rack",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ræk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rack-us.mp3",
+    "definition_en": "n. framework for holding objects\\nn. rib section of a forequarter of veal or pork or especially lamb or mutton\\nn. an instrument of torture that stretches or disjoints or mutilates victims\\nn. a support for displaying various articles",
+    "definition_zh": "n. 架, 行李架, 饲草架, 搁物架, 痛苦, 折磨, 齿条, 行云团\\nvt. 把...放在架上, 在架上制作, 折磨, 使痛苦, 压榨, 榨取, 猛烈撕拉, 拷问\\nvi. 变形, 倾斜, (云)随风飘, (马)小步跑\\n 机架",
+    "examples": [
+      {
+        "en": "A deep understanding of rack is beneficial in everyday life.",
+        "zh": "在相关语境中，'rack'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "railroads_noun",
+    "word": "railroads",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ˈreilrəudz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/railroads-us.mp3",
+    "definition_en": "n line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight\\nn a line of track providing a runway for wheels\\nv compel by coercion, threats, or crude means\\nv supply with railroad lines\\nv transport by railroad",
+    "definition_zh": "n. 铁路, 铁道( railroad的名词复数 ); 铁路系统\\nv. 铁路, 铁道( railroad的第三人称单数 ); 铁路系统",
+    "examples": [
+      {
+        "en": "A deep understanding of railroads is beneficial in everyday life.",
+        "zh": "在相关语境中，'railroads'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "rails_noun",
+    "word": "rails",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rails-us.mp3",
+    "definition_en": "n a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll\\nn a barrier consisting of a horizontal bar and supports\\nn short for railway\\nn a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll\\nn a horizontal bar (usually of wood or metal)\\nn any of numerous widely distributed small wading birds of the family Rallidae having short wings and very long toes for running on soft mud\\nv complain bitterly\\nv enclose with rails\\nv provide with rails\\nv separate with a railing\\nv convey (goods etc.) by rails\\nv travel by rail or train\\nv lay with rails\\nv fish with a handline over the rails of a boat\\nv spread negative information about\\nv criticize severely",
+    "definition_zh": "铁路股票",
+    "examples": [
+      {
+        "en": "A deep understanding of rails is beneficial in everyday life.",
+        "zh": "在相关语境中，'rails'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "railway_noun",
+    "word": "railway",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'reilwei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/railway-us.mp3",
+    "definition_en": "n. line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight",
+    "definition_zh": "n. 铁路, 轨道\\n 铁路",
+    "examples": [
+      {
+        "en": "A deep understanding of railway is beneficial in everyday life.",
+        "zh": "在相关语境中，'railway'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "railways_noun",
+    "word": "railways",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'reɪlweɪz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/railways-us.mp3",
+    "definition_en": "n. line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight\\nn. a line of track providing a runway for wheels",
+    "definition_zh": "n. 铁路, 铁道( railway的复数形式 ); 铁路系统",
+    "examples": [
+      {
+        "en": "A deep understanding of railways is beneficial in everyday life.",
+        "zh": "在相关语境中，'railways'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "roundabout_noun",
+    "word": "roundabout",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'raundә.baut/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/roundabout-us.mp3",
+    "definition_en": "n a road junction at which traffic streams circularly around a central island\\nn a large, rotating machine with seats for children to ride or amusement\\ns marked by obliqueness or indirection in speech or conduct\\ns deviating from a straight course",
+    "definition_zh": "a. 迂回的, 委婉的\\nn. 迂回路线",
+    "examples": [
+      {
+        "en": "A deep understanding of roundabout is beneficial in everyday life.",
+        "zh": "在相关语境中，'roundabout'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "route_noun",
+    "word": "route",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ru:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/route-us.mp3",
+    "definition_en": "v. send documents or materials to appropriate destinations\\nv. send via a specific route\\nv. divert in a specified direction",
+    "definition_zh": "n. 路径, 途径, 路线\\nvt. 确定路线, 按规定路线发送\\n 传递, 路由设定程序",
+    "examples": [
+      {
+        "en": "A deep understanding of route is beneficial in everyday life.",
+        "zh": "在相关语境中，'route'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "safari_noun",
+    "word": "safari",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/sә'fɑ:ri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/safari-us.mp3",
+    "definition_en": "n an overland journey by hunters (especially in Africa)",
+    "definition_zh": "n. 旅行, 旅行队, 科学考察",
+    "examples": [
+      {
+        "en": "A deep understanding of safari is beneficial in everyday life.",
+        "zh": "在相关语境中，'safari'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "sail_verb",
+    "word": "sail",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/seil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sail-us.mp3",
+    "definition_en": "n. a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel\\nn. any structure that resembles a sail\\nv. traverse or travel on (a body of water)\\nv. travel on water propelled by wind",
+    "definition_zh": "n. 帆, 篷, 帆船, 航程, 帆状物\\nvi. 航行, 启航, 张帆而行\\nvt. 航行于, 驾船",
+    "examples": [
+      {
+        "en": "Specialists actively sail practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'sail'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "sail_noun",
+    "word": "sail",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/seil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sail-us.mp3",
+    "definition_en": "n. a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel\\nn. any structure that resembles a sail\\nv. traverse or travel on (a body of water)\\nv. travel on water propelled by wind",
+    "definition_zh": "n. 帆, 篷, 帆船, 航程, 帆状物\\nvi. 航行, 启航, 张帆而行\\nvt. 航行于, 驾船",
+    "examples": [
+      {
+        "en": "A deep understanding of sail is beneficial in everyday life.",
+        "zh": "在相关语境中，'sail'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "sailed_verb",
+    "word": "sailed",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/seild/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sailed-us.mp3",
+    "definition_en": "imp. & p. p. of Sail",
+    "definition_zh": "v. 驾驶( sail的过去式和过去分词 ); 起航; 坐船旅行; 掠",
+    "examples": [
+      {
+        "en": "Specialists actively sailed practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'sailed'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "sailing_noun",
+    "word": "sailing",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'seiliŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sailing-us.mp3",
+    "definition_en": "n. riding in a sailboat\\nn. the departure of a vessel from a port",
+    "definition_zh": "n. 航行, 航海术, 启航\\na. 航行的",
+    "examples": [
+      {
+        "en": "A deep understanding of sailing is beneficial in everyday life.",
+        "zh": "在相关语境中，'sailing'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "scooter_noun",
+    "word": "scooter",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'sku:tә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scooter-us.mp3",
+    "definition_en": "n. child's two-wheeled vehicle operated by foot",
+    "definition_zh": "n. 小型摩托车, 踏板车\\n 机车",
+    "examples": [
+      {
+        "en": "A deep understanding of scooter is beneficial in everyday life.",
+        "zh": "在相关语境中，'scooter'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "shipping_noun",
+    "word": "shipping",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'ʃipiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shipping-us.mp3",
+    "definition_en": "n. conveyance provided by the ships belonging to one country or industry",
+    "definition_zh": "n. 装运, 航行, 船舶, 船舶吨数\\n 装运, 运送, 海运",
+    "examples": [
+      {
+        "en": "A deep understanding of shipping is beneficial in everyday life.",
+        "zh": "在相关语境中，'shipping'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "sightseeing_noun",
+    "word": "sightseeing",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'saitsi:iŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sightseeing-us.mp3",
+    "definition_en": "n. going about to look at places of interest",
+    "definition_zh": "n. 观光, 游览\\na. 观光的, 游览的",
+    "examples": [
+      {
+        "en": "A deep understanding of sightseeing is beneficial in everyday life.",
+        "zh": "在相关语境中，'sightseeing'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "signals_noun",
+    "word": "signals",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ˈsiɡnəlz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/signals-us.mp3",
+    "definition_en": "n any nonverbal action or gesture that encodes a message\\nn any incitement to action\\nn an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes\\nv communicate silently and non-verbally by signals or signs\\nv be a signal for or a symptom of",
+    "definition_zh": "n. 信号( signal的名词复数 ); （无线电或电视所传送的）讯号; 标志; （尤指铁路和公路上的）指示灯\\nv. 发信号, 用信号传达, 用信号通讯( signal的第三人称单数 ); 发暗号; 示意",
+    "examples": [
+      {
+        "en": "A deep understanding of signals is beneficial in everyday life.",
+        "zh": "在相关语境中，'signals'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "smoker_noun",
+    "word": "smoker",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'smәukә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/smoker-us.mp3",
+    "definition_en": "n. a person who smokes tobacco\\nn. a passenger car for passengers who wish to smoke",
+    "definition_zh": "n. 吸烟者, 吸烟的人, 吸烟车厢, (美)(非正式)蒸汽火车头",
+    "examples": [
+      {
+        "en": "A deep understanding of smoker is beneficial in everyday life.",
+        "zh": "在相关语境中，'smoker'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "stage_noun",
+    "word": "stage",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/steidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stage-us.mp3",
+    "definition_en": "n. a large platform on which people can stand and can be seen by an audience\\nn. the theater as a profession (usually `the stage')\\nn. a section or portion of a journey or course\\nn. any scene regarded as a setting for exhibiting or doing something",
+    "definition_zh": "n. 阶段, 舞台, 场所, 戏剧, 站, 驿站, 级, 层, 脚手架\\nvt. 上演, 表演, 筹划\\nvi. 适于上演, 乘驿车旅行",
+    "examples": [
+      {
+        "en": "A deep understanding of stage is beneficial in everyday life.",
+        "zh": "在相关语境中，'stage'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "stage_adjective",
+    "word": "stage",
     "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/.peripә'tetik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peripatetic-us.mp3",
-    "definition_en": "n. a person who walks from place to place s. traveling especially on foot",
-    "definition_zh": "a. 徒步的, 漫游的",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/steidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stage-us.mp3",
+    "definition_en": "n. a large platform on which people can stand and can be seen by an audience\\nn. the theater as a profession (usually `the stage')\\nn. a section or portion of a journey or course\\nn. any scene regarded as a setting for exhibiting or doing something",
+    "definition_zh": "n. 阶段, 舞台, 场所, 戏剧, 站, 驿站, 级, 层, 脚手架\\nvt. 上演, 表演, 筹划\\nvi. 适于上演, 乘驿车旅行",
     "examples": [
-      "Passengers checked their peripatetic before boarding the express service to the capital."
+      {
+        "en": "They adopted a stage perspective to address the challenge.",
+        "zh": "在相关语境中，'stage'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "wayfarer_noun",
-    "word": "wayfarer",
+    "id": "station_noun",
+    "word": "station",
     "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "旅行出行与交通住宿",
-    "phonetic": "/'wei.fєәrә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wayfarer-us.mp3",
-    "definition_en": "n. a pedestrian who walks from place to place n. a traveler going on a trip",
-    "definition_zh": "n. 旅行者",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'steiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/station-us.mp3",
+    "definition_en": "n. a facility equipped with special equipment and personnel for a particular purpose\\nn. (nautical) the location to which a ship or fleet is assigned for duty\\nn. the frequency assigned to a broadcasting station\\nv. assign to a station",
+    "definition_zh": "n. 车站, 站, 局, 驻地, 位置, 身分, 地位\\nvt. 安置, 配置, 驻扎\\n 站",
     "examples": [
-      "Passengers checked their wayfarer before boarding the express service to the capital."
+      {
+        "en": "A deep understanding of station is beneficial in everyday life.",
+        "zh": "在相关语境中，'station'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "stations_noun",
+    "word": "stations",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stations-us.mp3",
+    "definition_en": "n. (Roman Catholic Church) a devotion consisting of fourteen prayers said before a series of fourteen pictures or carvings representing successive incidents during Jesus' passage from Pilate's house to his crucifixion at Calvary",
+    "definition_zh": "n. 车站；驻地；位置（station的复数形式）",
+    "examples": [
+      {
+        "en": "A deep understanding of stations is beneficial in everyday life.",
+        "zh": "在相关语境中，'stations'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "steamers_noun",
+    "word": "steamers",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/s'ti:məz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steamers-us.mp3",
+    "definition_en": "n. a clam that is usually steamed in the shell\\nn. a cooking utensil that can be used to cook food by steaming it\\nn. a ship powered by one or more steam engines",
+    "definition_zh": "abbr. steamed clams 汽船, 蒸汽机\\nn. 汽船( steamer的复数形式 ); 大轮船; 汽锅; 蒸锅",
+    "examples": [
+      {
+        "en": "A deep understanding of steamers is beneficial in everyday life.",
+        "zh": "在相关语境中，'steamers'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "steamship_noun",
+    "word": "steamship",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'sti:mʃip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steamship-us.mp3",
+    "definition_en": "n a ship powered by one or more steam engines",
+    "definition_zh": "n. 汽船, 轮船",
+    "examples": [
+      {
+        "en": "A deep understanding of steamship is beneficial in everyday life.",
+        "zh": "在相关语境中，'steamship'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "steer_verb",
+    "word": "steer",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/stiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steer-us.mp3",
+    "definition_en": "v. direct the course; determine the direction of travelling\\nv. direct (oneself) somewhere",
+    "definition_zh": "vt. 引导, 驾驶, 航行, 控制\\nvi. 驾驶, 掌舵, 行驶\\nn. 驾驶指示, 劝告",
+    "examples": [
+      {
+        "en": "Specialists actively steer practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'steer'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "stop_noun",
+    "word": "stop",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/stɒp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stop-us.mp3",
+    "definition_en": "n. the event of something ending\\nn. the act of stopping something\\nn. a brief stay in the course of a journey\\nn. a spot where something halts or pauses",
+    "definition_zh": "n. 停止, 车站, 逗留, 填塞, 障碍, (风琴的)音栓\\nvi. 停止, 被塞住\\nvt. 塞住, 堵塞, 阻止, 击落, 停止, 终止, 断绝",
+    "examples": [
+      {
+        "en": "A deep understanding of stop is beneficial in everyday life.",
+        "zh": "在相关语境中，'stop'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "stop_verb",
+    "word": "stop",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/stɒp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stop-us.mp3",
+    "definition_en": "n. the event of something ending\\nn. the act of stopping something\\nn. a brief stay in the course of a journey\\nn. a spot where something halts or pauses",
+    "definition_zh": "n. 停止, 车站, 逗留, 填塞, 障碍, (风琴的)音栓\\nvi. 停止, 被塞住\\nvt. 塞住, 堵塞, 阻止, 击落, 停止, 终止, 断绝",
+    "examples": [
+      {
+        "en": "Specialists actively stop practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'stop'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "subway_noun",
+    "word": "subway",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'sʌbwei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subway-us.mp3",
+    "definition_en": "n an electric railway operating below the surface of the ground (usually in a city)\\nn an underground tunnel or passage enabling pedestrians to cross a road or railway",
+    "definition_zh": "n. 地铁, 地道\\nvi. 乘地铁",
+    "examples": [
+      {
+        "en": "A deep understanding of subway is beneficial in everyday life.",
+        "zh": "在相关语境中，'subway'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "taxi_noun",
+    "word": "taxi",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'tæksi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxi-us.mp3",
+    "definition_en": "v. travel slowly\\nv. ride in a taxicab",
+    "definition_zh": "n. 出租车\\nvi. 乘出租车\\nvt. 用出租车送",
+    "examples": [
+      {
+        "en": "A deep understanding of taxi is beneficial in everyday life.",
+        "zh": "在相关语境中，'taxi'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "team_noun",
+    "word": "team",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ti:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/team-us.mp3",
+    "definition_en": "n. a cooperative unit (especially in sports)\\nn. two or more draft animals that work together to pull something\\nv. form a team",
+    "definition_zh": "n. 队, 组\\nvt. 把马(牛)套在同一辆车上, 把...编成一组\\nvi. 驾驶卡车, 协作",
+    "examples": [
+      {
+        "en": "A deep understanding of team is beneficial in everyday life.",
+        "zh": "在相关语境中，'team'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "tents_noun",
+    "word": "tents",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tents-us.mp3",
+    "definition_en": "n a portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs)\\nn a web that resembles a tent or carpet\\nv live in or as if in a tent",
+    "definition_zh": "n. 旅游帐篷；住所；塞条（tent的复数）",
+    "examples": [
+      {
+        "en": "A deep understanding of tents is beneficial in everyday life.",
+        "zh": "在相关语境中，'tents'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "ticket_noun",
+    "word": "ticket",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'tikit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ticket-us.mp3",
+    "definition_en": "n. a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)\\nn. a summons issued to an offender (especially to someone who violates a traffic regulation)\\nn. the appropriate or desirable thing\\nv. issue a ticket or a fine to as a penalty",
+    "definition_zh": "n. 票, 券, 车票, 标签, 入场券, 证明书\\nvt. 加标签于, 为...购票",
+    "examples": [
+      {
+        "en": "A deep understanding of ticket is beneficial in everyday life.",
+        "zh": "在相关语境中，'ticket'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "tour_noun",
+    "word": "tour",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/tuә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tour-us.mp3",
+    "definition_en": "n. a journey or route all the way around a particular place or area\\nv. make a tour of a certain place",
+    "definition_zh": "n. 旅游, 观光旅行, 任期\\nvi. 旅行, 周游, 巡回\\nvt. 周游, 观光, 游历, 使巡回演出",
+    "examples": [
+      {
+        "en": "A deep understanding of tour is beneficial in everyday life.",
+        "zh": "在相关语境中，'tour'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "tour_verb",
+    "word": "tour",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/tuә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tour-us.mp3",
+    "definition_en": "n. a journey or route all the way around a particular place or area\\nv. make a tour of a certain place",
+    "definition_zh": "n. 旅游, 观光旅行, 任期\\nvi. 旅行, 周游, 巡回\\nvt. 周游, 观光, 游历, 使巡回演出",
+    "examples": [
+      {
+        "en": "Specialists actively tour practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'tour'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "tourism_noun",
+    "word": "tourism",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'tuәrizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tourism-us.mp3",
+    "definition_en": "n. the business of providing services to tourists",
+    "definition_zh": "n. 观光业, 游览\\n 旅游业",
+    "examples": [
+      {
+        "en": "A deep understanding of tourism is beneficial in everyday life.",
+        "zh": "在相关语境中，'tourism'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "tourist_noun",
+    "word": "tourist",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'tuәrist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tourist-us.mp3",
+    "definition_en": "n. someone who travels for pleasure",
+    "definition_zh": "n. 观光客, 旅行者\\na. 旅游的",
+    "examples": [
+      {
+        "en": "A deep understanding of tourist is beneficial in everyday life.",
+        "zh": "在相关语境中，'tourist'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "tourists_noun",
+    "word": "tourists",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'tʊərɪsts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tourists-us.mp3",
+    "definition_en": "n someone who travels for pleasure",
+    "definition_zh": "n. 旅行者, 观光客( tourist的名词复数 )",
+    "examples": [
+      {
+        "en": "A deep understanding of tourists is beneficial in everyday life.",
+        "zh": "在相关语境中，'tourists'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "traffic_noun",
+    "word": "traffic",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'træfik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/traffic-us.mp3",
+    "definition_en": "n. the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time\\nn. buying and selling; especially illicit trade\\nn. the amount of activity over a communication system during a given period of time\\nv. deal illegally",
+    "definition_zh": "n. 交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量\\nvi. 交易, 做买卖\\nvt. 用...作交换\\n 通信量, 传输量",
+    "examples": [
+      {
+        "en": "A deep understanding of traffic is beneficial in everyday life.",
+        "zh": "在相关语境中，'traffic'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "train_noun",
+    "word": "train",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/trein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/train-us.mp3",
+    "definition_en": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\\nn. a series of consequences wrought by an event\\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\\nv. create by training and teaching",
+    "definition_zh": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序\\nvt. 训练, 教育, 对准\\nvi. 受训练, 锻炼",
+    "examples": [
+      {
+        "en": "A deep understanding of train is beneficial in everyday life.",
+        "zh": "在相关语境中，'train'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "train_verb",
+    "word": "train",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/trein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/train-us.mp3",
+    "definition_en": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\\nn. a series of consequences wrought by an event\\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\\nv. create by training and teaching",
+    "definition_zh": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序\\nvt. 训练, 教育, 对准\\nvi. 受训练, 锻炼",
+    "examples": [
+      {
+        "en": "Specialists actively train practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'train'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "trainer_noun",
+    "word": "trainer",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'treinә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trainer-us.mp3",
+    "definition_en": "n. one who trains other persons or animals",
+    "definition_zh": "n. 训练员, 驯马师\\n 列车器",
+    "examples": [
+      {
+        "en": "A deep understanding of trainer is beneficial in everyday life.",
+        "zh": "在相关语境中，'trainer'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "transportation_noun",
+    "word": "transportation",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/.trænspә'teiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transportation-us.mp3",
+    "definition_en": "n. the act of moving something from one location to another\\nn. the commercial enterprise of moving goods and materials",
+    "definition_zh": "n. 运输, 输送, 交通车辆\\n 运转, 运输, 运输费",
+    "examples": [
+      {
+        "en": "A deep understanding of transportation is beneficial in everyday life.",
+        "zh": "在相关语境中，'transportation'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "travel_noun",
+    "word": "travel",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'trævl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/travel-us.mp3",
+    "definition_en": "n. the act of going from one place to another\\nv. change location; move, travel, or proceed, also metaphorically\\nv. undertake a journey or trip\\nv. make a trip for pleasure",
+    "definition_zh": "n. 旅行, 游历, 行进\\nvi. 旅行, 行进, 移动, 被传播\\nvt. 旅行, 通过, 使移动",
+    "examples": [
+      {
+        "en": "A deep understanding of travel is beneficial in everyday life.",
+        "zh": "在相关语境中，'travel'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "travel_verb",
+    "word": "travel",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'trævl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/travel-us.mp3",
+    "definition_en": "n. the act of going from one place to another\\nv. change location; move, travel, or proceed, also metaphorically\\nv. undertake a journey or trip\\nv. make a trip for pleasure",
+    "definition_zh": "n. 旅行, 游历, 行进\\nvi. 旅行, 行进, 移动, 被传播\\nvt. 旅行, 通过, 使移动",
+    "examples": [
+      {
+        "en": "Specialists actively travel practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'travel'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "traveler_noun",
+    "word": "traveler",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'trævlә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/traveler-us.mp3",
+    "definition_en": "n. a person who changes location",
+    "definition_zh": "n. 旅行者, 游客, 旅客, 旅行推销员, 活动起重架, 行车, 临时记帐单",
+    "examples": [
+      {
+        "en": "A deep understanding of traveler is beneficial in everyday life.",
+        "zh": "在相关语境中，'traveler'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "travelers_noun",
+    "word": "travelers",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/travelers-us.mp3",
+    "definition_en": "n a person who changes location",
+    "definition_zh": "n. 旅行者；旅客（traveler的复数形式）",
+    "examples": [
+      {
+        "en": "A deep understanding of travelers is beneficial in everyday life.",
+        "zh": "在相关语境中，'travelers'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "traveller_noun",
+    "word": "traveller",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'trævlә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/traveller-us.mp3",
+    "definition_en": "n a person who changes location",
+    "definition_zh": "n. 旅行者\\n 旅行商",
+    "examples": [
+      {
+        "en": "A deep understanding of traveller is beneficial in everyday life.",
+        "zh": "在相关语境中，'traveller'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "travellers_noun",
+    "word": "travellers",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ˈtrævələz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/travellers-us.mp3",
+    "definition_en": "n. a person who changes location",
+    "definition_zh": "n. 旅行者（ traveller的复数形式 ）; 旅游者; 旅客; 游客",
+    "examples": [
+      {
+        "en": "A deep understanding of travellers is beneficial in everyday life.",
+        "zh": "在相关语境中，'travellers'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "trek_noun",
+    "word": "trek",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/trek/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trek-us.mp3",
+    "definition_en": "n. a journey by ox wagon (especially an organized migration by a group of settlers)\\nn. any long and difficult trip\\nv. journey on foot, especially in the mountains\\nv. make a long and difficult journey",
+    "definition_zh": "vi. 牛拉货车, 艰苦跋涉\\nn. 牛车旅行, 艰苦跋涉",
+    "examples": [
+      {
+        "en": "A deep understanding of trek is beneficial in everyday life.",
+        "zh": "在相关语境中，'trek'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "trip_noun",
+    "word": "trip",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/trip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trip-us.mp3",
+    "definition_en": "n. a journey for some purpose (usually including the return)\\nn. a hallucinatory experience induced by drugs\\nn. an exciting or stimulating experience\\nn. a light or nimble tread",
+    "definition_zh": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程\\nvt. 使跌倒, 使犯错, 使失败\\nvi. 轻快地走, 绊倒, 失误, 犯错, 结巴, 旅行, 远足",
+    "examples": [
+      {
+        "en": "A deep understanding of trip is beneficial in everyday life.",
+        "zh": "在相关语境中，'trip'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "trip_verb",
+    "word": "trip",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/trip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trip-us.mp3",
+    "definition_en": "n. a journey for some purpose (usually including the return)\\nn. a hallucinatory experience induced by drugs\\nn. an exciting or stimulating experience\\nn. a light or nimble tread",
+    "definition_zh": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程\\nvt. 使跌倒, 使犯错, 使失败\\nvi. 轻快地走, 绊倒, 失误, 犯错, 结巴, 旅行, 远足",
+    "examples": [
+      {
+        "en": "Specialists actively trip practical solutions to ensure optimal results.",
+        "zh": "在相关语境中，'trip'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "underground_adjective",
+    "word": "underground",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'ʌndәgraund/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/underground-us.mp3",
+    "definition_en": "n. a secret group organized to overthrow a government or occupation force\\nr. in or into hiding or secret operation\\nr. beneath the surface of the earth",
+    "definition_zh": "n. 地下, 地铁, 地道, 秘密活动\\na. 地下的, 秘密的\\nadv. 在地下, 秘密地",
+    "examples": [
+      {
+        "en": "They adopted a underground perspective to address the challenge.",
+        "zh": "在相关语境中，'underground'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "underground_adverb",
+    "word": "underground",
+    "part_of_speech": "adverb",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'ʌndәgraund/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/underground-us.mp3",
+    "definition_en": "n. a secret group organized to overthrow a government or occupation force\\nr. in or into hiding or secret operation\\nr. beneath the surface of the earth",
+    "definition_zh": "n. 地下, 地铁, 地道, 秘密活动\\na. 地下的, 秘密的\\nadv. 在地下, 秘密地",
+    "examples": [
+      {
+        "en": "They adopted a underground perspective to address the challenge.",
+        "zh": "在相关语境中，'underground'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "vehicle_noun",
+    "word": "vehicle",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'vi:ikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vehicle-us.mp3",
+    "definition_en": "n. a conveyance that transports people or objects\\nn. a medium for the expression or achievement of something\\nn. any substance that facilitates the use of a drug or pigment or other material that is mixed with it",
+    "definition_zh": "n. 交通工具, 车辆, 传播媒介\\n 载体; 运载体; 漆料",
+    "examples": [
+      {
+        "en": "A deep understanding of vehicle is beneficial in everyday life.",
+        "zh": "在相关语境中，'vehicle'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "vehicles_noun",
+    "word": "vehicles",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vehicles-us.mp3",
+    "definition_en": "n a conveyance that transports people or objects\\nn a medium for the expression or achievement of something\\nn any substance that facilitates the use of a drug or pigment or other material that is mixed with it\\nn any inanimate object (as a towel or money or clothing or dishes or books or toys etc.) that can transmit infectious agents from one person to another",
+    "definition_zh": "n. 交通工具；车辆（vehicle的复数形式）",
+    "examples": [
+      {
+        "en": "A deep understanding of vehicles is beneficial in everyday life.",
+        "zh": "在相关语境中，'vehicles'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "visa_noun",
+    "word": "visa",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'vi:zә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/visa-us.mp3",
+    "definition_en": "n. an endorsement made in a passport that allows the bearer to enter the country issuing it\\nv. provide (a passport) with a visa\\nv. approve officially",
+    "definition_zh": "n. 签证\\nvt. 签发",
+    "examples": [
+      {
+        "en": "A deep understanding of visa is beneficial in everyday life.",
+        "zh": "在相关语境中，'visa'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "visitor_noun",
+    "word": "visitor",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'vizitә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/visitor-us.mp3",
+    "definition_en": "n. someone who visits",
+    "definition_zh": "n. 参观者, 游客, 访客\\n 视察人, 检视人, 检查员",
+    "examples": [
+      {
+        "en": "A deep understanding of visitor is beneficial in everyday life.",
+        "zh": "在相关语境中，'visitor'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "visitors_noun",
+    "word": "visitors",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/visitors-us.mp3",
+    "definition_en": "n someone who visits",
+    "definition_zh": "n. 访问者, 游客（visitor 复数）",
+    "examples": [
+      {
+        "en": "A deep understanding of visitors is beneficial in everyday life.",
+        "zh": "在相关语境中，'visitors'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "voyage_noun",
+    "word": "voyage",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'vɒiidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/voyage-us.mp3",
+    "definition_en": "n. a journey to some distant place\\nv. travel on water propelled by wind or by other means",
+    "definition_zh": "n. 航行, 航海, 航程, 旅行, 航空\\nvi. 航海, 航行\\nvt. 航行越过, 飞过",
+    "examples": [
+      {
+        "en": "A deep understanding of voyage is beneficial in everyday life.",
+        "zh": "在相关语境中，'voyage'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "wagons_noun",
+    "word": "wagons",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ˈwæɡənz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wagons-us.mp3",
+    "definition_en": "n. any of various kinds of wheeled vehicles drawn by an animal or a tractor\\nn. van used by police to transport prisoners\\nn. a group of seven bright stars in the constellation Ursa Major",
+    "definition_zh": "n. 四轮的运货马车( wagon的复数形式 ); <英>铁路货车; <美>小手推车",
+    "examples": [
+      {
+        "en": "A deep understanding of wagons is beneficial in everyday life.",
+        "zh": "在相关语境中，'wagons'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "walkabout_noun",
+    "word": "walkabout",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'wɔ:kәbajt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/walkabout-us.mp3",
+    "definition_en": "n. a walking trip or tour\\nn. a public stroll by a celebrity to meet people informally\\nn. nomadic excursions into the bush made by an Aborigine",
+    "definition_zh": "n. 徒步旅行",
+    "examples": [
+      {
+        "en": "A deep understanding of walkabout is beneficial in everyday life.",
+        "zh": "在相关语境中，'walkabout'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "way_noun",
+    "word": "way",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/wei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/way-us.mp3",
+    "definition_en": "n. the condition of things generally\\nn. a course of conduct\\nn. any artifact consisting of a road or path affording passage from one place to another\\nn. a journey or passage",
+    "definition_zh": "n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面\\nadv. 远远地, 非常",
+    "examples": [
+      {
+        "en": "A deep understanding of way is beneficial in everyday life.",
+        "zh": "在相关语境中，'way'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "way_adjective",
+    "word": "way",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/wei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/way-us.mp3",
+    "definition_en": "n. the condition of things generally\\nn. a course of conduct\\nn. any artifact consisting of a road or path affording passage from one place to another\\nn. a journey or passage",
+    "definition_zh": "n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面\\nadv. 远远地, 非常",
+    "examples": [
+      {
+        "en": "They adopted a way perspective to address the challenge.",
+        "zh": "在相关语境中，'way'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "way_adverb",
+    "word": "way",
+    "part_of_speech": "adverb",
+    "level": "A1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/wei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/way-us.mp3",
+    "definition_en": "n. the condition of things generally\\nn. a course of conduct\\nn. any artifact consisting of a road or path affording passage from one place to another\\nn. a journey or passage",
+    "definition_zh": "n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面\\nadv. 远远地, 非常",
+    "examples": [
+      {
+        "en": "They adopted a way perspective to address the challenge.",
+        "zh": "在相关语境中，'way'的实际运用体现了明确的语义搭配。"
+      }
     ]
   }
 ]

@@ -1,562 +1,236 @@
 [
   {
-    "id": "bottle_noun",
-    "word": "bottle",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'bɒtl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bottle-us.mp3",
-    "definition_en": "n. a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped n. the quantity contained in a bottle n. a vessel fitted with a flexible teat and filled with milk or formula; used as a substitute for breast feeding infants and very young children v. store (liquids or gases) in bottles",
-    "definition_zh": "n. 瓶子, 酒瓶",
-    "examples": [
-      "A serving of bottle is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "coffee_noun",
-    "word": "coffee",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'kɒfi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coffee-us.mp3",
-    "definition_en": "n. a beverage consisting of an infusion of ground coffee beans n. any of several small trees and shrubs native to the tropical Old World yielding coffee beans",
-    "definition_zh": "n. 咖啡, 咖啡色",
-    "examples": [
-      "Freshly brewed coffee filled the kitchen with an inviting aroma."
-    ]
-  },
-  {
-    "id": "cup_noun",
-    "word": "cup",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/kʌp/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cup-us.mp3",
-    "definition_en": "n. a small open container usually used for drinking; usually has a handle n. the quantity a cup will hold n. any cup-shaped concavity n. a United States liquid unit equal to 8 fluid ounces",
-    "definition_zh": "n. 杯子, 茶杯, 优胜杯",
-    "examples": [
-      "A serving of cup is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "drink_verb",
-    "word": "drink",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/driŋk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drink-us.mp3",
-    "definition_en": "n. a single serving of a beverage n. the act of drinking alcoholic beverages to excess n. any large deep body of water v. take in liquids",
-    "definition_zh": "v. 喝, 喝酒",
-    "examples": [
-      "Guests were invited to drink slowly while listening to the background music."
-    ]
-  },
-  {
-    "id": "drinking_noun",
-    "word": "drinking",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'driŋkiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinking-us.mp3",
-    "definition_en": "n. the act of consuming liquids",
-    "definition_zh": "n. 喝, 喝酒",
-    "examples": [
-      "A serving of drinking is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "drinks_noun",
-    "word": "drinks",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinks-us.mp3",
-    "definition_en": "n a single serving of a beverage n the act of drinking alcoholic beverages to excess n any liquid suitable for drinking n any large deep body of water n the act of swallowing v take in liquids v consume alcohol v propose a toast to v be fascinated or spell-bound by; pay close attention to v drink excessive amounts of alcohol; be an alcoholic",
-    "definition_zh": "n. 饮料, 饮品；喝酒（drink复数）",
-    "examples": [
-      "A serving of drinks is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "glass_noun",
-    "word": "glass",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/glɑ:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/glass-us.mp3",
-    "definition_en": "n. a brittle transparent solid with irregular atomic structure n. a container for holding liquids while drinking n. the quantity a glass will hold n. glassware collectively",
-    "definition_zh": "n. 玻璃, 玻璃杯, 透镜",
-    "examples": [
-      "A serving of glass is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "juice_noun",
-    "word": "juice",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/dʒu:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/juice-us.mp3",
-    "definition_en": "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking n. energetic vitality n. electric current n. any of several liquids of the body",
-    "definition_zh": "n. 汁, 活力, 体液",
-    "examples": [
-      "She prepared a glass of fresh orange juice for breakfast."
-    ]
-  },
-  {
-    "id": "milk_noun",
-    "word": "milk",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/milk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/milk-us.mp3",
-    "definition_en": "n. a white nutritious liquid secreted by mammals and used as food by human beings n. produced by mammary glands of female mammals for feeding their young n. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River n. any of several nutritive milklike liquids",
-    "definition_zh": "n. 奶, 乳状物",
-    "examples": [
-      "A cup of warm milk before sleep helps relax both mind and body."
-    ]
-  },
-  {
-    "id": "water_noun",
-    "word": "water",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'wɒ:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/water-us.mp3",
-    "definition_en": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent n. once thought to be one of four elements composing the universe (Empedocles) n. a liquid necessary for the life of most animals and plants v. supply with water, as with channels or ditches or streams",
-    "definition_zh": "n. 水, 雨水, 海水, 水位, 水面, 流水",
-    "examples": [
-      "Drinking clean water regularly is essential for staying healthy and hydrated."
-    ]
-  },
-  {
-    "id": "beer_noun",
-    "word": "beer",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/biә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beer-us.mp3",
-    "definition_en": "n. a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops",
-    "definition_zh": "n. 啤酒",
-    "examples": [
-      "Friends shared a cold craft beer together after a busy afternoon."
-    ]
-  },
-  {
-    "id": "coke_noun",
-    "word": "coke",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/kәuk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coke-us.mp3",
-    "definition_en": "n. carbon fuel produced by distillation of coal n. street names for cocaine v. become coke",
-    "definition_zh": "n. 可口可乐, 焦炭",
-    "examples": [
-      "A serving of coke is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "cola_noun",
-    "word": "cola",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'kәulә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cola-us.mp3",
-    "definition_en": "n. large genus of African trees bearing kola nuts n. carbonated drink flavored with extract from kola nuts (`dope' is a southernism in the United States)",
-    "definition_zh": "结肠, 冒号, 科朗",
-    "examples": [
-      "A serving of cola is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "mug_noun",
-    "word": "mug",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/mʌg/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mug-us.mp3",
-    "definition_en": "n. the quantity that can be held in a mug n. with handle and usually cylindrical v. rob at gunpoint or with the threat of violence",
-    "definition_zh": "n. 有柄大杯, 脸, 苦读者",
-    "examples": [
-      "A serving of mug is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "soda_noun",
-    "word": "soda",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'sәudә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soda-us.mp3",
-    "definition_en": "n a sodium salt of carbonic acid; used in making soap powders and glass and paper n a sweet drink containing carbonated water and flavoring",
-    "definition_zh": "n. 苏打, 碳酸水",
-    "examples": [
-      "A serving of soda is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "tea_noun",
-    "word": "tea",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ti:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tea-us.mp3",
-    "definition_en": "n. a beverage made by steeping tea leaves in water n. a light midafternoon meal of tea and sandwiches or cakes n. a tropical evergreen shrub or small tree extensively cultivated in e.g. China and Japan and India; source of tea leaves n. a reception or party at which tea is served",
-    "definition_zh": "n. 茶, 茶叶",
-    "examples": [
-      "Enjoying a cup of fresh green tea in the morning provides a peaceful start to the day."
-    ]
-  },
-  {
-    "id": "thirsty_adjective",
-    "word": "thirsty",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'θә:sti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thirsty-us.mp3",
-    "definition_en": "s. needing moisture a. feeling a need or desire to drink s. able to take in large quantities of moisture",
-    "definition_zh": "a. 口渴的, 渴望的, 干燥的",
-    "examples": [
-      "The lounge offered a selection of thirsty beverages from renowned regions."
-    ]
-  },
-  {
-    "id": "wine_noun",
-    "word": "wine",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/wain/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wine-us.mp3",
-    "definition_en": "n. fermented juice (of grapes especially) n. a red as dark as red wine v. drink wine v. treat to wine",
-    "definition_zh": "n. 葡萄酒, 果酒, 暗红色",
-    "examples": [
-      "The sommelier expertly paired a vintage red wine with the main course."
-    ]
-  },
-  {
     "id": "alcohol_noun",
     "word": "alcohol",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
     "phonetic": "/'ælkәhɒl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alcohol-us.mp3",
-    "definition_en": "n. a liquor or brew containing alcohol as the active agent n. any of a series of volatile hydroxyl compounds that are made from hydrocarbons by distillation",
-    "definition_zh": "n. 酒精, 酒",
+    "definition_en": "n. a liquor or brew containing alcohol as the active agent\\nn. any of a series of volatile hydroxyl compounds that are made from hydrocarbons by distillation",
+    "definition_zh": "n. 酒精, 酒\\n 醇; 乙醇; 酒精",
     "examples": [
-      "A serving of alcohol is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled alcohol was served to refresh the guests.",
+        "zh": "在相关语境中，'alcohol'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "alcoholic_adjective",
-    "word": "alcoholic",
+    "id": "ammonia_noun",
+    "word": "ammonia",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/ә'mәunjә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ammonia-us.mp3",
+    "definition_en": "n. a pungent gas compounded of nitrogen and hydrogen (NH3)",
+    "definition_zh": "n. 氨水, 阿摩尼亚\\n 氨",
+    "examples": [
+      {
+        "en": "A glass of chilled ammonia was served to refresh the guests.",
+        "zh": "在相关语境中，'ammonia'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "aqua_adjective",
+    "word": "aqua",
     "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ækwә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aqua-us.mp3",
+    "definition_en": "n a shade of blue tinged with green",
+    "definition_zh": "水, 水剂",
+    "examples": [
+      {
+        "en": "Guests were invited to aqua leisurely in the garden lounge.",
+        "zh": "在相关语境中，'aqua'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "aquarium_noun",
+    "word": "aquarium",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/ә'kwєәriәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aquarium-us.mp3",
+    "definition_en": "n. a tank or pool or bowl filled with water for keeping live fish and underwater animals",
+    "definition_zh": "n. 水族馆, 养鱼池, 水草缸\\n 培养缸",
+    "examples": [
+      {
+        "en": "A glass of chilled aquarium was served to refresh the guests.",
+        "zh": "在相关语境中，'aquarium'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "armor_noun",
+    "word": "armor",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ɑ:mә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/armor-us.mp3",
+    "definition_en": "n. protective covering made of metal and used in combat\\nn. a military unit consisting of armored fighting vehicles\\nn. tough more-or-less rigid protective covering of an animal or plant",
+    "definition_zh": "n. 盔甲, 潜水服, 装甲\\nvt. 为...装甲",
+    "examples": [
+      {
+        "en": "A glass of chilled armor was served to refresh the guests.",
+        "zh": "在相关语境中，'armor'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "aspirin_noun",
+    "word": "aspirin",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/.ælkә'hɒlik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alcoholic-us.mp3",
-    "definition_en": "n. a person who drinks alcohol to excess habitually a. characteristic of or containing alcohol s. addicted to alcohol",
-    "definition_zh": "a. 酒精的",
+    "category": "food_beverages",
+    "phonetic": "/'æspәrin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aspirin-us.mp3",
+    "definition_en": "n. the acetylated derivative of salicylic acid; used as an analgesic anti-inflammatory drug (trade names Bayer, Empirin, and St. Joseph) usually taken in tablet form; used as an antipyretic; slows clotting of the blood by poisoning platelets",
+    "definition_zh": "n. 阿斯匹林\\n 乙酰水杨酸; 阿司匹灵; 邻乙酸基苯甲酸",
     "examples": [
-      "The lounge offered a selection of alcoholic beverages from renowned regions."
+      {
+        "en": "A glass of chilled aspirin was served to refresh the guests.",
+        "zh": "在相关语境中，'aspirin'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "attaining_verb",
+    "word": "attaining",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/əˈteinɪŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attaining-us.mp3",
+    "definition_en": "p. pr. & vb. n. of Attain",
+    "definition_zh": "v. （通常经过努力）实现( attain的现在分词 ); 达到; 获得; 达到（某年龄、水平、状况）",
+    "examples": [
+      {
+        "en": "Guests were invited to attaining leisurely in the garden lounge.",
+        "zh": "在相关语境中，'attaining'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "average_adjective",
+    "word": "average",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ævәridʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/average-us.mp3",
+    "definition_en": "n. a statistic describing the location of a distribution\\nn. (sports) the ratio of successful performances to opportunities\\nn. an intermediate scale value regarded as normal or usual\\nv. amount to or come to an average, without loss or gain",
+    "definition_zh": "n. 平均, 平均数, 一般水平, 海损\\na. 平均的, 中等的, 平常的\\nvt. 算出...平均数, 平均做, 均分, 使平衡\\nvi. 平均为, 呈中间色",
+    "examples": [
+      {
+        "en": "Guests were invited to average leisurely in the garden lounge.",
+        "zh": "在相关语境中，'average'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "average_noun",
+    "word": "average",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ævәridʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/average-us.mp3",
+    "definition_en": "n. a statistic describing the location of a distribution\\nn. (sports) the ratio of successful performances to opportunities\\nn. an intermediate scale value regarded as normal or usual\\nv. amount to or come to an average, without loss or gain",
+    "definition_zh": "n. 平均, 平均数, 一般水平, 海损\\na. 平均的, 中等的, 平常的\\nvt. 算出...平均数, 平均做, 均分, 使平衡\\nvi. 平均为, 呈中间色",
+    "examples": [
+      {
+        "en": "A glass of chilled average was served to refresh the guests.",
+        "zh": "在相关语境中，'average'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
     "id": "bar_noun",
     "word": "bar",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A1",
     "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
     "phonetic": "/bɑ:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bar-us.mp3",
-    "definition_en": "n. a counter where you can obtain food or drink n. a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon n. an obstruction (usually metal) placed at the top of a goal n. (meteorology) a unit of pressure equal to a million dynes per square centimeter",
-    "definition_zh": "n. 条, 棒, 酒吧, 栅, 障碍物",
+    "definition_en": "n. a counter where you can obtain food or drink\\nn. a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon\\nn. an obstruction (usually metal) placed at the top of a goal\\nn. (meteorology) a unit of pressure equal to a million dynes per square centimeter",
+    "definition_zh": "n. 条, 棒, 酒吧, 栅, 障碍物\\nvt. 禁止, 阻挡, 妨碍\\n 棒形图",
     "examples": [
-      "A serving of bar is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled bar was served to refresh the guests.",
+        "zh": "在相关语境中，'bar'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "bar_verb",
+    "word": "bar",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/bɑ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bar-us.mp3",
+    "definition_en": "n. a counter where you can obtain food or drink\\nn. a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon\\nn. an obstruction (usually metal) placed at the top of a goal\\nn. (meteorology) a unit of pressure equal to a million dynes per square centimeter",
+    "definition_zh": "n. 条, 棒, 酒吧, 栅, 障碍物\\nvt. 禁止, 阻挡, 妨碍\\n 棒形图",
+    "examples": [
+      {
+        "en": "Guests were invited to bar leisurely in the garden lounge.",
+        "zh": "在相关语境中，'bar'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "barman_noun",
+    "word": "barman",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'bɑ:mәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barman-us.mp3",
+    "definition_en": "n an employee who mixes and serves alcoholic drinks at a bar",
+    "definition_zh": "n. 酒吧间男招待",
+    "examples": [
+      {
+        "en": "A glass of chilled barman was served to refresh the guests.",
+        "zh": "在相关语境中，'barman'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
     "id": "bars_noun",
     "word": "bars",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
     "phonetic": "/bɑ:z/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bars-us.mp3",
-    "definition_en": "n gymnastic apparatus consisting of two parallel wooden rods supported on uprights n a room or establishment where alcoholic drinks are served over a counter n a counter where you can obtain food or drink n a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon n musical notation for a repeating pattern of musical beats n an obstruction (usually metal) placed at the top of a goal n the act of preventing n (meteorology) a unit of pressure equal to a million dynes per square centimeter n a submerged (or partly submerged) ridge in a river or along a shore n the body of individuals qualified to practice law in a particular jurisdiction n a narrow marking of a different color or texture from the background n a block of solid substance (such as soap or wax) n a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War n a horizontal rod that serves as a support for gymnasts as they perform exercises n a heating element in an electric fire n (law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried v prevent from entering; keep out v render unsuitable for passage v expel, as if by official decree v secure with, or as if with, bars",
+    "definition_en": "n gymnastic apparatus consisting of two parallel wooden rods supported on uprights\\nn a room or establishment where alcoholic drinks are served over a counter\\nn a counter where you can obtain food or drink\\nn a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon\\nn musical notation for a repeating pattern of musical beats\\nn an obstruction (usually metal) placed at the top of a goal\\nn the act of preventing\\nn (meteorology) a unit of pressure equal to a million dynes per square centimeter\\nn a submerged (or partly submerged) ridge in a river or along a shore\\nn the body of individuals qualified to practice law in a particular jurisdiction\\nn a narrow marking of a different color or texture from the background\\nn a block of solid substance (such as soap or wax)\\nn a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War\\nn a horizontal rod that serves as a support for gymnasts as they perform exercises\\nn a heating element in an electric fire\\nn (law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried\\nv prevent from entering; keep out\\nv render unsuitable for passage\\nv expel, as if by official decree\\nv secure with, or as if with, bars",
     "definition_zh": "n. 马齿龈；（木、金属等的）条；栅栏；酒吧（bar的复数形式）",
     "examples": [
-      "A serving of bars is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "cafe_noun",
-    "word": "cafe",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/kɑ:'fei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cafe-us.mp3",
-    "definition_en": "n. a small restaurant where drinks and snacks are sold",
-    "definition_zh": "n. 咖啡馆, 酒店",
-    "examples": [
-      "A serving of cafe is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "cider_noun",
-    "word": "cider",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'saidә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cider-us.mp3",
-    "definition_en": "n. a beverage made from juice pressed from apples",
-    "definition_zh": "n. 苹果汁, 苹果酒",
-    "examples": [
-      "A serving of cider is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "cocktail_noun",
-    "word": "cocktail",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'kɒkteil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cocktail-us.mp3",
-    "definition_en": "n. a short mixed drink n. an appetizer served as a first course at a meal",
-    "definition_zh": "n. 鸡尾酒, 开味品",
-    "examples": [
-      "A serving of cocktail is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "cocoa_noun",
-    "word": "cocoa",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'kәukәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cocoa-us.mp3",
-    "definition_en": "n. a beverage made from cocoa powder and milk and sugar; usually drunk hot n. powder of ground roasted cacao beans with most of the fat removed",
-    "definition_zh": "n. 可可粉, 可可茶, 可可色",
-    "examples": [
-      "A serving of cocoa is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "kettle_noun",
-    "word": "kettle",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ketl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kettle-us.mp3",
-    "definition_en": "n. a metal pot for stewing or boiling; usually has a lid n. the quantity a kettle will hold n. a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it",
-    "definition_zh": "n. 茶壶, 罐",
-    "examples": [
-      "A serving of kettle is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "lemonade_noun",
-    "word": "lemonade",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/.lemә'neid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lemonade-us.mp3",
-    "definition_en": "n. sweetened beverage of diluted lemon juice",
-    "definition_zh": "n. 柠檬水",
-    "examples": [
-      "A serving of lemonade is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "mineral_noun",
-    "word": "mineral",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'minәrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mineral-us.mp3",
-    "definition_en": "n. solid homogeneous inorganic substances occurring in nature having a definite chemical composition a. relating to minerals s. composed of matter other than plant or animal",
-    "definition_zh": "n. 矿物, 无机物, 苏打水",
-    "examples": [
-      "A serving of mineral is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "pot_noun",
-    "word": "pot",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/pɒt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pot-us.mp3",
-    "definition_en": "n. metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid n. the quantity contained in a pot n. a container in which plants are cultivated n. the cumulative amount involved in a game (such as poker)",
-    "definition_zh": "n. 盆, 罐, 壶, 坩埚, 奖杯",
-    "examples": [
-      "A serving of pot is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "pub_noun",
-    "word": "pub",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/pʌb/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pub-us.mp3",
-    "definition_en": "n tavern consisting of a building with a bar and public rooms; often provides light meals",
-    "definition_zh": "n. 酒馆, 客栈",
-    "examples": [
-      "A serving of pub is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "refreshment_noun",
-    "word": "refreshment",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ri'freʃmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refreshment-us.mp3",
-    "definition_en": "n. snacks and drinks served as a light meal n. activity that refreshes and recreates; activity that renews your health and spirits by enjoyment and relaxation",
-    "definition_zh": "n. 点心, 起提神作用的事物, 精神爽快",
-    "examples": [
-      "A serving of refreshment is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "saucer_noun",
-    "word": "saucer",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'sɒ:sә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saucer-us.mp3",
-    "definition_en": "n. a small shallow dish for holding a cup at the table",
-    "definition_zh": "n. 茶碟, 茶托",
-    "examples": [
-      "A serving of saucer is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "smoothie_noun",
-    "word": "smoothie",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'smu:ði/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/smoothie-us.mp3",
-    "definition_en": "n. someone with an assured and ingratiating manner n. a thick smooth drink consisting of fresh fruit pureed with ice cream or yoghurt or milk",
-    "definition_zh": "n. 举止优雅的人, 善于奉承的人, 油嘴滑舌的人",
-    "examples": [
-      "A serving of smoothie is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "straw_noun",
-    "word": "straw",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/strɒ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/straw-us.mp3",
-    "definition_en": "n. plant fiber used e.g. for making baskets and hats or as fodder n. a thin paper or plastic tube used to suck liquids into the mouth v. cover or provide with or as if with straw s. of a pale yellow color like straw; straw-colored",
-    "definition_zh": "n. 稻草, 麦管, 吸管, 一文不值的东西, 草帽",
-    "examples": [
-      "A serving of straw is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "syrup_noun",
-    "word": "syrup",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'sirәp/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/syrup-us.mp3",
-    "definition_en": "n. a thick sweet sticky liquid",
-    "definition_zh": "n. 糖浆, 果汁",
-    "examples": [
-      "A serving of syrup is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "teapot_noun",
-    "word": "teapot",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ti:pɒt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teapot-us.mp3",
-    "definition_en": "n. pot for brewing tea; usually has a spout and handle",
-    "definition_zh": "n. 茶壶",
-    "examples": [
-      "A serving of teapot is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "teaspoon_noun",
-    "word": "teaspoon",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ti:spu:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teaspoon-us.mp3",
-    "definition_en": "n. as much as a teaspoon will hold n. a small spoon used for stirring tea or coffee; holds about one fluid dram",
-    "definition_zh": "n. 茶匙",
-    "examples": [
-      "A serving of teaspoon is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "thirst_noun",
-    "word": "thirst",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/θә:st/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thirst-us.mp3",
-    "definition_en": "n. a physiological need to drink v. feel the need to drink",
-    "definition_zh": "n. 口渴, 渴望",
-    "examples": [
-      "A serving of thirst is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "ale_noun",
-    "word": "ale",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/eil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ale-us.mp3",
-    "definition_en": "n. a general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume",
-    "definition_zh": "n. 麦芽酒",
-    "examples": [
-      "A serving of ale is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled bars was served to refresh the guests.",
+        "zh": "在相关语境中，'bars'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -565,68 +239,196 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
     "phonetic": "/'bɑ:.tendә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bartender-us.mp3",
     "definition_en": "n. an employee who mixes and serves alcoholic drinks at a bar",
     "definition_zh": "n. 酒保, 酒吧侍者",
     "examples": [
-      "A serving of bartender is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled bartender was served to refresh the guests.",
+        "zh": "在相关语境中，'bartender'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "beverage_noun",
-    "word": "beverage",
+    "id": "beer_noun",
+    "word": "beer",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'bevәridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beverage-us.mp3",
-    "definition_en": "n. any liquid suitable for drinking",
-    "definition_zh": "n. 饮料",
+    "category": "food_beverages",
+    "phonetic": "/biә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beer-us.mp3",
+    "definition_en": "n. a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops",
+    "definition_zh": "n. 啤酒\\n 啤酒",
     "examples": [
-      "A serving of beverage is often offered to welcome visitors to the lounge."
+      {
+        "en": "They gathered at the patio to enjoy cold beer and conversation.",
+        "zh": "在相关语境中，'beer'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "brandy_noun",
-    "word": "brandy",
+    "id": "bishop_noun",
+    "word": "bishop",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'brændi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brandy-us.mp3",
-    "definition_en": "n. distilled from wine or fermented fruit juice",
-    "definition_zh": "n. 白兰地酒",
+    "category": "food_beverages",
+    "phonetic": "/'biʃәp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bishop-us.mp3",
+    "definition_en": "n. a senior member of the Christian clergy having spiritual and administrative authority; appointed in Christian churches to oversee priests or ministers; considered in some churches to be successors of the twelve Apostles of Christ\\nn. port wine mulled with oranges and cloves\\nn. (chess) a piece that can be moved diagonally over unoccupied squares of the same color",
+    "definition_zh": "n. 主教, (国际象棋中的)象, 热果子酒",
     "examples": [
-      "A serving of brandy is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled bishop was served to refresh the guests.",
+        "zh": "在相关语境中，'bishop'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "brew_verb",
-    "word": "brew",
+    "id": "bishops_noun",
+    "word": "bishops",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'bɪʃəp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bishops-us.mp3",
+    "definition_en": "n a senior member of the Christian clergy having spiritual and administrative authority; appointed in Christian churches to oversee priests or ministers; considered in some churches to be successors of the twelve Apostles of Christ\\nn port wine mulled with oranges and cloves\\nn (chess) a piece that can be moved diagonally over unoccupied squares of the same color",
+    "definition_zh": "n. ；主教\\nvt. 任命…为主教(或大祭司、会督等)；烧糊, 煮焦(牛奶等)\\nvi. 当主教(或大祭司、会督等)；走象",
+    "examples": [
+      {
+        "en": "A glass of chilled bishops was served to refresh the guests.",
+        "zh": "在相关语境中，'bishops'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "blister_noun",
+    "word": "blister",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'blistә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blister-us.mp3",
+    "definition_en": "n. a flaw on a surface resulting when an applied substance does not adhere (as an air bubble in a coat of paint)\\nn. (botany) a swelling on a plant similar to that on the skin\\nn. (pathology) an elevation of the skin filled with serous fluid\\nv. get blistered",
+    "definition_zh": "n. 水疱\\n 砂眼",
+    "examples": [
+      {
+        "en": "A glass of chilled blister was served to refresh the guests.",
+        "zh": "在相关语境中，'blister'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "blister_verb",
+    "word": "blister",
+    "part_of_speech": "verb",
+    "level": "C1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'blistә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blister-us.mp3",
+    "definition_en": "n. a flaw on a surface resulting when an applied substance does not adhere (as an air bubble in a coat of paint)\\nn. (botany) a swelling on a plant similar to that on the skin\\nn. (pathology) an elevation of the skin filled with serous fluid\\nv. get blistered",
+    "definition_zh": "n. 水疱\\n 砂眼",
+    "examples": [
+      {
+        "en": "Guests were invited to blister leisurely in the garden lounge.",
+        "zh": "在相关语境中，'blister'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "bottle_noun",
+    "word": "bottle",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'bɒtl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bottle-us.mp3",
+    "definition_en": "n. a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped\\nn. the quantity contained in a bottle\\nn. a vessel fitted with a flexible teat and filled with milk or formula; used as a substitute for breast feeding infants and very young children\\nv. store (liquids or gases) in bottles",
+    "definition_zh": "n. 瓶子, 酒瓶\\nvt. 装瓶, 抑制, 围困",
+    "examples": [
+      {
+        "en": "A glass of chilled bottle was served to refresh the guests.",
+        "zh": "在相关语境中，'bottle'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "bottle_verb",
+    "word": "bottle",
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/bru:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brew-us.mp3",
-    "definition_en": "n. drink made by steeping and boiling and fermenting rather than distilling v. prepare by brewing v. sit or let sit in boiling water so as to extract the flavor",
-    "definition_zh": "v. 酿造, 酝酿",
+    "category": "food_beverages",
+    "phonetic": "/'bɒtl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bottle-us.mp3",
+    "definition_en": "n. a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped\\nn. the quantity contained in a bottle\\nn. a vessel fitted with a flexible teat and filled with milk or formula; used as a substitute for breast feeding infants and very young children\\nv. store (liquids or gases) in bottles",
+    "definition_zh": "n. 瓶子, 酒瓶\\nvt. 装瓶, 抑制, 围困",
     "examples": [
-      "Guests were invited to brew slowly while listening to the background music."
+      {
+        "en": "Guests were invited to bottle leisurely in the garden lounge.",
+        "zh": "在相关语境中，'bottle'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "brewer_noun",
-    "word": "brewer",
+    "id": "bouquet_noun",
+    "word": "bouquet",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'bru:ә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brewer-us.mp3",
-    "definition_en": "n. someone who brews beer or ale from malt and hops and water n. the owner or manager of a brewery",
-    "definition_zh": "n. (啤酒)制造者, 泡制饮料的器皿",
+    "category": "food_beverages",
+    "phonetic": "/bu'kei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bouquet-us.mp3",
+    "definition_en": "n. an arrangement of flowers that is usually given as a present\\nn. a pleasingly sweet olfactory property",
+    "definition_zh": "n. 花束\\n 丛, 酒香, 末梢分极",
     "examples": [
-      "A serving of brewer is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled bouquet was served to refresh the guests.",
+        "zh": "在相关语境中，'bouquet'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "bowl_noun",
+    "word": "bowl",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/bәul/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bowl-us.mp3",
+    "definition_en": "n. a round vessel that is open at the top; used chiefly for holding food or liquids; \\nn. a concave shape with an open top\\nn. a dish that is round and open at the top for serving foods\\nn. the quantity contained in a bowl",
+    "definition_zh": "n. 碗, 木球, 大酒杯\\nv. 滚木球, 快而稳地行驶",
+    "examples": [
+      {
+        "en": "A glass of chilled bowl was served to refresh the guests.",
+        "zh": "在相关语境中，'bowl'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "bowl_verb",
+    "word": "bowl",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/bәul/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bowl-us.mp3",
+    "definition_en": "n. a round vessel that is open at the top; used chiefly for holding food or liquids; \\nn. a concave shape with an open top\\nn. a dish that is round and open at the top for serving foods\\nn. the quantity contained in a bowl",
+    "definition_zh": "n. 碗, 木球, 大酒杯\\nv. 滚木球, 快而稳地行驶",
+    "examples": [
+      {
+        "en": "Guests were invited to bowl leisurely in the garden lounge.",
+        "zh": "在相关语境中，'bowl'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -635,54 +437,88 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
     "phonetic": "/'bru:әri/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brewery-us.mp3",
     "definition_en": "n. a plant where beer is brewed by fermentation",
-    "definition_zh": "n. 啤酒厂, 酿酒厂",
+    "definition_zh": "n. 啤酒厂, 酿酒厂\\n 酿造所",
     "examples": [
-      "A serving of brewery is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled brewery was served to refresh the guests.",
+        "zh": "在相关语境中，'brewery'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "caffeine_noun",
-    "word": "caffeine",
-    "part_of_speech": "noun",
-    "level": "B2",
+    "id": "bubbly_adjective",
+    "word": "bubbly",
+    "part_of_speech": "adjective",
+    "level": "C1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'kæfi:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caffeine-us.mp3",
-    "definition_en": "n. a bitter alkaloid found in coffee and tea that is responsible for their stimulating effects",
-    "definition_zh": "n. 咖啡因, 咖啡碱",
+    "category": "food_beverages",
+    "phonetic": "/'bʌbli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bubbly-us.mp3",
+    "definition_en": "s. full of or showing high spirits",
+    "definition_zh": "a. 多泡的, 起泡的\\nn. 香槟酒",
     "examples": [
-      "A serving of caffeine is often offered to welcome visitors to the lounge."
+      {
+        "en": "Guests were invited to bubbly leisurely in the garden lounge.",
+        "zh": "在相关语境中，'bubbly'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "cappuccino_noun",
-    "word": "cappuccino",
+    "id": "canal_noun",
+    "word": "canal",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/kæpj'tʃi:nәj/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cappuccino-us.mp3",
-    "definition_en": "n. equal parts of espresso and hot milk topped with cinnamon and nutmeg and usually whipped cream",
-    "definition_zh": "n. 热牛奶咖啡",
+    "category": "food_beverages",
+    "phonetic": "/kә'næl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/canal-us.mp3",
+    "definition_en": "n. (astronomy) an indistinct surface feature of Mars once thought to be a system of channels; they are now believed to be an optical illusion\\nn. long and narrow strip of water made for boats or for irrigation\\nv. provide (a city) with a canal",
+    "definition_zh": "n. 运河, 水道, 管, 沟渠\\nvt. 开运河",
     "examples": [
-      "A serving of cappuccino is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled canal was served to refresh the guests.",
+        "zh": "在相关语境中，'canal'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "cellar_noun",
-    "word": "cellar",
+    "id": "canteen_noun",
+    "word": "canteen",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'selә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cellar-us.mp3",
-    "definition_en": "n. storage space where wines are stored",
-    "definition_zh": "n. 地窖, 地下室, 藏酒",
+    "category": "food_beverages",
+    "phonetic": "/kæn'ti:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/canteen-us.mp3",
+    "definition_en": "n. a flask for carrying water; used by soldiers or travelers\\nn. sells food and personal items to personnel at an institution or school or camp etc.\\nn. a restaurant outside; often for soldiers or policemen\\nn. a recreation room in an institution",
+    "definition_zh": "n. 水壶, 军中俱乐部, 临时流动餐馆, 小卖部",
     "examples": [
-      "A serving of cellar is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled canteen was served to refresh the guests.",
+        "zh": "在相关语境中，'canteen'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "caves_noun",
+    "word": "caves",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/keivz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caves-us.mp3",
+    "definition_en": "n a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea\\nv hollow out as if making a cave or opening\\nv explore natural caves",
+    "definition_zh": "n. 咖啡馆, 小餐厅( cafe的名词复数 ); 洞穴( cave的名词复数 )",
+    "examples": [
+      {
+        "en": "A glass of chilled caves was served to refresh the guests.",
+        "zh": "在相关语境中，'caves'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -691,82 +527,412 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
     "phonetic": "/ʃæm'pein/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/champagne-us.mp3",
-    "definition_en": "n. a white sparkling wine either produced in Champagne or resembling that produced there n. a region of northeastern France",
-    "definition_zh": "n. 香槟酒, 香槟酒色",
+    "definition_en": "n. a white sparkling wine either produced in Champagne or resembling that produced there\\nn. a region of northeastern France",
+    "definition_zh": "n. 香槟酒, 香槟酒色\\n 香槟酒",
     "examples": [
-      "A serving of champagne is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled champagne was served to refresh the guests.",
+        "zh": "在相关语境中，'champagne'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "cheers_noun",
-    "word": "cheers",
+    "id": "channels_noun",
+    "word": "channels",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/channels-us.mp3",
+    "definition_en": "n. official routes of communication",
+    "definition_zh": "n. 通道；水槽；隧道；频道；录音声道（channel的复数形式）",
+    "examples": [
+      {
+        "en": "A glass of chilled channels was served to refresh the guests.",
+        "zh": "在相关语境中，'channels'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cocktail_noun",
+    "word": "cocktail",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'kɒkteil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cocktail-us.mp3",
+    "definition_en": "n. a short mixed drink\\nn. an appetizer served as a first course at a meal",
+    "definition_zh": "n. 鸡尾酒, 开味品\\na. 鸡尾酒会的",
+    "examples": [
+      {
+        "en": "The mixologist crafted a refreshing cocktail garnished with fresh mint.",
+        "zh": "在相关语境中，'cocktail'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cocoa_noun",
+    "word": "cocoa",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/tʃiәz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cheers-us.mp3",
-    "definition_en": "n a cry or shout of approval n the quality of being cheerful and dispelling gloom v give encouragement to v show approval or good wishes by shouting v cause (somebody) to feel happier or more cheerful v become cheerful v spur on or encourage especially by cheers and shouts",
-    "definition_zh": "interj. 干杯, 再见",
+    "category": "food_beverages",
+    "phonetic": "/'kәukәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cocoa-us.mp3",
+    "definition_en": "n. a beverage made from cocoa powder and milk and sugar; usually drunk hot\\nn. powder of ground roasted cacao beans with most of the fat removed",
+    "definition_zh": "n. 可可粉, 可可茶, 可可色\\n 可可, 可可豆",
     "examples": [
-      "A serving of cheers is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled cocoa was served to refresh the guests.",
+        "zh": "在相关语境中，'cocoa'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "corkscrew_noun",
-    "word": "corkscrew",
+    "id": "coffee_noun",
+    "word": "coffee",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'kɒfi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coffee-us.mp3",
+    "definition_en": "n. a beverage consisting of an infusion of ground coffee beans\\nn. any of several small trees and shrubs native to the tropical Old World yielding coffee beans",
+    "definition_zh": "n. 咖啡, 咖啡色\\n 咖啡, 咖啡豆",
+    "examples": [
+      {
+        "en": "Freshly ground coffee filled the entire lounge with an inviting fragrance.",
+        "zh": "在相关语境中，'coffee'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "collins_noun",
+    "word": "collins",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'kɒlinz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/collins-us.mp3",
+    "definition_en": "n. English writer noted for early detective novels (1824-1889)\\nn. tall iced drink of liquor (usually gin) with fruit juice",
+    "definition_zh": "n. 柯林斯酒",
+    "examples": [
+      {
+        "en": "A glass of chilled collins was served to refresh the guests.",
+        "zh": "在相关语境中，'collins'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "conduit_noun",
+    "word": "conduit",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'kɒndit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conduit-us.mp3",
+    "definition_en": "n. a passage (a pipe or tunnel) through which water or electric wires can pass",
+    "definition_zh": "n. 导管, 水管, 沟渠\\n 导管",
+    "examples": [
+      {
+        "en": "A glass of chilled conduit was served to refresh the guests.",
+        "zh": "在相关语境中，'conduit'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cozy_adjective",
+    "word": "cozy",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'kәuzi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cozy-us.mp3",
+    "definition_en": "s. enjoying or affording comforting warmth and shelter especially in a small space\\ns. having or fostering a warm or friendly and informal atmosphere\\ns. suggesting connivance",
+    "definition_zh": "a. 舒适的, 安逸的, 惬意的\\nn. (茶壶等的)保暖罩, 舒适的座位\\nvt. 以假话使安心",
+    "examples": [
+      {
+        "en": "Guests were invited to cozy leisurely in the garden lounge.",
+        "zh": "在相关语境中，'cozy'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cup_noun",
+    "word": "cup",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/kʌp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cup-us.mp3",
+    "definition_en": "n. a small open container usually used for drinking; usually has a handle\\nn. the quantity a cup will hold\\nn. any cup-shaped concavity\\nn. a United States liquid unit equal to 8 fluid ounces",
+    "definition_zh": "n. 杯子, 茶杯, 优胜杯\\nvt. 使成杯状, 为...拔火罐",
+    "examples": [
+      {
+        "en": "A glass of chilled cup was served to refresh the guests.",
+        "zh": "在相关语境中，'cup'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cups_noun",
+    "word": "cups",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cups-us.mp3",
+    "definition_en": "n a small open container usually used for drinking; usually has a handle\\nn the quantity a cup will hold\\nn any cup-shaped concavity\\nn a United States liquid unit equal to 8 fluid ounces\\nn cup-shaped plant organ\\nn a punch served in a pitcher instead of a punch bowl\\nn the hole (or metal container in the hole) on a golf green\\nn a large metal vessel with two handles that is awarded as a trophy to the winner of a competition\\nv form into the shape of a cup\\nv put into a cup\\nv treat by applying evacuated cups to the patient's skin",
+    "definition_zh": "n. 拨火罐（器具）；杯子（cup的复数形式）",
+    "examples": [
+      {
+        "en": "A glass of chilled cups was served to refresh the guests.",
+        "zh": "在相关语境中，'cups'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "dam_noun",
+    "word": "dam",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/dæm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dam-us.mp3",
+    "definition_en": "n. a barrier constructed to contain the flow of water or to keep out the sea\\nn. female parent of an animal especially domestic livestock\\nv. obstruct with, or as if with, a dam",
+    "definition_zh": "n. 水坝, 障碍\\nv. 控制, 筑坝\\n 直接存取法",
+    "examples": [
+      {
+        "en": "A glass of chilled dam was served to refresh the guests.",
+        "zh": "在相关语境中，'dam'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "dive_noun",
+    "word": "dive",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/daiv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dive-us.mp3",
+    "definition_en": "n. a headlong plunge into water\\nn. a steep nose-down descent by an aircraft\\nv. drop steeply\\nv. plunge into water",
+    "definition_zh": "n. 潜水, 跳水\\nvi. 跳水, 俯冲, 猛冲\\nvt. 把...突然伸入",
+    "examples": [
+      {
+        "en": "A glass of chilled dive was served to refresh the guests.",
+        "zh": "在相关语境中，'dive'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "dive_verb",
+    "word": "dive",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/daiv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dive-us.mp3",
+    "definition_en": "n. a headlong plunge into water\\nn. a steep nose-down descent by an aircraft\\nv. drop steeply\\nv. plunge into water",
+    "definition_zh": "n. 潜水, 跳水\\nvi. 跳水, 俯冲, 猛冲\\nvt. 把...突然伸入",
+    "examples": [
+      {
+        "en": "Guests were invited to dive leisurely in the garden lounge.",
+        "zh": "在相关语境中，'dive'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "diver_noun",
+    "word": "diver",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'daivә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diver-us.mp3",
+    "definition_en": "n. someone who works underwater\\nn. someone who dives (into water)",
+    "definition_zh": "n. 潜水者",
+    "examples": [
+      {
+        "en": "A glass of chilled diver was served to refresh the guests.",
+        "zh": "在相关语境中，'diver'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "divide_noun",
+    "word": "divide",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/di'vaid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divide-us.mp3",
+    "definition_en": "n. a serious disagreement between two groups of people (typically producing tension or hostility)\\nv. separate into parts or portions\\nv. perform a division",
+    "definition_zh": "vi. 分开, 分配, 分裂\\nvt. 分, 分开, 分裂, 除\\nn. 分配, 分水岭\\n 除",
+    "examples": [
+      {
+        "en": "A glass of chilled divide was served to refresh the guests.",
+        "zh": "在相关语境中，'divide'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "divide_verb",
+    "word": "divide",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/di'vaid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divide-us.mp3",
+    "definition_en": "n. a serious disagreement between two groups of people (typically producing tension or hostility)\\nv. separate into parts or portions\\nv. perform a division",
+    "definition_zh": "vi. 分开, 分配, 分裂\\nvt. 分, 分开, 分裂, 除\\nn. 分配, 分水岭\\n 除",
+    "examples": [
+      {
+        "en": "Guests were invited to divide leisurely in the garden lounge.",
+        "zh": "在相关语境中，'divide'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "diving_noun",
+    "word": "diving",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'daiviŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diving-us.mp3",
+    "definition_en": "n. an athletic competition that involves diving into water",
+    "definition_zh": "n. 潜水, 跳水",
+    "examples": [
+      {
+        "en": "A glass of chilled diving was served to refresh the guests.",
+        "zh": "在相关语境中，'diving'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "drain_noun",
+    "word": "drain",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'kɒ:kskru:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corkscrew-us.mp3",
-    "definition_en": "n. a bottle opener that pulls corks v. move in a spiral or zigzag course",
-    "definition_zh": "n. 拔塞钻",
+    "category": "food_beverages",
+    "phonetic": "/drein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drain-us.mp3",
+    "definition_en": "n. emptying something accomplished by allowing liquid to run out of it\\nn. tube inserted into a body cavity (as during surgery) to remove unwanted material\\nn. a pipe through which liquid is carried away\\nn. a gradual depletion of energy or resources",
+    "definition_zh": "n. 排水沟, 消耗, 排水\\nvt. 排出, 喝光, 耗尽\\nvi. 排水, 流干",
     "examples": [
-      "A serving of corkscrew is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled drain was served to refresh the guests.",
+        "zh": "在相关语境中，'drain'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "decaf_noun",
-    "word": "decaf",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'di:kæf/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/decaf-us.mp3",
-    "definition_en": "n coffee with the caffeine removed",
-    "definition_zh": "n. 脱咖啡因咖啡, 无咖啡因咖啡",
-    "examples": [
-      "A serving of decaf is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "decanter_noun",
-    "word": "decanter",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/di'kæntә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/decanter-us.mp3",
-    "definition_en": "n a bottle with a stopper; for serving wine or water",
-    "definition_zh": "n. 液体容器, 倾注器",
-    "examples": [
-      "A serving of decanter is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "distill_verb",
-    "word": "distill",
+    "id": "drain_verb",
+    "word": "drain",
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/dis'til/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distill-us.mp3",
-    "definition_en": "v. undergo the process of distillation v. extract by the process of distillation v. give off (a liquid)",
-    "definition_zh": "vt. 蒸馏",
+    "category": "food_beverages",
+    "phonetic": "/drein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drain-us.mp3",
+    "definition_en": "n. emptying something accomplished by allowing liquid to run out of it\\nn. tube inserted into a body cavity (as during surgery) to remove unwanted material\\nn. a pipe through which liquid is carried away\\nn. a gradual depletion of energy or resources",
+    "definition_zh": "n. 排水沟, 消耗, 排水\\nvt. 排出, 喝光, 耗尽\\nvi. 排水, 流干",
     "examples": [
-      "Guests were invited to distill slowly while listening to the background music."
+      {
+        "en": "Guests were invited to drain leisurely in the garden lounge.",
+        "zh": "在相关语境中，'drain'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "dribble_verb",
+    "word": "dribble",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'dribl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dribble-us.mp3",
+    "definition_en": "n. the propulsion of a ball by repeated taps or kicks\\nv. let or cause to fall in drops\\nv. propel, \"Carry the ball\"",
+    "definition_zh": "vi. 流口水, 滴下\\nvt. 使滴下, 运球\\nn. 点滴, 口水, 少量",
+    "examples": [
+      {
+        "en": "Guests were invited to dribble leisurely in the garden lounge.",
+        "zh": "在相关语境中，'dribble'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "dribble_noun",
+    "word": "dribble",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'dribl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dribble-us.mp3",
+    "definition_en": "n. the propulsion of a ball by repeated taps or kicks\\nv. let or cause to fall in drops\\nv. propel, \"Carry the ball\"",
+    "definition_zh": "vi. 流口水, 滴下\\nvt. 使滴下, 运球\\nn. 点滴, 口水, 少量",
+    "examples": [
+      {
+        "en": "A glass of chilled dribble was served to refresh the guests.",
+        "zh": "在相关语境中，'dribble'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "drink_noun",
+    "word": "drink",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/driŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drink-us.mp3",
+    "definition_en": "n. a single serving of a beverage\\nn. the act of drinking alcoholic beverages to excess\\nn. any large deep body of water\\nv. take in liquids",
+    "definition_zh": "n. 饮料, 酒\\nv. 喝, 喝酒",
+    "examples": [
+      {
+        "en": "Remember to drink plenty of water throughout strenuous physical activities.",
+        "zh": "在相关语境中，'drink'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "drink_verb",
+    "word": "drink",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/driŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drink-us.mp3",
+    "definition_en": "n. a single serving of a beverage\\nn. the act of drinking alcoholic beverages to excess\\nn. any large deep body of water\\nv. take in liquids",
+    "definition_zh": "n. 饮料, 酒\\nv. 喝, 喝酒",
+    "examples": [
+      {
+        "en": "Remember to drink plenty of water throughout strenuous physical activities.",
+        "zh": "在相关语境中，'drink'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -775,166 +941,934 @@
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
     "phonetic": "/'driŋkәbl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinkable-us.mp3",
     "definition_en": "a. suitable for drinking",
-    "definition_zh": "a. 可以喝的, 饮用的",
+    "definition_zh": "a. 可以喝的, 饮用的\\nn. 饮料",
     "examples": [
-      "The lounge offered a selection of drinkable beverages from renowned regions."
+      {
+        "en": "Guests were invited to drinkable leisurely in the garden lounge.",
+        "zh": "在相关语境中，'drinkable'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "espresso_noun",
-    "word": "espresso",
+    "id": "drinking_noun",
+    "word": "drinking",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'driŋkiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinking-us.mp3",
+    "definition_en": "n. the act of consuming liquids",
+    "definition_zh": "n. 喝, 喝酒",
+    "examples": [
+      {
+        "en": "Remember to drink plenty of water throughout strenuous physical activities.",
+        "zh": "在相关语境中，'drinking'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "drinking_verb",
+    "word": "drinking",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'driŋkiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinking-us.mp3",
+    "definition_en": "n. the act of consuming liquids",
+    "definition_zh": "n. 喝, 喝酒",
+    "examples": [
+      {
+        "en": "Remember to drink plenty of water throughout strenuous physical activities.",
+        "zh": "在相关语境中，'drinking'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "drinks_noun",
+    "word": "drinks",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinks-us.mp3",
+    "definition_en": "n a single serving of a beverage\\nn the act of drinking alcoholic beverages to excess\\nn any liquid suitable for drinking\\nn any large deep body of water\\nn the act of swallowing\\nv take in liquids\\nv consume alcohol\\nv propose a toast to\\nv be fascinated or spell-bound by; pay close attention to\\nv drink excessive amounts of alcohol; be an alcoholic",
+    "definition_zh": "n. 饮料, 饮品；喝酒（drink复数）",
+    "examples": [
+      {
+        "en": "Remember to drink plenty of water throughout strenuous physical activities.",
+        "zh": "在相关语境中，'drinks'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "dry_adjective",
+    "word": "dry",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/drai/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dry-us.mp3",
+    "definition_en": "n. a reformer who opposes the use of intoxicating beverages\\nv. remove the moisture from and make dry\\nv. become dry or drier\\na. free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet",
+    "definition_zh": "a. 干的, 无酒的, 枯燥无味的, 干燥的\\nvt. 把...弄干\\nvi. 变干\\nn. 干, 干涸",
+    "examples": [
+      {
+        "en": "Guests were invited to dry leisurely in the garden lounge.",
+        "zh": "在相关语境中，'dry'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "dry_verb",
+    "word": "dry",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/drai/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dry-us.mp3",
+    "definition_en": "n. a reformer who opposes the use of intoxicating beverages\\nv. remove the moisture from and make dry\\nv. become dry or drier\\na. free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet",
+    "definition_zh": "a. 干的, 无酒的, 枯燥无味的, 干燥的\\nvt. 把...弄干\\nvi. 变干\\nn. 干, 干涸",
+    "examples": [
+      {
+        "en": "Guests were invited to dry leisurely in the garden lounge.",
+        "zh": "在相关语境中，'dry'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "duck_noun",
+    "word": "duck",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/dʌk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/duck-us.mp3",
+    "definition_en": "n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs\\nn. (cricket) a score of nothing by a batsman\\nn. flesh of a duck (domestic or wild)\\nn. a heavy cotton fabric of plain weave; used for clothing and tents",
+    "definition_zh": "n. 鸭子\\nvi. 没入水中, 闪避\\nvt. 猛按...入水, 躲避",
+    "examples": [
+      {
+        "en": "A glass of chilled duck was served to refresh the guests.",
+        "zh": "在相关语境中，'duck'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "feeder_noun",
+    "word": "feeder",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'fi:dә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feeder-us.mp3",
+    "definition_en": "n. an animal being fattened or suitable for fattening\\nn. a branch that flows into the main stream\\nn. an animal that feeds on a particular source of food",
+    "definition_zh": "n. 饲养者, 供给者, 奶瓶\\n 给料器",
+    "examples": [
+      {
+        "en": "A glass of chilled feeder was served to refresh the guests.",
+        "zh": "在相关语境中，'feeder'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "flask_noun",
+    "word": "flask",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/flæsk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flask-us.mp3",
+    "definition_en": "n. bottle that has a narrow neck\\nn. the quantity a flask will hold",
+    "definition_zh": "n. 细颈瓶, 烧瓶, 小水瓶\\n 瓶; 烧瓶",
+    "examples": [
+      {
+        "en": "A glass of chilled flask was served to refresh the guests.",
+        "zh": "在相关语境中，'flask'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "fluid_adjective",
+    "word": "fluid",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'flu:id/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fluid-us.mp3",
+    "definition_en": "n. a substance that is fluid at room temperature and pressure\\nn. continuous amorphous matter that tends to flow and to conform to the outline of its container: a liquid or a gas\\ns. subject to change; variable\\ns. characteristic of a fluid; capable of flowing and easily changing shape",
+    "definition_zh": "n. 液体, 分泌液, 流体\\na. 流动的, 可改变的",
+    "examples": [
+      {
+        "en": "Guests were invited to fluid leisurely in the garden lounge.",
+        "zh": "在相关语境中，'fluid'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "fluid_noun",
+    "word": "fluid",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/e'spresәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/espresso-us.mp3",
-    "definition_en": "n. strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans",
-    "definition_zh": "n. （用汽加压煮出的）浓咖啡",
+    "category": "food_beverages",
+    "phonetic": "/'flu:id/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fluid-us.mp3",
+    "definition_en": "n. a substance that is fluid at room temperature and pressure\\nn. continuous amorphous matter that tends to flow and to conform to the outline of its container: a liquid or a gas\\ns. subject to change; variable\\ns. characteristic of a fluid; capable of flowing and easily changing shape",
+    "definition_zh": "n. 液体, 分泌液, 流体\\na. 流动的, 可改变的",
     "examples": [
-      "A serving of espresso is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled fluid was served to refresh the guests.",
+        "zh": "在相关语境中，'fluid'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "ferment_verb",
-    "word": "ferment",
+    "id": "fluids_noun",
+    "word": "fluids",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fluids-us.mp3",
+    "definition_en": "n a substance that is fluid at room temperature and pressure\\nn continuous amorphous matter that tends to flow and to conform to the outline of its container: a liquid or a gas",
+    "definition_zh": "n. 液体；流体（fluid的复数形式）",
+    "examples": [
+      {
+        "en": "A glass of chilled fluids was served to refresh the guests.",
+        "zh": "在相关语境中，'fluids'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "founder_noun",
+    "word": "founder",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'faundә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/founder-us.mp3",
+    "definition_en": "n. a person who founds or establishes some institution\\nn. a worker who makes metal castings\\nv. sink below the surface\\nv. stumble and nearly fall",
+    "definition_zh": "n. 创立者, 建立者\\nvt. 使沉没, 使摔倒, 弄跛, 浸水, 破坏\\nvi. 沉没, 摔到, 变跛, 倒塌, 失败",
+    "examples": [
+      {
+        "en": "A glass of chilled founder was served to refresh the guests.",
+        "zh": "在相关语境中，'founder'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "fountain_noun",
+    "word": "fountain",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'fauntin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fountain-us.mp3",
+    "definition_en": "n. a structure from which an artificially produced jet of water arises\\nn. an artificially produced flow of water\\nn. a plumbing fixture that provides a flow of water",
+    "definition_zh": "n. 水源, 源, 喷泉, 泉水, 本源\\n 泉",
+    "examples": [
+      {
+        "en": "A glass of chilled fountain was served to refresh the guests.",
+        "zh": "在相关语境中，'fountain'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "fur_noun",
+    "word": "fur",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/fә:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fur-us.mp3",
+    "definition_en": "n. the dressed hairy coat of a mammal\\nn. dense coat of fine silky hairs on mammals (e.g., cat or seal or weasel)\\nn. a garment made of the dressed hairy coat of a mammal",
+    "definition_zh": "n. 毛皮\\nvt. 以毛皮制作, 使生苔, 使生水垢\\nvi. 生苔, 积水垢",
+    "examples": [
+      {
+        "en": "A glass of chilled fur was served to refresh the guests.",
+        "zh": "在相关语境中，'fur'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "glide_noun",
+    "word": "glide",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/glaid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/glide-us.mp3",
+    "definition_en": "n. the activity of flying a glider\\nv. move smoothly and effortlessly\\nv. fly in or as if in a glider plane\\nv. cause to move or pass silently, smoothly, or imperceptibly",
+    "definition_zh": "n. 滑动, 滑过, 流水\\nvi. 滑动, 滑翔, 溜走, 流逝\\nvt. 使滑动",
+    "examples": [
+      {
+        "en": "A glass of chilled glide was served to refresh the guests.",
+        "zh": "在相关语境中，'glide'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "grains_noun",
+    "word": "grains",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/^reinz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grains-us.mp3",
+    "definition_en": "n a relatively small granular particle of a substance\\nn foodstuff prepared from the starchy grains of cereal grasses\\nn the side of leather from which the hair has been removed\\nn a weight unit used for pearls or diamonds: 50 mg or 1/4 carat\\nn 1/60 dram; equals an avoirdupois grain or 64.799 milligrams\\nn 1/7000 pound; equals a troy grain or 64.799 milligrams\\nn dry seed-like fruit produced by the cereal grasses: e.g. wheat, barley, Indian corn\\nn a cereal grass\\nn the smallest possible unit of anything\\nn the direction, texture, or pattern of fibers found in wood or leather or stone or in a woven fabric\\nn the physical composition of something (especially with respect to the size and shape of the small constituents of a substance)\\nv thoroughly work in\\nv paint (a surface) to make it look like stone or wood\\nv form into grains\\nv become granular",
+    "definition_zh": "n. 双齿/多齿鱼叉\\n 糟; 酒糟",
+    "examples": [
+      {
+        "en": "A glass of chilled grains was served to refresh the guests.",
+        "zh": "在相关语境中，'grains'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "injected_verb",
+    "word": "injected",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/inˈdʒektid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/injected-us.mp3",
+    "definition_en": "v give an injection to\\nv to introduce (a new aspect or element)\\nv force or drive (a fluid or gas) into by piercing\\nv take by injection\\nv feed intravenously\\nv to insert between other elements",
+    "definition_zh": "a. 注入的, 充血的\\nv. （给…）注射（药物等）（ inject的过去式和过去分词 ）; （给…）注射（液体）; （给…）添加; （给…）投入（资金）",
+    "examples": [
+      {
+        "en": "Guests were invited to injected leisurely in the garden lounge.",
+        "zh": "在相关语境中，'injected'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "injections_noun",
+    "word": "injections",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/inˈdʒekʃənz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/injections-us.mp3",
+    "definition_en": "n. the forceful insertion of a substance under pressure\\nn. any solution that is injected (as into the skin)\\nn. the act of putting a liquid into the body by means of a syringe",
+    "definition_zh": "n. 注射( injection的复数形式 ); （液体）注入; 喷入; 大量资金的投入",
+    "examples": [
+      {
+        "en": "A glass of chilled injections was served to refresh the guests.",
+        "zh": "在相关语境中，'injections'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "ink_noun",
+    "word": "ink",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/iŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ink-us.mp3",
+    "definition_en": "n. a liquid used for printing or writing or drawing\\nn. dark protective fluid ejected into the water by cuttlefish and other cephalopods\\nv. append one's signature to\\nv. mark, coat, cover, or stain with ink",
+    "definition_zh": "n. 墨水, 墨汁\\nvt. 涂墨水于, 签署, 加墨水",
+    "examples": [
+      {
+        "en": "A glass of chilled ink was served to refresh the guests.",
+        "zh": "在相关语境中，'ink'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "jug_noun",
+    "word": "jug",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/dʒʌg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jug-us.mp3",
+    "definition_en": "n. a large bottle with a narrow mouth\\nn. the quantity contained in a jug\\nv. stew in an earthenware jug",
+    "definition_zh": "n. 水壶, 监牢, 模仿夜莺的叫声\\nvt. 放入壶中, 炖, 关押\\nvi. 模仿夜莺叫",
+    "examples": [
+      {
+        "en": "A glass of chilled jug was served to refresh the guests.",
+        "zh": "在相关语境中，'jug'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "juicy_adjective",
+    "word": "juicy",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'dʒusi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/juicy-us.mp3",
+    "definition_en": "a. full of juice\\ns. having strong sexual appeal",
+    "definition_zh": "a. 多汁液的, 生动的, 多水分的",
+    "examples": [
+      {
+        "en": "Guests were invited to juicy leisurely in the garden lounge.",
+        "zh": "在相关语境中，'juicy'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "kettle_noun",
+    "word": "kettle",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ketl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kettle-us.mp3",
+    "definition_en": "n. a metal pot for stewing or boiling; usually has a lid\\nn. the quantity a kettle will hold\\nn. a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it",
+    "definition_zh": "n. 茶壶, 罐\\n 釜体釜; 锅",
+    "examples": [
+      {
+        "en": "A glass of chilled kettle was served to refresh the guests.",
+        "zh": "在相关语境中，'kettle'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "launch_verb",
+    "word": "launch",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/lɒ:ntʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/launch-us.mp3",
+    "definition_en": "n. a motorboat with an open deck or a half deck\\nv. propel with force\\nv. launch for the first time; launch on a maiden voyage\\nv. get going; give impetus to",
+    "definition_zh": "n. 下水, 汽艇, 发射\\nvt. 使下水, 发射, 发动\\nvi. 起飞, 下水, 投入, 开始",
+    "examples": [
+      {
+        "en": "Guests were invited to launch leisurely in the garden lounge.",
+        "zh": "在相关语境中，'launch'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "launch_noun",
+    "word": "launch",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/lɒ:ntʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/launch-us.mp3",
+    "definition_en": "n. a motorboat with an open deck or a half deck\\nv. propel with force\\nv. launch for the first time; launch on a maiden voyage\\nv. get going; give impetus to",
+    "definition_zh": "n. 下水, 汽艇, 发射\\nvt. 使下水, 发射, 发动\\nvi. 起飞, 下水, 投入, 开始",
+    "examples": [
+      {
+        "en": "A glass of chilled launch was served to refresh the guests.",
+        "zh": "在相关语境中，'launch'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "level_adjective",
+    "word": "level",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'levl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/level-us.mp3",
+    "definition_en": "n. height above ground\\nn. indicator that establishes the horizontal when a bubble is centered in a tube of liquid\\nn. an abstract place usually conceived as having depth\\nv. aim at",
+    "definition_zh": "n. 水平, 水准, 平地\\na. 同高的, 平坦的, 齐平的, 水平的\\nvt. 弄平, 夷平, 使同等, 瞄准, 对准\\nvi. 变平, 拉平\\n 级别",
+    "examples": [
+      {
+        "en": "Guests were invited to level leisurely in the garden lounge.",
+        "zh": "在相关语境中，'level'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "level_noun",
+    "word": "level",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'levl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/level-us.mp3",
+    "definition_en": "n. height above ground\\nn. indicator that establishes the horizontal when a bubble is centered in a tube of liquid\\nn. an abstract place usually conceived as having depth\\nv. aim at",
+    "definition_zh": "n. 水平, 水准, 平地\\na. 同高的, 平坦的, 齐平的, 水平的\\nvt. 弄平, 夷平, 使同等, 瞄准, 对准\\nvi. 变平, 拉平\\n 级别",
+    "examples": [
+      {
+        "en": "A glass of chilled level was served to refresh the guests.",
+        "zh": "在相关语境中，'level'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "level_verb",
+    "word": "level",
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'fә:ment/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ferment-us.mp3",
-    "definition_en": "n. a substance capable of bringing about fermentation v. be in an agitated or excited state v. work up into agitation or excitement v. cause to undergo fermentation",
-    "definition_zh": "v. (使)发酵, (使)动乱",
+    "category": "food_beverages",
+    "phonetic": "/'levl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/level-us.mp3",
+    "definition_en": "n. height above ground\\nn. indicator that establishes the horizontal when a bubble is centered in a tube of liquid\\nn. an abstract place usually conceived as having depth\\nv. aim at",
+    "definition_zh": "n. 水平, 水准, 平地\\na. 同高的, 平坦的, 齐平的, 水平的\\nvt. 弄平, 夷平, 使同等, 瞄准, 对准\\nvi. 变平, 拉平\\n 级别",
     "examples": [
-      "Guests were invited to ferment slowly while listening to the background music."
+      {
+        "en": "Guests were invited to level leisurely in the garden lounge.",
+        "zh": "在相关语境中，'level'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "gin_noun",
-    "word": "gin",
+    "id": "levels_noun",
+    "word": "levels",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/dʒin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gin-us.mp3",
-    "definition_en": "n. strong liquor flavored with juniper berries n. a form of rummy in which a player can go out if the cards remaining in their hand total less than 10 points v. separate the seeds from (cotton) with a cotton gin v. trap with a snare",
-    "definition_zh": "n. 杜松子酒, 轧棉机, 陷阱",
+    "category": "food_beverages",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/levels-us.mp3",
+    "definition_en": "n a position on a scale of intensity or amount or quality\\nn a relative position or degree of value in a graded group\\nn a specific identifiable position in a continuum or series or especially in a process\\nn height above ground\\nn indicator that establishes the horizontal when a bubble is centered in a tube of liquid\\nn a flat surface at right angles to a plumb line\\nn an abstract place usually conceived as having depth\\nn a structure consisting of a room or set of rooms at a single position along a vertical scale\\nv aim at\\nv tear down so as to make flat with the ground\\nv make level or straight\\nv direct into a position for use\\nv talk frankly with; lay it on the line\\nv become level or even",
+    "definition_zh": "n. 色阶调整；控制色阶；水平, 标准（level复数形式）",
     "examples": [
-      "A serving of gin is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled levels was served to refresh the guests.",
+        "zh": "在相关语境中，'levels'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "gulp_verb",
-    "word": "gulp",
+    "id": "liquid_adjective",
+    "word": "liquid",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'likwid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liquid-us.mp3",
+    "definition_en": "n. a substance that is liquid at room temperature and pressure\\nn. the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility\\nn. fluid matter having no fixed shape but a fixed volume\\nn. a frictionless continuant that is not a nasal consonant (especially `l' and `r')",
+    "definition_zh": "n. 液体, 流体, 流音\\na. 液体的, 透明的, 明亮的, 流动的, 易变的",
+    "examples": [
+      {
+        "en": "Guests were invited to liquid leisurely in the garden lounge.",
+        "zh": "在相关语境中，'liquid'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "liquid_noun",
+    "word": "liquid",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'likwid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liquid-us.mp3",
+    "definition_en": "n. a substance that is liquid at room temperature and pressure\\nn. the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility\\nn. fluid matter having no fixed shape but a fixed volume\\nn. a frictionless continuant that is not a nasal consonant (especially `l' and `r')",
+    "definition_zh": "n. 液体, 流体, 流音\\na. 液体的, 透明的, 明亮的, 流动的, 易变的",
+    "examples": [
+      {
+        "en": "A glass of chilled liquid was served to refresh the guests.",
+        "zh": "在相关语境中，'liquid'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "liquids_noun",
+    "word": "liquids",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'lɪkwɪdz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liquids-us.mp3",
+    "definition_en": "n. a substance that is liquid at room temperature and pressure\\nn. the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility\\nn. fluid matter having no fixed shape but a fixed volume",
+    "definition_zh": "n. 液体( liquid的复数形式 )",
+    "examples": [
+      {
+        "en": "A glass of chilled liquids was served to refresh the guests.",
+        "zh": "在相关语境中，'liquids'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "lock_noun",
+    "word": "lock",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/lɒk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lock-us.mp3",
+    "definition_en": "n. a fastener fitted to a door or drawer to keep it firmly closed\\nn. a strand or cluster of hair\\nn. a mechanism that detonates the charge of a gun\\nn. enclosure consisting of a section of canal that can be closed to control the water level; used to raise or lower vessels that pass through it",
+    "definition_zh": "n. 锁, 刹车, 水闸, 一缕头发\\nvt. 锁, 锁上, 拘禁, 隐藏, (用锁等)拴住, 刹住\\nvi. 锁住, (齿轮等)啮合, (船)过闸",
+    "examples": [
+      {
+        "en": "A glass of chilled lock was served to refresh the guests.",
+        "zh": "在相关语境中，'lock'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "lock_verb",
+    "word": "lock",
     "part_of_speech": "verb",
-    "level": "B2",
+    "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/gʌlp/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gulp-us.mp3",
-    "definition_en": "n. a large and hurried swallow n. a spasmodic reflex of the throat made as if in swallowing v. to swallow hurriedly or greedily or in one draught v. utter or make a noise, as when swallowing too quickly",
-    "definition_zh": "vt. 吞, 大口大口地吸气, 吸收, 抑制",
+    "category": "food_beverages",
+    "phonetic": "/lɒk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lock-us.mp3",
+    "definition_en": "n. a fastener fitted to a door or drawer to keep it firmly closed\\nn. a strand or cluster of hair\\nn. a mechanism that detonates the charge of a gun\\nn. enclosure consisting of a section of canal that can be closed to control the water level; used to raise or lower vessels that pass through it",
+    "definition_zh": "n. 锁, 刹车, 水闸, 一缕头发\\nvt. 锁, 锁上, 拘禁, 隐藏, (用锁等)拴住, 刹住\\nvi. 锁住, (齿轮等)啮合, (船)过闸",
     "examples": [
-      "Guests were invited to gulp slowly while listening to the background music."
+      {
+        "en": "Guests were invited to lock leisurely in the garden lounge.",
+        "zh": "在相关语境中，'lock'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "hangover_noun",
-    "word": "hangover",
+    "id": "lush_adjective",
+    "word": "lush",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/lʌʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lush-us.mp3",
+    "definition_en": "s. full of juice",
+    "definition_zh": "a. 苍翠繁茂的, 多青草的, 丰富的\\nn. 酒, 酒鬼\\nv. 饮",
+    "examples": [
+      {
+        "en": "Guests were invited to lush leisurely in the garden lounge.",
+        "zh": "在相关语境中，'lush'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "marine_adjective",
+    "word": "marine",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/mә'ri:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marine-us.mp3",
+    "definition_en": "n. a member of the United States Marine Corps\\nn. a soldier who serves both on shipboard and on land\\na. of or relating to the sea\\na. of or relating to military personnel who serve both on land and at sea (specifically the U.S. Marine Corps)",
+    "definition_zh": "n. 舰队, 水兵, 海景画\\na. 海的, 海产的, 海底的, 船舶的, 海运的",
+    "examples": [
+      {
+        "en": "Guests were invited to marine leisurely in the garden lounge.",
+        "zh": "在相关语境中，'marine'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "marine_noun",
+    "word": "marine",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/mә'ri:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marine-us.mp3",
+    "definition_en": "n. a member of the United States Marine Corps\\nn. a soldier who serves both on shipboard and on land\\na. of or relating to the sea\\na. of or relating to military personnel who serve both on land and at sea (specifically the U.S. Marine Corps)",
+    "definition_zh": "n. 舰队, 水兵, 海景画\\na. 海的, 海产的, 海底的, 船舶的, 海运的",
+    "examples": [
+      {
+        "en": "A glass of chilled marine was served to refresh the guests.",
+        "zh": "在相关语境中，'marine'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "mariner_noun",
+    "word": "mariner",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'mærinә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mariner-us.mp3",
+    "definition_en": "n. a man who serves as a sailor",
+    "definition_zh": "n. 水手",
+    "examples": [
+      {
+        "en": "A glass of chilled mariner was served to refresh the guests.",
+        "zh": "在相关语境中，'mariner'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "minefield_noun",
+    "word": "minefield",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/minefield-us.mp3",
+    "definition_en": "n. a region in which explosives mines have been placed",
+    "definition_zh": "n. 布雷区, 布雷水域, 布雷场",
+    "examples": [
+      {
+        "en": "A glass of chilled minefield was served to refresh the guests.",
+        "zh": "在相关语境中，'minefield'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "mineral_noun",
+    "word": "mineral",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'minәrәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mineral-us.mp3",
+    "definition_en": "n. solid homogeneous inorganic substances occurring in nature having a definite chemical composition\\na. relating to minerals\\ns. composed of matter other than plant or animal",
+    "definition_zh": "n. 矿物, 无机物, 苏打水\\na. 矿物的, 似矿物的",
+    "examples": [
+      {
+        "en": "A glass of chilled mineral was served to refresh the guests.",
+        "zh": "在相关语境中，'mineral'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "nectar_noun",
+    "word": "nectar",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'nektә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nectar-us.mp3",
+    "definition_en": "n. a sweet liquid secretion that is attractive to pollinators\\nn. fruit juice especially when undiluted",
+    "definition_zh": "n. 神酒, 甜美饮料, 甘露",
+    "examples": [
+      {
+        "en": "A glass of chilled nectar was served to refresh the guests.",
+        "zh": "在相关语境中，'nectar'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "otter_noun",
+    "word": "otter",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ɒtә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/otter-us.mp3",
+    "definition_en": "n. the fur of an otter\\nn. freshwater carnivorous mammal having webbed and clawed feet and dark brown fur",
+    "definition_zh": "n. 水獭, 水獭皮",
+    "examples": [
+      {
+        "en": "A glass of chilled otter was served to refresh the guests.",
+        "zh": "在相关语境中，'otter'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "outlets_noun",
+    "word": "outlets",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'hæŋәuvә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hangover-us.mp3",
-    "definition_en": "n. disagreeable aftereffects from the use of drugs (especially alcohol) n. something that has survived from the past",
-    "definition_zh": "n. 宿醉, 残留物, 遗物",
+    "category": "food_beverages",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/outlets-us.mp3",
+    "definition_en": "n a place of business for retailing goods\\nn receptacle providing a place in a wiring system where current can be taken to run electrical devices\\nn an opening that permits escape or release\\nn activity that frees or expresses creative energy or emotion",
+    "definition_zh": "n. 出路；排水口；销售点；批发商点（outlet的复数形式）",
     "examples": [
-      "A serving of hangover is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled outlets was served to refresh the guests.",
+        "zh": "在相关语境中，'outlets'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "latte_noun",
-    "word": "latte",
+    "id": "paddle_noun",
+    "word": "paddle",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ˈlɑ:teɪ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/latte-us.mp3",
-    "definition_en": "n strong espresso coffee with a topping of frothed steamed milk",
-    "definition_zh": "n. 拿铁咖啡; （意大利语）牛奶",
+    "category": "food_beverages",
+    "phonetic": "/'pædl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paddle-us.mp3",
+    "definition_en": "n. small wooden bat with a flat surface; used for hitting balls in various games\\nn. a blade of a paddle wheel or water wheel\\nn. an instrument of punishment consisting of a flat board\\nn. a short light oar used without an oarlock to propel a canoe or small boat",
+    "definition_zh": "n. 桨, 划桨, 明轮翼\\nvi. 划桨, 戏水, 涉水\\nvt. 用桨划, 划船运送, 搅, 拌",
     "examples": [
-      "A serving of latte is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled paddle was served to refresh the guests.",
+        "zh": "在相关语境中，'paddle'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "liquor_noun",
-    "word": "liquor",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'likә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liquor-us.mp3",
-    "definition_en": "n. an alcoholic beverage that is distilled rather than fermented n. a liquid substance that is a solution (or emulsion or suspension) used or obtained in an industrial process n. the liquid in which vegetables or meat have be cooked",
-    "definition_zh": "n. 酒, 液体, 汁, 溶液",
-    "examples": [
-      "A serving of liquor is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "malt_noun",
-    "word": "malt",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/mɒ:lt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/malt-us.mp3",
-    "definition_en": "n. a lager of high alcohol content; by law it is considered too alcoholic to be sold as lager or beer n. a cereal grain (usually barley) that is kiln-dried after having been germinated by soaking in water; used especially in brewing and distilling v. treat with malt or malt extract v. turn into malt, become malt",
-    "definition_zh": "n. 麦芽",
-    "examples": [
-      "A serving of malt is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "mocha_noun",
-    "word": "mocha",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'mәukә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mocha-us.mp3",
-    "definition_en": "n. soft suede glove leather from goatskin n. a flavoring made from coffee mixed with chocolate n. a superior dark coffee made from beans from Arabia",
-    "definition_zh": "n. 穆哈上等咖啡",
-    "examples": [
-      "A serving of mocha is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "pitcher_noun",
-    "word": "pitcher",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'pitʃә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pitcher-us.mp3",
-    "definition_en": "n. (baseball) the person who does the pitching n. an open vessel with a handle and a spout for pouring n. the quantity contained in a pitcher n. (botany) a leaf that that is modified in such a way as to resemble a pitcher or ewer",
-    "definition_zh": "n. 有把的大罐, 瓶状体, 投手, 摊贩",
-    "examples": [
-      "A serving of pitcher is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "pour_verb",
-    "word": "pour",
+    "id": "paddle_verb",
+    "word": "paddle",
     "part_of_speech": "verb",
+    "level": "C1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'pædl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paddle-us.mp3",
+    "definition_en": "n. small wooden bat with a flat surface; used for hitting balls in various games\\nn. a blade of a paddle wheel or water wheel\\nn. an instrument of punishment consisting of a flat board\\nn. a short light oar used without an oarlock to propel a canoe or small boat",
+    "definition_zh": "n. 桨, 划桨, 明轮翼\\nvi. 划桨, 戏水, 涉水\\nvt. 用桨划, 划船运送, 搅, 拌",
+    "examples": [
+      {
+        "en": "Guests were invited to paddle leisurely in the garden lounge.",
+        "zh": "在相关语境中，'paddle'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pebble_noun",
+    "word": "pebble",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/pɒ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pour-us.mp3",
-    "definition_en": "v. cause to run v. move in large numbers v. flow in a spurt v. supply in large amounts or quantities",
-    "definition_zh": "vt. 倒, 灌, 注, 倾泻, 诉说, 倾吐",
+    "category": "food_beverages",
+    "phonetic": "/'pebl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pebble-us.mp3",
+    "definition_en": "n. a small smooth rounded rock",
+    "definition_zh": "n. 小圆石, 小鹅卵石, 水晶透镜, 碎石花纹\\n 小石",
     "examples": [
-      "Guests were invited to pour slowly while listening to the background music."
+      {
+        "en": "A glass of chilled pebble was served to refresh the guests.",
+        "zh": "在相关语境中，'pebble'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "perfume_noun",
+    "word": "perfume",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'pә:fju:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perfume-us.mp3",
+    "definition_en": "n. a toiletry that emits and diffuses a fragrant odor\\nv. fill or impregnate with an odor\\nv. apply perfume to",
+    "definition_zh": "n. 香水, 香气, (悦人的)气氛, 美名\\nvt. 洒香水于, 薰香, 使充满香气",
+    "examples": [
+      {
+        "en": "A glass of chilled perfume was served to refresh the guests.",
+        "zh": "在相关语境中，'perfume'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "plumber_noun",
+    "word": "plumber",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'plʌmә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plumber-us.mp3",
+    "definition_en": "n. a craftsman who installs and repairs pipes and fixtures and appliances",
+    "definition_zh": "n. 水管工人\\n 堵漏防漏人员",
+    "examples": [
+      {
+        "en": "A glass of chilled plumber was served to refresh the guests.",
+        "zh": "在相关语境中，'plumber'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "polo_noun",
+    "word": "polo",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'pәulәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/polo-us.mp3",
+    "definition_en": "n. Venetian traveler who explored Asia in the 13th century and served Kublai Khan (1254-1324)\\nn. a game similar to field hockey but played on horseback using long-handled mallets and a wooden ball",
+    "definition_zh": "n. 马球, 水球",
+    "examples": [
+      {
+        "en": "A glass of chilled polo was served to refresh the guests.",
+        "zh": "在相关语境中，'polo'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pool_noun",
+    "word": "pool",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/pu:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pool-us.mp3",
+    "definition_en": "n. an excavation that is (usually) filled with water\\nn. an organization of people or resources that can be shared\\nn. any communal combination of funds\\nn. a small body of standing water (rainwater) or other liquid",
+    "definition_zh": "n. 池, 水塘, 石油层, 联营\\nvt. 合伙经营, 共享, 采掘, 汇聚成\\nvi. 汇合成塘, 淤积, 联营",
+    "examples": [
+      {
+        "en": "A glass of chilled pool was served to refresh the guests.",
+        "zh": "在相关语境中，'pool'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pub_noun",
+    "word": "pub",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/pʌb/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pub-us.mp3",
+    "definition_en": "n tavern consisting of a building with a bar and public rooms; often provides light meals",
+    "definition_zh": "n. 酒馆, 客栈",
+    "examples": [
+      {
+        "en": "A glass of chilled pub was served to refresh the guests.",
+        "zh": "在相关语境中，'pub'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pumping_verb",
+    "word": "pumping",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'pʌmpiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pumping-us.mp3",
+    "definition_en": "v operate like a pump; move up and down, like a handle or a pedal\\nv deliver forth\\nv draw or pour with a pump\\nv supply in great quantities\\nv flow intermittently\\nv move up and down\\nv raise (gases or fluids) with a pump\\nv question persistently",
+    "definition_zh": "n. 抽水, 泵送\\n 抽运",
+    "examples": [
+      {
+        "en": "Guests were invited to pumping leisurely in the garden lounge.",
+        "zh": "在相关语境中，'pumping'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -943,586 +1877,124 @@
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
     "phonetic": "/pʌntʃ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/punch-us.mp3",
-    "definition_en": "n. (boxing) a blow with the fist n. an iced mixed drink usually containing alcohol and prepared for multiple servings; normally served in a punch bowl n. a tool for making holes or indentations v. deliver a quick blow to",
-    "definition_zh": "n. 打洞器, 钻孔机, 冲压机, 冲床, 潘趣酒",
+    "definition_en": "n. (boxing) a blow with the fist\\nn. an iced mixed drink usually containing alcohol and prepared for multiple servings; normally served in a punch bowl\\nn. a tool for making holes or indentations\\nv. deliver a quick blow to",
+    "definition_zh": "n. 打洞器, 钻孔机, 冲压机, 冲床, 潘趣酒\\nvt. 以拳重击, 开洞, 冲压\\nvi. 用拳猛击",
     "examples": [
-      "A serving of punch is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled punch was served to refresh the guests.",
+        "zh": "在相关语境中，'punch'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "rum_noun",
-    "word": "rum",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/rʌm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rum-us.mp3",
-    "definition_en": "n. liquor distilled from fermented molasses",
-    "definition_zh": "n. 朗姆酒",
-    "examples": [
-      "A serving of rum is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "shaker_noun",
-    "word": "shaker",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ʃeikә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shaker-us.mp3",
-    "definition_en": "n. a person who wields power and influence n. a member of Christian group practicing celibacy and communal living and common possession of property and separation from the world n. a container in which something can be shaken",
-    "definition_zh": "n. 摇动者, 摇动器, 混和器",
-    "examples": [
-      "A serving of shaker is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "sip_verb",
-    "word": "sip",
+    "id": "punch_verb",
+    "word": "punch",
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/sip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sip-us.mp3",
-    "definition_en": "n. a small drink v. drink in sips",
-    "definition_zh": "vi. 啜饮",
+    "category": "food_beverages",
+    "phonetic": "/pʌntʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/punch-us.mp3",
+    "definition_en": "n. (boxing) a blow with the fist\\nn. an iced mixed drink usually containing alcohol and prepared for multiple servings; normally served in a punch bowl\\nn. a tool for making holes or indentations\\nv. deliver a quick blow to",
+    "definition_zh": "n. 打洞器, 钻孔机, 冲压机, 冲床, 潘趣酒\\nvt. 以拳重击, 开洞, 冲压\\nvi. 用拳猛击",
     "examples": [
-      "Guests were invited to sip slowly while listening to the background music."
+      {
+        "en": "Guests were invited to punch leisurely in the garden lounge.",
+        "zh": "在相关语境中，'punch'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "sober_adjective",
-    "word": "sober",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'sәubә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sober-us.mp3",
-    "definition_en": "v. cause to become sober a. not affected by a chemical substance (especially alcohol)",
-    "definition_zh": "a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的",
-    "examples": [
-      "The lounge offered a selection of sober beverages from renowned regions."
-    ]
-  },
-  {
-    "id": "spirits_noun",
-    "word": "spirits",
+    "id": "refresh_noun",
+    "word": "refresh",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spirits-us.mp3",
-    "definition_en": "n an alcoholic beverage that is distilled rather than fermented n the vital principle or animating force within living things n the general atmosphere of a place or situation and the effect that it has on people n a fundamental emotional and activating principle determining one's character n any incorporeal supernatural being that can become visible (or audible) to human beings n the state of a person's emotions (especially with regard to pleasure or dejection) n the intended meaning of a communication n animation and energy in action or expression n an inclination or tendency of a certain kind v infuse with spirit",
-    "definition_zh": "n. 情绪, 兴致, 心情, 烈酒, 酒精",
+    "category": "food_beverages",
+    "phonetic": "/ri'freʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refresh-us.mp3",
+    "definition_en": "v. make (to feel) fresh\\nv. make fresh again",
+    "definition_zh": "vt. 使清新, 使恢复, 使生气蓬勃\\nvi. 提起精神, 恢复精神, 吃点心, 喝饮料\\nvt. 刷新, 重新整理\\nvi. 刷新, 重新整理\\n 刷新, 重新整理",
     "examples": [
-      "A serving of spirits is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled refresh was served to refresh the guests.",
+        "zh": "在相关语境中，'refresh'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "toast_noun",
-    "word": "toast",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/tәust/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toast-us.mp3",
-    "definition_en": "n. slices of bread that have been toasted n. a celebrity who receives much acclaim and attention v. propose a toast to",
-    "definition_zh": "n. 吐司, 烤面包, 干杯",
-    "examples": [
-      "A serving of toast is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "vodka_noun",
-    "word": "vodka",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'vɒdkә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vodka-us.mp3",
-    "definition_en": "n. unaged colorless liquor originating in Russia",
-    "definition_zh": "n. 伏特加酒",
-    "examples": [
-      "A serving of vodka is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "whiskey_noun",
-    "word": "whiskey",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'hwiski/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/whiskey-us.mp3",
-    "definition_en": "n. a liquor made from fermented mash of grain",
-    "definition_zh": "n. 威士忌酒",
-    "examples": [
-      "A serving of whiskey is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "whisky_noun",
-    "word": "whisky",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'hwiski/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/whisky-us.mp3",
-    "definition_en": "n a liquor made from fermented mash of grain",
-    "definition_zh": "n. 威士忌酒, 轻便马车",
-    "examples": [
-      "A serving of whisky is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "absinthe_noun",
-    "word": "absinthe",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'æbsinθ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/absinthe-us.mp3",
-    "definition_en": "n aromatic herb of temperate Eurasia and North Africa having a bitter taste used in making the liqueur absinthe n strong green liqueur flavored with wormwood and anise",
-    "definition_zh": "n. 艾酒",
-    "examples": [
-      "A serving of absinthe is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "americano_noun",
-    "word": "americano",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ɑ:,meri'kɑ:nəu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/americano-us.mp3",
-    "definition_en": "A term denoting americano.",
-    "definition_zh": "n. 美式咖啡；美国佬；阿美利加诺（人名）",
-    "examples": [
-      "A serving of americano is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "barista_noun",
-    "word": "barista",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/bə'rɪstə/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barista-us.mp3",
-    "definition_en": "A term denoting barista.",
-    "definition_zh": "n. 咖啡师；咖啡吧员",
-    "examples": [
-      "A serving of barista is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "bourbon_noun",
-    "word": "bourbon",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'buәbәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bourbon-us.mp3",
-    "definition_en": "n. a reactionary politician in the United States (usually from the South) n. whiskey distilled from a mash of corn and malt and rye and aged in charred oak barrels n. a member of the European royal family that ruled France n. a European royal line that ruled in France (from 1589-1793) and Spain and Naples and Sicily",
-    "definition_zh": "波旁",
-    "examples": [
-      "A serving of bourbon is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "chai_noun",
-    "word": "chai",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/tʃai/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chai-us.mp3",
-    "definition_en": "A term denoting chai.",
-    "definition_zh": "n. 印度奶茶, 印度茶；混合茶",
-    "examples": [
-      "A serving of chai is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "chalice_noun",
-    "word": "chalice",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'tʃælis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chalice-us.mp3",
-    "definition_en": "n. a bowl-shaped drinking vessel; especially the Eucharistic cup",
-    "definition_zh": "n. 酒杯, 圣餐杯",
-    "examples": [
-      "A serving of chalice is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "coaster_noun",
-    "word": "coaster",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'kәustә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coaster-us.mp3",
-    "definition_en": "n. a resident of a coastal area n. someone who coasts n. a covering (plate or mat) that protects the surface of a table (i.e., from the condensation on a cold glass or bottle)",
-    "definition_zh": "n. 沿海航行者/贸易者, 沿海航船, 带轮银盘, 杯托, (酒瓶)垫子",
-    "examples": [
-      "A serving of coaster is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "cognac_noun",
-    "word": "cognac",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'kәunjæk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cognac-us.mp3",
-    "definition_en": "n. high quality grape brandy distilled in the Cognac district of France",
-    "definition_zh": "n. 科捏克上等白兰地",
-    "examples": [
-      "A serving of cognac is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "decant_verb",
-    "word": "decant",
+    "id": "refresh_verb",
+    "word": "refresh",
     "part_of_speech": "verb",
     "level": "C1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/di'kænt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/decant-us.mp3",
-    "definition_en": "v. pour out",
-    "definition_zh": "vt. 轻轻倒出, 移入其他容器",
+    "category": "food_beverages",
+    "phonetic": "/ri'freʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refresh-us.mp3",
+    "definition_en": "v. make (to feel) fresh\\nv. make fresh again",
+    "definition_zh": "vt. 使清新, 使恢复, 使生气蓬勃\\nvi. 提起精神, 恢复精神, 吃点心, 喝饮料\\nvt. 刷新, 重新整理\\nvi. 刷新, 重新整理\\n 刷新, 重新整理",
     "examples": [
-      "Guests were invited to decant slowly while listening to the background music."
+      {
+        "en": "Guests were invited to refresh leisurely in the garden lounge.",
+        "zh": "在相关语境中，'refresh'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "distillation_noun",
-    "word": "distillation",
+    "id": "refreshments_noun",
+    "word": "refreshments",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/.disti'leiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distillation-us.mp3",
-    "definition_en": "n. the process of purifying a liquid by boiling it and condensing its vapors",
-    "definition_zh": "n. 蒸馏",
-    "examples": [
-      "A serving of distillation is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "distillery_noun",
-    "word": "distillery",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/dis'tilәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distillery-us.mp3",
-    "definition_en": "n. a plant and works where alcoholic drinks are made by distillation",
-    "definition_zh": "n. 蒸馏室, 酿酒厂, 酒厂",
-    "examples": [
-      "A serving of distillery is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "draft_noun",
-    "word": "draft",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/dræft. drɑ:ft/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/draft-us.mp3",
-    "definition_en": "n. a document ordering the payment of money; drawn by one person or bank on another n. a current of air (usually coming into a chimney or room or vehicle) n. a preliminary sketch of a design or picture n. a serving of drink (usually alcoholic) drawn from a keg",
-    "definition_zh": "n. 气流, 草稿, 汇票, 草案",
-    "examples": [
-      "A serving of draft is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "fermentation_noun",
-    "word": "fermentation",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/,fә:men'teiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fermentation-us.mp3",
-    "definition_en": "n a state of agitation or turbulent change or development n a process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol",
-    "definition_zh": "n. 发酵",
-    "examples": [
-      "A serving of fermentation is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "frappuccino_noun",
-    "word": "frappuccino",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
     "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/frappuccino-us.mp3",
-    "definition_en": "A term denoting frappuccino.",
-    "definition_zh": "n. 法布奇诺（星冰乐）",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refreshments-us.mp3",
+    "definition_en": "n snacks and drinks served as a light meal\\nn activity that refreshes and recreates; activity that renews your health and spirits by enjoyment and relaxation",
+    "definition_zh": "n. 茶点；点心；小吃",
     "examples": [
-      "A serving of frappuccino is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled refreshments was served to refresh the guests.",
+        "zh": "在相关语境中，'refreshments'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "froth_noun",
-    "word": "froth",
+    "id": "sailor_noun",
+    "word": "sailor",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "A1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/frɒθ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/froth-us.mp3",
-    "definition_en": "v. make froth or foam and become bubbly v. exude or expel foam",
-    "definition_zh": "n. 泡, 泡沫, 琐物",
+    "category": "food_beverages",
+    "phonetic": "/'seilә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sailor-us.mp3",
+    "definition_en": "n. any member of a ship's crew",
+    "definition_zh": "n. 水手, 船员, 海员\\n 水手, 船员, 海员",
     "examples": [
-      "A serving of froth is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled sailor was served to refresh the guests.",
+        "zh": "在相关语境中，'sailor'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "goblet_noun",
-    "word": "goblet",
+    "id": "sailors_noun",
+    "word": "sailors",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "A1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'gɒblit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/goblet-us.mp3",
-    "definition_en": "n. a drinking glass with a base and stem",
-    "definition_zh": "n. 高脚杯, 酒杯",
+    "category": "food_beverages",
+    "phonetic": "/'seɪləz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sailors-us.mp3",
+    "definition_en": "n. any member of a ship's crew\\nn. a serviceman in the navy\\nn. a stiff hat made of straw with a flat crown",
+    "definition_zh": "n. 水手, 海员( sailor的复数形式 ); 驾船人",
     "examples": [
-      "A serving of goblet is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "hops_noun",
-    "word": "hops",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hops-us.mp3",
-    "definition_en": "n twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer n the act of hopping; jumping upward or forward (especially on one foot) n twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer n an informal dance where popular music is played v jump lightly v move quickly from one place to another v travel by means of an aircraft, bus, etc. v traverse as if by a short airplane trip v jump across v make a jump forward or upward",
-    "definition_zh": "忽布, 蛇麻花, 蜱酒花",
-    "examples": [
-      "A serving of hops is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "hydrate_verb",
-    "word": "hydrate",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'haidreit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hydrate-us.mp3",
-    "definition_en": "n. any compound that contains water of crystallization v. supply water or liquid to in order to maintain a healthy balance v. become hydrated and combine with water",
-    "definition_zh": "vt. 使成水化合物",
-    "examples": [
-      "Guests were invited to hydrate slowly while listening to the background music."
-    ]
-  },
-  {
-    "id": "hydration_noun",
-    "word": "hydration",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/hai'dreiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hydration-us.mp3",
-    "definition_en": "n. the process of combining with water; usually reversible",
-    "definition_zh": "n. 水合",
-    "examples": [
-      "A serving of hydration is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "infuse_verb",
-    "word": "infuse",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/in'fju:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infuse-us.mp3",
-    "definition_en": "v. undergo the process of infusion v. introduce into the body through a vein, for therapeutic purposes",
-    "definition_zh": "vt. 注入, 使充满, 泡制, 鼓舞",
-    "examples": [
-      "Guests were invited to infuse slowly while listening to the background music."
-    ]
-  },
-  {
-    "id": "infusion_noun",
-    "word": "infusion",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/in'fju:ʒәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infusion-us.mp3",
-    "definition_en": "n. a solution obtained by steeping or soaking a substance (usually in water) n. the process of extracting certain active properties (as a drug from a plant) by steeping or soaking (usually in water) n. (medicine) the passive introduction of a substance (a fluid or drug or electrolyte) into a vein or between tissues (as by gravitational force) n. the act of infusing or introducing a certain modifying element or quality",
-    "definition_zh": "n. 注入, 泡制, 注入物",
-    "examples": [
-      "A serving of infusion is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "intoxicated_adjective",
-    "word": "intoxicated",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/in'tɔksikeitid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/intoxicated-us.mp3",
-    "definition_en": "a. stupefied or excited by a chemical substance (especially alcohol) s. as if under the influence of alcohol",
-    "definition_zh": "喝醉的,极其兴奋的",
-    "examples": [
-      "The lounge offered a selection of intoxicated beverages from renowned regions."
-    ]
-  },
-  {
-    "id": "keg_noun",
-    "word": "keg",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/keg/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/keg-us.mp3",
-    "definition_en": "n. the quantity contained in a keg n. small cask or barrel",
-    "definition_zh": "n. 小桶",
-    "examples": [
-      "A serving of keg is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "lager_noun",
-    "word": "lager",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'lɑ:gә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lager-us.mp3",
-    "definition_en": "n. a general term for beer made with bottom fermenting yeast (usually by decoction mashing); originally it was brewed in March or April and matured until September",
-    "definition_zh": "n. 贮陈啤酒",
-    "examples": [
-      "A serving of lager is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "liqueur_noun",
-    "word": "liqueur",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/li'kjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liqueur-us.mp3",
-    "definition_en": "n. strong highly flavored sweet liquor usually drunk after a meal",
-    "definition_zh": "n. 利口酒",
-    "examples": [
-      "A serving of liqueur is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "macchiato_noun",
-    "word": "macchiato",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/macchiato-us.mp3",
-    "definition_en": "A term denoting macchiato.",
-    "definition_zh": "n. 黑糖玛奇朵（意大利式浓缩咖啡加少量泡沫牛奶而成的咖啡）",
-    "examples": [
-      "A serving of macchiato is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "margarita_noun",
-    "word": "margarita",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/,mɑ:^ә'ri:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/margarita-us.mp3",
-    "definition_en": "n. a cocktail made of tequila and triple sec with lime and lemon juice",
-    "definition_zh": "n. 玛格丽塔(Margaret的异体)(f.)",
-    "examples": [
-      "A serving of margarita is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "martini_noun",
-    "word": "martini",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/mɑ:'ti:ni/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/martini-us.mp3",
-    "definition_en": "n. a cocktail made of gin (or vodka) with dry vermouth",
-    "definition_zh": "n. 马提尼（一种鸡尾酒, 等于Martini）",
-    "examples": [
-      "A serving of martini is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "matcha_noun",
-    "word": "matcha",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/matcha-us.mp3",
-    "definition_en": "A term denoting matcha.",
-    "definition_zh": "n. 日本抹茶; 抹茶",
-    "examples": [
-      "A serving of matcha is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "moonshine_noun",
-    "word": "moonshine",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'mu:nʃain/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moonshine-us.mp3",
-    "definition_en": "n. whiskey illegally distilled from a corn mash v. distill (alcohol) illegally; produce moonshine",
-    "definition_zh": "n. 月光, 大话, 非法酿制的酒",
-    "examples": [
-      "A serving of moonshine is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "port_noun",
-    "word": "port",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/pɒ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/port-us.mp3",
-    "definition_en": "n. a place (seaport or airport) where people and merchandise can enter or leave a country n. sweet dark-red dessert wine originally from Portugal n. an opening (in a wall or ship or armored vehicle) for firing through v. put or turn on the left side, of a ship",
-    "definition_zh": "n. 港口, 埠, 舱门, 避风港, 左舷, 炮眼, 姿势, 意义",
-    "examples": [
-      "A serving of port is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "sake_noun",
-    "word": "sake",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/seik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sake-us.mp3",
-    "definition_en": "n. a reason for wanting something done n. Japanese alcoholic beverage made from fermented rice; usually served hot n. the purpose of achieving or obtaining",
-    "definition_zh": "n. 目的, 缘故, 理由",
-    "examples": [
-      "A serving of sake is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled sailors was served to refresh the guests.",
+        "zh": "在相关语境中，'sailors'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -1531,418 +2003,844 @@
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
     "phonetic": "/sә'lu:n/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saloon-us.mp3",
-    "definition_en": "n a room or establishment where alcoholic drinks are served over a counter n tavern consisting of a building with a bar and public rooms; often provides light meals n a car that is closed and that has front and rear seats and two or four doors",
+    "definition_en": "n a room or establishment where alcoholic drinks are served over a counter\\nn tavern consisting of a building with a bar and public rooms; often provides light meals\\nn a car that is closed and that has front and rear seats and two or four doors",
     "definition_zh": "n. 大厅, 沙龙, 酒吧, 会客室",
     "examples": [
-      "A serving of saloon is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled saloon was served to refresh the guests.",
+        "zh": "在相关语境中，'saloon'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "sangria_noun",
-    "word": "sangria",
+    "id": "saucer_noun",
+    "word": "saucer",
     "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'sɒ:sә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saucer-us.mp3",
+    "definition_en": "n. a small shallow dish for holding a cup at the table",
+    "definition_zh": "n. 茶碟, 茶托\\n 碟",
+    "examples": [
+      {
+        "en": "A glass of chilled saucer was served to refresh the guests.",
+        "zh": "在相关语境中，'saucer'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "scatter_verb",
+    "word": "scatter",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'skætә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scatter-us.mp3",
+    "definition_en": "n. a haphazard distribution in all directions\\nn. the act of scattering\\nv. distribute loosely\\nv. sow by scattering",
+    "definition_zh": "n. 消散, 分散, 散播, 散射, 散布, 酒馆\\nvi. 散布, 散播, 消散\\nvt. 使消散, 使分散, 撒, 散布, 散播, 散射\\n 散点图",
+    "examples": [
+      {
+        "en": "Guests were invited to scatter leisurely in the garden lounge.",
+        "zh": "在相关语境中，'scatter'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "scent_noun",
+    "word": "scent",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/sent/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scent-us.mp3",
+    "definition_en": "n. an odor left in passing by which a person or animal can be traced\\nv. catch the scent of; get wind of",
+    "definition_zh": "n. 气味, 香味, 香水, 踪迹, 痕迹, 线索, 嗅觉\\nvt. 闻出, 嗅, 发觉, 使充满气味\\nvi. 嗅猎, 发出气味",
+    "examples": [
+      {
+        "en": "A glass of chilled scent was served to refresh the guests.",
+        "zh": "在相关语境中，'scent'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "scuba_noun",
+    "word": "scuba",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'skju:bә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scuba-us.mp3",
+    "definition_en": "n a device (trade name Aqua-Lung) that lets divers breathe under water; scuba is an acronym for self-contained underwater breathing apparatus",
+    "definition_zh": "n. 自携式水中呼吸器",
+    "examples": [
+      {
+        "en": "A glass of chilled scuba was served to refresh the guests.",
+        "zh": "在相关语境中，'scuba'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "seawater_noun",
+    "word": "seawater",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'si:.wɒtә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seawater-us.mp3",
+    "definition_en": "n. water containing salts",
+    "definition_zh": "n. 海水\\n 海水",
+    "examples": [
+      {
+        "en": "A glass of chilled seawater was served to refresh the guests.",
+        "zh": "在相关语境中，'seawater'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "sewers_noun",
+    "word": "sewers",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/s'ju:əz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sewers-us.mp3",
+    "definition_en": "n. a waste pipe that carries away sewage or surface water\\nn. someone who sews\\nn. misfortune resulting in lost effort or money",
+    "definition_zh": "n. 阴沟, 污水管, 下水道( sewer的复数形式 )",
+    "examples": [
+      {
+        "en": "A glass of chilled sewers was served to refresh the guests.",
+        "zh": "在相关语境中，'sewers'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "shallow_adjective",
+    "word": "shallow",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ʃælәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shallow-us.mp3",
+    "definition_en": "v. make shallow\\nv. become shallow\\na. lacking physical depth; having little spatial extension downward or inward from an outer surface or backward or outward from a center\\na. not deep or strong; not affecting one deeply",
+    "definition_zh": "n. 水浅的地方, 浅滩\\na. 浅的, 肤浅的\\nv. (使)变浅",
+    "examples": [
+      {
+        "en": "Guests were invited to shallow leisurely in the garden lounge.",
+        "zh": "在相关语境中，'shallow'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "shallow_noun",
+    "word": "shallow",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ʃælәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shallow-us.mp3",
+    "definition_en": "v. make shallow\\nv. become shallow\\na. lacking physical depth; having little spatial extension downward or inward from an outer surface or backward or outward from a center\\na. not deep or strong; not affecting one deeply",
+    "definition_zh": "n. 水浅的地方, 浅滩\\na. 浅的, 肤浅的\\nv. (使)变浅",
+    "examples": [
+      {
+        "en": "A glass of chilled shallow was served to refresh the guests.",
+        "zh": "在相关语境中，'shallow'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "shed_noun",
+    "word": "shed",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/ʃed/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shed-us.mp3",
+    "definition_en": "n. an outbuilding with a single story; used for shelter or storage\\nv. get rid of\\nv. cast off hair, skin, horn, or feathers",
+    "definition_zh": "n. 车棚, 小屋, 脱落之物, 分水岭\\nvt. 使流出, 放射, 脱落, 散发, 摆脱\\nvi. 流出, 散布, 脱落",
+    "examples": [
+      {
+        "en": "A glass of chilled shed was served to refresh the guests.",
+        "zh": "在相关语境中，'shed'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "shed_verb",
+    "word": "shed",
+    "part_of_speech": "verb",
     "level": "C1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/sæŋ'^ri:ә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sangria-us.mp3",
-    "definition_en": "n sweetened red wine and orange or lemon juice with soda water",
-    "definition_zh": "n. (Sp.) 桑格利亚汽酒",
+    "category": "food_beverages",
+    "phonetic": "/ʃed/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shed-us.mp3",
+    "definition_en": "n. an outbuilding with a single story; used for shelter or storage\\nv. get rid of\\nv. cast off hair, skin, horn, or feathers",
+    "definition_zh": "n. 车棚, 小屋, 脱落之物, 分水岭\\nvt. 使流出, 放射, 脱落, 散发, 摆脱\\nvi. 流出, 散布, 脱落",
     "examples": [
-      "A serving of sangria is often offered to welcome visitors to the lounge."
+      {
+        "en": "Guests were invited to shed leisurely in the garden lounge.",
+        "zh": "在相关语境中，'shed'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "sherry_noun",
-    "word": "sherry",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ʃeri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sherry-us.mp3",
-    "definition_en": "n. dry to sweet amber wine from the Jerez region of southern Spain or similar wines produced elsewhere; usually drunk as an aperitif",
-    "definition_zh": "n. 雪利酒, 葡萄酒",
-    "examples": [
-      "A serving of sherry is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "sommelier_noun",
-    "word": "sommelier",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/.sʌmә'ljei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sommelier-us.mp3",
-    "definition_en": "n. a waiter who manages wine service in a hotel or restaurant",
-    "definition_zh": "n. 斟酒服务员",
-    "examples": [
-      "A serving of sommelier is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "stout_noun",
-    "word": "stout",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/staut/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stout-us.mp3",
-    "definition_en": "n. a strong very dark heavy-bodied ale made from pale malt and roasted unmalted barley and (often) caramel malt with hops n. a garment size for a large or heavy person",
-    "definition_zh": "n. 矮胖子；烈性啤酒",
-    "examples": [
-      "A serving of stout is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "taproom_noun",
-    "word": "taproom",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'tæprum/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taproom-us.mp3",
-    "definition_en": "n a room or establishment where alcoholic drinks are served over a counter",
-    "definition_zh": "n. 酒吧间",
-    "examples": [
-      "A serving of taproom is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "tavern_noun",
-    "word": "tavern",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'tævәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tavern-us.mp3",
-    "definition_en": "n. a building with a bar that is licensed to sell alcoholic drinks",
-    "definition_zh": "n. 酒馆, 客栈",
-    "examples": [
-      "A serving of tavern is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "tequila_noun",
-    "word": "tequila",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/tә'ki:lә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tequila-us.mp3",
-    "definition_en": "n. Mexican liquor made from fermented juices of an agave plant",
-    "definition_zh": "n. 蒸馏酒, 龙舌兰酒",
-    "examples": [
-      "A serving of tequila is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "tisane_noun",
-    "word": "tisane",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ti'zæn=/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tisane-us.mp3",
-    "definition_en": "n. infusion of e.g. dried or fresh flowers or leaves",
-    "definition_zh": "煎药, 汤药 (=ptisan)",
-    "examples": [
-      "A serving of tisane is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "vermouth_noun",
-    "word": "vermouth",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'vә:mәθ, 'vә:mu:θ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vermouth-us.mp3",
-    "definition_en": "n. any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks",
-    "definition_zh": "n. 苦艾酒, 味美思",
-    "examples": [
-      "A serving of vermouth is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "vineyard_noun",
-    "word": "vineyard",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'vinjәd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vineyard-us.mp3",
-    "definition_en": "n. a farm of grapevines where wine grapes are produced",
-    "definition_zh": "n. 葡萄园",
-    "examples": [
-      "A serving of vineyard is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "vintage_noun",
-    "word": "vintage",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'vintidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vintage-us.mp3",
-    "definition_en": "n. a season's yield of wine from a vineyard n. the oldness of wines",
-    "definition_zh": "n. 酒, 葡萄收获(期、量), 酿酒",
-    "examples": [
-      "A serving of vintage is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "winery_noun",
-    "word": "winery",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'wainәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/winery-us.mp3",
-    "definition_en": "n. distillery where wine is made",
-    "definition_zh": "n. 葡萄酒厂",
-    "examples": [
-      "A serving of winery is often offered to welcome visitors to the lounge."
-    ]
-  },
-  {
-    "id": "aperitif_noun",
-    "word": "aperitif",
+    "id": "shoal_noun",
+    "word": "shoal",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ɑ:peri'ti:f/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aperitif-us.mp3",
-    "definition_en": "n. alcoholic beverage taken before a meal as an appetizer",
-    "definition_zh": "n. 开胃酒",
+    "category": "food_beverages",
+    "phonetic": "/ʃәul/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shoal-us.mp3",
+    "definition_en": "n. a sandbank in a stretch of water that is visible at low tide\\nn. a stretch of shallow water",
+    "definition_zh": "n. 浅水, 浅滩, 沙洲, 鱼群, 暗礁, 潜在危险\\na. 浅的\\nvi. 鱼成群而游, 变浅\\nvt. 使变浅",
     "examples": [
-      "A serving of aperitif is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled shoal was served to refresh the guests.",
+        "zh": "在相关语境中，'shoal'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "aquavit_noun",
-    "word": "aquavit",
-    "part_of_speech": "noun",
-    "level": "C2",
+    "id": "slack_verb",
+    "word": "slack",
+    "part_of_speech": "verb",
+    "level": "C1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ækwәvit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aquavit-us.mp3",
-    "definition_en": "n. Scandinavian liquor usually flavored with caraway seeds",
-    "definition_zh": "n. 白兰地, 白兰地烈性酒",
+    "category": "food_beverages",
+    "phonetic": "/slæk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/slack-us.mp3",
+    "definition_en": "n. dust consisting of a mixture of small coal fragments and coal dust and dirt that sifts out when coal is passed over a sieve\\nn. a stretch of water without current or movement\\nn. the quality of being loose (not taut)\\nn. a cord or rope or cable that is hanging loosely",
+    "definition_zh": "n. 松弛, 松懈, 淡季, 闲散, 家常裤\\na. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水的\\nadv. 马虎地, 缓慢地\\nvt. 放松, 使缓慢\\nvi. 松懈, 减弱, 松弛",
     "examples": [
-      "A serving of aquavit is often offered to welcome visitors to the lounge."
+      {
+        "en": "Guests were invited to slack leisurely in the garden lounge.",
+        "zh": "在相关语境中，'slack'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "arabica_noun",
-    "word": "arabica",
+    "id": "slack_noun",
+    "word": "slack",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ә'reibikә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arabica-us.mp3",
-    "definition_en": "A term denoting arabica.",
-    "definition_zh": "咖啡, 咖啡树子",
+    "category": "food_beverages",
+    "phonetic": "/slæk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/slack-us.mp3",
+    "definition_en": "n. dust consisting of a mixture of small coal fragments and coal dust and dirt that sifts out when coal is passed over a sieve\\nn. a stretch of water without current or movement\\nn. the quality of being loose (not taut)\\nn. a cord or rope or cable that is hanging loosely",
+    "definition_zh": "n. 松弛, 松懈, 淡季, 闲散, 家常裤\\na. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水的\\nadv. 马虎地, 缓慢地\\nvt. 放松, 使缓慢\\nvi. 松懈, 减弱, 松弛",
     "examples": [
-      "A serving of arabica is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled slack was served to refresh the guests.",
+        "zh": "在相关语境中，'slack'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "brewmaster_noun",
-    "word": "brewmaster",
+    "id": "slack_adjective",
+    "word": "slack",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/slæk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/slack-us.mp3",
+    "definition_en": "n. dust consisting of a mixture of small coal fragments and coal dust and dirt that sifts out when coal is passed over a sieve\\nn. a stretch of water without current or movement\\nn. the quality of being loose (not taut)\\nn. a cord or rope or cable that is hanging loosely",
+    "definition_zh": "n. 松弛, 松懈, 淡季, 闲散, 家常裤\\na. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水的\\nadv. 马虎地, 缓慢地\\nvt. 放松, 使缓慢\\nvi. 松懈, 减弱, 松弛",
+    "examples": [
+      {
+        "en": "Guests were invited to slack leisurely in the garden lounge.",
+        "zh": "在相关语境中，'slack'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "soda_noun",
+    "word": "soda",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "A2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/bru:'mɑ:stə/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brewmaster-us.mp3",
-    "definition_en": "A term denoting brewmaster.",
-    "definition_zh": "酿酒专家",
+    "category": "food_beverages",
+    "phonetic": "/'sәudә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soda-us.mp3",
+    "definition_en": "n a sodium salt of carbonic acid; used in making soap powders and glass and paper\\nn a sweet drink containing carbonated water and flavoring",
+    "definition_zh": "n. 苏打, 碳酸水\\n 纯碱; 苏打; 碳酸钠",
     "examples": [
-      "A serving of brewmaster is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled soda was served to refresh the guests.",
+        "zh": "在相关语境中，'soda'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "cicerone_noun",
-    "word": "cicerone",
+    "id": "sour_adjective",
+    "word": "sour",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'sauә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sour-us.mp3",
+    "definition_en": "n. a cocktail made of a liquor (especially whiskey or gin) mixed with lemon or lime juice and sugar\\nn. the taste experience when vinegar or lemon juice is taken into the mouth\\nv. go sour or spoil\\nv. make sour or more sour",
+    "definition_zh": "a. 酸的, 酸臭的, 发酵的, 愠怒的, 讨厌的, 拙劣的, 不健全的\\nvi. 变酸, 发酵, 厌烦, 变坏\\nvt. 使变酸, 使失望\\nn. 酸味, 酸饮料",
+    "examples": [
+      {
+        "en": "Guests were invited to sour leisurely in the garden lounge.",
+        "zh": "在相关语境中，'sour'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "source_noun",
+    "word": "source",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "A2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/.tʃitʃә'rәuni/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cicerone-us.mp3",
-    "definition_en": "n. a guide who conducts and informs sightseers",
-    "definition_zh": "n. 导游",
+    "category": "food_beverages",
+    "phonetic": "/sɒ:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/source-us.mp3",
+    "definition_en": "n. a document (or organization) from which information is obtained\\nn. anything that provides inspiration for later work\\nn. a facility where something is available\\nn. (technology) a process by which energy or a substance enters a system",
+    "definition_zh": "n. 来源, 水源, 根源, 原始资料, 源\\n 来源, 源程序",
     "examples": [
-      "A serving of cicerone is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled source was served to refresh the guests.",
+        "zh": "在相关语境中，'source'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "corkage_noun",
-    "word": "corkage",
+    "id": "species_noun",
+    "word": "species",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'kɒ:kidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corkage-us.mp3",
-    "definition_en": "n. a charge added at a restaurant for every bottle of wine served that was not bought on the premises",
-    "definition_zh": "n. 拔瓶塞, 开瓶费",
+    "category": "food_beverages",
+    "phonetic": "/'spi:ʃiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/species-us.mp3",
+    "definition_en": "n. (biology) taxonomic group whose members can interbreed\\nn. a specific kind of something",
+    "definition_zh": "n. 种, 类, 外形\\n 茶剂; 种",
     "examples": [
-      "A serving of corkage is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled species was served to refresh the guests.",
+        "zh": "在相关语境中，'species'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "digestif_noun",
-    "word": "digestif",
+    "id": "splash_noun",
+    "word": "splash",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/di:ʒes'ti:f/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/digestif-us.mp3",
-    "definition_en": "A term denoting digestif.",
-    "definition_zh": "<法>n.(饭前或饭后喝的)助消化饮料, 消化剂",
+    "category": "food_beverages",
+    "phonetic": "/splæʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/splash-us.mp3",
+    "definition_en": "n. the sound like water splashing\\nn. a patch of bright color\\nn. the act of scattering water about haphazardly\\nv. mark or overlay with patches of contrasting color or texture; cause to appear splashed or spattered",
+    "definition_zh": "n. 飞溅, 污点, 一点儿, 溅泼声, 色斑\\nvi. 溅湿, 溅开, 飞溅\\nvt. 溅, 泼, 使溅起水, 洒, 使成斑驳状",
     "examples": [
-      "A serving of digestif is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled splash was served to refresh the guests.",
+        "zh": "在相关语境中，'splash'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "drunkenness_noun",
-    "word": "drunkenness",
+    "id": "splash_verb",
+    "word": "splash",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/splæʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/splash-us.mp3",
+    "definition_en": "n. the sound like water splashing\\nn. a patch of bright color\\nn. the act of scattering water about haphazardly\\nv. mark or overlay with patches of contrasting color or texture; cause to appear splashed or spattered",
+    "definition_zh": "n. 飞溅, 污点, 一点儿, 溅泼声, 色斑\\nvi. 溅湿, 溅开, 飞溅\\nvt. 溅, 泼, 使溅起水, 洒, 使成斑驳状",
+    "examples": [
+      {
+        "en": "Guests were invited to splash leisurely in the garden lounge.",
+        "zh": "在相关语境中，'splash'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "spray_noun",
+    "word": "spray",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drunkenness-us.mp3",
-    "definition_en": "n. a temporary state resulting from excessive consumption of alcohol",
-    "definition_zh": "醉酒, 酒醉",
+    "category": "food_beverages",
+    "phonetic": "/sprei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spray-us.mp3",
+    "definition_en": "n. a pesticide in suspension or solution; intended for spraying\\nn. a quantity of small objects flying through the air\\nn. flower arrangement consisting of a single branch or shoot bearing flowers and foliage\\nn. water in small drops in the atmosphere; blown from waves or thrown up by a waterfall",
+    "definition_zh": "n. 水沫, 浪花, 水花, 喷雾, 喷雾器, 小树枝\\nvt. 喷雾, 扫射, 喷射\\nvi. 喷, 溅开",
     "examples": [
-      "A serving of drunkenness is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled spray was served to refresh the guests.",
+        "zh": "在相关语境中，'spray'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "flagon_noun",
-    "word": "flagon",
+    "id": "spray_verb",
+    "word": "spray",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/sprei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spray-us.mp3",
+    "definition_en": "n. a pesticide in suspension or solution; intended for spraying\\nn. a quantity of small objects flying through the air\\nn. flower arrangement consisting of a single branch or shoot bearing flowers and foliage\\nn. water in small drops in the atmosphere; blown from waves or thrown up by a waterfall",
+    "definition_zh": "n. 水沫, 浪花, 水花, 喷雾, 喷雾器, 小树枝\\nvt. 喷雾, 扫射, 喷射\\nvi. 喷, 溅开",
+    "examples": [
+      {
+        "en": "Guests were invited to spray leisurely in the garden lounge.",
+        "zh": "在相关语境中，'spray'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "stimulant_noun",
+    "word": "stimulant",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'flægәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flagon-us.mp3",
-    "definition_en": "n. a large metal or pottery vessel with a handle and spout; used to hold alcoholic beverages (usually wine)",
-    "definition_zh": "n. 酒壶",
+    "category": "food_beverages",
+    "phonetic": "/'stimjulәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stimulant-us.mp3",
+    "definition_en": "n. a drug that temporarily quickens some vital process\\ns. that stimulates",
+    "definition_zh": "a. 兴奋性的, 激励的, 鼓舞的\\nn. 兴奋剂, 酒精饮料",
     "examples": [
-      "A serving of flagon is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled stimulant was served to refresh the guests.",
+        "zh": "在相关语境中，'stimulant'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "imbibe_verb",
-    "word": "imbibe",
+    "id": "stream_noun",
+    "word": "stream",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/stri:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stream-us.mp3",
+    "definition_en": "n. a natural body of running water flowing on or under the earth\\nn. dominant course (suggestive of running water) of successive events or ideas\\nn. something that resembles a flowing stream in moving continuously\\nv. to extend, wave or float outward, as if in the wind",
+    "definition_zh": "n. 水流, 小河, 流出, 趋势, 人潮\\nvt. 流出, 流动, 展开\\nvi. 流, 涌, 飘扬\\n 流",
+    "examples": [
+      {
+        "en": "A glass of chilled stream was served to refresh the guests.",
+        "zh": "在相关语境中，'stream'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "stream_verb",
+    "word": "stream",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/stri:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stream-us.mp3",
+    "definition_en": "n. a natural body of running water flowing on or under the earth\\nn. dominant course (suggestive of running water) of successive events or ideas\\nn. something that resembles a flowing stream in moving continuously\\nv. to extend, wave or float outward, as if in the wind",
+    "definition_zh": "n. 水流, 小河, 流出, 趋势, 人潮\\nvt. 流出, 流动, 展开\\nvi. 流, 涌, 飘扬\\n 流",
+    "examples": [
+      {
+        "en": "Guests were invited to stream leisurely in the garden lounge.",
+        "zh": "在相关语境中，'stream'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "submarine_noun",
+    "word": "submarine",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'sʌbmәri:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/submarine-us.mp3",
+    "definition_en": "n. a submersible warship usually armed with torpedoes\\nv. move forward or under in a sliding motion\\nv. throw with an underhand motion\\nv. bring down with a blow to the legs",
+    "definition_zh": "n. 潜水艇, 海底生物\\na. 海中的, 生长在海中的\\nvt. 用潜水艇攻击\\nvi. 在下疾行, 在下滑动",
+    "examples": [
+      {
+        "en": "A glass of chilled submarine was served to refresh the guests.",
+        "zh": "在相关语境中，'submarine'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "submarine_adjective",
+    "word": "submarine",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'sʌbmәri:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/submarine-us.mp3",
+    "definition_en": "n. a submersible warship usually armed with torpedoes\\nv. move forward or under in a sliding motion\\nv. throw with an underhand motion\\nv. bring down with a blow to the legs",
+    "definition_zh": "n. 潜水艇, 海底生物\\na. 海中的, 生长在海中的\\nvt. 用潜水艇攻击\\nvi. 在下疾行, 在下滑动",
+    "examples": [
+      {
+        "en": "Guests were invited to submarine leisurely in the garden lounge.",
+        "zh": "在相关语境中，'submarine'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "submerged_verb",
+    "word": "submerged",
     "part_of_speech": "verb",
     "level": "C2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/im'baib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/imbibe-us.mp3",
-    "definition_en": "v. receive into the mind and retain",
-    "definition_zh": "vt. 饮, 吸取, 吸入",
+    "category": "food_beverages",
+    "phonetic": "/sәb'mә:dʒd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/submerged-us.mp3",
+    "definition_en": "s. beneath the surface of the water",
+    "definition_zh": "a. 水下的, 在水中的",
     "examples": [
-      "Guests were invited to imbibe slowly while listening to the background music."
+      {
+        "en": "Guests were invited to submerged leisurely in the garden lounge.",
+        "zh": "在相关语境中，'submerged'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "infuser_noun",
-    "word": "infuser",
+    "id": "suds_noun",
+    "word": "suds",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/in'fju:zә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infuser-us.mp3",
-    "definition_en": "n. One who, or that which, infuses.",
-    "definition_zh": "n. 注入者, 鼓吹者, 浸煮器",
+    "category": "food_beverages",
+    "phonetic": "/sʌdz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/suds-us.mp3",
+    "definition_en": "n. a dysphemism for beer (especially for lager that effervesces)\\nv. wash in suds",
+    "definition_zh": "n. 肥皂水, 泡沫\\nvt. 用肥皂水洗\\nvi. 形成起泡肥皂水",
     "examples": [
-      "A serving of infuser is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled suds was served to refresh the guests.",
+        "zh": "在相关语境中，'suds'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "insobriety_noun",
-    "word": "insobriety",
+    "id": "sweat_noun",
+    "word": "sweat",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/.insәu'braiәti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insobriety-us.mp3",
-    "definition_en": "n a temporary state resulting from excessive consumption of alcohol",
-    "definition_zh": "n. 不节制, 暴饮, 头脑不清醒",
+    "category": "food_beverages",
+    "phonetic": "/swet/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sweat-us.mp3",
+    "definition_en": "n. condensation of moisture on a cold surface\\nv. excrete perspiration through the pores in the skin",
+    "definition_zh": "n. 汗, 汗水, 水珠, 焦急\\nvi. 出汗, 渗出, 冒出水气, 结水珠, 烦恼, 懊恼\\nvt. 使出汗, 流出, 榨出, 使汗流浃背",
     "examples": [
-      "A serving of insobriety is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled sweat was served to refresh the guests.",
+        "zh": "在相关语境中，'sweat'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "intoxication_noun",
-    "word": "intoxication",
-    "part_of_speech": "noun",
-    "level": "C2",
+    "id": "sweat_verb",
+    "word": "sweat",
+    "part_of_speech": "verb",
+    "level": "A2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/in.tɒksi'keiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/intoxication-us.mp3",
-    "definition_en": "n. excitement and elation beyond the bounds of sobriety",
-    "definition_zh": "n. 使醉, 沉醉状态",
+    "category": "food_beverages",
+    "phonetic": "/swet/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sweat-us.mp3",
+    "definition_en": "n. condensation of moisture on a cold surface\\nv. excrete perspiration through the pores in the skin",
+    "definition_zh": "n. 汗, 汗水, 水珠, 焦急\\nvi. 出汗, 渗出, 冒出水气, 结水珠, 烦恼, 懊恼\\nvt. 使出汗, 流出, 榨出, 使汗流浃背",
     "examples": [
-      "A serving of intoxication is often offered to welcome visitors to the lounge."
+      {
+        "en": "Guests were invited to sweat leisurely in the garden lounge.",
+        "zh": "在相关语境中，'sweat'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "libation_noun",
-    "word": "libation",
+    "id": "tank_noun",
+    "word": "tank",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/lai'beiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/libation-us.mp3",
-    "definition_en": "n. (facetious) a serving of an alcoholic beverage n. a serving (of wine) poured out in honor of a deity n. the act of pouring a liquid offering (especially wine) as a religious ceremony",
-    "definition_zh": "n. 献酒, 奠酒, 饮酒",
+    "category": "food_beverages",
+    "phonetic": "/tæŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tank-us.mp3",
+    "definition_en": "n. an enclosed armored military vehicle; has a cannon and moves on caterpillar treads\\nn. a large (usually metallic) vessel for holding gases or liquids\\nn. as much as a tank will hold\\nv. store in a tank by causing (something) to flow into it",
+    "definition_zh": "n. 槽, 箱, 柜, 罐, 池塘, 储水池, 坦克\\nvt. 储于箱中",
     "examples": [
-      "A serving of libation is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled tank was served to refresh the guests.",
+        "zh": "在相关语境中，'tank'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "oenophile_noun",
-    "word": "oenophile",
+    "id": "tap_noun",
+    "word": "tap",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "A2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'i:nәfail/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oenophile-us.mp3",
-    "definition_en": "n someone who appreciates wine",
-    "definition_zh": "n. 嗜酒的人,酒的行家,酒品尝家",
+    "category": "food_beverages",
+    "phonetic": "/'tæp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tap-us.mp3",
+    "definition_en": "n. a small metal plate that attaches to the toe or heel of a shoe (as in tap dancing)\\nn. a tool for cutting female (internal) screw threads\\nn. a plug for a bunghole in a cask\\nn. a light touch or stroke",
+    "definition_zh": "n. 轻打, 水龙头\\nvt. 轻打, 轻敲, 敲打出, 选择, 装上嘴子, 使流出, 开发, 分接, 向...乞讨\\nvi. 轻叩, 轻拍, 啪塔啪塔地走\\n 接头",
     "examples": [
-      "A serving of oenophile is often offered to welcome visitors to the lounge."
+      {
+        "en": "A glass of chilled tap was served to refresh the guests.",
+        "zh": "在相关语境中，'tap'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "robusta_noun",
-    "word": "robusta",
-    "part_of_speech": "noun",
-    "level": "C2",
+    "id": "tap_verb",
+    "word": "tap",
+    "part_of_speech": "verb",
+    "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/robusta-us.mp3",
-    "definition_en": "A term denoting robusta.",
-    "definition_zh": "n. 粗壮咖啡豆",
+    "category": "food_beverages",
+    "phonetic": "/'tæp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tap-us.mp3",
+    "definition_en": "n. a small metal plate that attaches to the toe or heel of a shoe (as in tap dancing)\\nn. a tool for cutting female (internal) screw threads\\nn. a plug for a bunghole in a cask\\nn. a light touch or stroke",
+    "definition_zh": "n. 轻打, 水龙头\\nvt. 轻打, 轻敲, 敲打出, 选择, 装上嘴子, 使流出, 开发, 分接, 向...乞讨\\nvi. 轻叩, 轻拍, 啪塔啪塔地走\\n 接头",
     "examples": [
-      "A serving of robusta is often offered to welcome visitors to the lounge."
+      {
+        "en": "Guests were invited to tap leisurely in the garden lounge.",
+        "zh": "在相关语境中，'tap'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "teetotaler_noun",
-    "word": "teetotaler",
+    "id": "tea_noun",
+    "word": "tea",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "A2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ti:'tәutәlә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teetotaler-us.mp3",
-    "definition_en": "n. a total abstainer",
-    "definition_zh": "n. 绝对戒酒者, 戒酒主义者",
+    "category": "food_beverages",
+    "phonetic": "/ti:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tea-us.mp3",
+    "definition_en": "n. a beverage made by steeping tea leaves in water\\nn. a light midafternoon meal of tea and sandwiches or cakes\\nn. a tropical evergreen shrub or small tree extensively cultivated in e.g. China and Japan and India; source of tea leaves\\nn. a reception or party at which tea is served",
+    "definition_zh": "n. 茶, 茶叶\\n 茶, 茶剂, 浸剂",
     "examples": [
-      "A serving of teetotaler is often offered to welcome visitors to the lounge."
+      {
+        "en": "Enjoying a cup of warm tea offers a peaceful moment during a busy day.",
+        "zh": "在相关语境中，'tea'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "teaspoon_noun",
+    "word": "teaspoon",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ti:spu:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teaspoon-us.mp3",
+    "definition_en": "n. as much as a teaspoon will hold\\nn. a small spoon used for stirring tea or coffee; holds about one fluid dram",
+    "definition_zh": "n. 茶匙\\n 茶匙(4毫升)",
+    "examples": [
+      {
+        "en": "A glass of chilled teaspoon was served to refresh the guests.",
+        "zh": "在相关语境中，'teaspoon'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "thirst_noun",
+    "word": "thirst",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/θә:st/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thirst-us.mp3",
+    "definition_en": "n. a physiological need to drink\\nv. feel the need to drink",
+    "definition_zh": "n. 口渴, 渴望\\nvi. 口渴, 渴望",
+    "examples": [
+      {
+        "en": "A glass of chilled thirst was served to refresh the guests.",
+        "zh": "在相关语境中，'thirst'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "thirst_verb",
+    "word": "thirst",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/θә:st/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thirst-us.mp3",
+    "definition_en": "n. a physiological need to drink\\nv. feel the need to drink",
+    "definition_zh": "n. 口渴, 渴望\\nvi. 口渴, 渴望",
+    "examples": [
+      {
+        "en": "Guests were invited to thirst leisurely in the garden lounge.",
+        "zh": "在相关语境中，'thirst'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "thirsty_adjective",
+    "word": "thirsty",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'θә:sti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thirsty-us.mp3",
+    "definition_en": "s. needing moisture\\na. feeling a need or desire to drink\\ns. able to take in large quantities of moisture",
+    "definition_zh": "a. 口渴的, 渴望的, 干燥的",
+    "examples": [
+      {
+        "en": "Guests were invited to thirsty leisurely in the garden lounge.",
+        "zh": "在相关语境中，'thirsty'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "trap_noun",
+    "word": "trap",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/træp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trap-us.mp3",
+    "definition_en": "n. a device in which something (usually an animal) can be caught and penned\\nn. drain consisting of a U-shaped section of drainpipe that holds liquid and so prevents a return flow of sewer gas\\nn. something (often something deceptively attractive) that catches you unawares\\nn. a device to hurl clay pigeons into the air for trapshooters",
+    "definition_zh": "n. 圈套, 陷阱, 诡计, 存水弯\\nvi. 设圈套, 设陷阱\\nvt. 诱捕, 诱骗, 抓住, 使受限制\\n 俘获; 陷井",
+    "examples": [
+      {
+        "en": "A glass of chilled trap was served to refresh the guests.",
+        "zh": "在相关语境中，'trap'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "underwater_adjective",
+    "word": "underwater",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ʌndә'wɒ:tә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/underwater-us.mp3",
+    "definition_en": "s beneath the surface of the water\\ns growing or remaining under water",
+    "definition_zh": "a. 在水中的\\nadv. 在水下",
+    "examples": [
+      {
+        "en": "Guests were invited to underwater leisurely in the garden lounge.",
+        "zh": "在相关语境中，'underwater'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "underwater_adverb",
+    "word": "underwater",
+    "part_of_speech": "adverb",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'ʌndә'wɒ:tә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/underwater-us.mp3",
+    "definition_en": "s beneath the surface of the water\\ns growing or remaining under water",
+    "definition_zh": "a. 在水中的\\nadv. 在水下",
+    "examples": [
+      {
+        "en": "Guests were invited to underwater leisurely in the garden lounge.",
+        "zh": "在相关语境中，'underwater'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "waterfront_noun",
+    "word": "waterfront",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'wɔ:tәfrʌnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/waterfront-us.mp3",
+    "definition_en": "n. the area of a city (such as a harbor or dockyard) alongside a body of water",
+    "definition_zh": "n. 水边, 滨水区, 滩, 海滨, 江边",
+    "examples": [
+      {
+        "en": "A glass of chilled waterfront was served to refresh the guests.",
+        "zh": "在相关语境中，'waterfront'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "wet_adjective",
+    "word": "wet",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/wet/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wet-us.mp3",
+    "definition_en": "v. cause to become wet\\nv. make one's bed or clothes wet by urinating\\na. covered or soaked with a liquid such as water\\na. containing moisture or volatile components",
+    "definition_zh": "n. 湿气, 潮湿, 水分, 雨天\\na. 湿的, 潮的, 搞错的, 下雨的, 反对禁酒的\\nvi. 变湿\\nvt. 使...湿",
+    "examples": [
+      {
+        "en": "Guests were invited to wet leisurely in the garden lounge.",
+        "zh": "在相关语境中，'wet'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "whiskey_noun",
+    "word": "whiskey",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'hwiski/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/whiskey-us.mp3",
+    "definition_en": "n. a liquor made from fermented mash of grain",
+    "definition_zh": "n. 威士忌酒\\na. 威士忌酒的",
+    "examples": [
+      {
+        "en": "A glass of chilled whiskey was served to refresh the guests.",
+        "zh": "在相关语境中，'whiskey'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "wine_noun",
+    "word": "wine",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/wain/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wine-us.mp3",
+    "definition_en": "n. fermented juice (of grapes especially)\\nn. a red as dark as red wine\\nv. drink wine\\nv. treat to wine",
+    "definition_zh": "n. 葡萄酒, 果酒, 暗红色\\nv. (请)喝酒",
+    "examples": [
+      {
+        "en": "The sommelier expertly paired a rich red wine with the main course.",
+        "zh": "在相关语境中，'wine'的实际运用体现了明确的语义搭配。"
+      }
     ]
   }
 ]

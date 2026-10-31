@@ -1,688 +1,362 @@
 [
   {
-    "id": "computer_noun",
-    "word": "computer",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/kәm'pju:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/computer-us.mp3",
-    "definition_en": "n. a machine for performing calculations automatically",
-    "definition_zh": "n. 电脑, 电子计算机",
-    "examples": [
-      "The technical team leveraged advanced computer to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "game_noun",
-    "word": "game",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/geim/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/game-us.mp3",
-    "definition_en": "n. a contest with rules to determine a winner n. a single play of a sport or other contest n. an amusement or pastime n. animal hunted for food or sport",
-    "definition_zh": "n. 比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味",
-    "examples": [
-      "The technical team leveraged advanced game to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "phone_noun",
-    "word": "phone",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/fәun/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phone-us.mp3",
-    "definition_en": "n. (phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language",
-    "definition_zh": "n. 电话, 受话器, 耳机",
-    "examples": [
-      "The technical team leveraged advanced phone to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "screen_noun",
-    "word": "screen",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/skri:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/screen-us.mp3",
-    "definition_en": "n. a white or silvered surface where pictures can be projected for viewing n. the display that is electronically created on the surface of the large end of a cathode-ray tube n. a covering that serves to conceal or shelter something n. a protective covering consisting of netting; can be mounted in a frame",
-    "definition_zh": "n. 幕, 银幕, 屏风, 掩蔽物, 屏蔽, 筛子",
-    "examples": [
-      "The technical team leveraged advanced screen to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "click_verb",
-    "word": "click",
+    "id": "acquires_verb",
+    "word": "acquires",
     "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/klik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/click-us.mp3",
-    "definition_en": "n. depression of a button on a computer mouse v. make a clicking or ticking sound v. produce a click v. become clear or enter one's consciousness or emotions",
-    "definition_zh": "vi. 作咔哒声",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/əˈkwaiəz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acquires-us.mp3",
+    "definition_en": "v come into the possession of something concrete or abstract\\nv take on a certain form, attribute, or aspect\\nv come to have or undergo a change of (physical features and attributes)\\nv locate (a moving entity) by means of a tracking system such as radar\\nv win something through one's efforts\\nv gain knowledge or skills\\nv gain through experience",
+    "definition_zh": "v. 获得( acquire的第三人称单数 ); （使用探测器）捕获（目标）; 取得; （计算机、机器人等）捕捉",
     "examples": [
-      "The technical team leveraged advanced click to optimize compute infrastructure and throughput."
+      {
+        "en": "Modern digital systems continuously acquires real-time server telemetry.",
+        "zh": "在相关语境中，'acquires'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "internet_noun",
-    "word": "internet",
+    "id": "act_noun",
+    "word": "act",
     "part_of_speech": "noun",
     "level": "A2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'intәnet/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/internet-us.mp3",
-    "definition_en": "n. a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange",
-    "definition_zh": "因特网, 国际互连网, 网际网络, 互连网络, 广域网",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/ækt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/act-us.mp3",
+    "definition_en": "n. a legal document codifying the result of deliberations of a committee or society or legislative body\\nn. something that people do or cause to happen\\nn. a subdivision of a play or opera or ballet\\nn. a short theatrical performance that is part of a longer program",
+    "definition_zh": "n. 行动, 行为, 幕, 法案\\nvi. 行动, 表演, 假装, 见效, 表现, 担当\\nvt. 扮演, 装作\\n 先进通信技术, 先进计算机工艺, 自动代码翻译技术",
     "examples": [
-      "The technical team leveraged advanced internet to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure act to optimize data transmission.",
+        "zh": "在相关语境中，'act'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "machine_noun",
-    "word": "machine",
+    "id": "act_verb",
+    "word": "act",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/ækt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/act-us.mp3",
+    "definition_en": "n. a legal document codifying the result of deliberations of a committee or society or legislative body\\nn. something that people do or cause to happen\\nn. a subdivision of a play or opera or ballet\\nn. a short theatrical performance that is part of a longer program",
+    "definition_zh": "n. 行动, 行为, 幕, 法案\\nvi. 行动, 表演, 假装, 见效, 表现, 担当\\nvt. 扮演, 装作\\n 先进通信技术, 先进计算机工艺, 自动代码翻译技术",
+    "examples": [
+      {
+        "en": "Modern digital systems continuously act real-time server telemetry.",
+        "zh": "在相关语境中，'act'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "ai_noun",
+    "word": "ai",
     "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/mә'ʃi:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/machine-us.mp3",
-    "definition_en": "n. any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks n. an efficient person n. an intricate organization that accomplishes its goals efficiently n. a device for overcoming resistance at one point by applying force at some other point",
-    "definition_zh": "n. 机器, 机械装置, 机构, 自动售货机, 机械般工作的人",
+    "level": "C2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/ai/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ai-us.mp3",
+    "definition_en": "n an agency of the United States Army responsible for providing timely and relevant and accurate and synchronized intelligence to tactical and operational and strategic level commanders\\nn the branch of computer science that deal with writing computer programs that can solve problems creatively\\nn a sloth that has three long claws on each forefoot and each hindfoot\\nn the introduction of semen into the oviduct or uterus by some means other than sexual intercourse",
+    "definition_zh": "附加信息, 人工智能\\n 人工智能",
     "examples": [
-      "The technical team leveraged advanced machine to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure ai to optimize data transmission.",
+        "zh": "在相关语境中，'ai'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "online_adjective",
-    "word": "online",
+    "id": "aim_noun",
+    "word": "aim",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/eim/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aim-us.mp3",
+    "definition_en": "n. the goal intended to be attained (and which is believed to be attainable)\\nn. the action of directing something at an object\\nv. point or cause to go (blows, weapons, or objects such as photographic equipment) towards\\nv. propose or intend",
+    "definition_zh": "n. 目标, 瞄准, 击中目标的能力\\nvi. 对准目标, 致力, 打算\\nvt. 瞄准\\n 医学文摘索引, 存取隔离机构, 高级信息管理程序, 先进接口模块\\n应用接口模块, 医学人工智能, 相联索引法, 异步接口模块\\n自动化信息管理, 自动化综合制造, 自动化库存管理",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure aim to optimize data transmission.",
+        "zh": "在相关语境中，'aim'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "aim_verb",
+    "word": "aim",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/eim/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aim-us.mp3",
+    "definition_en": "n. the goal intended to be attained (and which is believed to be attainable)\\nn. the action of directing something at an object\\nv. point or cause to go (blows, weapons, or objects such as photographic equipment) towards\\nv. propose or intend",
+    "definition_zh": "n. 目标, 瞄准, 击中目标的能力\\nvi. 对准目标, 致力, 打算\\nvt. 瞄准\\n 医学文摘索引, 存取隔离机构, 高级信息管理程序, 先进接口模块\\n应用接口模块, 医学人工智能, 相联索引法, 异步接口模块\\n自动化信息管理, 自动化综合制造, 自动化库存管理",
+    "examples": [
+      {
+        "en": "Modern digital systems continuously aim real-time server telemetry.",
+        "zh": "在相关语境中，'aim'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "angsty_adjective",
+    "word": "angsty",
     "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "计算机、AI与前沿科技",
+    "level": "C2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/angsty/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angsty-us.mp3",
+    "definition_en": "Denoting angsty; widely used in Science & Technology.",
+    "definition_zh": "angsty（计算机、AI与前沿科技相关词汇）",
+    "examples": [
+      {
+        "en": "Modern digital systems continuously angsty real-time server telemetry.",
+        "zh": "在相关语境中，'angsty'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "applications_noun",
+    "word": "applications",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
     "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/online-us.mp3",
-    "definition_en": "a on a regular route of a railroad or bus or airline system a connected to a computer network or accessible by computer s being in progress now",
-    "definition_zh": "联机",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/applications-us.mp3",
+    "definition_en": "n the act of bringing something to bear; using it for a particular purpose\\nn a verbal or written request for assistance or employment or admission to a school\\nn the work of applying something; \\nn a program that gives a computer instructions that provide the user with tools to accomplish a task\\nn liquid preparation having a soothing or antiseptic or medicinal action when applied to the skin\\nn a diligent effort\\nn the action of putting something into operation",
+    "definition_zh": "n. 应用；应用程序；应用软件（application的复数）",
     "examples": [
-      "The technical team leveraged advanced online to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure applications to optimize data transmission.",
+        "zh": "在相关语境中，'applications'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "audio_noun",
-    "word": "audio",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'ɒ:diou/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/audio-us.mp3",
-    "definition_en": "n. the audible part of a transmitted signal n. an audible acoustic wave frequency n. the sound elements of television",
-    "definition_zh": "a. 音频的, 声音的",
+    "id": "arcanely_adverb",
+    "word": "arcanely",
+    "part_of_speech": "adverb",
+    "level": "C2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/arcanely/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arcanely-us.mp3",
+    "definition_en": "Denoting arcanely; widely used in Science & Technology.",
+    "definition_zh": "arcanely（计算机、AI与前沿科技相关词汇）",
     "examples": [
-      "The technical team leveraged advanced audio to optimize compute infrastructure and throughput."
+      {
+        "en": "Modern digital systems continuously arcanely real-time server telemetry.",
+        "zh": "在相关语境中，'arcanely'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "automation_noun",
-    "word": "automation",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/.ɒ:tә'meiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/automation-us.mp3",
-    "definition_en": "n. the act of implementing the control of equipment with advanced technology; usually involving electronic hardware n. the condition of being automatically operated or controlled n. equipment used to achieve automatic control or operation",
-    "definition_zh": "n. 自动化, 自动操作",
-    "examples": [
-      "The technical team leveraged advanced automation to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "chemist_noun",
-    "word": "chemist",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'kemist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chemist-us.mp3",
-    "definition_en": "n. a scientist who specializes in chemistry",
-    "definition_zh": "n. 化学家, 药剂师",
-    "examples": [
-      "The technical team leveraged advanced chemist to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "code_noun",
-    "word": "code",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/kәud/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/code-us.mp3",
-    "definition_en": "n. a set of rules or principles or laws (especially written ones) n. a coding system used for transmitting messages requiring brevity or secrecy n. (computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions v. attach a code to",
-    "definition_zh": "n. 代码, 密码, 法规, 法典",
-    "examples": [
-      "The technical team leveraged advanced code to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "coding_noun",
-    "word": "coding",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'kәudiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coding-us.mp3",
-    "definition_en": "n act of writing in code or cipher v attach a code to v convert ordinary language into code v fool or hoax v harass with persistent criticism or carping",
-    "definition_zh": "n. 译码",
-    "examples": [
-      "The technical team leveraged advanced coding to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "data_noun",
-    "word": "data",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'deitә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/data-us.mp3",
-    "definition_en": "n. a collection of facts from which conclusions may be drawn",
-    "definition_zh": "pl. 资料, 数据",
-    "examples": [
-      "The technical team leveraged advanced data to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "device_noun",
-    "word": "device",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/di'vais/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/device-us.mp3",
-    "definition_en": "n. an instrumentality invented for a particular purpose n. something in an artistic work designed to achieve a particular effect n. any clever maneuver n. any ornamental pattern or design (as in embroidery)",
-    "definition_zh": "n. 装置, 设计, 策略, 发明物, 设备",
-    "examples": [
-      "The technical team leveraged advanced device to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "digital_adjective",
-    "word": "digital",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'didʒitәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/digital-us.mp3",
-    "definition_en": "a. displaying numbers rather than scale positions a. relating to or performed with the fingers a. of a circuit or device that represents magnitudes in digits",
-    "definition_zh": "a. 数字显示的, 数字的",
-    "examples": [
-      "The technical team leveraged advanced digital to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "download_verb",
-    "word": "download",
+    "id": "attach_verb",
+    "word": "attach",
     "part_of_speech": "verb",
     "level": "B1",
-    "topic": "计算机、AI与前沿科技",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/ә'tætʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attach-us.mp3",
+    "definition_en": "v. cause to be attached\\nv. be attached; be in contact with\\nv. become attached",
+    "definition_zh": "vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚\\nvi. 附属, 归属, 联系在一起\\n 挂接服务器命令, 关联, 挂接, 附加",
+    "examples": [
+      {
+        "en": "Modern digital systems continuously attach real-time server telemetry.",
+        "zh": "在相关语境中，'attach'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "basic_adjective",
+    "word": "basic",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'beisik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/basic-us.mp3",
+    "definition_en": "n. a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use\\nn. (usually plural) a necessary commodity for which demand is constant\\na. pertaining to or constituting a base or basis\\ns. reduced to the simplest and most significant form possible without loss of generality",
+    "definition_zh": "n. 基本原理, 要素, 基本规律\\na. 基本的, 碱性的\\n(计算机)BASIC语言",
+    "examples": [
+      {
+        "en": "Modern digital systems continuously basic real-time server telemetry.",
+        "zh": "在相关语境中，'basic'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "basic_noun",
+    "word": "basic",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'beisik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/basic-us.mp3",
+    "definition_en": "n. a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use\\nn. (usually plural) a necessary commodity for which demand is constant\\na. pertaining to or constituting a base or basis\\ns. reduced to the simplest and most significant form possible without loss of generality",
+    "definition_zh": "n. 基本原理, 要素, 基本规律\\na. 基本的, 碱性的\\n(计算机)BASIC语言",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure basic to optimize data transmission.",
+        "zh": "在相关语境中，'basic'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "bliss_noun",
+    "word": "bliss",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/blis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bliss-us.mp3",
+    "definition_en": "n. a state of extreme happiness",
+    "definition_zh": "n. 福佑, 天赐的福\\n 实现系统软件的基本语言",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure bliss to optimize data transmission.",
+        "zh": "在相关语境中，'bliss'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "blog_noun",
+    "word": "blog",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
     "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/download-us.mp3",
-    "definition_en": "v. transfer a file or program from a central computer to a smaller computer or to a computer at a remote location",
-    "definition_zh": "卸载, 下栽",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blog-us.mp3",
+    "definition_en": "v. read, write, or edit a shared on-line journal",
+    "definition_zh": "n. 博客；部落格；网络日志",
     "examples": [
-      "The technical team leveraged advanced download to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure blog to optimize data transmission.",
+        "zh": "在相关语境中，'blog'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "electronics_noun",
-    "word": "electronics",
+    "id": "cap_noun",
+    "word": "cap",
     "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/.ilek'trɒniks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/electronics-us.mp3",
-    "definition_en": "n. the branch of physics that deals with the emission and effects of electrons and with the use of electronic devices",
-    "definition_zh": "n. 电子学",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/kæp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cap-us.mp3",
+    "definition_en": "n. a tight-fitting headdress\\nn. a top (as for a bottle)\\nn. something serving as a cover or protection\\nn. a fruiting structure resembling an umbrella or a cone that forms the top of a stalked fleshy fungus such as a mushroom",
+    "definition_zh": "n. 盖子, 帽子\\nvt. 戴帽子, 覆盖, 胜过\\nvi. 脱帽致意\\n 调用程序分析, 容量, 代码分析程序, 计算机辅助生产, 计算机辅助印刷",
     "examples": [
-      "The technical team leveraged advanced electronics to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure cap to optimize data transmission.",
+        "zh": "在相关语境中，'cap'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "file_noun",
-    "word": "file",
+    "id": "caps_noun",
+    "word": "caps",
     "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/fail/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/file-us.mp3",
-    "definition_en": "n. a set of related records (either written or electronic) kept together n. a line of persons or things ranged one behind the other n. office furniture consisting of a container for keeping papers in order n. a steel hand tool with small sharp teeth on some or all of its surfaces; used for smoothing wood or metal",
-    "definition_zh": "n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀",
-    "examples": [
-      "The technical team leveraged advanced file to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "hardware_noun",
-    "word": "hardware",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'hɑ:dwєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hardware-us.mp3",
-    "definition_en": "n. major items of military weaponry (as tanks or missile) n. instrumentalities (tools or implements) made of metal n. (computer science) the mechanical, magnetic, electronic, and electrical components making up a computer system",
-    "definition_zh": "n. 硬件, 五金器具, 零件",
-    "examples": [
-      "Upgrading the hardware significantly enhanced system speed and reliability."
-    ]
-  },
-  {
-    "id": "install_verb",
-    "word": "install",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/in'stɒ:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/install-us.mp3",
-    "definition_en": "v. set up for use v. put into an office or a position v. place",
-    "definition_zh": "vt. 安装, 安置, 使就职",
-    "examples": [
-      "The technical team leveraged advanced install to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "laboratory_noun",
-    "word": "laboratory",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'læbrәtәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/laboratory-us.mp3",
-    "definition_en": "n a workplace for the conduct of scientific research n a region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation",
-    "definition_zh": "n. 实验室, 研究室, 化工厂",
-    "examples": [
-      "The technical team leveraged advanced laboratory to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "link_noun",
-    "word": "link",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/liŋk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/link-us.mp3",
-    "definition_en": "n. the means of connection between things linked in series n. a fastener that serves to join or connect n. a unit of length equal to 1/100 of a chain n. (computing) an instruction that connects one part of a program or an element on a list to another program or list",
-    "definition_zh": "n. 环, 连结物, 链接, 火把",
-    "examples": [
-      "The technical team leveraged advanced link to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "memory_noun",
-    "word": "memory",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'memәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/memory-us.mp3",
-    "definition_en": "n. something that is remembered n. the cognitive processes whereby past experience is remembered n. the power of retaining and recalling past experience n. an electronic memory device",
-    "definition_zh": "n. 记忆, 记忆力, 回忆, 纪念, 存储",
-    "examples": [
-      "The technical team leveraged advanced memory to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "mobile_adjective",
-    "word": "mobile",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'mәubil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mobile-us.mp3",
-    "definition_en": "n. a river in southwestern Alabama; flows into Mobile Bay n. a port in southwestern Alabama on Mobile Bay n. sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents s. migratory",
-    "definition_zh": "a. 移动的, 易变的, 机动的",
-    "examples": [
-      "The technical team leveraged advanced mobile to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "modem_noun",
-    "word": "modem",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'mәudem/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/modem-us.mp3",
-    "definition_en": "n. (from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line",
-    "definition_zh": "n. 调制解调器",
-    "examples": [
-      "The technical team leveraged advanced modem to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "network_noun",
-    "word": "network",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'netwә:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/network-us.mp3",
-    "definition_en": "n. an interconnected system of things or people n. (broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs n. a system of intersecting lines or channels n. (electronics) a system of interconnected electronic components or circuits",
-    "definition_zh": "n. 网络, 广播网, 网状物",
-    "examples": [
-      "The technical team leveraged advanced network to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "password_noun",
-    "word": "password",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'pæswә:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/password-us.mp3",
-    "definition_en": "n. a secret word or phrase known only to a restricted group",
-    "definition_zh": "n. 密码, 口令, 通行手段",
-    "examples": [
-      "The technical team leveraged advanced password to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "program_noun",
-    "word": "program",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'prәugræm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/program-us.mp3",
-    "definition_en": "n. a system of projects or services intended to meet a public need n. an announcement of the events that will occur as part of a theatrical or sporting event n. (computer science) a sequence of instructions that a computer can interpret and execute n. a performance (or series of performances) at a public presentation",
-    "definition_zh": "n. 节目, 节目单, 程序, 纲要, 大纲, 计划",
-    "examples": [
-      "The technical team leveraged advanced program to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "programmer_noun",
-    "word": "programmer",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'prәugræmә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/programmer-us.mp3",
-    "definition_en": "n. a person who designs and writes and tests computer programs",
-    "definition_zh": "n. 程序员",
-    "examples": [
-      "The technical team leveraged advanced programmer to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "programming_noun",
-    "word": "programming",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'prәugræmiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/programming-us.mp3",
-    "definition_en": "n. creating a sequence of instructions to enable the computer to do something",
-    "definition_zh": "n. 节目的计划, 编制程序",
-    "examples": [
-      "The technical team leveraged advanced programming to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "robot_noun",
-    "word": "robot",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'rәubәt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/robot-us.mp3",
-    "definition_en": "n a mechanism that can move automatically",
-    "definition_zh": "n. 机械人, 自动机械, 机械般工作的人",
-    "examples": [
-      "The technical team leveraged advanced robot to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "robotics_noun",
-    "word": "robotics",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/rәu'bɔtiks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/robotics-us.mp3",
-    "definition_en": "n. the area of AI concerned with the practical use of robots",
-    "definition_zh": "机器人学, 自动机工程学",
-    "examples": [
-      "The technical team leveraged advanced robotics to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "satellite_noun",
-    "word": "satellite",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'sætlait/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/satellite-us.mp3",
-    "definition_en": "n. man-made equipment that orbits around the earth or the moon n. a person who follows or serves another n. any celestial body orbiting around a planet or star v. broadcast or disseminate via satellite",
-    "definition_zh": "n. 人造卫星",
-    "examples": [
-      "The technical team leveraged advanced satellite to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "software_noun",
-    "word": "software",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'sɒftwєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/software-us.mp3",
-    "definition_en": "n. (computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory",
-    "definition_zh": "n. 软件",
-    "examples": [
-      "The company released new open-source software to streamline cloud deployments."
-    ]
-  },
-  {
-    "id": "system_noun",
-    "word": "system",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'sistәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/system-us.mp3",
-    "definition_en": "n. instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity n. a group of independent but interrelated elements comprising a unified whole n. (physical chemistry) a sample of matter in which substances in different phases are in equilibrium n. a complex of methods or rules governing behavior",
-    "definition_zh": "n. 系统, 体系, 制度, 方式, 秩序, 分类原则",
-    "examples": [
-      "The technical team leveraged advanced system to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "technology_noun",
-    "word": "technology",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/tek'nɒlәdʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/technology-us.mp3",
-    "definition_en": "n. the practical application of science to commerce or industry",
-    "definition_zh": "n. 技术, 工业技术, 术语",
-    "examples": [
-      "The technical team leveraged advanced technology to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "upload_verb",
-    "word": "upload",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'ʌp,lәud/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/upload-us.mp3",
-    "definition_en": "v. transfer a file or program to a central computer from a smaller computer or a computer at a remote location",
-    "definition_zh": "上装, 加载, 储入",
-    "examples": [
-      "The technical team leveraged advanced upload to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "video_noun",
-    "word": "video",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'vidiәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/video-us.mp3",
-    "definition_en": "n. the visible part of a television transmission n. (computer science) the appearance of text and graphics on a video display",
-    "definition_zh": "n. 影像, 电视",
-    "examples": [
-      "The technical team leveraged advanced video to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "website_noun",
-    "word": "website",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与前沿科技",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
     "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/website-us.mp3",
-    "definition_en": "n a computer connected to the internet that maintains a series of web pages on the World Wide Web",
-    "definition_zh": "n. 网站（全球资讯网的主机站）",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caps-us.mp3",
+    "definition_en": "n a tight-fitting headdress\\nn a top (as for a bottle)\\nn a mechanical or electrical explosive device or a small amount of explosive; can be used to initiate the reaction of a disrupting explosive\\nn something serving as a cover or protection\\nn a fruiting structure resembling an umbrella or a cone that forms the top of a stalked fleshy fungus such as a mushroom\\nn a protective covering that is part of a plant\\nn an upper limit on what is allowed\\nn (dentistry) dental appliance consisting of an artificial crown for a broken or decayed tooth\\nn the upper part of a column that supports the entablature\\nv lie at the top of\\nv restrict the number or amount of",
+    "definition_zh": "abbr. 盒式磁带程序设计系统（Cassette Programming System）；计算机辅助产品检索（Computer Assisted Product Search）",
     "examples": [
-      "The technical team leveraged advanced website to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure caps to optimize data transmission.",
+        "zh": "在相关语境中，'caps'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "wireless_adjective",
-    "word": "wireless",
-    "part_of_speech": "adjective",
+    "id": "cars_noun",
+    "word": "cars",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cars-us.mp3",
+    "definition_en": "n a motor vehicle with four wheels; usually propelled by an internal combustion engine\\nn a wheeled vehicle adapted to the rails of railroad\\nn the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\\nn where passengers ride up and down\\nn a conveyance for passengers or freight on a cable railway",
+    "definition_zh": "abbr. 中美洲研究站（Central America Research Station）；计算机化自动额定值系统（computerized automatic rating system）；汽车收据结账证书（Certificates for Automobile Receivables）",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure cars to optimize data transmission.",
+        "zh": "在相关语境中，'cars'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cashpoint_noun",
+    "word": "cashpoint",
+    "part_of_speech": "noun",
     "level": "B1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'waiәlis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wireless-us.mp3",
-    "definition_en": "n. transmission by radio waves a. having no wires",
-    "definition_zh": "a. 无线的, 无线电的",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cashpoint-us.mp3",
+    "definition_en": "",
+    "definition_zh": "一种电脑化的付现机",
     "examples": [
-      "The technical team leveraged advanced wireless to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure cashpoint to optimize data transmission.",
+        "zh": "在相关语境中，'cashpoint'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "algorithm_noun",
-    "word": "algorithm",
+    "id": "cat_noun",
+    "word": "cat",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'ælgәriðm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/algorithm-us.mp3",
-    "definition_en": "n. a precise rule (or set of rules) specifying how to solve some problem",
-    "definition_zh": "n. 算法",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/kæt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cat-us.mp3",
+    "definition_en": "n. feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\\nn. a spiteful woman gossip\\nv. beat with a cat-o'-nine-tails",
+    "definition_zh": "n. 猫, 恶妇\\nvi. 呕吐\\n计算机辅助教育, 计算机辅助测试, 计算机辅助翻译, 计算机辅助排版\\n 计算机辅助教学, 计算机辅助翻译, 计算机辅助排字, 计算机辅助测试",
     "examples": [
-      "Engineers developed an efficient sorting algorithm to process massive datasets."
+      {
+        "en": "Engineers implemented a secure cat to optimize data transmission.",
+        "zh": "在相关语境中，'cat'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "application_noun",
-    "word": "application",
+    "id": "cats_noun",
+    "word": "cats",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/.æpli'keiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/application-us.mp3",
-    "definition_en": "n. the act of bringing something to bear; using it for a particular purpose n. a verbal or written request for assistance or employment or admission to a school n. the work of applying something;  n. a program that gives a computer instructions that provide the user with tools to accomplish a task",
-    "definition_zh": "n. 应用, 申请, 志愿书, 应用程序",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cats-us.mp3",
+    "definition_en": "n feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\\nn an informal term for a youth or man\\nn a spiteful woman gossip\\nn the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant\\nn a whip with nine knotted cords\\nn a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work\\nn any of several large cats typically able to roar and living in the wild\\nn a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis\\nv beat with a cat-o'-nine-tails\\nv eject the contents of the stomach through the mouth",
+    "definition_zh": "abbr. 高级电视研究中心（Centre for Advanced Television Studies）；计算机自动测试系统（Computer Automated Test System）；通信和跟踪系统（Communications and Tracking System）；综合分析试验系统（Comprehensive Analytical Test System）",
     "examples": [
-      "The technical team leveraged advanced application to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "autonomous_adjective",
-    "word": "autonomous",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/ɒ:'tɒnәmәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/autonomous-us.mp3",
-    "definition_en": "s. (of political bodies) not controlled by outside forces s. existing as an independent entity s. (of persons) free from external control and constraint in e.g. action and judgment",
-    "definition_zh": "a. 自治的",
-    "examples": [
-      "The technical team leveraged advanced autonomous to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "bandwidth_noun",
-    "word": "bandwidth",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'bændwidθ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bandwidth-us.mp3",
-    "definition_en": "n. a data transmission rate; the maximum amount of information (bits/second) that can be transmitted along a channel",
-    "definition_zh": "n. 频带宽度, 通带宽度",
-    "examples": [
-      "The technical team leveraged advanced bandwidth to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "binary_adjective",
-    "word": "binary",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'bainәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/binary-us.mp3",
-    "definition_en": "n. a pre-compiled, pre-linked program that is ready to run under a given operating system; a binary for one operating system will not run on a different operating system a. of or pertaining to a number system have 2 as its base s. consisting of two (units or components or elements or terms)",
-    "definition_zh": "a. 由两部分组成的, 二进位的, 二元的",
-    "examples": [
-      "The technical team leveraged advanced binary to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "broadband_noun",
-    "word": "broadband",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'brɔ:dbænd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/broadband-us.mp3",
-    "definition_en": "a. of or relating to or being a communications network in which the bandwidth can be divided and shared by multiple simultaneous signals (as for voice or data or video) a. responding to or operating at a wide band of frequencies",
-    "definition_zh": "宽带",
-    "examples": [
-      "The technical team leveraged advanced broadband to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "browser_noun",
-    "word": "browser",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'brauzә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/browser-us.mp3",
-    "definition_en": "n. a viewer who looks around casually without seeking anything in particular n. a program used to view HTML documents",
-    "definition_zh": "n. 吃嫩叶的动物, 浏览书本的人",
-    "examples": [
-      "The technical team leveraged advanced browser to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "chemistry_noun",
-    "word": "chemistry",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'kemistri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chemistry-us.mp3",
-    "definition_en": "n. the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions n. the chemical composition and properties of a substance or object n. the way two individuals relate to each other",
-    "definition_zh": "n. 化学, 化学过程",
-    "examples": [
-      "The technical team leveraged advanced chemistry to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure cats to optimize data transmission.",
+        "zh": "在相关语境中，'cats'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -690,97 +364,161 @@
     "word": "chip",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "计算机、AI与前沿科技",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
     "phonetic": "/tʃip/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chip-us.mp3",
-    "definition_en": "n. a triangular wooden float attached to the end of a log line n. a piece of dried bovine dung n. a thin crisp slice of potato fried in deep fat n. a small disk-shaped counter used to represent money when gambling",
-    "definition_zh": "n. 屑片, 薄片, 碎片",
+    "definition_en": "n. a triangular wooden float attached to the end of a log line\\nn. a piece of dried bovine dung\\nn. a thin crisp slice of potato fried in deep fat\\nn. a small disk-shaped counter used to represent money when gambling",
+    "definition_zh": "n. 屑片, 薄片, 碎片\\nvt. 削, 切, 削成碎片, 使摔倒, 凿\\nvi. 削下屑片\\n 孔屑; 组件; 晶片; 芯片",
     "examples": [
-      "The technical team leveraged advanced chip to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure chip to optimize data transmission.",
+        "zh": "在相关语境中，'chip'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "cloud_noun",
-    "word": "cloud",
+    "id": "computer_noun",
+    "word": "computer",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/klaud/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cloud-us.mp3",
-    "definition_en": "n. any collection of particles (e.g., smoke or dust) or gases that is visible n. a visible mass of water or ice particles suspended at a considerable altitude n. out of touch with reality n. a cause of worry or gloom or trouble",
-    "definition_zh": "n. 云, 阴暗, 烟雾, 疑团",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/kәm'pju:tә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/computer-us.mp3",
+    "definition_en": "n. a machine for performing calculations automatically",
+    "definition_zh": "n. 电脑, 电子计算机\\n 计算机",
     "examples": [
-      "The technical team leveraged advanced cloud to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure computer to optimize data transmission.",
+        "zh": "在相关语境中，'computer'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "compiler_noun",
-    "word": "compiler",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/kәm'pailә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compiler-us.mp3",
-    "definition_en": "n. a person who compiles information (as for reference purposes) n. (computer science) a program that decodes instructions written in a higher order language and produces an assembly language program",
-    "definition_zh": "n. 编辑者",
+    "id": "computerize_verb",
+    "word": "computerize",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/kәm'pju:tәraiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/computerize-us.mp3",
+    "definition_en": "v. provide with computers\\nv. store in a computer",
+    "definition_zh": "vt. 用电脑处理, 使电脑化\\n 给...装备电脑, 用电脑计算",
     "examples": [
-      "The technical team leveraged advanced compiler to optimize compute infrastructure and throughput."
+      {
+        "en": "Modern digital systems continuously computerize real-time server telemetry.",
+        "zh": "在相关语境中，'computerize'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "computing_noun",
-    "word": "computing",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/kәm'pju:tiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/computing-us.mp3",
-    "definition_en": "n the branch of engineering science that studies (with the aid of computers) computable processes and structures n the procedure of calculating; determining something by mathematical or logical methods v make a mathematical calculation or computation",
-    "definition_zh": "计算",
-    "examples": [
-      "The technical team leveraged advanced computing to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "console_noun",
-    "word": "console",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/kәn'sәul/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/console-us.mp3",
-    "definition_en": "n. a scientific instrument consisting of displays and an input device that an operator can use to monitor and control a system (especially a computer system) n. an ornamental scroll-shaped bracket (especially one used to support a wall fixture)",
-    "definition_zh": "n. 控制台",
-    "examples": [
-      "The technical team leveraged advanced console to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "cyber_adjective",
-    "word": "cyber",
+    "id": "computerized_adjective",
+    "word": "computerized",
     "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'saibә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cyber-us.mp3",
-    "definition_en": "A term denoting cyber.",
-    "definition_zh": "a. 网络的, 计算机的",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/kәm'pju:tәraizd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/computerized-us.mp3",
+    "definition_en": "v provide with computers\\nv store in a computer\\nv control a function, process, or creation by a computer",
+    "definition_zh": "a. 电脑的；用电脑处理的；电脑化的",
     "examples": [
-      "The technical team leveraged advanced cyber to optimize compute infrastructure and throughput."
+      {
+        "en": "Modern digital systems continuously computerized real-time server telemetry.",
+        "zh": "在相关语境中，'computerized'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "cybersecurity_noun",
-    "word": "cybersecurity",
+    "id": "computers_noun",
+    "word": "computers",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/computers-us.mp3",
+    "definition_en": "n a machine for performing calculations automatically\\nn an expert at calculation (or at operating calculating machines)",
+    "definition_zh": "n. 计算机, 电脑（computer的复数）",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure computers to optimize data transmission.",
+        "zh": "在相关语境中，'computers'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cs_noun",
+    "word": "cs",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'si:,es/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cs-us.mp3",
+    "definition_en": "n a soft silver-white ductile metallic element (liquid at normal temperatures); the most electropositive and alkaline metal\\nn a degree on the centigrade scale of temperature\\nn the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second\\nn a vitamin found in fresh fruits (especially citrus fruits) and vegetables; prevents scurvy\\nn one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)\\nn a base found in DNA and RNA and derived from pyrimidine; pairs with guanine\\nn an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds\\nn ten 10s\\nn a unit of electrical charge equal to the amount of charge transferred by a current of 1 ampere in 1 second\\nn a general-purpose programing language closely associated with the UNIX operating system\\nn (music) the keynote of the scale of C major\\nn the 3rd letter of the Roman alphabet\\nn street names for cocaine",
+    "definition_zh": "文职人员, 行政机构\\n 通道状态, 通信仿真器, 公用源, 计算机软件",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure cs to optimize data transmission.",
+        "zh": "在相关语境中，'cs'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cyberaddict_noun",
+    "word": "cyberaddict",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/cybersecurity/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cybersecurity-us.mp3",
-    "definition_en": "A term denoting cybersecurity in standard English.",
-    "definition_zh": "n. cybersecurity",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/cyberaddict/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cyberaddict-us.mp3",
+    "definition_en": "Denoting cyberaddict; widely used in Science & Technology.",
+    "definition_zh": "cyberaddict（计算机、AI与前沿科技相关词汇）",
     "examples": [
-      "Robust cybersecurity practices defend sensitive networks against unauthorized access."
+      {
+        "en": "Engineers implemented a secure cyberaddict to optimize data transmission.",
+        "zh": "在相关语境中，'cyberaddict'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cybercrime_noun",
+    "word": "cybercrime",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cybercrime-us.mp3",
+    "definition_en": "n. crime committed using a computer and the internet to steal a person's identity or sell contraband or stalk victims or disrupt operations with malevolent programs",
+    "definition_zh": "n. 网络犯罪",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure cybercrime to optimize data transmission.",
+        "zh": "在相关语境中，'cybercrime'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "cyberpet_noun",
+    "word": "cyberpet",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/cyberpet/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cyberpet-us.mp3",
+    "definition_en": "Denoting cyberpet; widely used in Science & Technology.",
+    "definition_zh": "cyberpet（计算机、AI与前沿科技相关词汇）",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure cyberpet to optimize data transmission.",
+        "zh": "在相关语境中，'cyberpet'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
@@ -788,1035 +526,593 @@
     "word": "database",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "计算机、AI与前沿科技",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
     "phonetic": "/'deitәbeis/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/database-us.mp3",
     "definition_en": "n. an organized body of related information",
-    "definition_zh": "n. 数据库",
+    "definition_zh": "n. 数据库\\n 数据库",
     "examples": [
-      "All user preferences are securely indexed and stored in the primary database."
+      {
+        "en": "Engineers implemented a secure database to optimize data transmission.",
+        "zh": "在相关语境中，'database'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "debugging_noun",
-    "word": "debugging",
+    "id": "databases_noun",
+    "word": "databases",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/di:'bʌ^iŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/debugging-us.mp3",
-    "definition_en": "v locate and correct errors in a computer program code",
-    "definition_zh": "调试",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/databases-us.mp3",
+    "definition_en": "n an organized body of related information",
+    "definition_zh": "n. 数据库；资料库（database的复数）",
     "examples": [
-      "The technical team leveraged advanced debugging to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure databases to optimize data transmission.",
+        "zh": "在相关语境中，'databases'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "developer_noun",
-    "word": "developer",
+    "id": "dna_noun",
+    "word": "dna",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/di'velәpә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/developer-us.mp3",
-    "definition_en": "n. someone who develops real estate (especially someone who prepares a site for residential or commercial use) n. photographic equipment consisting of a chemical solution for developing film",
-    "definition_zh": "n. 开发者",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dna-us.mp3",
+    "definition_en": "n (biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information",
+    "definition_zh": "脱氧核糖核酸\\n 无效数据, 数字网络体系结构, 分布式网络体系结构",
     "examples": [
-      "The technical team leveraged advanced developer to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure dna to optimize data transmission.",
+        "zh": "在相关语境中，'dna'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "domain_noun",
-    "word": "domain",
+    "id": "dos_noun",
+    "word": "dos",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/du:z/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dos-us.mp3",
+    "definition_en": "n. an operating system that is on a disk",
+    "definition_zh": "磁盘操作系统\\n 磁盘操作系统; DOS内部命令:该命令用于将DOS核心部分装入高内存区\\n且允许其设备驱动程序或常驻程序装入上层内存块",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure dos to optimize data transmission.",
+        "zh": "在相关语境中，'dos'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "enhancing_verb",
+    "word": "enhancing",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/inˈhɑ:nsɪŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enhancing-us.mp3",
+    "definition_en": "v increase\\nv make better or more attractive",
+    "definition_zh": "v. 提高( enhance的现在分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）; 探溯语源, 指示语源( etymologize的过去式和过去分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）",
+    "examples": [
+      {
+        "en": "Modern digital systems continuously enhancing real-time server telemetry.",
+        "zh": "在相关语境中，'enhancing'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "environments_noun",
+    "word": "environments",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/dәu'mein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/domain-us.mp3",
-    "definition_en": "n. territory over which rule or control is exercised n. (mathematics) the set of values of the independent variable for which a function is defined",
-    "definition_zh": "n. 领域, 领土, 产业, 范围",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environments-us.mp3",
+    "definition_en": "n the totality of surrounding conditions\\nn the area in which something exists or lives",
+    "definition_zh": "n. 环境；生态环境；（计算机系统运行的）环境（environment的复数）",
     "examples": [
-      "The technical team leveraged advanced domain to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure environments to optimize data transmission.",
+        "zh": "在相关语境中，'environments'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "electronic_adjective",
-    "word": "electronic",
+    "id": "flatout_adverb",
+    "word": "flatout",
+    "part_of_speech": "adverb",
+    "level": "C2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/flatout/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flatout-us.mp3",
+    "definition_en": "Denoting flatout; widely used in Science & Technology.",
+    "definition_zh": "flatout（计算机、AI与前沿科技相关词汇）",
+    "examples": [
+      {
+        "en": "Modern digital systems continuously flatout real-time server telemetry.",
+        "zh": "在相关语境中，'flatout'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "genomically_adverb",
+    "word": "genomically",
+    "part_of_speech": "adverb",
+    "level": "C2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/genomically/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/genomically-us.mp3",
+    "definition_en": "Denoting genomically; widely used in Science & Technology.",
+    "definition_zh": "genomically（计算机、AI与前沿科技相关词汇）",
+    "examples": [
+      {
+        "en": "Modern digital systems continuously genomically real-time server telemetry.",
+        "zh": "在相关语境中，'genomically'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "graphics_noun",
+    "word": "graphics",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'græfiks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/graphics-us.mp3",
+    "definition_en": "n. the drawings and photographs in the layout of a book",
+    "definition_zh": "n. 制图法, 制图学, 图解算法, 图形显示\\n 图形; DOS外部命令:打印图形方式下的屏幕内容",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure graphics to optimize data transmission.",
+        "zh": "在相关语境中，'graphics'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "internet_noun",
+    "word": "internet",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'intәnet/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/internet-us.mp3",
+    "definition_en": "n. a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange",
+    "definition_zh": "因特网, 国际互连网, 网际网络, 互连网络, 广域网",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure internet to optimize data transmission.",
+        "zh": "在相关语境中，'internet'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "microcomputer_noun",
+    "word": "microcomputer",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/.maikrәu'kɒmpjutә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/microcomputer-us.mp3",
+    "definition_en": "n a small digital computer based on a microprocessor and designed to be used by one person at a time",
+    "definition_zh": "n. 微电脑, 微机\\n 微型计算机; 微计算机",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure microcomputer to optimize data transmission.",
+        "zh": "在相关语境中，'microcomputer'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "net_adjective",
+    "word": "net",
     "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/.ilek'trɒnik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/electronic-us.mp3",
-    "definition_en": "a. of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons a. of or concerned with electrons",
-    "definition_zh": "a. 电子的",
+    "level": "A2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/net/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/net-us.mp3",
+    "definition_en": "n. a trap made of netting to catch fish or birds or insects\\nn. a goal lined with netting (as in soccer or hockey)\\nn. game equipment consisting of a strip of netting dividing the playing area in tennis or badminton\\nn. an open fabric of string or rope or wire woven together at regular intervals",
+    "definition_zh": "n. 网, 网状物, 罗网, 净利, 净价\\na. 净的, 最终的\\nvt. 用网捕, 撒网, 净赚, 得到\\nvi. 编网\\n 网络, 网络分析程序",
     "examples": [
-      "The technical team leveraged advanced electronic to optimize compute infrastructure and throughput."
+      {
+        "en": "Modern digital systems continuously net real-time server telemetry.",
+        "zh": "在相关语境中，'net'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "encrypt_verb",
-    "word": "encrypt",
+    "id": "net_noun",
+    "word": "net",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/net/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/net-us.mp3",
+    "definition_en": "n. a trap made of netting to catch fish or birds or insects\\nn. a goal lined with netting (as in soccer or hockey)\\nn. game equipment consisting of a strip of netting dividing the playing area in tennis or badminton\\nn. an open fabric of string or rope or wire woven together at regular intervals",
+    "definition_zh": "n. 网, 网状物, 罗网, 净利, 净价\\na. 净的, 最终的\\nvt. 用网捕, 撒网, 净赚, 得到\\nvi. 编网\\n 网络, 网络分析程序",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure net to optimize data transmission.",
+        "zh": "在相关语境中，'net'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "nos_noun",
+    "word": "nos",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nos-us.mp3",
+    "definition_en": "n a negative\\nn a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known",
+    "definition_zh": "网络操作系统",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure nos to optimize data transmission.",
+        "zh": "在相关语境中，'nos'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "nut_noun",
+    "word": "nut",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/nʌt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nut-us.mp3",
+    "definition_en": "n. usually large hard-shelled seed\\nn. Egyptian goddess of the sky\\nn. a small (usually square or hexagonal) metal block with internal screw thread to be fitted onto a bolt\\nv. gather nuts",
+    "definition_zh": "n. 坚果, 核心, 螺帽\\n Novell NetWare服务器实用程序",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure nut to optimize data transmission.",
+        "zh": "在相关语境中，'nut'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "package_noun",
+    "word": "package",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'pækidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/package-us.mp3",
+    "definition_en": "n. a collection of things wrapped or boxed together\\nn. a wrapped container",
+    "definition_zh": "n. 包裹, 套装软件, 包, 包装用物, 程序包\\nvt. 包装, 打包\\na. 一揽子的\\n 包, 软件包, 包装",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure package to optimize data transmission.",
+        "zh": "在相关语境中，'package'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "pc_noun",
+    "word": "pc",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pc-us.mp3",
+    "definition_en": "n a small digital computer based on a microprocessor and designed to be used by one person at a time",
+    "definition_zh": "个人计算机\\n 外部控制, 个人计算机, 光电导体, 伪码",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure pc to optimize data transmission.",
+        "zh": "在相关语境中，'pc'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "power_noun",
+    "word": "power",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'pauә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/power-us.mp3",
+    "definition_en": "n. possession of controlling influence\\nn. (physics) the rate of doing work; measured in watts (= joules/second)\\nn. one possessing or exercising power or influence or authority\\nv. supply the force or power for the functioning of",
+    "definition_zh": "n. 力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率\\nvt. 使...有力量, 供以动力, 激励\\n 乘幂; DOS外部命令:能控制许多电池电源计算机上的电源管理特性",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure power to optimize data transmission.",
+        "zh": "在相关语境中，'power'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "programmer_noun",
+    "word": "programmer",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'prәugræmә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/programmer-us.mp3",
+    "definition_en": "n. a person who designs and writes and tests computer programs",
+    "definition_zh": "n. 程序员\\n 程序设计员; 程序员",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure programmer to optimize data transmission.",
+        "zh": "在相关语境中，'programmer'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "publishes_verb",
+    "word": "publishes",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/ˈpʌbliʃiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/publishes-us.mp3",
+    "definition_en": "v put into print\\nv prepare and issue for public distribution or sale\\nv have (one's written work) issued for publication",
+    "definition_zh": "v. 出版( publish的第三人称单数 ); （在互联网上）发表; 公布; 在报刊)发表",
+    "examples": [
+      {
+        "en": "Modern digital systems continuously publishes real-time server telemetry.",
+        "zh": "在相关语境中，'publishes'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "sap_noun",
+    "word": "sap",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/sæp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sap-us.mp3",
+    "definition_en": "n. a watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant\\nv. excavate the earth beneath",
+    "definition_zh": "n. 树液, 体液, 活力, 坑道, 消弱, 警棍\\nvt. 使排出体液, 使伤元气, 使衰竭, 挖坑道逼近, 逐渐侵蚀\\nvi. 挖坑道, 消弱\\n 共享汇编程序, 结构分析程序, 符号汇编程序, 服务器广告协议",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure sap to optimize data transmission.",
+        "zh": "在相关语境中，'sap'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "scan_noun",
+    "word": "scan",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/skæn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scan-us.mp3",
+    "definition_en": "n. the act of scanning; systematic examination of a prescribed region\\nn. an image produced by scanning\\nv. examine minutely or intensely\\nv. examine hastily",
+    "definition_zh": "n. 审视, 浏览, 扫描, 细查\\nvt. 细看, 浏览, 扫描, 详细调查, 标出格律\\nvi. 押韵, 扫描\\n 网络软件目录, 编码与分析系统",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure scan to optimize data transmission.",
+        "zh": "在相关语境中，'scan'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "scan_verb",
+    "word": "scan",
     "part_of_speech": "verb",
     "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/in'kript/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/encrypt-us.mp3",
-    "definition_en": "v convert ordinary language into code",
-    "definition_zh": "加密",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/skæn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scan-us.mp3",
+    "definition_en": "n. the act of scanning; systematic examination of a prescribed region\\nn. an image produced by scanning\\nv. examine minutely or intensely\\nv. examine hastily",
+    "definition_zh": "n. 审视, 浏览, 扫描, 细查\\nvt. 细看, 浏览, 扫描, 详细调查, 标出格律\\nvi. 押韵, 扫描\\n 网络软件目录, 编码与分析系统",
     "examples": [
-      "The technical team leveraged advanced encrypt to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "encryption_noun",
-    "word": "encryption",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/-'kripʃən/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/encryption-us.mp3",
-    "definition_en": "n the activity of converting data or information into code",
-    "definition_zh": "加密",
-    "examples": [
-      "End-to-end encryption guarantees that personal communication remains confidential."
-    ]
-  },
-  {
-    "id": "gigabyte_noun",
-    "word": "gigabyte",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gigabyte-us.mp3",
-    "definition_en": "n. a unit of information equal to 1000 megabytes or 10^9 (1,000,000,000) bytes n. a unit of information equal to 1024 mebibytes or 2^30 (1,073,741,824) bytes",
-    "definition_zh": "n. 吉字节",
-    "examples": [
-      "The technical team leveraged advanced gigabyte to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "hacker_noun",
-    "word": "hacker",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'hækә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hacker-us.mp3",
-    "definition_en": "n. someone who plays golf poorly n. a programmer who breaks into computer systems in order to steal or change or destroy information as a form of cyber-terrorism n. a programmer for whom computing is its own reward; may enjoy the challenge of breaking into other computers but does no harm",
-    "definition_zh": "计算机窃贼, 计算机新技术挑战者, 黑客",
-    "examples": [
-      "The technical team leveraged advanced hacker to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "hosting_noun",
-    "word": "hosting",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'hәustiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hosting-us.mp3",
-    "definition_en": "v be the host of or for",
-    "definition_zh": "n. 作战；群众或部队的集合",
-    "examples": [
-      "The technical team leveraged advanced hosting to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "infrastructure_noun",
-    "word": "infrastructure",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'infrәstrʌktʃә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infrastructure-us.mp3",
-    "definition_en": "n. the basic structure or features of a system or organization n. the stock of basic facilities and capital equipment needed for the functioning of a country or area",
-    "definition_zh": "n. 基础结构, 基础设施",
-    "examples": [
-      "The technical team leveraged advanced infrastructure to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "interface_noun",
-    "word": "interface",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'intәfeis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interface-us.mp3",
-    "definition_en": "n. (chemistry) a surface forming a common boundary between two things (two objects or liquids or chemical phases) n. (computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system n. the overlap where two theories or phenomena affect each other or have links with each other n. (computer science) computer circuit consisting of the hardware and associated circuitry that links one device with another (especially a computer and a hard disk drive or other peripherals)",
-    "definition_zh": "n. 分界面, 接触面, 界面",
-    "examples": [
-      "The technical team leveraged advanced interface to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "laser_noun",
-    "word": "laser",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'leizә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/laser-us.mp3",
-    "definition_en": "n. an acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense monochromatic beam of coherent light",
-    "definition_zh": "n. 激光",
-    "examples": [
-      "The technical team leveraged advanced laser to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "megabyte_noun",
-    "word": "megabyte",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'meɡәbait/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/megabyte-us.mp3",
-    "definition_en": "n. a unit of information equal to 1000 kilobytes or 10^6 (1,000,000) bytes n. a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes",
-    "definition_zh": "n. 兆字节",
-    "examples": [
-      "The technical team leveraged advanced megabyte to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "parameter_noun",
-    "word": "parameter",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/pә'ræmitә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parameter-us.mp3",
-    "definition_en": "n. a constant in the equation of a curve that can be varied to yield a family of similar curves n. any factor that defines a system and determines (or limits) its performance n. a quantity (such as the mean or variance) that characterizes a statistical population and that can be estimated by calculations from sample data",
-    "definition_zh": "n. 参变数, 参变量, 参数, 参量",
-    "examples": [
-      "The technical team leveraged advanced parameter to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "physics_noun",
-    "word": "physics",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'fiziks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/physics-us.mp3",
-    "definition_en": "n. the science of matter and energy and their interactions n. the physical properties, phenomena, and laws of something",
-    "definition_zh": "n. 物理学, 物理过程, 物理现象",
-    "examples": [
-      "The technical team leveraged advanced physics to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "pixel_noun",
-    "word": "pixel",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'piksәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pixel-us.mp3",
-    "definition_en": "n. (computer science) the smallest discrete component of an image or picture on a CRT screen (usually a colored dot)",
-    "definition_zh": "n. 像素",
-    "examples": [
-      "The technical team leveraged advanced pixel to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "platform_noun",
-    "word": "platform",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'plætfɒ:m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/platform-us.mp3",
-    "definition_en": "n. a raised horizontal surface n. a document stating the aims and principles of a political party n. the combination of a particular computer and a particular operating system n. any military structure or vehicle bearing weapons",
-    "definition_zh": "n. 站台, 月台, 讲台, 论坛, 平台",
-    "examples": [
-      "The technical team leveraged advanced platform to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "portal_noun",
-    "word": "portal",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'pɒ:tl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/portal-us.mp3",
-    "definition_en": "n. a grand and imposing entrance (often extended metaphorically)",
-    "definition_zh": "n. 入口, 大门",
-    "examples": [
-      "The technical team leveraged advanced portal to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "processor_noun",
-    "word": "processor",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/prә'sesә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/processor-us.mp3",
-    "definition_en": "n. a business engaged in processing agricultural products and preparing them for market n. someone who processes things (foods or photographs or applicants etc.)",
-    "definition_zh": "n. 信息处理机, 加工者, 处理者",
-    "examples": [
-      "The technical team leveraged advanced processor to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "quantum_noun",
-    "word": "quantum",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'kwɒntәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quantum-us.mp3",
-    "definition_en": "n. a discrete amount of something that is analogous to the quantities in quantum theory n. (physics) the smallest discrete quantity of some physical property that a system can possess (according to quantum theory)",
-    "definition_zh": "n. 量, 量子",
-    "examples": [
-      "The technical team leveraged advanced quantum to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "query_noun",
-    "word": "query",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'kwiәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/query-us.mp3",
-    "definition_en": "n an instance of questioning v pose a question",
-    "definition_zh": "n. 疑问, 疑问号, 质问, 查询",
-    "examples": [
-      "The technical team leveraged advanced query to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "reboot_verb",
-    "word": "reboot",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/ri:'bu:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reboot-us.mp3",
-    "definition_en": "v cause to load (an operating system) and start the initial processes",
-    "definition_zh": "重新启动",
-    "examples": [
-      "The technical team leveraged advanced reboot to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "resolution_noun",
-    "word": "resolution",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/.rezә'lu:ʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resolution-us.mp3",
-    "definition_en": "n. a formal expression by a meeting; agreed to by a vote n. finding a solution to a problem n. analysis into clear-cut components n. (computer science) the number of pixels per square inch on a computer-generated display; the greater the resolution, the better the picture",
-    "definition_zh": "n. 解析, 决心, 坚定, 决定, 决议, 消除, 解答, 分解",
-    "examples": [
-      "The technical team leveraged advanced resolution to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "router_noun",
-    "word": "router",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'ru:tә(r), 'raj-/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/router-us.mp3",
-    "definition_en": "n. a worker who routes shipments for distribution and delivery n. (computer science) a device that forwards data packets between computer networks n. a power tool with a shaped cutter; used in carpentry for cutting grooves",
-    "definition_zh": "路由器",
-    "examples": [
-      "The technical team leveraged advanced router to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "runtime_noun",
-    "word": "runtime",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/runtime-us.mp3",
-    "definition_en": "A term denoting runtime.",
-    "definition_zh": "n. 执行时间, 运行时间",
-    "examples": [
-      "The technical team leveraged advanced runtime to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "script_noun",
-    "word": "script",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/skript/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/script-us.mp3",
-    "definition_en": "n. a written version of a play or other dramatic composition; used in preparing for a performance n. a particular orthography or writing system v. write a script for",
-    "definition_zh": "n. 手迹, 手稿, 正本, 手写体",
-    "examples": [
-      "The technical team leveraged advanced script to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "semiconductor_noun",
-    "word": "semiconductor",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/.semikәn'dʌktә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/semiconductor-us.mp3",
-    "definition_en": "n. a substance as germanium or silicon whose electrical conductivity is intermediate between that of a metal and an insulator; its conductivity increases with temperature and in the presence of impurities",
-    "definition_zh": "n. 半导体",
-    "examples": [
-      "The technical team leveraged advanced semiconductor to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "sensor_noun",
-    "word": "sensor",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'sensә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sensor-us.mp3",
-    "definition_en": "n any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner",
-    "definition_zh": "n. 传感器",
-    "examples": [
-      "The technical team leveraged advanced sensor to optimize compute infrastructure and throughput."
+      {
+        "en": "Modern digital systems continuously scan real-time server telemetry.",
+        "zh": "在相关语境中，'scan'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
     "id": "server_noun",
     "word": "server",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
     "phonetic": "/'sә:vә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/server-us.mp3",
-    "definition_en": "n. (court games) the player who serves to start a point n. (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network n. utensil used in serving food or drink",
-    "definition_zh": "n. 服伺者, 上菜用具, 发球员",
+    "definition_en": "n. (court games) the player who serves to start a point\\nn. (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network\\nn. utensil used in serving food or drink",
+    "definition_zh": "n. 服伺者, 上菜用具, 发球员\\nn. 服务器\\n 服务器, 服务器启动程序, 服务台程序",
     "examples": [
-      "The technical team leveraged advanced server to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure server to optimize data transmission.",
+        "zh": "在相关语境中，'server'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "storage_noun",
-    "word": "storage",
+    "id": "servers_noun",
+    "word": "servers",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'stɒ:ridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/storage-us.mp3",
-    "definition_en": "n. the act of storing something n. the commercial enterprise of storing goods and materials n. (computer science) the process of storing information in a computer memory or on a magnetic tape or disk",
-    "definition_zh": "n. 存储器, 储藏, 保管, 库存, 仓库",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/servers-us.mp3",
+    "definition_en": "n a person whose occupation is to serve at table (as in a restaurant)\\nn (court games) the player who serves to start a point\\nn (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network\\nn utensil used in serving food or drink",
+    "definition_zh": "n. 服务器（server的复数）",
     "examples": [
-      "The technical team leveraged advanced storage to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure servers to optimize data transmission.",
+        "zh": "在相关语境中，'servers'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "synchronize_verb",
-    "word": "synchronize",
+    "id": "share_noun",
+    "word": "share",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/ʃєә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/share-us.mp3",
+    "definition_en": "n. assets belonging to or due to or contributed by an individual person or group\\nn. any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate\\nv. have in common\\nv. use jointly or in common",
+    "definition_zh": "n. 部分, 参与, 一份, 参股, 份额\\nvt. 均分, 分担, 分享, 分配, 共有\\nvi. 分享\\n 共享; DOS外部命令:在网络或多工系统中提供文件共享\\n文件锁定及检测磁盘更动和对超过32MB硬盘分区的支持",
+    "examples": [
+      {
+        "en": "Engineers implemented a secure share to optimize data transmission.",
+        "zh": "在相关语境中，'share'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "share_verb",
+    "word": "share",
     "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'siŋkrәnaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/synchronize-us.mp3",
-    "definition_en": "v. make synchronous and adjust in time or manner v. happen at the same time v. make (motion picture sound) exactly simultaneous with the action v. arrange or represent events so that they co-occur",
-    "definition_zh": "vt. 使同步, 使合拍",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/ʃєә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/share-us.mp3",
+    "definition_en": "n. assets belonging to or due to or contributed by an individual person or group\\nn. any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate\\nv. have in common\\nv. use jointly or in common",
+    "definition_zh": "n. 部分, 参与, 一份, 参股, 份额\\nvt. 均分, 分担, 分享, 分配, 共有\\nvi. 分享\\n 共享; DOS外部命令:在网络或多工系统中提供文件共享\\n文件锁定及检测磁盘更动和对超过32MB硬盘分区的支持",
     "examples": [
-      "The technical team leveraged advanced synchronize to optimize compute infrastructure and throughput."
+      {
+        "en": "Modern digital systems continuously share real-time server telemetry.",
+        "zh": "在相关语境中，'share'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "terminal_noun",
-    "word": "terminal",
+    "id": "spreadsheet_noun",
+    "word": "spreadsheet",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'tә:minәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/terminal-us.mp3",
-    "definition_en": "n. station where transport vehicles load or unload passengers or goods n. a contact on an electrical device (such as a battery) at which electric current enters or leaves n. electronic equipment consisting of a device providing access to a computer; has a keyboard and display a. of or relating to or situated at the ends of a delivery route",
-    "definition_zh": "n. 终端机, 终点, 末端, 极限, 终点站",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'spredʃi:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spreadsheet-us.mp3",
+    "definition_en": "n. a screen-oriented interactive program enabling a user to lay out financial data on the screen",
+    "definition_zh": "n. 空白表格程序, 电子制表软件, 电子数据表\\n 电子表格",
     "examples": [
-      "The technical team leveraged advanced terminal to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure spreadsheet to optimize data transmission.",
+        "zh": "在相关语境中，'spreadsheet'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "variable_noun",
-    "word": "variable",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'vєәriәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/variable-us.mp3",
-    "definition_en": "n. something that is likely to vary; something that is subject to variation n. a quantity that can assume any of a set of values n. a symbol (like x or y) that is used in mathematical or logical expressions to represent a variable quantity a. liable to or capable of change",
-    "definition_zh": "n. 易变的事物, 变数, 可变物, 变量",
-    "examples": [
-      "The technical team leveraged advanced variable to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "virtual_adjective",
-    "word": "virtual",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'vә:tʃuәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/virtual-us.mp3",
-    "definition_en": "s. being actually such in almost every respect s. existing in essence or effect though not in actual fact",
-    "definition_zh": "a. 实际上起作用的, 虚的, 实质的, 有效的, 事实上生效的",
-    "examples": [
-      "The technical team leveraged advanced virtual to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "backend_noun",
-    "word": "backend",
-    "part_of_speech": "noun",
+    "id": "stressfully_adverb",
+    "word": "stressfully",
+    "part_of_speech": "adverb",
     "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'bækend/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/backend-us.mp3",
-    "definition_en": "A term denoting backend.",
-    "definition_zh": "n. 后端",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/stressfully/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stressfully-us.mp3",
+    "definition_en": "Denoting stressfully; widely used in Science & Technology.",
+    "definition_zh": "stressfully（计算机、AI与前沿科技相关词汇）",
     "examples": [
-      "The technical team leveraged advanced backend to optimize compute infrastructure and throughput."
+      {
+        "en": "Modern digital systems continuously stressfully real-time server telemetry.",
+        "zh": "在相关语境中，'stressfully'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "biometric_adjective",
-    "word": "biometric",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/ˌbaɪəʊˈmetrɪk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/biometric-us.mp3",
-    "definition_en": "A term denoting biometric.",
-    "definition_zh": "计量生物学",
-    "examples": [
-      "The technical team leveraged advanced biometric to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "blockchain_noun",
-    "word": "blockchain",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/blockchain/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blockchain-us.mp3",
-    "definition_en": "A term denoting blockchain in standard English.",
-    "definition_zh": "n. blockchain",
-    "examples": [
-      "The technical team leveraged advanced blockchain to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "concurrency_noun",
-    "word": "concurrency",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/concurrency-us.mp3",
-    "definition_en": "n agreement of results or opinions n acting together, as agents or circumstances or events",
-    "definition_zh": "并发性; 并行性",
-    "examples": [
-      "The technical team leveraged advanced concurrency to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "cryptography_noun",
-    "word": "cryptography",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/krip'tɒgrәfi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cryptography-us.mp3",
-    "definition_en": "n. act of writing in code or cipher",
-    "definition_zh": "n. 密码使用法, 密码学",
-    "examples": [
-      "The technical team leveraged advanced cryptography to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "firewall_noun",
-    "word": "firewall",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/firewall-us.mp3",
-    "definition_en": "n. (colloquial) the application of maximum thrust n. (computing) a security system consisting of a combination of hardware and software that limits the exposure of a computer or computer network to attack from crackers; commonly used on local area networks that are connected to the internet n. a fireproof (or fire-resistant) wall designed to prevent the spread of fire through a building or a vehicle",
-    "definition_zh": "放火墙, 隔离",
-    "examples": [
-      "The technical team leveraged advanced firewall to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "firmware_noun",
-    "word": "firmware",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'fә:m,weә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/firmware-us.mp3",
-    "definition_en": "n. (computer science) coded instructions that are stored permanently in read-only memory",
-    "definition_zh": "固件",
-    "examples": [
-      "The technical team leveraged advanced firmware to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "frontend_noun",
-    "word": "frontend",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/frontend-us.mp3",
-    "definition_en": "A term denoting frontend.",
-    "definition_zh": "n. 前端",
-    "examples": [
-      "The technical team leveraged advanced frontend to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "heuristics_noun",
-    "word": "heuristics",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heuristics-us.mp3",
-    "definition_en": "n a commonsense rule (or set of rules) intended to increase the probability of solving some problem",
-    "definition_zh": "启发式方法, 探试法",
-    "examples": [
-      "The technical team leveraged advanced heuristics to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "latency_noun",
-    "word": "latency",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'leitnsi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/latency-us.mp3",
-    "definition_en": "n. the state of being not yet evident or active",
-    "definition_zh": "n. 潜伏, 潜在",
-    "examples": [
-      "The technical team leveraged advanced latency to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "malware_noun",
-    "word": "malware",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/malware-us.mp3",
-    "definition_en": "A term denoting malware.",
-    "definition_zh": "n. 恶意软件; 恶意软件。malware是malicious software的合成形式; 流氓软件",
-    "examples": [
-      "The technical team leveraged advanced malware to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "microprocessor_noun",
-    "word": "microprocessor",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/.maikrәu'prәusesә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/microprocessor-us.mp3",
-    "definition_en": "n. integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system",
-    "definition_zh": "n. 微处理器",
-    "examples": [
-      "The technical team leveraged advanced microprocessor to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "middleware_noun",
-    "word": "middleware",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'midlweә(r)/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/middleware-us.mp3",
-    "definition_en": "A term denoting middleware.",
-    "definition_zh": "n. 中间设备,中间件",
-    "examples": [
-      "The technical team leveraged advanced middleware to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "motherboard_noun",
-    "word": "motherboard",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'mʌðәbɒ:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motherboard-us.mp3",
-    "definition_en": "A term denoting motherboard.",
-    "definition_zh": "n. 底板, 母板",
-    "examples": [
-      "The technical team leveraged advanced motherboard to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "neural_adjective",
-    "word": "neural",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'njuәrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neural-us.mp3",
-    "definition_en": "a. of or relating to neurons",
-    "definition_zh": "a. 神经的, 神经系统的, 神经中枢的, 背的",
-    "examples": [
-      "The technical team leveraged advanced neural to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "protocol_noun",
-    "word": "protocol",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'prәutәkɒl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/protocol-us.mp3",
-    "definition_en": "n. (computer science) rules determining the format and transmission of data n. forms of ceremony and etiquette observed by diplomats and heads of state n. code of correct conduct",
-    "definition_zh": "n. 草案, 礼仪, 协议",
-    "examples": [
-      "The technical team leveraged advanced protocol to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "repository_noun",
-    "word": "repository",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/ri'pɔzitәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repository-us.mp3",
-    "definition_en": "n. a person to whom a secret is entrusted n. a burial vault (usually for some famous person)",
-    "definition_zh": "n. 贮藏所, 贮物器, 仓库, 博物馆, 店铺, 陈列室, 资源丰富地区, 墓地, 亲信, 知己",
-    "examples": [
-      "The technical team leveraged advanced repository to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "supercomputer_noun",
-    "word": "supercomputer",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/,sju:pәkәm'pju:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/supercomputer-us.mp3",
-    "definition_en": "n. a mainframe computer that is one of the most powerful available at a given time",
-    "definition_zh": "巨型计算机, 巨型机, 超级计算机",
-    "examples": [
-      "The technical team leveraged advanced supercomputer to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "telemetry_noun",
-    "word": "telemetry",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/ti'lemitri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/telemetry-us.mp3",
-    "definition_en": "n. automatic transmission and measurement of data from remote sources by wire or radio or other means",
-    "definition_zh": "n. 遥测技术, 遥测数据",
-    "examples": [
-      "The technical team leveraged advanced telemetry to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "terabyte_noun",
-    "word": "terabyte",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/terabyte-us.mp3",
-    "definition_en": "n. a unit of information equal to 1000 gigabytes or 10^12 (1,000,000,000,000) bytes n. a unit of information equal to 1024 gibibytes or 2^40 (1,099,511,627,776) bytes",
-    "definition_zh": "太字节(万亿字节)",
-    "examples": [
-      "The technical team leveraged advanced terabyte to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "transistor_noun",
-    "word": "transistor",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/træn'zistә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transistor-us.mp3",
-    "definition_en": "n. a semiconductor device capable of amplification",
-    "definition_zh": "n. 晶体管",
-    "examples": [
-      "The technical team leveraged advanced transistor to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "virtualization_noun",
-    "word": "virtualization",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/virtualization-us.mp3",
-    "definition_en": "A term denoting virtualization.",
-    "definition_zh": "虚拟化",
-    "examples": [
-      "The technical team leveraged advanced virtualization to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "asynchronous_adjective",
-    "word": "asynchronous",
+    "id": "unharried_adjective",
+    "word": "unharried",
     "part_of_speech": "adjective",
     "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/ei'siŋkrәnәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/asynchronous-us.mp3",
-    "definition_en": "a. (digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself a. not synchronous; not occurring or existing at the same time or having the same period or phase",
-    "definition_zh": "a. 不同时的, 不同期的, 异步的",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/unharried/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unharried-us.mp3",
+    "definition_en": "Denoting unharried; widely used in Science & Technology.",
+    "definition_zh": "unharried（计算机、AI与前沿科技相关词汇）",
     "examples": [
-      "The technical team leveraged advanced asynchronous to optimize compute infrastructure and throughput."
+      {
+        "en": "Modern digital systems continuously unharried real-time server telemetry.",
+        "zh": "在相关语境中，'unharried'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "bytecode_noun",
-    "word": "bytecode",
+    "id": "unsustainably_adverb",
+    "word": "unsustainably",
+    "part_of_speech": "adverb",
+    "level": "C1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/unsustainably/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unsustainably-us.mp3",
+    "definition_en": "Denoting unsustainably; widely used in Science & Technology.",
+    "definition_zh": "unsustainably（计算机、AI与前沿科技相关词汇）",
+    "examples": [
+      {
+        "en": "Modern digital systems continuously unsustainably real-time server telemetry.",
+        "zh": "在相关语境中，'unsustainably'的实际运用体现了明确的语义搭配。"
+      }
+    ]
+  },
+  {
+    "id": "webcam_noun",
+    "word": "webcam",
     "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/bytecode/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bytecode-us.mp3",
-    "definition_en": "A term denoting bytecode in standard English.",
-    "definition_zh": "n. bytecode",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'webkæm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/webcam-us.mp3",
+    "definition_en": "n. a digital camera designed to take digital photographs and transmit them over the internet",
+    "definition_zh": "n. 网络摄像头",
     "examples": [
-      "The technical team leveraged advanced bytecode to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure webcam to optimize data transmission.",
+        "zh": "在相关语境中，'webcam'的实际运用体现了明确的语义搭配。"
+      }
     ]
   },
   {
-    "id": "containerization_noun",
-    "word": "containerization",
+    "id": "windows_noun",
+    "word": "windows",
     "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/kәn,teinәrai'zeiʃәn; -ri'z-/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/containerization-us.mp3",
-    "definition_en": "A term denoting containerization.",
-    "definition_zh": "n. 集装箱化",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'windәjz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/windows-us.mp3",
+    "definition_en": "n. (trademark) an operating system with a graphical user interface",
+    "definition_zh": "n. 微软公司生产的“视窗”操作系统",
     "examples": [
-      "The technical team leveraged advanced containerization to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "cryptocurrency_noun",
-    "word": "cryptocurrency",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/cryptocurrency/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cryptocurrency-us.mp3",
-    "definition_en": "A term denoting cryptocurrency in standard English.",
-    "definition_zh": "n. cryptocurrency",
-    "examples": [
-      "The technical team leveraged advanced cryptocurrency to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "decentralized_adjective",
-    "word": "decentralized",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/decentralized-us.mp3",
-    "definition_en": "a. withdrawn from a center or place of concentration; especially having power or function dispersed from a central to local authorities",
-    "definition_zh": "a. 分散化, 分散式；分散管理的；分散的；去中心化",
-    "examples": [
-      "The technical team leveraged advanced decentralized to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "hypervisor_noun",
-    "word": "hypervisor",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hypervisor-us.mp3",
-    "definition_en": "A term denoting hypervisor.",
-    "definition_zh": "超级监督者",
-    "examples": [
-      "The technical team leveraged advanced hypervisor to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "idempotent_adjective",
-    "word": "idempotent",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'aidәm,pәutәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/idempotent-us.mp3",
-    "definition_en": "s. unchanged in value following multiplication by itself",
-    "definition_zh": "幂等",
-    "examples": [
-      "The technical team leveraged advanced idempotent to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "interoperability_noun",
-    "word": "interoperability",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'intәr,ɔpərә'bilәti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interoperability-us.mp3",
-    "definition_en": "n. (computer science) the ability to exchange and use information (usually in a large heterogeneous network made up of several local area networks)",
-    "definition_zh": "互用性, 互操作性",
-    "examples": [
-      "The technical team leveraged advanced interoperability to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "microservice_noun",
-    "word": "microservice",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/microservice/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/microservice-us.mp3",
-    "definition_en": "A term denoting microservice in standard English.",
-    "definition_zh": "n. microservice",
-    "examples": [
-      "The technical team leveraged advanced microservice to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "multithreading_noun",
-    "word": "multithreading",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/multithreading-us.mp3",
-    "definition_en": "A term denoting multithreading.",
-    "definition_zh": "多线索处理",
-    "examples": [
-      "The technical team leveraged advanced multithreading to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "nanosecond_noun",
-    "word": "nanosecond",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'nænәusekәnd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nanosecond-us.mp3",
-    "definition_en": "n. one billionth (10^-9) of a second; one thousandth of a microsecond",
-    "definition_zh": "n. 毫微秒",
-    "examples": [
-      "The technical team leveraged advanced nanosecond to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "nanotechnology_noun",
-    "word": "nanotechnology",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/ˌnænəʊtekˈnɒlədʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nanotechnology-us.mp3",
-    "definition_en": "n. the branch of engineering that deals with things smaller than 100 nanometers (especially with the manipulation of individual molecules)",
-    "definition_zh": "n. 纳米技术, 毫微技术; 纤技术",
-    "examples": [
-      "The technical team leveraged advanced nanotechnology to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "polymorphism_noun",
-    "word": "polymorphism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/.pɒli'mɒ:fizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/polymorphism-us.mp3",
-    "definition_en": "n. (genetics) the genetic variation within a population that natural selection can operate on n. (chemistry) the existence of different kinds of crystal of the same chemical compound n. (biology) the existence of two or more forms of individuals within the same animal species (independent of sex differences)",
-    "definition_zh": "n. 多晶形, 多形性, 多型现象",
-    "examples": [
-      "The technical team leveraged advanced polymorphism to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "rasterize_verb",
-    "word": "rasterize",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/ˈræstəraɪz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rasterize-us.mp3",
-    "definition_en": "v convert (an image) into pixels",
-    "definition_zh": "vt. 光栅化；点阵化；栅格化",
-    "examples": [
-      "The technical team leveraged advanced rasterize to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "scalability_noun",
-    "word": "scalability",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/,skeilә'biliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scalability-us.mp3",
-    "definition_en": "n. the quality of being scalable",
-    "definition_zh": "可伸缩性",
-    "examples": [
-      "The technical team leveraged advanced scalability to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "subroutine_noun",
-    "word": "subroutine",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/'sʌbru:.ti:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subroutine-us.mp3",
-    "definition_en": "n a set sequence of steps, part of larger computer program",
-    "definition_zh": "n. 子程序",
-    "examples": [
-      "The technical team leveraged advanced subroutine to optimize compute infrastructure and throughput."
-    ]
-  },
-  {
-    "id": "tokenization_noun",
-    "word": "tokenization",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与前沿科技",
-    "phonetic": "/tokenization/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tokenization-us.mp3",
-    "definition_en": "A term denoting tokenization in standard English.",
-    "definition_zh": "n. tokenization",
-    "examples": [
-      "The technical team leveraged advanced tokenization to optimize compute infrastructure and throughput."
+      {
+        "en": "Engineers implemented a secure windows to optimize data transmission.",
+        "zh": "在相关语境中，'windows'的实际运用体现了明确的语义搭配。"
+      }
     ]
   }
 ]
