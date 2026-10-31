@@ -27,7 +27,7 @@
     "phonetic": "/.ækә'demik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/academic-us.mp3",
     "definition_en": "a. associated with academia or an academy\\ns. hypothetical or theoretical and not expected to produce an immediate or practical result\\ns. marked by a narrow focus on or display of learning especially its trivial aspects",
-    "definition_zh": "a. 学院的, 学术的, 不切实际的\\nn. 大学生, 大学教师, 学者, 学会会员",
+    "definition_zh": "a. 学院的, 学术的, 不切实际的； n. 大学生, 大学教师, 学者, 学会会员",
     "examples": [
       {
         "en": "Professors encourage students to academic foundational concepts thoroughly.",
@@ -45,7 +45,7 @@
     "phonetic": "/.ækә'demik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/academic-us.mp3",
     "definition_en": "a. associated with academia or an academy\\ns. hypothetical or theoretical and not expected to produce an immediate or practical result\\ns. marked by a narrow focus on or display of learning especially its trivial aspects",
-    "definition_zh": "a. 学院的, 学术的, 不切实际的\\nn. 大学生, 大学教师, 学者, 学会会员",
+    "definition_zh": "a. 学院的, 学术的, 不切实际的； n. 大学生, 大学教师, 学者, 学会会员",
     "examples": [
       {
         "en": "Mastering this academic academic is essential for future research.",
@@ -81,7 +81,7 @@
     "phonetic": "/ә'kaunt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/account-us.mp3",
     "definition_en": "n. a formal contractual relationship established to provide for regular banking or brokerage or business services\\nn. importance or value\\nn. a statement of recent transactions and the resulting balance\\nn. the quality of taking advantage",
-    "definition_zh": "n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目\\nvi. 报帐, 解释, 导致, 报偿, 占, 杀死\\nvt. 认为\\n 帐户, 帐号",
+    "definition_zh": "n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目； vi. 报帐, 解释, 导致, 报偿, 占, 杀死； vt. 认为； 帐户, 帐号",
     "examples": [
       {
         "en": "Mastering this academic account is essential for future research.",
@@ -99,7 +99,7 @@
     "phonetic": "/ә'kaunt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/account-us.mp3",
     "definition_en": "n. a formal contractual relationship established to provide for regular banking or brokerage or business services\\nn. importance or value\\nn. a statement of recent transactions and the resulting balance\\nn. the quality of taking advantage",
-    "definition_zh": "n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目\\nvi. 报帐, 解释, 导致, 报偿, 占, 杀死\\nvt. 认为\\n 帐户, 帐号",
+    "definition_zh": "n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目； vi. 报帐, 解释, 导致, 报偿, 占, 杀死； vt. 认为； 帐户, 帐号",
     "examples": [
       {
         "en": "Professors encourage students to account foundational concepts thoroughly.",
@@ -135,7 +135,7 @@
     "phonetic": "/әd'vaizә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adviser-us.mp3",
     "definition_en": "n. an expert who gives advice",
-    "definition_zh": "n. 顾问, 劝告者, 指导教师\\n 顾问, 劝告者",
+    "definition_zh": "n. 顾问, 劝告者, 指导教师； 顾问, 劝告者",
     "examples": [
       {
         "en": "Mastering this academic adviser is essential for future research.",
@@ -207,7 +207,7 @@
     "phonetic": "/ә'sainmәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assignment-us.mp3",
     "definition_en": "n. a duty that you are assigned to perform (especially in the armed forces)\\nn. the instrument by which a claim or right or interest or property is transferred from one person to another\\nn. the act of distributing something to designated places or persons\\nn. an undertaking that you have been assigned to do (as by an instructor)",
-    "definition_zh": "n. 分配, 功课, 任务, 转让, 归因, 陈述\\n 赋值",
+    "definition_zh": "n. 分配, 功课, 任务, 转让, 归因, 陈述； 赋值",
     "examples": [
       {
         "en": "Mastering this academic assignment is essential for future research.",
@@ -315,7 +315,7 @@
     "phonetic": "/'kætәlɒg/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/catalog-us.mp3",
     "definition_en": "n. a book or pamphlet containing an enumeration of things\\nn. a complete list of things; usually arranged systematically",
-    "definition_zh": "n. 目录, 大学概况手册\\nvt. 编目录\\n 目录; 编目",
+    "definition_zh": "n. 目录, 大学概况手册； vt. 编目录； 目录; 编目",
     "examples": [
       {
         "en": "Mastering this academic catalog is essential for future research.",
@@ -333,7 +333,7 @@
     "phonetic": "/'kætәlɒg/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/catalogue-us.mp3",
     "definition_en": "v. make an itemized list or catalog of; classify\\nv. make a catalogue, compile a catalogue",
-    "definition_zh": "n. 目录, 大学情况一览\\nvt. 编入目录",
+    "definition_zh": "n. 目录, 大学情况一览； vt. 编入目录",
     "examples": [
       {
         "en": "Mastering this academic catalogue is essential for future research.",
@@ -477,7 +477,7 @@
     "phonetic": "/kә'rikjulәm/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/curriculum-us.mp3",
     "definition_en": "n an integrated course of academic studies",
-    "definition_zh": "n. 课程\\n 课程, 学程",
+    "definition_zh": "n. 课程； 课程, 学程",
     "examples": [
       {
         "en": "Mastering this academic curriculum is essential for future research.",
@@ -513,7 +513,7 @@
     "phonetic": "/di'gri:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/degree-us.mp3",
     "definition_en": "n. a position on a scale of intensity or amount or quality\\nn. a specific identifiable position in a continuum or series or especially in a process\\nn. a measure for arcs and angles\\nn. the highest power of a term or variable",
-    "definition_zh": "n. 程度, 度数, 学位, 度\\n 度, 程度",
+    "definition_zh": "n. 程度, 度数, 学位, 度； 度, 程度",
     "examples": [
       {
         "en": "Mastering this academic degree is essential for future research.",
@@ -531,7 +531,7 @@
     "phonetic": "/di'gri:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/degree-us.mp3",
     "definition_en": "n. a position on a scale of intensity or amount or quality\\nn. a specific identifiable position in a continuum or series or especially in a process\\nn. a measure for arcs and angles\\nn. the highest power of a term or variable",
-    "definition_zh": "n. 程度, 度数, 学位, 度\\n 度, 程度",
+    "definition_zh": "n. 程度, 度数, 学位, 度； 度, 程度",
     "examples": [
       {
         "en": "Professors encourage students to degree foundational concepts thoroughly.",
@@ -549,7 +549,7 @@
     "phonetic": "/.demәn'streiʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/demonstration-us.mp3",
     "definition_en": "n. a show of military force or preparedness\\nn. a public display of group feelings (usually of a political nature)\\nn. proof by a process of argument or a series of proposition proving an asserted conclusion\\nn. a visual presentation showing how something works",
-    "definition_zh": "n. 示范, 实证\\n 示教, 实物教授",
+    "definition_zh": "n. 示范, 实证； 示教, 实物教授",
     "examples": [
       {
         "en": "Mastering this academic demonstration is essential for future research.",
@@ -585,7 +585,7 @@
     "phonetic": "/di'plәumә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diploma-us.mp3",
     "definition_en": "n. a document certifying the successful completion of a course of study",
-    "definition_zh": "n. 文凭, 毕业证书\\n 文凭",
+    "definition_zh": "n. 文凭, 毕业证书； 文凭",
     "examples": [
       {
         "en": "Mastering this academic diploma is essential for future research.",
@@ -603,7 +603,7 @@
     "phonetic": "/'dɒktә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctor-us.mp3",
     "definition_en": "n. a licensed medical practitioner\\nn. children take the roles of physician or patient or nurse and pretend they are at the physician's office\\nn. a person who holds Ph.D. degree (or the equivalent) from an academic institution\\nv. give medical treatment to",
-    "definition_zh": "n. 医生, 博士\\nvt. 授以博士学位, 诊断, 修改\\nvi. 行医",
+    "definition_zh": "n. 医生, 博士； vt. 授以博士学位, 诊断, 修改； vi. 行医",
     "examples": [
       {
         "en": "Mastering this academic doctor is essential for future research.",
@@ -639,7 +639,7 @@
     "phonetic": "/'drɒpaut/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dropout-us.mp3",
     "definition_en": "n. someone who quits school before graduation\\nn. someone who withdraws from a social group or environment",
-    "definition_zh": "n. 退学学生, 中途退学\\n 离去",
+    "definition_zh": "n. 退学学生, 中途退学； 离去",
     "examples": [
       {
         "en": "Mastering this academic dropout is essential for future research.",
@@ -657,7 +657,7 @@
     "phonetic": "/i'lektiv/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elective-us.mp3",
     "definition_en": "a. subject to popular election\\ns. not compulsory",
-    "definition_zh": "a. 选举的, 根据选举的, 选修的\\nn. 选修课程",
+    "definition_zh": "a. 选举的, 根据选举的, 选修的； n. 选修课程",
     "examples": [
       {
         "en": "Professors encourage students to elective foundational concepts thoroughly.",
@@ -711,7 +711,7 @@
     "phonetic": "/ig.zæmi'neiʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/examination-us.mp3",
     "definition_en": "n. the act of examining something closely (as for mistakes)\\nn. a set of questions or exercises evaluating skill or knowledge\\nn. the act of giving students or candidates a test (as by questions) to determine what they know or have learned",
-    "definition_zh": "n. 考试, 测验, 审查\\n 检查, 诊察",
+    "definition_zh": "n. 考试, 测验, 审查； 检查, 诊察",
     "examples": [
       {
         "en": "Mastering this academic examination is essential for future research.",
@@ -765,7 +765,7 @@
     "phonetic": "/ig.zæmi'ni:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/examinee-us.mp3",
     "definition_en": "n someone who is tested (as by an intelligence test or an academic examination)",
-    "definition_zh": "n. 受试人, 应试者\\n 受审人, 接受讯问者, 接受考试者",
+    "definition_zh": "n. 受试人, 应试者； 受审人, 接受讯问者, 接受考试者",
     "examples": [
       {
         "en": "Mastering this academic examinee is essential for future research.",
@@ -819,7 +819,7 @@
     "phonetic": "/'fækәlti/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/faculty-us.mp3",
     "definition_en": "n. one of the inherent cognitive or perceptual powers of the mind",
-    "definition_zh": "n. 才能, 能力, 全体教员, (大学的)系\\n 能力, 院系",
+    "definition_zh": "n. 才能, 能力, 全体教员, (大学的)系； 能力, 院系",
     "examples": [
       {
         "en": "Mastering this academic faculty is essential for future research.",
@@ -837,7 +837,7 @@
     "phonetic": "/'fainl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/final-us.mp3",
     "definition_en": "n. the final match between the winners of all previous matches in an elimination tournament\\ns. conclusive in a process or progression\\ns. not to be altered or undone",
-    "definition_zh": "n. 期末考试, 结局, 决赛\\na. 最后的, 终极的, 决定性的",
+    "definition_zh": "n. 期末考试, 结局, 决赛； a. 最后的, 终极的, 决定性的",
     "examples": [
       {
         "en": "Professors encourage students to final foundational concepts thoroughly.",
@@ -855,7 +855,7 @@
     "phonetic": "/'fainl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/final-us.mp3",
     "definition_en": "n. the final match between the winners of all previous matches in an elimination tournament\\ns. conclusive in a process or progression\\ns. not to be altered or undone",
-    "definition_zh": "n. 期末考试, 结局, 决赛\\na. 最后的, 终极的, 决定性的",
+    "definition_zh": "n. 期末考试, 结局, 决赛； a. 最后的, 终极的, 决定性的",
     "examples": [
       {
         "en": "Mastering this academic final is essential for future research.",
@@ -873,7 +873,7 @@
     "phonetic": "/flʌŋk/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flunk-us.mp3",
     "definition_en": "n failure to reach a minimum required performance\\nv fail to get a passing grade",
-    "definition_zh": "n. 失败, 不及格\\nvi. 失败, 考试不及格, 放弃\\nvt. 使不及格",
+    "definition_zh": "n. 失败, 不及格； vi. 失败, 考试不及格, 放弃； vt. 使不及格",
     "examples": [
       {
         "en": "Professors encourage students to flunk foundational concepts thoroughly.",
@@ -891,7 +891,7 @@
     "phonetic": "/'frækʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fraction-us.mp3",
     "definition_en": "n. a component of a mixture that has been separated by a fractional process\\nn. a small part or item forming a piece of a whole\\nn. the quotient of two rational numbers",
-    "definition_zh": "n. 小部分, 破片, 分数\\n 部分, 成分, 分散",
+    "definition_zh": "n. 小部分, 破片, 分数； 部分, 成分, 分散",
     "examples": [
       {
         "en": "Mastering this academic fraction is essential for future research.",
@@ -945,7 +945,7 @@
     "phonetic": "/gaun/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gown-us.mp3",
     "definition_en": "n. a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions\\nn. the members of a university as distinguished from the other residents of the town in which the university is located\\nn. protective garment worn by surgeons during operations\\nn. outerwear consisting of a long flowing garment used for official or ceremonial occasions",
-    "definition_zh": "n. 睡衣, 法衣, 大学全体师生\\nvt. 使穿睡衣",
+    "definition_zh": "n. 睡衣, 法衣, 大学全体师生； vt. 使穿睡衣",
     "examples": [
       {
         "en": "Mastering this academic gown is essential for future research.",
@@ -963,7 +963,7 @@
     "phonetic": "/greid/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grade-us.mp3",
     "definition_en": "n. a relative position or degree of value in a graded group\\nn. the gradient of a slope or road or other surface\\nn. a degree of ablaut\\nn. the height of the ground on which something stands",
-    "definition_zh": "n. 等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡\\nvt. 分等, 分级, 评分\\nvi. 属于某等级, 逐渐变化",
+    "definition_zh": "n. 等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡； vt. 分等, 分级, 评分； vi. 属于某等级, 逐渐变化",
     "examples": [
       {
         "en": "Mastering this academic grade is essential for future research.",
@@ -981,7 +981,7 @@
     "phonetic": "/greid/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grade-us.mp3",
     "definition_en": "n. a relative position or degree of value in a graded group\\nn. the gradient of a slope or road or other surface\\nn. a degree of ablaut\\nn. the height of the ground on which something stands",
-    "definition_zh": "n. 等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡\\nvt. 分等, 分级, 评分\\nvi. 属于某等级, 逐渐变化",
+    "definition_zh": "n. 等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡； vt. 分等, 分级, 评分； vi. 属于某等级, 逐渐变化",
     "examples": [
       {
         "en": "Professors encourage students to grade foundational concepts thoroughly.",
@@ -999,7 +999,7 @@
     "phonetic": "/'grædʒueit/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/graduate-us.mp3",
     "definition_en": "n. a measuring instrument for measuring fluid volume; a glass container (cup or cylinder or flask) whose sides are marked with or divided into amounts\\nv. receive an academic degree upon completion of one's studies\\nv. confer an academic degree upon\\ns. of or relating to studies beyond a bachelor's degree",
-    "definition_zh": "n. 毕业生, 量杯\\na. 已得学位的, 研究生的, 毕业的\\nvi. 毕业, 得学位, 逐渐变为\\nvt. 准予...毕业, 授予...学位, 分等级, 刻刻度",
+    "definition_zh": "n. 毕业生, 量杯； a. 已得学位的, 研究生的, 毕业的； vi. 毕业, 得学位, 逐渐变为； vt. 准予...毕业, 授予...学位, 分等级, 刻刻度",
     "examples": [
       {
         "en": "Mastering this academic graduate is essential for future research.",
@@ -1017,7 +1017,7 @@
     "phonetic": "/'grædʒueit/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/graduate-us.mp3",
     "definition_en": "n. a measuring instrument for measuring fluid volume; a glass container (cup or cylinder or flask) whose sides are marked with or divided into amounts\\nv. receive an academic degree upon completion of one's studies\\nv. confer an academic degree upon\\ns. of or relating to studies beyond a bachelor's degree",
-    "definition_zh": "n. 毕业生, 量杯\\na. 已得学位的, 研究生的, 毕业的\\nvi. 毕业, 得学位, 逐渐变为\\nvt. 准予...毕业, 授予...学位, 分等级, 刻刻度",
+    "definition_zh": "n. 毕业生, 量杯； a. 已得学位的, 研究生的, 毕业的； vi. 毕业, 得学位, 逐渐变为； vt. 准予...毕业, 授予...学位, 分等级, 刻刻度",
     "examples": [
       {
         "en": "Professors encourage students to graduate foundational concepts thoroughly.",
@@ -1035,7 +1035,7 @@
     "phonetic": "/.grædʒu'eiʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/graduation-us.mp3",
     "definition_en": "n. the successful completion of a program of study\\nn. a line (as on a vessel or ruler) that marks a measurement",
-    "definition_zh": "n. 毕业, 得学位, 分划, 刻度, 分等级\\n 刻度, 分度, 毕业",
+    "definition_zh": "n. 毕业, 得学位, 分划, 刻度, 分等级； 刻度, 分度, 毕业",
     "examples": [
       {
         "en": "Mastering this academic graduation is essential for future research.",
@@ -1089,7 +1089,7 @@
     "phonetic": "/'hәumwә:k/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/homework-us.mp3",
     "definition_en": "n. preparatory school work done outside school (especially at home)",
-    "definition_zh": "n. 家庭作业, 家里做的工作\\n 家庭作业",
+    "definition_zh": "n. 家庭作业, 家里做的工作； 家庭作业",
     "examples": [
       {
         "en": "Mastering this academic homework is essential for future research.",
@@ -1143,7 +1143,7 @@
     "phonetic": "/'institju:t/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/institute-us.mp3",
     "definition_en": "n. an association organized to promote art or science or education\\nv. advance or set forth in court",
-    "definition_zh": "n. 学会, 学院, 协会\\nvt. 创立, 开始, 制定, 任命",
+    "definition_zh": "n. 学会, 学院, 协会； vt. 创立, 开始, 制定, 任命",
     "examples": [
       {
         "en": "Mastering this academic institute is essential for future research.",
@@ -1161,7 +1161,7 @@
     "phonetic": "/'institju:t/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/institute-us.mp3",
     "definition_en": "n. an association organized to promote art or science or education\\nv. advance or set forth in court",
-    "definition_zh": "n. 学会, 学院, 协会\\nvt. 创立, 开始, 制定, 任命",
+    "definition_zh": "n. 学会, 学院, 协会； vt. 创立, 开始, 制定, 任命",
     "examples": [
       {
         "en": "Professors encourage students to institute foundational concepts thoroughly.",
@@ -1197,7 +1197,7 @@
     "phonetic": "/in'strʌktә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instructor-us.mp3",
     "definition_en": "n a person whose occupation is teaching",
-    "definition_zh": "n. 教员, 讲师\\n 指导者, 教员, 讲师",
+    "definition_zh": "n. 教员, 讲师； 指导者, 教员, 讲师",
     "examples": [
       {
         "en": "Mastering this academic instructor is essential for future research.",
@@ -1251,7 +1251,7 @@
     "phonetic": "/'dʒu:njә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/junior-us.mp3",
     "definition_en": "n. term of address for a disrespectful and annoying male\\nn. a third-year undergraduate\\nn. the younger of two persons\\nn. a son who has the same first name as his father",
-    "definition_zh": "n. 年少者, 地位较低者, 大学三年级学生\\na. 年少的, 下级的, 后进的",
+    "definition_zh": "n. 年少者, 地位较低者, 大学三年级学生； a. 年少的, 下级的, 后进的",
     "examples": [
       {
         "en": "Professors encourage students to junior foundational concepts thoroughly.",
@@ -1269,7 +1269,7 @@
     "phonetic": "/'dʒu:njә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/junior-us.mp3",
     "definition_en": "n. term of address for a disrespectful and annoying male\\nn. a third-year undergraduate\\nn. the younger of two persons\\nn. a son who has the same first name as his father",
-    "definition_zh": "n. 年少者, 地位较低者, 大学三年级学生\\na. 年少的, 下级的, 后进的",
+    "definition_zh": "n. 年少者, 地位较低者, 大学三年级学生； a. 年少的, 下级的, 后进的",
     "examples": [
       {
         "en": "Mastering this academic junior is essential for future research.",
@@ -1305,7 +1305,7 @@
     "phonetic": "/'lә:nid/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learned-us.mp3",
     "definition_en": "v gain knowledge or skills\\nv get to know or become aware of, usually accidentally\\nv commit to memory; learn by heart\\nv be a student of a certain subject\\nv impart skills or knowledge to\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort\\ns having or showing profound knowledge\\ns highly educated; having extensive information or understanding\\na established by conditioning or learning",
-    "definition_zh": "a. 有学问的, 学术上的\\nlearn的过去式和过去分词",
+    "definition_zh": "a. 有学问的, 学术上的； learn的过去式和过去分词",
     "examples": [
       {
         "en": "Professors encourage students to learned foundational concepts thoroughly.",
@@ -1323,7 +1323,7 @@
     "phonetic": "/'lә:nid/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learned-us.mp3",
     "definition_en": "v gain knowledge or skills\\nv get to know or become aware of, usually accidentally\\nv commit to memory; learn by heart\\nv be a student of a certain subject\\nv impart skills or knowledge to\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort\\ns having or showing profound knowledge\\ns highly educated; having extensive information or understanding\\na established by conditioning or learning",
-    "definition_zh": "a. 有学问的, 学术上的\\nlearn的过去式和过去分词",
+    "definition_zh": "a. 有学问的, 学术上的； learn的过去式和过去分词",
     "examples": [
       {
         "en": "Professors encourage students to learned foundational concepts thoroughly.",
@@ -1377,7 +1377,7 @@
     "phonetic": "/'lә:niŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learning-us.mp3",
     "definition_en": "n. the cognitive process of acquiring skill or knowledge",
-    "definition_zh": "n. 学问, 学识, 学习\\n 学习",
+    "definition_zh": "n. 学问, 学识, 学习； 学习",
     "examples": [
       {
         "en": "Mastering this academic learning is essential for future research.",
@@ -1395,7 +1395,7 @@
     "phonetic": "/'lә:niŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learning-us.mp3",
     "definition_en": "n. the cognitive process of acquiring skill or knowledge",
-    "definition_zh": "n. 学问, 学识, 学习\\n 学习",
+    "definition_zh": "n. 学问, 学识, 学习； 学习",
     "examples": [
       {
         "en": "Professors encourage students to learning foundational concepts thoroughly.",
@@ -1431,7 +1431,7 @@
     "phonetic": "/'lektʃәrә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lecturer-us.mp3",
     "definition_en": "n. someone who lectures professionally",
-    "definition_zh": "n. 演讲者, 讲师\\n 讲演人, 讲课人, 讲师",
+    "definition_zh": "n. 演讲者, 讲师； 讲演人, 讲课人, 讲师",
     "examples": [
       {
         "en": "Mastering this academic lecturer is essential for future research.",
@@ -1467,7 +1467,7 @@
     "phonetic": "/lai'brєәriәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/librarian-us.mp3",
     "definition_en": "n. a professional person trained in library science and engaged in library services",
-    "definition_zh": "n. 图书馆员, 图书管理员\\n 程序库管理程序; 程序库生成程序",
+    "definition_zh": "n. 图书馆员, 图书管理员； 程序库管理程序; 程序库生成程序",
     "examples": [
       {
         "en": "Mastering this academic librarian is essential for future research.",
@@ -1521,7 +1521,7 @@
     "phonetic": "/'laibrәri/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/library-us.mp3",
     "definition_en": "n. a room where books are kept\\nn. a collection of literary documents or records kept for reference or borrowing\\nn. a depository built to contain books and other materials for reading and study\\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use",
-    "definition_zh": "n. 图书馆, 藏书, 库\\n 库",
+    "definition_zh": "n. 图书馆, 藏书, 库； 库",
     "examples": [
       {
         "en": "Mastering this academic library is essential for future research.",
@@ -1575,7 +1575,7 @@
     "phonetic": "/'mɑ:stә. 'mæstә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/master-us.mp3",
     "definition_en": "n. directs the work of others\\nn. an original creation (i.e., an audio recording) from which copies can be made\\nn. an officer who is licensed to command a merchant ship\\nn. someone who holds a master's degree from academic institution",
-    "definition_zh": "n. 主人, 硕士, 大师, 母机\\na. 主人的, 主要的\\nvt. 征服, 控制, 精通",
+    "definition_zh": "n. 主人, 硕士, 大师, 母机； a. 主人的, 主要的； vt. 征服, 控制, 精通",
     "examples": [
       {
         "en": "Mastering this academic master is essential for future research.",
@@ -1629,7 +1629,7 @@
     "phonetic": "/'mәutiveit/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motivate-us.mp3",
     "definition_en": "v. give an incentive for action",
-    "definition_zh": "vt. 给与动机, 刺激, 提高...的学习欲望, 促动\\n 促动, 激发, 激励",
+    "definition_zh": "vt. 给与动机, 刺激, 提高...的学习欲望, 促动； 促动, 激发, 激励",
     "examples": [
       {
         "en": "Professors encourage students to motivate foundational concepts thoroughly.",
@@ -1665,7 +1665,7 @@
     "phonetic": "/'nәutifai/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/notify-us.mp3",
     "definition_en": "v inform (somebody) of something",
-    "definition_zh": "vt. 通知, 通告, 报告\\n 通知",
+    "definition_zh": "vt. 通知, 通告, 报告； 通知",
     "examples": [
       {
         "en": "Professors encourage students to notify foundational concepts thoroughly.",
@@ -1719,7 +1719,7 @@
     "phonetic": "/'penʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pension-us.mp3",
     "definition_en": "n. a regular payment to a person that is intended to allow them to subsist without working\\nv. grant a pension to",
-    "definition_zh": "n. 养老金, 退休金, 津贴, 年金, 抚恤金, 膳宿学校, 膳宿费\\nvt. 发给退休金, 用津贴拉拢",
+    "definition_zh": "n. 养老金, 退休金, 津贴, 年金, 抚恤金, 膳宿学校, 膳宿费； vt. 发给退休金, 用津贴拉拢",
     "examples": [
       {
         "en": "Mastering this academic pension is essential for future research.",
@@ -1737,7 +1737,7 @@
     "phonetic": "/pә'sent/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/percent-us.mp3",
     "definition_en": "n a proportion in relation to a whole (which is usually the amount per hundred)",
-    "definition_zh": "n. 百分比, 百分数, 部分\\n 百分率",
+    "definition_zh": "n. 百分比, 百分数, 部分； 百分率",
     "examples": [
       {
         "en": "Mastering this academic percent is essential for future research.",
@@ -1809,7 +1809,7 @@
     "phonetic": "/prәu'si:diŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/proceeding-us.mp3",
     "definition_en": "n. (law) the institution of a sequence of steps by which legal judgments are invoked",
-    "definition_zh": "n. 进行, 程序, 行动, 诉讼程序, 事项\\n 会议论文集",
+    "definition_zh": "n. 进行, 程序, 行动, 诉讼程序, 事项； 会议论文集",
     "examples": [
       {
         "en": "Professors encourage students to proceeding foundational concepts thoroughly.",
@@ -1827,7 +1827,7 @@
     "phonetic": "/prә'fes/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profess-us.mp3",
     "definition_en": "v. practice as a profession, teach, or claim to be knowledgeable about\\nv. confess one's faith in, or allegiance to\\nv. state freely\\nv. receive into a religious order or congregation",
-    "definition_zh": "vt. 声称, 以...为业, 伪称, 讲授\\nvi. 表白, 承认, 当教授",
+    "definition_zh": "vt. 声称, 以...为业, 伪称, 讲授； vi. 表白, 承认, 当教授",
     "examples": [
       {
         "en": "Professors encourage students to profess foundational concepts thoroughly.",
@@ -1917,7 +1917,7 @@
     "phonetic": "/'pju:pl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pupil-us.mp3",
     "definition_en": "n. the contractile aperture in the center of the iris of the eye; resembles a large black dot",
-    "definition_zh": "n. 学生, 门生, 未成年人, 瞳孔\\n 瞳孔",
+    "definition_zh": "n. 学生, 门生, 未成年人, 瞳孔； 瞳孔",
     "examples": [
       {
         "en": "Mastering this academic pupil is essential for future research.",
@@ -1953,7 +1953,7 @@
     "phonetic": "/kwiz/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quiz-us.mp3",
     "definition_en": "n. an examination consisting of a few short questions\\nv. examine someone's knowledge of something",
-    "definition_zh": "n. 考查, 课堂测验, 恶作剧, 智力测验\\nvt. 戏弄, 考查, 恶作剧",
+    "definition_zh": "n. 考查, 课堂测验, 恶作剧, 智力测验； vt. 戏弄, 考查, 恶作剧",
     "examples": [
       {
         "en": "Mastering this academic quiz is essential for future research.",
@@ -1971,7 +1971,7 @@
     "phonetic": "/'ri:dә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reader-us.mp3",
     "definition_en": "n. a person who enjoys reading\\nn. a person who can read; a literate person\\nn. one of a series of texts for students learning to read",
-    "definition_zh": "n. 读者, 读物, 文选, 校对人, 讲师\\n 阅读程序; 阅读器",
+    "definition_zh": "n. 读者, 读物, 文选, 校对人, 讲师； 阅读程序; 阅读器",
     "examples": [
       {
         "en": "Mastering this academic reader is essential for future research.",
@@ -1989,7 +1989,7 @@
     "phonetic": "/ri'pɒ:t/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/report-us.mp3",
     "definition_en": "n. a written document describing the findings of some individual or group\\nn. the act of informing by verbal report\\nn. a short account of the news\\nn. a sharp explosive sound (especially the sound of a gun firing)",
-    "definition_zh": "n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单\\nvt. 报告, 汇报, 转述, 报道, 揭发, 使报到\\nvi. 报告, 写报道, 报到\\n 报告",
+    "definition_zh": "n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单； vt. 报告, 汇报, 转述, 报道, 揭发, 使报到； vi. 报告, 写报道, 报到； 报告",
     "examples": [
       {
         "en": "Mastering this academic report is essential for future research.",
@@ -2007,7 +2007,7 @@
     "phonetic": "/ri'pɒ:t/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/report-us.mp3",
     "definition_en": "n. a written document describing the findings of some individual or group\\nn. the act of informing by verbal report\\nn. a short account of the news\\nn. a sharp explosive sound (especially the sound of a gun firing)",
-    "definition_zh": "n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单\\nvt. 报告, 汇报, 转述, 报道, 揭发, 使报到\\nvi. 报告, 写报道, 报到\\n 报告",
+    "definition_zh": "n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单； vt. 报告, 汇报, 转述, 报道, 揭发, 使报到； vi. 报告, 写报道, 报到； 报告",
     "examples": [
       {
         "en": "Professors encourage students to report foundational concepts thoroughly.",
@@ -2043,7 +2043,7 @@
     "phonetic": "/ri'zʌlt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/result-us.mp3",
     "definition_en": "n. something that results\\nv. issue or terminate (in a specified way, state, etc.); end\\nv. come about or follow as a consequence",
-    "definition_zh": "n. 结果, 成绩, 答案\\nvi. 产生, 结果, 致使\\n 结果",
+    "definition_zh": "n. 结果, 成绩, 答案； vi. 产生, 结果, 致使； 结果",
     "examples": [
       {
         "en": "Mastering this academic result is essential for future research.",
@@ -2061,7 +2061,7 @@
     "phonetic": "/ri'zʌlt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/result-us.mp3",
     "definition_en": "n. something that results\\nv. issue or terminate (in a specified way, state, etc.); end\\nv. come about or follow as a consequence",
-    "definition_zh": "n. 结果, 成绩, 答案\\nvi. 产生, 结果, 致使\\n 结果",
+    "definition_zh": "n. 结果, 成绩, 答案； vi. 产生, 结果, 致使； 结果",
     "examples": [
       {
         "en": "Professors encourage students to result foundational concepts thoroughly.",
@@ -2115,7 +2115,7 @@
     "phonetic": "/ri'tә:n/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/return-us.mp3",
     "definition_en": "n. a coming to or returning home\\nn. the occurrence of a change in direction back in the opposite direction\\nn. the act of going back to a prior location\\nn. the income or profit arising from such transactions as the sale of land or other property",
-    "definition_zh": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书\\na. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的\\nvi. 返回, 归还, 回来\\nvt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回\\n 返回",
+    "definition_zh": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书； a. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的； vi. 返回, 归还, 回来； vt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回； 返回",
     "examples": [
       {
         "en": "Mastering this academic return is essential for future research.",
@@ -2133,7 +2133,7 @@
     "phonetic": "/ri'tә:n/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/return-us.mp3",
     "definition_en": "n. a coming to or returning home\\nn. the occurrence of a change in direction back in the opposite direction\\nn. the act of going back to a prior location\\nn. the income or profit arising from such transactions as the sale of land or other property",
-    "definition_zh": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书\\na. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的\\nvi. 返回, 归还, 回来\\nvt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回\\n 返回",
+    "definition_zh": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书； a. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的； vi. 返回, 归还, 回来； vt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回； 返回",
     "examples": [
       {
         "en": "Professors encourage students to return foundational concepts thoroughly.",
@@ -2151,7 +2151,7 @@
     "phonetic": "/ri'vju:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/review-us.mp3",
     "definition_en": "n. an essay or article that gives a critical evaluation (as of a book or play)\\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\\nn. a periodical that publishes critical essays on current affairs or literature or art\\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
-    "definition_zh": "n. 检讨, 复习, 回顾, 检阅, 评论\\nvt. 温习, 检讨, 评论, 再检察, 复审\\nvi. 复习功课, 写评论",
+    "definition_zh": "n. 检讨, 复习, 回顾, 检阅, 评论； vt. 温习, 检讨, 评论, 再检察, 复审； vi. 复习功课, 写评论",
     "examples": [
       {
         "en": "Mastering this academic review is essential for future research.",
@@ -2169,7 +2169,7 @@
     "phonetic": "/ri'vju:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/review-us.mp3",
     "definition_en": "n. an essay or article that gives a critical evaluation (as of a book or play)\\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\\nn. a periodical that publishes critical essays on current affairs or literature or art\\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
-    "definition_zh": "n. 检讨, 复习, 回顾, 检阅, 评论\\nvt. 温习, 检讨, 评论, 再检察, 复审\\nvi. 复习功课, 写评论",
+    "definition_zh": "n. 检讨, 复习, 回顾, 检阅, 评论； vt. 温习, 检讨, 评论, 再检察, 复审； vi. 复习功课, 写评论",
     "examples": [
       {
         "en": "Professors encourage students to review foundational concepts thoroughly.",
@@ -2277,7 +2277,7 @@
     "phonetic": "/sku:l/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/school-us.mp3",
     "definition_en": "n. an educational institution\\nn. a building where young people receive education\\nn. the process of being formally educated at a school\\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
-    "definition_zh": "n. 学校, 鱼群, 门派, 学派\\nvt. 教育, 训练, 培养\\nvi. 成群地游",
+    "definition_zh": "n. 学校, 鱼群, 门派, 学派； vt. 教育, 训练, 培养； vi. 成群地游",
     "examples": [
       {
         "en": "Mastering this academic school is essential for future research.",
@@ -2295,7 +2295,7 @@
     "phonetic": "/sku:l/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/school-us.mp3",
     "definition_en": "n. an educational institution\\nn. a building where young people receive education\\nn. the process of being formally educated at a school\\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
-    "definition_zh": "n. 学校, 鱼群, 门派, 学派\\nvt. 教育, 训练, 培养\\nvi. 成群地游",
+    "definition_zh": "n. 学校, 鱼群, 门派, 学派； vt. 教育, 训练, 培养； vi. 成群地游",
     "examples": [
       {
         "en": "Professors encourage students to school foundational concepts thoroughly.",
@@ -2403,7 +2403,7 @@
     "phonetic": "/'si:njә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/senior-us.mp3",
     "definition_en": "n. an undergraduate student during the year preceding graduation\\na. older; higher in rank; longer in length of tenure or service\\ns. used of the fourth and final year in United States high school or college",
-    "definition_zh": "n. 年长者, 资深者, 毕业班学生\\na. 年长的, 高级的, 资深的",
+    "definition_zh": "n. 年长者, 资深者, 毕业班学生； a. 年长的, 高级的, 资深的",
     "examples": [
       {
         "en": "Professors encourage students to senior foundational concepts thoroughly.",
@@ -2421,7 +2421,7 @@
     "phonetic": "/'si:njә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/senior-us.mp3",
     "definition_en": "n. an undergraduate student during the year preceding graduation\\na. older; higher in rank; longer in length of tenure or service\\ns. used of the fourth and final year in United States high school or college",
-    "definition_zh": "n. 年长者, 资深者, 毕业班学生\\na. 年长的, 高级的, 资深的",
+    "definition_zh": "n. 年长者, 资深者, 毕业班学生； a. 年长的, 高级的, 资深的",
     "examples": [
       {
         "en": "Mastering this academic senior is essential for future research.",
@@ -2439,7 +2439,7 @@
     "phonetic": "/'sɒfәmɒ:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sophomore-us.mp3",
     "definition_en": "n. a second-year undergraduate\\ns. used of the second year in United States high school or college",
-    "definition_zh": "n. (大学)二年级生\\na. 二年级学生的, 二年级的",
+    "definition_zh": "n. (大学)二年级生； a. 二年级学生的, 二年级的",
     "examples": [
       {
         "en": "Mastering this academic sophomore is essential for future research.",
@@ -2529,7 +2529,7 @@
     "phonetic": "/'stʌdi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/study-us.mp3",
     "definition_en": "n. applying the mind to learning and understanding a subject (especially by reading)\\nn. a state of deep mental absorption\\nn. a room used for reading and writing and studying\\nn. someone who memorizes quickly and easily (as the lines for a part in a play)",
-    "definition_zh": "n. 学习, 研究, 学科, 论文, 求学, 书房, 试作\\nvt. 学习, 读书, 研究, 考虑, 计划\\nvi. 学习, 思索",
+    "definition_zh": "n. 学习, 研究, 学科, 论文, 求学, 书房, 试作； vt. 学习, 读书, 研究, 考虑, 计划； vi. 学习, 思索",
     "examples": [
       {
         "en": "Mastering this academic study is essential for future research.",
@@ -2547,7 +2547,7 @@
     "phonetic": "/'stʌdi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/study-us.mp3",
     "definition_en": "n. applying the mind to learning and understanding a subject (especially by reading)\\nn. a state of deep mental absorption\\nn. a room used for reading and writing and studying\\nn. someone who memorizes quickly and easily (as the lines for a part in a play)",
-    "definition_zh": "n. 学习, 研究, 学科, 论文, 求学, 书房, 试作\\nvt. 学习, 读书, 研究, 考虑, 计划\\nvi. 学习, 思索",
+    "definition_zh": "n. 学习, 研究, 学科, 论文, 求学, 书房, 试作； vt. 学习, 读书, 研究, 考虑, 计划； vi. 学习, 思索",
     "examples": [
       {
         "en": "Professors encourage students to study foundational concepts thoroughly.",
@@ -2565,7 +2565,7 @@
     "phonetic": "/,sju:pәrin'tendәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/superintendent-us.mp3",
     "definition_en": "n. a caretaker for an apartment house; represents the owner as janitor and rent collector",
-    "definition_zh": "n. 监督人, 主管人, 主日学校校长\\n 监督人, 主管人(部门)",
+    "definition_zh": "n. 监督人, 主管人, 主日学校校长； 监督人, 主管人(部门)",
     "examples": [
       {
         "en": "Mastering this academic superintendent is essential for future research.",
@@ -2583,7 +2583,7 @@
     "phonetic": "/tɑ:sk/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/task-us.mp3",
     "definition_en": "v. assign a task to",
-    "definition_zh": "n. 工作, 任务, 作业, 困难的工作\\nvt. 派给...工作, 使辛劳\\n 任务",
+    "definition_zh": "n. 工作, 任务, 作业, 困难的工作； vt. 派给...工作, 使辛劳； 任务",
     "examples": [
       {
         "en": "Mastering this academic task is essential for future research.",
@@ -2601,7 +2601,7 @@
     "phonetic": "/ti:tʃ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teach-us.mp3",
     "definition_en": "n. an English pirate who operated in the Caribbean and off the Atlantic coast of North America (died in 1718)\\nv. impart skills or knowledge to\\nv. accustom gradually to some action or attitude",
-    "definition_zh": "vt. 教, 讲授, 教导, 教育\\nvi. 教书, 教学, 可以教",
+    "definition_zh": "vt. 教, 讲授, 教导, 教育； vi. 教书, 教学, 可以教",
     "examples": [
       {
         "en": "Dedicated educators teach students how to think critically and analytically.",
@@ -2709,7 +2709,7 @@
     "phonetic": "/'ti:mwә:k/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teamwork-us.mp3",
     "definition_en": "n. cooperative work done by a team (especially when it is effective)",
-    "definition_zh": "n. 协同作业, 协力\\n 联合工作, 联合行动, 协调工作",
+    "definition_zh": "n. 协同作业, 协力； 联合工作, 联合行动, 协调工作",
     "examples": [
       {
         "en": "Mastering this academic teamwork is essential for future research.",
@@ -2745,7 +2745,7 @@
     "phonetic": "/test/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/test-us.mp3",
     "definition_en": "n. any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\\nn. the act of undergoing testing\\nn. the act of testing something\\nn. a hard outer covering as of some amoebas and sea urchins",
-    "definition_zh": "n. 测试, 试验, 化验, 检验, 考验, 甲壳\\nvt. 测试, 试验, 化验\\nvi. 接受测验, 进行测试",
+    "definition_zh": "n. 测试, 试验, 化验, 检验, 考验, 甲壳； vt. 测试, 试验, 化验； vi. 接受测验, 进行测试",
     "examples": [
       {
         "en": "Mastering this academic test is essential for future research.",
@@ -2763,7 +2763,7 @@
     "phonetic": "/test/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/test-us.mp3",
     "definition_en": "n. any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\\nn. the act of undergoing testing\\nn. the act of testing something\\nn. a hard outer covering as of some amoebas and sea urchins",
-    "definition_zh": "n. 测试, 试验, 化验, 检验, 考验, 甲壳\\nvt. 测试, 试验, 化验\\nvi. 接受测验, 进行测试",
+    "definition_zh": "n. 测试, 试验, 化验, 检验, 考验, 甲壳； vt. 测试, 试验, 化验； vi. 接受测验, 进行测试",
     "examples": [
       {
         "en": "Professors encourage students to test foundational concepts thoroughly.",
@@ -2835,7 +2835,7 @@
     "phonetic": "/'trænskript/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transcript-us.mp3",
     "definition_en": "n. something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech\\nn. a reproduction of a written record (e.g. of a legal or school record)",
-    "definition_zh": "n. 抄本, 副本, 成绩单\\n 法院文本, 官方记录, 记录的副本",
+    "definition_zh": "n. 抄本, 副本, 成绩单； 法院文本, 官方记录, 记录的副本",
     "examples": [
       {
         "en": "Mastering this academic transcript is essential for future research.",
@@ -2889,7 +2889,7 @@
     "phonetic": "/'tju:tә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tutor-us.mp3",
     "definition_en": "v. be a tutor to someone; give individual instruction\\nv. act as a guardian to someone",
-    "definition_zh": "n. 家庭教师, 导师, 助教, 监护人\\nvt. 当...的教师, 教, 指导, 约束, 克制\\nvi. 当家庭教师, 受家庭教师的指导",
+    "definition_zh": "n. 家庭教师, 导师, 助教, 监护人； vt. 当...的教师, 教, 指导, 约束, 克制； vi. 当家庭教师, 受家庭教师的指导",
     "examples": [
       {
         "en": "Mastering this academic tutor is essential for future research.",
@@ -2907,7 +2907,7 @@
     "phonetic": "/.ʌndә'grædjuit/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/undergraduate-us.mp3",
     "definition_en": "n. a university student who has not yet received a first degree",
-    "definition_zh": "n. 大学本科生, 大学肄业生\\na. 大学生的",
+    "definition_zh": "n. 大学本科生, 大学肄业生； a. 大学生的",
     "examples": [
       {
         "en": "Mastering this academic undergraduate is essential for future research.",
@@ -2925,7 +2925,7 @@
     "phonetic": "/.ʌndә'grædjuit/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/undergraduate-us.mp3",
     "definition_en": "n. a university student who has not yet received a first degree",
-    "definition_zh": "n. 大学本科生, 大学肄业生\\na. 大学生的",
+    "definition_zh": "n. 大学本科生, 大学肄业生； a. 大学生的",
     "examples": [
       {
         "en": "Professors encourage students to undergraduate foundational concepts thoroughly.",

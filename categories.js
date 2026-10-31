@@ -20,6 +20,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "人文学科",
       "icon": "🧠",
       "count": 58,
+      "word_count": 58,
       "level_distribution": {
         "A1": 3,
         "A2": 9,
@@ -47,6 +48,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "人文学科",
       "icon": "🏛️",
       "count": 94,
+      "word_count": 94,
       "level_distribution": {
         "A1": 10,
         "A2": 15,
@@ -74,6 +76,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "人文学科",
       "icon": "📜",
       "count": 38,
+      "word_count": 38,
       "level_distribution": {
         "A1": 0,
         "A2": 5,
@@ -101,6 +104,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "人文学科",
       "icon": "📈",
       "count": 479,
+      "word_count": 479,
       "level_distribution": {
         "A1": 47,
         "A2": 71,
@@ -128,6 +132,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "人文学科",
       "icon": "⚖️",
       "count": 625,
+      "word_count": 625,
       "level_distribution": {
         "A1": 44,
         "A2": 86,
@@ -155,6 +160,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "人类与生理",
       "icon": "🫀",
       "count": 91,
+      "word_count": 91,
       "level_distribution": {
         "A1": 17,
         "A2": 14,
@@ -182,6 +188,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "人类与生理",
       "icon": "🎭",
       "count": 257,
+      "word_count": 257,
       "level_distribution": {
         "A1": 26,
         "A2": 41,
@@ -209,6 +216,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "人类与生理",
       "icon": "🌟",
       "count": 266,
+      "word_count": 266,
       "level_distribution": {
         "A1": 28,
         "A2": 30,
@@ -236,6 +244,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "人类与生理",
       "icon": "👥",
       "count": 175,
+      "word_count": 175,
       "level_distribution": {
         "A1": 59,
         "A2": 26,
@@ -263,6 +272,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "食品与餐饮",
       "icon": "☕",
       "count": 158,
+      "word_count": 158,
       "level_distribution": {
         "A1": 15,
         "A2": 25,
@@ -290,6 +300,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "食品与餐饮",
       "icon": "🍎",
       "count": 33,
+      "word_count": 33,
       "level_distribution": {
         "A1": 11,
         "A2": 6,
@@ -317,6 +328,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "食品与餐饮",
       "icon": "🥦",
       "count": 38,
+      "word_count": 38,
       "level_distribution": {
         "A1": 7,
         "A2": 13,
@@ -344,6 +356,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "食品与餐饮",
       "icon": "🥩",
       "count": 51,
+      "word_count": 51,
       "level_distribution": {
         "A1": 12,
         "A2": 11,
@@ -371,6 +384,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "食品与餐饮",
       "icon": "🍽️",
       "count": 109,
+      "word_count": 109,
       "level_distribution": {
         "A1": 20,
         "A2": 32,
@@ -398,6 +412,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "生活与空间",
       "icon": "🏠",
       "count": 211,
+      "word_count": 211,
       "level_distribution": {
         "A1": 45,
         "A2": 41,
@@ -425,6 +440,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "生活与空间",
       "icon": "👗",
       "count": 110,
+      "word_count": 110,
       "level_distribution": {
         "A1": 27,
         "A2": 26,
@@ -452,6 +468,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "生活与空间",
       "icon": "🔧",
       "count": 193,
+      "word_count": 193,
       "level_distribution": {
         "A1": 32,
         "A2": 41,
@@ -479,6 +496,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "生活与空间",
       "icon": "⏰",
       "count": 50,
+      "word_count": 50,
       "level_distribution": {
         "A1": 12,
         "A2": 7,
@@ -506,6 +524,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "地理与自然",
       "icon": "🗺️",
       "count": 193,
+      "word_count": 193,
       "level_distribution": {
         "A1": 40,
         "A2": 46,
@@ -533,6 +552,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "地理与自然",
       "icon": "🦁",
       "count": 145,
+      "word_count": 145,
       "level_distribution": {
         "A1": 35,
         "A2": 24,
@@ -560,6 +580,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "地理与自然",
       "icon": "🌿",
       "count": 151,
+      "word_count": 151,
       "level_distribution": {
         "A1": 23,
         "A2": 33,
@@ -587,6 +608,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "地理与自然",
       "icon": "📅",
       "count": 223,
+      "word_count": 223,
       "level_distribution": {
         "A1": 85,
         "A2": 33,
@@ -614,6 +636,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "出行与文体",
       "icon": "✈️",
       "count": 147,
+      "word_count": 147,
       "level_distribution": {
         "A1": 33,
         "A2": 36,
@@ -641,6 +664,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "出行与文体",
       "icon": "⚽",
       "count": 133,
+      "word_count": 133,
       "level_distribution": {
         "A1": 32,
         "A2": 34,
@@ -668,6 +692,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "出行与文体",
       "icon": "🎨",
       "count": 222,
+      "word_count": 222,
       "level_distribution": {
         "A1": 43,
         "A2": 35,
@@ -695,6 +720,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "出行与文体",
       "icon": "🎬",
       "count": 150,
+      "word_count": 150,
       "level_distribution": {
         "A1": 32,
         "A2": 34,
@@ -722,6 +748,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "出行与文体",
       "icon": "🏥",
       "count": 695,
+      "word_count": 695,
       "level_distribution": {
         "A1": 54,
         "A2": 92,
@@ -749,6 +776,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "教育与职场",
       "icon": "🎓",
       "count": 166,
+      "word_count": 166,
       "level_distribution": {
         "A1": 35,
         "A2": 32,
@@ -776,6 +804,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "教育与职场",
       "icon": "💼",
       "count": 320,
+      "word_count": 320,
       "level_distribution": {
         "A1": 50,
         "A2": 44,
@@ -803,6 +832,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "科技与数理",
       "icon": "💻",
       "count": 62,
+      "word_count": 62,
       "level_distribution": {
         "A1": 14,
         "A2": 8,
@@ -830,6 +860,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "科技与数理",
       "icon": "🔬",
       "count": 449,
+      "word_count": 449,
       "level_distribution": {
         "A1": 28,
         "A2": 57,
@@ -857,6 +888,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "语言与核心表达",
       "icon": "💬",
       "count": 3505,
+      "word_count": 3505,
       "level_distribution": {
         "A1": 581,
         "A2": 635,
@@ -884,6 +916,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "语言与核心表达",
       "icon": "⚡",
       "count": 2355,
+      "word_count": 2355,
       "level_distribution": {
         "A1": 295,
         "A2": 439,
@@ -911,6 +944,7 @@ window.CATEGORIES_INDEX = {
       "group_name_zh": "语言与核心表达",
       "icon": "✨",
       "count": 2248,
+      "word_count": 2248,
       "level_distribution": {
         "A1": 333,
         "A2": 354,
