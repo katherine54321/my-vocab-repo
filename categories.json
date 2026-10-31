@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "total_words": 14200,
   "total_categories": 22,
   "cdn_base_pattern": "https://cdn.jsdelivr.net/gh/{username}/{repo}@{branch}/data/{category_id}.json",
@@ -12,14 +12,14 @@
       "group_name_zh": "人文学科",
       "icon": "🧠",
       "slice_file": "data/psychology.json",
-      "word_count": 94,
+      "word_count": 48,
       "level_distribution": {
-        "A1": 4,
-        "A2": 14,
-        "B1": 23,
-        "B2": 34,
-        "C1": 16,
-        "C2": 3
+        "A1": 2,
+        "A2": 7,
+        "B1": 10,
+        "B2": 13,
+        "C1": 14,
+        "C2": 2
       }
     },
     {
@@ -30,14 +30,14 @@
       "group_name_zh": "人文学科",
       "icon": "🏛️",
       "slice_file": "data/politics.json",
-      "word_count": 106,
+      "word_count": 58,
       "level_distribution": {
-        "A1": 6,
-        "A2": 13,
-        "B1": 35,
-        "B2": 45,
-        "C1": 5,
-        "C2": 2
+        "A1": 4,
+        "A2": 5,
+        "B1": 18,
+        "B2": 27,
+        "C1": 4,
+        "C2": 0
       }
     },
     {
@@ -48,14 +48,14 @@
       "group_name_zh": "人文学科",
       "icon": "📜",
       "slice_file": "data/philosophy.json",
-      "word_count": 77,
+      "word_count": 17,
       "level_distribution": {
-        "A1": 4,
-        "A2": 6,
-        "B1": 19,
-        "B2": 25,
-        "C1": 6,
-        "C2": 17
+        "A1": 0,
+        "A2": 1,
+        "B1": 4,
+        "B2": 2,
+        "C1": 2,
+        "C2": 8
       }
     },
     {
@@ -66,14 +66,14 @@
       "group_name_zh": "人文学科",
       "icon": "📈",
       "slice_file": "data/economics.json",
-      "word_count": 152,
+      "word_count": 45,
       "level_distribution": {
-        "A1": 8,
-        "A2": 33,
-        "B1": 53,
-        "B2": 48,
-        "C1": 3,
-        "C2": 7
+        "A1": 0,
+        "A2": 2,
+        "B1": 19,
+        "B2": 22,
+        "C1": 0,
+        "C2": 2
       }
     },
     {
@@ -84,14 +84,14 @@
       "group_name_zh": "人文学科",
       "icon": "⚖️",
       "slice_file": "data/law_justice.json",
-      "word_count": 119,
+      "word_count": 47,
       "level_distribution": {
-        "A1": 3,
-        "A2": 18,
-        "B1": 36,
-        "B2": 50,
-        "C1": 7,
-        "C2": 5
+        "A1": 2,
+        "A2": 8,
+        "B1": 17,
+        "B2": 16,
+        "C1": 4,
+        "C2": 0
       }
     },
     {
@@ -102,14 +102,14 @@
       "group_name_zh": "人类与生理",
       "icon": "🫀",
       "slice_file": "data/human_organs.json",
-      "word_count": 224,
+      "word_count": 50,
       "level_distribution": {
-        "A1": 36,
-        "A2": 27,
-        "B1": 79,
-        "B2": 59,
-        "C1": 12,
-        "C2": 11
+        "A1": 12,
+        "A2": 7,
+        "B1": 20,
+        "B2": 10,
+        "C1": 1,
+        "C2": 0
       }
     },
     {
@@ -120,14 +120,14 @@
       "group_name_zh": "人类与生理",
       "icon": "🎭",
       "slice_file": "data/human_emotions.json",
-      "word_count": 133,
+      "word_count": 59,
       "level_distribution": {
-        "A1": 14,
-        "A2": 34,
-        "B1": 43,
-        "B2": 28,
-        "C1": 4,
-        "C2": 10
+        "A1": 3,
+        "A2": 10,
+        "B1": 21,
+        "B2": 16,
+        "C1": 3,
+        "C2": 6
       }
     },
     {
@@ -138,14 +138,14 @@
       "group_name_zh": "人类与生理",
       "icon": "🌟",
       "slice_file": "data/personality_traits.json",
-      "word_count": 95,
+      "word_count": 55,
       "level_distribution": {
-        "A1": 4,
-        "A2": 16,
-        "B1": 31,
-        "B2": 28,
-        "C1": 12,
-        "C2": 4
+        "A1": 5,
+        "A2": 12,
+        "B1": 19,
+        "B2": 13,
+        "C1": 6,
+        "C2": 0
       }
     },
     {
@@ -156,14 +156,14 @@
       "group_name_zh": "人类与生理",
       "icon": "👥",
       "slice_file": "data/interpersonal_relations.json",
-      "word_count": 183,
+      "word_count": 75,
       "level_distribution": {
-        "A1": 51,
-        "A2": 26,
-        "B1": 44,
-        "B2": 46,
-        "C1": 12,
-        "C2": 4
+        "A1": 37,
+        "A2": 11,
+        "B1": 13,
+        "B2": 14,
+        "C1": 0,
+        "C2": 0
       }
     },
     {
@@ -174,14 +174,14 @@
       "group_name_zh": "食品与餐饮",
       "icon": "🍎",
       "slice_file": "data/food_fruits.json",
-      "word_count": 72,
+      "word_count": 25,
       "level_distribution": {
-        "A1": 11,
-        "A2": 21,
-        "B1": 12,
-        "B2": 19,
-        "C1": 5,
-        "C2": 4
+        "A1": 9,
+        "A2": 4,
+        "B1": 3,
+        "B2": 7,
+        "C1": 1,
+        "C2": 1
       }
     },
     {
@@ -192,13 +192,13 @@
       "group_name_zh": "食品与餐饮",
       "icon": "🥦",
       "slice_file": "data/food_vegetables.json",
-      "word_count": 58,
+      "word_count": 24,
       "level_distribution": {
-        "A1": 22,
-        "A2": 13,
-        "B1": 7,
-        "B2": 11,
-        "C1": 5,
+        "A1": 9,
+        "A2": 10,
+        "B1": 3,
+        "B2": 2,
+        "C1": 0,
         "C2": 0
       }
     },
@@ -210,14 +210,14 @@
       "group_name_zh": "食品与餐饮",
       "icon": "🥩",
       "slice_file": "data/food_meat_seafood.json",
-      "word_count": 55,
+      "word_count": 17,
       "level_distribution": {
-        "A1": 8,
-        "A2": 22,
-        "B1": 13,
-        "B2": 7,
-        "C1": 3,
-        "C2": 2
+        "A1": 3,
+        "A2": 5,
+        "B1": 5,
+        "B2": 4,
+        "C1": 0,
+        "C2": 0
       }
     },
     {
@@ -228,14 +228,14 @@
       "group_name_zh": "食品与餐饮",
       "icon": "🍽️",
       "slice_file": "data/food_dining.json",
-      "word_count": 79,
+      "word_count": 59,
       "level_distribution": {
-        "A1": 26,
-        "A2": 16,
-        "B1": 15,
-        "B2": 10,
-        "C1": 5,
-        "C2": 7
+        "A1": 22,
+        "A2": 20,
+        "B1": 10,
+        "B2": 7,
+        "C1": 0,
+        "C2": 0
       }
     },
     {
@@ -246,32 +246,14 @@
       "group_name_zh": "食品与餐饮",
       "icon": "☕",
       "slice_file": "data/food_beverages.json",
-      "word_count": 104,
+      "word_count": 31,
       "level_distribution": {
-        "A1": 16,
-        "A2": 23,
-        "B1": 27,
-        "B2": 22,
-        "C1": 9,
-        "C2": 7
-      }
-    },
-    {
-      "id": "science_tech",
-      "name_en": "Science & Technology",
-      "name_zh": "计算机、AI与前沿科技",
-      "group": "tech_nature",
-      "group_name_zh": "科技与自然",
-      "icon": "💻",
-      "slice_file": "data/science_tech.json",
-      "word_count": 2676,
-      "level_distribution": {
-        "A1": 377,
-        "A2": 482,
-        "B1": 742,
-        "B2": 667,
-        "C1": 200,
-        "C2": 208
+        "A1": 8,
+        "A2": 8,
+        "B1": 6,
+        "B2": 9,
+        "C1": 0,
+        "C2": 0
       }
     },
     {
@@ -282,14 +264,14 @@
       "group_name_zh": "科技与自然",
       "icon": "🏥",
       "slice_file": "data/medicine_healthcare.json",
-      "word_count": 177,
+      "word_count": 63,
       "level_distribution": {
-        "A1": 22,
-        "A2": 27,
-        "B1": 49,
-        "B2": 58,
-        "C1": 14,
-        "C2": 7
+        "A1": 7,
+        "A2": 11,
+        "B1": 26,
+        "B2": 17,
+        "C1": 0,
+        "C2": 2
       }
     },
     {
@@ -300,14 +282,32 @@
       "group_name_zh": "科技与自然",
       "icon": "🌿",
       "slice_file": "data/nature_environment.json",
-      "word_count": 119,
+      "word_count": 68,
       "level_distribution": {
-        "A1": 30,
-        "A2": 25,
-        "B1": 27,
-        "B2": 28,
-        "C1": 7,
-        "C2": 2
+        "A1": 18,
+        "A2": 16,
+        "B1": 19,
+        "B2": 8,
+        "C1": 4,
+        "C2": 3
+      }
+    },
+    {
+      "id": "science_tech",
+      "name_en": "Science & Technology",
+      "name_zh": "计算机、AI与前沿科技",
+      "group": "tech_nature",
+      "group_name_zh": "科技与自然",
+      "icon": "💻",
+      "slice_file": "data/science_tech.json",
+      "word_count": 2816,
+      "level_distribution": {
+        "A1": 382,
+        "A2": 498,
+        "B1": 782,
+        "B2": 729,
+        "C1": 204,
+        "C2": 221
       }
     },
     {
@@ -318,14 +318,14 @@
       "group_name_zh": "生活与社会",
       "icon": "✈️",
       "slice_file": "data/travel_transport.json",
-      "word_count": 136,
+      "word_count": 49,
       "level_distribution": {
-        "A1": 39,
-        "A2": 24,
-        "B1": 23,
-        "B2": 31,
-        "C1": 10,
-        "C2": 9
+        "A1": 22,
+        "A2": 15,
+        "B1": 6,
+        "B2": 6,
+        "C1": 0,
+        "C2": 0
       }
     },
     {
@@ -336,14 +336,14 @@
       "group_name_zh": "生活与社会",
       "icon": "💼",
       "slice_file": "data/work_career.json",
-      "word_count": 2316,
+      "word_count": 2595,
       "level_distribution": {
-        "A1": 334,
-        "A2": 382,
-        "B1": 607,
-        "B2": 610,
-        "C1": 177,
-        "C2": 206
+        "A1": 370,
+        "A2": 417,
+        "B1": 683,
+        "B2": 700,
+        "C1": 210,
+        "C2": 215
       }
     },
     {
@@ -354,14 +354,14 @@
       "group_name_zh": "生活与社会",
       "icon": "🎨",
       "slice_file": "data/arts_literature.json",
-      "word_count": 2449,
+      "word_count": 2729,
       "level_distribution": {
-        "A1": 373,
-        "A2": 426,
-        "B1": 623,
-        "B2": 618,
-        "C1": 190,
-        "C2": 219
+        "A1": 399,
+        "A2": 471,
+        "B1": 693,
+        "B2": 702,
+        "C1": 210,
+        "C2": 254
       }
     },
     {
@@ -372,14 +372,14 @@
       "group_name_zh": "生活与社会",
       "icon": "🎓",
       "slice_file": "data/education_learning.json",
-      "word_count": 2298,
+      "word_count": 2523,
       "level_distribution": {
-        "A1": 314,
-        "A2": 389,
-        "B1": 625,
-        "B2": 630,
-        "C1": 162,
-        "C2": 178
+        "A1": 349,
+        "A2": 435,
+        "B1": 710,
+        "B2": 668,
+        "C1": 171,
+        "C2": 190
       }
     },
     {
@@ -390,14 +390,14 @@
       "group_name_zh": "生活与社会",
       "icon": "🏠",
       "slice_file": "data/daily_lifestyle.json",
-      "word_count": 2478,
+      "word_count": 2747,
       "level_distribution": {
-        "A1": 426,
-        "A2": 398,
-        "B1": 683,
-        "B2": 602,
-        "C1": 181,
-        "C2": 188
+        "A1": 465,
+        "A2": 462,
+        "B1": 729,
+        "B2": 684,
+        "C1": 211,
+        "C2": 196
       }
     }
   ]

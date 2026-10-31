@@ -1,185 +1,30 @@
 [
   {
-    "id": "abandon_verb",
-    "word": "abandon",
+    "id": "judge_verb",
+    "word": "judge",
     "part_of_speech": "verb",
-    "level": "B1",
+    "level": "A1",
     "topic": "法学与司法正义",
-    "phonetic": "/ә'bændәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abandon-us.mp3",
-    "definition_en": "Forsake, leave behind",
-    "definition_zh": "vt. 放弃, 抛弃, 遗弃, 使屈从, 沉溺, 放纵",
+    "phonetic": "/dʒʌdʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/judge-us.mp3",
+    "definition_en": "Determine the result of (a competition)",
+    "definition_zh": "vt. 审理, 鉴定, 判断, 判决, 裁定",
     "examples": [
-      "Officials must abandon institutional guidelines to uphold public integrity."
+      "Officials must judge institutional guidelines to uphold public integrity."
     ]
   },
   {
-    "id": "abandoned_adjective",
-    "word": "abandoned",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/ә'bændәnd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abandoned-us.mp3",
-    "definition_en": "Forsaken by owner or inhabitants",
-    "definition_zh": "a. 被抛弃的, 无约束的, 恣意放荡的",
-    "examples": [
-      "The committee analyzed a highly abandoned perspective during the forum."
-    ]
-  },
-  {
-    "id": "appeal_noun",
-    "word": "appeal",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/ә'pi:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appeal-us.mp3",
-    "definition_en": "Attractiveness that interests or pleases or stimulates",
-    "definition_zh": "n. 恳求, 诉请, 上诉, 吸引力",
-    "examples": [
-      "The new policy addressing appeal was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "appeal_verb",
-    "word": "appeal",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/ә'pi:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appeal-us.mp3",
-    "definition_en": "Take a court case to a higher court for review",
-    "definition_zh": "vi. 呼吁, 诉请, 要求, 上诉, 有吸引力",
-    "examples": [
-      "Officials must appeal institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "ban_noun",
-    "word": "ban",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/bæn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ban-us.mp3",
-    "definition_en": "100 bani equal 1 leu in Moldova",
-    "definition_zh": "n. 禁令",
-    "examples": [
-      "The new policy addressing ban was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "ban_verb",
-    "word": "ban",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/bæn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ban-us.mp3",
-    "definition_en": "Forbid the public distribution of ( a movie or a newspaper)",
-    "definition_zh": "vt. 禁止, 取缔",
-    "examples": [
-      "Officials must ban institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "band_noun",
-    "word": "band",
+    "id": "pardon_noun",
+    "word": "pardon",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "法学与司法正义",
-    "phonetic": "/bænd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/band-us.mp3",
-    "definition_en": "Instrumentalists not including string players",
-    "definition_zh": "n. 带子, 队, 乐队",
+    "phonetic": "/'pɑ:dn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pardon-us.mp3",
+    "definition_en": "A warrant granting release from punishment for an offense",
+    "definition_zh": "n. 原谅, 赦免",
     "examples": [
-      "The new policy addressing band was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "bandage_noun",
-    "word": "bandage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'bændidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bandage-us.mp3",
-    "definition_en": "A piece of soft material that covers and protects an injured part of the body",
-    "definition_zh": "n. 绷带",
-    "examples": [
-      "The new policy addressing bandage was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "bang_noun",
-    "word": "bang",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/bæŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bang-us.mp3",
-    "definition_en": "A sudden very loud noise",
-    "definition_zh": "n. 重击, 突然巨响, 刘海",
-    "examples": [
-      "The new policy addressing bang was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "bang_verb",
-    "word": "bang",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/bæŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bang-us.mp3",
-    "definition_en": "To produce a sharp often metallic explosive or percussive sound",
-    "definition_zh": "v. 发巨响, 重击",
-    "examples": [
-      "Officials must bang institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "broadband_noun",
-    "word": "broadband",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'brɔ:dbænd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/broadband-us.mp3",
-    "definition_en": "Of or relating to or being a communications network in which the bandwidth can be divided and shared by multiple simultaneous signals (as for voice or data or video)",
-    "definition_zh": "[计] 宽带",
-    "examples": [
-      "The new policy addressing broadband was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "clause_noun",
-    "word": "clause",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/klɒ:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clause-us.mp3",
-    "definition_en": "(grammar) an expression including a subject and predicate but not constituting a complete sentence",
-    "definition_zh": "n. 子句, 条款",
-    "examples": [
-      "The new policy addressing clause was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "contract_noun",
-    "word": "contract",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "Work & Business",
-    "phonetic": "/'kɒntrækt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contract-us.mp3",
-    "definition_en": "A binding, legally enforceable covenant between two or more parties.",
-    "definition_zh": "合同，契约",
-    "examples": [
-      "Both corporations signed a multi-year service procurement contract.",
-      "Review every clause of the employment contract thoroughly with a legal adviser."
+      "Understanding pardon provides valuable insights into everyday communication."
     ]
   },
   {
@@ -187,7 +32,7 @@
     "word": "court",
     "part_of_speech": "noun",
     "level": "A2",
-    "topic": "Law & Justice (法学与司法)",
+    "topic": "法学与司法正义",
     "phonetic": "/kɒ:t/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/court-us.mp3",
     "definition_en": "A tribunal presided over by a judge or other judicial officers in civil and criminal cases.",
@@ -195,20 +40,6 @@
     "examples": [
       "The high court will hear arguments concerning patent infringement.",
       "The witness took an oath before testifying in front of the court."
-    ]
-  },
-  {
-    "id": "courtesy_noun",
-    "word": "courtesy",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'kә:tisi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/courtesy-us.mp3",
-    "definition_en": "A courteous or respectful or considerate act",
-    "definition_zh": "n. 礼貌, 谦恭, 好意",
-    "examples": [
-      "The new policy addressing courtesy was debated extensively by the committee."
     ]
   },
   {
@@ -226,17 +57,129 @@
     ]
   },
   {
-    "id": "criminal_adjective",
-    "word": "criminal",
-    "part_of_speech": "adjective",
-    "level": "B2",
+    "id": "crimes_noun",
+    "word": "crimes",
+    "part_of_speech": "noun",
+    "level": "A2",
     "topic": "法学与司法正义",
-    "phonetic": "/'kriminәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/criminal-us.mp3",
-    "definition_en": "Someone who has committed a crime or has been legally convicted of a crime",
-    "definition_zh": "a. 犯了罪的, 刑事的, 有罪的",
+    "phonetic": "/crimes/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crimes-us.mp3",
+    "definition_en": "N (criminal law) an act punishable by law; usually considered an evil act",
+    "definition_zh": "n. 犯罪（crime的复数形式）",
     "examples": [
-      "The committee analyzed a highly criminal perspective during the forum."
+      "The new policy addressing crimes was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "illegal_adjective",
+    "word": "illegal",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "法学与司法正义",
+    "phonetic": "/i'li:gәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illegal-us.mp3",
+    "definition_en": "Prohibited by law or by official or accepted rules",
+    "definition_zh": "a. 违法的, 不合规定的",
+    "examples": [
+      "The committee analyzed a highly illegal perspective during the forum."
+    ]
+  },
+  {
+    "id": "judges_noun",
+    "word": "judges",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'dʒʌdʒiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/judges-us.mp3",
+    "definition_en": "A book of the Old Testament that tells the history of Israel under the leaders known as judges",
+    "definition_zh": "n. 士师记（又译《民长记》, 旧约全书之一卷）",
+    "examples": [
+      "The new policy addressing judges was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "law_noun",
+    "word": "law",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "法学与司法正义",
+    "phonetic": "/lɒ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/law-us.mp3",
+    "definition_en": "The collection of rules imposed by authority",
+    "definition_zh": "n. 法律, 法则, 定律, 法律的制约, 法学, 司法界, 诉讼",
+    "examples": [
+      "The new policy addressing law was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "lawyer_noun",
+    "word": "lawyer",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'lɒ:jә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawyer-us.mp3",
+    "definition_en": "A professional person authorized to practice law; conducts lawsuits or gives legal advice",
+    "definition_zh": "n. 律师",
+    "examples": [
+      "The new policy addressing lawyer was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "lawyers_noun",
+    "word": "lawyers",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "法学与司法正义",
+    "phonetic": "/lawyers/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawyers-us.mp3",
+    "definition_en": "N a professional person authorized to practice law; conducts lawsuits or gives legal advice",
+    "definition_zh": "n. 律师（lawyer的复数）",
+    "examples": [
+      "The new policy addressing lawyers was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "appeal_noun",
+    "word": "appeal",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "法学与司法正义",
+    "phonetic": "/ә'pi:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appeal-us.mp3",
+    "definition_en": "Attractiveness that interests or pleases or stimulates",
+    "definition_zh": "n. 恳求, 诉请, 上诉, 吸引力",
+    "examples": [
+      "The new policy addressing appeal was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "cage_noun",
+    "word": "cage",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "法学与司法正义",
+    "phonetic": "/keidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cage-us.mp3",
+    "definition_en": "An enclosure made or wire or metal bars in which birds or animals can be kept",
+    "definition_zh": "n. 笼, 牢房, 战俘营",
+    "examples": [
+      "Understanding cage provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "cells_noun",
+    "word": "cells",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "法学与司法正义",
+    "phonetic": "/cells/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cells-us.mp3",
+    "definition_en": "N any small compartment",
+    "definition_zh": "n. 细胞；牢房；小屋；单元格（cell的复数）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the cells."
     ]
   },
   {
@@ -251,90 +194,6 @@
     "definition_zh": "n. 罪犯, 犯人, 刑事",
     "examples": [
       "The new policy addressing criminal was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "cybercrime_noun",
-    "word": "cybercrime",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/cybercrime/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cybercrime-us.mp3",
-    "definition_en": "Crime committed using a computer and the internet to steal a person's identity or sell contraband or stalk victims or disrupt operations with malevolent programs",
-    "definition_zh": "n. 网络犯罪",
-    "examples": [
-      "The new policy addressing cybercrime was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "discriminate_verb",
-    "word": "discriminate",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/dis'krimineit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discriminate-us.mp3",
-    "definition_en": "Recognize or perceive the difference",
-    "definition_zh": "v. 区别, 差别待遇",
-    "examples": [
-      "Officials must discriminate institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "discrimination_noun",
-    "word": "discrimination",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/dis.krimi'neiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discrimination-us.mp3",
-    "definition_en": "Unfair treatment of a person or group on the basis of prejudice",
-    "definition_zh": "n. 差别, 岐视, 辨别力",
-    "examples": [
-      "The new policy addressing discrimination was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "disturbance_noun",
-    "word": "disturbance",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/dis'tә:bәns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disturbance-us.mp3",
-    "definition_en": "An unhappy and worried mental state",
-    "definition_zh": "n. 扰乱, 不安, 忧虑",
-    "examples": [
-      "The new policy addressing disturbance was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "flaw_noun",
-    "word": "flaw",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/flɒ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flaw-us.mp3",
-    "definition_en": "Defect or weakness in a person's character",
-    "definition_zh": "n. 缺点, 裂纹, 瑕疵, 一阵狂风",
-    "examples": [
-      "The new policy addressing flaw was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "flawless_adjective",
-    "word": "flawless",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'flɒ:lis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flawless-us.mp3",
-    "definition_en": "Without a flaw",
-    "definition_zh": "a. 无瑕疵的, 无缺点的",
-    "examples": [
-      "The committee analyzed a highly flawless perspective during the forum."
     ]
   },
   {
@@ -366,104 +225,6 @@
     ]
   },
   {
-    "id": "illegal_adjective",
-    "word": "illegal",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/i'li:gәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illegal-us.mp3",
-    "definition_en": "Prohibited by law or by official or accepted rules",
-    "definition_zh": "a. 违法的, 不合规定的",
-    "examples": [
-      "The committee analyzed a highly illegal perspective during the forum."
-    ]
-  },
-  {
-    "id": "illegally_adverb",
-    "word": "illegally",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/illegally/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illegally-us.mp3",
-    "definition_en": "In an illegal manner",
-    "definition_zh": "[法] 非法地, 不合法地, 违法地",
-    "examples": [
-      "Researchers systematically observed illegally relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "imprison_verb",
-    "word": "imprison",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/im'prizn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/imprison-us.mp3",
-    "definition_en": "Lock up or confine, in or as in a jail",
-    "definition_zh": "vt. 使下狱, 关闭, 拘禁, 限制",
-    "examples": [
-      "Officials must imprison institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "imprisonment_noun",
-    "word": "imprisonment",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/im'priznmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/imprisonment-us.mp3",
-    "definition_en": "Putting someone in prison or in jail as lawful punishment",
-    "definition_zh": "n. 监禁, 下狱, 坐牢",
-    "examples": [
-      "The new policy addressing imprisonment was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "industrial_adjective",
-    "word": "industrial",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/in'dʌstriәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/industrial-us.mp3",
-    "definition_en": "Of or relating to or resulting from industry",
-    "definition_zh": "a. 工业的, 供工业用的, 工业高度发展的, 产业的",
-    "examples": [
-      "The committee analyzed a highly industrial perspective during the forum."
-    ]
-  },
-  {
-    "id": "industrialize_verb",
-    "word": "industrialize",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/in'dʌstriәlaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/industrialize-us.mp3",
-    "definition_en": "Organize (the production of something) into an industry",
-    "definition_zh": "vt. 使工业化",
-    "examples": [
-      "Officials must industrialize institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "injury_noun",
-    "word": "injury",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'indʒәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/injury-us.mp3",
-    "definition_en": "Any physical damage to the body caused by violence or accident or fracture etc.",
-    "definition_zh": "n. 伤害, 侮辱",
-    "examples": [
-      "The new policy addressing injury was debated extensively by the committee."
-    ]
-  },
-  {
     "id": "innocent_adjective",
     "word": "innocent",
     "part_of_speech": "adjective",
@@ -475,48 +236,6 @@
     "definition_zh": "a. 无罪的, 不懂事的, 无知的",
     "examples": [
       "The committee analyzed a highly innocent perspective during the forum."
-    ]
-  },
-  {
-    "id": "innocently_adverb",
-    "word": "innocently",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/innocently/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/innocently-us.mp3",
-    "definition_en": "In a not unlawful manner",
-    "definition_zh": "adv. 纯洁地；无罪地",
-    "examples": [
-      "Researchers systematically observed innocently relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "issue_noun",
-    "word": "issue",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'isju/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/issue-us.mp3",
-    "definition_en": "An important question that is in dispute and must be settled",
-    "definition_zh": "n. 发行, 问题, 后果, 流出, 出口, 争端",
-    "examples": [
-      "The new policy addressing issue was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "issue_verb",
-    "word": "issue",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'isju/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/issue-us.mp3",
-    "definition_en": "An important question that is in dispute and must be settled",
-    "definition_zh": "vi. 发行, 流出, 造成...结果, 传下",
-    "examples": [
-      "Officials must issue institutional guidelines to uphold public integrity."
     ]
   },
   {
@@ -548,118 +267,6 @@
     ]
   },
   {
-    "id": "judge_verb",
-    "word": "judge",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "法学与司法正义",
-    "phonetic": "/dʒʌdʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/judge-us.mp3",
-    "definition_en": "Determine the result of (a competition)",
-    "definition_zh": "vt. 审理, 鉴定, 判断, 判决, 裁定",
-    "examples": [
-      "Officials must judge institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "jury_noun",
-    "word": "jury",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'dʒuәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jury-us.mp3",
-    "definition_en": "A body of citizens sworn to give a true verdict according to the evidence presented in a court of law",
-    "definition_zh": "n. 陪审团, 评判委员会",
-    "examples": [
-      "The new policy addressing jury was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "law_noun",
-    "word": "law",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/lɒ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/law-us.mp3",
-    "definition_en": "The collection of rules imposed by authority",
-    "definition_zh": "n. 法律, 法则, 定律, 法律的制约, 法学, 司法界, 诉讼",
-    "examples": [
-      "The new policy addressing law was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "lawful_adjective",
-    "word": "lawful",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'lɒ:ful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawful-us.mp3",
-    "definition_en": "Conformable to or allowed by law",
-    "definition_zh": "a. 法律许可的, 守法的, 合法的",
-    "examples": [
-      "The committee analyzed a highly lawful perspective during the forum."
-    ]
-  },
-  {
-    "id": "lawmaker_noun",
-    "word": "lawmaker",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/lɒ:'meikә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawmaker-us.mp3",
-    "definition_en": "N a maker of laws; someone who gives a code of laws",
-    "definition_zh": "n. 立法者",
-    "examples": [
-      "The new policy addressing lawmaker was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "lawn_noun",
-    "word": "lawn",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/lɒ:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawn-us.mp3",
-    "definition_en": "A field of cultivated and mowed grass",
-    "definition_zh": "n. 草地, 草坪, 上等细麻布",
-    "examples": [
-      "The new policy addressing lawn was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "lawsuit_noun",
-    "word": "lawsuit",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'lɒ:sju:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawsuit-us.mp3",
-    "definition_en": "A comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
-    "definition_zh": "n. 诉讼",
-    "examples": [
-      "The new policy addressing lawsuit was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "lawyer_noun",
-    "word": "lawyer",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'lɒ:jә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawyer-us.mp3",
-    "definition_en": "A professional person authorized to practice law; conducts lawsuits or gives legal advice",
-    "definition_zh": "n. 律师",
-    "examples": [
-      "The new policy addressing lawyer was debated extensively by the committee."
-    ]
-  },
-  {
     "id": "legal_adjective",
     "word": "legal",
     "part_of_speech": "adjective",
@@ -674,87 +281,31 @@
     ]
   },
   {
-    "id": "legally_adverb",
-    "word": "legally",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'li:gәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/legally-us.mp3",
-    "definition_en": "By law; conforming to the law",
-    "definition_zh": "adv. 法律上, 合法地",
-    "examples": [
-      "Researchers systematically observed legally relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "oath_noun",
-    "word": "oath",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/әuθ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oath-us.mp3",
-    "definition_en": "A commitment to tell the truth (especially in a court of law); to lie under oath is to become subject to prosecution for perjury",
-    "definition_zh": "n. 誓约, 誓言, 咒骂",
-    "examples": [
-      "The new policy addressing oath was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "offense_noun",
-    "word": "offense",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/ә'fens/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/offense-us.mp3",
-    "definition_en": "The team that has the ball (or puck) and is trying to score",
-    "definition_zh": "n. 犯罪, 伤感情, 攻击",
-    "examples": [
-      "The new policy addressing offense was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "outlaw_noun",
-    "word": "outlaw",
+    "id": "legal_noun",
+    "word": "legal",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/'autlɒ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/outlaw-us.mp3",
-    "definition_en": "Declare illegal; outlaw",
-    "definition_zh": "n. 被剥夺法律保护的人, 罪犯",
+    "phonetic": "/'li:gәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/legal-us.mp3",
+    "definition_en": "Established by or founded upon law or official or accepted rules",
+    "definition_zh": "a. 法律的, 法定的, 合法的",
     "examples": [
-      "The new policy addressing outlaw was debated extensively by the committee."
+      "The new policy addressing legal was debated extensively by the committee."
     ]
   },
   {
-    "id": "preindustrial_adjective",
-    "word": "preindustrial",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/,pri:in'dʌstriәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/preindustrial-us.mp3",
-    "definition_en": "Denoting preindustrial; widely used in Law & Justice.",
-    "definition_zh": "a. 未工业化的, 工业化前的",
-    "examples": [
-      "The committee analyzed a highly preindustrial perspective during the forum."
-    ]
-  },
-  {
-    "id": "prejudge_verb",
-    "word": "prejudge",
+    "id": "pardon_verb",
+    "word": "pardon",
     "part_of_speech": "verb",
-    "level": "B2",
+    "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/pri:'dʒʌdʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prejudge-us.mp3",
-    "definition_en": "Judge beforehand, especially without sufficient evidence",
-    "definition_zh": "vt. 预先判断, 对...预先作出判决",
+    "phonetic": "/'pɑ:dn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pardon-us.mp3",
+    "definition_en": "Grant a pardon to",
+    "definition_zh": "vt. 宽恕, 原谅",
     "examples": [
-      "Officials must prejudge institutional guidelines to uphold public integrity."
+      "Many professionals pardon key methods to achieve consistent, high-quality results."
     ]
   },
   {
@@ -769,34 +320,6 @@
     "definition_zh": "n. 监狱, 监禁, 拘留所",
     "examples": [
       "The new policy addressing prison was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "prisoner_noun",
-    "word": "prisoner",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'priznә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prisoner-us.mp3",
-    "definition_en": "A person who is confined; especially a prisoner of war",
-    "definition_zh": "n. 囚犯, 犯人, 战俘",
-    "examples": [
-      "The new policy addressing prisoner was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "prosecute_verb",
-    "word": "prosecute",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'prɒsikju:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prosecute-us.mp3",
-    "definition_en": "Conduct a prosecution in a court of law",
-    "definition_zh": "vt. 告发, 起诉, 彻底进行, 执行, 从事",
-    "examples": [
-      "Officials must prosecute institutional guidelines to uphold public integrity."
     ]
   },
   {
@@ -828,101 +351,17 @@
     ]
   },
   {
-    "id": "pursue_verb",
-    "word": "pursue",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/pә'sju:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pursue-us.mp3",
-    "definition_en": "Follow in or as if in pursuit",
-    "definition_zh": "vt. 追赶, 追踪, 追随, 追求, 实行, 继续, 从事",
-    "examples": [
-      "Officials must pursue institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "son-in-law_noun",
-    "word": "son-in-law",
+    "id": "ward_noun",
+    "word": "ward",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/son-in-law/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/son-in-law-us.mp3",
-    "definition_en": "The husband of your daughter",
-    "definition_zh": "n. 女婿",
+    "phonetic": "/wɒ:d/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ward-us.mp3",
+    "definition_en": "A person who is under the protection or in the custody of another",
+    "definition_zh": "n. 病房, 守卫, 保卫, 保护, 监护, 牢房, 行政区, 锁孔内的榫舌",
     "examples": [
-      "The new policy addressing son-in-law was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "sue_verb",
-    "word": "sue",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/su:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sue-us.mp3",
-    "definition_en": "French writer whose novels described the sordid side of city life (1804-1857)",
-    "definition_zh": "vt. 控告, 起诉, 请求",
-    "examples": [
-      "Officials must sue institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "testify_verb",
-    "word": "testify",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'testifai/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/testify-us.mp3",
-    "definition_en": "Give testimony in a court of law",
-    "definition_zh": "v. 证明, 作证, 声明, 表明",
-    "examples": [
-      "Officials must testify institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "trial_noun",
-    "word": "trial",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'traiәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trial-us.mp3",
-    "definition_en": "Trying something to find out about it",
-    "definition_zh": "n. 审判, 试验, 艰苦, 麻烦事, 考验",
-    "examples": [
-      "The new policy addressing trial was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "urban_adjective",
-    "word": "urban",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'ә:bәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/urban-us.mp3",
-    "definition_en": "Relating to or concerned with a city or densely populated area",
-    "definition_zh": "a. 都市的, 住在都市的, 习惯于都市的",
-    "examples": [
-      "The committee analyzed a highly urban perspective during the forum."
-    ]
-  },
-  {
-    "id": "witness_noun",
-    "word": "witness",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'witnis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/witness-us.mp3",
-    "definition_en": "Someone who sees an event and reports what happened",
-    "definition_zh": "n. 证人, 目击者, 证据, 证词",
-    "examples": [
-      "The new policy addressing witness was debated extensively by the committee."
+      "Understanding ward provides valuable insights into everyday communication."
     ]
   },
   {
@@ -940,46 +379,228 @@
     ]
   },
   {
-    "id": "jurisdiction_noun",
-    "word": "jurisdiction",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "Law & Justice (法学与司法)",
-    "phonetic": "/.dʒuәris'dikʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jurisdiction-us.mp3",
-    "definition_en": "The official power to make legal decisions and judgments over an area or persons.",
-    "definition_zh": "司法权，管辖权，审判权",
-    "examples": [
-      "The cross-border financial crime fell outside the provincial police's jurisdiction.",
-      "Federal courts possess jurisdiction over interstate commerce disputes."
-    ]
-  },
-  {
-    "id": "contract_verb",
-    "word": "contract",
+    "id": "appeal_verb",
+    "word": "appeal",
     "part_of_speech": "verb",
-    "level": "C1",
+    "level": "B2",
     "topic": "法学与司法正义",
-    "phonetic": "/'kɒntrækt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contract-us.mp3",
-    "definition_en": "Enter into a contractual arrangement",
-    "definition_zh": "vt. 使皱缩, 使缩短, 感染, 订约, 缔结",
+    "phonetic": "/ә'pi:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appeal-us.mp3",
+    "definition_en": "Take a court case to a higher court for review",
+    "definition_zh": "vi. 呼吁, 诉请, 要求, 上诉, 有吸引力",
     "examples": [
-      "Officials must contract institutional guidelines to uphold public integrity."
+      "Officials must appeal institutional guidelines to uphold public integrity."
     ]
   },
   {
-    "id": "contractor_noun",
-    "word": "contractor",
-    "part_of_speech": "noun",
-    "level": "C1",
+    "id": "criminal_adjective",
+    "word": "criminal",
+    "part_of_speech": "adjective",
+    "level": "B2",
     "topic": "法学与司法正义",
-    "phonetic": "/'kɒntræktә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contractor-us.mp3",
-    "definition_en": "Someone (a person or firm) who contracts to build things",
-    "definition_zh": "n. 立契约的人, 承包商",
+    "phonetic": "/'kriminәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/criminal-us.mp3",
+    "definition_en": "Someone who has committed a crime or has been legally convicted of a crime",
+    "definition_zh": "a. 犯了罪的, 刑事的, 有罪的",
     "examples": [
-      "The new policy addressing contractor was debated extensively by the committee."
+      "The committee analyzed a highly criminal perspective during the forum."
+    ]
+  },
+  {
+    "id": "jurors_noun",
+    "word": "jurors",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/d'ʒʊərəz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jurors-us.mp3",
+    "definition_en": "Someone who serves (or waits to be called to serve) on a jury",
+    "definition_zh": "n. 陪审员, 陪审团成员( juror的复数形式 ); 审查委员",
+    "examples": [
+      "Recent breakthroughs in jurors have accelerated modern technological innovation."
+    ]
+  },
+  {
+    "id": "jury_noun",
+    "word": "jury",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'dʒuәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jury-us.mp3",
+    "definition_en": "A body of citizens sworn to give a true verdict according to the evidence presented in a court of law",
+    "definition_zh": "n. 陪审团, 评判委员会",
+    "examples": [
+      "The new policy addressing jury was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "lawsuit_noun",
+    "word": "lawsuit",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'lɒ:sju:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawsuit-us.mp3",
+    "definition_en": "A comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "definition_zh": "n. 诉讼",
+    "examples": [
+      "The new policy addressing lawsuit was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "oath_noun",
+    "word": "oath",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/әuθ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oath-us.mp3",
+    "definition_en": "A commitment to tell the truth (especially in a court of law); to lie under oath is to become subject to prosecution for perjury",
+    "definition_zh": "n. 誓约, 誓言, 咒骂",
+    "examples": [
+      "The new policy addressing oath was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "offence_noun",
+    "word": "offence",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/ә'fens/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/offence-us.mp3",
+    "definition_en": "N the action of attacking an enemy",
+    "definition_zh": "n. 犯罪, 冒犯, 违反, 罪过, 过错, 攻击",
+    "examples": [
+      "Understanding offence provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "offense_noun",
+    "word": "offense",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/ә'fens/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/offense-us.mp3",
+    "definition_en": "The team that has the ball (or puck) and is trying to score",
+    "definition_zh": "n. 犯罪, 伤感情, 攻击",
+    "examples": [
+      "The new policy addressing offense was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "prosecute_verb",
+    "word": "prosecute",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'prɒsikju:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prosecute-us.mp3",
+    "definition_en": "Conduct a prosecution in a court of law",
+    "definition_zh": "vt. 告发, 起诉, 彻底进行, 执行, 从事",
+    "examples": [
+      "Officials must prosecute institutional guidelines to uphold public integrity."
+    ]
+  },
+  {
+    "id": "prosecuted_verb",
+    "word": "prosecuted",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'prɒsɪkju:tɪd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prosecuted-us.mp3",
+    "definition_en": "Imp. & p. p. of Prosecute",
+    "definition_zh": "v. 检举、告发某人( prosecute的过去式和过去分词 ); 对某人提起公诉; 继续从事（某事物）; 担任控方律师",
+    "examples": [
+      "Officials must prosecuted institutional guidelines to uphold public integrity."
+    ]
+  },
+  {
+    "id": "testify_verb",
+    "word": "testify",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'testifai/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/testify-us.mp3",
+    "definition_en": "Give testimony in a court of law",
+    "definition_zh": "v. 证明, 作证, 声明, 表明",
+    "examples": [
+      "Officials must testify institutional guidelines to uphold public integrity."
+    ]
+  },
+  {
+    "id": "testimony_noun",
+    "word": "testimony",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'testimәni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/testimony-us.mp3",
+    "definition_en": "A solemn statement made under oath",
+    "definition_zh": "n. 证言, 证据, 声明",
+    "examples": [
+      "Understanding testimony provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "trial_noun",
+    "word": "trial",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'traiәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trial-us.mp3",
+    "definition_en": "Trying something to find out about it",
+    "definition_zh": "n. 审判, 试验, 艰苦, 麻烦事, 考验",
+    "examples": [
+      "The new policy addressing trial was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "trials_noun",
+    "word": "trials",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/trials/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trials-us.mp3",
+    "definition_en": "N the act of testing something",
+    "definition_zh": "n. 尝试, 努力；考验；审判；顿顽（trial的复数）",
+    "examples": [
+      "The new policy addressing trials was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "verdict_noun",
+    "word": "verdict",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'vә:dikt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/verdict-us.mp3",
+    "definition_en": "A decision on a disputed issue in a civil or criminal case or an inquest.",
+    "definition_zh": "裁决，判决，定论",
+    "examples": [
+      "The jury deliberated for four hours before returning a unanimous verdict.",
+      "The public eagerly awaited the court's verdict."
+    ]
+  },
+  {
+    "id": "witness_noun",
+    "word": "witness",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'witnis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/witness-us.mp3",
+    "definition_en": "Someone who sees an event and reports what happened",
+    "definition_zh": "n. 证人, 目击者, 证据, 证词",
+    "examples": [
+      "The new policy addressing witness was debated extensively by the committee."
     ]
   },
   {
@@ -1025,648 +646,18 @@
     ]
   },
   {
-    "id": "verdict_noun",
-    "word": "verdict",
+    "id": "jurisdiction_noun",
+    "word": "jurisdiction",
     "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "Law & Justice (法学与司法)",
-    "phonetic": "/'vә:dikt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/verdict-us.mp3",
-    "definition_en": "A decision on a disputed issue in a civil or criminal case or an inquest.",
-    "definition_zh": "裁决，判决，定论",
-    "examples": [
-      "The jury deliberated for four hours before returning a unanimous verdict.",
-      "The public eagerly awaited the court's verdict."
-    ]
-  },
-  {
-    "id": "suburban_adjective",
-    "word": "suburban",
-    "part_of_speech": "adjective",
     "level": "C1",
     "topic": "法学与司法正义",
-    "phonetic": "/sә'bә:bәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/suburban-us.mp3",
-    "definition_en": "Relating to or characteristic of or situated in suburbs",
-    "definition_zh": "a. 郊外的, 郊区的, (贬)偏狭的, 土气的, 见识不广的",
+    "phonetic": "/.dʒuәris'dikʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jurisdiction-us.mp3",
+    "definition_en": "The official power to make legal decisions and judgments over an area or persons.",
+    "definition_zh": "司法权，管辖权，审判权",
     "examples": [
-      "The committee analyzed a highly suburban perspective during the forum."
-    ]
-  },
-  {
-    "id": "contractual_adjective",
-    "word": "contractual",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "法学与司法正义",
-    "phonetic": "/kәn'træktʃuәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contractual-us.mp3",
-    "definition_en": "Relating to or part of a binding legal agreement",
-    "definition_zh": "a. 契约的",
-    "examples": [
-      "The committee analyzed a highly contractual perspective during the forum."
-    ]
-  },
-  {
-    "id": "contractually_adverb",
-    "word": "contractually",
-    "part_of_speech": "adverb",
-    "level": "C2",
-    "topic": "法学与司法正义",
-    "phonetic": "/contractually/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contractually-us.mp3",
-    "definition_en": "By virtue of a contract",
-    "definition_zh": "adv. 合约地；合同性地；契约规定地",
-    "examples": [
-      "Researchers systematically observed contractually relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "reissue_verb",
-    "word": "reissue",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "法学与司法正义",
-    "phonetic": "/.ri:'isju:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reissue-us.mp3",
-    "definition_en": "Issue (a new version of)",
-    "definition_zh": "vt. 再发给, 重新发行",
-    "examples": [
-      "Officials must reissue institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "banish_verb",
-    "word": "banish",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'bæniʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banish-us.mp3",
-    "definition_en": "Expel from a community or group",
-    "definition_zh": "vt. 驱逐, 消除",
-    "examples": [
-      "Officials must banish institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "banishment_noun",
-    "word": "banishment",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'bæniʃmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banishment-us.mp3",
-    "definition_en": "The state of being banished or ostracized (excluded from society by general consent)",
-    "definition_zh": "n. 放逐, 驱逐",
-    "examples": [
-      "The new policy addressing banishment was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "laws_noun",
-    "word": "laws",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/laws/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/laws-us.mp3",
-    "definition_en": "N the first of three divisions of the Hebrew Scriptures comprising the first five books of the Hebrew Bible considered as a unit",
-    "definition_zh": "n. 法律；规章（law的复数）",
-    "examples": [
-      "The new policy addressing laws was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "issues_noun",
-    "word": "issues",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/issues/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/issues-us.mp3",
-    "definition_en": "N an important question that is in dispute and must be settled",
-    "definition_zh": "n. 议题, 问题；争点；债券（issue的复数）",
-    "examples": [
-      "The new policy addressing issues was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "issued_verb",
-    "word": "issued",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/issued/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/issued-us.mp3",
-    "definition_en": "V prepare and issue for public distribution or sale",
-    "definition_zh": "v. 发布, 发行（issue的过去分词形式）",
-    "examples": [
-      "Officials must issued institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "courts_noun",
-    "word": "courts",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/courts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/courts-us.mp3",
-    "definition_en": "N an assembly (including one or more judges) to conduct judicial business",
-    "definition_zh": "n. 法院；场地（court的复数）",
-    "examples": [
-      "The new policy addressing courts was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "contracts_noun",
-    "word": "contracts",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/kənˈtrækts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contracts-us.mp3",
-    "definition_en": "N a binding agreement between two or more persons that is enforceable by law",
-    "definition_zh": "n. 契约( contract的名词复数 ); 婚约; [法律]契约法; 行贿",
-    "examples": [
-      "The new policy addressing contracts was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "industrial_noun",
-    "word": "industrial",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/in'dʌstriәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/industrial-us.mp3",
-    "definition_en": "Of or relating to or resulting from industry",
-    "definition_zh": "n. 工业工人, 工业股票",
-    "examples": [
-      "The new policy addressing industrial was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "judges_noun",
-    "word": "judges",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'dʒʌdʒiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/judges-us.mp3",
-    "definition_en": "A book of the Old Testament that tells the history of Israel under the leaders known as judges",
-    "definition_zh": "n. 士师记（又译《民长记》, 旧约全书之一卷）",
-    "examples": [
-      "The new policy addressing judges was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "abandoned_verb",
-    "word": "abandoned",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/ә'bændәnd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abandoned-us.mp3",
-    "definition_en": "Forsaken by owner or inhabitants",
-    "definition_zh": "a. 被抛弃的, 无约束的, 恣意放荡的",
-    "examples": [
-      "Officials must abandoned institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "trials_noun",
-    "word": "trials",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/trials/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trials-us.mp3",
-    "definition_en": "N the act of testing something",
-    "definition_zh": "n. 尝试, 努力；考验；审判；顿顽（trial的复数）",
-    "examples": [
-      "The new policy addressing trials was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "prisoners_noun",
-    "word": "prisoners",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/ˈprizənəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prisoners-us.mp3",
-    "definition_en": "A person who is confined; especially a prisoner of war",
-    "definition_zh": "n. 囚徒( prisoner的复数形式 ); 俘虏; 被夺去自由的人[动物]等",
-    "examples": [
-      "The new policy addressing prisoners was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "bands_noun",
-    "word": "bands",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'bændz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bands-us.mp3",
-    "definition_en": "N an unofficial association of people or groups",
-    "definition_zh": "n. 法官；乐队",
-    "examples": [
-      "The new policy addressing bands was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "urban_noun",
-    "word": "urban",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'ә:bәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/urban-us.mp3",
-    "definition_en": "Relating to or concerned with a city or densely populated area",
-    "definition_zh": "a. 都市的, 住在都市的, 习惯于都市的",
-    "examples": [
-      "The new policy addressing urban was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "lawyers_noun",
-    "word": "lawyers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/lawyers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawyers-us.mp3",
-    "definition_en": "N a professional person authorized to practice law; conducts lawsuits or gives legal advice",
-    "definition_zh": "n. 律师（lawyer的复数）",
-    "examples": [
-      "The new policy addressing lawyers was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "contractors_noun",
-    "word": "contractors",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/kɒnt'ræktəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contractors-us.mp3",
-    "definition_en": "Someone (a person or firm) who contracts to build things",
-    "definition_zh": "n. （建筑、监造中的）承包人( contractor的复数形式 )",
-    "examples": [
-      "The new policy addressing contractors was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "crimes_noun",
-    "word": "crimes",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/crimes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crimes-us.mp3",
-    "definition_en": "N (criminal law) an act punishable by law; usually considered an evil act",
-    "definition_zh": "n. 犯罪（crime的复数形式）",
-    "examples": [
-      "The new policy addressing crimes was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "legal_noun",
-    "word": "legal",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'li:gәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/legal-us.mp3",
-    "definition_en": "Established by or founded upon law or official or accepted rules",
-    "definition_zh": "a. 法律的, 法定的, 合法的",
-    "examples": [
-      "The new policy addressing legal was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "delaware_noun",
-    "word": "delaware",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'delәweә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delaware-us.mp3",
-    "definition_en": "A river that rises in the Catskills in southeastern New York and flows southward along the border of Pennsylvania with New York and New Jersey to northern Delaware where it empties into Delaware Bay",
-    "definition_zh": "n. 特拉华(美国州名)",
-    "examples": [
-      "The new policy addressing delaware was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "unlawful_adjective",
-    "word": "unlawful",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/.ʌn'lɒ:ful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unlawful-us.mp3",
-    "definition_en": "Contrary to or prohibited by or defiant of law",
-    "definition_zh": "a. 非法的, 不正当的",
-    "examples": [
-      "The committee analyzed a highly unlawful perspective during the forum."
-    ]
-  },
-  {
-    "id": "pursued_verb",
-    "word": "pursued",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/pəˈsju:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pursued-us.mp3",
-    "definition_en": "A person who is being chased",
-    "definition_zh": "v. 继续( pursue的过去式和过去分词 ); 追求; 进行; 追捕",
-    "examples": [
-      "Officials must pursued institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "clauses_noun",
-    "word": "clauses",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/clauses/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clauses-us.mp3",
-    "definition_en": "N (grammar) an expression including a subject and predicate but not constituting a complete sentence",
-    "definition_zh": "n. 子句；条款（clause的复数形式）",
-    "examples": [
-      "The new policy addressing clauses was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "judged_verb",
-    "word": "judged",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/dʒʌdʒd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/judged-us.mp3",
-    "definition_en": "V determine the result of (a competition)",
-    "definition_zh": "判断正确的",
-    "examples": [
-      "Officials must judged institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "contracting_noun",
-    "word": "contracting",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'kɔntræktiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contracting-us.mp3",
-    "definition_en": "N becoming infected",
-    "definition_zh": "[法] 缔约的, 承包的",
-    "examples": [
-      "The new policy addressing contracting was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "disturbances_noun",
-    "word": "disturbances",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/dɪs'tɜ:bənsɪz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disturbances-us.mp3",
-    "definition_en": "Activity that is a malfunction, intrusion, or interruption",
-    "definition_zh": "n. 骚乱( disturbance的复数形式 ); 打扰; 困扰; 障碍",
-    "examples": [
-      "The new policy addressing disturbances was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "contracted_verb",
-    "word": "contracted",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/kәn'træktid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contracted-us.mp3",
-    "definition_en": "Reduced in size or pulled together",
-    "definition_zh": "a. 收缩了的, 已定约的, 契约的",
-    "examples": [
-      "Officials must contracted institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "contraction_noun",
-    "word": "contraction",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/kәn'trækʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contraction-us.mp3",
-    "definition_en": "(physiology) a shortening or tensing of a part or organ (especially of a muscle or muscle fiber)",
-    "definition_zh": "n. 收缩, 缩写式, 害病",
-    "examples": [
-      "The new policy addressing contraction was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "offenses_noun",
-    "word": "offenses",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/əˈfensiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/offenses-us.mp3",
-    "definition_en": "A lack of politeness; a failure to show regard for others; wounding the feelings or others",
-    "definition_zh": "n. 进攻( offense的复数形式 ); （球队的）前锋; 进攻方法; 攻势",
-    "examples": [
-      "The new policy addressing offenses was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "punished_verb",
-    "word": "punished",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/punished/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/punished-us.mp3",
-    "definition_en": "Subjected to a penalty (as pain or shame or restraint or loss) for an offense or fault or in order to coerce some behavior (as a confession or obedience)",
-    "definition_zh": "未受处罚的",
-    "examples": [
-      "Officials must punished institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "contracting_verb",
-    "word": "contracting",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'kɔntræktiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contracting-us.mp3",
-    "definition_en": "N becoming infected",
-    "definition_zh": "[法] 缔约的, 承包的",
-    "examples": [
-      "Officials must contracting institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "abandonment_noun",
-    "word": "abandonment",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/ә'bændәmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abandonment-us.mp3",
-    "definition_en": "The act of giving something up",
-    "definition_zh": "n. 放弃, 抛弃, 放纵",
-    "examples": [
-      "The new policy addressing abandonment was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "judgement_noun",
-    "word": "judgement",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'dʒʌdʒmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/judgement-us.mp3",
-    "definition_en": "N the legal document stating the reasons for a judicial decision",
-    "definition_zh": "n. 审判, 判决, 判断",
-    "examples": [
-      "The new policy addressing judgement was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "sued_verb",
-    "word": "sued",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/sued/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sued-us.mp3",
-    "definition_en": "V institute legal proceedings against; file a suit against",
-    "definition_zh": "v. 要求, 请求（sue过去分词形式）",
-    "examples": [
-      "Officials must sued institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "prisons_noun",
-    "word": "prisons",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/ˈprizənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prisons-us.mp3",
-    "definition_en": "A correctional institution where persons are confined while on trial or for punishment",
-    "definition_zh": "n. 监狱( prison的复数形式 ); 牢笼; 监禁; 入狱",
-    "examples": [
-      "The new policy addressing prisons was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "imprisoned_verb",
-    "word": "imprisoned",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/ɪmˈprɪzənd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/imprisoned-us.mp3",
-    "definition_en": "V lock up or confine, in or as in a jail",
-    "definition_zh": "v. 下狱, 监禁( imprison的过去式和过去分词 )",
-    "examples": [
-      "Officials must imprisoned institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "banner_noun",
-    "word": "banner",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'bænә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banner-us.mp3",
-    "definition_en": "Long strip of cloth or paper used for decoration or advertising",
-    "definition_zh": "n. 旗帜",
-    "examples": [
-      "The new policy addressing banner was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "sue_noun",
-    "word": "sue",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/su:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sue-us.mp3",
-    "definition_en": "French writer whose novels described the sordid side of city life (1804-1857)",
-    "definition_zh": "vt. 控告, 起诉, 请求",
-    "examples": [
-      "The new policy addressing sue was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "industrialization_noun",
-    "word": "industrialization",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/in,dʌstriәlai'zeiʃn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/industrialization-us.mp3",
-    "definition_en": "The development of industry on an extensive scale",
-    "definition_zh": "n. 工业化, 产业化",
-    "examples": [
-      "The new policy addressing industrialization was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "lawfully_adverb",
-    "word": "lawfully",
-    "part_of_speech": "adverb",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/lawfully/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawfully-us.mp3",
-    "definition_en": "R in a manner acceptable to common custom",
-    "definition_zh": "adv. 守法地；合法地",
-    "examples": [
-      "Researchers systematically observed lawfully relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "prosecuted_verb",
-    "word": "prosecuted",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'prɒsɪkju:tɪd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prosecuted-us.mp3",
-    "definition_en": "Imp. & p. p. of Prosecute",
-    "definition_zh": "v. 检举、告发某人( prosecute的过去式和过去分词 ); 对某人提起公诉; 继续从事（某事物）; 担任控方律师",
-    "examples": [
-      "Officials must prosecuted institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "banned_verb",
-    "word": "banned",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/banned/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banned-us.mp3",
-    "definition_en": "Forbidden by law",
-    "definition_zh": "a. 被禁的",
-    "examples": [
-      "Officials must banned institutional guidelines to uphold public integrity."
+      "The cross-border financial crime fell outside the provincial police's jurisdiction.",
+      "Federal courts possess jurisdiction over interstate commerce disputes."
     ]
   }
 ]

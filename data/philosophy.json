@@ -1,216 +1,5 @@
 [
   {
-    "id": "belief_noun",
-    "word": "belief",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/bi'li:f/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/belief-us.mp3",
-    "definition_en": "Any cognitive content held as true",
-    "definition_zh": "n. 信念, 相信, 信仰",
-    "examples": [
-      "Understanding belief provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "biological_adjective",
-    "word": "biological",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.baiәu'lɒdʒikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/biological-us.mp3",
-    "definition_en": "Pertaining to biology or to life and living things",
-    "definition_zh": "a. 生物学的",
-    "examples": [
-      "The committee analyzed a highly biological perspective during the forum."
-    ]
-  },
-  {
-    "id": "chronological_adjective",
-    "word": "chronological",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/, krɔnә'lɔdʒikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chronological-us.mp3",
-    "definition_en": "Relating to or arranged according to temporal order",
-    "definition_zh": "a. 年代学的, 按时间顺序的, 按照年月顺序的",
-    "examples": [
-      "The committee analyzed a highly chronological perspective during the forum."
-    ]
-  },
-  {
-    "id": "concept_noun",
-    "word": "concept",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'kɒnsept/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/concept-us.mp3",
-    "definition_en": "An abstract or general idea inferred or derived from specific instances",
-    "definition_zh": "n. 观念, 概念",
-    "examples": [
-      "Understanding concept provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "conception_noun",
-    "word": "conception",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/kɒn'sepʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conception-us.mp3",
-    "definition_en": "The act of becoming pregnant; fertilization of an ovum by a spermatozoon",
-    "definition_zh": "n. 观念, 概念",
-    "examples": [
-      "Understanding conception provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "doubt_noun",
-    "word": "doubt",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/daut/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doubt-us.mp3",
-    "definition_en": "The state of being unsure of something",
-    "definition_zh": "n. 怀疑, 疑惑",
-    "examples": [
-      "Understanding doubt provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "doubt_verb",
-    "word": "doubt",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/daut/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doubt-us.mp3",
-    "definition_en": "Consider unlikely or have doubts about",
-    "definition_zh": "v. 怀疑, 不信",
-    "examples": [
-      "Many professionals doubt key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "doubtful_adjective",
-    "word": "doubtful",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'dautful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doubtful-us.mp3",
-    "definition_en": "Open to doubt or suspicion",
-    "definition_zh": "a. 可疑的, 疑心的, 不明确的",
-    "examples": [
-      "The committee analyzed a highly doubtful perspective during the forum."
-    ]
-  },
-  {
-    "id": "ecological_adjective",
-    "word": "ecological",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.i:kә'lɒdʒikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecological-us.mp3",
-    "definition_en": "Characterized by the interdependence of living organisms in an environment",
-    "definition_zh": "a. 生态学的, 主张生态保护的",
-    "examples": [
-      "The committee analyzed a highly ecological perspective during the forum."
-    ]
-  },
-  {
-    "id": "ecologically_adverb",
-    "word": "ecologically",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/ecologically/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecologically-us.mp3",
-    "definition_en": "With respect to ecology; economically, it is a disaster\"",
-    "definition_zh": "adv. 从生态学的观点看",
-    "examples": [
-      "Researchers systematically observed ecologically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "ethic_noun",
-    "word": "ethic",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'eθik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ethic-us.mp3",
-    "definition_en": "The principles of right and wrong that are accepted by an individual or a social group",
-    "definition_zh": "n. 道德规范, 伦理",
-    "examples": [
-      "Understanding ethic provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "immoral_adjective",
-    "word": "immoral",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/i'mɒrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/immoral-us.mp3",
-    "definition_en": "Deliberately violating accepted principles of right and wrong",
-    "definition_zh": "a. 不道德的, 邪恶的, 放荡的",
-    "examples": [
-      "The committee analyzed a highly immoral perspective during the forum."
-    ]
-  },
-  {
-    "id": "inspirational_adjective",
-    "word": "inspirational",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.inspә'reiʃәnәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inspirational-us.mp3",
-    "definition_en": "Imparting a divine influence on the mind and soul",
-    "definition_zh": "a. 凭灵感的, 鼓舞人心的, 神感的",
-    "examples": [
-      "The committee analyzed a highly inspirational perspective during the forum."
-    ]
-  },
-  {
-    "id": "irrational_adjective",
-    "word": "irrational",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/i'ræʃәnәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/irrational-us.mp3",
-    "definition_en": "Not consistent with or using reason",
-    "definition_zh": "a. 无理性的, 不合理的",
-    "examples": [
-      "The committee analyzed a highly irrational perspective during the forum."
-    ]
-  },
-  {
-    "id": "logic_noun",
-    "word": "logic",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "Philosophy (哲学)",
-    "phonetic": "/'lɒdʒik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/logic-us.mp3",
-    "definition_en": "Reasoning conducted or assessed according to strict principles of validity.",
-    "definition_zh": "逻辑，逻辑学，条理性",
-    "examples": [
-      "Aristotelian logic laid the groundwork for modern formal syllogisms.",
-      "There was an inescapable flaw in the opponent's core logic."
-    ]
-  },
-  {
     "id": "logical_adjective",
     "word": "logical",
     "part_of_speech": "adjective",
@@ -225,87 +14,18 @@
     ]
   },
   {
-    "id": "misconception_noun",
-    "word": "misconception",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.miskәn'sepʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/misconception-us.mp3",
-    "definition_en": "An incorrect conception",
-    "definition_zh": "n. 误解",
-    "examples": [
-      "Understanding misconception provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "moral_adjective",
-    "word": "moral",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'mɒrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moral-us.mp3",
-    "definition_en": "Concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles",
-    "definition_zh": "a. 道德的, 品性端正的, 精神上的",
-    "examples": [
-      "The committee analyzed a highly moral perspective during the forum."
-    ]
-  },
-  {
-    "id": "moral_noun",
-    "word": "moral",
+    "id": "logic_noun",
+    "word": "logic",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "哲学与伦理思辨",
-    "phonetic": "/'mɒrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moral-us.mp3",
-    "definition_en": "The significance of a story or event",
-    "definition_zh": "n. 道德, 品行, 寓意",
+    "phonetic": "/'lɒdʒik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/logic-us.mp3",
+    "definition_en": "Reasoning conducted or assessed according to strict principles of validity.",
+    "definition_zh": "逻辑，逻辑学，条理性",
     "examples": [
-      "Understanding moral provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "morality_noun",
-    "word": "morality",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "Philosophy (哲学)",
-    "phonetic": "/mә'ræliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/morality-us.mp3",
-    "definition_en": "Principles concerning the distinction between right and wrong or good and bad behavior.",
-    "definition_zh": "道德，道德规范",
-    "examples": [
-      "The book explores whether universal morality exists without divine decree."
-    ]
-  },
-  {
-    "id": "morally_adverb",
-    "word": "morally",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'mɒrәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/morally-us.mp3",
-    "definition_en": "With respect to moral principles",
-    "definition_zh": "adv. 道德上, 德性上, 有道德地",
-    "examples": [
-      "Researchers systematically observed morally relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "paradox_noun",
-    "word": "paradox",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'pærәdɒks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paradox-us.mp3",
-    "definition_en": "(logic) a statement that contradicts itself",
-    "definition_zh": "n. 似非而是的论点, 自相矛盾的话, 悖论, 怪人怪事",
-    "examples": [
-      "Understanding paradox provides valuable insights into everyday communication."
+      "Aristotelian logic laid the groundwork for modern formal syllogisms.",
+      "There was an inescapable flaw in the opponent's core logic."
     ]
   },
   {
@@ -323,17 +43,17 @@
     ]
   },
   {
-    "id": "philosophical_adjective",
-    "word": "philosophical",
-    "part_of_speech": "adjective",
-    "level": "B2",
+    "id": "philosophers_noun",
+    "word": "philosophers",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "哲学与伦理思辨",
-    "phonetic": "/.filә'sɒfikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/philosophical-us.mp3",
-    "definition_en": "Characterized by the attitude of a philosopher; meeting trouble with level-headed detachment",
-    "definition_zh": "a. 哲学的, 冷静的, 达观的, 哲学上的, 哲学家似的",
+    "phonetic": "/fɪ'lɒsəfəz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/philosophers-us.mp3",
+    "definition_en": "A specialist in philosophy",
+    "definition_zh": "n. 哲学家( philosopher的复数形式 ); 豁达的人",
     "examples": [
-      "The committee analyzed a highly philosophical perspective during the forum."
+      "Understanding philosophers provides valuable insights into everyday communication."
     ]
   },
   {
@@ -351,229 +71,31 @@
     ]
   },
   {
-    "id": "principle_noun",
-    "word": "principle",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'prinsipl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/principle-us.mp3",
-    "definition_en": "A basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct",
-    "definition_zh": "n. 原则, 原理, 主义",
-    "examples": [
-      "Understanding principle provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "rational_adjective",
-    "word": "rational",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "Philosophy (哲学)",
-    "phonetic": "/'ræʃәnl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rational-us.mp3",
-    "definition_en": "Based on or in accordance with reason or logic.",
-    "definition_zh": "理性的，合理的，理智的",
-    "examples": [
-      "Descartes championed rational thought as the prime foundation of knowledge.",
-      "Emotions should be balanced by rational inquiry."
-    ]
-  },
-  {
-    "id": "reason_noun",
-    "word": "reason",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "Philosophy (哲学)",
-    "phonetic": "/'ri:zn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reason-us.mp3",
-    "definition_en": "The power of the mind to think, understand, and form judgments by a process of logic.",
-    "definition_zh": "理性，原因，理智",
-    "examples": [
-      "Enlightenment philosophers elevated human reason above superstition."
-    ]
-  },
-  {
-    "id": "reasonable_adjective",
-    "word": "reasonable",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'ri:znәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reasonable-us.mp3",
-    "definition_en": "Showing reason or sound judgment",
-    "definition_zh": "a. 合理的, 明理的, 适当的",
-    "examples": [
-      "The committee analyzed a highly reasonable perspective during the forum."
-    ]
-  },
-  {
-    "id": "reasonably_adverb",
-    "word": "reasonably",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'ri:znәbli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reasonably-us.mp3",
-    "definition_en": "To a moderately sufficient extent or degree",
-    "definition_zh": "adv. 适度地, 相当地",
-    "examples": [
-      "Researchers systematically observed reasonably relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "technological_adjective",
-    "word": "technological",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.teknә'lɒdʒikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/technological-us.mp3",
-    "definition_en": "Based in scientific and industrial progress",
-    "definition_zh": "a. 技术的",
-    "examples": [
-      "The committee analyzed a highly technological perspective during the forum."
-    ]
-  },
-  {
-    "id": "truth_noun",
-    "word": "truth",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "Philosophy (哲学)",
-    "phonetic": "/tru:θ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/truth-us.mp3",
-    "definition_en": "The quality or state of being in accordance with fact or reality.",
-    "definition_zh": "真理，事实，真相",
-    "examples": [
-      "Philosophers have debated the nature of objective truth for millennia.",
-      "Science seeks empirical truth through rigorous observation."
-    ]
-  },
-  {
-    "id": "truthful_adjective",
-    "word": "truthful",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'tru:θful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/truthful-us.mp3",
-    "definition_en": "Expressing or given to expressing the truth",
-    "definition_zh": "a. 说真话的, 诚实的, 真实的, 如实的",
-    "examples": [
-      "The committee analyzed a highly truthful perspective during the forum."
-    ]
-  },
-  {
-    "id": "truthfulness_noun",
-    "word": "truthfulness",
+    "id": "paradox_noun",
+    "word": "paradox",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "哲学与伦理思辨",
-    "phonetic": "/truthfulness/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/truthfulness-us.mp3",
-    "definition_en": "The quality of being truthful",
-    "definition_zh": "n. 真实；正当；坦率",
+    "phonetic": "/'pærәdɒks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paradox-us.mp3",
+    "definition_en": "(logic) a statement that contradicts itself",
+    "definition_zh": "n. 似非而是的论点, 自相矛盾的话, 悖论, 怪人怪事",
     "examples": [
-      "Understanding truthfulness provides valuable insights into everyday communication."
+      "Understanding paradox provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "undoubtedly_adverb",
-    "word": "undoubtedly",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/ʌn'dajtidli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/undoubtedly-us.mp3",
-    "definition_en": "Without doubt; certainly",
-    "definition_zh": "adv. 无疑, 必定, 确实地",
-    "examples": [
-      "Researchers systematically observed undoubtedly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "unreasonable_adjective",
-    "word": "unreasonable",
+    "id": "philosophical_adjective",
+    "word": "philosophical",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "哲学与伦理思辨",
-    "phonetic": "/.ʌn'ri:znәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unreasonable-us.mp3",
-    "definition_en": "Not reasonable; not showing good judgment",
-    "definition_zh": "a. 不合理的, 过度的, 不切实际的",
+    "phonetic": "/.filә'sɒfikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/philosophical-us.mp3",
+    "definition_en": "Characterized by the attitude of a philosopher; meeting trouble with level-headed detachment",
+    "definition_zh": "a. 哲学的, 冷静的, 达观的, 哲学上的, 哲学家似的",
     "examples": [
-      "The committee analyzed a highly unreasonable perspective during the forum."
-    ]
-  },
-  {
-    "id": "virtue_noun",
-    "word": "virtue",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'vә:tju:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/virtue-us.mp3",
-    "definition_en": "The quality of doing what is right and avoiding what is wrong",
-    "definition_zh": "n. 德行, 美德, 优点, 功效, 效力",
-    "examples": [
-      "Understanding virtue provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "wisdom_noun",
-    "word": "wisdom",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'wizdәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wisdom-us.mp3",
-    "definition_en": "Accumulated knowledge or erudition or enlightenment",
-    "definition_zh": "n. 智慧, 明智行为, 学识, 名言, 贤人",
-    "examples": [
-      "Understanding wisdom provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "geological_adjective",
-    "word": "geological",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.dʒiәu'lɒdʒikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/geological-us.mp3",
-    "definition_en": "Of or relating to or based on geology",
-    "definition_zh": "a. 地质学的, 地质的",
-    "examples": [
-      "The committee analyzed a highly geological perspective during the forum."
-    ]
-  },
-  {
-    "id": "geologically_adverb",
-    "word": "geologically",
-    "part_of_speech": "adverb",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/ˌdʒi:ə'lɒdʒɪklɪ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/geologically-us.mp3",
-    "definition_en": "With respect to geology",
-    "definition_zh": "adv. 从地质上来说",
-    "examples": [
-      "Researchers systematically observed geologically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "mythological_adjective",
-    "word": "mythological",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.miθә'lɒdʒikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mythological-us.mp3",
-    "definition_en": "S based on or told of in traditional stories; lacking factual basis or historical validity",
-    "definition_zh": "a. 神话的, 神话学的, 虚构的",
-    "examples": [
-      "The committee analyzed a highly mythological perspective during the forum."
+      "The committee analyzed a highly philosophical perspective during the forum."
     ]
   },
   {
@@ -591,186 +113,17 @@
     ]
   },
   {
-    "id": "ethically_adverb",
-    "word": "ethically",
-    "part_of_speech": "adverb",
-    "level": "C1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/ethically/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ethically-us.mp3",
-    "definition_en": "In an ethical manner; from an ethical point of view; according to ethics",
-    "definition_zh": "adv. 伦理上",
-    "examples": [
-      "Researchers systematically observed ethically relevant patterns across trials."
-    ]
-  },
-  {
     "id": "utilitarian_adjective",
     "word": "utilitarian",
     "part_of_speech": "adjective",
     "level": "C1",
-    "topic": "Philosophy (哲学)",
+    "topic": "哲学与伦理思辨",
     "phonetic": "/.ju:tili'tєәriәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/utilitarian-us.mp3",
     "definition_en": "Designed to be useful or practical rather than attractive; relating to the doctrine that actions are right if they benefit the majority.",
     "definition_zh": "功利主义的，实用的",
     "examples": [
       "Utilitarian ethics judges an action by its net contribution to collective happiness."
-    ]
-  },
-  {
-    "id": "materialism_noun",
-    "word": "materialism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/mә'tiәriәlizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/materialism-us.mp3",
-    "definition_en": "A desire for wealth and material possessions with little interest in ethical or spiritual matters",
-    "definition_zh": "n. 唯物主义",
-    "examples": [
-      "Understanding materialism provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "anthropological_adjective",
-    "word": "anthropological",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.ænθrәpә'lɒdʒikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anthropological-us.mp3",
-    "definition_en": "Of or concerned with the science of anthropology",
-    "definition_zh": "a. 人类学的, 人类学上的",
-    "examples": [
-      "The committee analyzed a highly anthropological perspective during the forum."
-    ]
-  },
-  {
-    "id": "anthropologically_adverb",
-    "word": "anthropologically",
-    "part_of_speech": "adverb",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/ˌænθrəpə'lɒdʒɪklɪ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anthropologically-us.mp3",
-    "definition_en": "Denoting anthropologically; widely used in Philosophy & Ethics.",
-    "definition_zh": "adv. 人类学上",
-    "examples": [
-      "Researchers systematically observed anthropologically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "physiological_adjective",
-    "word": "physiological",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.fiziә'lɒdʒikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/physiological-us.mp3",
-    "definition_en": "Of or relating to the biological study of physiology",
-    "definition_zh": "a. 生理学的, 生理学上的, 生理机能的",
-    "examples": [
-      "The committee analyzed a highly physiological perspective during the forum."
-    ]
-  },
-  {
-    "id": "physiologically_adverb",
-    "word": "physiologically",
-    "part_of_speech": "adverb",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/physiologically/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/physiologically-us.mp3",
-    "definition_en": "Of or relating to physiological processes; with respect to physiology",
-    "definition_zh": "adv. 生理学方面",
-    "examples": [
-      "Researchers systematically observed physiologically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "methodological_adjective",
-    "word": "methodological",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.meθәdә'lɒdʒikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/methodological-us.mp3",
-    "definition_en": "Relating to the methodology of some discipline",
-    "definition_zh": "a. 方法的",
-    "examples": [
-      "The committee analyzed a highly methodological perspective during the forum."
-    ]
-  },
-  {
-    "id": "methodologically_adverb",
-    "word": "methodologically",
-    "part_of_speech": "adverb",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/methodologically/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/methodologically-us.mp3",
-    "definition_en": "In a methodical manner",
-    "definition_zh": "adv. 方法学(methodological的变形)",
-    "examples": [
-      "Researchers systematically observed methodologically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "chronologically_adverb",
-    "word": "chronologically",
-    "part_of_speech": "adverb",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/ˌkrɒnə'lɒdʒɪklɪ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chronologically-us.mp3",
-    "definition_en": "With respect to chronology",
-    "definition_zh": "adv. 按时间的前后顺序排列地",
-    "examples": [
-      "Researchers systematically observed chronologically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "meteorological_adjective",
-    "word": "meteorological",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/meteorological/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meteorological-us.mp3",
-    "definition_en": "A of or pertaining to atmospheric phenomena, especially weather and weather conditions",
-    "definition_zh": "a. 气象的, 气象学的",
-    "examples": [
-      "The committee analyzed a highly meteorological perspective during the forum."
-    ]
-  },
-  {
-    "id": "solipsism_noun",
-    "word": "solipsism",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "Philosophy (哲学)",
-    "phonetic": "/'sɒlipsizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/solipsism-us.mp3",
-    "definition_en": "The philosophical idea that only one's own mind is sure to exist.",
-    "definition_zh": "唯我论",
-    "examples": [
-      "Epistemological skepticism taken to its absolute extreme arrives at solipsism.",
-      "He dismissed solipsism as an unlivable intellectual novelty."
-    ]
-  },
-  {
-    "id": "fallacy_noun",
-    "word": "fallacy",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'fælәsi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fallacy-us.mp3",
-    "definition_en": "A misconception resulting from incorrect reasoning",
-    "definition_zh": "n. 错误的观念(或信念), 谬见, 谬论",
-    "examples": [
-      "Understanding fallacy provides valuable insights into everyday communication."
     ]
   },
   {
@@ -802,17 +155,59 @@
     ]
   },
   {
-    "id": "preconception_noun",
-    "word": "preconception",
+    "id": "fallacy_noun",
+    "word": "fallacy",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "哲学与伦理思辨",
-    "phonetic": "/.pri:kәn'sepʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/preconception-us.mp3",
-    "definition_en": "An opinion formed beforehand without adequate evidence",
-    "definition_zh": "n. 事先钩成的看法, 成见",
+    "phonetic": "/'fælәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fallacy-us.mp3",
+    "definition_en": "A misconception resulting from incorrect reasoning",
+    "definition_zh": "n. 错误的观念(或信念), 谬见, 谬论",
     "examples": [
-      "Understanding preconception provides valuable insights into everyday communication."
+      "Understanding fallacy provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "materialism_noun",
+    "word": "materialism",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "哲学与伦理思辨",
+    "phonetic": "/mә'tiәriәlizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/materialism-us.mp3",
+    "definition_en": "A desire for wealth and material possessions with little interest in ethical or spiritual matters",
+    "definition_zh": "n. 唯物主义",
+    "examples": [
+      "Understanding materialism provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "materialistic_adjective",
+    "word": "materialistic",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "哲学与伦理思辨",
+    "phonetic": "/mә.tiәriә'listik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/materialistic-us.mp3",
+    "definition_en": "Marked by materialism",
+    "definition_zh": "a. 唯物论的, 唯物主义的",
+    "examples": [
+      "The committee analyzed a highly materialistic perspective during the forum."
+    ]
+  },
+  {
+    "id": "metaphysics_noun",
+    "word": "metaphysics",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "哲学与伦理思辨",
+    "phonetic": "/.metә'fiziks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/metaphysics-us.mp3",
+    "definition_en": "The philosophical study of being and knowing",
+    "definition_zh": "n. 形而上学, 玄学, 空头理论",
+    "examples": [
+      "Understanding metaphysics provides valuable insights into everyday communication."
     ]
   },
   {
@@ -830,255 +225,18 @@
     ]
   },
   {
-    "id": "paradoxically_adverb",
-    "word": "paradoxically",
-    "part_of_speech": "adverb",
-    "level": "C2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/paradoxically/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paradoxically-us.mp3",
-    "definition_en": "In a paradoxical manner",
-    "definition_zh": "adv. 反论, 荒谬, 自相矛盾, 似非而可能是",
-    "examples": [
-      "Researchers systematically observed paradoxically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "reasons_noun",
-    "word": "reasons",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/reasons/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reasons-us.mp3",
-    "definition_en": "N a rational motive for a belief or action",
-    "definition_zh": "n. 理由；理智；原因（reason的复数）",
-    "examples": [
-      "Understanding reasons provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "principles_noun",
-    "word": "principles",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/principles/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/principles-us.mp3",
-    "definition_en": "N a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct",
-    "definition_zh": "n. 原则, 原理, 道义, 节操",
-    "examples": [
-      "Understanding principles provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "concepts_noun",
-    "word": "concepts",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/concepts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/concepts-us.mp3",
-    "definition_en": "N an abstract or general idea inferred or derived from specific instances",
-    "definition_zh": "n. 概念, 观念；思想（concept复数形式）",
-    "examples": [
-      "Understanding concepts provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "beliefs_noun",
-    "word": "beliefs",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/beliefs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beliefs-us.mp3",
-    "definition_en": "N any cognitive content held as true",
-    "definition_zh": "n. 信仰；信?（belief的复数）",
-    "examples": [
-      "Understanding beliefs provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "reasoning_noun",
-    "word": "reasoning",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'ri:zniŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reasoning-us.mp3",
-    "definition_en": "Thinking that is coherent and logical",
-    "definition_zh": "n. 推论, 推理, 论证",
-    "examples": [
-      "Understanding reasoning provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "biological_noun",
-    "word": "biological",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.baiәu'lɒdʒikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/biological-us.mp3",
-    "definition_en": "Pertaining to biology or to life and living things",
-    "definition_zh": "a. 生物学的",
-    "examples": [
-      "Understanding biological provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "doubts_noun",
-    "word": "doubts",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/dauts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doubts-us.mp3",
-    "definition_en": "N the state of being unsure of something",
-    "definition_zh": "n. 怀疑, 疑虑( doubt的名词复数 ); 未确定",
-    "examples": [
-      "Understanding doubts provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "virtues_noun",
-    "word": "virtues",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'vɜ:tʃu:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/virtues-us.mp3",
-    "definition_en": "The quality of doing what is right and avoiding what is wrong",
-    "definition_zh": "n. 美德( virtue的复数形式 ); 德行; 优点; 长处",
-    "examples": [
-      "Understanding virtues provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "philosophers_noun",
-    "word": "philosophers",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/fɪ'lɒsəfəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/philosophers-us.mp3",
-    "definition_en": "A specialist in philosophy",
-    "definition_zh": "n. 哲学家( philosopher的复数形式 ); 豁达的人",
-    "examples": [
-      "Understanding philosophers provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "rationale_noun",
-    "word": "rationale",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.ræʃә'nɑ:li/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rationale-us.mp3",
-    "definition_en": "(law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature)",
-    "definition_zh": "n. 基本原理",
-    "examples": [
-      "Understanding rationale provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "truths_noun",
-    "word": "truths",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/truths/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/truths-us.mp3",
-    "definition_en": "N a fact that has been verified",
-    "definition_zh": "真理, 真实, 实际情况, 真相, 真实性, 忠实性",
-    "examples": [
-      "Understanding truths provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "conceptions_noun",
-    "word": "conceptions",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/kən'sepʃnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conceptions-us.mp3",
-    "definition_en": "An abstract or general idea inferred or derived from specific instances",
-    "definition_zh": "n. 思想( conception的复数形式 ); 观念; 构想; 怀孕",
-    "examples": [
-      "Understanding conceptions provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "logically_adverb",
-    "word": "logically",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'lɔdʒikәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/logically-us.mp3",
-    "definition_en": "According to logical reasoning",
-    "definition_zh": "adv. 逻辑, 合乎逻辑, 符合逻辑, 逻辑上, 有逻辑, 有逻辑头脑, 合理, 明智",
-    "examples": [
-      "Researchers systematically observed logically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "doubted_verb",
-    "word": "doubted",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/dautid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doubted-us.mp3",
-    "definition_en": "V consider unlikely or have doubts about",
-    "definition_zh": "v. 怀疑, 疑惑( doubt的过去式和过去分词 )",
-    "examples": [
-      "Many professionals doubted key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "rationality_noun",
-    "word": "rationality",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/.ræʃә'næliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rationality-us.mp3",
-    "definition_en": "The state of having good sense and sound judgment",
-    "definition_zh": "n. 合理性, 纯理性",
-    "examples": [
-      "Understanding rationality provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "reasoned_verb",
-    "word": "reasoned",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "哲学与伦理思辨",
-    "phonetic": "/'ri:z(ә)nd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reasoned-us.mp3",
-    "definition_en": "Logically valid",
-    "definition_zh": "a. 思路清晰的, 言之有据的",
-    "examples": [
-      "Many professionals reasoned key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "metaphysics_noun",
-    "word": "metaphysics",
+    "id": "solipsism_noun",
+    "word": "solipsism",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "哲学与伦理思辨",
-    "phonetic": "/.metә'fiziks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/metaphysics-us.mp3",
-    "definition_en": "The philosophical study of being and knowing",
-    "definition_zh": "n. 形而上学, 玄学, 空头理论",
+    "phonetic": "/'sɒlipsizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/solipsism-us.mp3",
+    "definition_en": "The philosophical idea that only one's own mind is sure to exist.",
+    "definition_zh": "唯我论",
     "examples": [
-      "Understanding metaphysics provides valuable insights into everyday communication."
+      "Epistemological skepticism taken to its absolute extreme arrives at solipsism.",
+      "He dismissed solipsism as an unlivable intellectual novelty."
     ]
   }
 ]

@@ -1,100 +1,269 @@
 [
   {
-    "id": "antibacterial_adjective",
-    "word": "antibacterial",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/.æntibæk'tiәriәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antibacterial-us.mp3",
-    "definition_en": "Destroying bacteria or inhibiting their growth",
-    "definition_zh": "a. 抗菌的",
-    "examples": [
-      "The committee analyzed a highly antibacterial perspective during the forum."
-    ]
-  },
-  {
-    "id": "antivirus_noun",
-    "word": "antivirus",
+    "id": "doctor_noun",
+    "word": "doctor",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/antivirus/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antivirus-us.mp3",
-    "definition_en": "Denoting antivirus; widely used in Medicine & Health.",
-    "definition_zh": "n. 抗病毒素",
+    "phonetic": "/'dɒktә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctor-us.mp3",
+    "definition_en": "A licensed medical practitioner",
+    "definition_zh": "n. 医生, 博士",
     "examples": [
-      "Maintaining proper health supports the optimal function of the antivirus."
+      "Maintaining proper health supports the optimal function of the doctor."
     ]
   },
   {
-    "id": "bill_noun",
-    "word": "bill",
+    "id": "doctors_noun",
+    "word": "doctors",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/doctors/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctors-us.mp3",
+    "definition_en": "N a licensed medical practitioner",
+    "definition_zh": "n. 医生（doctor的复数）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the doctors."
+    ]
+  },
+  {
+    "id": "fever_noun",
+    "word": "fever",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'fi:vә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fever-us.mp3",
+    "definition_en": "A rise in the temperature of the body; frequently a symptom of infection",
+    "definition_zh": "n. 发烧, 发热, 热病",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the fever."
+    ]
+  },
+  {
+    "id": "hospital_noun",
+    "word": "hospital",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'hɒspitәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospital-us.mp3",
+    "definition_en": "A health facility where patients receive treatment",
+    "definition_zh": "n. 医院",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the hospital."
+    ]
+  },
+  {
+    "id": "hospitals_noun",
+    "word": "hospitals",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'hɒspɪtlz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospitals-us.mp3",
+    "definition_en": "A health facility where patients receive treatment",
+    "definition_zh": "n. 医院( hospital的复数形式 )",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the hospitals."
+    ]
+  },
+  {
+    "id": "medicines_noun",
+    "word": "medicines",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'medsnz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medicines-us.mp3",
+    "definition_en": "The branches of medical science that deal with nonsurgical techniques",
+    "definition_zh": "n. 药( medicine的复数形式 ); 内服药; 医术; 医学",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the medicines."
+    ]
+  },
+  {
+    "id": "nurse_noun",
+    "word": "nurse",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/nә:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nurse-us.mp3",
+    "definition_en": "One skilled in caring for young children or the sick (usually under the supervision of a physician)",
+    "definition_zh": "n. 护士, 保姆, 奶妈",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the nurse."
+    ]
+  },
+  {
+    "id": "drug_noun",
+    "word": "drug",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/bil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bill-us.mp3",
-    "definition_en": "A statute in draft before it becomes law",
-    "definition_zh": "n. 帐单, 清单, 钞票, 鸟嘴, 广告, 法案, 票据",
+    "phonetic": "/drʌg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drug-us.mp3",
+    "definition_en": "A substance that is used as a medicine or narcotic",
+    "definition_zh": "n. 药, 麻药, 麻醉药",
     "examples": [
-      "Maintaining proper health supports the optimal function of the bill."
+      "Maintaining proper health supports the optimal function of the drug."
     ]
   },
   {
-    "id": "bill_verb",
-    "word": "bill",
+    "id": "drugs_noun",
+    "word": "drugs",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/drugs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drugs-us.mp3",
+    "definition_en": "N a substance that is used as a medicine or narcotic",
+    "definition_zh": "n. 毒品, 药物",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the drugs."
+    ]
+  },
+  {
+    "id": "medical_adjective",
+    "word": "medical",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'medikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medical-us.mp3",
+    "definition_en": "Relating to the study or practice of medicine",
+    "definition_zh": "a. 医学的, 内科的, 药的",
+    "examples": [
+      "The committee analyzed a highly medical perspective during the forum."
+    ]
+  },
+  {
+    "id": "medical_noun",
+    "word": "medical",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'medikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medical-us.mp3",
+    "definition_en": "Relating to the study or practice of medicine",
+    "definition_zh": "n. 医生, 体格检查",
+    "examples": [
+      "Understanding medical provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "medicine_noun",
+    "word": "medicine",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'medisin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medicine-us.mp3",
+    "definition_en": "Any pharmacological compound, drug, or clinical treatment formulated to alleviate disease.",
+    "definition_zh": "药物，医学",
+    "examples": [
+      "Take two tablets of this prescribed medicine after meals.",
+      "Breakthroughs in genomic medicine have transformed targeted cancer therapy."
+    ]
+  },
+  {
+    "id": "nurses_noun",
+    "word": "nurses",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/nurses/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nurses-us.mp3",
+    "definition_en": "N one skilled in caring for young children or the sick (usually under the supervision of a physician)",
+    "definition_zh": "n. 护士；褓姆, 看护（nurse的复数）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the nurses."
+    ]
+  },
+  {
+    "id": "operating_noun",
+    "word": "operating",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'ɔpәreitiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/operating-us.mp3",
+    "definition_en": "Involved in a kind of operation",
+    "definition_zh": "a. 操作的, 工作的, 营业上的, 业务的, 关于收支的, 关于损益的, 外科手术的",
+    "examples": [
+      "Understanding operating provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "operating_verb",
+    "word": "operating",
     "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'ɔpәreitiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/operating-us.mp3",
+    "definition_en": "Involved in a kind of operation",
+    "definition_zh": "a. 操作的, 工作的, 营业上的, 业务的, 关于收支的, 关于损益的, 外科手术的",
+    "examples": [
+      "Many professionals operating key methods to achieve consistent, high-quality results."
+    ]
+  },
+  {
+    "id": "patient_noun",
+    "word": "patient",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'peiʃәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/patient-us.mp3",
+    "definition_en": "A person who requires medical care",
+    "definition_zh": "n. 病人, 承受者",
+    "examples": [
+      "Understanding patient provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "pill_noun",
+    "word": "pill",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/pil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pill-us.mp3",
+    "definition_en": "Something that resembles a tablet of medicine in shape or size",
+    "definition_zh": "n. 药丸, 弹丸, 屈辱, 胡说",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the pill."
+    ]
+  },
+  {
+    "id": "stomachache_noun",
+    "word": "stomachache",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'stʌmәkeik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stomachache-us.mp3",
+    "definition_en": "An ache localized in the stomach or abdominal region",
+    "definition_zh": "n. 胃痛, 肚子痛",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the stomachache."
+    ]
+  },
+  {
+    "id": "bandage_noun",
+    "word": "bandage",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/bil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bill-us.mp3",
-    "definition_en": "A statute in draft before it becomes law",
-    "definition_zh": "vt. 开帐单, (用招贴)宣布",
+    "phonetic": "/'bændidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bandage-us.mp3",
+    "definition_en": "A piece of soft material that covers and protects an injured part of the body",
+    "definition_zh": "n. 绷带",
     "examples": [
-      "Doctors advise patients to bill regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "billion_noun",
-    "word": "billion",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'biljәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/billion-us.mp3",
-    "definition_en": "The number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen",
-    "definition_zh": "num. 十亿, 十亿个",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the billion."
-    ]
-  },
-  {
-    "id": "brilliant_adjective",
-    "word": "brilliant",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'briljәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brilliant-us.mp3",
-    "definition_en": "Of surpassing excellence",
-    "definition_zh": "a. 光辉的, 灿烂的, 有才气的",
-    "examples": [
-      "The committee analyzed a highly brilliant perspective during the forum."
-    ]
-  },
-  {
-    "id": "brilliantly_adverb",
-    "word": "brilliantly",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'brijәntli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brilliantly-us.mp3",
-    "definition_en": "With brightness",
-    "definition_zh": "adv. 辉煌地, 光亮地, 灿烂地",
-    "examples": [
-      "Researchers systematically observed brilliantly relevant patterns across trials."
+      "Understanding the concept of bandage plays an essential role in daily life."
     ]
   },
   {
@@ -112,17 +281,17 @@
     ]
   },
   {
-    "id": "cough_noun",
-    "word": "cough",
+    "id": "clinics_noun",
+    "word": "clinics",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/kɒf/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cough-us.mp3",
-    "definition_en": "A sudden noisy expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis",
-    "definition_zh": "n. 咳嗽",
+    "phonetic": "/k'lɪnɪks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clinics-us.mp3",
+    "definition_en": "A medical establishment run by a group of medical specialists",
+    "definition_zh": "n. 诊所( clinic的复数形式 ); 门诊时间; 私人诊所; 临床实习",
     "examples": [
-      "Maintaining proper health supports the optimal function of the cough."
+      "Maintaining proper health supports the optimal function of the clinics."
     ]
   },
   {
@@ -154,20 +323,6 @@
     ]
   },
   {
-    "id": "cure_verb",
-    "word": "cure",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/kjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cure-us.mp3",
-    "definition_en": "Prepare by drying, salting, or chemical processing in order to preserve",
-    "definition_zh": "vt. 治疗, 治愈, 改正, 腌制, 加工处理, 使硫化",
-    "examples": [
-      "Doctors advise patients to cure regularly to promote physical recovery."
-    ]
-  },
-  {
     "id": "disease_noun",
     "word": "disease",
     "part_of_speech": "noun",
@@ -182,200 +337,31 @@
     ]
   },
   {
-    "id": "disillusion_verb",
-    "word": "disillusion",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/.disi'lu:ʒәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disillusion-us.mp3",
-    "definition_en": "N freeing from false belief or illusions",
-    "definition_zh": "vt. 使醒悟, 使幻想破灭",
-    "examples": [
-      "Doctors advise patients to disillusion regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "doctor_noun",
-    "word": "doctor",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'dɒktә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctor-us.mp3",
-    "definition_en": "A licensed medical practitioner",
-    "definition_zh": "n. 医生, 博士",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the doctor."
-    ]
-  },
-  {
-    "id": "drill_noun",
-    "word": "drill",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/dril/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drill-us.mp3",
-    "definition_en": "A tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)",
-    "definition_zh": "n. 钻孔机, 钻子, 播种机, 粗斜纹布",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the drill."
-    ]
-  },
-  {
-    "id": "drug_noun",
-    "word": "drug",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/drʌg/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drug-us.mp3",
-    "definition_en": "A substance that is used as a medicine or narcotic",
-    "definition_zh": "n. 药, 麻药, 麻醉药",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the drug."
-    ]
-  },
-  {
-    "id": "drugstore_noun",
-    "word": "drugstore",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'drʌgstɒ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drugstore-us.mp3",
-    "definition_en": "A retail shop where medicine and other articles are sold",
-    "definition_zh": "n. 药房, 杂货店",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the drugstore."
-    ]
-  },
-  {
-    "id": "fever_noun",
-    "word": "fever",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'fi:vә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fever-us.mp3",
-    "definition_en": "A rise in the temperature of the body; frequently a symptom of infection",
-    "definition_zh": "n. 发烧, 发热, 热病",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the fever."
-    ]
-  },
-  {
-    "id": "feverishly_adverb",
-    "word": "feverishly",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'fi:vәriʃli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feverishly-us.mp3",
-    "definition_en": "In a feverish manner",
-    "definition_zh": "adv. 兴奋地",
-    "examples": [
-      "Researchers systematically observed feverishly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "fill_verb",
-    "word": "fill",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/fil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fill-us.mp3",
-    "definition_en": "Make full, also in a metaphorical sense",
-    "definition_zh": "vt. 装满, 填充, 弥漫, 供给, 满足, 供应",
-    "examples": [
-      "Doctors advise patients to fill regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "filling_noun",
-    "word": "filling",
+    "id": "diseases_noun",
+    "word": "diseases",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'filiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/filling-us.mp3",
-    "definition_en": "Any material that fills a space or container",
-    "definition_zh": "n. 充填物, 填料",
+    "phonetic": "/diseases/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diseases-us.mp3",
+    "definition_en": "N an impairment of health or a condition of abnormal functioning",
+    "definition_zh": "n. 病害；疾病；疾病种类；病（disease的复数）",
     "examples": [
-      "Maintaining proper health supports the optimal function of the filling."
+      "Maintaining proper health supports the optimal function of the diseases."
     ]
   },
   {
-    "id": "fulfill_verb",
-    "word": "fulfill",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/ful'fil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fulfill-us.mp3",
-    "definition_en": "V put in effect",
-    "definition_zh": "vt. 实践, 履行, 实行, 完成, 结束, 满足",
-    "examples": [
-      "Doctors advise patients to fulfill regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "goodwill_noun",
-    "word": "goodwill",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/^jd'wil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/goodwill-us.mp3",
-    "definition_en": "N (accounting) an intangible asset valued according to the advantage or reputation a business has acquired (over and above its tangible assets)",
-    "definition_zh": "n. 友好, 好意, 善意, 亲善, (企业享有的)信誉, 声誉",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the goodwill."
-    ]
-  },
-  {
-    "id": "gorilla_noun",
-    "word": "gorilla",
+    "id": "earache_noun",
+    "word": "earache",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/gә'rilә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gorilla-us.mp3",
-    "definition_en": "Largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa",
-    "definition_zh": "n. 大猩猩, 残暴的男人, 歹徒",
+    "phonetic": "/'iәreik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/earache-us.mp3",
+    "definition_en": "An ache localized in the middle or inner ear",
+    "definition_zh": "n. 耳朵痛",
     "examples": [
-      "Maintaining proper health supports the optimal function of the gorilla."
-    ]
-  },
-  {
-    "id": "guerrilla_noun",
-    "word": "guerrilla",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/gә'rilә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guerrilla-us.mp3",
-    "definition_en": "A member of an irregular armed force that fights a stronger force by sabotage and harassment",
-    "definition_zh": "n. 游击队",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the guerrilla."
-    ]
-  },
-  {
-    "id": "headache_noun",
-    "word": "headache",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Health & Medicine",
-    "phonetic": "/'hedeik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/headache-us.mp3",
-    "definition_en": "A continuous dull or throbbing ache located within the cranial region.",
-    "definition_zh": "头痛",
-    "examples": [
-      "Working twelve hours in front of glare gave her a throbbing headache.",
-      "He took an aspirin and rested in a dim room to soothe his headache."
+      "Maintaining proper health supports the optimal function of the earache."
     ]
   },
   {
@@ -407,116 +393,31 @@
     ]
   },
   {
-    "id": "health_noun",
-    "word": "health",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'helθ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/health-us.mp3",
-    "definition_en": "A healthy state of wellbeing free from disease",
-    "definition_zh": "n. 健康, 卫生, 蓬勃, 健康状态",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the health."
-    ]
-  },
-  {
-    "id": "healthy_adjective",
-    "word": "healthy",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'helθi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healthy-us.mp3",
-    "definition_en": "Having or indicating good health in body or mind; free from infirmity or disease",
-    "definition_zh": "a. 健康的, 有益健康的, 卫生的",
-    "examples": [
-      "The committee analyzed a highly healthy perspective during the forum."
-    ]
-  },
-  {
-    "id": "hospital_noun",
-    "word": "hospital",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'hɒspitәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospital-us.mp3",
-    "definition_en": "A health facility where patients receive treatment",
-    "definition_zh": "n. 医院",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the hospital."
-    ]
-  },
-  {
-    "id": "hospitality_noun",
-    "word": "hospitality",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/.hɒspi'tæliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospitality-us.mp3",
-    "definition_en": "N kindness in welcoming guests or strangers",
-    "definition_zh": "n. 款待, 亲切, 殷勤",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the hospitality."
-    ]
-  },
-  {
-    "id": "hospitalize_verb",
-    "word": "hospitalize",
+    "id": "healing_verb",
+    "word": "healing",
     "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'hɒspitәlaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospitalize-us.mp3",
-    "definition_en": "Admit into a hospital",
-    "definition_zh": "vt. 送...进医院治疗",
-    "examples": [
-      "Doctors advise patients to hospitalize regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "hurt_adjective",
-    "word": "hurt",
-    "part_of_speech": "adjective",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/hә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hurt-us.mp3",
-    "definition_en": "Give trouble or pain to",
-    "definition_zh": "n. 伤害, 创伤, 损害",
+    "phonetic": "/'hi:liŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healing-us.mp3",
+    "definition_en": "The natural process by which the body repairs itself",
+    "definition_zh": "a. 治愈的, 恢复健康的",
     "examples": [
-      "The committee analyzed a highly hurt perspective during the forum."
+      "Doctors advise patients to healing regularly to promote physical recovery."
     ]
   },
   {
-    "id": "hurt_verb",
-    "word": "hurt",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "Health & Medicine",
-    "phonetic": "/hә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hurt-us.mp3",
-    "definition_en": "To experience or cause localized physical pain or distress.",
-    "definition_zh": "感到疼痛，受伤害，使受伤",
-    "examples": [
-      "My knee hurts whenever I ascend steep flights of stairs.",
-      "Be careful with that scalpel; you might hurt yourself."
-    ]
-  },
-  {
-    "id": "ill_adjective",
-    "word": "ill",
-    "part_of_speech": "adjective",
-    "level": "A2",
+    "id": "healing_noun",
+    "word": "healing",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/il/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ill-us.mp3",
-    "definition_en": "Affected by an impairment of normal physical or mental function",
-    "definition_zh": "a. 生病的, 邪恶的, 不吉利的, 敌意的, 不良的, 不顺利的",
+    "phonetic": "/'hi:liŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healing-us.mp3",
+    "definition_en": "The natural process by which the body repairs itself",
+    "definition_zh": "a. 治愈的, 恢复健康的",
     "examples": [
-      "The committee analyzed a highly ill perspective during the forum."
+      "Maintaining proper health supports the optimal function of the healing."
     ]
   },
   {
@@ -534,45 +435,215 @@
     ]
   },
   {
-    "id": "illuminate_verb",
-    "word": "illuminate",
+    "id": "infection_noun",
+    "word": "infection",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/in'fekʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infection-us.mp3",
+    "definition_en": "The pathological state resulting from the invasion of the body by pathogenic microorganisms",
+    "definition_zh": "n. 传染, 影响, 传染病",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the infection."
+    ]
+  },
+  {
+    "id": "infections_noun",
+    "word": "infections",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/infections/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infections-us.mp3",
+    "definition_en": "N the pathological state resulting from the invasion of the body by pathogenic microorganisms",
+    "definition_zh": "n. 传染病；口腔病害（infection复数形式）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the infections."
+    ]
+  },
+  {
+    "id": "nurse_verb",
+    "word": "nurse",
     "part_of_speech": "verb",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/i'lju:mineit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illuminate-us.mp3",
-    "definition_en": "Add embellishments and paintings to (medieval manuscripts)",
-    "definition_zh": "vt. 照明, 用灯装饰, 阐明, 说明, 使灿烂",
+    "phonetic": "/nә:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nurse-us.mp3",
+    "definition_en": "Try to cure by special care of treatment, of an illness or injury",
+    "definition_zh": "vt. 看护, 照顾, 培养",
     "examples": [
-      "Doctors advise patients to illuminate regularly to promote physical recovery."
+      "Doctors advise patients to nurse regularly to promote physical recovery."
     ]
   },
   {
-    "id": "illustrate_verb",
-    "word": "illustrate",
+    "id": "prescribe_verb",
+    "word": "prescribe",
     "part_of_speech": "verb",
-    "level": "B2",
+    "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'ilәstreit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illustrate-us.mp3",
-    "definition_en": "Depict with an illustration",
-    "definition_zh": "vt. 举例说明, 作图解, 阐明",
+    "phonetic": "/pris'kraib/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prescribe-us.mp3",
+    "definition_en": "To formally authorize medical treatment or the dispensing of pharmaceutical substances.",
+    "definition_zh": "开处方，开药",
     "examples": [
-      "Doctors advise patients to illustrate regularly to promote physical recovery."
+      "The physician prescribed an antihistamine to treat seasonal allergic rhinitis.",
+      "Doctors rarely prescribe antibiotics for uncomplicated viral colds."
     ]
   },
   {
-    "id": "illustration_noun",
-    "word": "illustration",
+    "id": "prescription_noun",
+    "word": "prescription",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/pri'skripʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prescription-us.mp3",
+    "definition_en": "Directions prescribed beforehand; the action of prescribing authoritative rules or directions",
+    "definition_zh": "n. 处方, 命令, 指定",
+    "examples": [
+      "Understanding prescription provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "surgeon_noun",
+    "word": "surgeon",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'sә:dʒәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surgeon-us.mp3",
+    "definition_en": "A physician who specializes in surgery",
+    "definition_zh": "n. 外科医生, 军医, 船医",
+    "examples": [
+      "Understanding surgeon provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "surgeons_noun",
+    "word": "surgeons",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'sɜ:dʒənz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surgeons-us.mp3",
+    "definition_en": "A physician who specializes in surgery",
+    "definition_zh": "n. 外科医生; 外科医生( surgeon的复数形式 )",
+    "examples": [
+      "Understanding surgeons provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "surgery_noun",
+    "word": "surgery",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'sә:dʒәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surgery-us.mp3",
+    "definition_en": "The branch of medical science that treats disease or injury by operative procedures",
+    "definition_zh": "n. 外科, 手术, 手术室, 换球术",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the surgery."
+    ]
+  },
+  {
+    "id": "symptom_noun",
+    "word": "symptom",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'simptәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/symptom-us.mp3",
+    "definition_en": "A subjective physical sensation indicating disease or physiological aberration.",
+    "definition_zh": "症状，征兆",
+    "examples": [
+      "Persistent dry cough and high fever are common symptoms of respiratory infection.",
+      "Prompt diagnosis occurs when clinicians recognize atypical early symptoms."
+    ]
+  },
+  {
+    "id": "symptoms_noun",
+    "word": "symptoms",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/symptoms/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/symptoms-us.mp3",
+    "definition_en": "N (medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease",
+    "definition_zh": "n. 病徵；症状；症候",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the symptoms."
+    ]
+  },
+  {
+    "id": "virus_noun",
+    "word": "virus",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'vaiәrәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/virus-us.mp3",
+    "definition_en": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein",
+    "definition_zh": "n. 病毒, 滤过性病毒, 毒害",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the virus."
+    ]
+  },
+  {
+    "id": "viruses_noun",
+    "word": "viruses",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/viruses/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/viruses-us.mp3",
+    "definition_en": "N (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein",
+    "definition_zh": "n. 病毒；病霉（virus的复数）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the viruses."
+    ]
+  },
+  {
+    "id": "wound_noun",
+    "word": "wound",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/wu:nd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wound-us.mp3",
+    "definition_en": "An injury to living tissue (especially an injury involving a cut or break in the skin)",
+    "definition_zh": "n. 创伤, 伤口, 伤疤, 伤害, 痛苦",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the wound."
+    ]
+  },
+  {
+    "id": "cough_noun",
+    "word": "cough",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/.ilә'streiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illustration-us.mp3",
-    "definition_en": "Artwork that helps make something clear or attractive",
-    "definition_zh": "n. 例证, 插图",
+    "phonetic": "/kɒf/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cough-us.mp3",
+    "definition_en": "A sudden noisy expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis",
+    "definition_zh": "n. 咳嗽",
     "examples": [
-      "Maintaining proper health supports the optimal function of the illustration."
+      "Maintaining proper health supports the optimal function of the cough."
+    ]
+  },
+  {
+    "id": "cure_verb",
+    "word": "cure",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/kjuә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cure-us.mp3",
+    "definition_en": "Prepare by drying, salting, or chemical processing in order to preserve",
+    "definition_zh": "vt. 治疗, 治愈, 改正, 腌制, 加工处理, 使硫化",
+    "examples": [
+      "Doctors advise patients to cure regularly to promote physical recovery."
     ]
   },
   {
@@ -604,17 +675,17 @@
     ]
   },
   {
-    "id": "infection_noun",
-    "word": "infection",
-    "part_of_speech": "noun",
-    "level": "B1",
+    "id": "infected_verb",
+    "word": "infected",
+    "part_of_speech": "verb",
+    "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/in'fekʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infection-us.mp3",
-    "definition_en": "The pathological state resulting from the invasion of the body by pathogenic microorganisms",
-    "definition_zh": "n. 传染, 影响, 传染病",
+    "phonetic": "/in'fektid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infected-us.mp3",
+    "definition_en": "V communicate a disease to",
+    "definition_zh": "a. 被感染的",
     "examples": [
-      "Maintaining proper health supports the optimal function of the infection."
+      "Doctors advise patients to infected regularly to promote physical recovery."
     ]
   },
   {
@@ -632,1169 +703,59 @@
     ]
   },
   {
-    "id": "instill_verb",
-    "word": "instill",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/in'stil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instill-us.mp3",
-    "definition_en": "Impart gradually",
-    "definition_zh": "vt. 滴注, 慢慢地灌输",
-    "examples": [
-      "Doctors advise patients to instill regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "kill_verb",
-    "word": "kill",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/kil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kill-us.mp3",
-    "definition_en": "Cause to die; put to death, usually intentionally or knowingly",
-    "definition_zh": "vt. 杀, 破坏, 消灭, 使终止, 抵消, 否决",
-    "examples": [
-      "Doctors advise patients to kill regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "killer_noun",
-    "word": "killer",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'kilә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/killer-us.mp3",
-    "definition_en": "Someone who causes the death of a person or animal",
-    "definition_zh": "n. (非正式)杀人者, 屠杀者, 猛兽, 致死(疾病), 杀手, 止痛药, 限制器, 瞄准器",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the killer."
-    ]
-  },
-  {
-    "id": "killing_noun",
-    "word": "killing",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'kiliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/killing-us.mp3",
-    "definition_en": "An event that causes someone to die",
-    "definition_zh": "n. 谋杀, 杀戮",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the killing."
-    ]
-  },
-  {
-    "id": "medicine_noun",
-    "word": "medicine",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "Health & Medicine",
-    "phonetic": "/'medisin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medicine-us.mp3",
-    "definition_en": "Any pharmacological compound, drug, or clinical treatment formulated to alleviate disease.",
-    "definition_zh": "药物，医学",
-    "examples": [
-      "Take two tablets of this prescribed medicine after meals.",
-      "Breakthroughs in genomic medicine have transformed targeted cancer therapy."
-    ]
-  },
-  {
-    "id": "mill_noun",
-    "word": "mill",
+    "id": "medication_noun",
+    "word": "medication",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/mil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mill-us.mp3",
-    "definition_en": "Scottish philosopher who expounded Bentham's utilitarianism; father of John Stuart Mill (1773-1836)",
-    "definition_zh": "n. 压榨机, 磨坊, 制造厂",
+    "phonetic": "/.medi'keiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medication-us.mp3",
+    "definition_en": "The act of treating with medicines or remedies",
+    "definition_zh": "n. 药物治疗, 药物处理, 医药",
     "examples": [
-      "Maintaining proper health supports the optimal function of the mill."
+      "Understanding medication provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "million_noun",
-    "word": "million",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'miljәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/million-us.mp3",
-    "definition_en": "The number that is represented as a one followed by 6 zeros",
-    "definition_zh": "n. 百万, 无数",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the million."
-    ]
-  },
-  {
-    "id": "millionaire_noun",
-    "word": "millionaire",
+    "id": "medications_noun",
+    "word": "medications",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/.miljә'nєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/millionaire-us.mp3",
-    "definition_en": "A person whose material wealth is valued at more than a million dollars",
-    "definition_zh": "n. 百万富翁, 大富豪",
+    "phonetic": "/medications/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medications-us.mp3",
+    "definition_en": "N (medicine) something that treats or prevents or alleviates the symptoms of disease",
+    "definition_zh": "n. 药物治疗；药物（medication的复数形式）",
     "examples": [
-      "Maintaining proper health supports the optimal function of the millionaire."
+      "Understanding medications provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "mistreat_verb",
-    "word": "mistreat",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/.mis'tri:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mistreat-us.mp3",
-    "definition_en": "Treat badly",
-    "definition_zh": "vt. 虐待",
-    "examples": [
-      "Doctors advise patients to mistreat regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "nurse_noun",
-    "word": "nurse",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/nә:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nurse-us.mp3",
-    "definition_en": "One skilled in caring for young children or the sick (usually under the supervision of a physician)",
-    "definition_zh": "n. 护士, 保姆, 奶妈",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the nurse."
-    ]
-  },
-  {
-    "id": "nurse_verb",
-    "word": "nurse",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/nә:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nurse-us.mp3",
-    "definition_en": "Try to cure by special care of treatment, of an illness or injury",
-    "definition_zh": "vt. 看护, 照顾, 培养",
-    "examples": [
-      "Doctors advise patients to nurse regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "nursery_noun",
-    "word": "nursery",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'nә:sәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nursery-us.mp3",
-    "definition_en": "A child's room for a baby",
-    "definition_zh": "n. 托儿所, 苗圃, 温床",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the nursery."
-    ]
-  },
-  {
-    "id": "pain_noun",
-    "word": "pain",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/pein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pain-us.mp3",
-    "definition_en": "A symptom of some physical hurt or disorder",
-    "definition_zh": "n. 痛苦, 疼痛, 辛苦",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the pain."
-    ]
-  },
-  {
-    "id": "painful_adjective",
-    "word": "painful",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'peinful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/painful-us.mp3",
-    "definition_en": "Causing physical or psychological pain",
-    "definition_zh": "a. 痛苦的, 困难的, 令人烦恼的",
-    "examples": [
-      "The committee analyzed a highly painful perspective during the forum."
-    ]
-  },
-  {
-    "id": "penicillin_noun",
-    "word": "penicillin",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/.peni'silin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/penicillin-us.mp3",
-    "definition_en": "Any of various antibiotics obtained from Penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases",
-    "definition_zh": "n. 盘尼西林, 青霉素",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the penicillin."
-    ]
-  },
-  {
-    "id": "pill_noun",
-    "word": "pill",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/pil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pill-us.mp3",
-    "definition_en": "Something that resembles a tablet of medicine in shape or size",
-    "definition_zh": "n. 药丸, 弹丸, 屈辱, 胡说",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the pill."
-    ]
-  },
-  {
-    "id": "pillow_noun",
-    "word": "pillow",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'pilәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pillow-us.mp3",
-    "definition_en": "A cushion to support the head of a sleeping person",
-    "definition_zh": "n. 枕头, 靠垫, 枕状岩",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the pillow."
-    ]
-  },
-  {
-    "id": "pillowcase_noun",
-    "word": "pillowcase",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'pilәjkeis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pillowcase-us.mp3",
-    "definition_en": "N bed linen consisting of a cover for a pillow",
-    "definition_zh": "n. 枕套",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the pillowcase."
-    ]
-  },
-  {
-    "id": "prescribe_verb",
-    "word": "prescribe",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "Health & Medicine",
-    "phonetic": "/pris'kraib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prescribe-us.mp3",
-    "definition_en": "To formally authorize medical treatment or the dispensing of pharmaceutical substances.",
-    "definition_zh": "开处方，开药",
-    "examples": [
-      "The physician prescribed an antihistamine to treat seasonal allergic rhinitis.",
-      "Doctors rarely prescribe antibiotics for uncomplicated viral colds."
-    ]
-  },
-  {
-    "id": "recover_verb",
-    "word": "recover",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "Health & Medicine",
-    "phonetic": "/ri'kʌvә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recover-us.mp3",
-    "definition_en": "To regain normal health, vitality, or physical composure following disease or injury.",
-    "definition_zh": "康复，恢复",
-    "examples": [
-      "The patient recovered completely within two weeks post-surgery.",
-      "Adequate sleep and balanced nutrition allow muscles to recover rapidly."
-    ]
-  },
-  {
-    "id": "recovery_noun",
-    "word": "recovery",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/ri'kʌvәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recovery-us.mp3",
-    "definition_en": "Return to an original state",
-    "definition_zh": "n. 恢复, 复原, 痊愈, 重获",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the recovery."
-    ]
-  },
-  {
-    "id": "retreat_noun",
-    "word": "retreat",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/ri'tri:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/retreat-us.mp3",
-    "definition_en": "(military) withdrawal of troops to a more favorable position to escape the enemy's superior forces or after a defeat",
-    "definition_zh": "n. 休息寓所, 撤退, 隐居, 退避",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the retreat."
-    ]
-  },
-  {
-    "id": "retreat_verb",
-    "word": "retreat",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/ri'tri:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/retreat-us.mp3",
-    "definition_en": "(military) withdrawal of troops to a more favorable position to escape the enemy's superior forces or after a defeat",
-    "definition_zh": "vi. 撤退, 隐退, 向后倾",
-    "examples": [
-      "Doctors advise patients to retreat regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "secure_adjective",
-    "word": "secure",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/si'kjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/secure-us.mp3",
-    "definition_en": "Free from fear or doubt; easy in mind",
-    "definition_zh": "a. 无虑的, 安心的, 安全的, 可靠的, 保险的",
-    "examples": [
-      "The committee analyzed a highly secure perspective during the forum."
-    ]
-  },
-  {
-    "id": "skill_noun",
-    "word": "skill",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'skil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skill-us.mp3",
-    "definition_en": "An ability that has been acquired by training",
-    "definition_zh": "n. 技术, 技巧, 技能, 熟练, 熟练工人",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the skill."
-    ]
-  },
-  {
-    "id": "skilled_adjective",
-    "word": "skilled",
+    "id": "pandemic_adjective",
+    "word": "pandemic",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'skild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skilled-us.mp3",
-    "definition_en": "Having or showing or requiring special skill",
-    "definition_zh": "a. 熟练的",
+    "phonetic": "/pæn'demik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pandemic-us.mp3",
+    "definition_en": "An epidemic that is geographically widespread; occurring throughout a region or even throughout the world",
+    "definition_zh": "a. 大流行的, 普遍的, 全世界的",
     "examples": [
-      "The committee analyzed a highly skilled perspective during the forum."
+      "The committee analyzed a highly pandemic perspective during the forum."
     ]
   },
   {
-    "id": "skillful_adjective",
-    "word": "skillful",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'skilful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skillful-us.mp3",
-    "definition_en": "S having or showing knowledge and skill and aptitude",
-    "definition_zh": "a. 熟练的, 巧妙的",
-    "examples": [
-      "The committee analyzed a highly skillful perspective during the forum."
-    ]
-  },
-  {
-    "id": "skillfully_adverb",
-    "word": "skillfully",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/skillfully/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skillfully-us.mp3",
-    "definition_en": "With skill",
-    "definition_zh": "adv. 巧妙地；精巧地",
-    "examples": [
-      "Researchers systematically observed skillfully relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "spill_verb",
-    "word": "spill",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/spil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spill-us.mp3",
-    "definition_en": "Cause or allow (a liquid substance) to run or flow from a container",
-    "definition_zh": "vt. 使溢出, 使散落, 洒, 使流出, 倒出, 使摔下",
-    "examples": [
-      "Doctors advise patients to spill regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "standstill_noun",
-    "word": "standstill",
+    "id": "pneumonia_noun",
+    "word": "pneumonia",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'stændstil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/standstill-us.mp3",
-    "definition_en": "N a situation in which no progress can be made or no advancement is possible",
-    "definition_zh": "n. 停止, 停顿",
+    "phonetic": "/nju:'mәunjә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pneumonia-us.mp3",
+    "definition_en": "Respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caused by viruses or bacteria or irritants",
+    "definition_zh": "n. 肺炎",
     "examples": [
-      "Maintaining proper health supports the optimal function of the standstill."
-    ]
-  },
-  {
-    "id": "still_adjective",
-    "word": "still",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/stil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/still-us.mp3",
-    "definition_en": "A static photograph (especially one taken from a movie and used for advertising purposes)",
-    "definition_zh": "a. 静止的, 不动的, 静寂的, 不起泡的, 静物摄影的",
-    "examples": [
-      "The committee analyzed a highly still perspective during the forum."
-    ]
-  },
-  {
-    "id": "still_adverb",
-    "word": "still",
-    "part_of_speech": "adverb",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/stil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/still-us.mp3",
-    "definition_en": "A static photograph (especially one taken from a movie and used for advertising purposes)",
-    "definition_zh": "adv. 仍然, 更, 静止地",
-    "examples": [
-      "Researchers systematically observed still relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "surgery_noun",
-    "word": "surgery",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'sә:dʒәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surgery-us.mp3",
-    "definition_en": "The branch of medical science that treats disease or injury by operative procedures",
-    "definition_zh": "n. 外科, 手术, 手术室, 换球术",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the surgery."
-    ]
-  },
-  {
-    "id": "surveillance_noun",
-    "word": "surveillance",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/sә:'veilәns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surveillance-us.mp3",
-    "definition_en": "Close observation of a person or group (usually by the police)",
-    "definition_zh": "n. 监视, 监督",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the surveillance."
-    ]
-  },
-  {
-    "id": "symptom_noun",
-    "word": "symptom",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "Health & Medicine",
-    "phonetic": "/'simptәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/symptom-us.mp3",
-    "definition_en": "A subjective physical sensation indicating disease or physiological aberration.",
-    "definition_zh": "症状，征兆",
-    "examples": [
-      "Persistent dry cough and high fever are common symptoms of respiratory infection.",
-      "Prompt diagnosis occurs when clinicians recognize atypical early symptoms."
-    ]
-  },
-  {
-    "id": "thrill_noun",
-    "word": "thrill",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/θril/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thrill-us.mp3",
-    "definition_en": "Something that causes you to experience a sudden intense feeling or sensation",
-    "definition_zh": "n. 震颤, 激动, 刺激性, 一阵激动",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the thrill."
-    ]
-  },
-  {
-    "id": "thrilled_adjective",
-    "word": "thrilled",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/θrɪld/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thrilled-us.mp3",
-    "definition_en": "Feeling intense pleasurable excitement",
-    "definition_zh": "a. 非常兴奋的; 极为激动的",
-    "examples": [
-      "The committee analyzed a highly thrilled perspective during the forum."
-    ]
-  },
-  {
-    "id": "thriller_noun",
-    "word": "thriller",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'θrilә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thriller-us.mp3",
-    "definition_en": "A suspenseful adventure story or play or movie",
-    "definition_zh": "n. 使人激动的东西, 使人毛骨悚然的东西, 使人毛骨悚然的小说",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the thriller."
-    ]
-  },
-  {
-    "id": "thrilling_adjective",
-    "word": "thrilling",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'θriliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thrilling-us.mp3",
-    "definition_en": "Causing quivering or shivering as by cold or fear or electric shock",
-    "definition_zh": "a. 毛骨悚然的, 令人兴奋的, 令人发抖的",
-    "examples": [
-      "The committee analyzed a highly thrilling perspective during the forum."
-    ]
-  },
-  {
-    "id": "till_conjunction",
-    "word": "till",
-    "part_of_speech": "conjunction",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/til/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/till-us.mp3",
-    "definition_en": "Unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together",
-    "definition_zh": "conj. 直到...为止",
-    "examples": [
-      "Researchers systematically observed till relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "till_preposition",
-    "word": "till",
-    "part_of_speech": "preposition",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/til/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/till-us.mp3",
-    "definition_en": "Unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together",
-    "definition_zh": "prep. 直到, 在...以前, 迄",
-    "examples": [
-      "Researchers systematically observed till relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "treat_noun",
-    "word": "treat",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/tri:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/treat-us.mp3",
-    "definition_en": "An occurrence that causes special pleasure or delight",
-    "definition_zh": "n. 宴请, 款待",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the treat."
-    ]
-  },
-  {
-    "id": "treat_verb",
-    "word": "treat",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/tri:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/treat-us.mp3",
-    "definition_en": "Interact in a certain way",
-    "definition_zh": "vt. 视为, 对待, 论述, 治疗, 款待",
-    "examples": [
-      "Doctors advise patients to treat regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "treatment_noun",
-    "word": "treatment",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'tri:tmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/treatment-us.mp3",
-    "definition_en": "Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)",
-    "definition_zh": "n. 治疗, 待遇, 处理",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the treatment."
-    ]
-  },
-  {
-    "id": "unhealthy_adjective",
-    "word": "unhealthy",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/.ʌn'helθi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unhealthy-us.mp3",
-    "definition_en": "Not in or exhibiting good health in body or mind",
-    "definition_zh": "a. 不健康的",
-    "examples": [
-      "The committee analyzed a highly unhealthy perspective during the forum."
-    ]
-  },
-  {
-    "id": "untreated_adjective",
-    "word": "untreated",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'ʌn'tri:tid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/untreated-us.mp3",
-    "definition_en": "Not given medical care or treatment",
-    "definition_zh": "[化] 未经处理的",
-    "examples": [
-      "The committee analyzed a highly untreated perspective during the forum."
-    ]
-  },
-  {
-    "id": "unwilling_adjective",
-    "word": "unwilling",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/.ʌn'wiliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unwilling-us.mp3",
-    "definition_en": "Not disposed or inclined toward",
-    "definition_zh": "a. 不愿意的, 勉强的",
-    "examples": [
-      "The committee analyzed a highly unwilling perspective during the forum."
-    ]
-  },
-  {
-    "id": "vaccine_noun",
-    "word": "vaccine",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'væksi:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vaccine-us.mp3",
-    "definition_en": "Immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies",
-    "definition_zh": "n. 牛痘苗, 疫苗",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the vaccine."
-    ]
-  },
-  {
-    "id": "villa_noun",
-    "word": "villa",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'vilә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/villa-us.mp3",
-    "definition_en": "Mexican revolutionary leader (1877-1923)",
-    "definition_zh": "n. 别墅",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the villa."
-    ]
-  },
-  {
-    "id": "village_noun",
-    "word": "village",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'vilidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/village-us.mp3",
-    "definition_en": "A community of people smaller than a town",
-    "definition_zh": "n. 村庄",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the village."
-    ]
-  },
-  {
-    "id": "villager_noun",
-    "word": "villager",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'vilidʒә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/villager-us.mp3",
-    "definition_en": "One who has lived in a village most of their life",
-    "definition_zh": "n. 村民",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the villager."
-    ]
-  },
-  {
-    "id": "virus_noun",
-    "word": "virus",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'vaiәrәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/virus-us.mp3",
-    "definition_en": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein",
-    "definition_zh": "n. 病毒, 滤过性病毒, 毒害",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the virus."
-    ]
-  },
-  {
-    "id": "will_noun",
-    "word": "will",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/wil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/will-us.mp3",
-    "definition_en": "A fixed and persistent intent or purpose",
-    "definition_zh": "n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the will."
-    ]
-  },
-  {
-    "id": "willing_adjective",
-    "word": "willing",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'wiliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/willing-us.mp3",
-    "definition_en": "Disposed or inclined toward",
-    "definition_zh": "a. 乐意的, 自愿的, 甘愿的",
-    "examples": [
-      "The committee analyzed a highly willing perspective during the forum."
-    ]
-  },
-  {
-    "id": "willingly_adverb",
-    "word": "willingly",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'wiliŋli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/willingly-us.mp3",
-    "definition_en": "In a willing manner",
-    "definition_zh": "adv. 自动地, 欣然地",
-    "examples": [
-      "Researchers systematically observed willingly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "willingness_noun",
-    "word": "willingness",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/willingness/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/willingness-us.mp3",
-    "definition_en": "Cheerful compliance",
-    "definition_zh": "n. 乐意, 心甘情愿, 愿意",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the willingness."
-    ]
-  },
-  {
-    "id": "wound_noun",
-    "word": "wound",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/wu:nd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wound-us.mp3",
-    "definition_en": "An injury to living tissue (especially an injury involving a cut or break in the skin)",
-    "definition_zh": "n. 创伤, 伤口, 伤疤, 伤害, 痛苦",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the wound."
-    ]
-  },
-  {
-    "id": "wound_verb",
-    "word": "wound",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/wu:nd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wound-us.mp3",
-    "definition_en": "An injury to living tissue (especially an injury involving a cut or break in the skin)",
-    "definition_zh": "vt. 伤害, 损害, 使受伤",
-    "examples": [
-      "Doctors advise patients to wound regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "clinical_adjective",
-    "word": "clinical",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'klinikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clinical-us.mp3",
-    "definition_en": "Relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients",
-    "definition_zh": "a. 临床的, 门诊部的",
-    "examples": [
-      "The committee analyzed a highly clinical perspective during the forum."
-    ]
-  },
-  {
-    "id": "obscure_verb",
-    "word": "obscure",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/әb'skjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obscure-us.mp3",
-    "definition_en": "Make less visible or unclear",
-    "definition_zh": "vt. 使变暗, 隐藏, 使变模糊, 使难解",
-    "examples": [
-      "Doctors advise patients to obscure regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "obscure_adjective",
-    "word": "obscure",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/әb'skjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obscure-us.mp3",
-    "definition_en": "Make less visible or unclear",
-    "definition_zh": "a. 模糊的, 昏暗的, 难解的, 晦涩的, 偏僻的, 微贱的, 无名的",
-    "examples": [
-      "The committee analyzed a highly obscure perspective during the forum."
-    ]
-  },
-  {
-    "id": "obscurely_adverb",
-    "word": "obscurely",
-    "part_of_speech": "adverb",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/obscurely/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obscurely-us.mp3",
-    "definition_en": "In an obscure manner",
-    "definition_zh": "adv. 费解地, 晦涩地；隐匿地",
-    "examples": [
-      "Researchers systematically observed obscurely relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "insecure_adjective",
-    "word": "insecure",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/.insi'kjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insecure-us.mp3",
-    "definition_en": "Not firm or firmly fixed; likely to fail or give way",
-    "definition_zh": "a. 不安全的, 不牢靠的, 不坚固的, 不稳定的",
-    "examples": [
-      "The committee analyzed a highly insecure perspective during the forum."
-    ]
-  },
-  {
-    "id": "insecurely_adverb",
-    "word": "insecurely",
-    "part_of_speech": "adverb",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/insecurely/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insecurely-us.mp3",
-    "definition_en": "In a tentative and self-conscious manner",
-    "definition_zh": "adv. 不安全地；不可靠地",
-    "examples": [
-      "Researchers systematically observed insecurely relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "manicure_noun",
-    "word": "manicure",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'mænikjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/manicure-us.mp3",
-    "definition_en": "Professional care for the hands and fingernails",
-    "definition_zh": "n. 修指甲术, 修指甲, 修指甲师",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the manicure."
-    ]
-  },
-  {
-    "id": "manicure_verb",
-    "word": "manicure",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'mænikjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/manicure-us.mp3",
-    "definition_en": "Trim carefully and neatly",
-    "definition_zh": "vt. 修指甲, 修剪",
-    "examples": [
-      "Doctors advise patients to manicure regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "pedicure_noun",
-    "word": "pedicure",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'pedikjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pedicure-us.mp3",
-    "definition_en": "Professional care for the feet and toenails",
-    "definition_zh": "n. 脚治疗, 脚治疗医师, 修趾甲术",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the pedicure."
-    ]
-  },
-  {
-    "id": "symptomatic_adjective",
-    "word": "symptomatic",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/.simptә'mætik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/symptomatic-us.mp3",
-    "definition_en": "Relating to or according to or affecting a symptom or symptoms",
-    "definition_zh": "a. 作为征候的, 症状的, 根据征候的",
-    "examples": [
-      "The committee analyzed a highly symptomatic perspective during the forum."
-    ]
-  },
-  {
-    "id": "disillusionment_noun",
-    "word": "disillusionment",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/,disi'lju:ʒәnmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disillusionment-us.mp3",
-    "definition_en": "N freeing from false belief or illusions",
-    "definition_zh": "n. 幻灭,觉醒",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the disillusionment."
-    ]
-  },
-  {
-    "id": "till_noun",
-    "word": "till",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/til/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/till-us.mp3",
-    "definition_en": "Unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together",
-    "definition_zh": "n. 放钱的抽屉, 备用现金, 冰碛",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the till."
-    ]
-  },
-  {
-    "id": "drill_verb",
-    "word": "drill",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/dril/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drill-us.mp3",
-    "definition_en": "Train in the military, e.g., in the use of weapons",
-    "definition_zh": "v. 训练, 钻孔",
-    "examples": [
-      "Doctors advise patients to drill regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "billiards_noun",
-    "word": "billiards",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'biljәdz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/billiards-us.mp3",
-    "definition_en": "Any of several games played on rectangular cloth-covered table (with cushioned edges) in which long tapering cue sticks are used to propel ivory (or composition) balls",
-    "definition_zh": "n. 台球, 桌球",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the billiards."
-    ]
-  },
-  {
-    "id": "distill_verb",
-    "word": "distill",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/dis'til/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distill-us.mp3",
-    "definition_en": "Undergo the process of distillation",
-    "definition_zh": "vt. 蒸馏",
-    "examples": [
-      "Doctors advise patients to distill regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "distillation_noun",
-    "word": "distillation",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/.disti'leiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distillation-us.mp3",
-    "definition_en": "The process of purifying a liquid by boiling it and condensing its vapors",
-    "definition_zh": "n. 蒸馏",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the distillation."
-    ]
-  },
-  {
-    "id": "secure_verb",
-    "word": "secure",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/si'kjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/secure-us.mp3",
-    "definition_en": "Assure payment of",
-    "definition_zh": "vt. 固定, 获得, 保证, 使安全, 掩护, 招致",
-    "examples": [
-      "Doctors advise patients to secure regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "painstaking_adjective",
-    "word": "painstaking",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'peinzteikiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/painstaking-us.mp3",
-    "definition_en": "S characterized by extreme care and great effort",
-    "definition_zh": "a. 辛苦的, 勤勉的, 小心的",
-    "examples": [
-      "The committee analyzed a highly painstaking perspective during the forum."
-    ]
-  },
-  {
-    "id": "painstakingly_adverb",
-    "word": "painstakingly",
-    "part_of_speech": "adverb",
-    "level": "C2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/painstakingly/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/painstakingly-us.mp3",
-    "definition_en": "In a fastidious and painstaking manner",
-    "definition_zh": "adv. 煞费苦心地；费力地",
-    "examples": [
-      "Researchers systematically observed painstakingly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "skills_noun",
-    "word": "skills",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/skills/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skills-us.mp3",
-    "definition_en": "N an ability that has been acquired by training",
-    "definition_zh": "n. 技术；技能；技巧（skill的复数形式）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the skills."
-    ]
-  },
-  {
-    "id": "filled_verb",
-    "word": "filled",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/fild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/filled-us.mp3",
-    "definition_en": "(usually followed by `with' or used as a combining form) generously supplied with",
-    "definition_zh": "a. 加满的；装满的；满的",
-    "examples": [
-      "Doctors advise patients to filled regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "killed_verb",
-    "word": "killed",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'kild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/killed-us.mp3",
-    "definition_en": "V cause to die; put to death, usually intentionally or knowingly",
-    "definition_zh": "a. 被杀死的, 被屠宰的, 镇静的",
-    "examples": [
-      "Doctors advise patients to killed regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "diseases_noun",
-    "word": "diseases",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/diseases/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diseases-us.mp3",
-    "definition_en": "N an impairment of health or a condition of abnormal functioning",
-    "definition_zh": "n. 病害；疾病；疾病种类；病（disease的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the diseases."
-    ]
-  },
-  {
-    "id": "drugs_noun",
-    "word": "drugs",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/drugs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drugs-us.mp3",
-    "definition_en": "N a substance that is used as a medicine or narcotic",
-    "definition_zh": "n. 毒品, 药物",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the drugs."
-    ]
-  },
-  {
-    "id": "symptoms_noun",
-    "word": "symptoms",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/symptoms/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/symptoms-us.mp3",
-    "definition_en": "N (medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease",
-    "definition_zh": "n. 病徵；症状；症候",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the symptoms."
+      "Recent breakthroughs in pneumonia have accelerated modern technological innovation."
     ]
   },
   {
@@ -1812,129 +773,87 @@
     ]
   },
   {
-    "id": "mills_noun",
-    "word": "mills",
+    "id": "stimulant_noun",
+    "word": "stimulant",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/mills/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mills-us.mp3",
-    "definition_en": "United States architect who was the presidentially appointed architect of Washington D.C. (1781-1855)",
-    "definition_zh": "n. 米尔斯（人名）",
+    "phonetic": "/'stimjulәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stimulant-us.mp3",
+    "definition_en": "A drug that temporarily quickens some vital process",
+    "definition_zh": "n. 兴奋剂, 酒精饮料",
     "examples": [
-      "Maintaining proper health supports the optimal function of the mills."
+      "Psychologists study how stimulant impacts emotional well-being and daily behavior."
     ]
   },
   {
-    "id": "illustrated_verb",
-    "word": "illustrated",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'ilәstreitid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illustrated-us.mp3",
-    "definition_en": "V clarify by giving an example of",
-    "definition_zh": "n. 有插画的报章杂志",
-    "examples": [
-      "Doctors advise patients to illustrated regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "secured_verb",
-    "word": "secured",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/secured/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/secured-us.mp3",
-    "definition_en": "V get by special effort",
-    "definition_zh": "a. 有担保的",
-    "examples": [
-      "Doctors advise patients to secured regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "hospitals_noun",
-    "word": "hospitals",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'hɒspɪtlz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospitals-us.mp3",
-    "definition_en": "A health facility where patients receive treatment",
-    "definition_zh": "n. 医院( hospital的复数形式 )",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the hospitals."
-    ]
-  },
-  {
-    "id": "millions_noun",
-    "word": "millions",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/millions/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/millions-us.mp3",
-    "definition_en": "N the number that is represented as a one followed by 6 zeros",
-    "definition_zh": "n. 数百万",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the millions."
-    ]
-  },
-  {
-    "id": "villages_noun",
-    "word": "villages",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'vɪlɪdʒəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/villages-us.mp3",
-    "definition_en": "A community of people smaller than a town",
-    "definition_zh": "n. 村( village的复数形式 ); 乡村; 村庄; 村镇",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the villages."
-    ]
-  },
-  {
-    "id": "recovered_verb",
-    "word": "recovered",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/recovered/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recovered-us.mp3",
-    "definition_en": "Found after being lost",
-    "definition_zh": "v. 重新获得；恢复（recover的过去分词）",
-    "examples": [
-      "Doctors advise patients to recovered regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "doctors_noun",
-    "word": "doctors",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/doctors/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctors-us.mp3",
-    "definition_en": "N a licensed medical practitioner",
-    "definition_zh": "n. 医生（doctor的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the doctors."
-    ]
-  },
-  {
-    "id": "illustrations_noun",
-    "word": "illustrations",
+    "id": "surge_noun",
+    "word": "surge",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/illustrations/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illustrations-us.mp3",
-    "definition_en": "N artwork that helps make something clear or attractive",
-    "definition_zh": "n. 插图；插画（illustration的复数）",
+    "phonetic": "/sә:dʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surge-us.mp3",
+    "definition_en": "A sudden or abrupt strong increase",
+    "definition_zh": "n. 巨涌, 汹涌, 澎湃",
     "examples": [
-      "Maintaining proper health supports the optimal function of the illustrations."
+      "Understanding surge provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "therapy_noun",
+    "word": "therapy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'θerәpi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/therapy-us.mp3",
+    "definition_en": "(medicine) the act of caring for someone (as by medication or remedial training etc.)",
+    "definition_zh": "n. 治疗",
+    "examples": [
+      "Psychologists study how therapy impacts emotional well-being and daily behavior."
+    ]
+  },
+  {
+    "id": "tuberculosis_noun",
+    "word": "tuberculosis",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/tju,bә:kju'lәusis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tuberculosis-us.mp3",
+    "definition_en": "Infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts of the body in acute stages)",
+    "definition_zh": "n. 肺结核",
+    "examples": [
+      "Understanding tuberculosis provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "vaccine_noun",
+    "word": "vaccine",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'væksi:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vaccine-us.mp3",
+    "definition_en": "Immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies",
+    "definition_zh": "n. 牛痘苗, 疫苗",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the vaccine."
+    ]
+  },
+  {
+    "id": "wound_verb",
+    "word": "wound",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/wu:nd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wound-us.mp3",
+    "definition_en": "An injury to living tissue (especially an injury involving a cut or break in the skin)",
+    "definition_zh": "vt. 伤害, 损害, 使受伤",
+    "examples": [
+      "Doctors advise patients to wound regularly to promote physical recovery."
     ]
   },
   {
@@ -1952,535 +871,17 @@
     ]
   },
   {
-    "id": "nurses_noun",
-    "word": "nurses",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/nurses/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nurses-us.mp3",
-    "definition_en": "N one skilled in caring for young children or the sick (usually under the supervision of a physician)",
-    "definition_zh": "n. 护士；褓姆, 看护（nurse的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the nurses."
-    ]
-  },
-  {
-    "id": "treatments_noun",
-    "word": "treatments",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'tri:tmənts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/treatments-us.mp3",
-    "definition_en": "Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)",
-    "definition_zh": "n. 处理( treatment的复数形式 ); 对待; 治疗; 疗法",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the treatments."
-    ]
-  },
-  {
-    "id": "ill_adverb",
-    "word": "ill",
-    "part_of_speech": "adverb",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/il/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ill-us.mp3",
-    "definition_en": "Affected by an impairment of normal physical or mental function",
-    "definition_zh": "adv. 有害地, 不幸地, 几乎不",
-    "examples": [
-      "Researchers systematically observed ill relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "illustrates_verb",
-    "word": "illustrates",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/ˈiləstreits/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illustrates-us.mp3",
-    "definition_en": "V clarify by giving an example of",
-    "definition_zh": "v. 给…加插图( illustrate的第三人称单数 ); 说明; 表明; （用示例、图画等）说明",
-    "examples": [
-      "Doctors advise patients to illustrates regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "infections_noun",
-    "word": "infections",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/infections/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infections-us.mp3",
-    "definition_en": "N the pathological state resulting from the invasion of the body by pathogenic microorganisms",
-    "definition_zh": "n. 传染病；口腔病害（infection复数形式）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the infections."
-    ]
-  },
-  {
-    "id": "drilling_noun",
-    "word": "drilling",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'driliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drilling-us.mp3",
-    "definition_en": "The act of drilling",
-    "definition_zh": "n. 演练",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the drilling."
-    ]
-  },
-  {
-    "id": "illus_noun",
-    "word": "illus",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/illus/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illus-us.mp3",
-    "definition_en": "Denoting illus; widely used in Medicine & Health.",
-    "definition_zh": "n. 插图；实例；说明",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the illus."
-    ]
-  },
-  {
-    "id": "filling_verb",
-    "word": "filling",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'filiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/filling-us.mp3",
-    "definition_en": "Any material that fills a space or container",
-    "definition_zh": "n. 充填物, 填料",
-    "examples": [
-      "Doctors advise patients to filling regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "treaties_noun",
-    "word": "treaties",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/treaties/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/treaties-us.mp3",
-    "definition_en": "N a written agreement between two states or sovereigns",
-    "definition_zh": "n. 条约；协定问题（treaty的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the treaties."
-    ]
-  },
-  {
-    "id": "killing_verb",
-    "word": "killing",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'kiliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/killing-us.mp3",
-    "definition_en": "An event that causes someone to die",
-    "definition_zh": "n. 谋杀, 杀戮",
-    "examples": [
-      "Doctors advise patients to killing regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "fulfilled_verb",
-    "word": "fulfilled",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/fʊlˈfɪld/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fulfilled-us.mp3",
-    "definition_en": "Completed to perfection",
-    "definition_zh": "v. 满足( fulfil的过去式和过去分词 ); 执行; 尽到; 应验",
-    "examples": [
-      "Doctors advise patients to fulfilled regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "pains_noun",
-    "word": "pains",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/pains/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pains-us.mp3",
-    "definition_en": "N an effortful attempt to attain a goal",
-    "definition_zh": "n. 麻烦, 辛苦",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the pains."
-    ]
-  },
-  {
-    "id": "infected_verb",
-    "word": "infected",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/in'fektid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infected-us.mp3",
-    "definition_en": "V communicate a disease to",
-    "definition_zh": "a. 被感染的",
-    "examples": [
-      "Doctors advise patients to infected regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "illusion_noun",
-    "word": "illusion",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/i'lju:ʒәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illusion-us.mp3",
-    "definition_en": "An erroneous mental representation",
-    "definition_zh": "n. 幻影, 错觉, 幻想",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the illusion."
-    ]
-  },
-  {
-    "id": "clinics_noun",
-    "word": "clinics",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/k'lɪnɪks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clinics-us.mp3",
-    "definition_en": "A medical establishment run by a group of medical specialists",
-    "definition_zh": "n. 诊所( clinic的复数形式 ); 门诊时间; 私人诊所; 临床实习",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the clinics."
-    ]
-  },
-  {
-    "id": "distilled_verb",
-    "word": "distilled",
+    "id": "surge_verb",
+    "word": "surge",
     "part_of_speech": "verb",
     "level": "C2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/dis'tild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distilled-us.mp3",
-    "definition_en": "V undergo condensation; change from a gaseous to a liquid state and fall in drops",
-    "definition_zh": "a. 由蒸馏得来的；净化的",
+    "phonetic": "/sә:dʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surge-us.mp3",
+    "definition_en": "See one's performance improve",
+    "definition_zh": "vi. 汹涌, 澎湃, 颠簸, 猛冲, 突然放松",
     "examples": [
-      "Doctors advise patients to distilled regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "viruses_noun",
-    "word": "viruses",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/viruses/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/viruses-us.mp3",
-    "definition_en": "N (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein",
-    "definition_zh": "n. 病毒；病霉（virus的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the viruses."
-    ]
-  },
-  {
-    "id": "drilled_verb",
-    "word": "drilled",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/drild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drilled-us.mp3",
-    "definition_en": "Trained in a skill by repetitious practice",
-    "definition_zh": "v. 钻（孔）( drill的过去式和过去分词 ); 打（眼）; 操练; 训练",
-    "examples": [
-      "Doctors advise patients to drilled regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "illustrated_noun",
-    "word": "illustrated",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'ilәstreitid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illustrated-us.mp3",
-    "definition_en": "V clarify by giving an example of",
-    "definition_zh": "n. 有插画的报章杂志",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the illustrated."
-    ]
-  },
-  {
-    "id": "healing_verb",
-    "word": "healing",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'hi:liŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healing-us.mp3",
-    "definition_en": "The natural process by which the body repairs itself",
-    "definition_zh": "a. 治愈的, 恢复健康的",
-    "examples": [
-      "Doctors advise patients to healing regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "fill_noun",
-    "word": "fill",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/fil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fill-us.mp3",
-    "definition_en": "A quantity sufficient to satisfy",
-    "definition_zh": "n. 满足, 装满, 充分, 填方",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the fill."
-    ]
-  },
-  {
-    "id": "medicines_noun",
-    "word": "medicines",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'medsnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medicines-us.mp3",
-    "definition_en": "The branches of medical science that deal with nonsurgical techniques",
-    "definition_zh": "n. 药( medicine的复数形式 ); 内服药; 医术; 医学",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the medicines."
-    ]
-  },
-  {
-    "id": "healing_noun",
-    "word": "healing",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'hi:liŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healing-us.mp3",
-    "definition_en": "The natural process by which the body repairs itself",
-    "definition_zh": "a. 治愈的, 恢复健康的",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the healing."
-    ]
-  },
-  {
-    "id": "milling_noun",
-    "word": "milling",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'miliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/milling-us.mp3",
-    "definition_en": "Corrugated edge of a coin",
-    "definition_zh": "n. 磨, 制粉, 轧齿边",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the milling."
-    ]
-  },
-  {
-    "id": "billions_noun",
-    "word": "billions",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'bɪljənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/billions-us.mp3",
-    "definition_en": "The number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen",
-    "definition_zh": "n. 十亿（billion的复数形式）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the billions."
-    ]
-  },
-  {
-    "id": "fulfilling_verb",
-    "word": "fulfilling",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/fulfilling/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fulfilling-us.mp3",
-    "definition_en": "V put in effect",
-    "definition_zh": "a. 能实现个人抱负的；令人高兴的；令人满意的",
-    "examples": [
-      "Doctors advise patients to fulfilling regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "villagers_noun",
-    "word": "villagers",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/villagers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/villagers-us.mp3",
-    "definition_en": "N one who has lived in a village most of their life",
-    "definition_zh": "n. 村民；乡下人（villager的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the villagers."
-    ]
-  },
-  {
-    "id": "recovering_verb",
-    "word": "recovering",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/recovering/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recovering-us.mp3",
-    "definition_en": "V get or find back; recover the use of",
-    "definition_zh": "n. 恢复；补偿；再生",
-    "examples": [
-      "Doctors advise patients to recovering regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "illustrating_verb",
-    "word": "illustrating",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/ˈiləstreitɪŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illustrating-us.mp3",
-    "definition_en": "Pr. & vb. n. of Illustrate",
-    "definition_zh": "v. 给…加插图( illustrate的现在分词 ); 说明; 表明; （用示例、图画等）说明",
-    "examples": [
-      "Doctors advise patients to illustrating regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "clinically_adverb",
-    "word": "clinically",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/clinically/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clinically-us.mp3",
-    "definition_en": "In a clinical manner",
-    "definition_zh": "adv. 临床, 临诊, 冷静, 不偏不倚, 分析",
-    "examples": [
-      "Researchers systematically observed clinically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "fills_verb",
-    "word": "fills",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/fills/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fills-us.mp3",
-    "definition_en": "N a quantity sufficient to satisfy",
-    "definition_zh": "n. 填充物；乱纹（fill的复数）",
-    "examples": [
-      "Doctors advise patients to fills regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "doctoral_adjective",
-    "word": "doctoral",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'dɒktәrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctoral-us.mp3",
-    "definition_en": "Of or relating to a doctor or doctorate",
-    "definition_zh": "a. 博士的",
-    "examples": [
-      "The committee analyzed a highly doctoral perspective during the forum."
-    ]
-  },
-  {
-    "id": "filled_adjective",
-    "word": "filled",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/fild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/filled-us.mp3",
-    "definition_en": "Of purchase orders that have been filled",
-    "definition_zh": "a. 加满的；装满的；满的",
-    "examples": [
-      "The committee analyzed a highly filled perspective during the forum."
-    ]
-  },
-  {
-    "id": "illnesses_noun",
-    "word": "illnesses",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'ɪlnəsɪz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illnesses-us.mp3",
-    "definition_en": "Impairment of normal physiological function affecting part or all of an organism",
-    "definition_zh": "n. （身体或精神上的）疾病( illness的复数形式 ); （某种）病; 患病期",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the illnesses."
-    ]
-  },
-  {
-    "id": "hurt_noun",
-    "word": "hurt",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/hә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hurt-us.mp3",
-    "definition_en": "Give trouble or pain to",
-    "definition_zh": "n. 伤害, 创伤, 损害",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the hurt."
-    ]
-  },
-  {
-    "id": "drills_noun",
-    "word": "drills",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/drills/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drills-us.mp3",
-    "definition_en": "N a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)",
-    "definition_zh": "n. 操练；斜纹布；钻头（drill的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the drills."
-    ]
-  },
-  {
-    "id": "healed_verb",
-    "word": "healed",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/hi:ld/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healed-us.mp3",
-    "definition_en": "V heal or recover",
-    "definition_zh": "v. （使）愈合( heal的过去式和过去分词 ); 治愈; （使）结束; 较容易忍受",
-    "examples": [
-      "Doctors advise patients to healed regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "diseased_adjective",
-    "word": "diseased",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/di'zi:zd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diseased-us.mp3",
-    "definition_en": "Caused by or altered by or manifesting disease or pathology",
-    "definition_zh": "a. 害病的, 病态的, 不健全的",
-    "examples": [
-      "The committee analyzed a highly diseased perspective during the forum."
+      "Many professionals surge key methods to achieve consistent, high-quality results."
     ]
   }
 ]

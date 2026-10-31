@@ -1,19 +1,5 @@
 [
   {
-    "id": "abuse_noun",
-    "word": "abuse",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/ә'bju:s.ә'bju:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abuse-us.mp3",
-    "definition_en": "A rude expression intended to offend or hurt",
-    "definition_zh": "n. 滥用, 虐待, 恶习, 辱骂",
-    "examples": [
-      "Understanding abuse provides valuable insights into everyday communication."
-    ]
-  },
-  {
     "id": "airplane_noun",
     "word": "airplane",
     "part_of_speech": "noun",
@@ -25,6 +11,20 @@
     "definition_zh": "n. 飞机",
     "examples": [
       "Understanding airplane provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "airplanes_noun",
+    "word": "airplanes",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/ˈɛəpleinz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airplanes-us.mp3",
+    "definition_en": "An aircraft that has a fixed wing and is powered by propellers or jets",
+    "definition_zh": "n. <美>飞机( airplane的复数形式 )",
+    "examples": [
+      "Understanding airplanes provides valuable insights into everyday communication."
     ]
   },
   {
@@ -42,18 +42,17 @@
     ]
   },
   {
-    "id": "arrive_verb",
-    "word": "arrive",
-    "part_of_speech": "verb",
+    "id": "airports_noun",
+    "word": "airports",
+    "part_of_speech": "noun",
     "level": "A1",
-    "topic": "Travel & Transport",
-    "phonetic": "/ә'raiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrive-us.mp3",
-    "definition_en": "To reach a destination; to come to the end of a journey.",
-    "definition_zh": "到达，抵达",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/'eəpɔ:ts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airports-us.mp3",
+    "definition_en": "An airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
+    "definition_zh": "n. 航空站, 机场, 航空港( airport的复数形式 )",
     "examples": [
-      "The international flight arrived precisely on schedule.",
-      "Call me the moment you arrive at the airport."
+      "Understanding airports provides valuable insights into everyday communication."
     ]
   },
   {
@@ -71,73 +70,17 @@
     ]
   },
   {
-    "id": "bush_noun",
-    "word": "bush",
+    "id": "buses_noun",
+    "word": "buses",
     "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/buʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bush-us.mp3",
-    "definition_en": "A large wilderness area",
-    "definition_zh": "n. 矮树丛",
-    "examples": [
-      "Understanding bush provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "bust_verb",
-    "word": "bust",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/bʌst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bust-us.mp3",
-    "definition_en": "A sculpture of the head and shoulders of a person",
-    "definition_zh": "vt. 使爆裂, 使破产",
-    "examples": [
-      "Many professionals bust key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "bustle_verb",
-    "word": "bustle",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'bʌsl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bustle-us.mp3",
-    "definition_en": "Move or cause to move energetically or busily",
-    "definition_zh": "vi. 奔忙, 喧闹",
-    "examples": [
-      "Many professionals bustle key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "bustling_adjective",
-    "word": "bustling",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'bʌsliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bustling-us.mp3",
-    "definition_en": "Full of energetic and noisy activity",
-    "definition_zh": "a. 熙熙攘攘的, 忙乱的",
-    "examples": [
-      "The committee analyzed a highly bustling perspective during the forum."
-    ]
-  },
-  {
-    "id": "busy_adjective",
-    "word": "busy",
-    "part_of_speech": "adjective",
     "level": "A1",
     "topic": "旅行出行与城市交通",
-    "phonetic": "/'bizi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/busy-us.mp3",
-    "definition_en": "Actively or fully engaged or occupied",
-    "definition_zh": "a. 忙碌的, 热闹的, 没空的",
+    "phonetic": "/buses/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buses-us.mp3",
+    "definition_en": "N a vehicle carrying many passengers; used for public transport",
+    "definition_zh": "n. 公共汽车（bus的复数形式）",
     "examples": [
-      "The committee analyzed a highly busy perspective during the forum."
+      "Understanding buses provides valuable insights into everyday communication."
     ]
   },
   {
@@ -155,412 +98,17 @@
     ]
   },
   {
-    "id": "caravan_noun",
-    "word": "caravan",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kærәvæn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caravan-us.mp3",
-    "definition_en": "A procession (of wagons or mules or camels) traveling together in single file",
-    "definition_zh": "n. 旅行队, 有篷顶的大车",
-    "examples": [
-      "Understanding caravan provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carbon_noun",
-    "word": "carbon",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:bәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carbon-us.mp3",
-    "definition_en": "An abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds",
-    "definition_zh": "n. 碳, 副本, 复写纸",
-    "examples": [
-      "Understanding carbon provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "card_noun",
-    "word": "card",
+    "id": "cars_noun",
+    "word": "cars",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "旅行出行与城市交通",
-    "phonetic": "/kɑ:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/card-us.mp3",
-    "definition_en": "One of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes",
-    "definition_zh": "n. 卡片, 纸牌, 节目单, 明信片, 梳棉机",
+    "phonetic": "/cars/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cars-us.mp3",
+    "definition_en": "N a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+    "definition_zh": "abbr. 中美洲研究站（Central America Research Station）；计算机化自动额定值系统（computerized automatic rating system）；汽车收据结账证书（Certificates for Automobile Receivables）",
     "examples": [
-      "Understanding card provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "cardboard_noun",
-    "word": "cardboard",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:dbɒ:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cardboard-us.mp3",
-    "definition_en": "A stiff moderately thick paper",
-    "definition_zh": "n. 薄纸板",
-    "examples": [
-      "Understanding cardboard provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "cardigan_noun",
-    "word": "cardigan",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:digәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cardigan-us.mp3",
-    "definition_en": "Knitted jacket that is fastened up the front with buttons or a zipper",
-    "definition_zh": "n. 卡迪根式开襟羊毛衫",
-    "examples": [
-      "Understanding cardigan provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "care_noun",
-    "word": "care",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/care-us.mp3",
-    "definition_en": "The work of providing treatment for or attending to someone or something",
-    "definition_zh": "n. 小心, 照料, 忧虑",
-    "examples": [
-      "Understanding care provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "care_verb",
-    "word": "care",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/care-us.mp3",
-    "definition_en": "The work of providing treatment for or attending to someone or something",
-    "definition_zh": "vi. 关心, 介意",
-    "examples": [
-      "Many professionals care key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "carefree_adjective",
-    "word": "carefree",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kєәfri:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carefree-us.mp3",
-    "definition_en": "Free of trouble and worry and care",
-    "definition_zh": "a. 无忧无虑的, 不负责的",
-    "examples": [
-      "The committee analyzed a highly carefree perspective during the forum."
-    ]
-  },
-  {
-    "id": "careful_adjective",
-    "word": "careful",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kєәful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/careful-us.mp3",
-    "definition_en": "Exercising caution or showing care or attention",
-    "definition_zh": "a. 小心的, 谨慎的",
-    "examples": [
-      "The committee analyzed a highly careful perspective during the forum."
-    ]
-  },
-  {
-    "id": "carefully_adverb",
-    "word": "carefully",
-    "part_of_speech": "adverb",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kєәfuli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carefully-us.mp3",
-    "definition_en": "Taking care or paying attention",
-    "definition_zh": "adv. 小心地, 谨慎地",
-    "examples": [
-      "Researchers systematically observed carefully relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "careless_adjective",
-    "word": "careless",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kєәlis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/careless-us.mp3",
-    "definition_en": "Marked by lack of attention or consideration or forethought or thoroughness; not careful",
-    "definition_zh": "a. 粗心的, 不关心的, 无忧无虑的",
-    "examples": [
-      "The committee analyzed a highly careless perspective during the forum."
-    ]
-  },
-  {
-    "id": "carelessly_adverb",
-    "word": "carelessly",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kєәlisli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carelessly-us.mp3",
-    "definition_en": "Without care or concern",
-    "definition_zh": "adv. 不注意地, 粗心地",
-    "examples": [
-      "Researchers systematically observed carelessly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "carelessness_noun",
-    "word": "carelessness",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/carelessness/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carelessness-us.mp3",
-    "definition_en": "The quality of not being careful or taking pains",
-    "definition_zh": "n. 粗心大意",
-    "examples": [
-      "Understanding carelessness provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "caring_adjective",
-    "word": "caring",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kεәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caring-us.mp3",
-    "definition_en": "Feeling and exhibiting concern and empathy for others",
-    "definition_zh": "a. 有同情心的；表示或感到关怀或关心的",
-    "examples": [
-      "The committee analyzed a highly caring perspective during the forum."
-    ]
-  },
-  {
-    "id": "carnival_noun",
-    "word": "carnival",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:nivәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carnival-us.mp3",
-    "definition_en": "A festival marked by merrymaking and processions",
-    "definition_zh": "n. 嘉年华会, 狂欢节, 饮宴狂欢",
-    "examples": [
-      "Understanding carnival provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carpet_noun",
-    "word": "carpet",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:pit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carpet-us.mp3",
-    "definition_en": "A natural object that resembles or suggests a carpet",
-    "definition_zh": "n. 地毯, 地毯状物",
-    "examples": [
-      "Understanding carpet provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carpool_noun",
-    "word": "carpool",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:pu:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carpool-us.mp3",
-    "definition_en": "Denoting carpool; widely used in Travel & Transportation.",
-    "definition_zh": "v. 合伙使用汽车",
-    "examples": [
-      "Understanding carpool provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carriage_noun",
-    "word": "carriage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kæridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carriage-us.mp3",
-    "definition_en": "A vehicle with wheels drawn by one or more horses",
-    "definition_zh": "n. 马车, 客车, 举止, 运输",
-    "examples": [
-      "Understanding carriage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carry_verb",
-    "word": "carry",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kæri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carry-us.mp3",
-    "definition_en": "Have with oneself; have on one's person",
-    "definition_zh": "vt. 携带, 运送, 支持, 传送, 包含",
-    "examples": [
-      "Many professionals carry key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "carton_noun",
-    "word": "carton",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:tn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carton-us.mp3",
-    "definition_en": "The quantity contained in a carton",
-    "definition_zh": "n. 硬纸盒, 纸板箱",
-    "examples": [
-      "Understanding carton provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "cartoon_noun",
-    "word": "cartoon",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kɑ:'tu:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cartoon-us.mp3",
-    "definition_en": "A humorous or satirical drawing published in a newspaper or magazine",
-    "definition_zh": "n. 卡通画, 漫画",
-    "examples": [
-      "Understanding cartoon provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carve_verb",
-    "word": "carve",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kɑ:v/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carve-us.mp3",
-    "definition_en": "Form by carving",
-    "definition_zh": "v. 雕刻, 切开",
-    "examples": [
-      "Many professionals carve key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "commute_verb",
-    "word": "commute",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "Travel & Transport",
-    "phonetic": "/kә'mju:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/commute-us.mp3",
-    "definition_en": "To travel regularly over some distance between one's home and place of work.",
-    "definition_zh": "通勤，上下班往返",
-    "examples": [
-      "She commutes daily by express subway from New Jersey into Manhattan.",
-      "Remote work allows engineers to skip the stressful morning commute."
-    ]
-  },
-  {
-    "id": "cruise_noun",
-    "word": "cruise",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kru:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cruise-us.mp3",
-    "definition_en": "An ocean trip taken for pleasure",
-    "definition_zh": "n. 巡航, 巡弋, 漫游",
-    "examples": [
-      "Understanding cruise provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "cruise_verb",
-    "word": "cruise",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kru:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cruise-us.mp3",
-    "definition_en": "Drive around aimlessly but ostentatiously and at leisure",
-    "definition_zh": "v. 巡航, 巡弋, 漫游",
-    "examples": [
-      "Many professionals cruise key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "deforestation_noun",
-    "word": "deforestation",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/di:.fɒ:ri'steiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deforestation-us.mp3",
-    "definition_en": "The state of being clear of trees",
-    "definition_zh": "n. 采伐森林, 森林开伐",
-    "examples": [
-      "Understanding deforestation provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "delay_noun",
-    "word": "delay",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/di'lei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delay-us.mp3",
-    "definition_en": "Time during which some action is awaited",
-    "definition_zh": "n. 耽搁, 迟滞",
-    "examples": [
-      "Understanding delay provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "delay_verb",
-    "word": "delay",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "Travel & Transport",
-    "phonetic": "/di'lei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delay-us.mp3",
-    "definition_en": "To postpone until a later date or time; to cause to be tardy.",
-    "definition_zh": "延迟，耽搁",
-    "examples": [
-      "Severe thunderstorms delayed the flight by nearly two hours.",
-      "Don't delay making your reservations before prices surge."
-    ]
-  },
-  {
-    "id": "destination_noun",
-    "word": "destination",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "Travel & Transport",
-    "phonetic": "/.desti'neiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/destination-us.mp3",
-    "definition_en": "The ultimate endpoint to which someone or something travels.",
-    "definition_zh": "目的地，终点",
-    "examples": [
-      "Kyoto remains one of the world's most sought-after travel destinations.",
-      "After ten hours on the road, they finally reached their destination."
+      "Understanding cars provides valuable insights into everyday communication."
     ]
   },
   {
@@ -575,6 +123,217 @@
     "definition_zh": "n. 驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器",
     "examples": [
       "Understanding drive provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "driver_noun",
+    "word": "driver",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/'draivә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/driver-us.mp3",
+    "definition_en": "The operator of a motor vehicle",
+    "definition_zh": "n. 驾驶员, 驱动器, 驱动程序",
+    "examples": [
+      "Understanding driver provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "drivers_noun",
+    "word": "drivers",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/drivers/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drivers-us.mp3",
+    "definition_en": "N the operator of a motor vehicle",
+    "definition_zh": "[计] 驱动程序",
+    "examples": [
+      "Understanding drivers provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "hotel_noun",
+    "word": "hotel",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/hәu'tel/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hotel-us.mp3",
+    "definition_en": "A building where travelers can pay for lodging and meals and other services",
+    "definition_zh": "n. 旅馆, 客栈",
+    "examples": [
+      "Understanding hotel provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "hotels_noun",
+    "word": "hotels",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/hotels/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hotels-us.mp3",
+    "definition_en": "N a building where travelers can pay for lodging and meals and other services",
+    "definition_zh": "n. 酒店；大饭店；旅馆（hotel的复数）",
+    "examples": [
+      "Understanding hotels provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "plane_noun",
+    "word": "plane",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/plein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plane-us.mp3",
+    "definition_en": "(mathematics) an unbounded two-dimensional shape",
+    "definition_zh": "n. 平面, 扁平物, 机翼, 飞机, 水准, 地位",
+    "examples": [
+      "Understanding plane provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "station_noun",
+    "word": "station",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/'steiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/station-us.mp3",
+    "definition_en": "A facility equipped with special equipment and personnel for a particular purpose",
+    "definition_zh": "n. 车站, 站, 局, 驻地, 位置, 身分, 地位",
+    "examples": [
+      "Understanding station provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "stations_noun",
+    "word": "stations",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/stations/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stations-us.mp3",
+    "definition_en": "(Roman Catholic Church) a devotion consisting of fourteen prayers said before a series of fourteen pictures or carvings representing successive incidents during Jesus' passage from Pilate's house to his crucifixion at Calvary",
+    "definition_zh": "n. 车站；驻地；位置（station的复数形式）",
+    "examples": [
+      "Understanding stations provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "subway_noun",
+    "word": "subway",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/'sʌbwei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subway-us.mp3",
+    "definition_en": "N an electric railway operating below the surface of the ground (usually in a city)",
+    "definition_zh": "n. 地铁, 地道",
+    "examples": [
+      "Understanding subway provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "ticket_noun",
+    "word": "ticket",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/'tikit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ticket-us.mp3",
+    "definition_en": "A pass entitling the holder to admission to a venue or transit on passenger transport.",
+    "definition_zh": "票，入场券，车票",
+    "examples": [
+      "I booked a train ticket to Edinburgh this morning.",
+      "Do you have your boarding ticket ready for the gate agent?"
+    ]
+  },
+  {
+    "id": "tickets_noun",
+    "word": "tickets",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/tickets/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tickets-us.mp3",
+    "definition_en": "N a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)",
+    "definition_zh": "n. 票；罚单（ticket的复数）",
+    "examples": [
+      "Understanding tickets provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "train_noun",
+    "word": "train",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/trein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/train-us.mp3",
+    "definition_en": "Public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+    "definition_zh": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序",
+    "examples": [
+      "Understanding train provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "travel_verb",
+    "word": "travel",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/'trævl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/travel-us.mp3",
+    "definition_en": "Change location; move, travel, or proceed, also metaphorically",
+    "definition_zh": "vi. 旅行, 行进, 移动, 被传播",
+    "examples": [
+      "Many professionals travel key methods to achieve consistent, high-quality results."
+    ]
+  },
+  {
+    "id": "trip_noun",
+    "word": "trip",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/trip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trip-us.mp3",
+    "definition_en": "A journey for some purpose (usually including the return)",
+    "definition_zh": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程",
+    "examples": [
+      "Understanding trip provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "boarding_noun",
+    "word": "boarding",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/'bɒ:diŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boarding-us.mp3",
+    "definition_en": "The act of passengers and crew getting aboard a ship or aircraft",
+    "definition_zh": "n. 木板",
+    "examples": [
+      "Understanding boarding provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "cruise_noun",
+    "word": "cruise",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/kru:z/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cruise-us.mp3",
+    "definition_en": "An ocean trip taken for pleasure",
+    "definition_zh": "n. 巡航, 巡弋, 漫游",
+    "examples": [
+      "Understanding cruise provides valuable insights into everyday communication."
     ]
   },
   {
@@ -606,17 +365,17 @@
     ]
   },
   {
-    "id": "hotel_noun",
-    "word": "hotel",
+    "id": "flights_noun",
+    "word": "flights",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "A2",
     "topic": "旅行出行与城市交通",
-    "phonetic": "/hәu'tel/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hotel-us.mp3",
-    "definition_en": "A building where travelers can pay for lodging and meals and other services",
-    "definition_zh": "n. 旅馆, 客栈",
+    "phonetic": "/flaits/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flights-us.mp3",
+    "definition_en": "N a formation of aircraft in flight",
+    "definition_zh": "n. （物体的）飞行( flight的名词复数 ); 航班; 飞翔; 楼梯的一段",
     "examples": [
-      "Understanding hotel provides valuable insights into everyday communication."
+      "Understanding flights provides valuable insights into everyday communication."
     ]
   },
   {
@@ -638,7 +397,7 @@
     "word": "luggage",
     "part_of_speech": "noun",
     "level": "A2",
-    "topic": "Travel & Transport",
+    "topic": "旅行出行与城市交通",
     "phonetic": "/'lʌgidʒ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/luggage-us.mp3",
     "definition_en": "Suitcases, bags, or other items used to carry a traveler's belongings.",
@@ -663,270 +422,17 @@
     ]
   },
   {
-    "id": "passport_noun",
-    "word": "passport",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'pæspɒ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passport-us.mp3",
-    "definition_en": "A document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country",
-    "definition_zh": "n. 护照, 手段, 通行证",
-    "examples": [
-      "Understanding passport provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "plane_noun",
-    "word": "plane",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/plein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plane-us.mp3",
-    "definition_en": "(mathematics) an unbounded two-dimensional shape",
-    "definition_zh": "n. 平面, 扁平物, 机翼, 飞机, 水准, 地位",
-    "examples": [
-      "Understanding plane provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "postcard_noun",
-    "word": "postcard",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'pәustkɑ:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/postcard-us.mp3",
-    "definition_en": "A card for sending messages by post without an envelope",
-    "definition_zh": "n. 明信片",
-    "examples": [
-      "Understanding postcard provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "route_noun",
-    "word": "route",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/ru:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/route-us.mp3",
-    "definition_en": "Send documents or materials to appropriate destinations",
-    "definition_zh": "n. 路径, 途径, 路线",
-    "examples": [
-      "Understanding route provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "scar_noun",
-    "word": "scar",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/skɑ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scar-us.mp3",
-    "definition_en": "A mark left (usually on the skin) by the healing of injured tissue",
-    "definition_zh": "n. 疤痕, 伤痕, 悬崖",
-    "examples": [
-      "Understanding scar provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "scarcely_adverb",
-    "word": "scarcely",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'skɑ:sli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scarcely-us.mp3",
-    "definition_en": "R only a very short time before",
-    "definition_zh": "adv. 简直不, 一定不, 仅仅",
-    "examples": [
-      "Researchers systematically observed scarcely relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "scare_verb",
-    "word": "scare",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/skєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scare-us.mp3",
-    "definition_en": "A sudden attack of fear",
-    "definition_zh": "vt. 惊吓, 使恐慌",
-    "examples": [
-      "Many professionals scare key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "scared_adjective",
-    "word": "scared",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/skeәd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scared-us.mp3",
-    "definition_en": "V cause fear in",
-    "definition_zh": "a. 害怕的, 担惊受怕的, 惊慌的, 吓坏了的",
-    "examples": [
-      "The committee analyzed a highly scared perspective during the forum."
-    ]
-  },
-  {
-    "id": "scarf_noun",
-    "word": "scarf",
+    "id": "passengers_noun",
+    "word": "passengers",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "旅行出行与城市交通",
-    "phonetic": "/skɑ:f/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scarf-us.mp3",
-    "definition_en": "A garment worn around the head or neck or shoulders for warmth or decoration",
-    "definition_zh": "n. 围巾, 头巾, 领带, 领巾, 嵌接",
+    "phonetic": "/'pæsndʒɚ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passengers-us.mp3",
+    "definition_en": "N a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it",
+    "definition_zh": "n. 乘客( passenger的名词复数 ); 旅客; 白吃饭的人; 闲散人员",
     "examples": [
-      "Understanding scarf provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "scarlet_noun",
-    "word": "scarlet",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'skɑ:lit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scarlet-us.mp3",
-    "definition_en": "A variable color that is vivid red but sometimes with an orange tinge",
-    "definition_zh": "n. 猩红色, 绯红色, 红衣",
-    "examples": [
-      "Understanding scarlet provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "scary_adjective",
-    "word": "scary",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'skєәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scary-us.mp3",
-    "definition_en": "S provoking fear terror",
-    "definition_zh": "a. 容易受惊的, 胆小的, 提心吊胆的",
-    "examples": [
-      "The committee analyzed a highly scary perspective during the forum."
-    ]
-  },
-  {
-    "id": "station_noun",
-    "word": "station",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'steiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/station-us.mp3",
-    "definition_en": "A facility equipped with special equipment and personnel for a particular purpose",
-    "definition_zh": "n. 车站, 站, 局, 驻地, 位置, 身分, 地位",
-    "examples": [
-      "Understanding station provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "strain_noun",
-    "word": "strain",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/strein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strain-us.mp3",
-    "definition_en": "(physics) deformation of a physical body under the action of applied forces",
-    "definition_zh": "n. 紧张, 拉紧, 张力, 过劳, 扭伤, 血缘, 种, 族, 气质, 曲调, 旋律, 口吻",
-    "examples": [
-      "Understanding strain provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "strain_verb",
-    "word": "strain",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/strein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strain-us.mp3",
-    "definition_en": "(physics) deformation of a physical body under the action of applied forces",
-    "definition_zh": "vt. 使劳累, 拉紧, 过分使用, 扭伤, 滥用, 曲解, 滤",
-    "examples": [
-      "Many professionals strain key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "strip_noun",
-    "word": "strip",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/strip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strip-us.mp3",
-    "definition_en": "A relatively long narrow piece of something",
-    "definition_zh": "n. 长条, 条状, 带, 脱衣舞",
-    "examples": [
-      "Understanding strip provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "strip_verb",
-    "word": "strip",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/strip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strip-us.mp3",
-    "definition_en": "A relatively long narrow piece of something",
-    "definition_zh": "vt. 脱衣, 被剥去, 剥夺, 拆卸",
-    "examples": [
-      "Many professionals strip key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "stripe_noun",
-    "word": "stripe",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/straip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stripe-us.mp3",
-    "definition_en": "A piece of braid, usually on the sleeve, indicating military rank or length of service",
-    "definition_zh": "n. 斑纹, 条纹",
-    "examples": [
-      "Understanding stripe provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "subway_noun",
-    "word": "subway",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'sʌbwei/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subway-us.mp3",
-    "definition_en": "N an electric railway operating below the surface of the ground (usually in a city)",
-    "definition_zh": "n. 地铁, 地道",
-    "examples": [
-      "Understanding subway provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "ticket_noun",
-    "word": "ticket",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Travel & Transport",
-    "phonetic": "/'tikit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ticket-us.mp3",
-    "definition_en": "A pass entitling the holder to admission to a venue or transit on passenger transport.",
-    "definition_zh": "票，入场券，车票",
-    "examples": [
-      "I booked a train ticket to Edinburgh this morning.",
-      "Do you have your boarding ticket ready for the gate agent?"
+      "Understanding passengers provides valuable insights into everyday communication."
     ]
   },
   {
@@ -944,17 +450,17 @@
     ]
   },
   {
-    "id": "train_noun",
-    "word": "train",
+    "id": "tourists_noun",
+    "word": "tourists",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "A2",
     "topic": "旅行出行与城市交通",
-    "phonetic": "/trein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/train-us.mp3",
-    "definition_en": "Public transport provided by a line of railway cars coupled together and drawn by a locomotive",
-    "definition_zh": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序",
+    "phonetic": "/'tʊərɪsts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tourists-us.mp3",
+    "definition_en": "N someone who travels for pleasure",
+    "definition_zh": "n. 旅行者, 观光客( tourist的名词复数 )",
     "examples": [
-      "Understanding train provides valuable insights into everyday communication."
+      "Understanding tourists provides valuable insights into everyday communication."
     ]
   },
   {
@@ -972,48 +478,6 @@
     ]
   },
   {
-    "id": "trainee_noun",
-    "word": "trainee",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/trei'ni:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trainee-us.mp3",
-    "definition_en": "Someone who is being trained",
-    "definition_zh": "n. 实习生, 新兵, 受培训者",
-    "examples": [
-      "Understanding trainee provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "trainer_noun",
-    "word": "trainer",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'treinә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trainer-us.mp3",
-    "definition_en": "One who trains other persons or animals",
-    "definition_zh": "n. 训练员, 驯马师",
-    "examples": [
-      "Understanding trainer provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "training_noun",
-    "word": "training",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'treiniŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/training-us.mp3",
-    "definition_en": "Activity leading to skilled behavior",
-    "definition_zh": "n. 训练, 培养",
-    "examples": [
-      "Understanding training provides valuable insights into everyday communication."
-    ]
-  },
-  {
     "id": "travel_noun",
     "word": "travel",
     "part_of_speech": "noun",
@@ -1025,20 +489,6 @@
     "definition_zh": "n. 旅行, 游历, 行进",
     "examples": [
       "Understanding travel provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "travel_verb",
-    "word": "travel",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'trævl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/travel-us.mp3",
-    "definition_en": "Change location; move, travel, or proceed, also metaphorically",
-    "definition_zh": "vi. 旅行, 行进, 移动, 被传播",
-    "examples": [
-      "Many professionals travel key methods to achieve consistent, high-quality results."
     ]
   },
   {
@@ -1056,31 +506,74 @@
     ]
   },
   {
-    "id": "trip_noun",
-    "word": "trip",
+    "id": "travelers_noun",
+    "word": "travelers",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "A2",
     "topic": "旅行出行与城市交通",
-    "phonetic": "/trip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trip-us.mp3",
-    "definition_en": "A journey for some purpose (usually including the return)",
-    "definition_zh": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程",
+    "phonetic": "/travelers/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/travelers-us.mp3",
+    "definition_en": "N a person who changes location",
+    "definition_zh": "n. 旅行者；旅客（traveler的复数形式）",
     "examples": [
-      "Understanding trip provides valuable insights into everyday communication."
+      "Understanding travelers provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "trip_verb",
-    "word": "trip",
-    "part_of_speech": "verb",
-    "level": "B2",
+    "id": "baggage_noun",
+    "word": "baggage",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "旅行出行与城市交通",
-    "phonetic": "/trip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trip-us.mp3",
-    "definition_en": "A journey for some purpose (usually including the return)",
-    "definition_zh": "vt. 使跌倒, 使犯错, 使失败",
+    "phonetic": "/'bægidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/baggage-us.mp3",
+    "definition_en": "Cases used to carry belongings when traveling",
+    "definition_zh": "n. 行李",
     "examples": [
-      "Many professionals trip key methods to achieve consistent, high-quality results."
+      "Recent breakthroughs in baggage have accelerated modern technological innovation."
+    ]
+  },
+  {
+    "id": "commute_verb",
+    "word": "commute",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/kә'mju:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/commute-us.mp3",
+    "definition_en": "To travel regularly over some distance between one's home and place of work.",
+    "definition_zh": "通勤，上下班往返",
+    "examples": [
+      "She commutes daily by express subway from New Jersey into Manhattan.",
+      "Remote work allows engineers to skip the stressful morning commute."
+    ]
+  },
+  {
+    "id": "passport_noun",
+    "word": "passport",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/'pæspɒ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passport-us.mp3",
+    "definition_en": "A document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country",
+    "definition_zh": "n. 护照, 手段, 通行证",
+    "examples": [
+      "Understanding passport provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "tourism_noun",
+    "word": "tourism",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/'tuәrizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tourism-us.mp3",
+    "definition_en": "The business of providing services to tourists",
+    "definition_zh": "n. 观光业, 游览",
+    "examples": [
+      "Recent breakthroughs in tourism have accelerated modern technological innovation."
     ]
   },
   {
@@ -1112,143 +605,31 @@
     ]
   },
   {
-    "id": "woodcarving_noun",
-    "word": "woodcarving",
+    "id": "cruise_verb",
+    "word": "cruise",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "旅行出行与城市交通",
+    "phonetic": "/kru:z/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cruise-us.mp3",
+    "definition_en": "Drive around aimlessly but ostentatiously and at leisure",
+    "definition_zh": "v. 巡航, 巡弋, 漫游",
+    "examples": [
+      "Many professionals cruise key methods to achieve consistent, high-quality results."
+    ]
+  },
+  {
+    "id": "inspectors_noun",
+    "word": "inspectors",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "旅行出行与城市交通",
-    "phonetic": "/'wud.kɑ:viŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/woodcarving-us.mp3",
-    "definition_en": "A carving created by carving wood",
-    "definition_zh": "n. 木雕",
+    "phonetic": "/ɪnˈspektəz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inspectors-us.mp3",
+    "definition_en": "A high ranking police officer",
+    "definition_zh": "n. 检查员( inspector的复数形式 ); （英国公共汽车或火车上的）查票员; （警察）巡官; 检阅官",
     "examples": [
-      "Understanding woodcarving provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "constraint_noun",
-    "word": "constraint",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kәn'streint/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/constraint-us.mp3",
-    "definition_en": "The state of being physically constrained",
-    "definition_zh": "n. 强制, 约束",
-    "examples": [
-      "Understanding constraint provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carrier_noun",
-    "word": "carrier",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kæriә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carrier-us.mp3",
-    "definition_en": "Someone whose employment involves carrying something",
-    "definition_zh": "n. 运送者, 邮递员, 带菌者",
-    "examples": [
-      "Understanding carrier provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "blockbuster_noun",
-    "word": "blockbuster",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'blɒkbʌstә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blockbuster-us.mp3",
-    "definition_en": "A large bomb used to demolish extensive areas (as a city block)",
-    "definition_zh": "n. 巨型炸弹",
-    "examples": [
-      "Understanding blockbuster provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "robust_adjective",
-    "word": "robust",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/rәu'bʌst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/robust-us.mp3",
-    "definition_en": "Sturdy and strong in form, constitution, or construction",
-    "definition_zh": "a. 健康的, 强健的, 要用力气的, 坚定的, 粗野的",
-    "examples": [
-      "The committee analyzed a highly robust perspective during the forum."
-    ]
-  },
-  {
-    "id": "robustly_adverb",
-    "word": "robustly",
-    "part_of_speech": "adverb",
-    "level": "C1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/rəʊ'bʌstlɪ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/robustly-us.mp3",
-    "definition_en": "In a robust manner",
-    "definition_zh": "adv. 要用体力地, 粗鲁地",
-    "examples": [
-      "Researchers systematically observed robustly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "discard_verb",
-    "word": "discard",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/dis'kɑ:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discard-us.mp3",
-    "definition_en": "Throw or cast away",
-    "definition_zh": "vt. 丢弃, 抛弃",
-    "examples": [
-      "Many professionals discard key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "envisage_verb",
-    "word": "envisage",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/in'vizidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/envisage-us.mp3",
-    "definition_en": "V form a mental image of something that is not present or that is not the case",
-    "definition_zh": "vt. 面对, 正视, 想象",
-    "examples": [
-      "Many professionals envisage key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "carpenter_noun",
-    "word": "carpenter",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:pintә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carpenter-us.mp3",
-    "definition_en": "A woodworker who makes or repairs wooden objects",
-    "definition_zh": "n. 木匠",
-    "examples": [
-      "Understanding carpenter provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carpentry_noun",
-    "word": "carpentry",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:pintri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carpentry-us.mp3",
-    "definition_en": "The craft of a carpenter: making things out of wood",
-    "definition_zh": "n. 木工手艺, 木工业, 木器",
-    "examples": [
-      "Understanding carpentry provides valuable insights into everyday communication."
+      "Understanding inspectors provides valuable insights into everyday communication."
     ]
   },
   {
@@ -1256,7 +637,7 @@
     "word": "itinerary",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "Travel & Transport",
+    "topic": "旅行出行与城市交通",
     "phonetic": "/ai'tinәrәri/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/itinerary-us.mp3",
     "definition_en": "A detailed schedule, route, or proposed outline of a journey.",
@@ -1267,228 +648,17 @@
     ]
   },
   {
-    "id": "expedite_verb",
-    "word": "expedite",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "Travel & Transport",
-    "phonetic": "/'ekspidait/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/expedite-us.mp3",
-    "definition_en": "To accelerate the process or dispatch of; to hasten progress.",
-    "definition_zh": "加速，加快...的进程",
-    "examples": [
-      "Border control introduced biometric e-gates to expedite customs clearance.",
-      "You can pay an express fee to expedite passport renewal."
-    ]
-  },
-  {
-    "id": "constrained_adjective",
-    "word": "constrained",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kәn'streind/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/constrained-us.mp3",
-    "definition_en": "Lacking spontaneity; not natural",
-    "definition_zh": "a. 被强迫的, 被约束的, 不舒服的",
-    "examples": [
-      "The committee analyzed a highly constrained perspective during the forum."
-    ]
-  },
-  {
-    "id": "carbonize_verb",
-    "word": "carbonize",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:bәnaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carbonize-us.mp3",
-    "definition_en": "Unite with carbon",
-    "definition_zh": "vt. 使焦化, 使碳化, 使与碳化合",
-    "examples": [
-      "Many professionals carbonize key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "hotelier_noun",
-    "word": "hotelier",
+    "id": "route_noun",
+    "word": "route",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B2",
     "topic": "旅行出行与城市交通",
-    "phonetic": "/hәj'teliә(r)/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hotelier-us.mp3",
-    "definition_en": "An owner or manager of hotels",
-    "definition_zh": "n. 旅馆老板",
+    "phonetic": "/ru:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/route-us.mp3",
+    "definition_en": "Send documents or materials to appropriate destinations",
+    "definition_zh": "n. 路径, 途径, 路线",
     "examples": [
-      "Understanding hotelier provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "combustion_noun",
-    "word": "combustion",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kәm'bʌstʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/combustion-us.mp3",
-    "definition_en": "A process in which a substance reacts with oxygen to give heat and light",
-    "definition_zh": "n. 燃烧, 骚动",
-    "examples": [
-      "Understanding combustion provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "flighty_adjective",
-    "word": "flighty",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'flaiti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flighty-us.mp3",
-    "definition_en": "Guided by whim and fancy",
-    "definition_zh": "a. 轻浮的, 轻狂的, 心情浮动的",
-    "examples": [
-      "The committee analyzed a highly flighty perspective during the forum."
-    ]
-  },
-  {
-    "id": "flightiness_noun",
-    "word": "flightiness",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'flaitinis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flightiness-us.mp3",
-    "definition_en": "The trait of acting unpredictably and more from whim or caprice than from reason or judgment",
-    "definition_zh": "n. 轻浮, 疯狂",
-    "examples": [
-      "Understanding flightiness provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "improvisational_adjective",
-    "word": "improvisational",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/,imprәvai'zeiʃәnәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/improvisational-us.mp3",
-    "definition_en": "Denoting improvisational; widely used in Travel & Transportation.",
-    "definition_zh": "a. 即兴的",
-    "examples": [
-      "The committee analyzed a highly improvisational perspective during the forum."
-    ]
-  },
-  {
-    "id": "carried_verb",
-    "word": "carried",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kærid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carried-us.mp3",
-    "definition_en": "V move while supporting, either in a vehicle or in one's hands or on one's body",
-    "definition_zh": "a. 入神的；被运的；忘我的",
-    "examples": [
-      "Many professionals carried key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "carrying_verb",
-    "word": "carrying",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kæriiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carrying-us.mp3",
-    "definition_en": "V move while supporting, either in a vehicle or in one's hands or on one's body",
-    "definition_zh": "[法] 运载",
-    "examples": [
-      "Many professionals carrying key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "arrived_verb",
-    "word": "arrived",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/a'raivd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrived-us.mp3",
-    "definition_en": "Imp. & p. p. of Arrive",
-    "definition_zh": "v. 抵达；抵港（arrive的过去式）",
-    "examples": [
-      "Many professionals arrived key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "cars_noun",
-    "word": "cars",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/cars/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cars-us.mp3",
-    "definition_en": "N a motor vehicle with four wheels; usually propelled by an internal combustion engine",
-    "definition_zh": "abbr. 中美洲研究站（Central America Research Station）；计算机化自动额定值系统（computerized automatic rating system）；汽车收据结账证书（Certificates for Automobile Receivables）",
-    "examples": [
-      "Understanding cars provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "stations_noun",
-    "word": "stations",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/stations/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stations-us.mp3",
-    "definition_en": "(Roman Catholic Church) a devotion consisting of fourteen prayers said before a series of fourteen pictures or carvings representing successive incidents during Jesus' passage from Pilate's house to his crucifixion at Calvary",
-    "definition_zh": "n. 车站；驻地；位置（station的复数形式）",
-    "examples": [
-      "Understanding stations provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carriers_noun",
-    "word": "carriers",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kærɪəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carriers-us.mp3",
-    "definition_en": "Someone whose employment involves carrying something",
-    "definition_zh": "n. （自身不受感染而传播疾病的）带菌者( carrier的复数形式 ); （尤指经营空运的）运输公司; 搬运人; 军输车",
-    "examples": [
-      "Understanding carriers provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "cards_noun",
-    "word": "cards",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/cards/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cards-us.mp3",
-    "definition_en": "N a game played with playing cards",
-    "definition_zh": "n. (playing cards)(正式)一副纸牌, 一副扑克牌, 纸牌游戏, 打扑克",
-    "examples": [
-      "Understanding cards provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "passengers_noun",
-    "word": "passengers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'pæsndʒɚ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passengers-us.mp3",
-    "definition_en": "N a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it",
-    "definition_zh": "n. 乘客( passenger的名词复数 ); 旅客; 白吃饭的人; 闲散人员",
-    "examples": [
-      "Understanding passengers provides valuable insights into everyday communication."
+      "Understanding route provides valuable insights into everyday communication."
     ]
   },
   {
@@ -1506,409 +676,17 @@
     ]
   },
   {
-    "id": "carries_verb",
-    "word": "carries",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/carries/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carries-us.mp3",
-    "definition_en": "N the act of carrying something",
-    "definition_zh": "v. 传递；携带；运载；怀孕（carry的第三人称单数形式）",
-    "examples": [
-      "Many professionals carries key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "planes_noun",
-    "word": "planes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/planes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/planes-us.mp3",
-    "definition_en": "N an aircraft that has a fixed wing and is powered by propellers or jets",
-    "definition_zh": "n. 位面",
-    "examples": [
-      "Understanding planes provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "hotels_noun",
-    "word": "hotels",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/hotels/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hotels-us.mp3",
-    "definition_en": "N a building where travelers can pay for lodging and meals and other services",
-    "definition_zh": "n. 酒店；大饭店；旅馆（hotel的复数）",
-    "examples": [
-      "Understanding hotels provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "training_verb",
-    "word": "training",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'treiniŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/training-us.mp3",
-    "definition_en": "Activity leading to skilled behavior",
-    "definition_zh": "n. 训练, 培养",
-    "examples": [
-      "Many professionals training key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "carbonate_noun",
-    "word": "carbonate",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kɑ:bәneit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carbonate-us.mp3",
-    "definition_en": "A salt or ester of carbonic acid (containing the anion CO3)",
-    "definition_zh": "n. 碳酸盐",
-    "examples": [
-      "Understanding carbonate provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "tickets_noun",
-    "word": "tickets",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/tickets/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tickets-us.mp3",
-    "definition_en": "N a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)",
-    "definition_zh": "n. 票；罚单（ticket的复数）",
-    "examples": [
-      "Understanding tickets provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "cared_verb",
-    "word": "cared",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kɛəd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cared-us.mp3",
-    "definition_en": "Imp. & p. p. of Care",
-    "definition_zh": "v. 关心( care的过去式和过去分词 ); 担心; 在乎; 介意",
-    "examples": [
-      "Many professionals cared key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "flights_noun",
-    "word": "flights",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/flaits/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flights-us.mp3",
-    "definition_en": "N a formation of aircraft in flight",
-    "definition_zh": "n. （物体的）飞行( flight的名词复数 ); 航班; 飞翔; 楼梯的一段",
-    "examples": [
-      "Understanding flights provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "scared_verb",
-    "word": "scared",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/skeәd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scared-us.mp3",
-    "definition_en": "V cause fear in",
-    "definition_zh": "a. 害怕的, 担惊受怕的, 惊慌的, 吓坏了的",
-    "examples": [
-      "Many professionals scared key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "buses_noun",
-    "word": "buses",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/buses/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buses-us.mp3",
-    "definition_en": "N a vehicle carrying many passengers; used for public transport",
-    "definition_zh": "n. 公共汽车（bus的复数形式）",
-    "examples": [
-      "Understanding buses provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "tourists_noun",
-    "word": "tourists",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'tʊərɪsts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tourists-us.mp3",
-    "definition_en": "N someone who travels for pleasure",
-    "definition_zh": "n. 旅行者, 观光客( tourist的名词复数 )",
-    "examples": [
-      "Understanding tourists provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carved_verb",
-    "word": "carved",
+    "id": "trip_verb",
+    "word": "trip",
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "旅行出行与城市交通",
-    "phonetic": "/carved/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carved-us.mp3",
-    "definition_en": "Made for or formed by carving (`carven' is archaic or literary)",
-    "definition_zh": "a. 有雕刻的",
+    "phonetic": "/trip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trip-us.mp3",
+    "definition_en": "A journey for some purpose (usually including the return)",
+    "definition_zh": "vt. 使跌倒, 使犯错, 使失败",
     "examples": [
-      "Many professionals carved key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "travelers_noun",
-    "word": "travelers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/travelers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/travelers-us.mp3",
-    "definition_en": "N a person who changes location",
-    "definition_zh": "n. 旅行者；旅客（traveler的复数形式）",
-    "examples": [
-      "Understanding travelers provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "discarded_verb",
-    "word": "discarded",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/dɪs'kɑ:rdɪd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discarded-us.mp3",
-    "definition_en": "V throw or cast away",
-    "definition_zh": "v. 丢弃, 抛弃( discard的过去式和过去分词 ); 不再使用",
-    "examples": [
-      "Many professionals discarded key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "arrives_verb",
-    "word": "arrives",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/əˈraivz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrives-us.mp3",
-    "definition_en": "V reach a destination; arrive by movement or progress",
-    "definition_zh": "v. 到达, 来( arrive的第三人称单数 ); 发生",
-    "examples": [
-      "Many professionals arrives key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "constrained_verb",
-    "word": "constrained",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/kәn'streind/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/constrained-us.mp3",
-    "definition_en": "Lacking spontaneity; not natural",
-    "definition_zh": "a. 被强迫的, 被约束的, 不舒服的",
-    "examples": [
-      "Many professionals constrained key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "stationed_verb",
-    "word": "stationed",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/stationed/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stationed-us.mp3",
-    "definition_en": "Imp. & p. p. of Station",
-    "definition_zh": "vt. 配置, 安置（station的过去式与过去分词形式）",
-    "examples": [
-      "Many professionals stationed key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "airports_noun",
-    "word": "airports",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'eəpɔ:ts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airports-us.mp3",
-    "definition_en": "An airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
-    "definition_zh": "n. 航空站, 机场, 航空港( airport的复数形式 )",
-    "examples": [
-      "Understanding airports provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "abuses_noun",
-    "word": "abuses",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/abuses/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abuses-us.mp3",
-    "definition_en": "N cruel or inhumane treatment",
-    "definition_zh": "v. 滥用；虐待；辱骂（abuse的三单形式）",
-    "examples": [
-      "Understanding abuses provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "carr_noun",
-    "word": "carr",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/carr/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carr-us.mp3",
-    "definition_en": "Denoting carr; widely used in Travel & Transportation.",
-    "definition_zh": "n. 凯尔（挪威, 住在沼泽的人）",
-    "examples": [
-      "Understanding carr provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "caring_verb",
-    "word": "caring",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'kεәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caring-us.mp3",
-    "definition_en": "Feeling and exhibiting concern and empathy for others",
-    "definition_zh": "a. 有同情心的；表示或感到关怀或关心的",
-    "examples": [
-      "Many professionals caring key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "bushes_noun",
-    "word": "bushes",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/buʃiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bushes-us.mp3",
-    "definition_en": "N a low woody perennial plant usually having several major stems",
-    "definition_zh": "n. 灌木（丛）( bush的名词复数 ); [机械学]（金属）衬套; [电学]（绝缘）套管; 类似灌木的东西（尤指浓密的毛发或皮毛）",
-    "examples": [
-      "Understanding bushes provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "abused_verb",
-    "word": "abused",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/abused/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abused-us.mp3",
-    "definition_en": "Used improperly or excessively especially drugs",
-    "definition_zh": "n. 受虐；滥用, 恶习",
-    "examples": [
-      "Many professionals abused key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "travellers_noun",
-    "word": "travellers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/ˈtrævələz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/travellers-us.mp3",
-    "definition_en": "A person who changes location",
-    "definition_zh": "n. 旅行者（ traveller的复数形式 ）; 旅游者; 旅客; 游客",
-    "examples": [
-      "Understanding travellers provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "envisaged_verb",
-    "word": "envisaged",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/inˈvizidʒd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/envisaged-us.mp3",
-    "definition_en": "V form a mental image of something that is not present or that is not the case",
-    "definition_zh": "v. 想像, 设想( envisage的过去式和过去分词 )",
-    "examples": [
-      "Many professionals envisaged key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "airplanes_noun",
-    "word": "airplanes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/ˈɛəpleinz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airplanes-us.mp3",
-    "definition_en": "An aircraft that has a fixed wing and is powered by propellers or jets",
-    "definition_zh": "n. <美>飞机( airplane的复数形式 )",
-    "examples": [
-      "Understanding airplanes provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "stripes_noun",
-    "word": "stripes",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/stripes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stripes-us.mp3",
-    "definition_en": "N V-shaped sleeve badge indicating military rank and service",
-    "definition_zh": "n. 条子布；条纹布（stripe复数形式）",
-    "examples": [
-      "Understanding stripes provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "destinations_noun",
-    "word": "destinations",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/destɪ'neɪʃnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/destinations-us.mp3",
-    "definition_en": "The place designated as the end (as of a race or journey)",
-    "definition_zh": "n. 目的地, 终点( destination的复数形式 ); 目的, 目标; [罕用语]预定, 指定; 注定",
-    "examples": [
-      "Understanding destinations provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "traveller_noun",
-    "word": "traveller",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行与城市交通",
-    "phonetic": "/'trævlә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/traveller-us.mp3",
-    "definition_en": "N a person who changes location",
-    "definition_zh": "n. 旅行者",
-    "examples": [
-      "Understanding traveller provides valuable insights into everyday communication."
+      "Many professionals trip key methods to achieve consistent, high-quality results."
     ]
   }
 ]

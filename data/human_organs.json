@@ -1,101 +1,185 @@
 [
   {
-    "id": "artery_noun",
-    "word": "artery",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "Body & Organs (身体器官)",
-    "phonetic": "/'ɑ:tәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/artery-us.mp3",
-    "definition_en": "Any of the muscular-walled tubes forming part of the circulation system conveying oxygenated blood from the heart.",
-    "definition_zh": "动脉，干线",
-    "examples": [
-      "Coronary arteries deliver vital oxygenated blood directly to cardiac muscle.",
-      "Arterial elasticity typically declines with advancing age."
-    ]
-  },
-  {
-    "id": "attribute_noun",
-    "word": "attribute",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ә'tribju:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attribute-us.mp3",
-    "definition_en": "An abstraction belonging to or characteristic of an entity",
-    "definition_zh": "n. 属性, 标志, 定语",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the attribute."
-    ]
-  },
-  {
-    "id": "attribute_verb",
-    "word": "attribute",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ә'tribju:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attribute-us.mp3",
-    "definition_en": "An abstraction belonging to or characteristic of an entity",
-    "definition_zh": "vt. 把...归于, 认为...属于",
-    "examples": [
-      "Doctors advise patients to attribute regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "bear_noun",
-    "word": "bear",
+    "id": "bones_noun",
+    "word": "bones",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/bєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bear-us.mp3",
-    "definition_en": "Massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws",
-    "definition_zh": "n. 熊",
+    "phonetic": "/bәunz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bones-us.mp3",
+    "definition_en": "A percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by Spanish dancers) in rhythm with the dance",
+    "definition_zh": "n. 骨骼, 尸体",
     "examples": [
-      "Maintaining proper health supports the optimal function of the bear."
+      "Maintaining proper health supports the optimal function of the bones."
     ]
   },
   {
-    "id": "bear_verb",
-    "word": "bear",
-    "part_of_speech": "verb",
+    "id": "ear_noun",
+    "word": "ear",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/iә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ear-us.mp3",
+    "definition_en": "The sense organ for hearing and equilibrium",
+    "definition_zh": "n. 耳朵, 倾听, 听觉, 穗",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the ear."
+    ]
+  },
+  {
+    "id": "ears_noun",
+    "word": "ears",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/ears/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ears-us.mp3",
+    "definition_en": "N the sense organ for hearing and equilibrium",
+    "definition_zh": "abbr. 电声额定系统（Electro-Acoustic Rating System）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the ears."
+    ]
+  },
+  {
+    "id": "heart_noun",
+    "word": "heart",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/hɑ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heart-us.mp3",
+    "definition_en": "A hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction.",
+    "definition_zh": "心脏，胸膛",
+    "examples": [
+      "Aerobic exercise strengthens your heart muscles.",
+      "His heart beat rapidly during the thrilling presentation."
+    ]
+  },
+  {
+    "id": "hearts_noun",
+    "word": "hearts",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/hearts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearts-us.mp3",
+    "definition_en": "A form of whist in which players avoid winning tricks containing hearts or the queen of spades",
+    "definition_zh": "n. 心；中心；内心；同情心；心形物（heart的复数）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the hearts."
+    ]
+  },
+  {
+    "id": "knee_noun",
+    "word": "knee",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/ni:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/knee-us.mp3",
+    "definition_en": "Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella",
+    "definition_zh": "n. 膝, 膝盖",
+    "examples": [
+      "Understanding knee provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "knees_noun",
+    "word": "knees",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/ni:z/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/knees-us.mp3",
+    "definition_en": "Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella",
+    "definition_zh": "n. 膝( knee的复数形式 ); 膝盖; （裤子的）膝部; 坐下时)大腿朝上的面",
+    "examples": [
+      "Understanding knees provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "nose_noun",
+    "word": "nose",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/nәuz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nose-us.mp3",
+    "definition_en": "The organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals",
+    "definition_zh": "n. 鼻子, 突出部分, 嗅觉",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the nose."
+    ]
+  },
+  {
+    "id": "shoulder_noun",
+    "word": "shoulder",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'ʃәuldә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shoulder-us.mp3",
+    "definition_en": "The part of the body between the neck and the upper arm",
+    "definition_zh": "n. 肩, 肩膀, 衣肩",
+    "examples": [
+      "Understanding shoulder provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "shoulders_noun",
+    "word": "shoulders",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/shoulders/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shoulders-us.mp3",
+    "definition_en": "N the part of the body between the neck and the upper arm",
+    "definition_zh": "n. 肩部；肩膀（shoulder的复数）",
+    "examples": [
+      "Understanding shoulders provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "teeth_noun",
+    "word": "teeth",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/ti:θ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teeth-us.mp3",
+    "definition_en": "N the kind and number and arrangement of teeth (collectively) in a person or animal",
+    "definition_zh": "pl. 牙齿",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the teeth."
+    ]
+  },
+  {
+    "id": "tooth_noun",
+    "word": "tooth",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/tu:θ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tooth-us.mp3",
+    "definition_en": "Hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense",
+    "definition_zh": "n. 牙齿, 齿状物, 爱好",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the tooth."
+    ]
+  },
+  {
+    "id": "ankle_noun",
+    "word": "ankle",
+    "part_of_speech": "noun",
     "level": "A2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/bєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bear-us.mp3",
-    "definition_en": "Have",
-    "definition_zh": "vt. 忍受, 支承, 产生, 怀有, 通过卖空使跌价",
+    "phonetic": "/'æŋkl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ankle-us.mp3",
+    "definition_en": "A gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus",
+    "definition_zh": "n. 踝",
     "examples": [
-      "Doctors advise patients to bear regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "beard_noun",
-    "word": "beard",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/biәd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beard-us.mp3",
-    "definition_en": "The hair growing on the lower part of a man's face",
-    "definition_zh": "n. 胡须",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the beard."
-    ]
-  },
-  {
-    "id": "bearing_noun",
-    "word": "bearing",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'bєәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bearing-us.mp3",
-    "definition_en": "Relevant relation or interconnection",
-    "definition_zh": "n. 举止, 轴承, 忍受, 关系, 意义, 方向, 生育",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the bearing."
+      "Understanding ankle provides valuable insights into everyday communication."
     ]
   },
   {
@@ -117,126 +201,13 @@
     "word": "bone",
     "part_of_speech": "noun",
     "level": "A2",
-    "topic": "Body & Organs (身体器官)",
+    "topic": "人体器官与生理解剖",
     "phonetic": "/bәun/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bone-us.mp3",
     "definition_en": "Any of the pieces of hard, whitish tissue making up the skeleton in humans.",
     "definition_zh": "骨头，骨骼",
     "examples": [
       "Calcium and vitamin D are essential for maintaining bone density."
-    ]
-  },
-  {
-    "id": "brain_noun",
-    "word": "brain",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "Body & Organs (身体器官)",
-    "phonetic": "/brein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brain-us.mp3",
-    "definition_en": "An organ of soft nervous tissue contained in the skull, coordinating sensation and intellectual activity.",
-    "definition_zh": "脑，大脑，智力",
-    "examples": [
-      "The human brain contains approximately 86 billion neurons.",
-      "Adequate sleep allows the brain to flush metabolic waste."
-    ]
-  },
-  {
-    "id": "brainstorm_noun",
-    "word": "brainstorm",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'breinstɒ:m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brainstorm-us.mp3",
-    "definition_en": "Try to solve a problem by thinking intensely about it",
-    "definition_zh": "n. 灵机一动",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the brainstorm."
-    ]
-  },
-  {
-    "id": "brainstorming_noun",
-    "word": "brainstorming",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'brein,stɔ:miŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brainstorming-us.mp3",
-    "definition_en": "A group problem-solving technique in which members spontaneously share ideas and solutions",
-    "definition_zh": "自由讨论, 发表独创[创造]性意见, 智力爆发",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the brainstorming."
-    ]
-  },
-  {
-    "id": "cell_noun",
-    "word": "cell",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/sel/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cell-us.mp3",
-    "definition_en": "Any small compartment",
-    "definition_zh": "n. 单元, 细胞, 电池",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the cell."
-    ]
-  },
-  {
-    "id": "cellar_noun",
-    "word": "cellar",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'selә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cellar-us.mp3",
-    "definition_en": "Storage space where wines are stored",
-    "definition_zh": "n. 地窖, 地下室, 藏酒",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the cellar."
-    ]
-  },
-  {
-    "id": "cellist_noun",
-    "word": "cellist",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'tʃelist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cellist-us.mp3",
-    "definition_en": "Someone who plays a violoncello",
-    "definition_zh": "n. 大提琴演奏家",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the cellist."
-    ]
-  },
-  {
-    "id": "cello_noun",
-    "word": "cello",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'tʃelәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cello-us.mp3",
-    "definition_en": "A large stringed instrument; seated player holds it upright while playing",
-    "definition_zh": "n. 大提琴",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the cello."
-    ]
-  },
-  {
-    "id": "chancellor_noun",
-    "word": "chancellor",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'tʃɑ:nsәlә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chancellor-us.mp3",
-    "definition_en": "The person who is head of state (in several countries)",
-    "definition_zh": "n. 大臣, 总理, 首相, 大使馆/领事馆的一等秘书, 司法官, 大学校长",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the chancellor."
     ]
   },
   {
@@ -254,606 +225,116 @@
     ]
   },
   {
-    "id": "clear_adjective",
-    "word": "clear",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/kliә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clear-us.mp3",
-    "definition_en": "The state of being free of suspicion",
-    "definition_zh": "a. 清楚的, 明确的, 澄清的",
-    "examples": [
-      "The committee analyzed a highly clear perspective during the forum."
-    ]
-  },
-  {
-    "id": "clear_verb",
-    "word": "clear",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/kliә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clear-us.mp3",
-    "definition_en": "Make a way or path by removing objects",
-    "definition_zh": "vt. 澄清, 清除障碍",
-    "examples": [
-      "Doctors advise patients to clear regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "clearly_adverb",
-    "word": "clearly",
-    "part_of_speech": "adverb",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'kliәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clearly-us.mp3",
-    "definition_en": "Without doubt or question",
-    "definition_zh": "adv. 清楚地",
-    "examples": [
-      "Researchers systematically observed clearly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "climb_noun",
-    "word": "climb",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/klaim/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/climb-us.mp3",
-    "definition_en": "An event that involves rising to a higher point (as in altitude or temperature or intensity etc.)",
-    "definition_zh": "n. 攀登, 爬升",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the climb."
-    ]
-  },
-  {
-    "id": "climb_verb",
-    "word": "climb",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/klaim/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/climb-us.mp3",
-    "definition_en": "Go upward with gradual or continuous progress",
-    "definition_zh": "v. 攀登, 上升, 爬",
-    "examples": [
-      "Doctors advise patients to climb regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "climber_noun",
-    "word": "climber",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'klaimә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/climber-us.mp3",
-    "definition_en": "A vine or climbing plant that readily grows up a support or over other plants",
-    "definition_zh": "n. 登山者",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the climber."
-    ]
-  },
-  {
-    "id": "climbing_noun",
-    "word": "climbing",
+    "id": "stomach_noun",
+    "word": "stomach",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'klaimiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/climbing-us.mp3",
-    "definition_en": "N an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)",
-    "definition_zh": "n. 攀登",
+    "phonetic": "/'stʌmәk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stomach-us.mp3",
+    "definition_en": "The internal organ in which the first major part of digestion of food occurs.",
+    "definition_zh": "胃，腹部",
     "examples": [
-      "Maintaining proper health supports the optimal function of the climbing."
+      "You shouldn't consume spicy food on an empty stomach.",
+      "Gastric juices inside the stomach break down dietary proteins."
     ]
   },
   {
-    "id": "contribute_verb",
-    "word": "contribute",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/kәn'tribju:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contribute-us.mp3",
-    "definition_en": "Contribute to some cause",
-    "definition_zh": "vt. 有助于, 捐助, 投稿",
-    "examples": [
-      "Doctors advise patients to contribute regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "contribution_noun",
-    "word": "contribution",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.kɒntri'bju:ʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contribution-us.mp3",
-    "definition_en": "The part played by a person in bringing about a result",
-    "definition_zh": "n. 捐助, 捐助之物, 贡献",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the contribution."
-    ]
-  },
-  {
-    "id": "dear_adjective",
-    "word": "dear",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'diә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dear-us.mp3",
-    "definition_en": "With or in a close or intimate relationship",
-    "definition_zh": "a. 亲爱的, 昂贵的, 严重的, 急迫的",
-    "examples": [
-      "The committee analyzed a highly dear perspective during the forum."
-    ]
-  },
-  {
-    "id": "dear_noun",
-    "word": "dear",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'diә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dear-us.mp3",
-    "definition_en": "With or in a close or intimate relationship",
-    "definition_zh": "n. 亲爱的人",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the dear."
-    ]
-  },
-  {
-    "id": "dearly_adverb",
-    "word": "dearly",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'diәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dearly-us.mp3",
-    "definition_en": "In a sincere and heartfelt manner",
-    "definition_zh": "adv. 深深地, 昂贵地",
-    "examples": [
-      "Researchers systematically observed dearly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "deliver_verb",
-    "word": "deliver",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/di'livә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deliver-us.mp3",
-    "definition_en": "Deliver (a speech, oration, or idea)",
-    "definition_zh": "vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付",
-    "examples": [
-      "Doctors advise patients to deliver regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "delivery_noun",
-    "word": "delivery",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/di'livәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delivery-us.mp3",
-    "definition_en": "The act of delivering or distributing something (as goods or mail)",
-    "definition_zh": "n. 递送, 交付, 分娩, 交货, 引渡",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the delivery."
-    ]
-  },
-  {
-    "id": "describe_verb",
-    "word": "describe",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/di'skraib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/describe-us.mp3",
-    "definition_en": "Give a description of",
-    "definition_zh": "vt. 描述, 描绘, 画",
-    "examples": [
-      "Doctors advise patients to describe regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "disorganized_adjective",
-    "word": "disorganized",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/dis'ɔ:ɡәnaizd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disorganized-us.mp3",
-    "definition_en": "Lacking order or methodical arrangement or function",
-    "definition_zh": "a. 无组织的；紊乱的",
-    "examples": [
-      "The committee analyzed a highly disorganized perspective during the forum."
-    ]
-  },
-  {
-    "id": "distribute_verb",
-    "word": "distribute",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/di'stribju:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distribute-us.mp3",
-    "definition_en": "Administer or bestow, as in small portions",
-    "definition_zh": "vt. 分配, 散布, 分发",
-    "examples": [
-      "Doctors advise patients to distribute regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "distribution_noun",
-    "word": "distribution",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.distrә'bju:ʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distribution-us.mp3",
-    "definition_en": "(statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence",
-    "definition_zh": "n. 分配",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the distribution."
-    ]
-  },
-  {
-    "id": "distributor_noun",
-    "word": "distributor",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/dis'tribjutә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distributor-us.mp3",
-    "definition_en": "Someone who markets merchandise",
-    "definition_zh": "n. 分发者, 分布者, 散布者, 分配者, 销售者, 分配器, 配电盘, 自动拆版机",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the distributor."
-    ]
-  },
-  {
-    "id": "ear_noun",
-    "word": "ear",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/iә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ear-us.mp3",
-    "definition_en": "The sense organ for hearing and equilibrium",
-    "definition_zh": "n. 耳朵, 倾听, 听觉, 穗",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the ear."
-    ]
-  },
-  {
-    "id": "earache_noun",
-    "word": "earache",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'iәreik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/earache-us.mp3",
-    "definition_en": "An ache localized in the middle or inner ear",
-    "definition_zh": "n. 耳朵痛",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the earache."
-    ]
-  },
-  {
-    "id": "early_adjective",
-    "word": "early",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ә:li/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/early-us.mp3",
-    "definition_en": "At or near the beginning of a period of time or course of events or before the usual or expected time",
-    "definition_zh": "a. 早的, 早熟的",
-    "examples": [
-      "The committee analyzed a highly early perspective during the forum."
-    ]
-  },
-  {
-    "id": "early_adverb",
-    "word": "early",
-    "part_of_speech": "adverb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ә:li/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/early-us.mp3",
-    "definition_en": "At or near the beginning of a period of time or course of events or before the usual or expected time",
-    "definition_zh": "adv. 很早, 初",
-    "examples": [
-      "Researchers systematically observed early relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "earring_noun",
-    "word": "earring",
+    "id": "toe_noun",
+    "word": "toe",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'iәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/earring-us.mp3",
-    "definition_en": "Jewelry to ornament the ear; usually clipped to the earlobe or fastened through a hole in the lobe",
-    "definition_zh": "n. 耳环, 耳饰",
+    "phonetic": "/tәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toe-us.mp3",
+    "definition_en": "One of the digits of the foot",
+    "definition_zh": "n. 足趾, 趾部, 脚趾",
     "examples": [
-      "Maintaining proper health supports the optimal function of the earring."
+      "Understanding toe provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "excellence_noun",
-    "word": "excellence",
+    "id": "toes_noun",
+    "word": "toes",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/toes/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toes-us.mp3",
+    "definition_en": "N one of the digits of the foot",
+    "definition_zh": "n. 脚趾（toe的复数）",
+    "examples": [
+      "Understanding toes provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "elbow_noun",
+    "word": "elbow",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'ekslәns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/excellence-us.mp3",
-    "definition_en": "The quality of excelling; possessing good qualities in high degree",
-    "definition_zh": "n. 优秀, 卓越, 优点",
+    "phonetic": "/'elbәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elbow-us.mp3",
+    "definition_en": "Hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped",
+    "definition_zh": "n. 手肘, 弯头, 扶手",
     "examples": [
-      "Maintaining proper health supports the optimal function of the excellence."
+      "Recent breakthroughs in elbow have accelerated modern technological innovation."
     ]
   },
   {
-    "id": "excellent_adjective",
-    "word": "excellent",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ekslәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/excellent-us.mp3",
-    "definition_en": "Very good; of the highest quality",
-    "definition_zh": "a. 优良的, 杰出的, 出色的",
-    "examples": [
-      "The committee analyzed a highly excellent perspective during the forum."
-    ]
-  },
-  {
-    "id": "eye_noun",
-    "word": "eye",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Body & Organs (身体器官)",
-    "phonetic": "/ai/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eye-us.mp3",
-    "definition_en": "Each of a pair of globular organs in the head through which humans see.",
-    "definition_zh": "眼睛",
-    "examples": [
-      "The human eye can distinguish approximately 10 million distinct colors."
-    ]
-  },
-  {
-    "id": "eyebrow_noun",
-    "word": "eyebrow",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'aibrau/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eyebrow-us.mp3",
-    "definition_en": "The arch of hair above each eye",
-    "definition_zh": "n. 眉毛",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the eyebrow."
-    ]
-  },
-  {
-    "id": "eyelash_noun",
-    "word": "eyelash",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ailæʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eyelash-us.mp3",
-    "definition_en": "Any of the short curved hairs that grow from the edges of the eyelids",
-    "definition_zh": "n. 睫毛",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the eyelash."
-    ]
-  },
-  {
-    "id": "eyelid_noun",
-    "word": "eyelid",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ailid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eyelid-us.mp3",
-    "definition_en": "Either of two folds of skin that can be moved to cover or open the eye",
-    "definition_zh": "n. 眼皮, 眼睑",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the eyelid."
-    ]
-  },
-  {
-    "id": "eyesight_noun",
-    "word": "eyesight",
+    "id": "finger_noun",
+    "word": "finger",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'aisait/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eyesight-us.mp3",
-    "definition_en": "Normal use of the faculty of vision",
-    "definition_zh": "n. 视力, 目力",
+    "phonetic": "/'fiŋgә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/finger-us.mp3",
+    "definition_en": "Any of the terminal members of the hand (sometimes excepting the thumb)",
+    "definition_zh": "n. 手指, 指状物, (手套的)手指部分, 指针",
     "examples": [
-      "Maintaining proper health supports the optimal function of the eyesight."
+      "Understanding finger provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "firearm_noun",
-    "word": "firearm",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'faiә'ɑ:m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/firearm-us.mp3",
-    "definition_en": "A portable gun",
-    "definition_zh": "n. 火器, 枪炮",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the firearm."
-    ]
-  },
-  {
-    "id": "gear_noun",
-    "word": "gear",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/giә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gear-us.mp3",
-    "definition_en": "A toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion",
-    "definition_zh": "n. 齿轮, 工具",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the gear."
-    ]
-  },
-  {
-    "id": "hear_verb",
-    "word": "hear",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/hiә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hear-us.mp3",
-    "definition_en": "Perceive (sound) via the auditory sense",
-    "definition_zh": "vt. 听到, 倾听, 听说, 审理",
-    "examples": [
-      "Doctors advise patients to hear regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "hearing_noun",
-    "word": "hearing",
+    "id": "fingers_noun",
+    "word": "fingers",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'hiәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearing-us.mp3",
-    "definition_en": "(law) a proceeding (usually by a court) where evidence is taken for the purpose of determining an issue of fact and reaching a decision based on that evidence",
-    "definition_zh": "n. 听, 听觉, 听讯",
+    "phonetic": "/fingers/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fingers-us.mp3",
+    "definition_en": "N any of the terminal members of the hand (sometimes excepting the thumb)",
+    "definition_zh": "n. 梳状剔除器；手指头, 指头（finger复数）",
     "examples": [
-      "Maintaining proper health supports the optimal function of the hearing."
+      "Understanding fingers provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "heart_noun",
-    "word": "heart",
+    "id": "heel_noun",
+    "word": "heel",
     "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Body & Organs (身体器官)",
-    "phonetic": "/hɑ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heart-us.mp3",
-    "definition_en": "A hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction.",
-    "definition_zh": "心脏，胸膛",
-    "examples": [
-      "Aerobic exercise strengthens your heart muscles.",
-      "His heart beat rapidly during the thrilling presentation."
-    ]
-  },
-  {
-    "id": "heartbreaking_adjective",
-    "word": "heartbreaking",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'hɑ:tbreikiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heartbreaking-us.mp3",
-    "definition_en": "S causing or marked by grief or anguish",
-    "definition_zh": "a. 令人悲伤的, 极其累人的, 令人动情的",
-    "examples": [
-      "The committee analyzed a highly heartbreaking perspective during the forum."
-    ]
-  },
-  {
-    "id": "hearted_adjective",
-    "word": "hearted",
-    "part_of_speech": "adjective",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'hɑ:tid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearted-us.mp3",
-    "definition_en": "Having a heart; having (such) a heart (regarded as the",
-    "definition_zh": "a. 有...心(肠)的",
+    "phonetic": "/hi:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heel-us.mp3",
+    "definition_en": "The bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
+    "definition_zh": "n. 脚后跟, 踵, 后部, 倾侧",
     "examples": [
-      "The committee analyzed a highly hearted perspective during the forum."
+      "Understanding heel provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "heartwarming_adjective",
-    "word": "heartwarming",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ha:tˌwɔ:mɪŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heartwarming-us.mp3",
-    "definition_en": "Causing gladness and pleasure",
-    "definition_zh": "a. 暖人心房的, 感人的",
-    "examples": [
-      "The committee analyzed a highly heartwarming perspective during the forum."
-    ]
-  },
-  {
-    "id": "hearty_adjective",
-    "word": "hearty",
-    "part_of_speech": "adjective",
+    "id": "heels_noun",
+    "word": "heels",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'hɑ:ti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearty-us.mp3",
-    "definition_en": "Showing warm and heartfelt friendliness",
-    "definition_zh": "a. 诚恳的, 健壮的, 热烈的, 丰盛的",
+    "phonetic": "/heels/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heels-us.mp3",
+    "definition_en": "N the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
+    "definition_zh": "残余料; 下脚料",
     "examples": [
-      "The committee analyzed a highly hearty perspective during the forum."
-    ]
-  },
-  {
-    "id": "horrible_adjective",
-    "word": "horrible",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'hɒrәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/horrible-us.mp3",
-    "definition_en": "S provoking horror",
-    "definition_zh": "a. 可怕的, 遭透的, 极讨厌的",
-    "examples": [
-      "The committee analyzed a highly horrible perspective during the forum."
-    ]
-  },
-  {
-    "id": "indescribable_adjective",
-    "word": "indescribable",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.indi'skraibәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/indescribable-us.mp3",
-    "definition_en": "S defying expression or description",
-    "definition_zh": "a. 不能用语言表达的, 不可名状的, 莫名其妙的",
-    "examples": [
-      "The committee analyzed a highly indescribable perspective during the forum."
-    ]
-  },
-  {
-    "id": "inscribe_verb",
-    "word": "inscribe",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/in'skraib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inscribe-us.mp3",
-    "definition_en": "Draw within a figure so as to touch in as many places as possible",
-    "definition_zh": "vt. 登记, 铭记于, 题写, 雕刻",
-    "examples": [
-      "Doctors advise patients to inscribe regularly to promote physical recovery."
+      "Understanding heels provides valuable insights into everyday communication."
     ]
   },
   {
@@ -868,6 +349,233 @@
     "definition_zh": "a. 共同的, 联合的, 连接的, 合办的",
     "examples": [
       "The committee analyzed a highly joint perspective during the forum."
+    ]
+  },
+  {
+    "id": "liver_noun",
+    "word": "liver",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'livә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liver-us.mp3",
+    "definition_en": "A large lobed glandular organ in the abdomen, involved in metabolism, bile secretion, and detoxification.",
+    "definition_zh": "肝脏",
+    "examples": [
+      "The liver possesses a remarkable capacity to regenerate cellular tissue.",
+      "Excessive alcohol consumption places severe strain on liver function."
+    ]
+  },
+  {
+    "id": "lung_noun",
+    "word": "lung",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/lʌŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lung-us.mp3",
+    "definition_en": "Each of the pair of organs situated within the rib cage, allowing oxygen exchange with blood.",
+    "definition_zh": "肺，肺脏",
+    "examples": [
+      "Inhaling fresh alpine air expanded his lungs.",
+      "Smoking damages delicate alveoli within human lung tissue."
+    ]
+  },
+  {
+    "id": "lungs_noun",
+    "word": "lungs",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'lʌŋz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lungs-us.mp3",
+    "definition_en": "Either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood",
+    "definition_zh": "n. 肺( lung的复数形式 ); 肺脏",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the lungs."
+    ]
+  },
+  {
+    "id": "muscle_noun",
+    "word": "muscle",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'mʌsl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscle-us.mp3",
+    "definition_en": "A band or bundle of fibrous tissue in a human body with the ability to contract.",
+    "definition_zh": "肌肉",
+    "examples": [
+      "Resistance training stimulates skeletal muscle hypertrophy."
+    ]
+  },
+  {
+    "id": "muscles_noun",
+    "word": "muscles",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/muscles/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscles-us.mp3",
+    "definition_en": "N one of the contractile organs of the body",
+    "definition_zh": "n. 肌肉（muscle的复数）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the muscles."
+    ]
+  },
+  {
+    "id": "organ_noun",
+    "word": "organ",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'ɒ:gәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organ-us.mp3",
+    "definition_en": "A fully differentiated structural and functional unit in an animal that is specialized for some particular function",
+    "definition_zh": "n. 风琴, 器官, 元件, 机构, 机关",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the organ."
+    ]
+  },
+  {
+    "id": "organs_noun",
+    "word": "organs",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/organs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organs-us.mp3",
+    "definition_en": "N edible viscera of a butchered animal",
+    "definition_zh": "n. 器官；机构；风琴（organ的复数）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the organs."
+    ]
+  },
+  {
+    "id": "skeleton_noun",
+    "word": "skeleton",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'skelәtn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skeleton-us.mp3",
+    "definition_en": "Something reduced to its minimal form",
+    "definition_zh": "n. 骨骼, 骨瘦如柴的人, 梗概, 骨干, 残骸",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the skeleton."
+    ]
+  },
+  {
+    "id": "thumb_noun",
+    "word": "thumb",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/θʌm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thumb-us.mp3",
+    "definition_en": "The thick short innermost digit of the forelimb",
+    "definition_zh": "n. 拇指",
+    "examples": [
+      "Understanding thumb provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "tongue_noun",
+    "word": "tongue",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/tʌŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tongue-us.mp3",
+    "definition_en": "A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity",
+    "definition_zh": "n. 舌, 语言能力, 讲话方式, 语言",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the tongue."
+    ]
+  },
+  {
+    "id": "tongues_noun",
+    "word": "tongues",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/tʌŋz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tongues-us.mp3",
+    "definition_en": "N a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity",
+    "definition_zh": "n. 语言( tongue的名词复数 ); 舌头; 舌状物; 鞋舌",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the tongues."
+    ]
+  },
+  {
+    "id": "vein_noun",
+    "word": "vein",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/vein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vein-us.mp3",
+    "definition_en": "A blood vessel that carries blood from the capillaries toward the heart",
+    "definition_zh": "n. 血管, 静脉, 纹理, 气质, 情绪",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the vein."
+    ]
+  },
+  {
+    "id": "veins_noun",
+    "word": "veins",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/veins/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/veins-us.mp3",
+    "definition_en": "N a blood vessel that carries blood from the capillaries toward the heart",
+    "definition_zh": "n. 纹理；静脉（vein的复数）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the veins."
+    ]
+  },
+  {
+    "id": "wrist_noun",
+    "word": "wrist",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/rist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wrist-us.mp3",
+    "definition_en": "A joint between the distal end of the radius and the proximal row of carpal bones",
+    "definition_zh": "n. 手腕, 腕关节",
+    "examples": [
+      "Understanding wrist provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "arteries_noun",
+    "word": "arteries",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/arteries/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arteries-us.mp3",
+    "definition_en": "N a blood vessel that carries blood from the heart to the body",
+    "definition_zh": "n. 动脉（artery的复数）",
+    "examples": [
+      "Understanding arteries provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "artery_noun",
+    "word": "artery",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'ɑ:tәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/artery-us.mp3",
+    "definition_en": "Any of the muscular-walled tubes forming part of the circulation system conveying oxygenated blood from the heart.",
+    "definition_zh": "动脉，干线",
+    "examples": [
+      "Coronary arteries deliver vital oxygenated blood directly to cardiac muscle.",
+      "Arterial elasticity typically declines with advancing age."
     ]
   },
   {
@@ -899,412 +607,17 @@
     ]
   },
   {
-    "id": "liver_noun",
-    "word": "liver",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "Body & Organs (身体器官)",
-    "phonetic": "/'livә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liver-us.mp3",
-    "definition_en": "A large lobed glandular organ in the abdomen, involved in metabolism, bile secretion, and detoxification.",
-    "definition_zh": "肝脏",
-    "examples": [
-      "The liver possesses a remarkable capacity to regenerate cellular tissue.",
-      "Excessive alcohol consumption places severe strain on liver function."
-    ]
-  },
-  {
-    "id": "lung_noun",
-    "word": "lung",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "Body & Organs (身体器官)",
-    "phonetic": "/lʌŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lung-us.mp3",
-    "definition_en": "Each of the pair of organs situated within the rib cage, allowing oxygen exchange with blood.",
-    "definition_zh": "肺，肺脏",
-    "examples": [
-      "Inhaling fresh alpine air expanded his lungs.",
-      "Smoking damages delicate alveoli within human lung tissue."
-    ]
-  },
-  {
-    "id": "microorganism_noun",
-    "word": "microorganism",
+    "id": "limbs_noun",
+    "word": "limbs",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/.maikrәu'ɒ:gәnizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/microorganism-us.mp3",
-    "definition_en": "Any organism of microscopic size",
-    "definition_zh": "n. 微生物, 微小动植物",
+    "phonetic": "/limbs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/limbs-us.mp3",
+    "definition_en": "N one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper",
+    "definition_zh": "n. 四肢（limb的复数）",
     "examples": [
-      "Maintaining proper health supports the optimal function of the microorganism."
-    ]
-  },
-  {
-    "id": "muscle_noun",
-    "word": "muscle",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "Body & Organs (身体器官)",
-    "phonetic": "/'mʌsl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscle-us.mp3",
-    "definition_en": "A band or bundle of fibrous tissue in a human body with the ability to contract.",
-    "definition_zh": "肌肉",
-    "examples": [
-      "Resistance training stimulates skeletal muscle hypertrophy."
-    ]
-  },
-  {
-    "id": "near_adjective",
-    "word": "near",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/niә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/near-us.mp3",
-    "definition_en": "Not far distant in time or space or degree or circumstances",
-    "definition_zh": "a. 近的, 近亲的, 近似的",
-    "examples": [
-      "The committee analyzed a highly near perspective during the forum."
-    ]
-  },
-  {
-    "id": "near_adverb",
-    "word": "near",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/niә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/near-us.mp3",
-    "definition_en": "Not far distant in time or space or degree or circumstances",
-    "definition_zh": "adv. 接近, 亲近",
-    "examples": [
-      "Researchers systematically observed near relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "near_preposition",
-    "word": "near",
-    "part_of_speech": "preposition",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/niә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/near-us.mp3",
-    "definition_en": "Not far distant in time or space or degree or circumstances",
-    "definition_zh": "prep. 靠近, 近似于",
-    "examples": [
-      "Researchers systematically observed near relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "nearby_adjective",
-    "word": "nearby",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'niәbai/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nearby-us.mp3",
-    "definition_en": "Close at hand",
-    "definition_zh": "a. 附近的, 近旁的",
-    "examples": [
-      "The committee analyzed a highly nearby perspective during the forum."
-    ]
-  },
-  {
-    "id": "nearby_adverb",
-    "word": "nearby",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'niәbai/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nearby-us.mp3",
-    "definition_en": "Close at hand",
-    "definition_zh": "adv. 在附近, 近旁地",
-    "examples": [
-      "Researchers systematically observed nearby relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "nearly_adverb",
-    "word": "nearly",
-    "part_of_speech": "adverb",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'niәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nearly-us.mp3",
-    "definition_en": "R (of actions or states) slightly short of or not quite accomplished; all but",
-    "definition_zh": "adv. 几乎, 密切地",
-    "examples": [
-      "Researchers systematically observed nearly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "nerve_noun",
-    "word": "nerve",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/nә:v/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nerve-us.mp3",
-    "definition_en": "Any bundle of nerve fibers running to various organs and tissues of the body",
-    "definition_zh": "n. 精神, 勇气, 叶脉, 神经",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the nerve."
-    ]
-  },
-  {
-    "id": "nerves_noun",
-    "word": "nerves",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/nerves/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nerves-us.mp3",
-    "definition_en": "Control of your emotions",
-    "definition_zh": "n. 神经质, 神经紧张",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the nerves."
-    ]
-  },
-  {
-    "id": "nose_noun",
-    "word": "nose",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/nәuz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nose-us.mp3",
-    "definition_en": "The organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals",
-    "definition_zh": "n. 鼻子, 突出部分, 嗅觉",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the nose."
-    ]
-  },
-  {
-    "id": "nuclear_adjective",
-    "word": "nuclear",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'nju:kliә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nuclear-us.mp3",
-    "definition_en": "(weapons) deriving destructive energy from the release of atomic energy",
-    "definition_zh": "a. 核子的, 原子能的, 核的, 中心的",
-    "examples": [
-      "The committee analyzed a highly nuclear perspective during the forum."
-    ]
-  },
-  {
-    "id": "orchestra_noun",
-    "word": "orchestra",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ɒ:kistrә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/orchestra-us.mp3",
-    "definition_en": "A musical organization consisting of a group of instrumentalists including string players",
-    "definition_zh": "n. 管弦乐队, 乐队演奏处",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the orchestra."
-    ]
-  },
-  {
-    "id": "orchestral_adjective",
-    "word": "orchestral",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ɒ:'kestrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/orchestral-us.mp3",
-    "definition_en": "Relating to or composed for an orchestra",
-    "definition_zh": "a. 管弦乐队的",
-    "examples": [
-      "The committee analyzed a highly orchestral perspective during the forum."
-    ]
-  },
-  {
-    "id": "organ_noun",
-    "word": "organ",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ɒ:gәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organ-us.mp3",
-    "definition_en": "A fully differentiated structural and functional unit in an animal that is specialized for some particular function",
-    "definition_zh": "n. 风琴, 器官, 元件, 机构, 机关",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the organ."
-    ]
-  },
-  {
-    "id": "organic_adjective",
-    "word": "organic",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ɒ:'gænik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organic-us.mp3",
-    "definition_en": "Relating or belonging to the class of chemical compounds having a carbon basis",
-    "definition_zh": "a. 器官的, 有机的, 组织的, 根本的",
-    "examples": [
-      "The committee analyzed a highly organic perspective during the forum."
-    ]
-  },
-  {
-    "id": "organism_noun",
-    "word": "organism",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ɒ:gәnizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organism-us.mp3",
-    "definition_en": "A living thing that has (or can develop) the ability to act or function independently",
-    "definition_zh": "n. 生物, 有机体, 社会组织",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the organism."
-    ]
-  },
-  {
-    "id": "organization_noun",
-    "word": "organization",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.ɒ:gәnai'zeiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organization-us.mp3",
-    "definition_en": "A group of people who work together",
-    "definition_zh": "n. 组织, 结构, 团体, 体制",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the organization."
-    ]
-  },
-  {
-    "id": "organize_verb",
-    "word": "organize",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ɒ:gәnaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organize-us.mp3",
-    "definition_en": "Cause to be structured or ordered or operating according to some principle or idea",
-    "definition_zh": "vt. 组织, 有机化, 给予生机",
-    "examples": [
-      "Doctors advise patients to organize regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "organized_adjective",
-    "word": "organized",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ɔ:^әnaizd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organized-us.mp3",
-    "definition_en": "Formed into a structured or coherent whole",
-    "definition_zh": "a. 有组织的, 组织起来的",
-    "examples": [
-      "The committee analyzed a highly organized perspective during the forum."
-    ]
-  },
-  {
-    "id": "organizer_noun",
-    "word": "organizer",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ɒ:gәnaizә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organizer-us.mp3",
-    "definition_en": "A person who brings order and organization to an enterprise",
-    "definition_zh": "n. 组织者, 编制者, 创立者, 组织导体",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the organizer."
-    ]
-  },
-  {
-    "id": "overhear_verb",
-    "word": "overhear",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.әuvә'hiә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/overhear-us.mp3",
-    "definition_en": "V hear, usually without the knowledge of the speakers",
-    "definition_zh": "vt. 无意中听到, 偷听",
-    "examples": [
-      "Doctors advise patients to overhear regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "rear_adjective",
-    "word": "rear",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/riә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rear-us.mp3",
-    "definition_en": "The back of a military formation or procession",
-    "definition_zh": "a. 后面的, 背面的, 后方的",
-    "examples": [
-      "The committee analyzed a highly rear perspective during the forum."
-    ]
-  },
-  {
-    "id": "rearrange_verb",
-    "word": "rearrange",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.ri:ә'reindʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rearrange-us.mp3",
-    "definition_en": "Put into a new order or arrangement",
-    "definition_zh": "vt. 再排列, 重新整理",
-    "examples": [
-      "Doctors advise patients to rearrange regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "rehearsal_noun",
-    "word": "rehearsal",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ri'hә:sl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rehearsal-us.mp3",
-    "definition_en": "A practice session in preparation for a public performance (as of a play or speech or concert)",
-    "definition_zh": "n. 预演, 排演, 练习, 叙述, 复述",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the rehearsal."
-    ]
-  },
-  {
-    "id": "reorganize_verb",
-    "word": "reorganize",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.ri:'ɒ:gәnaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reorganize-us.mp3",
-    "definition_en": "Organize anew",
-    "definition_zh": "v. 改组, 再编制, 改造",
-    "examples": [
-      "Doctors advise patients to reorganize regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "retina_noun",
-    "word": "retina",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "Body & Organs (身体器官)",
-    "phonetic": "/'retinә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/retina-us.mp3",
-    "definition_en": "A layer at the back of the eyeball sensitive to light, triggering nerve impulses via optic nerves.",
-    "definition_zh": "视网膜",
-    "examples": [
-      "Photoreceptor rods and cones in the retina convert light into electrical impulses.",
-      "Laser surgery can effectively repair a torn retina."
+      "Maintaining proper health supports the optimal function of the limbs."
     ]
   },
   {
@@ -1322,1222 +635,17 @@
     ]
   },
   {
-    "id": "ribbon_noun",
-    "word": "ribbon",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ribәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ribbon-us.mp3",
-    "definition_en": "Any long object resembling a thin line",
-    "definition_zh": "n. 缎带, 色带, 带状物",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the ribbon."
-    ]
-  },
-  {
-    "id": "scribble_noun",
-    "word": "scribble",
+    "id": "ribs_noun",
+    "word": "ribs",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'skribl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scribble-us.mp3",
-    "definition_en": "Poor handwriting",
-    "definition_zh": "n. 潦草的写法, 潦草写成的东西, 拙劣的作品",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the scribble."
-    ]
-  },
-  {
-    "id": "search_noun",
-    "word": "search",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/sә:tʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/search-us.mp3",
-    "definition_en": "The activity of looking thoroughly in order to find something or someone",
-    "definition_zh": "n. 搜寻, 查究",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the search."
-    ]
-  },
-  {
-    "id": "search_verb",
-    "word": "search",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/sә:tʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/search-us.mp3",
-    "definition_en": "The activity of looking thoroughly in order to find something or someone",
-    "definition_zh": "v. 搜寻, 搜查, 探求, 调查, 搜索",
-    "examples": [
-      "Doctors advise patients to search regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "skeleton_noun",
-    "word": "skeleton",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'skelәtn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skeleton-us.mp3",
-    "definition_en": "Something reduced to its minimal form",
-    "definition_zh": "n. 骨骼, 骨瘦如柴的人, 梗概, 骨干, 残骸",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the skeleton."
-    ]
-  },
-  {
-    "id": "skin_noun",
-    "word": "skin",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/skin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skin-us.mp3",
-    "definition_en": "A natural protective body covering and site of the sense of touch",
-    "definition_zh": "n. 皮肤, 皮",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the skin."
-    ]
-  },
-  {
-    "id": "sliver_noun",
-    "word": "sliver",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'slivә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sliver-us.mp3",
-    "definition_en": "Divide into slivers or splinters",
-    "definition_zh": "n. 裂片, 薄片, 梳毛",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the sliver."
-    ]
-  },
-  {
-    "id": "sparerib_noun",
-    "word": "sparerib",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'spєәrib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sparerib-us.mp3",
-    "definition_en": "A cut of pork ribs with much of the meat trimmed off",
-    "definition_zh": "n. 排骨",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the sparerib."
-    ]
-  },
-  {
-    "id": "stomach_noun",
-    "word": "stomach",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "Body & Organs (身体器官)",
-    "phonetic": "/'stʌmәk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stomach-us.mp3",
-    "definition_en": "The internal organ in which the first major part of digestion of food occurs.",
-    "definition_zh": "胃，腹部",
-    "examples": [
-      "You shouldn't consume spicy food on an empty stomach.",
-      "Gastric juices inside the stomach break down dietary proteins."
-    ]
-  },
-  {
-    "id": "stomachache_noun",
-    "word": "stomachache",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'stʌmәkeik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stomachache-us.mp3",
-    "definition_en": "An ache localized in the stomach or abdominal region",
-    "definition_zh": "n. 胃痛, 肚子痛",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the stomachache."
-    ]
-  },
-  {
-    "id": "sweetheart_noun",
-    "word": "sweetheart",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'swi:thɑ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sweetheart-us.mp3",
-    "definition_en": "A person loved by another person",
-    "definition_zh": "n. 心上人, 爱人",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the sweetheart."
-    ]
-  },
-  {
-    "id": "tear_noun",
-    "word": "tear",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/tiә. tєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tear-us.mp3",
-    "definition_en": "A drop of the clear salty saline solution secreted by the lacrimal glands",
-    "definition_zh": "n. 泪滴, 眼泪, 撕, 扯, 裂缝, 激怒, 飞奔",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the tear."
-    ]
-  },
-  {
-    "id": "tear_verb",
-    "word": "tear",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/tiә. tєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tear-us.mp3",
-    "definition_en": "Separate or cause to separate abruptly",
-    "definition_zh": "vi. 流泪, 撕破, 赶快, 飞奔, 被撕破",
-    "examples": [
-      "Doctors advise patients to tear regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "terrible_adjective",
-    "word": "terrible",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'terәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/terrible-us.mp3",
-    "definition_en": "S causing fear or dread or terror",
-    "definition_zh": "a. 可怕的, 令人恐惧的, 极坏的",
-    "examples": [
-      "The committee analyzed a highly terrible perspective during the forum."
-    ]
-  },
-  {
-    "id": "terribly_adverb",
-    "word": "terribly",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'terәbli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/terribly-us.mp3",
-    "definition_en": "Used as intensifiers",
-    "definition_zh": "adv. 可怕地, 甚为, 非常",
-    "examples": [
-      "Researchers systematically observed terribly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "throat_noun",
-    "word": "throat",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/θrәut/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/throat-us.mp3",
-    "definition_en": "The passage to the stomach and lungs; in the front part of the neck below the chin and above the collarbone",
-    "definition_zh": "n. 咽喉, 喉咙, 嗓音",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the throat."
-    ]
-  },
-  {
-    "id": "tissue_noun",
-    "word": "tissue",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'tiʃu:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tissue-us.mp3",
-    "definition_en": "Part of an organism consisting of an aggregate of cells having a similar structure and function",
-    "definition_zh": "n. 薄的织物, 薄纱, 棉纸, 组织, 一套",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the tissue."
-    ]
-  },
-  {
-    "id": "tongue_noun",
-    "word": "tongue",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/tʌŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tongue-us.mp3",
-    "definition_en": "A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity",
-    "definition_zh": "n. 舌, 语言能力, 讲话方式, 语言",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the tongue."
-    ]
-  },
-  {
-    "id": "tooth_noun",
-    "word": "tooth",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/tu:θ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tooth-us.mp3",
-    "definition_en": "Hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense",
-    "definition_zh": "n. 牙齿, 齿状物, 爱好",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the tooth."
-    ]
-  },
-  {
-    "id": "toothache_noun",
-    "word": "toothache",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'tu:θeik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toothache-us.mp3",
-    "definition_en": "An ache localized in or around a tooth",
-    "definition_zh": "n. 牙痛",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the toothache."
-    ]
-  },
-  {
-    "id": "toothbrush_noun",
-    "word": "toothbrush",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'tu:θbrʌʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toothbrush-us.mp3",
-    "definition_en": "Small brush; has long handle; used to clean teeth",
-    "definition_zh": "n. 牙刷",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the toothbrush."
-    ]
-  },
-  {
-    "id": "toothpaste_noun",
-    "word": "toothpaste",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'tu:θpeist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toothpaste-us.mp3",
-    "definition_en": "A dentifrice in the form of a paste",
-    "definition_zh": "n. 牙膏",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the toothpaste."
-    ]
-  },
-  {
-    "id": "tribe_noun",
-    "word": "tribe",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/traib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tribe-us.mp3",
-    "definition_en": "A social division of (usually preliterate) people",
-    "definition_zh": "n. 宗族, 部落, 一群人",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the tribe."
-    ]
-  },
-  {
-    "id": "unbearable_adjective",
-    "word": "unbearable",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.ʌn'bєәrәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unbearable-us.mp3",
-    "definition_en": "A incapable of being put up with",
-    "definition_zh": "a. 无法忍受的, 承受不住的",
-    "examples": [
-      "The committee analyzed a highly unbearable perspective during the forum."
-    ]
-  },
-  {
-    "id": "unclear_adjective",
-    "word": "unclear",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.ʌn'kliә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unclear-us.mp3",
-    "definition_en": "Not clear to the mind",
-    "definition_zh": "a. 不易了解的, 不清楚的, 含混的",
-    "examples": [
-      "The committee analyzed a highly unclear perspective during the forum."
-    ]
-  },
-  {
-    "id": "unclearly_adverb",
-    "word": "unclearly",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/unclearly/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unclearly-us.mp3",
-    "definition_en": "Denoting unclearly; widely used in Human Organs & Anatomy.",
-    "definition_zh": "[网络] 含糊地；不清晰",
-    "examples": [
-      "Researchers systematically observed unclearly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "unheard_adjective",
-    "word": "unheard",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.ʌn'hә:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unheard-us.mp3",
-    "definition_en": "Not necessarily inaudible but not heard",
-    "definition_zh": "a. 没有被听到的, 未予倾听的, 未予考虑的",
-    "examples": [
-      "The committee analyzed a highly unheard perspective during the forum."
-    ]
-  },
-  {
-    "id": "vein_noun",
-    "word": "vein",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/vein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vein-us.mp3",
-    "definition_en": "A blood vessel that carries blood from the capillaries toward the heart",
-    "definition_zh": "n. 血管, 静脉, 纹理, 气质, 情绪",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the vein."
-    ]
-  },
-  {
-    "id": "well-organized_adjective",
-    "word": "well-organized",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/wel'ɔ:gənaɪzd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/well-organized-us.mp3",
-    "definition_en": "Denoting well-organized; widely used in Human Organs & Anatomy.",
-    "definition_zh": "有序的; 很有条理的",
-    "examples": [
-      "The committee analyzed a highly well-organized perspective during the forum."
-    ]
-  },
-  {
-    "id": "year_noun",
-    "word": "year",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/jiә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/year-us.mp3",
-    "definition_en": "A period of time containing 365 (or 366) days",
-    "definition_zh": "n. 年, 年度, 年龄",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the year."
-    ]
-  },
-  {
-    "id": "organizational_adjective",
-    "word": "organizational",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.ɒ:gәnai'zeiʃәnәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organizational-us.mp3",
-    "definition_en": "Of or relating to an organization",
-    "definition_zh": "a. 组织的",
-    "examples": [
-      "The committee analyzed a highly organizational perspective during the forum."
-    ]
-  },
-  {
-    "id": "brainwash_verb",
-    "word": "brainwash",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'breinwɒʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brainwash-us.mp3",
-    "definition_en": "Persuade completely, often through coercion",
-    "definition_zh": "vt. 对人洗脑",
-    "examples": [
-      "Doctors advise patients to brainwash regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "brainwashing_noun",
-    "word": "brainwashing",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'breinwɒʃiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brainwashing-us.mp3",
-    "definition_en": "Forcible indoctrination into a new set of attitudes and beliefs",
-    "definition_zh": "n. 洗脑",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the brainwashing."
-    ]
-  },
-  {
-    "id": "bearded_adjective",
-    "word": "bearded",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'biәdid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bearded-us.mp3",
-    "definition_en": "Having hair on the cheeks and chin",
-    "definition_zh": "a. 有须的, 有胡子的",
-    "examples": [
-      "The committee analyzed a highly bearded perspective during the forum."
-    ]
-  },
-  {
-    "id": "bribe_verb",
-    "word": "bribe",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/braib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bribe-us.mp3",
-    "definition_en": "Make illegal payments to in exchange for favors or influence",
-    "definition_zh": "vt. 贿赂, 收买",
-    "examples": [
-      "Doctors advise patients to bribe regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "bribe_noun",
-    "word": "bribe",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/braib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bribe-us.mp3",
-    "definition_en": "Payment made to a person in a position of trust to corrupt his judgment",
-    "definition_zh": "n. 贿赂",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the bribe."
-    ]
-  },
-  {
-    "id": "bribery_noun",
-    "word": "bribery",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'braibәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bribery-us.mp3",
-    "definition_en": "The practice of offering something (usually money) in order to gain an illicit advantage",
-    "definition_zh": "n. 贿赂行为, 行贿, 受贿",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the bribery."
-    ]
-  },
-  {
-    "id": "linear_adjective",
-    "word": "linear",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'liniә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/linear-us.mp3",
-    "definition_en": "Designating or involving an equation whose terms are of the first degree",
-    "definition_zh": "a. 线的, 直线的, 线状的",
-    "examples": [
-      "The committee analyzed a highly linear perspective during the forum."
-    ]
-  },
-  {
-    "id": "linearly_adverb",
-    "word": "linearly",
-    "part_of_speech": "adverb",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'liniәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/linearly-us.mp3",
-    "definition_en": "In a linear manner",
-    "definition_zh": "adv. 线, 长条形, 线状, 线性, 直线, 长度",
-    "examples": [
-      "Researchers systematically observed linearly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "plunge_verb",
-    "word": "plunge",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/plʌndʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plunge-us.mp3",
-    "definition_en": "Dash violently or with great speed or impetuosity",
-    "definition_zh": "vi. 投入, 投身于, 跳进, 陷入, 下降",
-    "examples": [
-      "Doctors advise patients to plunge regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "plunge_noun",
-    "word": "plunge",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/plʌndʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plunge-us.mp3",
-    "definition_en": "A steep and rapid fall",
-    "definition_zh": "n. 钻进, 跳进, 跳水, 跳水池, 猛跌, 落下, 投入, 开始从事, 盲目投资",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the plunge."
-    ]
-  },
-  {
-    "id": "muscle-bound_adjective",
-    "word": "muscle-bound",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/muscle-bound/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscle-bound-us.mp3",
-    "definition_en": "Having stiff muscles as the result of excessive exercise",
-    "definition_zh": "a. 肌肉紧张的, 死板的, 僵硬的",
-    "examples": [
-      "The committee analyzed a highly muscle-bound perspective during the forum."
-    ]
-  },
-  {
-    "id": "moribund_adjective",
-    "word": "moribund",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'mɒ:ribʌnd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moribund-us.mp3",
-    "definition_en": "Being on the point of death; breathing your last",
-    "definition_zh": "a. 垂死的",
-    "examples": [
-      "The committee analyzed a highly moribund perspective during the forum."
-    ]
-  },
-  {
-    "id": "unnerve_verb",
-    "word": "unnerve",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.ʌn'nә:v/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unnerve-us.mp3",
-    "definition_en": "V disturb the composure of",
-    "definition_zh": "vt. 使失去勇气, 使胆怯, 使不能自制",
-    "examples": [
-      "Doctors advise patients to unnerve regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "proscribe_verb",
-    "word": "proscribe",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/prәu'skraib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/proscribe-us.mp3",
-    "definition_en": "V command against",
-    "definition_zh": "vt. 剥夺...的公民权, 使失去法律保护, 把...充军, 把...放逐, 排斥, 禁止",
-    "examples": [
-      "Doctors advise patients to proscribe regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "dribble_verb",
-    "word": "dribble",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'dribl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dribble-us.mp3",
-    "definition_en": "Let or cause to fall in drops",
-    "definition_zh": "vi. 流口水, 滴下",
-    "examples": [
-      "Doctors advise patients to dribble regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "dribble_noun",
-    "word": "dribble",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'dribl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dribble-us.mp3",
-    "definition_en": "The propulsion of a ball by repeated taps or kicks",
-    "definition_zh": "n. 点滴, 口水, 少量",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the dribble."
-    ]
-  },
-  {
-    "id": "attributive_adjective",
-    "word": "attributive",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ә'tribju:tiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attributive-us.mp3",
-    "definition_en": "Of adjectives; placed before the nouns they modify",
-    "definition_zh": "a. 归属的, 属性的, 定语的",
-    "examples": [
-      "The committee analyzed a highly attributive perspective during the forum."
-    ]
-  },
-  {
-    "id": "years_noun",
-    "word": "years",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/years/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/years-us.mp3",
-    "definition_en": "N a late time of life",
-    "definition_zh": "n. 年代；岁月；年；年龄",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the years."
-    ]
-  },
-  {
-    "id": "described_verb",
-    "word": "described",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/described/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/described-us.mp3",
-    "definition_en": "Represented in words especially with sharpness and detail",
-    "definition_zh": "v. 描述, 描写（describe的过去式）",
-    "examples": [
-      "Doctors advise patients to described regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "eyes_noun",
-    "word": "eyes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/eyes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eyes-us.mp3",
-    "definition_en": "Opinion or judgment",
-    "definition_zh": "n. 眼睛（eye的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the eyes."
-    ]
-  },
-  {
-    "id": "cells_noun",
-    "word": "cells",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/cells/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cells-us.mp3",
-    "definition_en": "N any small compartment",
-    "definition_zh": "n. 细胞；牢房；小屋；单元格（cell的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the cells."
-    ]
-  },
-  {
-    "id": "heard_verb",
-    "word": "heard",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/hә:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heard-us.mp3",
-    "definition_en": "Detected or perceived by the sense of hearing",
-    "definition_zh": "hear的过去式和过去分词",
-    "examples": [
-      "Doctors advise patients to heard regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "year_adjective",
-    "word": "year",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/jiә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/year-us.mp3",
-    "definition_en": "A period of time containing 365 (or 366) days",
-    "definition_zh": "n. 年, 年度, 年龄",
-    "examples": [
-      "The committee analyzed a highly year perspective during the forum."
-    ]
-  },
-  {
-    "id": "organizations_noun",
-    "word": "organizations",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/organizations/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organizations-us.mp3",
-    "definition_en": "N a group of people who work together",
-    "definition_zh": "n. 组织机构；组织, 构造, 有机体（organization的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the organizations."
-    ]
-  },
-  {
-    "id": "organized_verb",
-    "word": "organized",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ɔ:^әnaizd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organized-us.mp3",
-    "definition_en": "Formed into a structured or coherent whole",
-    "definition_zh": "a. 有组织的, 组织起来的",
-    "examples": [
-      "Doctors advise patients to organized regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "contributions_noun",
-    "word": "contributions",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/contributions/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contributions-us.mp3",
-    "definition_en": "N the part played by a person in bringing about a result",
-    "definition_zh": "n. 贡献；出资",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the contributions."
-    ]
-  },
-  {
-    "id": "delivered_verb",
-    "word": "delivered",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/di'livәd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delivered-us.mp3",
-    "definition_en": "V deliver (a speech, oration, or idea)",
-    "definition_zh": "a. 业已交货",
-    "examples": [
-      "Doctors advise patients to delivered regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "distributed_verb",
-    "word": "distributed",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/di'stribju:tid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distributed-us.mp3",
-    "definition_en": "Spread out or scattered about or divided up",
-    "definition_zh": "a. 分布式的",
-    "examples": [
-      "Doctors advise patients to distributed regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "asking_verb",
-    "word": "asking",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ɑ:skiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/asking-us.mp3",
-    "definition_en": "N the verbal act of requesting",
-    "definition_zh": "n. 请求",
-    "examples": [
-      "Doctors advise patients to asking regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "describes_verb",
-    "word": "describes",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/describes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/describes-us.mp3",
-    "definition_en": "V give a description of",
-    "definition_zh": "v. 描述, 记述；形容, 作图（describe的复数形式）",
-    "examples": [
-      "Doctors advise patients to describes regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "teeth_noun",
-    "word": "teeth",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ti:θ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teeth-us.mp3",
-    "definition_en": "N the kind and number and arrangement of teeth (collectively) in a person or animal",
-    "definition_zh": "pl. 牙齿",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the teeth."
-    ]
-  },
-  {
-    "id": "contributed_verb",
-    "word": "contributed",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/contributed/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contributed-us.mp3",
-    "definition_en": "V bestow a quality on",
-    "definition_zh": "a. 已缴入的；贡献的, 分配的",
-    "examples": [
-      "Doctors advise patients to contributed regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "organisation_noun",
-    "word": "organisation",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/,ɔ: ^әnaizeiʃən; - ni'z-/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organisation-us.mp3",
-    "definition_en": "N the persons (or committees or departments etc.) who make up a body for the purpose of administering something",
-    "definition_zh": "n. 组织, 团体, 体制, 编制",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the organisation."
-    ]
-  },
-  {
-    "id": "hearings_noun",
-    "word": "hearings",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ˈhiəriŋz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearings-us.mp3",
-    "definition_en": "(law) a proceeding (usually by a court) where evidence is taken for the purpose of determining an issue of fact and reaching a decision based on that evidence",
-    "definition_zh": "n. 听力( hearing的复数形式 ); 听觉; 听力所及的距离; 听证会",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the hearings."
-    ]
-  },
-  {
-    "id": "hearing_verb",
-    "word": "hearing",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'hiәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearing-us.mp3",
-    "definition_en": "(law) a proceeding (usually by a court) where evidence is taken for the purpose of determining an issue of fact and reaching a decision based on that evidence",
-    "definition_zh": "n. 听, 听觉, 听讯",
-    "examples": [
-      "Doctors advise patients to hearing regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "attributed_verb",
-    "word": "attributed",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ə'trɪbjuːtɪd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attributed-us.mp3",
-    "definition_en": "Imp. & p. p. of Attribute",
-    "definition_zh": "v. 认为...是( attribute的过去式和过去分词 ); 把...归于; 把...品质归于某人; 认为某事[物]属于某人[物]",
-    "examples": [
-      "Doctors advise patients to attributed regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "ears_noun",
-    "word": "ears",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ears/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ears-us.mp3",
-    "definition_en": "N the sense organ for hearing and equilibrium",
-    "definition_zh": "abbr. 电声额定系统（Electro-Acoustic Rating System）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the ears."
-    ]
-  },
-  {
-    "id": "muscles_noun",
-    "word": "muscles",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/muscles/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscles-us.mp3",
-    "definition_en": "N one of the contractile organs of the body",
-    "definition_zh": "n. 肌肉（muscle的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the muscles."
-    ]
-  },
-  {
-    "id": "describing_verb",
-    "word": "describing",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/describing/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/describing-us.mp3",
-    "definition_en": "V give a description of",
-    "definition_zh": "[计] 描述的",
-    "examples": [
-      "Doctors advise patients to describing regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "tissues_noun",
-    "word": "tissues",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/tissues/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tissues-us.mp3",
-    "definition_en": "N part of an organism consisting of an aggregate of cells having a similar structure and function",
-    "definition_zh": "n. 组织, 薄的纱织品；面巾纸（tissue的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the tissues."
-    ]
-  },
-  {
-    "id": "organs_noun",
-    "word": "organs",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/organs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organs-us.mp3",
-    "definition_en": "N edible viscera of a butchered animal",
-    "definition_zh": "n. 器官；机构；风琴（organ的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the organs."
-    ]
-  },
-  {
-    "id": "organisms_noun",
-    "word": "organisms",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ɔrgən,ɪzəm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organisms-us.mp3",
-    "definition_en": "A living thing that has (or can develop) the ability to act or function independently",
-    "definition_zh": "n. 有机物( organism的复数形式 ); 有机体; 生物; 有机体系",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the organisms."
-    ]
-  },
-  {
-    "id": "bones_noun",
-    "word": "bones",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/bәunz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bones-us.mp3",
-    "definition_en": "A percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by Spanish dancers) in rhythm with the dance",
-    "definition_zh": "n. 骨骼, 尸体",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the bones."
-    ]
-  },
-  {
-    "id": "tribes_noun",
-    "word": "tribes",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/traibz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tribes-us.mp3",
-    "definition_en": "A social division of (usually preliterate) people",
-    "definition_zh": "n. 部落( tribe的复数形式 ); （动、植物的）族; （一）帮; 大群",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the tribes."
-    ]
-  },
-  {
-    "id": "distributions_noun",
-    "word": "distributions",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/dɪstrɪb'ju:ʃnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distributions-us.mp3",
-    "definition_en": "(statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence",
-    "definition_zh": "n. 分配( distribution的复数形式 ); 分类; 分发; 分配物",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the distributions."
-    ]
-  },
-  {
-    "id": "hearts_noun",
-    "word": "hearts",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/hearts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearts-us.mp3",
-    "definition_en": "A form of whist in which players avoid winning tricks containing hearts or the queen of spades",
-    "definition_zh": "n. 心；中心；内心；同情心；心形物（heart的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the hearts."
-    ]
-  },
-  {
-    "id": "nuclear_noun",
-    "word": "nuclear",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'nju:kliә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nuclear-us.mp3",
-    "definition_en": "(weapons) deriving destructive energy from the release of atomic energy",
-    "definition_zh": "a. 核子的, 原子能的, 核的, 中心的",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the nuclear."
-    ]
-  },
-  {
-    "id": "bearing_verb",
-    "word": "bearing",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'bєәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bearing-us.mp3",
-    "definition_en": "Relevant relation or interconnection",
-    "definition_zh": "n. 举止, 轴承, 忍受, 关系, 意义, 方向, 生育",
-    "examples": [
-      "Doctors advise patients to bearing regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "veins_noun",
-    "word": "veins",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/veins/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/veins-us.mp3",
-    "definition_en": "N a blood vessel that carries blood from the capillaries toward the heart",
-    "definition_zh": "n. 纹理；静脉（vein的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the veins."
-    ]
-  },
-  {
-    "id": "contributing_verb",
-    "word": "contributing",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/contributing/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contributing-us.mp3",
-    "definition_en": "V bestow a quality on",
-    "definition_zh": "a. 贡献的, 起一份作用的",
-    "examples": [
-      "Doctors advise patients to contributing regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "attributes_noun",
-    "word": "attributes",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/attributes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attributes-us.mp3",
-    "definition_en": "N a construct whereby objects or individuals can be distinguished",
-    "definition_zh": "n. 属性（attribute的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the attributes."
-    ]
-  },
-  {
-    "id": "reorganization_noun",
-    "word": "reorganization",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'ri:,ɔ:^әnai'zeiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reorganization-us.mp3",
-    "definition_en": "The imposition of a new organization; organizing differently (often involving extensive and drastic changes)",
-    "definition_zh": "n. 改组, 再编制, 改造",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the reorganization."
-    ]
-  },
-  {
-    "id": "cell_adjective",
-    "word": "cell",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/sel/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cell-us.mp3",
-    "definition_en": "Any small compartment",
-    "definition_zh": "n. 单元, 细胞, 电池",
-    "examples": [
-      "The committee analyzed a highly cell perspective during the forum."
-    ]
-  },
-  {
-    "id": "conveyed_verb",
-    "word": "conveyed",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/kənˈveid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conveyed-us.mp3",
-    "definition_en": "Imp. & p. p. of Convey",
-    "definition_zh": "v. 运输( convey的过去式和过去分词 ); 运送; 输送; 表达",
-    "examples": [
-      "Doctors advise patients to conveyed regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "rear_noun",
-    "word": "rear",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/riә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rear-us.mp3",
-    "definition_en": "The back of a military formation or procession",
-    "definition_zh": "n. 后面, 背后, 后方",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the rear."
-    ]
-  },
-  {
-    "id": "lungs_noun",
-    "word": "lungs",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'lʌŋz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lungs-us.mp3",
-    "definition_en": "Either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood",
-    "definition_zh": "n. 肺( lung的复数形式 ); 肺脏",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the lungs."
+    "phonetic": "/ribs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ribs-us.mp3",
+    "definition_en": "N support resembling the rib of an animal",
+    "definition_zh": "n. 肋骨；排骨（rib的复数）",
+    "examples": [
+      "Maintaining proper health supports the optimal function of the ribs."
     ]
   },
   {
@@ -2555,591 +663,46 @@
     ]
   },
   {
-    "id": "bearings_noun",
-    "word": "bearings",
+    "id": "throat_noun",
+    "word": "throat",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/bearings/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bearings-us.mp3",
-    "definition_en": "N relevant relation or interconnection",
-    "definition_zh": "[经] 方位",
+    "phonetic": "/θrәut/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/throat-us.mp3",
+    "definition_en": "The passage to the stomach and lungs; in the front part of the neck below the chin and above the collarbone",
+    "definition_zh": "n. 咽喉, 喉咙, 嗓音",
     "examples": [
-      "Maintaining proper health supports the optimal function of the bearings."
+      "Maintaining proper health supports the optimal function of the throat."
     ]
   },
   {
-    "id": "chester_noun",
-    "word": "chester",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'tʃestә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chester-us.mp3",
-    "definition_en": "A city of southeastern Pennsylvania on the Delaware river (an industrial suburb of Philadelphia)",
-    "definition_zh": "n. 切斯特（美国港口城市）；切斯特（英国一城市）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the chester."
-    ]
-  },
-  {
-    "id": "organizing_verb",
-    "word": "organizing",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/organizing/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organizing-us.mp3",
-    "definition_en": "V create (as an entity)",
-    "definition_zh": "[经] 组织",
-    "examples": [
-      "Doctors advise patients to organizing regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "yearly_adjective",
-    "word": "yearly",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'jiәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yearly-us.mp3",
-    "definition_en": "N a reference book that is published regularly once every year",
-    "definition_zh": "a. 每年的, 一年一度的",
-    "examples": [
-      "The committee analyzed a highly yearly perspective during the forum."
-    ]
-  },
-  {
-    "id": "limbs_noun",
-    "word": "limbs",
+    "id": "toenail_noun",
+    "word": "toenail",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/limbs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/limbs-us.mp3",
-    "definition_en": "N one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper",
-    "definition_zh": "n. 四肢（limb的复数）",
+    "phonetic": "/'tәuneil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toenail-us.mp3",
+    "definition_en": "The nail at the end of a toe",
+    "definition_zh": "n. 脚趾甲, 斜钉",
     "examples": [
-      "Maintaining proper health supports the optimal function of the limbs."
+      "Recent breakthroughs in toenail have accelerated modern technological innovation."
     ]
   },
   {
-    "id": "delivering_verb",
-    "word": "delivering",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/diˈlivərɪŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delivering-us.mp3",
-    "definition_en": "Pr. & vb. n. of Deliver",
-    "definition_zh": "v. 递送, 交付( deliver的现在分词 ); 发表; 交出; 发动",
-    "examples": [
-      "Doctors advise patients to delivering regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "surveyed_verb",
-    "word": "surveyed",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ˈsɜrˌveɪd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surveyed-us.mp3",
-    "definition_en": "V consider in a comprehensive way",
-    "definition_zh": "v. 调查( survey的过去式和过去分词 ); 测量; 检查; 眺望",
-    "examples": [
-      "Doctors advise patients to surveyed regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "distributors_noun",
-    "word": "distributors",
+    "id": "retina_noun",
+    "word": "retina",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/dɪst'rɪbju:təz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distributors-us.mp3",
-    "definition_en": "Someone who markets merchandise",
-    "definition_zh": "n. 批发公司, 批发商( distributor的复数形式 ); （汽车上的）配电器",
+    "phonetic": "/'retinә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/retina-us.mp3",
+    "definition_en": "A layer at the back of the eyeball sensitive to light, triggering nerve impulses via optic nerves.",
+    "definition_zh": "视网膜",
     "examples": [
-      "Maintaining proper health supports the optimal function of the distributors."
-    ]
-  },
-  {
-    "id": "organised_verb",
-    "word": "organised",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/organised/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organised-us.mp3",
-    "definition_en": "V bring order and organization to",
-    "definition_zh": "a. 有组织的, 组织起来的",
-    "examples": [
-      "Doctors advise patients to organised regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "bearing_adjective",
-    "word": "bearing",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'bєәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bearing-us.mp3",
-    "definition_en": "Relevant relation or interconnection",
-    "definition_zh": "n. 举止, 轴承, 忍受, 关系, 意义, 方向, 生育",
-    "examples": [
-      "The committee analyzed a highly bearing perspective during the forum."
-    ]
-  },
-  {
-    "id": "contributes_verb",
-    "word": "contributes",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/kənˈtribjuts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contributes-us.mp3",
-    "definition_en": "V bestow a quality on",
-    "definition_zh": "v. 捐献( contribute的第三人称单数 ); 捐助; 撰稿; 投稿",
-    "examples": [
-      "Doctors advise patients to contributes regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "ribs_noun",
-    "word": "ribs",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ribs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ribs-us.mp3",
-    "definition_en": "N support resembling the rib of an animal",
-    "definition_zh": "n. 肋骨；排骨（rib的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the ribs."
-    ]
-  },
-  {
-    "id": "organic_noun",
-    "word": "organic",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ɒ:'gænik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organic-us.mp3",
-    "definition_en": "A fertilizer that is derived from animal or vegetable matter",
-    "definition_zh": "a. 器官的, 有机的, 组织的, 根本的",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the organic."
-    ]
-  },
-  {
-    "id": "skins_noun",
-    "word": "skins",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/skinz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skins-us.mp3",
-    "definition_en": "N a natural protective body covering and site of the sense of touch",
-    "definition_zh": "n. （美）连皮烤土豆；面板；皮囊；皮肤（skin的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the skins."
-    ]
-  },
-  {
-    "id": "deliveries_noun",
-    "word": "deliveries",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/deliveries/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deliveries-us.mp3",
-    "definition_en": "N the act of delivering or distributing something (as goods or mail)",
-    "definition_zh": "n. 已交付；交货（delivery的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the deliveries."
-    ]
-  },
-  {
-    "id": "brains_noun",
-    "word": "brains",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'breinz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brains-us.mp3",
-    "definition_en": "N that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord",
-    "definition_zh": "n. 智力, 脑髓",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the brains."
-    ]
-  },
-  {
-    "id": "inorganic_adjective",
-    "word": "inorganic",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/.inɒ:'gænik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inorganic-us.mp3",
-    "definition_en": "Relating or belonging to the class of compounds not having a carbon basis",
-    "definition_zh": "a. 无机的, 无生物的, 非自然形成的",
-    "examples": [
-      "The committee analyzed a highly inorganic perspective during the forum."
-    ]
-  },
-  {
-    "id": "diagnosed_verb",
-    "word": "diagnosed",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ˈdaiəɡnəuzd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diagnosed-us.mp3",
-    "definition_en": "V determine or distinguish the nature of a problem or an illness through a diagnostic analysis",
-    "definition_zh": "v. 诊断( diagnose的过去式和过去分词 )",
-    "examples": [
-      "Doctors advise patients to diagnosed regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "eyed_adjective",
-    "word": "eyed",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/aid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eyed-us.mp3",
-    "definition_en": "Having an eye or eyes or eyelike feature especially as specified; often used in combination",
-    "definition_zh": "a. 有眼的",
-    "examples": [
-      "The committee analyzed a highly eyed perspective during the forum."
-    ]
-  },
-  {
-    "id": "climbing_verb",
-    "word": "climbing",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'klaimiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/climbing-us.mp3",
-    "definition_en": "N an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)",
-    "definition_zh": "a. 攀缘而登的, 上升的",
-    "examples": [
-      "Doctors advise patients to climbing regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "ascribed_verb",
-    "word": "ascribed",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/əˈskraibd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ascribed-us.mp3",
-    "definition_en": "V attribute or credit to",
-    "definition_zh": "v. 把…归于, 认为…是由于( ascribe的过去式和过去分词 ); 认为…具有",
-    "examples": [
-      "Doctors advise patients to ascribed regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "cancelled_verb",
-    "word": "cancelled",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'kænsəld/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cancelled-us.mp3",
-    "definition_en": "V postpone indefinitely or annul something that was scheduled",
-    "definition_zh": "v. 取消( cancel的过去式和过去分词 ); 废除; 注销; 删去",
-    "examples": [
-      "Doctors advise patients to cancelled regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "hears_verb",
-    "word": "hears",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/hears/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hears-us.mp3",
-    "definition_en": "V perceive (sound) via the auditory sense",
-    "definition_zh": "n. 剪切刀；殡仪车",
-    "examples": [
-      "Doctors advise patients to hears regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "gears_noun",
-    "word": "gears",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/gears/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gears-us.mp3",
-    "definition_en": "N a toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion",
-    "definition_zh": "n. 齿轮, 传动装置（gear的复数形式）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the gears."
-    ]
-  },
-  {
-    "id": "distributing_verb",
-    "word": "distributing",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/dis'tribju:tiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distributing-us.mp3",
-    "definition_en": "V administer or bestow, as in small portions",
-    "definition_zh": "[计] 配线的",
-    "examples": [
-      "Doctors advise patients to distributing regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "spines_noun",
-    "word": "spines",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/spainz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spines-us.mp3",
-    "definition_en": "The series of vertebrae forming the axis of the skeleton and protecting the spinal cord",
-    "definition_zh": "n. 脊柱( spine的复数形式 ); 脊椎; （动植物的）刺; 书脊",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the spines."
-    ]
-  },
-  {
-    "id": "firearms_noun",
-    "word": "firearms",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/firearms/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/firearms-us.mp3",
-    "definition_en": "N a portable gun",
-    "definition_zh": "n. 火器, 枪炮；轻武器（firearm的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the firearms."
-    ]
-  },
-  {
-    "id": "reared_verb",
-    "word": "reared",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/riəd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reared-us.mp3",
-    "definition_en": "Imp. & p. p. of Rear",
-    "definition_zh": "v. 饲养( rear的过去式和过去分词 ); 养育; 抚养; 抬起",
-    "examples": [
-      "Doctors advise patients to reared regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "microorganisms_noun",
-    "word": "microorganisms",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/microorganisms/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/microorganisms-us.mp3",
-    "definition_en": "N any organism of microscopic size",
-    "definition_zh": "n. [微] 微生物, 微生虫（microorganism的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the microorganisms."
-    ]
-  },
-  {
-    "id": "inscribed_verb",
-    "word": "inscribed",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/in'skraibd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inscribed-us.mp3",
-    "definition_en": "Written (by handwriting, printing, engraving, or carving) on or in a surface",
-    "definition_zh": "a. 内切的；记名的；有铭刻的",
-    "examples": [
-      "Doctors advise patients to inscribed regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "tongues_noun",
-    "word": "tongues",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/tʌŋz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tongues-us.mp3",
-    "definition_en": "N a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity",
-    "definition_zh": "n. 语言( tongue的名词复数 ); 舌头; 舌状物; 鞋舌",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the tongues."
-    ]
-  },
-  {
-    "id": "eyebrows_noun",
-    "word": "eyebrows",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/eyebrows/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eyebrows-us.mp3",
-    "definition_en": "N the arch of hair above each eye",
-    "definition_zh": "n. 眉毛（eyebrow的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the eyebrows."
-    ]
-  },
-  {
-    "id": "flung_verb",
-    "word": "flung",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/fl ʌŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flung-us.mp3",
-    "definition_en": "V throw with force or recklessness",
-    "definition_zh": "扔, 丢, 掷, 抛, 急伸, 挥动, 扫视, (猛)推, 急派(军队), 猛冲, 急行, 直冲, 乱踢",
-    "examples": [
-      "Doctors advise patients to flung regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "hearth_noun",
-    "word": "hearth",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/hɑ:θ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearth-us.mp3",
-    "definition_en": "Home symbolized as a part of the fireplace",
-    "definition_zh": "n. 炉床, 灶台, 炉边",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the hearth."
-    ]
-  },
-  {
-    "id": "skinner_noun",
-    "word": "skinner",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'skinә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skinner-us.mp3",
-    "definition_en": "United States actor (1858-1942)",
-    "definition_zh": "n. 皮商, 剥皮工人, 骗子",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the skinner."
-    ]
-  },
-  {
-    "id": "attributes_verb",
-    "word": "attributes",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/attributes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attributes-us.mp3",
-    "definition_en": "N a construct whereby objects or individuals can be distinguished",
-    "definition_zh": "n. 属性（attribute的复数）",
-    "examples": [
-      "Doctors advise patients to attributes regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "organizing_noun",
-    "word": "organizing",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/organizing/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organizing-us.mp3",
-    "definition_en": "V create (as an entity)",
-    "definition_zh": "[经] 组织",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the organizing."
-    ]
-  },
-  {
-    "id": "geared_verb",
-    "word": "geared",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/^iәd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/geared-us.mp3",
-    "definition_en": "Equipped with or connected by gears or having gears engaged",
-    "definition_zh": "a. 齿轮传动的, 变速螺旋桨",
-    "examples": [
-      "Doctors advise patients to geared regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "delivers_verb",
-    "word": "delivers",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/diˈlivəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delivers-us.mp3",
-    "definition_en": "V deliver (a speech, oration, or idea)",
-    "definition_zh": "v. 递送, 交付( deliver的第三人称单数 ); 发表; 交出; 发动",
-    "examples": [
-      "Doctors advise patients to delivers regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "plunged_verb",
-    "word": "plunged",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/plʌndʒd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plunged-us.mp3",
-    "definition_en": "Imp. & p. p. of Plunge",
-    "definition_zh": "v. 颠簸( plunge的过去式和过去分词 ); 暴跌; 骤降; 突降",
-    "examples": [
-      "Doctors advise patients to plunged regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "arrears_noun",
-    "word": "arrears",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/ә'riәz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrears-us.mp3",
-    "definition_en": "The state of being behind in payments",
-    "definition_zh": "n. 逾期债款, 欠帐",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the arrears."
-    ]
-  },
-  {
-    "id": "yearly_adverb",
-    "word": "yearly",
-    "part_of_speech": "adverb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'jiәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yearly-us.mp3",
-    "definition_en": "N a reference book that is published regularly once every year",
-    "definition_zh": "adv. 一年一次, 每年",
-    "examples": [
-      "Researchers systematically observed yearly relevant patterns across trials."
+      "Photoreceptor rods and cones in the retina convert light into electrical impulses.",
+      "Laser surgery can effectively repair a torn retina."
     ]
   }
 ]

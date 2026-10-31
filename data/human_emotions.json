@@ -1,44 +1,45 @@
 [
   {
-    "id": "ambassador_noun",
-    "word": "ambassador",
-    "part_of_speech": "noun",
-    "level": "B2",
+    "id": "glad_adjective",
+    "word": "glad",
+    "part_of_speech": "adjective",
+    "level": "A1",
     "topic": "人类情感与心境",
-    "phonetic": "/æm'bæsәdә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambassador-us.mp3",
-    "definition_en": "A diplomat of the highest rank; accredited as representative from one country to another",
-    "definition_zh": "n. 大使",
+    "phonetic": "/glæd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/glad-us.mp3",
+    "definition_en": "Showing or causing joy and pleasure; especially made happy",
+    "definition_zh": "a. 高兴的, 喜欢的, 情愿的",
     "examples": [
-      "Understanding ambassador provides valuable insights into everyday communication."
+      "The committee analyzed a highly glad perspective during the forum."
     ]
   },
   {
-    "id": "anchorage_noun",
-    "word": "anchorage",
-    "part_of_speech": "noun",
-    "level": "B2",
+    "id": "happy_adjective",
+    "word": "happy",
+    "part_of_speech": "adjective",
+    "level": "A1",
     "topic": "人类情感与心境",
-    "phonetic": "/'æŋkәridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anchorage-us.mp3",
-    "definition_en": "The condition of being secured to a base",
-    "definition_zh": "n. 下锚, 锚地, 停泊税",
+    "phonetic": "/'hæpi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/happy-us.mp3",
+    "definition_en": "Feeling or showing pleasure or contentment.",
+    "definition_zh": "快乐的，高兴的，幸福的",
     "examples": [
-      "Understanding anchorage provides valuable insights into everyday communication."
+      "The children were happy playing in the sunlit meadow.",
+      "We celebrated a happy family reunion."
     ]
   },
   {
-    "id": "anger_noun",
-    "word": "anger",
-    "part_of_speech": "noun",
-    "level": "B1",
+    "id": "sad_adjective",
+    "word": "sad",
+    "part_of_speech": "adjective",
+    "level": "A1",
     "topic": "人类情感与心境",
-    "phonetic": "/'æŋgә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anger-us.mp3",
-    "definition_en": "A strong emotion; a feeling that is oriented toward some real or supposed grievance",
-    "definition_zh": "n. 忿怒",
+    "phonetic": "/sæd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sad-us.mp3",
+    "definition_en": "Feeling or showing sorrow; unhappy.",
+    "definition_zh": "悲伤的，难过的",
     "examples": [
-      "Understanding anger provides valuable insights into everyday communication."
+      "A gentle hug comforted the sad child."
     ]
   },
   {
@@ -46,7 +47,7 @@
     "word": "angry",
     "part_of_speech": "adjective",
     "level": "A2",
-    "topic": "Emotions (人类情感)",
+    "topic": "人类情感与心境",
     "phonetic": "/'æŋgri/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angry-us.mp3",
     "definition_en": "Feeling or showing strong annoyance, displeasure, or hostility.",
@@ -71,73 +72,144 @@
     ]
   },
   {
-    "id": "anxiously_adverb",
-    "word": "anxiously",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'æŋʃәsli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anxiously-us.mp3",
-    "definition_en": "With anxiety or apprehension",
-    "definition_zh": "adv. 忧虑地, 不安地",
-    "examples": [
-      "Researchers systematically observed anxiously relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "ashamed_adjective",
-    "word": "ashamed",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/ә'ʃeimd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ashamed-us.mp3",
-    "definition_en": "Feeling shame or guilt or embarrassment or remorse",
-    "definition_zh": "a. 惭愧的, 羞耻的",
-    "examples": [
-      "The committee analyzed a highly ashamed perspective during the forum."
-    ]
-  },
-  {
-    "id": "average_adjective",
-    "word": "average",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'ævәridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/average-us.mp3",
-    "definition_en": "A statistic describing the location of a distribution",
-    "definition_zh": "a. 平均的, 中等的, 平常的",
-    "examples": [
-      "The committee analyzed a highly average perspective during the forum."
-    ]
-  },
-  {
-    "id": "average_noun",
-    "word": "average",
+    "id": "envy_noun",
+    "word": "envy",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人类情感与心境",
-    "phonetic": "/'ævәridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/average-us.mp3",
-    "definition_en": "A statistic describing the location of a distribution",
-    "definition_zh": "n. 平均, 平均数, 一般水平, 海损",
+    "phonetic": "/'envi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/envy-us.mp3",
+    "definition_en": "A feeling of grudging admiration and desire to have something that is possessed by another",
+    "definition_zh": "n. 羡慕, 嫉妒",
     "examples": [
-      "Understanding average provides valuable insights into everyday communication."
+      "Understanding envy provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "beloved_adjective",
-    "word": "beloved",
+    "id": "fear_noun",
+    "word": "fear",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境",
+    "phonetic": "/fiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fear-us.mp3",
+    "definition_en": "An emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
+    "definition_zh": "n. 恐怖, 害怕, 担心",
+    "examples": [
+      "Understanding fear provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "happiness_noun",
+    "word": "happiness",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境",
+    "phonetic": "/'hæpinis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/happiness-us.mp3",
+    "definition_en": "State of well-being characterized by emotions ranging from contentment to intense joy",
+    "definition_zh": "n. 快乐, 幸运, 适当",
+    "examples": [
+      "Understanding happiness provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "human_adjective",
+    "word": "human",
     "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "人类情感与心境",
+    "phonetic": "/'hju:mәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/human-us.mp3",
+    "definition_en": "Characteristic of humanity",
+    "definition_zh": "a. 人类的, 似人类的, 人性的, 有同情心的",
+    "examples": [
+      "The committee analyzed a highly human perspective during the forum."
+    ]
+  },
+  {
+    "id": "joy_noun",
+    "word": "joy",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境",
+    "phonetic": "/dʒɒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/joy-us.mp3",
+    "definition_en": "The emotion of great happiness",
+    "definition_zh": "n. 欢喜, 乐事, 高兴",
+    "examples": [
+      "Understanding joy provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "panic_noun",
+    "word": "panic",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境",
+    "phonetic": "/'pænik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/panic-us.mp3",
+    "definition_en": "An overwhelming feeling of fear and anxiety",
+    "definition_zh": "n. 恐慌, 惊慌",
+    "examples": [
+      "Understanding panic provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "pity_noun",
+    "word": "pity",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境",
+    "phonetic": "/'piti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pity-us.mp3",
+    "definition_en": "An unfortunate development",
+    "definition_zh": "n. 遗憾, 同情, 怜悯, 憾事, 可惜",
+    "examples": [
+      "Understanding pity provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "pride_noun",
+    "word": "pride",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境",
+    "phonetic": "/praid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pride-us.mp3",
+    "definition_en": "A feeling of self-respect and personal worth",
+    "definition_zh": "n. 骄傲, 自尊心, 自豪, 精华, 勇气",
+    "examples": [
+      "Understanding pride provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "anger_noun",
+    "word": "anger",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/bi'lʌvd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beloved-us.mp3",
-    "definition_en": "A beloved person; used as terms of endearment",
-    "definition_zh": "a. 心爱的",
+    "phonetic": "/'æŋgә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anger-us.mp3",
+    "definition_en": "A strong emotion; a feeling that is oriented toward some real or supposed grievance",
+    "definition_zh": "n. 忿怒",
     "examples": [
-      "The committee analyzed a highly beloved perspective during the forum."
+      "Understanding anger provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "anxiety_noun",
+    "word": "anxiety",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/æŋ'zaiәti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anxiety-us.mp3",
+    "definition_en": "A feeling of worry, nervousness, or unease typically about an imminent event or uncertain outcome.",
+    "definition_zh": "焦虑，忧虑，渴望",
+    "examples": [
+      "Mindfulness meditation can substantially reduce generalized anxiety.",
+      "Exam anxiety often prevents students from performing at their best."
     ]
   },
   {
@@ -155,31 +227,284 @@
     ]
   },
   {
-    "id": "cheerfully_adverb",
-    "word": "cheerfully",
-    "part_of_speech": "adverb",
-    "level": "B2",
+    "id": "delight_noun",
+    "word": "delight",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/'tʃiәfuli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cheerfully-us.mp3",
-    "definition_en": "In a cheerful manner",
-    "definition_zh": "adv. 高高兴兴地",
+    "phonetic": "/di'lait/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delight-us.mp3",
+    "definition_en": "A feeling of extreme pleasure or satisfaction",
+    "definition_zh": "n. 高兴, 愉快",
     "examples": [
-      "Researchers systematically observed cheerfully relevant patterns across trials."
+      "Understanding delight provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "cheerfulness_noun",
-    "word": "cheerfulness",
+    "id": "delighted_adjective",
+    "word": "delighted",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/di'laitid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delighted-us.mp3",
+    "definition_en": "Greatly pleased",
+    "definition_zh": "a. 高兴的, 快乐的",
+    "examples": [
+      "The committee analyzed a highly delighted perspective during the forum."
+    ]
+  },
+  {
+    "id": "delighted_verb",
+    "word": "delighted",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/di'laitid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delighted-us.mp3",
+    "definition_en": "Greatly pleased",
+    "definition_zh": "a. 高兴的, 快乐的",
+    "examples": [
+      "Many professionals delighted key methods to achieve consistent, high-quality results."
+    ]
+  },
+  {
+    "id": "embarrass_verb",
+    "word": "embarrass",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/im'bærәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarrass-us.mp3",
+    "definition_en": "Cause to be embarrassed; cause to feel self-conscious",
+    "definition_zh": "vt. 使困窘, 使局促不安, 阻碍",
+    "examples": [
+      "Many professionals embarrass key methods to achieve consistent, high-quality results."
+    ]
+  },
+  {
+    "id": "embarrassment_noun",
+    "word": "embarrassment",
     "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/im'bærәsmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarrassment-us.mp3",
+    "definition_en": "The shame you feel when your inadequacy or guilt is made public",
+    "definition_zh": "n. 困难, 阻碍, 困窘",
+    "examples": [
+      "Understanding embarrassment provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "emotion_noun",
+    "word": "emotion",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/i'mәuʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/emotion-us.mp3",
+    "definition_en": "Any strong feeling",
+    "definition_zh": "n. 情绪, 激动, 强烈的情感",
+    "examples": [
+      "Understanding emotion provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "emotional_adjective",
+    "word": "emotional",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/i'mәuʃәnәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/emotional-us.mp3",
+    "definition_en": "Determined or actuated by emotion rather than reason",
+    "definition_zh": "a. 情绪的, 情感的",
+    "examples": [
+      "The committee analyzed a highly emotional perspective during the forum."
+    ]
+  },
+  {
+    "id": "emotions_noun",
+    "word": "emotions",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/emotions/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/emotions-us.mp3",
+    "definition_en": "N any strong feeling",
+    "definition_zh": "n. 情绪；情感（emotion的复数形式）",
+    "examples": [
+      "Understanding emotions provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "feared_verb",
+    "word": "feared",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/fiəd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feared-us.mp3",
+    "definition_en": "V be afraid or feel anxious or apprehensive about a possible or probable situation or event",
+    "definition_zh": "v. 畏惧( fear的过去式和过去分词 ); 为…忧虑（或担心、焦虑）; 敬畏（神等）; 感到害怕",
+    "examples": [
+      "Many professionals feared key methods to achieve consistent, high-quality results."
+    ]
+  },
+  {
+    "id": "fearful_adjective",
+    "word": "fearful",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'fiәful/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fearful-us.mp3",
+    "definition_en": "Experiencing or showing fear",
+    "definition_zh": "a. 可怕的, 恐怕的, 担心的",
+    "examples": [
+      "The committee analyzed a highly fearful perspective during the forum."
+    ]
+  },
+  {
+    "id": "jealous_adjective",
+    "word": "jealous",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'dʒelәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jealous-us.mp3",
+    "definition_en": "Feeling or showing envy of someone or their achievements and advantages.",
+    "definition_zh": "嫉妒的，吃醋的",
+    "examples": [
+      "Try not to be jealous of other people's overnight success.",
+      "Jealousy often stems from deep-seated personal insecurity."
+    ]
+  },
+  {
+    "id": "passion_noun",
+    "word": "passion",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'pæʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passion-us.mp3",
+    "definition_en": "A strong feeling or emotion",
+    "definition_zh": "n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)",
+    "examples": [
+      "Understanding passion provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "proud_adjective",
+    "word": "proud",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/praud/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/proud-us.mp3",
+    "definition_en": "Feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride",
+    "definition_zh": "a. 骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的",
+    "examples": [
+      "The committee analyzed a highly proud perspective during the forum."
+    ]
+  },
+  {
+    "id": "rage_noun",
+    "word": "rage",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/reidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rage-us.mp3",
+    "definition_en": "A state of extreme anger",
+    "definition_zh": "n. 愤怒, 情绪激动, 狂暴",
+    "examples": [
+      "Understanding rage provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "sadness_noun",
+    "word": "sadness",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'sædnis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sadness-us.mp3",
+    "definition_en": "Emotions experienced when not in a state of well-being",
+    "definition_zh": "n. 悲哀, 悲伤",
+    "examples": [
+      "Understanding sadness provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "shame_noun",
+    "word": "shame",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/ʃeim/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shame-us.mp3",
+    "definition_en": "A painful emotion resulting from an awareness of inadequacy or guilt",
+    "definition_zh": "n. 羞耻, 羞愧, 耻辱",
+    "examples": [
+      "Understanding shame provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "sorrow_noun",
+    "word": "sorrow",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'sɒrәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sorrow-us.mp3",
+    "definition_en": "An emotion of great sadness associated with loss or bereavement",
+    "definition_zh": "n. 悲伤, 哀惜, 不幸",
+    "examples": [
+      "Understanding sorrow provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "sympathy_noun",
+    "word": "sympathy",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'simpәθi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sympathy-us.mp3",
+    "definition_en": "An inclination to support or be loyal to or to agree with an opinion",
+    "definition_zh": "n. 同情, 赞同, 怜悯, 慰问, 吊唁",
+    "examples": [
+      "Understanding sympathy provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "caring_adjective",
+    "word": "caring",
+    "part_of_speech": "adjective",
     "level": "B2",
     "topic": "人类情感与心境",
-    "phonetic": "/'tʃiәfulnis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cheerfulness-us.mp3",
-    "definition_en": "The quality of being cheerful and dispelling gloom",
-    "definition_zh": "n. 高兴, 快活",
+    "phonetic": "/'kεәriŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caring-us.mp3",
+    "definition_en": "Feeling and exhibiting concern and empathy for others",
+    "definition_zh": "a. 有同情心的；表示或感到关怀或关心的",
     "examples": [
-      "Understanding cheerfulness provides valuable insights into everyday communication."
+      "The committee analyzed a highly caring perspective during the forum."
+    ]
+  },
+  {
+    "id": "caring_verb",
+    "word": "caring",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/'kεәriŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caring-us.mp3",
+    "definition_en": "Feeling and exhibiting concern and empathy for others",
+    "definition_zh": "a. 有同情心的；表示或感到关怀或关心的",
+    "examples": [
+      "Many professionals caring key methods to achieve consistent, high-quality results."
     ]
   },
   {
@@ -211,62 +536,6 @@
     ]
   },
   {
-    "id": "danger_noun",
-    "word": "danger",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'deindʒә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/danger-us.mp3",
-    "definition_en": "The condition of being susceptible to harm or injury",
-    "definition_zh": "n. 危险, 威胁",
-    "examples": [
-      "Understanding danger provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "dangerous_adjective",
-    "word": "dangerous",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'deindʒәrәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dangerous-us.mp3",
-    "definition_en": "Involving or causing danger or risk; liable to hurt or harm",
-    "definition_zh": "a. 危险的",
-    "examples": [
-      "The committee analyzed a highly dangerous perspective during the forum."
-    ]
-  },
-  {
-    "id": "dangerously_adverb",
-    "word": "dangerously",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/dangerously/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dangerously-us.mp3",
-    "definition_en": "R in a dangerous manner",
-    "definition_zh": "adv. 危险, 不安全",
-    "examples": [
-      "Researchers systematically observed dangerously relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "delight_noun",
-    "word": "delight",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/di'lait/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delight-us.mp3",
-    "definition_en": "A feeling of extreme pleasure or satisfaction",
-    "definition_zh": "n. 高兴, 愉快",
-    "examples": [
-      "Understanding delight provides valuable insights into everyday communication."
-    ]
-  },
-  {
     "id": "delight_verb",
     "word": "delight",
     "part_of_speech": "verb",
@@ -281,39 +550,11 @@
     ]
   },
   {
-    "id": "delighted_adjective",
-    "word": "delighted",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/di'laitid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delighted-us.mp3",
-    "definition_en": "Greatly pleased",
-    "definition_zh": "a. 高兴的, 快乐的",
-    "examples": [
-      "The committee analyzed a highly delighted perspective during the forum."
-    ]
-  },
-  {
-    "id": "delightful_adjective",
-    "word": "delightful",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/di'laitful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delightful-us.mp3",
-    "definition_en": "Greatly pleasing or entertaining",
-    "definition_zh": "a. 令人愉快的, 可爱的",
-    "examples": [
-      "The committee analyzed a highly delightful perspective during the forum."
-    ]
-  },
-  {
     "id": "despair_noun",
     "word": "despair",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "Emotions (人类情感)",
+    "topic": "人类情感与心境",
     "phonetic": "/di'spєә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/despair-us.mp3",
     "definition_en": "The complete loss or absence of hope.",
@@ -321,160 +562,6 @@
     "examples": [
       "She refused to yield to despair despite severe setbacks.",
       "Kind words from a mentor rescued the student from despair."
-    ]
-  },
-  {
-    "id": "disadvantage_noun",
-    "word": "disadvantage",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/.disәd'vɑ:ntidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disadvantage-us.mp3",
-    "definition_en": "The quality of having an inferior or less favorable position",
-    "definition_zh": "n. 缺点, 不利, 坏处",
-    "examples": [
-      "Understanding disadvantage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "embarrass_verb",
-    "word": "embarrass",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/im'bærәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarrass-us.mp3",
-    "definition_en": "Cause to be embarrassed; cause to feel self-conscious",
-    "definition_zh": "vt. 使困窘, 使局促不安, 阻碍",
-    "examples": [
-      "Many professionals embarrass key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "embarrassed_adjective",
-    "word": "embarrassed",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "Emotions (人类情感)",
-    "phonetic": "/im'bærәst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarrassed-us.mp3",
-    "definition_en": "Feeling awkward, self-conscious, or ashamed.",
-    "definition_zh": "尴尬的，难为情的",
-    "examples": [
-      "He felt deeply embarrassed after mispronouncing the keynote speaker's name."
-    ]
-  },
-  {
-    "id": "embarrassing_adjective",
-    "word": "embarrassing",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/im'bærәsiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarrassing-us.mp3",
-    "definition_en": "Causing to feel shame or chagrin or vexation",
-    "definition_zh": "a. 令人为难的, 麻烦的",
-    "examples": [
-      "The committee analyzed a highly embarrassing perspective during the forum."
-    ]
-  },
-  {
-    "id": "embarrassment_noun",
-    "word": "embarrassment",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/im'bærәsmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarrassment-us.mp3",
-    "definition_en": "The shame you feel when your inadequacy or guilt is made public",
-    "definition_zh": "n. 困难, 阻碍, 困窘",
-    "examples": [
-      "Understanding embarrassment provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "endanger_verb",
-    "word": "endanger",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/in'deindʒә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/endanger-us.mp3",
-    "definition_en": "Pose a threat to; present a danger to",
-    "definition_zh": "vt. 危及",
-    "examples": [
-      "Many professionals endanger key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "endangered_adjective",
-    "word": "endangered",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/in'deindʒәd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/endangered-us.mp3",
-    "definition_en": "(of flora or fauna) in imminent danger of extinction",
-    "definition_zh": "a. 有生命危险的；濒临灭绝的",
-    "examples": [
-      "The committee analyzed a highly endangered perspective during the forum."
-    ]
-  },
-  {
-    "id": "enjoy_verb",
-    "word": "enjoy",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/in'dʒɒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enjoy-us.mp3",
-    "definition_en": "Derive or receive pleasure from; get enjoyment from; take pleasure in",
-    "definition_zh": "vt. 享受, 喜欢, 欣赏",
-    "examples": [
-      "Many professionals enjoy key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "enjoyable_adjective",
-    "word": "enjoyable",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/in'dʒɒiәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enjoyable-us.mp3",
-    "definition_en": "Affording satisfaction or pleasure",
-    "definition_zh": "a. 可从中得到乐趣的, 令人愉快的",
-    "examples": [
-      "The committee analyzed a highly enjoyable perspective during the forum."
-    ]
-  },
-  {
-    "id": "enjoyment_noun",
-    "word": "enjoyment",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/in'dʒɒimәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enjoyment-us.mp3",
-    "definition_en": "The pleasure felt when having a good time",
-    "definition_zh": "n. 享乐, 快乐, 享受",
-    "examples": [
-      "Understanding enjoyment provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "envy_noun",
-    "word": "envy",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'envi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/envy-us.mp3",
-    "definition_en": "A feeling of grudging admiration and desire to have something that is possessed by another",
-    "definition_zh": "n. 羡慕, 嫉妒",
-    "examples": [
-      "Understanding envy provides valuable insights into everyday communication."
     ]
   },
   {
@@ -492,20 +579,6 @@
     ]
   },
   {
-    "id": "fear_noun",
-    "word": "fear",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/fiә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fear-us.mp3",
-    "definition_en": "An emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
-    "definition_zh": "n. 恐怖, 害怕, 担心",
-    "examples": [
-      "Understanding fear provides valuable insights into everyday communication."
-    ]
-  },
-  {
     "id": "fear_verb",
     "word": "fear",
     "part_of_speech": "verb",
@@ -517,20 +590,6 @@
     "definition_zh": "v. 害怕, 恐惧, 为...担心, 敬畏",
     "examples": [
       "Many professionals fear key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "fearsome_adjective",
-    "word": "fearsome",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'fiәsәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fearsome-us.mp3",
-    "definition_en": "S causing fear or dread or terror",
-    "definition_zh": "a. 吓人的, 可怕的, 害怕的",
-    "examples": [
-      "The committee analyzed a highly fearsome perspective during the forum."
     ]
   },
   {
@@ -548,48 +607,6 @@
     ]
   },
   {
-    "id": "furiously_adverb",
-    "word": "furiously",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/furiously/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/furiously-us.mp3",
-    "definition_en": "(of the elements) in a wild and stormy manner",
-    "definition_zh": "adv. 狂暴地；猛烈地",
-    "examples": [
-      "Researchers systematically observed furiously relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "garage_noun",
-    "word": "garage",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/gә'rɑ:ʒ. 'gærɑ:ʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/garage-us.mp3",
-    "definition_en": "An outbuilding (or part of a building) for housing automobiles",
-    "definition_zh": "n. 车库, 汽车修理厂, 机库",
-    "examples": [
-      "Understanding garage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "glad_adjective",
-    "word": "glad",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/glæd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/glad-us.mp3",
-    "definition_en": "Showing or causing joy and pleasure; especially made happy",
-    "definition_zh": "a. 高兴的, 喜欢的, 情愿的",
-    "examples": [
-      "The committee analyzed a highly glad perspective during the forum."
-    ]
-  },
-  {
     "id": "gloomy_adjective",
     "word": "gloomy",
     "part_of_speech": "adjective",
@@ -601,20 +618,6 @@
     "definition_zh": "a. 抑沉的, 忧闷的, 黑暗的, 悲观的",
     "examples": [
       "The committee analyzed a highly gloomy perspective during the forum."
-    ]
-  },
-  {
-    "id": "glove_noun",
-    "word": "glove",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/glʌv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/glove-us.mp3",
-    "definition_en": "Handwear: covers the hand and wrist",
-    "definition_zh": "n. 手套",
-    "examples": [
-      "Understanding glove provides valuable insights into everyday communication."
     ]
   },
   {
@@ -632,201 +635,18 @@
     ]
   },
   {
-    "id": "happy_adjective",
-    "word": "happy",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "Emotions (人类情感)",
-    "phonetic": "/'hæpi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/happy-us.mp3",
-    "definition_en": "Feeling or showing pleasure or contentment.",
-    "definition_zh": "快乐的，高兴的，幸福的",
-    "examples": [
-      "The children were happy playing in the sunlit meadow.",
-      "We celebrated a happy family reunion."
-    ]
-  },
-  {
-    "id": "hate_noun",
-    "word": "hate",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/heit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hate-us.mp3",
-    "definition_en": "The emotion of intense dislike; a feeling of dislike so strong that it demands action",
-    "definition_zh": "n. 憎恨, 恨, 厌恶",
-    "examples": [
-      "Understanding hate provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "hate_verb",
-    "word": "hate",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/heit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hate-us.mp3",
-    "definition_en": "Dislike intensely; feel antipathy or aversion towards",
-    "definition_zh": "vt. 憎恨, 憎恶",
-    "examples": [
-      "Many professionals hate key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "jealous_adjective",
-    "word": "jealous",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "Emotions (人类情感)",
-    "phonetic": "/'dʒelәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jealous-us.mp3",
-    "definition_en": "Feeling or showing envy of someone or their achievements and advantages.",
-    "definition_zh": "嫉妒的，吃醋的",
-    "examples": [
-      "Try not to be jealous of other people's overnight success.",
-      "Jealousy often stems from deep-seated personal insecurity."
-    ]
-  },
-  {
-    "id": "jealously_adverb",
-    "word": "jealously",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/jealously/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jealously-us.mp3",
-    "definition_en": "With jealousy",
-    "definition_zh": "adv. 嫉妒, 羡慕, 留心, 戒备",
-    "examples": [
-      "Researchers systematically observed jealously relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "joy_noun",
-    "word": "joy",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/dʒɒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/joy-us.mp3",
-    "definition_en": "The emotion of great happiness",
-    "definition_zh": "n. 欢喜, 乐事, 高兴",
-    "examples": [
-      "Understanding joy provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "love_noun",
-    "word": "love",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/lʌv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/love-us.mp3",
-    "definition_en": "A strong positive emotion of regard and affection",
-    "definition_zh": "n. 爱, 恋爱, 爱情, 爱好, 性爱",
-    "examples": [
-      "Understanding love provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "love_verb",
-    "word": "love",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/lʌv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/love-us.mp3",
-    "definition_en": "A strong positive emotion of regard and affection",
-    "definition_zh": "vt. 爱, 爱好, 爱慕",
-    "examples": [
-      "Many professionals love key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "lovely_adjective",
-    "word": "lovely",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'lʌvli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lovely-us.mp3",
-    "definition_en": "Appealing to the emotions as well as the eye",
-    "definition_zh": "a. 可爱的, 有趣的",
-    "examples": [
-      "The committee analyzed a highly lovely perspective during the forum."
-    ]
-  },
-  {
-    "id": "lover_noun",
-    "word": "lover",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'lʌvә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lover-us.mp3",
-    "definition_en": "A person who loves someone or is loved by someone",
-    "definition_zh": "n. 爱人, 爱好者",
-    "examples": [
-      "Understanding lover provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "outrage_noun",
-    "word": "outrage",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'autreidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/outrage-us.mp3",
-    "definition_en": "A wantonly cruel act",
-    "definition_zh": "n. 暴行, 侮辱, 愤怒",
-    "examples": [
-      "Understanding outrage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "outrageous_adjective",
-    "word": "outrageous",
+    "id": "nostalgic_adjective",
+    "word": "nostalgic",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "人类情感与心境",
-    "phonetic": "/aut'reidʒәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/outrageous-us.mp3",
-    "definition_en": "S grossly offensive to decency or morality; causing horror",
-    "definition_zh": "a. 暴虐的, 极无礼的, 可恶的",
+    "phonetic": "/nɒs'tældʒik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgic-us.mp3",
+    "definition_en": "Characterized by or exhibiting a sentimental yearning for the happiness felt in a former place, time, or situation.",
+    "definition_zh": "怀旧的，留恋过去的",
     "examples": [
-      "The committee analyzed a highly outrageous perspective during the forum."
-    ]
-  },
-  {
-    "id": "overjoyed_adjective",
-    "word": "overjoyed",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/әjvә'dʒɔid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/overjoyed-us.mp3",
-    "definition_en": "Extremely joyful",
-    "definition_zh": "a. 狂喜的, 非常高兴的",
-    "examples": [
-      "The committee analyzed a highly overjoyed perspective during the forum."
-    ]
-  },
-  {
-    "id": "panic_noun",
-    "word": "panic",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'pænik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/panic-us.mp3",
-    "definition_en": "An overwhelming feeling of fear and anxiety",
-    "definition_zh": "n. 恐慌, 惊慌",
-    "examples": [
-      "Understanding panic provides valuable insights into everyday communication."
+      "Hearing the vintage jazz tune made him feel deeply nostalgic.",
+      "Flipping through grandmother's photo albums evokes nostalgic warmth."
     ]
   },
   {
@@ -844,20 +664,6 @@
     ]
   },
   {
-    "id": "passion_noun",
-    "word": "passion",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'pæʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passion-us.mp3",
-    "definition_en": "A strong feeling or emotion",
-    "definition_zh": "n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)",
-    "examples": [
-      "Understanding passion provides valuable insights into everyday communication."
-    ]
-  },
-  {
     "id": "passionate_adjective",
     "word": "passionate",
     "part_of_speech": "adjective",
@@ -869,258 +675,6 @@
     "definition_zh": "a. 热情的, 热烈的, 易怒的, 热恋的",
     "examples": [
       "The committee analyzed a highly passionate perspective during the forum."
-    ]
-  },
-  {
-    "id": "passionately_adverb",
-    "word": "passionately",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'pæʃənətlɪ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passionately-us.mp3",
-    "definition_en": "With passion",
-    "definition_zh": "adv. 热情地, 激昂地",
-    "examples": [
-      "Researchers systematically observed passionately relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "pity_noun",
-    "word": "pity",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'piti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pity-us.mp3",
-    "definition_en": "An unfortunate development",
-    "definition_zh": "n. 遗憾, 同情, 怜悯, 憾事, 可惜",
-    "examples": [
-      "Understanding pity provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "present_adjective",
-    "word": "present",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'preznt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/present-us.mp3",
-    "definition_en": "The period of time that is happening now; any continuous stretch of time including the moment of speech",
-    "definition_zh": "a. 现在的, 出席的",
-    "examples": [
-      "The committee analyzed a highly present perspective during the forum."
-    ]
-  },
-  {
-    "id": "present_noun",
-    "word": "present",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'preznt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/present-us.mp3",
-    "definition_en": "The period of time that is happening now; any continuous stretch of time including the moment of speech",
-    "definition_zh": "n. 现在, 礼品, 瞄准",
-    "examples": [
-      "Understanding present provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "present_verb",
-    "word": "present",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'preznt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/present-us.mp3",
-    "definition_en": "Bring forward and present to the mind",
-    "definition_zh": "vt. 介绍, 引见, 赠送, 提出, 呈现, 上演",
-    "examples": [
-      "Many professionals present key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "presentation_noun",
-    "word": "presentation",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/.prezәn'teiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/presentation-us.mp3",
-    "definition_en": "The activity of formally presenting something (as a prize or reward)",
-    "definition_zh": "n. 赠与, 描述, 介绍",
-    "examples": [
-      "Understanding presentation provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "presenter_noun",
-    "word": "presenter",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/pri'zentә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/presenter-us.mp3",
-    "definition_en": "Someone who presents a message of some sort (as a petition or an address or a check or a memorial etc.)",
-    "definition_zh": "n. 节目主持人, 奉献者, 提出者",
-    "examples": [
-      "Understanding presenter provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "pride_noun",
-    "word": "pride",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/praid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pride-us.mp3",
-    "definition_en": "A feeling of self-respect and personal worth",
-    "definition_zh": "n. 骄傲, 自尊心, 自豪, 精华, 勇气",
-    "examples": [
-      "Understanding pride provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "proud_adjective",
-    "word": "proud",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/praud/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/proud-us.mp3",
-    "definition_en": "Feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride",
-    "definition_zh": "a. 骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的",
-    "examples": [
-      "The committee analyzed a highly proud perspective during the forum."
-    ]
-  },
-  {
-    "id": "proudly_adverb",
-    "word": "proudly",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'praudli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/proudly-us.mp3",
-    "definition_en": "With pride; in a proud manner",
-    "definition_zh": "adv. 傲慢地, 自大地, 得意洋洋地",
-    "examples": [
-      "Researchers systematically observed proudly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "pullover_noun",
-    "word": "pullover",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'pul.әuvә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pullover-us.mp3",
-    "definition_en": "A sweater that is put on by pulling it over the head",
-    "definition_zh": "n. 套衫",
-    "examples": [
-      "Understanding pullover provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "rage_noun",
-    "word": "rage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/reidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rage-us.mp3",
-    "definition_en": "A state of extreme anger",
-    "definition_zh": "n. 愤怒, 情绪激动, 狂暴",
-    "examples": [
-      "Understanding rage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "ranger_noun",
-    "word": "ranger",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'reinʒә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ranger-us.mp3",
-    "definition_en": "N a member of the Texas state highway patrol; formerly a mounted lawman who maintained order on the frontier",
-    "definition_zh": "n. 王室守林人, 骑警, 漫游者",
-    "examples": [
-      "Understanding ranger provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "represent_verb",
-    "word": "represent",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/.repri'zent/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/represent-us.mp3",
-    "definition_en": "Take the place of or be parallel or equivalent to",
-    "definition_zh": "vt. 表现, 表示, 描绘, 讲述, 代表, 象征, 回忆, 再赠送, 再上演",
-    "examples": [
-      "Many professionals represent key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "representative_noun",
-    "word": "representative",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/.repri'zentәtiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/representative-us.mp3",
-    "definition_en": "A person who represents others",
-    "definition_zh": "n. 代表, 众议员, 典型",
-    "examples": [
-      "Understanding representative provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "sad_adjective",
-    "word": "sad",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "Emotions (人类情感)",
-    "phonetic": "/sæd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sad-us.mp3",
-    "definition_en": "Feeling or showing sorrow; unhappy.",
-    "definition_zh": "悲伤的，难过的",
-    "examples": [
-      "A gentle hug comforted the sad child."
-    ]
-  },
-  {
-    "id": "sadly_adverb",
-    "word": "sadly",
-    "part_of_speech": "adverb",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'sædli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sadly-us.mp3",
-    "definition_en": "In an unfortunate way",
-    "definition_zh": "adv. 悲痛地, 悲惨地, 悲伤地, 说来遗憾",
-    "examples": [
-      "Researchers systematically observed sadly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "sadness_noun",
-    "word": "sadness",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'sædnis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sadness-us.mp3",
-    "definition_en": "Emotions experienced when not in a state of well-being",
-    "definition_zh": "n. 悲哀, 悲伤",
-    "examples": [
-      "Understanding sadness provides valuable insights into everyday communication."
     ]
   },
   {
@@ -1138,157 +692,32 @@
     ]
   },
   {
-    "id": "shame_noun",
-    "word": "shame",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/ʃeim/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shame-us.mp3",
-    "definition_en": "A painful emotion resulting from an awareness of inadequacy or guilt",
-    "definition_zh": "n. 羞耻, 羞愧, 耻辱",
-    "examples": [
-      "Understanding shame provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "shameful_adjective",
-    "word": "shameful",
+    "id": "sympathetic_adjective",
+    "word": "sympathetic",
     "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'ʃeimful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shameful-us.mp3",
-    "definition_en": "S (used of conduct or character) deserving or bringing disgrace or shame",
-    "definition_zh": "a. 可耻的, 丢脸的, 不道德的, 淫猥的, 猥亵的, 不体面的",
-    "examples": [
-      "The committee analyzed a highly shameful perspective during the forum."
-    ]
-  },
-  {
-    "id": "sorrow_noun",
-    "word": "sorrow",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'sɒrәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sorrow-us.mp3",
-    "definition_en": "An emotion of great sadness associated with loss or bereavement",
-    "definition_zh": "n. 悲伤, 哀惜, 不幸",
-    "examples": [
-      "Understanding sorrow provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "storage_noun",
-    "word": "storage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'stɒ:ridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/storage-us.mp3",
-    "definition_en": "The act of storing something",
-    "definition_zh": "n. 存储器, 储藏, 保管, 库存, 仓库",
-    "examples": [
-      "Understanding storage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "sympathy_noun",
-    "word": "sympathy",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'simpәθi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sympathy-us.mp3",
-    "definition_en": "An inclination to support or be loyal to or to agree with an opinion",
-    "definition_zh": "n. 同情, 赞同, 怜悯, 慰问, 吊唁",
-    "examples": [
-      "Understanding sympathy provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "tragedy_noun",
-    "word": "tragedy",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'trædʒidi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tragedy-us.mp3",
-    "definition_en": "Drama in which the protagonist is overcome by some superior force or circumstance; excites terror or pity",
-    "definition_zh": "n. 悲剧, 惨案, 悲剧作品",
-    "examples": [
-      "Understanding tragedy provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "unashamedly_adverb",
-    "word": "unashamedly",
-    "part_of_speech": "adverb",
     "level": "B2",
     "topic": "人类情感与心境",
-    "phonetic": "/ˌʌnə'ʃeɪmɪdlɪ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unashamedly-us.mp3",
-    "definition_en": "Without shame",
-    "definition_zh": "adv. 厚颜无耻",
+    "phonetic": "/.simpә'θetik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sympathetic-us.mp3",
+    "definition_en": "Of or relating to the sympathetic nervous system",
+    "definition_zh": "a. 有同情心的, 合意的, 赞成的",
     "examples": [
-      "Researchers systematically observed unashamedly relevant patterns across trials."
+      "The committee analyzed a highly sympathetic perspective during the forum."
     ]
   },
   {
-    "id": "underage_adjective",
-    "word": "underage",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'ʌndәridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/underage-us.mp3",
-    "definition_en": "Dependent by virtue of youth",
-    "definition_zh": "a. 未成年的, 未及法定年龄的",
-    "examples": [
-      "The committee analyzed a highly underage perspective during the forum."
-    ]
-  },
-  {
-    "id": "unhappy_adjective",
-    "word": "unhappy",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/.ʌn'hæpi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unhappy-us.mp3",
-    "definition_en": "Experiencing or marked by or causing sadness or sorrow or discontent",
-    "definition_zh": "a. 不快乐的, 不幸的, 不适当的",
-    "examples": [
-      "The committee analyzed a highly unhappy perspective during the forum."
-    ]
-  },
-  {
-    "id": "whatever_noun",
-    "word": "whatever",
+    "id": "euphoria_noun",
+    "word": "euphoria",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "人类情感与心境",
-    "phonetic": "/hwɒt'evә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/whatever-us.mp3",
-    "definition_en": "S one or some or every or all without specification",
-    "definition_zh": "pron. 无论什么",
+    "phonetic": "/ju:'fɒ:riә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/euphoria-us.mp3",
+    "definition_en": "A state of intense excitement and happiness.",
+    "definition_zh": "狂喜，亢奋，欣快感",
     "examples": [
-      "Understanding whatever provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "whatever_pronoun",
-    "word": "whatever",
-    "part_of_speech": "pronoun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/hwɒt'evә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/whatever-us.mp3",
-    "definition_en": "S one or some or every or all without specification",
-    "definition_zh": "pron. 无论什么",
-    "examples": [
-      "Researchers systematically observed whatever relevant patterns across trials."
+      "Marathon runners often experience runner's high accompanied by profound euphoria.",
+      "The euphoria of championship victory lasted for weeks."
     ]
   },
   {
@@ -1306,75 +735,18 @@
     ]
   },
   {
-    "id": "coverage_noun",
-    "word": "coverage",
+    "id": "resentment_noun",
+    "word": "resentment",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "人类情感与心境",
-    "phonetic": "/'kʌvәridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coverage-us.mp3",
-    "definition_en": "The total amount and type of insurance carried",
-    "definition_zh": "n. 覆盖的范围, 保险总额, 新闻报导",
+    "phonetic": "/ri'zentmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resentment-us.mp3",
+    "definition_en": "Bitter indignation at having been treated unfairly.",
+    "definition_zh": "怨恨，愤懑，不满",
     "examples": [
-      "Understanding coverage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "nostalgia_noun",
-    "word": "nostalgia",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人类情感与心境",
-    "phonetic": "/nɒs'tældʒiә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgia-us.mp3",
-    "definition_en": "Longing for something past",
-    "definition_zh": "n. 乡愁, 向往过去, 怀旧之情",
-    "examples": [
-      "Understanding nostalgia provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "nostalgic_adjective",
-    "word": "nostalgic",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "Emotions (人类情感)",
-    "phonetic": "/nɒs'tældʒik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgic-us.mp3",
-    "definition_en": "Characterized by or exhibiting a sentimental yearning for the happiness felt in a former place, time, or situation.",
-    "definition_zh": "怀旧的，留恋过去的",
-    "examples": [
-      "Hearing the vintage jazz tune made him feel deeply nostalgic.",
-      "Flipping through grandmother's photo albums evokes nostalgic warmth."
-    ]
-  },
-  {
-    "id": "nostalgically_adverb",
-    "word": "nostalgically",
-    "part_of_speech": "adverb",
-    "level": "C2",
-    "topic": "人类情感与心境",
-    "phonetic": "/nɔˈstældʒɪkəlɪ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgically-us.mp3",
-    "definition_en": "In a nostalgic manner",
-    "definition_zh": "adv. 怀乡地, 怀旧地, 恋旧地",
-    "examples": [
-      "Researchers systematically observed nostalgically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "euphoria_noun",
-    "word": "euphoria",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "Emotions (人类情感)",
-    "phonetic": "/ju:'fɒ:riә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/euphoria-us.mp3",
-    "definition_en": "A state of intense excitement and happiness.",
-    "definition_zh": "狂喜，亢奋，欣快感",
-    "examples": [
-      "Marathon runners often experience runner's high accompanied by profound euphoria.",
-      "The euphoria of championship victory lasted for weeks."
+      "Harboring unspoken resentment corrodes interpersonal intimacy.",
+      "Unfair salary disparities bred intense resentment across the division."
     ]
   },
   {
@@ -1410,7 +782,7 @@
     "word": "melancholy",
     "part_of_speech": "noun",
     "level": "C2",
-    "topic": "Emotions (人类情感)",
+    "topic": "人类情感与心境",
     "phonetic": "/'melәnkɒli/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/melancholy-us.mp3",
     "definition_en": "A feeling of pensive sadness, typically with no obvious cause.",
@@ -1435,438 +807,31 @@
     ]
   },
   {
-    "id": "disparage_verb",
-    "word": "disparage",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "人类情感与心境",
-    "phonetic": "/dis'pæridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disparage-us.mp3",
-    "definition_en": "Express a negative opinion of",
-    "definition_zh": "vt. 蔑视, 贬损",
-    "examples": [
-      "Many professionals disparage key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "disparagement_noun",
-    "word": "disparagement",
+    "id": "nostalgia_noun",
+    "word": "nostalgia",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "人类情感与心境",
-    "phonetic": "/dis'pæridʒmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disparagement-us.mp3",
-    "definition_en": "A communication that belittles somebody or something",
-    "definition_zh": "n. 轻视, 说...坏话, 毁谤, 贬低, 轻蔑",
+    "phonetic": "/nɒs'tældʒiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgia-us.mp3",
+    "definition_en": "Longing for something past",
+    "definition_zh": "n. 乡愁, 向往过去, 怀旧之情",
     "examples": [
-      "Understanding disparagement provides valuable insights into everyday communication."
+      "Understanding nostalgia provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "presentational_adjective",
-    "word": "presentational",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "人类情感与心境",
-    "phonetic": "/,prezən'teiʃənәl,,pri:-/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/presentational-us.mp3",
-    "definition_en": "Of or relating to a presentation (especially in psychology or philosophy)",
-    "definition_zh": "a. 表象的, 上演的, 演出的, 本身有意义的, 描述性的",
-    "examples": [
-      "The committee analyzed a highly presentational perspective during the forum."
-    ]
-  },
-  {
-    "id": "represented_verb",
-    "word": "represented",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/ˌrepriˈzentid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/represented-us.mp3",
-    "definition_en": "V take the place of or be parallel or equivalent to",
-    "definition_zh": "v. 表现( represent的过去式和过去分词 ); 代表; 体现; 作为…的代表",
-    "examples": [
-      "Many professionals represented key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "representatives_noun",
-    "word": "representatives",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/reprɪ'zentətɪvz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/representatives-us.mp3",
-    "definition_en": "A person who represents others",
-    "definition_zh": "n. 代表( representative的复数形式 ); 代理人; 典型人物; [常作 R-]（美国）众议院议员",
-    "examples": [
-      "Understanding representatives provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "represents_verb",
-    "word": "represents",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/ˌrepriˈzents/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/represents-us.mp3",
-    "definition_en": "V take the place of or be parallel or equivalent to",
-    "definition_zh": "v. 表现( represent的第三人称单数 ); 代表; 体现; 作为…的代表",
-    "examples": [
-      "Many professionals represents key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "representing_verb",
-    "word": "representing",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/ˌrepriˈzentɪŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/representing-us.mp3",
-    "definition_en": "V take the place of or be parallel or equivalent to",
-    "definition_zh": "v. 表现( represent的现在分词 ); 代表; 体现; 作为…的代表",
-    "examples": [
-      "Many professionals representing key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "loved_verb",
-    "word": "loved",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/lʌvd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loved-us.mp3",
-    "definition_en": "Held dear",
-    "definition_zh": "v. 热爱（love的过去分词）",
-    "examples": [
-      "Many professionals loved key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "enjoyed_verb",
-    "word": "enjoyed",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/ɪn'dʒɔɪd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enjoyed-us.mp3",
-    "definition_en": "Imp. & p. p. of Enjoy",
-    "definition_zh": "v. 享有（ enjoy的过去式和过去分词 ）; 玩得快乐; 喜欢",
-    "examples": [
-      "Many professionals enjoyed key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "representative_adjective",
-    "word": "representative",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/.repri'zentәtiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/representative-us.mp3",
-    "definition_en": "Standing for something else",
-    "definition_zh": "a. 描写的, 表现的, 代理的, 代表的, 代议制的, 典型的",
-    "examples": [
-      "The committee analyzed a highly representative perspective during the forum."
-    ]
-  },
-  {
-    "id": "fears_noun",
-    "word": "fears",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/fears/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fears-us.mp3",
-    "definition_en": "N an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
-    "definition_zh": "n. 恐惧；担心",
-    "examples": [
-      "Understanding fears provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "feared_verb",
-    "word": "feared",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/fiəd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feared-us.mp3",
-    "definition_en": "V be afraid or feel anxious or apprehensive about a possible or probable situation or event",
-    "definition_zh": "v. 畏惧( fear的过去式和过去分词 ); 为…忧虑（或担心、焦虑）; 敬畏（神等）; 感到害怕",
-    "examples": [
-      "Many professionals feared key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "dangers_noun",
-    "word": "dangers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/ˈdeindʒəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dangers-us.mp3",
-    "definition_en": "The condition of being susceptible to harm or injury",
-    "definition_zh": "n. 危险( danger的复数形式 ); 可能造成损伤、疼痛等的人或物; 危险因素; 危害",
-    "examples": [
-      "Understanding dangers provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "averaged_verb",
-    "word": "averaged",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/averaged/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/averaged-us.mp3",
-    "definition_en": "V amount to or come to an average, without loss or gain",
-    "definition_zh": "v. 平均（average的过去式）",
-    "examples": [
-      "Many professionals averaged key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "averages_noun",
-    "word": "averages",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/ˈævəridʒz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/averages-us.mp3",
-    "definition_en": "N a statistic describing the location of a distribution",
-    "definition_zh": "n. 平均水平( average的名词复数 ); （速度等的）平均率; 平均估价",
-    "examples": [
-      "Understanding averages provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "loves_verb",
-    "word": "loves",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/lʌvz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loves-us.mp3",
-    "definition_en": "N a strong positive emotion of regard and affection",
-    "definition_zh": "v. 爱, 热爱( love的第三人称单数 ); 喜爱; 喜好; 喜欢",
-    "examples": [
-      "Many professionals loves key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "enjoying_verb",
-    "word": "enjoying",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/end'ʒɔɪɪŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enjoying-us.mp3",
-    "definition_en": "Pr. & vb. n. of Enjoy",
-    "definition_zh": "v. 享有( enjoy的现在分词 ); 玩得快乐; 喜欢; enjoy yourself （祝愿时说）玩痛快些",
-    "examples": [
-      "Many professionals enjoying key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "lovers_noun",
-    "word": "lovers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/lovers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lovers-us.mp3",
-    "definition_en": "N a person who loves someone or is loved by someone",
-    "definition_zh": "n. 情人（lover的复数形式）",
-    "examples": [
-      "Understanding lovers provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "disadvantages_noun",
-    "word": "disadvantages",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/ˌdisədˈvɑ:ntidʒz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disadvantages-us.mp3",
-    "definition_en": "N the quality of having an inferior or less favorable position",
-    "definition_zh": "n. 不利, 劣势, 短处( disadvantage的名词复数 )",
-    "examples": [
-      "Understanding disadvantages provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "delighted_verb",
-    "word": "delighted",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/di'laitid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delighted-us.mp3",
-    "definition_en": "Greatly pleased",
-    "definition_zh": "a. 高兴的, 快乐的",
-    "examples": [
-      "Many professionals delighted key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "gloves_noun",
-    "word": "gloves",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/gloves/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gloves-us.mp3",
-    "definition_en": "N the handwear used by fielders in playing baseball",
-    "definition_zh": "n. 手套（glove的复数）",
-    "examples": [
-      "Understanding gloves provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "presentations_noun",
-    "word": "presentations",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/ˌprezənˈteiʃənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/presentations-us.mp3",
-    "definition_en": "The activity of formally presenting something (as a prize or reward)",
-    "definition_zh": "n. 介绍( presentation的复数形式 ); 报告; 提供; 展示会",
-    "examples": [
-      "Understanding presentations provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "clover_noun",
-    "word": "clover",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'klәuvә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clover-us.mp3",
-    "definition_en": "A plant of the genus Trifolium",
-    "definition_zh": "n. 红花草",
-    "examples": [
-      "Understanding clover provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "passions_noun",
-    "word": "passions",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'pæʃnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passions-us.mp3",
-    "definition_en": "A strong feeling or emotion",
-    "definition_zh": "n. 激情( passion的复数形式 ); 爱情; [复数]感情（与理智相对而言）; 爱好",
-    "examples": [
-      "Understanding passions provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "fearful_adjective",
-    "word": "fearful",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'fiәful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fearful-us.mp3",
-    "definition_en": "Experiencing or showing fear",
-    "definition_zh": "a. 可怕的, 恐怕的, 担心的",
-    "examples": [
-      "The committee analyzed a highly fearful perspective during the forum."
-    ]
-  },
-  {
-    "id": "resentment_noun",
-    "word": "resentment",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "Emotions (人类情感)",
-    "phonetic": "/ri'zentmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resentment-us.mp3",
-    "definition_en": "Bitter indignation at having been treated unfairly.",
-    "definition_zh": "怨恨，愤懑，不满",
-    "examples": [
-      "Harboring unspoken resentment corrodes interpersonal intimacy.",
-      "Unfair salary disparities bred intense resentment across the division."
-    ]
-  },
-  {
-    "id": "enjoys_verb",
-    "word": "enjoys",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人类情感与心境",
-    "phonetic": "/inˈdʒɔiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enjoys-us.mp3",
-    "definition_en": "V derive or receive pleasure from; get enjoyment from; take pleasure in",
-    "definition_zh": "v. 享有( enjoy的第三人称单数 ); 玩得快乐; 喜欢; enjoy yourself （祝愿时说）玩痛快些",
-    "examples": [
-      "Many professionals enjoys key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "endangered_verb",
-    "word": "endangered",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/in'deindʒәd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/endangered-us.mp3",
-    "definition_en": "(of flora or fauna) in imminent danger of extinction",
-    "definition_zh": "a. 有生命危险的；濒临灭绝的",
-    "examples": [
-      "Many professionals endangered key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "embarrassed_verb",
-    "word": "embarrassed",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/im'bærәst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarrassed-us.mp3",
-    "definition_en": "Made to feel uncomfortable because of shame or wounded pride",
-    "definition_zh": "a. 尴尬的；窘迫的",
-    "examples": [
-      "Many professionals embarrassed key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "disadvantaged_adjective",
-    "word": "disadvantaged",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/disәd'vɑ:ntidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disadvantaged-us.mp3",
-    "definition_en": "V put at a disadvantage; hinder, harm",
-    "definition_zh": "a. 社会地位低下的, 生活条件差的, 被剥夺了基本权利的",
-    "examples": [
-      "The committee analyzed a highly disadvantaged perspective during the forum."
-    ]
-  },
-  {
-    "id": "gladly_adverb",
-    "word": "gladly",
+    "id": "nostalgically_adverb",
+    "word": "nostalgically",
     "part_of_speech": "adverb",
-    "level": "A1",
+    "level": "C2",
     "topic": "人类情感与心境",
-    "phonetic": "/'glædli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gladly-us.mp3",
-    "definition_en": "In a willing manner",
-    "definition_zh": "adv. 高兴地, 乐意地, 欢喜地",
+    "phonetic": "/nɔˈstældʒɪkəlɪ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgically-us.mp3",
+    "definition_en": "In a nostalgic manner",
+    "definition_zh": "adv. 怀乡地, 怀旧地, 恋旧地",
     "examples": [
-      "Researchers systematically observed gladly relevant patterns across trials."
+      "Researchers systematically observed nostalgically relevant patterns across trials."
     ]
   }
 ]

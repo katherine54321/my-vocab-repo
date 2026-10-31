@@ -1,5 +1,230 @@
 [
   {
+    "id": "bar_noun",
+    "word": "bar",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/bɑ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bar-us.mp3",
+    "definition_en": "A counter where you can obtain food or drink",
+    "definition_zh": "n. 条, 棒, 酒吧, 栅, 障碍物",
+    "examples": [
+      "They met at a quiet local bar to catch up and unwind after work."
+    ]
+  },
+  {
+    "id": "coffee_noun",
+    "word": "coffee",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/'kɒfi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coffee-us.mp3",
+    "definition_en": "A hot drink made from the roasted and ground bean-like seeds of a tropical shrub.",
+    "definition_zh": "咖啡",
+    "examples": [
+      "Freshly brewed coffee filled the kitchen with an inviting aroma."
+    ]
+  },
+  {
+    "id": "drink_noun",
+    "word": "drink",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/driŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drink-us.mp3",
+    "definition_en": "A single serving of a beverage",
+    "definition_zh": "n. 饮料, 酒",
+    "examples": [
+      "Fresh drink can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "drink_verb",
+    "word": "drink",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/driŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drink-us.mp3",
+    "definition_en": "To consume liquid through the mouth.",
+    "definition_zh": "喝，饮用",
+    "examples": [
+      "Athletes should drink plenty of water during intensive training.",
+      "We sat on the balcony and drank freshly brewed herbal tea."
+    ]
+  },
+  {
+    "id": "drinking_noun",
+    "word": "drinking",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/'driŋkiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinking-us.mp3",
+    "definition_en": "The act of consuming liquids",
+    "definition_zh": "n. 喝, 喝酒",
+    "examples": [
+      "Fresh drinking can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "drinking_verb",
+    "word": "drinking",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/'driŋkiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinking-us.mp3",
+    "definition_en": "The act of consuming liquids",
+    "definition_zh": "n. 喝, 喝酒",
+    "examples": [
+      "Make sure to drinking the ingredients thoroughly before serving."
+    ]
+  },
+  {
+    "id": "drinks_noun",
+    "word": "drinks",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/drinks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinks-us.mp3",
+    "definition_en": "N a single serving of a beverage",
+    "definition_zh": "n. 饮料, 饮品；喝酒（drink复数）",
+    "examples": [
+      "Fresh drinks can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "juice_noun",
+    "word": "juice",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/dʒu:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/juice-us.mp3",
+    "definition_en": "The liquid naturally contained in fruit or vegetables.",
+    "definition_zh": "果汁，汁液",
+    "examples": [
+      "Freshly pressed pomegranate juice offers a burst of antioxidants."
+    ]
+  },
+  {
+    "id": "bars_noun",
+    "word": "bars",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/bɑ:z/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bars-us.mp3",
+    "definition_en": "N gymnastic apparatus consisting of two parallel wooden rods supported on uprights",
+    "definition_zh": "n. 马齿龈；（木、金属等的）条；栅栏；酒吧（bar的复数形式）",
+    "examples": [
+      "They met at a quiet local bars to catch up and unwind after work."
+    ]
+  },
+  {
+    "id": "beer_noun",
+    "word": "beer",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/biә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beer-us.mp3",
+    "definition_en": "A general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops",
+    "definition_zh": "n. 啤酒",
+    "examples": [
+      "They enjoyed cold beer alongside appetizers on the outdoor patio."
+    ]
+  },
+  {
+    "id": "cola_noun",
+    "word": "cola",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/'kәulә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cola-us.mp3",
+    "definition_en": "Large genus of African trees bearing kola nuts",
+    "definition_zh": "结肠, 冒号, 科朗",
+    "examples": [
+      "Understanding cola provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "soda_noun",
+    "word": "soda",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/'sәudә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soda-us.mp3",
+    "definition_en": "N a sodium salt of carbonic acid; used in making soap powders and glass and paper",
+    "definition_zh": "n. 苏打, 碳酸水",
+    "examples": [
+      "Fresh soda can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "tea_noun",
+    "word": "tea",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/ti:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tea-us.mp3",
+    "definition_en": "A hot drink made by infusing dried, crushed leaves of the tea plant in boiling water.",
+    "definition_zh": "茶",
+    "examples": [
+      "Enjoying a cup of green tea in the morning provides a peaceful start to the day."
+    ]
+  },
+  {
+    "id": "thirsty_adjective",
+    "word": "thirsty",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/'θә:sti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thirsty-us.mp3",
+    "definition_en": "Feeling a need or desire to drink",
+    "definition_zh": "a. 口渴的, 渴望的, 干燥的",
+    "examples": [
+      "The committee analyzed a highly thirsty perspective during the forum."
+    ]
+  },
+  {
+    "id": "wine_noun",
+    "word": "wine",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/wain/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wine-us.mp3",
+    "definition_en": "An alcoholic drink made from fermented grape juice.",
+    "definition_zh": "葡萄酒，红酒",
+    "examples": [
+      "The sommelier paired a vintage red wine with the main course."
+    ]
+  },
+  {
+    "id": "wines_noun",
+    "word": "wines",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/wines/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wines-us.mp3",
+    "definition_en": "N fermented juice (of grapes especially)",
+    "definition_zh": "n. 葡萄酒；令人沉醉的东西（wine的复数）",
+    "examples": [
+      "Fresh wines can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
     "id": "alcohol_noun",
     "word": "alcohol",
     "part_of_speech": "noun",
@@ -28,116 +253,17 @@
     ]
   },
   {
-    "id": "alcoholic_noun",
-    "word": "alcoholic",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/.ælkә'hɒlik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alcoholic-us.mp3",
-    "definition_en": "A person who drinks alcohol to excess habitually",
-    "definition_zh": "n. 酒鬼, 酒精中毒者",
-    "examples": [
-      "Fresh alcoholic can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "alcoholism_noun",
-    "word": "alcoholism",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ælkәhɒlizәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alcoholism-us.mp3",
-    "definition_en": "Habitual intoxication; prolonged and excessive intake of alcoholic drinks leading to a breakdown in health and an addiction to alcohol such that abrupt deprivation leads to severe withdrawal symptoms",
-    "definition_zh": "n. 酗酒, 酒精中毒",
-    "examples": [
-      "Fresh alcoholism can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "alert_verb",
-    "word": "alert",
+    "id": "bar_verb",
+    "word": "bar",
     "part_of_speech": "verb",
-    "level": "B2",
+    "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ә'lә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alert-us.mp3",
-    "definition_en": "Condition of heightened watchfulness or preparation for action",
-    "definition_zh": "vt. 使警觉, 通知, 使意识到",
+    "phonetic": "/bɑ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bar-us.mp3",
+    "definition_en": "A counter where you can obtain food or drink",
+    "definition_zh": "vt. 禁止, 阻挡, 妨碍",
     "examples": [
-      "Make sure to alert the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "beer_noun",
-    "word": "beer",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/biә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beer-us.mp3",
-    "definition_en": "A general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops",
-    "definition_zh": "n. 啤酒",
-    "examples": [
-      "Fresh beer can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "bottle_noun",
-    "word": "bottle",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'bɒtl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bottle-us.mp3",
-    "definition_en": "A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped",
-    "definition_zh": "n. 瓶子, 酒瓶",
-    "examples": [
-      "Fresh bottle can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "bottle_verb",
-    "word": "bottle",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'bɒtl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bottle-us.mp3",
-    "definition_en": "Store (liquids or gases) in bottles",
-    "definition_zh": "vt. 装瓶, 抑制, 围困",
-    "examples": [
-      "Make sure to bottle the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "calendar_noun",
-    "word": "calendar",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'kælindә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/calendar-us.mp3",
-    "definition_en": "A system of timekeeping that defines the beginning and length and divisions of the year",
-    "definition_zh": "n. 日历, 日程表",
-    "examples": [
-      "Fresh calendar can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "champagne_noun",
-    "word": "champagne",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "Beverages (饮品与茶酒)",
-    "phonetic": "/ʃæm'pein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/champagne-us.mp3",
-    "definition_en": "A white or rosé sparkling wine produced exclusively in the Champagne region of France.",
-    "definition_zh": "香槟酒，起泡酒",
-    "examples": [
-      "They popped a bottle of vintage champagne to toast the anniversary.",
-      "Fine streaming bubbles rise gracefully in a chilled flute of champagne."
+      "They met at a quiet local bar to catch up and unwind after work."
     ]
   },
   {
@@ -145,7 +271,7 @@
     "word": "cocktail",
     "part_of_speech": "noun",
     "level": "B1",
-    "topic": "Beverages (饮品与茶酒)",
+    "topic": "饮品、茶酒与水饮",
     "phonetic": "/'kɒkteil/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cocktail-us.mp3",
     "definition_en": "An alcoholic drink consisting of a spirit or spirits mixed with other ingredients, such as fruit juice or cream.",
@@ -155,552 +281,17 @@
     ]
   },
   {
-    "id": "coffee_noun",
-    "word": "coffee",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Beverages (饮品与茶酒)",
-    "phonetic": "/'kɒfi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coffee-us.mp3",
-    "definition_en": "A hot drink made from the roasted and ground bean-like seeds of a tropical shrub.",
-    "definition_zh": "咖啡",
-    "examples": [
-      "The invigorating aroma of freshly roasted ground coffee filled the air.",
-      "She ordered an iced oat milk coffee before the morning conference."
-    ]
-  },
-  {
-    "id": "dealer_noun",
-    "word": "dealer",
+    "id": "pub_noun",
+    "word": "pub",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'di:lә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dealer-us.mp3",
-    "definition_en": "A firm engaged in trading",
-    "definition_zh": "n. 经销商, 商人",
+    "phonetic": "/pʌb/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pub-us.mp3",
+    "definition_en": "N tavern consisting of a building with a bar and public rooms; often provides light meals",
+    "definition_zh": "n. 酒馆, 客栈",
     "examples": [
-      "Fresh dealer can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "drink_noun",
-    "word": "drink",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/driŋk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drink-us.mp3",
-    "definition_en": "A single serving of a beverage",
-    "definition_zh": "n. 饮料, 酒",
-    "examples": [
-      "Fresh drink can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "drink_verb",
-    "word": "drink",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "Food & Dining",
-    "phonetic": "/driŋk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drink-us.mp3",
-    "definition_en": "To consume liquid through the mouth.",
-    "definition_zh": "喝，饮用",
-    "examples": [
-      "Athletes should drink plenty of water during intensive training.",
-      "We sat on the balcony and drank freshly brewed herbal tea."
-    ]
-  },
-  {
-    "id": "drinkable_adjective",
-    "word": "drinkable",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'driŋkәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinkable-us.mp3",
-    "definition_en": "Suitable for drinking",
-    "definition_zh": "a. 可以喝的, 饮用的",
-    "examples": [
-      "The committee analyzed a highly drinkable perspective during the forum."
-    ]
-  },
-  {
-    "id": "drum_noun",
-    "word": "drum",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/drʌm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drum-us.mp3",
-    "definition_en": "A musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end",
-    "definition_zh": "n. 鼓, 鼓声",
-    "examples": [
-      "Fresh drum can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "female_adjective",
-    "word": "female",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'fi:meil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/female-us.mp3",
-    "definition_en": "Being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop",
-    "definition_zh": "a. 女性的, 女子的",
-    "examples": [
-      "The committee analyzed a highly female perspective during the forum."
-    ]
-  },
-  {
-    "id": "female_noun",
-    "word": "female",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'fi:meil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/female-us.mp3",
-    "definition_en": "An animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)",
-    "definition_zh": "n. 女性, 女人, 雌性动物",
-    "examples": [
-      "Fresh female can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "gossip_noun",
-    "word": "gossip",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'gɒsip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gossip-us.mp3",
-    "definition_en": "A report (often malicious) about the behavior of other people",
-    "definition_zh": "n. 闲聊, 随笔, 流言, 爱讲闲话的人",
-    "examples": [
-      "Fresh gossip can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "gossip_verb",
-    "word": "gossip",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'gɒsip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gossip-us.mp3",
-    "definition_en": "A report (often malicious) about the behavior of other people",
-    "definition_zh": "vi. 说闲话, 闲聊",
-    "examples": [
-      "Make sure to gossip the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "inhale_verb",
-    "word": "inhale",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/in'heil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inhale-us.mp3",
-    "definition_en": "Draw deep into the lungs in by breathing",
-    "definition_zh": "vt. 吸入",
-    "examples": [
-      "Make sure to inhale the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "instead_adverb",
-    "word": "instead",
-    "part_of_speech": "adverb",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/in'sted/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instead-us.mp3",
-    "definition_en": "R in place of, or as an alternative to",
-    "definition_zh": "adv. 作为替代, 反而",
-    "examples": [
-      "Researchers systematically observed instead relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "instrument_noun",
-    "word": "instrument",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'instrumәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instrument-us.mp3",
-    "definition_en": "A device that requires skill for proper use",
-    "definition_zh": "n. 工具, 手段, 仪器",
-    "examples": [
-      "Fresh instrument can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "juice_noun",
-    "word": "juice",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Beverages (饮品与茶酒)",
-    "phonetic": "/dʒu:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/juice-us.mp3",
-    "definition_en": "The liquid naturally contained in fruit or vegetables.",
-    "definition_zh": "果汁，汁液",
-    "examples": [
-      "Freshly pressed pomegranate juice offers a burst of antioxidants."
-    ]
-  },
-  {
-    "id": "male_adjective",
-    "word": "male",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/meil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/male-us.mp3",
-    "definition_en": "Being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation",
-    "definition_zh": "a. 男性的, 雄性的, 有力的",
-    "examples": [
-      "The committee analyzed a highly male perspective during the forum."
-    ]
-  },
-  {
-    "id": "male_noun",
-    "word": "male",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/meil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/male-us.mp3",
-    "definition_en": "An animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)",
-    "definition_zh": "n. 男人, 雄性动物",
-    "examples": [
-      "Fresh male can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "milk_noun",
-    "word": "milk",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Beverages (饮品与茶酒)",
-    "phonetic": "/milk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/milk-us.mp3",
-    "definition_en": "An opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.",
-    "definition_zh": "牛奶",
-    "examples": [
-      "Warm milk with honey helps calm restless minds before bedtime."
-    ]
-  },
-  {
-    "id": "pale_adjective",
-    "word": "pale",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/peil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pale-us.mp3",
-    "definition_en": "Turn pale, as if in fear",
-    "definition_zh": "a. 苍白的, 暗淡的, 无力的",
-    "examples": [
-      "The committee analyzed a highly pale perspective during the forum."
-    ]
-  },
-  {
-    "id": "rumor_noun",
-    "word": "rumor",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ru:mә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rumor-us.mp3",
-    "definition_en": "Gossip (usually a mixture of truth and untruth) passed around by word of mouth",
-    "definition_zh": "n. 谣言, 传闻",
-    "examples": [
-      "Fresh rumor can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "sale_noun",
-    "word": "sale",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/seil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sale-us.mp3",
-    "definition_en": "A particular instance of selling",
-    "definition_zh": "n. 出售, 卖, 拍卖, 销售额, 廉价出售",
-    "examples": [
-      "Fresh sale can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "salesman_noun",
-    "word": "salesman",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'seilzmәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salesman-us.mp3",
-    "definition_en": "A man salesperson",
-    "definition_zh": "n. 售货员, 推销员",
-    "examples": [
-      "Fresh salesman can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "salesmanship_noun",
-    "word": "salesmanship",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'seilzmәnʃip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salesmanship-us.mp3",
-    "definition_en": "Skill in selling; skill in persuading people to buy",
-    "definition_zh": "n. 售货, 售货术, 推销, 推销术, 游说, 游说术, 善于推销",
-    "examples": [
-      "Fresh salesmanship can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "saleswoman_noun",
-    "word": "saleswoman",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'seilzwumәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saleswoman-us.mp3",
-    "definition_en": "N a woman salesperson",
-    "definition_zh": "n. 女售货员, 女店员",
-    "examples": [
-      "Fresh saleswoman can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "scale_noun",
-    "word": "scale",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/skeil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scale-us.mp3",
-    "definition_en": "An ordered reference standard",
-    "definition_zh": "n. 刻度, 衡量, 比例, 比例尺, 数值范围, 等级, 规模, 天平, 秤, 鳞, 积垢",
-    "examples": [
-      "Fresh scale can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "seawater_noun",
-    "word": "seawater",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'si:.wɒtә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seawater-us.mp3",
-    "definition_en": "Water containing salts",
-    "definition_zh": "n. 海水",
-    "examples": [
-      "Fresh seawater can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "soda_noun",
-    "word": "soda",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'sәudә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soda-us.mp3",
-    "definition_en": "N a sodium salt of carbonic acid; used in making soap powders and glass and paper",
-    "definition_zh": "n. 苏打, 碳酸水",
-    "examples": [
-      "Fresh soda can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "steadily_adverb",
-    "word": "steadily",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'stedili/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steadily-us.mp3",
-    "definition_en": "At a steady rate or pace",
-    "definition_zh": "adv. 稳定地, 无变化地, 有规则地",
-    "examples": [
-      "Researchers systematically observed steadily relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "steady_adjective",
-    "word": "steady",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'stedi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steady-us.mp3",
-    "definition_en": "Not subject to change or variation especially in behavior",
-    "definition_zh": "a. 稳定的, 不动摇的, 沉着的, 稳固的, 坚定的, 经常的",
-    "examples": [
-      "The committee analyzed a highly steady perspective during the forum."
-    ]
-  },
-  {
-    "id": "steal_verb",
-    "word": "steal",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/sti:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steal-us.mp3",
-    "definition_en": "Take without the owner's consent",
-    "definition_zh": "vt. 剽窃；偷偷地做；偷窃；vi. 窃取；偷偷地行动；[棒球]偷垒；n. [口]偷窃；便宜货；偷垒；[篮球]断球",
-    "examples": [
-      "Make sure to steal the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "tale_noun",
-    "word": "tale",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/teil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tale-us.mp3",
-    "definition_en": "N a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program",
-    "definition_zh": "n. 故事, 谎言, 谣言, 陈述, 叙述",
-    "examples": [
-      "Fresh tale can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "talent_noun",
-    "word": "talent",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'tælәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/talent-us.mp3",
-    "definition_en": "A person who possesses unusual innate ability in some field or activity",
-    "definition_zh": "n. 天才, 才能, 有才干的人, 天资",
-    "examples": [
-      "Fresh talent can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "talented_adjective",
-    "word": "talented",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'tælәntid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/talented-us.mp3",
-    "definition_en": "Endowed with talent or talents",
-    "definition_zh": "a. 天资高的, 有才能的",
-    "examples": [
-      "The committee analyzed a highly talented perspective during the forum."
-    ]
-  },
-  {
-    "id": "tea_noun",
-    "word": "tea",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "Beverages (饮品与茶酒)",
-    "phonetic": "/ti:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tea-us.mp3",
-    "definition_en": "A hot drink made by infusing dried, crushed leaves of the tea plant in boiling water.",
-    "definition_zh": "茶",
-    "examples": [
-      "Afternoon English tea is traditionally served with scones, clotted cream, and jam.",
-      "Longjing green tea yields a delicate, sweet roasted-chestnut aroma."
-    ]
-  },
-  {
-    "id": "teach_verb",
-    "word": "teach",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ti:tʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teach-us.mp3",
-    "definition_en": "Impart skills or knowledge to",
-    "definition_zh": "vt. 教, 讲授, 教导, 教育",
-    "examples": [
-      "Make sure to teach the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "teaching_noun",
-    "word": "teaching",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ti:tʃiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teaching-us.mp3",
-    "definition_en": "The profession of a teacher",
-    "definition_zh": "n. 教学, 学说, 教导",
-    "examples": [
-      "Fresh teaching can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "tease_noun",
-    "word": "tease",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ti:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tease-us.mp3",
-    "definition_en": "Someone given to teasing (as by mocking or stirring curiosity)",
-    "definition_zh": "n. 揶揄, 戏弄, 逗惹",
-    "examples": [
-      "Fresh tease can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "tease_verb",
-    "word": "tease",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ti:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tease-us.mp3",
-    "definition_en": "Annoy persistently",
-    "definition_zh": "vt. 戏弄, 取笑, 强求, 梳理, 使起毛",
-    "examples": [
-      "Make sure to tease the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "teaspoon_noun",
-    "word": "teaspoon",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ti:spu:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teaspoon-us.mp3",
-    "definition_en": "As much as a teaspoon will hold",
-    "definition_zh": "n. 茶匙",
-    "examples": [
-      "Fresh teaspoon can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "thirst_noun",
-    "word": "thirst",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/θә:st/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thirst-us.mp3",
-    "definition_en": "A physiological need to drink",
-    "definition_zh": "n. 口渴, 渴望",
-    "examples": [
-      "Fresh thirst can be incorporated into a wide variety of delicious recipes."
+      "They met at a quiet local pub to catch up and unwind after work."
     ]
   },
   {
@@ -718,158 +309,116 @@
     ]
   },
   {
-    "id": "thirsty_adjective",
-    "word": "thirsty",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'θә:sti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thirsty-us.mp3",
-    "definition_en": "Feeling a need or desire to drink",
-    "definition_zh": "a. 口渴的, 渴望的, 干燥的",
-    "examples": [
-      "The committee analyzed a highly thirsty perspective during the forum."
-    ]
-  },
-  {
-    "id": "trumpet_noun",
-    "word": "trumpet",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'trʌmpit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trumpet-us.mp3",
-    "definition_en": "Proclaim on, or as if on, a trumpet",
-    "definition_zh": "n. 喇叭, 小号, 喇叭声",
-    "examples": [
-      "Fresh trumpet can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "underwater_adjective",
-    "word": "underwater",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ʌndә'wɒ:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/underwater-us.mp3",
-    "definition_en": "S beneath the surface of the water",
-    "definition_zh": "a. 在水中的",
-    "examples": [
-      "The committee analyzed a highly underwater perspective during the forum."
-    ]
-  },
-  {
-    "id": "underwater_adverb",
-    "word": "underwater",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ʌndә'wɒ:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/underwater-us.mp3",
-    "definition_en": "S beneath the surface of the water",
-    "definition_zh": "adv. 在水下",
-    "examples": [
-      "Researchers systematically observed underwater relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "untalented_adjective",
-    "word": "untalented",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ʌn'tælәntid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/untalented-us.mp3",
-    "definition_en": "Devoid of talent; not gifted",
-    "definition_zh": "a. 缺乏才能的, 没有才干的；没有天赋的；不聪明的",
-    "examples": [
-      "The committee analyzed a highly untalented perspective during the forum."
-    ]
-  },
-  {
-    "id": "valentine_noun",
-    "word": "valentine",
+    "id": "alcoholic_noun",
+    "word": "alcoholic",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'vælәntain/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/valentine-us.mp3",
-    "definition_en": "A sweetheart chosen to receive a greeting on Saint Valentine's Day",
-    "definition_zh": "n. 情人, 情人节礼物",
+    "phonetic": "/.ælkә'hɒlik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alcoholic-us.mp3",
+    "definition_en": "A person who drinks alcohol to excess habitually",
+    "definition_zh": "n. 酒鬼, 酒精中毒者",
     "examples": [
-      "Fresh valentine can be incorporated into a wide variety of delicious recipes."
+      "Fresh alcoholic can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
-    "id": "water_noun",
-    "word": "water",
+    "id": "bartender_noun",
+    "word": "bartender",
     "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Beverages (饮品与茶酒)",
-    "phonetic": "/'wɒ:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/water-us.mp3",
-    "definition_en": "A colorless, transparent, odorless liquid forming the seas, lakes, rivers, and rain.",
-    "definition_zh": "水",
-    "examples": [
-      "Drink plenty of pure spring water throughout rigorous physical workouts.",
-      "The waiter poured sparkling mineral water into crystal glasses."
-    ]
-  },
-  {
-    "id": "water_verb",
-    "word": "water",
-    "part_of_speech": "verb",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'wɒ:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/water-us.mp3",
-    "definition_en": "Supply with water, as with channels or ditches or streams",
-    "definition_zh": "vt. 给...浇水, 供以水, 注入水, 使湿",
+    "phonetic": "/'bɑ:.tendә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bartender-us.mp3",
+    "definition_en": "An employee who mixes and serves alcoholic drinks at a bar",
+    "definition_zh": "n. 酒保, 酒吧侍者",
     "examples": [
-      "Make sure to water the ingredients thoroughly before serving."
+      "The skilled bartender prepared signature refreshments for the guests."
     ]
   },
   {
-    "id": "waterfall_noun",
-    "word": "waterfall",
+    "id": "brewery_noun",
+    "word": "brewery",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'wɒtәfɒ:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/waterfall-us.mp3",
-    "definition_en": "A steep descent of the water of a river",
-    "definition_zh": "n. 瀑布",
+    "phonetic": "/'bru:әri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brewery-us.mp3",
+    "definition_en": "A plant where beer is brewed by fermentation",
+    "definition_zh": "n. 啤酒厂, 酿酒厂",
     "examples": [
-      "Fresh waterfall can be incorporated into a wide variety of delicious recipes."
+      "The historic brewery produces award-winning craft ales and lagers."
     ]
   },
   {
-    "id": "waterproof_adjective",
-    "word": "waterproof",
+    "id": "champagne_noun",
+    "word": "champagne",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/ʃæm'pein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/champagne-us.mp3",
+    "definition_en": "A white or rosé sparkling wine produced exclusively in the Champagne region of France.",
+    "definition_zh": "香槟酒，起泡酒",
+    "examples": [
+      "They popped a bottle of vintage champagne to toast the anniversary.",
+      "Fine streaming bubbles rise gracefully in a chilled flute of champagne."
+    ]
+  },
+  {
+    "id": "cocoa_noun",
+    "word": "cocoa",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/'kәukәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cocoa-us.mp3",
+    "definition_en": "A beverage made from cocoa powder and milk and sugar; usually drunk hot",
+    "definition_zh": "n. 可可粉, 可可茶, 可可色",
+    "examples": [
+      "Recent breakthroughs in cocoa have accelerated modern technological innovation."
+    ]
+  },
+  {
+    "id": "drinkable_adjective",
+    "word": "drinkable",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'wɒtәpru:f/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/waterproof-us.mp3",
-    "definition_en": "Any fabric impervious to water",
-    "definition_zh": "a. 不透水的, 防水的",
+    "phonetic": "/'driŋkәbl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinkable-us.mp3",
+    "definition_en": "Suitable for drinking",
+    "definition_zh": "a. 可以喝的, 饮用的",
     "examples": [
-      "The committee analyzed a highly waterproof perspective during the forum."
+      "The committee analyzed a highly drinkable perspective during the forum."
     ]
   },
   {
-    "id": "whale_noun",
-    "word": "whale",
+    "id": "teaspoon_noun",
+    "word": "teaspoon",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "饮品、茶酒与水饮",
-    "phonetic": "/hweil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/whale-us.mp3",
-    "definition_en": "Any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head",
-    "definition_zh": "n. 鲸",
+    "phonetic": "/'ti:spu:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teaspoon-us.mp3",
+    "definition_en": "As much as a teaspoon will hold",
+    "definition_zh": "n. 茶匙",
     "examples": [
-      "Fresh whale can be incorporated into a wide variety of delicious recipes."
+      "Gently add one teaspoon of honey to sweeten your hot beverage."
+    ]
+  },
+  {
+    "id": "thirst_noun",
+    "word": "thirst",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "phonetic": "/θә:st/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thirst-us.mp3",
+    "definition_en": "A physiological need to drink",
+    "definition_zh": "n. 口渴, 渴望",
+    "examples": [
+      "Fresh thirst can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -884,581 +433,6 @@
     "definition_zh": "n. 威士忌酒",
     "examples": [
       "Fresh whiskey can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "wine_noun",
-    "word": "wine",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "Beverages (饮品与茶酒)",
-    "phonetic": "/wain/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wine-us.mp3",
-    "definition_en": "An alcoholic drink made from fermented grape juice.",
-    "definition_zh": "葡萄酒，红酒",
-    "examples": [
-      "A glass of full-bodied red wine balances well-aged cheeses.",
-      "Bordeaux vineyards have harvested grapes for wine over centuries."
-    ]
-  },
-  {
-    "id": "crumble_verb",
-    "word": "crumble",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'krʌmbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crumble-us.mp3",
-    "definition_en": "Fall apart",
-    "definition_zh": "v. (使)粉碎, (使)成为碎屑, 瓦解, 崩溃, 败落",
-    "examples": [
-      "Make sure to crumble the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "crumb_noun",
-    "word": "crumb",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/krʌm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crumb-us.mp3",
-    "definition_en": "A very small quantity of something",
-    "definition_zh": "n. 碎屑, 面包屑, 少许",
-    "examples": [
-      "Fresh crumb can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "grumble_verb",
-    "word": "grumble",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'grʌmbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grumble-us.mp3",
-    "definition_en": "To utter or emit low dull rumbling sounds",
-    "definition_zh": "vi. 抱怨, 发牢骚, 发隆隆声",
-    "examples": [
-      "Make sure to grumble the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "rumble_verb",
-    "word": "rumble",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'rʌmbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rumble-us.mp3",
-    "definition_en": "Make a low noise",
-    "definition_zh": "vi. 发隆隆声, 辘辘响",
-    "examples": [
-      "Make sure to rumble the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "rumble_noun",
-    "word": "rumble",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'rʌmbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rumble-us.mp3",
-    "definition_en": "A loud low dull continuous noise",
-    "definition_zh": "n. 隆隆声, 辘辘声",
-    "examples": [
-      "Fresh rumble can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "tantrum_noun",
-    "word": "tantrum",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'tæntrәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tantrum-us.mp3",
-    "definition_en": "N a display of bad temper",
-    "definition_zh": "n. 发脾气, 发怒",
-    "examples": [
-      "Fresh tantrum can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "waterfront_noun",
-    "word": "waterfront",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'wɔ:tәfrʌnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/waterfront-us.mp3",
-    "definition_en": "The area of a city (such as a harbor or dockyard) alongside a body of water",
-    "definition_zh": "n. 水边, 滨水区, 滩, 海滨, 江边",
-    "examples": [
-      "Fresh waterfront can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "folktale_noun",
-    "word": "folktale",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'fәukteil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/folktale-us.mp3",
-    "definition_en": "A tale circulated by word of mouth among the common folk",
-    "definition_zh": "n. 民间故事",
-    "examples": [
-      "Fresh folktale can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "telltale_adjective",
-    "word": "telltale",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'telteil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/telltale-us.mp3",
-    "definition_en": "N someone who gossips indiscreetly",
-    "definition_zh": "a. 搬弄是非的, 泄露秘密的, 报警的",
-    "examples": [
-      "The committee analyzed a highly telltale perspective during the forum."
-    ]
-  },
-  {
-    "id": "gale_noun",
-    "word": "gale",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/geil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gale-us.mp3",
-    "definition_en": "A strong wind moving 45-90 knots; force 7 to 10 on Beaufort scale",
-    "definition_zh": "n. 狂风, 大风, 定期租金",
-    "examples": [
-      "Fresh gale can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "ruminate_verb",
-    "word": "ruminate",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ru:mineit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ruminate-us.mp3",
-    "definition_en": "Chew the cuds",
-    "definition_zh": "v. 反刍, 沉思",
-    "examples": [
-      "Make sure to ruminate the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "rumination_noun",
-    "word": "rumination",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/.ru:mi'neiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rumination-us.mp3",
-    "definition_en": "(of ruminants) chewing (the cud)",
-    "definition_zh": "n. 反刍, 沉思, 默想",
-    "examples": [
-      "Fresh rumination can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "ruminant_adjective",
-    "word": "ruminant",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ru:minәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ruminant-us.mp3",
-    "definition_en": "Related to or characteristic of animals of the suborder Ruminantia or any other animal that chews a cud",
-    "definition_zh": "a. 反刍类的, 沉思的, 默想的",
-    "examples": [
-      "The committee analyzed a highly ruminant perspective during the forum."
-    ]
-  },
-  {
-    "id": "ruminative_adjective",
-    "word": "ruminative",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ru:minәtiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ruminative-us.mp3",
-    "definition_en": "S deeply or seriously thoughtful;",
-    "definition_zh": "a. 默想的, 沉思的",
-    "examples": [
-      "The committee analyzed a highly ruminative perspective during the forum."
-    ]
-  },
-  {
-    "id": "sales_noun",
-    "word": "sales",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/sales/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sales-us.mp3",
-    "definition_en": "N income (at invoice values) received for goods and services over some given period of time",
-    "definition_zh": "a. 销售的",
-    "examples": [
-      "Fresh sales can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "instruments_noun",
-    "word": "instruments",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/instruments/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instruments-us.mp3",
-    "definition_en": "N a device that requires skill for proper use",
-    "definition_zh": "n. 乐器；工具；仪器（instrument的复数）",
-    "examples": [
-      "Fresh instruments can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "wales_noun",
-    "word": "wales",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/weilz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wales-us.mp3",
-    "definition_en": "One of the four countries that make up the United Kingdom of Great Britain and Northern Ireland; during Roman times the region was known as Cambria",
-    "definition_zh": "n. 威尔士",
-    "examples": [
-      "Fresh wales can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "teaching_verb",
-    "word": "teaching",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ti:tʃiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teaching-us.mp3",
-    "definition_en": "The profession of a teacher",
-    "definition_zh": "n. 教学, 学说, 教导",
-    "examples": [
-      "Make sure to teaching the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "females_noun",
-    "word": "females",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'fi:meɪlz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/females-us.mp3",
-    "definition_en": "An animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)",
-    "definition_zh": "n. 雌性动物( female的复数形式 ); 女人",
-    "examples": [
-      "Fresh females can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "scale_adjective",
-    "word": "scale",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/skeil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scale-us.mp3",
-    "definition_en": "An ordered reference standard",
-    "definition_zh": "n. 刻度, 衡量, 比例, 比例尺, 数值范围, 等级, 规模, 天平, 秤, 鳞, 积垢",
-    "examples": [
-      "The committee analyzed a highly scale perspective during the forum."
-    ]
-  },
-  {
-    "id": "scales_noun",
-    "word": "scales",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/scales/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scales-us.mp3",
-    "definition_en": "N an ordered reference standard",
-    "definition_zh": "n. 缩放；天平；鳞屑；磅秤",
-    "examples": [
-      "Fresh scales can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "dealers_noun",
-    "word": "dealers",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/dealers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dealers-us.mp3",
-    "definition_en": "N someone who purchases and maintains an inventory of goods to be sold",
-    "definition_zh": "n. 交易商；经销商；商人们（dealer的复数）",
-    "examples": [
-      "Fresh dealers can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "drinking_noun",
-    "word": "drinking",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'driŋkiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinking-us.mp3",
-    "definition_en": "The act of consuming liquids",
-    "definition_zh": "n. 喝, 喝酒",
-    "examples": [
-      "Fresh drinking can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "tales_noun",
-    "word": "tales",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'teili:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tales-us.mp3",
-    "definition_en": "N a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program",
-    "definition_zh": "n. 候补陪审员召集令",
-    "examples": [
-      "Fresh tales can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "sealed_verb",
-    "word": "sealed",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/si:ld/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sealed-us.mp3",
-    "definition_en": "Established irrevocably",
-    "definition_zh": "a. 未知的, 密封的",
-    "examples": [
-      "Make sure to sealed the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "drinks_noun",
-    "word": "drinks",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/drinks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinks-us.mp3",
-    "definition_en": "N a single serving of a beverage",
-    "definition_zh": "n. 饮料, 饮品；喝酒（drink复数）",
-    "examples": [
-      "Fresh drinks can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "instrumentation_noun",
-    "word": "instrumentation",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/.instrumen'teiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instrumentation-us.mp3",
-    "definition_en": "The act of providing or using the instruments needed for some implementation",
-    "definition_zh": "n. 乐器法, 仪器制造学, 仪表化",
-    "examples": [
-      "Fresh instrumentation can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "drinking_verb",
-    "word": "drinking",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'driŋkiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drinking-us.mp3",
-    "definition_en": "The act of consuming liquids",
-    "definition_zh": "n. 喝, 喝酒",
-    "examples": [
-      "Make sure to drinking the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "talents_noun",
-    "word": "talents",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/talents/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/talents-us.mp3",
-    "definition_en": "N natural abilities or qualities",
-    "definition_zh": "n. 人才；才能, 天赋（talent的复数）",
-    "examples": [
-      "Fresh talents can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "concealed_verb",
-    "word": "concealed",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/concealed/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/concealed-us.mp3",
-    "definition_en": "Not accessible to view",
-    "definition_zh": "a. 隐蔽的, 隐匿的",
-    "examples": [
-      "Make sure to concealed the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "alert_adjective",
-    "word": "alert",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ә'lә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alert-us.mp3",
-    "definition_en": "Engaged in or accustomed to close observation",
-    "definition_zh": "a. 警觉的, 灵敏的, 留心的",
-    "examples": [
-      "The committee analyzed a highly alert perspective during the forum."
-    ]
-  },
-  {
-    "id": "teachings_noun",
-    "word": "teachings",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/teachings/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teachings-us.mp3",
-    "definition_en": "N the profession of a teacher",
-    "definition_zh": "n. 教义；教导；学说（teaching的复数）",
-    "examples": [
-      "Fresh teachings can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "wines_noun",
-    "word": "wines",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/wines/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wines-us.mp3",
-    "definition_en": "N fermented juice (of grapes especially)",
-    "definition_zh": "n. 葡萄酒；令人沉醉的东西（wine的复数）",
-    "examples": [
-      "Fresh wines can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "teaches_verb",
-    "word": "teaches",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'ti:tʃɪz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teaches-us.mp3",
-    "definition_en": "N an English pirate who operated in the Caribbean and off the Atlantic coast of North America (died in 1718)",
-    "definition_zh": "v. 教( teach的第三人称单数 ); 教书; 训练; 教育",
-    "examples": [
-      "Make sure to teaches the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "drums_noun",
-    "word": "drums",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/drums/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drums-us.mp3",
-    "definition_en": "N a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end",
-    "definition_zh": "n. 鼓；鼓声（drum的复数）",
-    "examples": [
-      "Fresh drums can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "stealing_verb",
-    "word": "stealing",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'sti:liŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stealing-us.mp3",
-    "definition_en": "N the act of taking something from someone unlawfully",
-    "definition_zh": "n. 偷窃, 贼赃",
-    "examples": [
-      "Make sure to stealing the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "bales_noun",
-    "word": "bales",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/beɪlz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bales-us.mp3",
-    "definition_en": "N a large bundle bound for storage or transport",
-    "definition_zh": "n. （货物）包, 捆( bale的名词复数 )",
-    "examples": [
-      "Fresh bales can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "totaled_verb",
-    "word": "totaled",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/'təʊt(ə)l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/totaled-us.mp3",
-    "definition_en": "Used of automobiles; completely demolished",
-    "definition_zh": "vt. 总数达",
-    "examples": [
-      "Make sure to totaled the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "salesmen_noun",
-    "word": "salesmen",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/salesmen/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salesmen-us.mp3",
-    "definition_en": "N a man salesperson",
-    "definition_zh": "n. 推销员；销售员",
-    "examples": [
-      "Fresh salesmen can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "rumors_noun",
-    "word": "rumors",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "饮品、茶酒与水饮",
-    "phonetic": "/ˈru:məz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rumors-us.mp3",
-    "definition_en": "N gossip (usually a mixture of truth and untruth) passed around by word of mouth",
-    "definition_zh": "n. <美>传闻( rumor的名词复数 ); 名誉; 咕哝; 喧嚷",
-    "examples": [
-      "Fresh rumors can be incorporated into a wide variety of delicious recipes."
     ]
   }
 ]

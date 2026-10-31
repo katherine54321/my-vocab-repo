@@ -14,18 +14,117 @@
     ]
   },
   {
-    "id": "broccoli_noun",
-    "word": "broccoli",
+    "id": "beans_noun",
+    "word": "beans",
     "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "Vegetables (蔬菜与根茎)",
-    "phonetic": "/'brɒkәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/broccoli-us.mp3",
-    "definition_en": "A cultivated variety of cabbage bearing heads of green or purplish flower buds.",
-    "definition_zh": "西兰花，花椰菜",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/beans/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beans-us.mp3",
+    "definition_en": "N any of various edible seeds of plants of the family Leguminosae used for food",
+    "definition_zh": "n. 豆子；豆类；黄豆（bean的复数）",
     "examples": [
-      "Steamed broccoli preserves vital micronutrients and retains a vibrant green hue.",
-      "Toss roasted broccoli with minced garlic and grated parmesan."
+      "Fresh beans can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "beet_noun",
+    "word": "beet",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/bi:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beet-us.mp3",
+    "definition_en": "Biennial Eurasian plant usually having a swollen edible root; widely cultivated as a food crop",
+    "definition_zh": "n. 甜菜(根)",
+    "examples": [
+      "Fresh beet can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "potato_noun",
+    "word": "potato",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/pә'teitәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/potato-us.mp3",
+    "definition_en": "A starchy plant tuber that is one of the most important food crops worldwide.",
+    "definition_zh": "马铃薯，土豆",
+    "examples": [
+      "Mashed potatoes seasoned with butter and chives accompany the steak.",
+      "Boil the potatoes until tender to make potato salad."
+    ]
+  },
+  {
+    "id": "potatoes_noun",
+    "word": "potatoes",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/potatoes/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/potatoes-us.mp3",
+    "definition_en": "N an edible tuber native to South America; a staple food of Ireland",
+    "definition_zh": "n. 马铃薯；土豆（potato的复数形式）",
+    "examples": [
+      "Fresh potatoes can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "tomato_noun",
+    "word": "tomato",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/tә'mɑ:tәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomato-us.mp3",
+    "definition_en": "A glossy red, or occasionally yellow, pulpy edible fruit eaten as a vegetable or in salad.",
+    "definition_zh": "番茄，西红柿",
+    "examples": [
+      "Sun-ripened tomatoes possess sweet acidity ideal for pasta sauce.",
+      "Slice heirloom tomatoes with fresh mozzarella and basil."
+    ]
+  },
+  {
+    "id": "tomatoes_noun",
+    "word": "tomatoes",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/tomatoes/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomatoes-us.mp3",
+    "definition_en": "N mildly acid red or yellow pulpy fruit eaten as a vegetable",
+    "definition_zh": "n. 蕃茄（tomato的复数形式）",
+    "examples": [
+      "Fresh tomatoes can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "vegetable_noun",
+    "word": "vegetable",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'vedʒәtәbl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetable-us.mp3",
+    "definition_en": "Edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant",
+    "definition_zh": "n. 蔬菜, 植物, 无精打采之人",
+    "examples": [
+      "Fresh vegetable can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "vegetables_noun",
+    "word": "vegetables",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/vegetables/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetables-us.mp3",
+    "definition_en": "N edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant",
+    "definition_zh": "n. 菜类；蔬菜（vegetable的复数形式）",
+    "examples": [
+      "Fresh vegetables can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
@@ -33,7 +132,7 @@
     "word": "cabbage",
     "part_of_speech": "noun",
     "level": "A2",
-    "topic": "Vegetables (蔬菜与根茎)",
+    "topic": "蔬菜根茎与菌类",
     "phonetic": "/'kæbidʒ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cabbage-us.mp3",
     "definition_en": "A cultivated plant with a round head of dense green or reddish leaves.",
@@ -47,7 +146,7 @@
     "word": "carrot",
     "part_of_speech": "noun",
     "level": "A2",
-    "topic": "Vegetables (蔬菜与根茎)",
+    "topic": "蔬菜根茎与菌类",
     "phonetic": "/'kærәt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carrot-us.mp3",
     "definition_en": "A tapering orange-colored root eaten as a vegetable.",
@@ -58,67 +157,11 @@
     ]
   },
   {
-    "id": "corn_noun",
-    "word": "corn",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/kɒ:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corn-us.mp3",
-    "definition_en": "Tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times",
-    "definition_zh": "n. 玉蜀黍, 谷类, 谷粒, 鸡眼",
-    "examples": [
-      "Fresh corn can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "corner_noun",
-    "word": "corner",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'kɒ:nә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corner-us.mp3",
-    "definition_en": "A place off to the side of an area",
-    "definition_zh": "n. 角落, 转角, 窘境",
-    "examples": [
-      "Fresh corner can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "cornerstone_noun",
-    "word": "cornerstone",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'kɔ:nәstәjn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cornerstone-us.mp3",
-    "definition_en": "A stone in the exterior of a large and important building; usually carved with a date and laid with appropriate ceremonies",
-    "definition_zh": "n. 奠基石, 基础",
-    "examples": [
-      "Fresh cornerstone can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "cornet_noun",
-    "word": "cornet",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'kɒ:nit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cornet-us.mp3",
-    "definition_en": "A brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves",
-    "definition_zh": "n. 圆锥形纸袋, 短号",
-    "examples": [
-      "Fresh cornet can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
     "id": "cucumber_noun",
     "word": "cucumber",
     "part_of_speech": "noun",
     "level": "A2",
-    "topic": "Vegetables (蔬菜与根茎)",
+    "topic": "蔬菜根茎与菌类",
     "phonetic": "/'kju:kәmbә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cucumber-us.mp3",
     "definition_en": "A long, green-skinned fruit with watery flesh, usually eaten raw in salads.",
@@ -142,76 +185,6 @@
     ]
   },
   {
-    "id": "ginger_noun",
-    "word": "ginger",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'dʒindʒә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ginger-us.mp3",
-    "definition_en": "Perennial plants having thick branching aromatic rhizomes and leafy reedlike stems",
-    "definition_zh": "n. 姜, 精力, 姜黄色",
-    "examples": [
-      "Fresh ginger can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "herb_noun",
-    "word": "herb",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/hә:b/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/herb-us.mp3",
-    "definition_en": "A plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests",
-    "definition_zh": "n. 药草, 香草",
-    "examples": [
-      "Fresh herb can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "leek_noun",
-    "word": "leek",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/li:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leek-us.mp3",
-    "definition_en": "Plant having a large slender white bulb and flat overlapping dark green leaves; used in cooking; believed derived from the wild Allium ampeloprasum",
-    "definition_zh": "n. 韭",
-    "examples": [
-      "Fresh leek can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "lettuce_noun",
-    "word": "lettuce",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'letis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lettuce-us.mp3",
-    "definition_en": "Any of various plants of the genus Lactuca",
-    "definition_zh": "n. 莴苣, 生菜, 纸币",
-    "examples": [
-      "Fresh lettuce can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "loudspeaker_noun",
-    "word": "loudspeaker",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'laud'spi:kә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loudspeaker-us.mp3",
-    "definition_en": "Electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance",
-    "definition_zh": "n. 扩音器, 喇叭",
-    "examples": [
-      "Fresh loudspeaker can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
     "id": "mushroom_noun",
     "word": "mushroom",
     "part_of_speech": "noun",
@@ -230,7 +203,7 @@
     "word": "onion",
     "part_of_speech": "noun",
     "level": "A2",
-    "topic": "Vegetables (蔬菜与根茎)",
+    "topic": "蔬菜根茎与菌类",
     "phonetic": "/'ʌnjәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/onion-us.mp3",
     "definition_en": "A swollen edible bulb with a pungent taste and smell, composed of several concentric layers.",
@@ -238,555 +211,6 @@
     "examples": [
       "Sauté diced onions slowly in olive oil until golden and caramelized.",
       "Chopping raw onions releases sulfurous vapors that cause tearing."
-    ]
-  },
-  {
-    "id": "pea_noun",
-    "word": "pea",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/pi:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pea-us.mp3",
-    "definition_en": "Seed of a pea plant used for food",
-    "definition_zh": "n. 豌豆, 似豌豆的东西",
-    "examples": [
-      "Fresh pea can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "peace_noun",
-    "word": "peace",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/pi:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peace-us.mp3",
-    "definition_en": "The state prevailing during the absence of war",
-    "definition_zh": "n. 和平, 和约, 治安, 和睦, 安宁, 静寂",
-    "examples": [
-      "Fresh peace can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "peaceful_adjective",
-    "word": "peaceful",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'pi:sful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peaceful-us.mp3",
-    "definition_en": "Not disturbed by strife or turmoil or war",
-    "definition_zh": "a. 平静的, 和平的, 和平时期的, 爱好和平的, 喜爱安静的",
-    "examples": [
-      "The committee analyzed a highly peaceful perspective during the forum."
-    ]
-  },
-  {
-    "id": "peacefully_adverb",
-    "word": "peacefully",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/peacefully/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peacefully-us.mp3",
-    "definition_en": "In a peaceful manner",
-    "definition_zh": "adv. 平静地",
-    "examples": [
-      "Researchers systematically observed peacefully relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "peak_noun",
-    "word": "peak",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/pi:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peak-us.mp3",
-    "definition_en": "The top or extreme point of something (usually a mountain or hill)",
-    "definition_zh": "n. 山峰, 巅, 山顶, 顶点, 尖峰, 帽舌",
-    "examples": [
-      "Fresh peak can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "pepper_noun",
-    "word": "pepper",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'pepә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pepper-us.mp3",
-    "definition_en": "Climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern Burma and Assam",
-    "definition_zh": "n. 胡椒粉, 胡椒, 辣椒",
-    "examples": [
-      "Fresh pepper can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "popcorn_noun",
-    "word": "popcorn",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'pɒpkɒ:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/popcorn-us.mp3",
-    "definition_en": "Corn having small ears and kernels that burst when exposed to dry heat",
-    "definition_zh": "n. 爆米花",
-    "examples": [
-      "Fresh popcorn can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "potato_noun",
-    "word": "potato",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Vegetables (蔬菜与根茎)",
-    "phonetic": "/pә'teitәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/potato-us.mp3",
-    "definition_en": "A starchy plant tuber that is one of the most important food crops worldwide.",
-    "definition_zh": "马铃薯，土豆",
-    "examples": [
-      "Mashed potatoes seasoned with butter and chives accompany the steak.",
-      "Boil the potatoes until tender to make potato salad."
-    ]
-  },
-  {
-    "id": "pumpkin_noun",
-    "word": "pumpkin",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'pʌmpkin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pumpkin-us.mp3",
-    "definition_en": "A coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes",
-    "definition_zh": "n. 南瓜",
-    "examples": [
-      "Fresh pumpkin can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "repeat_verb",
-    "word": "repeat",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/ri'pi:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repeat-us.mp3",
-    "definition_en": "To say, state, or perform again",
-    "definition_zh": "vt. 重做, 重复, 复述, 使再现, 复制",
-    "examples": [
-      "Make sure to repeat the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "repeatedly_adverb",
-    "word": "repeatedly",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/ri'pi:tidli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repeatedly-us.mp3",
-    "definition_en": "Several time",
-    "definition_zh": "adv. 重复地, 再三地",
-    "examples": [
-      "Researchers systematically observed repeatedly relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "soybean_noun",
-    "word": "soybean",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'sɒibi:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soybean-us.mp3",
-    "definition_en": "N a source of oil; used for forage and soil improvement and as food",
-    "definition_zh": "n. 大豆",
-    "examples": [
-      "Fresh soybean can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "speak_verb",
-    "word": "speak",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/spi:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speak-us.mp3",
-    "definition_en": "Use language",
-    "definition_zh": "vi. 说, 说话, 演说, 发言",
-    "examples": [
-      "Make sure to speak the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "speaker_noun",
-    "word": "speaker",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'spi:kә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speaker-us.mp3",
-    "definition_en": "Someone who expresses in language; someone who talks (especially someone who delivers a public speech or someone especially garrulous)",
-    "definition_zh": "n. 说话人, 讲演者, 发言人, 喇叭, 扬声器",
-    "examples": [
-      "Fresh speaker can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "spinach_noun",
-    "word": "spinach",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "Vegetables (蔬菜与根茎)",
-    "phonetic": "/'spinitʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spinach-us.mp3",
-    "definition_en": "An edible flowering plant in the family Amaranthaceae with dark green succulent leaves.",
-    "definition_zh": "菠菜",
-    "examples": [
-      "Fresh baby spinach wilts within seconds when tossed into hot soup.",
-      "Spinach is renowned for iron and folate content."
-    ]
-  },
-  {
-    "id": "tomato_noun",
-    "word": "tomato",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Vegetables (蔬菜与根茎)",
-    "phonetic": "/tә'mɑ:tәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomato-us.mp3",
-    "definition_en": "A glossy red, or occasionally yellow, pulpy edible fruit eaten as a vegetable or in salad.",
-    "definition_zh": "番茄，西红柿",
-    "examples": [
-      "Sun-ripened tomatoes possess sweet acidity ideal for pasta sauce.",
-      "Slice heirloom tomatoes with fresh mozzarella and basil."
-    ]
-  },
-  {
-    "id": "vegetable_noun",
-    "word": "vegetable",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'vedʒәtәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetable-us.mp3",
-    "definition_en": "Edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant",
-    "definition_zh": "n. 蔬菜, 植物, 无精打采之人",
-    "examples": [
-      "Fresh vegetable can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "peacock_noun",
-    "word": "peacock",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'pi:kɒk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peacock-us.mp3",
-    "definition_en": "European butterfly having reddish-brown wings each marked with a purple eyespot",
-    "definition_zh": "n. 孔雀, 好炫耀的人",
-    "examples": [
-      "Fresh peacock can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "peasant_noun",
-    "word": "peasant",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'peznt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peasant-us.mp3",
-    "definition_en": "A country person",
-    "definition_zh": "n. 农夫, 乡下人",
-    "examples": [
-      "Fresh peasant can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "scorn_noun",
-    "word": "scorn",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/skɒ:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scorn-us.mp3",
-    "definition_en": "N lack of respect accompanied by a feeling of intense dislike",
-    "definition_zh": "n. 轻蔑, 藐视, 嘲笑, 被嘲弄的人",
-    "examples": [
-      "Fresh scorn can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "scornful_adjective",
-    "word": "scornful",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'skɒ:nful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scornful-us.mp3",
-    "definition_en": "S expressing extreme contempt",
-    "definition_zh": "a. 轻蔑的",
-    "examples": [
-      "The committee analyzed a highly scornful perspective during the forum."
-    ]
-  },
-  {
-    "id": "scornfully_adverb",
-    "word": "scornfully",
-    "part_of_speech": "adverb",
-    "level": "C1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'skɔ:nfəlɪ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scornfully-us.mp3",
-    "definition_en": "R without respect; in a disdainful manner",
-    "definition_zh": "adv. 鄙视地, 轻蔑地",
-    "examples": [
-      "Researchers systematically observed scornfully relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "speaking_verb",
-    "word": "speaking",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'spi:kiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speaking-us.mp3",
-    "definition_en": "The utterance of intelligible speech",
-    "definition_zh": "n. 谈话, 演说",
-    "examples": [
-      "Make sure to speaking the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "repeated_verb",
-    "word": "repeated",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/ri'pi:tid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repeated-us.mp3",
-    "definition_en": "V to say, state, or perform again",
-    "definition_zh": "a. 重复的, 再三的",
-    "examples": [
-      "Make sure to repeated the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "vegetables_noun",
-    "word": "vegetables",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/vegetables/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetables-us.mp3",
-    "definition_en": "N edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant",
-    "definition_zh": "n. 菜类；蔬菜（vegetable的复数形式）",
-    "examples": [
-      "Fresh vegetables can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "speaks_verb",
-    "word": "speaks",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/spi:ks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speaks-us.mp3",
-    "definition_en": "V express in speech",
-    "definition_zh": "v. 讲, 谈( speak的第三人称单数 ); 说; 演说; 从某种观点来说",
-    "examples": [
-      "Make sure to speaks the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "potatoes_noun",
-    "word": "potatoes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/potatoes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/potatoes-us.mp3",
-    "definition_en": "N an edible tuber native to South America; a staple food of Ireland",
-    "definition_zh": "n. 马铃薯；土豆（potato的复数形式）",
-    "examples": [
-      "Fresh potatoes can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "speakers_noun",
-    "word": "speakers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/speakers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speakers-us.mp3",
-    "definition_en": "N someone who expresses in language; someone who talks (especially someone who delivers a public speech or someone especially garrulous)",
-    "definition_zh": "n. 演说家；扬声器；发言者（speaker的复数）",
-    "examples": [
-      "Fresh speakers can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "beans_noun",
-    "word": "beans",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/beans/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beans-us.mp3",
-    "definition_en": "N any of various edible seeds of plants of the family Leguminosae used for food",
-    "definition_zh": "n. 豆子；豆类；黄豆（bean的复数）",
-    "examples": [
-      "Fresh beans can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "corners_noun",
-    "word": "corners",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/corners/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corners-us.mp3",
-    "definition_en": "N a place off to the side of an area",
-    "definition_zh": "n. 角落；窘境（corner的复数形式）",
-    "examples": [
-      "Fresh corners can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "peaks_noun",
-    "word": "peaks",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/peaks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peaks-us.mp3",
-    "definition_en": "N the most extreme possible amount or value",
-    "definition_zh": "n. 山顶；峰巅（peak的复数）",
-    "examples": [
-      "Fresh peaks can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "speaking_adjective",
-    "word": "speaking",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'spi:kiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speaking-us.mp3",
-    "definition_en": "Capable of or involving speech or speaking",
-    "definition_zh": "a. 讲话的, 适于说的, 讲某种语言的",
-    "examples": [
-      "The committee analyzed a highly speaking perspective during the forum."
-    ]
-  },
-  {
-    "id": "repeat_noun",
-    "word": "repeat",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/ri'pi:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repeat-us.mp3",
-    "definition_en": "An event that repeats",
-    "definition_zh": "n. 重复, 反复",
-    "examples": [
-      "Fresh repeat can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "speaking_noun",
-    "word": "speaking",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'spi:kiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speaking-us.mp3",
-    "definition_en": "The utterance of intelligible speech",
-    "definition_zh": "n. 谈话, 演说",
-    "examples": [
-      "Fresh speaking can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "tomatoes_noun",
-    "word": "tomatoes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/tomatoes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomatoes-us.mp3",
-    "definition_en": "N mildly acid red or yellow pulpy fruit eaten as a vegetable",
-    "definition_zh": "n. 蕃茄（tomato的复数形式）",
-    "examples": [
-      "Fresh tomatoes can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "peas_noun",
-    "word": "peas",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/peas/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peas-us.mp3",
-    "definition_en": "N seed of a pea plant used for food",
-    "definition_zh": "n. 豌豆（pea的复数）",
-    "examples": [
-      "Fresh peas can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "repeating_verb",
-    "word": "repeating",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/ri'pi:tiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repeating-us.mp3",
-    "definition_en": "N the act of doing or performing again",
-    "definition_zh": "a. 重复的；循环的；反复的",
-    "examples": [
-      "Make sure to repeating the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "herbs_noun",
-    "word": "herbs",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/herbs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/herbs-us.mp3",
-    "definition_en": "N a plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests",
-    "definition_zh": "n. 药草；草本植物（herb的复数）",
-    "examples": [
-      "Fresh herbs can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "peak_adjective",
-    "word": "peak",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/pi:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peak-us.mp3",
-    "definition_en": "The top or extreme point of something (usually a mountain or hill)",
-    "definition_zh": "a. 最高的, 最大值的",
-    "examples": [
-      "The committee analyzed a highly peak perspective during the forum."
     ]
   },
   {
@@ -804,17 +228,117 @@
     ]
   },
   {
-    "id": "beet_noun",
-    "word": "beet",
+    "id": "pea_noun",
+    "word": "pea",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "A2",
     "topic": "蔬菜根茎与菌类",
-    "phonetic": "/bi:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beet-us.mp3",
-    "definition_en": "Biennial Eurasian plant usually having a swollen edible root; widely cultivated as a food crop",
-    "definition_zh": "n. 甜菜(根)",
+    "phonetic": "/pi:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pea-us.mp3",
+    "definition_en": "Seed of a pea plant used for food",
+    "definition_zh": "n. 豌豆, 似豌豆的东西",
     "examples": [
-      "Fresh beet can be incorporated into a wide variety of delicious recipes."
+      "Fresh pea can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "peas_noun",
+    "word": "peas",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/peas/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peas-us.mp3",
+    "definition_en": "N seed of a pea plant used for food",
+    "definition_zh": "n. 豌豆（pea的复数）",
+    "examples": [
+      "Fresh peas can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "pepper_noun",
+    "word": "pepper",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'pepә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pepper-us.mp3",
+    "definition_en": "Climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern Burma and Assam",
+    "definition_zh": "n. 胡椒粉, 胡椒, 辣椒",
+    "examples": [
+      "Fresh pepper can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "broccoli_noun",
+    "word": "broccoli",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'brɒkәli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/broccoli-us.mp3",
+    "definition_en": "A cultivated variety of cabbage bearing heads of green or purplish flower buds.",
+    "definition_zh": "西兰花，花椰菜",
+    "examples": [
+      "Steamed broccoli preserves vital micronutrients and retains a vibrant green hue.",
+      "Toss roasted broccoli with minced garlic and grated parmesan."
+    ]
+  },
+  {
+    "id": "lettuce_noun",
+    "word": "lettuce",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'letis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lettuce-us.mp3",
+    "definition_en": "Any of various plants of the genus Lactuca",
+    "definition_zh": "n. 莴苣, 生菜, 纸币",
+    "examples": [
+      "Fresh lettuce can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "spinach_noun",
+    "word": "spinach",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'spinitʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spinach-us.mp3",
+    "definition_en": "An edible flowering plant in the family Amaranthaceae with dark green succulent leaves.",
+    "definition_zh": "菠菜",
+    "examples": [
+      "Fresh baby spinach wilts within seconds when tossed into hot soup.",
+      "Spinach is renowned for iron and folate content."
+    ]
+  },
+  {
+    "id": "leek_noun",
+    "word": "leek",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/li:k/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leek-us.mp3",
+    "definition_en": "Plant having a large slender white bulb and flat overlapping dark green leaves; used in cooking; believed derived from the wild Allium ampeloprasum",
+    "definition_zh": "n. 韭",
+    "examples": [
+      "Fresh leek can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "pumpkin_noun",
+    "word": "pumpkin",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'pʌmpkin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pumpkin-us.mp3",
+    "definition_en": "A coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes",
+    "definition_zh": "n. 南瓜",
+    "examples": [
+      "Fresh pumpkin can be incorporated into a wide variety of delicious recipes."
     ]
   }
 ]

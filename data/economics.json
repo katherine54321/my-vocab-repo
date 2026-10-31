@@ -1,44 +1,16 @@
 [
   {
-    "id": "bank_noun",
-    "word": "bank",
+    "id": "additions_noun",
+    "word": "additions",
     "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/bæŋk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bank-us.mp3",
-    "definition_en": "Sloping land (especially the slope beside a body of water)",
-    "definition_zh": "n. 银行, 堤, 岸",
-    "examples": [
-      "The new policy addressing bank was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "bank_verb",
-    "word": "bank",
-    "part_of_speech": "verb",
     "level": "A2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/bæŋk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bank-us.mp3",
-    "definition_en": "Sloping land (especially the slope beside a body of water)",
-    "definition_zh": "n. 银行, 堤, 岸",
+    "phonetic": "/additions/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/additions-us.mp3",
+    "definition_en": "N a component that is added to something to improve it",
+    "definition_zh": "n. 附件；增加固定资产；附加物（addition的复数）",
     "examples": [
-      "Officials must bank institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "banker_noun",
-    "word": "banker",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'bæŋkә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banker-us.mp3",
-    "definition_en": "A financier who owns or is an executive in a bank",
-    "definition_zh": "n. 银行家, 庄家",
-    "examples": [
-      "The new policy addressing banker was debated extensively by the committee."
+      "Understanding additions provides valuable insights into everyday communication."
     ]
   },
   {
@@ -56,157 +28,45 @@
     ]
   },
   {
-    "id": "bankrupt_verb",
-    "word": "bankrupt",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'bæŋkrʌpt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bankrupt-us.mp3",
-    "definition_en": "Reduce to bankruptcy",
-    "definition_zh": "vt. 使破产",
-    "examples": [
-      "Officials must bankrupt institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "bankruptcy_noun",
-    "word": "bankruptcy",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'bæŋkrәptsi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bankruptcy-us.mp3",
-    "definition_en": "A state of complete lack of some abstract property",
-    "definition_zh": "n. 破产者",
-    "examples": [
-      "The new policy addressing bankruptcy was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "capital_noun",
-    "word": "capital",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'kæpitәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/capital-us.mp3",
-    "definition_en": "Assets available for use in the production of further assets",
-    "definition_zh": "n. 首都, 大写字母, 资本",
-    "examples": [
-      "The new policy addressing capital was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "cassette_noun",
-    "word": "cassette",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/kæ'set/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cassette-us.mp3",
-    "definition_en": "A container that holds a magnetic tape used for recording or playing sound or video",
-    "definition_zh": "n. 盒式磁带, 珠宝箱, 暗盒",
-    "examples": [
-      "The new policy addressing cassette was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "commonwealth_noun",
-    "word": "commonwealth",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'kɔmәnwelθ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/commonwealth-us.mp3",
-    "definition_en": "The official name of some states in the United States (Massachusetts and Pennsylvania and Virginia and Kentucky) and associated territories (Puerto Rico)",
-    "definition_zh": "n. 共和国；联邦；国民整体",
-    "examples": [
-      "The new policy addressing commonwealth was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "consumer_noun",
-    "word": "consumer",
+    "id": "bond_noun",
+    "word": "bond",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/kәn'sju:mә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consumer-us.mp3",
-    "definition_en": "A person who uses goods or services",
-    "definition_zh": "n. 消费者",
+    "phonetic": "/bɒnd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bond-us.mp3",
+    "definition_en": "A certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal",
+    "definition_zh": "n. 捆绑物, 结合, 债券, 契约, 粘合剂, 保证人, 键, 关栈保留",
     "examples": [
-      "The new policy addressing consumer was debated extensively by the committee."
+      "Understanding bond provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "cost_noun",
-    "word": "cost",
+    "id": "bonds_noun",
+    "word": "bonds",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/kɒst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cost-us.mp3",
-    "definition_en": "The total spent for goods or services including money and time and labor",
-    "definition_zh": "n. 代价, 价值, 费用",
+    "phonetic": "/bɒndz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bonds-us.mp3",
+    "definition_en": "N an electrical force linking atoms",
+    "definition_zh": "n. 镣铐, 监禁",
     "examples": [
-      "The new policy addressing cost was debated extensively by the committee."
+      "Understanding bonds provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "cost_verb",
-    "word": "cost",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/kɒst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cost-us.mp3",
-    "definition_en": "Be priced at",
-    "definition_zh": "vi. 花费",
-    "examples": [
-      "Officials must cost institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "costly_adjective",
-    "word": "costly",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'kɒstli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/costly-us.mp3",
-    "definition_en": "Having a high price",
-    "definition_zh": "a. 昂贵的, 奢华的, 费用大的",
-    "examples": [
-      "The committee analyzed a highly costly perspective during the forum."
-    ]
-  },
-  {
-    "id": "costume_noun",
-    "word": "costume",
+    "id": "cashpoint_noun",
+    "word": "cashpoint",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/'kɒstju:m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/costume-us.mp3",
-    "definition_en": "The attire worn in a play or at a fancy dress ball",
-    "definition_zh": "n. 装束, 服装",
+    "phonetic": "/cashpoint/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cashpoint-us.mp3",
+    "definition_en": "Denoting cashpoint; widely used in Arts & Literature.",
+    "definition_zh": "[经] 一种电脑化的付现机",
     "examples": [
-      "The new policy addressing costume was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "credit_noun",
-    "word": "credit",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'kredit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/credit-us.mp3",
-    "definition_en": "Money available for a client to borrow",
-    "definition_zh": "n. 信用, 信任, 荣誉, 贷款, 学分",
-    "examples": [
-      "The new policy addressing credit was debated extensively by the committee."
+      "Understanding cashpoint provides valuable insights into everyday communication."
     ]
   },
   {
@@ -238,31 +98,17 @@
     ]
   },
   {
-    "id": "deficit_noun",
-    "word": "deficit",
+    "id": "debts_noun",
+    "word": "debts",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/'defisit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deficit-us.mp3",
-    "definition_en": "The property of being an amount by which something is less than expected or required",
-    "definition_zh": "n. 赤字, 不足额",
+    "phonetic": "/debts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/debts-us.mp3",
+    "definition_en": "N the state of owing something (especially money)",
+    "definition_zh": "n. 负债类, 债务（debt的复数形式）",
     "examples": [
-      "The new policy addressing deficit was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "discredit_verb",
-    "word": "discredit",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/dis'kredit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discredit-us.mp3",
-    "definition_en": "Cause to be distrusted or disbelieved",
-    "definition_zh": "vt. 不信, 怀疑, 使丢脸",
-    "examples": [
-      "Officials must discredit institutional guidelines to uphold public integrity."
+      "The new policy addressing debts was debated extensively by the committee."
     ]
   },
   {
@@ -280,17 +126,17 @@
     ]
   },
   {
-    "id": "economical_adjective",
-    "word": "economical",
-    "part_of_speech": "adjective",
-    "level": "B2",
+    "id": "economic_noun",
+    "word": "economic",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/.i:kә'nɒmikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economical-us.mp3",
-    "definition_en": "Avoiding waste",
-    "definition_zh": "a. 节俭的, 经济的, 合算的",
+    "phonetic": "/.i:kә'nɒmik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economic-us.mp3",
+    "definition_en": "Of or relating to an economy, the system of production and management of material wealth",
+    "definition_zh": "a. 经济上的, 实用的, 节省的",
     "examples": [
-      "The committee analyzed a highly economical perspective during the forum."
+      "The new policy addressing economic was debated extensively by the committee."
     ]
   },
   {
@@ -308,17 +154,17 @@
     ]
   },
   {
-    "id": "economist_noun",
-    "word": "economist",
+    "id": "economies_noun",
+    "word": "economies",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/i:'kɒnәmist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economist-us.mp3",
-    "definition_en": "An expert in the science of economics",
-    "definition_zh": "n. 经济学者, 经济家",
+    "phonetic": "/iˈkɔnəmiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economies-us.mp3",
+    "definition_en": "Pl.  of Economy",
+    "definition_zh": "n. 节约( economy的名词复数 ); 经济; 经济情况; 经济结构",
     "examples": [
-      "The new policy addressing economist was debated extensively by the committee."
+      "The new policy addressing economies was debated extensively by the committee."
     ]
   },
   {
@@ -333,20 +179,6 @@
     "definition_zh": "n. 经济, 理财, 节约",
     "examples": [
       "The new policy addressing economy was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "finance_noun",
-    "word": "finance",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/fai'næns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/finance-us.mp3",
-    "definition_en": "The commercial activity of providing funds and capital",
-    "definition_zh": "n. 财政, 财务",
-    "examples": [
-      "The new policy addressing finance was debated extensively by the committee."
     ]
   },
   {
@@ -378,6 +210,174 @@
     ]
   },
   {
+    "id": "financial_noun",
+    "word": "financial",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/fai'nænʃәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/financial-us.mp3",
+    "definition_en": "A involving financial matters",
+    "definition_zh": "a. 财政的, 金融的",
+    "examples": [
+      "The new policy addressing financial was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "funding_noun",
+    "word": "funding",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'fʌndiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/funding-us.mp3",
+    "definition_en": "N financial resources provided to make some project possible",
+    "definition_zh": "[经] 债务转期",
+    "examples": [
+      "The new policy addressing funding was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "funding_verb",
+    "word": "funding",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'fʌndiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/funding-us.mp3",
+    "definition_en": "N financial resources provided to make some project possible",
+    "definition_zh": "[经] 债务转期",
+    "examples": [
+      "Officials must funding institutional guidelines to uphold public integrity."
+    ]
+  },
+  {
+    "id": "invest_verb",
+    "word": "invest",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/in'vest/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/invest-us.mp3",
+    "definition_en": "Make an investment",
+    "definition_zh": "vt. 投资, 花费, 笼罩, 授予",
+    "examples": [
+      "Officials must invest institutional guidelines to uphold public integrity."
+    ]
+  },
+  {
+    "id": "taxation_noun",
+    "word": "taxation",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/tæk'seiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxation-us.mp3",
+    "definition_en": "The imposition of taxes; the practice of the government in levying taxes on the subjects of a state",
+    "definition_zh": "n. 课税, 征税, 抽税, 税款, 估定的税额",
+    "examples": [
+      "The new policy addressing taxation was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "taxes_noun",
+    "word": "taxes",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/tæksi:z/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxes-us.mp3",
+    "definition_en": "N charge against a citizen's person or property or activity for the support of government",
+    "definition_zh": "n. 税务；税捐；税收, 税金",
+    "examples": [
+      "The new policy addressing taxes was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "banker_noun",
+    "word": "banker",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'bæŋkә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banker-us.mp3",
+    "definition_en": "A financier who owns or is an executive in a bank",
+    "definition_zh": "n. 银行家, 庄家",
+    "examples": [
+      "The new policy addressing banker was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "deficit_noun",
+    "word": "deficit",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'defisit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deficit-us.mp3",
+    "definition_en": "The property of being an amount by which something is less than expected or required",
+    "definition_zh": "n. 赤字, 不足额",
+    "examples": [
+      "The new policy addressing deficit was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "economical_adjective",
+    "word": "economical",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/.i:kә'nɒmikәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economical-us.mp3",
+    "definition_en": "Avoiding waste",
+    "definition_zh": "a. 节俭的, 经济的, 合算的",
+    "examples": [
+      "The committee analyzed a highly economical perspective during the forum."
+    ]
+  },
+  {
+    "id": "economist_noun",
+    "word": "economist",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/i:'kɒnәmist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economist-us.mp3",
+    "definition_en": "An expert in the science of economics",
+    "definition_zh": "n. 经济学者, 经济家",
+    "examples": [
+      "The new policy addressing economist was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "economists_noun",
+    "word": "economists",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/ɪ'kɒnəmɪsts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economists-us.mp3",
+    "definition_en": "An expert in the science of economics",
+    "definition_zh": "n. 经济学家, 经济专家( economist的复数形式 )",
+    "examples": [
+      "The new policy addressing economists was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "finance_noun",
+    "word": "finance",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/fai'næns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/finance-us.mp3",
+    "definition_en": "The commercial activity of providing funds and capital",
+    "definition_zh": "n. 财政, 财务",
+    "examples": [
+      "The new policy addressing finance was debated extensively by the committee."
+    ]
+  },
+  {
     "id": "financially_adverb",
     "word": "financially",
     "part_of_speech": "adverb",
@@ -406,45 +406,31 @@
     ]
   },
   {
-    "id": "fund_noun",
-    "word": "fund",
+    "id": "fiscal_noun",
+    "word": "fiscal",
     "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/fʌnd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fund-us.mp3",
-    "definition_en": "A reserve of money set aside for some purpose",
-    "definition_zh": "n. 基金, 资金, 存款, 财源, 贮藏",
-    "examples": [
-      "The new policy addressing fund was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "fund_verb",
-    "word": "fund",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/fʌnd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fund-us.mp3",
-    "definition_en": "Convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds",
-    "definition_zh": "vt. 提供资金, 积累",
-    "examples": [
-      "Officials must fund institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "indebted_adjective",
-    "word": "indebted",
-    "part_of_speech": "adjective",
     "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/in'detid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/indebted-us.mp3",
-    "definition_en": "Owing gratitude or recognition to another for help or favors etc",
-    "definition_zh": "a. 负债的, 受惠的",
+    "phonetic": "/'fiskәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fiscal-us.mp3",
+    "definition_en": "Involving financial matters",
+    "definition_zh": "a. 财政的, 国库的",
     "examples": [
-      "The committee analyzed a highly indebted perspective during the forum."
+      "The new policy addressing fiscal was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "inflate_verb",
+    "word": "inflate",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/in'fleit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inflate-us.mp3",
+    "definition_en": "Exaggerate or make bigger",
+    "definition_zh": "vt. 使膨胀, 使得意, 使通货膨胀, 使充气",
+    "examples": [
+      "Many professionals inflate key methods to achieve consistent, high-quality results."
     ]
   },
   {
@@ -452,7 +438,7 @@
     "word": "inflation",
     "part_of_speech": "noun",
     "level": "B2",
-    "topic": "Economics (经济与金融)",
+    "topic": "经济学与金融商贸",
     "phonetic": "/in'fleiʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inflation-us.mp3",
     "definition_en": "A general increase in prices and fall in the purchasing power of money.",
@@ -460,118 +446,6 @@
     "examples": [
       "Central banks raised interest rates to combat stubborn consumer inflation.",
       "Inflation erodes the purchasing power of fixed-income retirees."
-    ]
-  },
-  {
-    "id": "interest_noun",
-    "word": "interest",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'intrist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interest-us.mp3",
-    "definition_en": "A sense of concern with and curiosity about someone or something",
-    "definition_zh": "n. 兴趣, 嗜好, 利息, 利益, 爱好, 趣味, 势力",
-    "examples": [
-      "The new policy addressing interest was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "interest_verb",
-    "word": "interest",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'intrist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interest-us.mp3",
-    "definition_en": "A sense of concern with and curiosity about someone or something",
-    "definition_zh": "vt. 使感兴趣, 与...有关系",
-    "examples": [
-      "Officials must interest institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "interested_adjective",
-    "word": "interested",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'intristid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interested-us.mp3",
-    "definition_en": "Having or showing interest; especially curiosity or fascination or concern",
-    "definition_zh": "a. 感兴趣的",
-    "examples": [
-      "The committee analyzed a highly interested perspective during the forum."
-    ]
-  },
-  {
-    "id": "interesting_adjective",
-    "word": "interesting",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'intristiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interesting-us.mp3",
-    "definition_en": "Arousing or holding the attention",
-    "definition_zh": "a. 有趣的",
-    "examples": [
-      "The committee analyzed a highly interesting perspective during the forum."
-    ]
-  },
-  {
-    "id": "invest_verb",
-    "word": "invest",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/in'vest/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/invest-us.mp3",
-    "definition_en": "Make an investment",
-    "definition_zh": "vt. 投资, 花费, 笼罩, 授予",
-    "examples": [
-      "Officials must invest institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "investigate_verb",
-    "word": "investigate",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/in'vestigeit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investigate-us.mp3",
-    "definition_en": "Investigate scientifically",
-    "definition_zh": "v. 调查, 审查",
-    "examples": [
-      "Officials must investigate institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "investigation_noun",
-    "word": "investigation",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/in.vesti'geiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investigation-us.mp3",
-    "definition_en": "The work of inquiring into something thoroughly and systematically",
-    "definition_zh": "n. 调查, 审查",
-    "examples": [
-      "The new policy addressing investigation was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "investigator_noun",
-    "word": "investigator",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/in'vestigeitә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investigator-us.mp3",
-    "definition_en": "Someone who investigates",
-    "definition_zh": "n. 调查者, 审查者",
-    "examples": [
-      "The new policy addressing investigator was debated extensively by the committee."
     ]
   },
   {
@@ -603,31 +477,17 @@
     ]
   },
   {
-    "id": "liquid_adjective",
-    "word": "liquid",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'likwid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liquid-us.mp3",
-    "definition_en": "A substance that is liquid at room temperature and pressure",
-    "definition_zh": "a. 液体的, 透明的, 明亮的, 流动的, 易变的",
-    "examples": [
-      "The committee analyzed a highly liquid perspective during the forum."
-    ]
-  },
-  {
-    "id": "liquid_noun",
-    "word": "liquid",
+    "id": "investors_noun",
+    "word": "investors",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/'likwid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liquid-us.mp3",
-    "definition_en": "A substance that is liquid at room temperature and pressure",
-    "definition_zh": "n. 液体, 流体, 流音",
+    "phonetic": "/ɪn'vestəz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investors-us.mp3",
+    "definition_en": "Someone who commits capital in order to gain financial returns",
+    "definition_zh": "n. 投资者, 出资者( investor的复数形式 )",
     "examples": [
-      "The new policy addressing liquid was debated extensively by the committee."
+      "The new policy addressing investors was debated extensively by the committee."
     ]
   },
   {
@@ -645,144 +505,31 @@
     ]
   },
   {
-    "id": "market_noun",
-    "word": "market",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'mɑ:kit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/market-us.mp3",
-    "definition_en": "The world of commercial activity where goods and services are bought and sold",
-    "definition_zh": "n. 市场, 交易, 集市, 推销地区, 行情, 市面, 销路",
-    "examples": [
-      "The new policy addressing market was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "market_verb",
-    "word": "market",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'mɑ:kit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/market-us.mp3",
-    "definition_en": "Engage in the commercial promotion, sale, or distribution of",
-    "definition_zh": "vt. 在市场上交易, 使上市, 销售",
-    "examples": [
-      "Officials must market institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "marketing_noun",
-    "word": "marketing",
+    "id": "loans_noun",
+    "word": "loans",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/'mɑ:kitiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marketing-us.mp3",
-    "definition_en": "The commercial processes involved in promoting and selling and distributing a product or service",
-    "definition_zh": "n. 行销, 买卖",
+    "phonetic": "/loans/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loans-us.mp3",
+    "definition_en": "N the temporary provision of money (usually at interest)",
+    "definition_zh": "n. 借贷；贷款（loan的复数形式）",
     "examples": [
-      "The new policy addressing marketing was debated extensively by the committee."
+      "The new policy addressing loans was debated extensively by the committee."
     ]
   },
   {
-    "id": "money_noun",
-    "word": "money",
+    "id": "mortgage_noun",
+    "word": "mortgage",
     "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "Economics (经济与金融)",
-    "phonetic": "/'mʌni/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/money-us.mp3",
-    "definition_en": "A current medium of exchange in the form of coins and banknotes.",
-    "definition_zh": "金钱，货币",
-    "examples": [
-      "Budgeting money prudently ensures long-term household stability.",
-      "Digital money transfers have replaced physical currency in urban commerce."
-    ]
-  },
-  {
-    "id": "poverty_noun",
-    "word": "poverty",
-    "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/'pɒvәti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/poverty-us.mp3",
-    "definition_en": "The state of having little or no money and few or no material possessions",
-    "definition_zh": "n. 贫穷, 贫困, 缺乏",
+    "phonetic": "/'mɒ:gidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mortgage-us.mp3",
+    "definition_en": "A conditional conveyance of property as security for the repayment of a loan",
+    "definition_zh": "n. 抵押, 约束性义务, 抵押借款",
     "examples": [
-      "The new policy addressing poverty was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "produce_verb",
-    "word": "produce",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/prә'dju:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/produce-us.mp3",
-    "definition_en": "Bring forth or yield",
-    "definition_zh": "vt. 产生, 生产, 提出, 出示",
-    "examples": [
-      "Officials must produce institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "producer_noun",
-    "word": "producer",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/prә'dju:sә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/producer-us.mp3",
-    "definition_en": "Someone who finds financing for and supervises the making and presentation of a show (play or film or program or similar work)",
-    "definition_zh": "n. 生产者, 制作者, 制作人",
-    "examples": [
-      "The new policy addressing producer was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "product_noun",
-    "word": "product",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'prɒdʌkt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/product-us.mp3",
-    "definition_en": "An artifact that has been created by someone or some process",
-    "definition_zh": "n. 产品, 结果, 乘积",
-    "examples": [
-      "The new policy addressing product was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "production_noun",
-    "word": "production",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/prә'dʌkʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/production-us.mp3",
-    "definition_en": "The act or process of producing something",
-    "definition_zh": "n. 制造, 生产, 产物",
-    "examples": [
-      "The new policy addressing production was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "productive_adjective",
-    "word": "productive",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/prә'dʌktiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/productive-us.mp3",
-    "definition_en": "Producing or capable of producing (especially abundantly)",
-    "definition_zh": "a. 能生产的, 有生产价值的, 多产的",
-    "examples": [
-      "The committee analyzed a highly productive perspective during the forum."
+      "Understanding mortgage provides valuable insights into everyday communication."
     ]
   },
   {
@@ -797,6 +544,20 @@
     "definition_zh": "n. 利润, 赢利, 利益",
     "examples": [
       "The new policy addressing profit was debated extensively by the committee."
+    ]
+  },
+  {
+    "id": "profit_adjective",
+    "word": "profit",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'prɒfit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profit-us.mp3",
+    "definition_en": "The advantageous quality of being beneficial",
+    "definition_zh": "n. 利润, 赢利, 利益",
+    "examples": [
+      "The committee analyzed a highly profit perspective during the forum."
     ]
   },
   {
@@ -828,34 +589,6 @@
     ]
   },
   {
-    "id": "refund_noun",
-    "word": "refund",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'ri:fʌnd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refund-us.mp3",
-    "definition_en": "Money returned to a payer",
-    "definition_zh": "n. 偿还",
-    "examples": [
-      "The new policy addressing refund was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "reproduce_verb",
-    "word": "reproduce",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.ri:prә'dju:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reproduce-us.mp3",
-    "definition_en": "Make a copy or equivalent of",
-    "definition_zh": "v. 繁殖, 再生, 复制, 生殖",
-    "examples": [
-      "Officials must reproduce institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
     "id": "revenue_noun",
     "word": "revenue",
     "part_of_speech": "noun",
@@ -867,258 +600,6 @@
     "definition_zh": "n. 收入, 岁入, 税收, 税务局",
     "examples": [
       "The new policy addressing revenue was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "stock_noun",
-    "word": "stock",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/stɒk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stock-us.mp3",
-    "definition_en": "The capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)",
-    "definition_zh": "n. 树干, 祖先, 血统, 原料, 备料, 库存, 牲畜, 股票, 股份, 保留剧目",
-    "examples": [
-      "The new policy addressing stock was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "stockpile_noun",
-    "word": "stockpile",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'stɒkpail/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stockpile-us.mp3",
-    "definition_en": "A storage pile accumulated for future use",
-    "definition_zh": "n. 储蓄, 积蓄, 库存",
-    "examples": [
-      "The new policy addressing stockpile was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "supermarket_noun",
-    "word": "supermarket",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'sju:pәmɑ:kit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/supermarket-us.mp3",
-    "definition_en": "A large self-service grocery store selling groceries and dairy products and household goods",
-    "definition_zh": "n. 超级市场",
-    "examples": [
-      "The new policy addressing supermarket was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "tax_noun",
-    "word": "tax",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/tæks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tax-us.mp3",
-    "definition_en": "Charge against a citizen's person or property or activity for the support of government",
-    "definition_zh": "n. 税, 税款, 重负, 会费",
-    "examples": [
-      "The new policy addressing tax was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "taxi_noun",
-    "word": "taxi",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'tæksi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxi-us.mp3",
-    "definition_en": "Travel slowly",
-    "definition_zh": "n. 出租车",
-    "examples": [
-      "The new policy addressing taxi was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "trade_noun",
-    "word": "trade",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/treid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trade-us.mp3",
-    "definition_en": "The commercial exchange (buying and selling on domestic or international markets) of goods and services",
-    "definition_zh": "n. 贸易, 商业, 交易, 生意, 职业, 顾客, 信风",
-    "examples": [
-      "The new policy addressing trade was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "trade_verb",
-    "word": "trade",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/treid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trade-us.mp3",
-    "definition_en": "Engage in the trade of",
-    "definition_zh": "vi. 进行交易, 做买卖, 经商, 对换, 购物",
-    "examples": [
-      "Officials must trade institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "trader_noun",
-    "word": "trader",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'treidә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trader-us.mp3",
-    "definition_en": "Someone who purchases and maintains an inventory of goods to be sold",
-    "definition_zh": "n. 商人, 商船",
-    "examples": [
-      "The new policy addressing trader was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "uninterested_adjective",
-    "word": "uninterested",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.ʌn'intәristid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/uninterested-us.mp3",
-    "definition_en": "Not having or showing interest",
-    "definition_zh": "a. 不感兴趣的, 无利害关系的",
-    "examples": [
-      "The committee analyzed a highly uninterested perspective during the forum."
-    ]
-  },
-  {
-    "id": "uninteresting_adjective",
-    "word": "uninteresting",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.ʌn'intәristiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/uninteresting-us.mp3",
-    "definition_en": "Arousing no interest or attention or curiosity or excitement",
-    "definition_zh": "a. 引不起兴趣的, 无趣味的, 乏味的",
-    "examples": [
-      "The committee analyzed a highly uninteresting perspective during the forum."
-    ]
-  },
-  {
-    "id": "wealth_noun",
-    "word": "wealth",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/welθ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wealth-us.mp3",
-    "definition_en": "The state of being rich and affluent; having a plentiful supply of material goods and money",
-    "definition_zh": "n. 财富, 资源, 财产, 丰富, 富裕, 大量",
-    "examples": [
-      "The new policy addressing wealth was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "wealthy_adjective",
-    "word": "wealthy",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'welθi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wealthy-us.mp3",
-    "definition_en": "S having an abundant supply of money or possessions of value",
-    "definition_zh": "a. 富有的, 丰裕的, 充分的",
-    "examples": [
-      "The committee analyzed a highly wealthy perspective during the forum."
-    ]
-  },
-  {
-    "id": "stock_verb",
-    "word": "stock",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/stɒk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stock-us.mp3",
-    "definition_en": "The capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)",
-    "definition_zh": "vt. 装把手于, 进货, 备有, 放牧",
-    "examples": [
-      "Officials must stock institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "cost-effective_adjective",
-    "word": "cost-effective",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/kɒst ɪ'fektɪv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cost-effective-us.mp3",
-    "definition_en": "S productive relative to the cost",
-    "definition_zh": "a. 有成本效益的, 划算的; 合算的（等于cost-efficient）",
-    "examples": [
-      "The committee analyzed a highly cost-effective perspective during the forum."
-    ]
-  },
-  {
-    "id": "concurrence_noun",
-    "word": "concurrence",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/kәn'kʌrәns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/concurrence-us.mp3",
-    "definition_en": "Agreement of results or opinions",
-    "definition_zh": "n. 赞同, 意见一致, 协力",
-    "examples": [
-      "The new policy addressing concurrence was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "profitability_noun",
-    "word": "profitability",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.prɒfitә'biliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profitability-us.mp3",
-    "definition_en": "N the quality of affording gain or benefit or profit",
-    "definition_zh": "n. 收益性, 利益率",
-    "examples": [
-      "The new policy addressing profitability was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "economize_verb",
-    "word": "economize",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/i'kɒnәmaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economize-us.mp3",
-    "definition_en": "V use cautiously and frugally",
-    "definition_zh": "v. 节约, 节省, 有效地利用",
-    "examples": [
-      "Officials must economize institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "counterproductive_adjective",
-    "word": "counterproductive",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.kauntәprә'dʌktiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/counterproductive-us.mp3",
-    "definition_en": "Tending to hinder the achievement of a goal",
-    "definition_zh": "a. 反生产的；使达不到预期目标的",
-    "examples": [
-      "The committee analyzed a highly counterproductive perspective during the forum."
     ]
   },
   {
@@ -1136,998 +617,17 @@
     ]
   },
   {
-    "id": "marketability_noun",
-    "word": "marketability",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.mɑ:kitә'biliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marketability-us.mp3",
-    "definition_en": "Denoting marketability; widely used in Economics & Finance.",
-    "definition_zh": "n. 可销售, 市场性",
-    "examples": [
-      "The new policy addressing marketability was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "products_noun",
-    "word": "products",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/products/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/products-us.mp3",
-    "definition_en": "N commodities offered for sale",
-    "definition_zh": "n. 产品；商品（product的复数）",
-    "examples": [
-      "The new policy addressing products was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "costs_noun",
-    "word": "costs",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/costs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/costs-us.mp3",
-    "definition_en": "Pecuniary reimbursement to the winning party for the expenses of litigation",
-    "definition_zh": "n. 费用；诉讼费；损失（cost的复数）",
-    "examples": [
-      "The new policy addressing costs was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "produced_verb",
-    "word": "produced",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/prәu'dju:st/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/produced-us.mp3",
-    "definition_en": "V bring forth or yield",
-    "definition_zh": "v. 创作；产生；制造（produce的过去式和过去分词）",
-    "examples": [
-      "Officials must produced institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "funds_noun",
-    "word": "funds",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/funds/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/funds-us.mp3",
-    "definition_en": "Assets in the form of money",
-    "definition_zh": "n. 基金；资金, 现金（fund的复数）",
-    "examples": [
-      "The new policy addressing funds was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "taxes_noun",
-    "word": "taxes",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/tæksi:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxes-us.mp3",
-    "definition_en": "N charge against a citizen's person or property or activity for the support of government",
-    "definition_zh": "n. 税务；税捐；税收, 税金",
-    "examples": [
-      "The new policy addressing taxes was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "loans_noun",
-    "word": "loans",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/loans/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loans-us.mp3",
-    "definition_en": "N the temporary provision of money (usually at interest)",
-    "definition_zh": "n. 借贷；贷款（loan的复数形式）",
-    "examples": [
-      "The new policy addressing loans was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "economic_noun",
-    "word": "economic",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.i:kә'nɒmik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economic-us.mp3",
-    "definition_en": "Of or relating to an economy, the system of production and management of material wealth",
-    "definition_zh": "a. 经济上的, 实用的, 节省的",
-    "examples": [
-      "The new policy addressing economic was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "profits_noun",
-    "word": "profits",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/profits/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profits-us.mp3",
-    "definition_en": "N the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)",
-    "definition_zh": "n. 收益, 红利；盈利（profit的复数）",
-    "examples": [
-      "The new policy addressing profits was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "producing_verb",
-    "word": "producing",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/prә'dju:siŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/producing-us.mp3",
-    "definition_en": "V bring forth or yield",
-    "definition_zh": "a. 生产的",
-    "examples": [
-      "Officials must producing institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "investigations_noun",
-    "word": "investigations",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ɪnvestɪ'ɡeɪʃnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investigations-us.mp3",
-    "definition_en": "An inquiry into unfamiliar or questionable activities",
-    "definition_zh": "n. （正式的）调查( investigation的复数形式 ); 侦查; 科学研究; 学术研究",
-    "examples": [
-      "The new policy addressing investigations was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "funding_noun",
-    "word": "funding",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'fʌndiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/funding-us.mp3",
-    "definition_en": "N financial resources provided to make some project possible",
-    "definition_zh": "[经] 债务转期",
-    "examples": [
-      "The new policy addressing funding was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "taxation_noun",
-    "word": "taxation",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/tæk'seiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxation-us.mp3",
-    "definition_en": "The imposition of taxes; the practice of the government in levying taxes on the subjects of a state",
-    "definition_zh": "n. 课税, 征税, 抽税, 税款, 估定的税额",
-    "examples": [
-      "The new policy addressing taxation was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "consumers_noun",
-    "word": "consumers",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/consumers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consumers-us.mp3",
-    "definition_en": "N a person who uses goods or services",
-    "definition_zh": "n. 消费者, 消耗者；用户, 顾客（consumer的复数）",
-    "examples": [
-      "The new policy addressing consumers was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "producers_noun",
-    "word": "producers",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/prəˈdu:səz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/producers-us.mp3",
-    "definition_en": "Someone who manufactures something",
-    "definition_zh": "n. 生产者, 制造者( producer的复数形式 ); 制片人",
-    "examples": [
-      "The new policy addressing producers was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "productivity_noun",
-    "word": "productivity",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.prәudʌk'tiviti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/productivity-us.mp3",
-    "definition_en": "(economics) the ratio of the quantity and quality of units produced to the labor per unit of time",
-    "definition_zh": "n. 生产力",
-    "examples": [
-      "The new policy addressing productivity was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "interested_verb",
-    "word": "interested",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'intristid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interested-us.mp3",
-    "definition_en": "Having or showing interest; especially curiosity or fascination or concern",
-    "definition_zh": "a. 感兴趣的",
-    "examples": [
-      "Officials must interested institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "investments_noun",
-    "word": "investments",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/investments/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investments-us.mp3",
-    "definition_en": "N the act of investing; laying out money or capital in an enterprise with the expectation of profit",
-    "definition_zh": "n. 投资, 投资的财产；投资学（investment的复数形式）",
-    "examples": [
-      "The new policy addressing investments was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "stocks_noun",
-    "word": "stocks",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/stocks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stocks-us.mp3",
-    "definition_en": "A frame that supports a boat while it is under construction",
-    "definition_zh": "n. 股票；存货；库存量（stock的复数）",
-    "examples": [
-      "The new policy addressing stocks was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "produces_verb",
-    "word": "produces",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/produces/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/produces-us.mp3",
-    "definition_en": "N fresh fruits and vegetable grown for the market",
-    "definition_zh": "n. 过程管理, 产品（produce复数形式）",
-    "examples": [
-      "Officials must produces institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "taxable_adjective",
-    "word": "taxable",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'tæksәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxable-us.mp3",
-    "definition_en": "(of goods or funds) subject to taxation",
-    "definition_zh": "a. 可征税的, 应征税的",
-    "examples": [
-      "The committee analyzed a highly taxable perspective during the forum."
-    ]
-  },
-  {
-    "id": "revenues_noun",
-    "word": "revenues",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'revənju:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/revenues-us.mp3",
-    "definition_en": "The entire amount of income before any deductions are made",
-    "definition_zh": "n. 收入( revenue的复数形式 ); [复数]总收入; 收入来源; 税务局",
-    "examples": [
-      "The new policy addressing revenues was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "occurrence_noun",
-    "word": "occurrence",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ә'kʌrәns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/occurrence-us.mp3",
-    "definition_en": "An instance of something occurring",
-    "definition_zh": "n. 发生, 事件, 出现",
-    "examples": [
-      "The new policy addressing occurrence was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "financial_noun",
-    "word": "financial",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/fai'nænʃәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/financial-us.mp3",
-    "definition_en": "A involving financial matters",
-    "definition_zh": "a. 财政的, 金融的",
-    "examples": [
-      "The new policy addressing financial was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "investigated_verb",
-    "word": "investigated",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/inˈvestiɡeitid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investigated-us.mp3",
-    "definition_en": "V investigate scientifically",
-    "definition_zh": "v. 调查( investigate的过去式和过去分词 ); 审查; 侦查; 研究",
-    "examples": [
-      "Officials must investigated institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "investors_noun",
-    "word": "investors",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ɪn'vestəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investors-us.mp3",
-    "definition_en": "Someone who commits capital in order to gain financial returns",
-    "definition_zh": "n. 投资者, 出资者( investor的复数形式 )",
-    "examples": [
-      "The new policy addressing investors was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "reproduction_noun",
-    "word": "reproduction",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.ri:prә'dʌkʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reproduction-us.mp3",
-    "definition_en": "The process of generating offspring",
-    "definition_zh": "n. 再现, 复制, 生殖, 繁殖, 复制品",
-    "examples": [
-      "The new policy addressing reproduction was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "debts_noun",
-    "word": "debts",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/debts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/debts-us.mp3",
-    "definition_en": "N the state of owing something (especially money)",
-    "definition_zh": "n. 负债类, 债务（debt的复数形式）",
-    "examples": [
-      "The new policy addressing debts was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "economies_noun",
-    "word": "economies",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/iˈkɔnəmiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economies-us.mp3",
-    "definition_en": "Pl.  of Economy",
-    "definition_zh": "n. 节约( economy的名词复数 ); 经济; 经济情况; 经济结构",
-    "examples": [
-      "The new policy addressing economies was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "credits_noun",
-    "word": "credits",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'kredits/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/credits-us.mp3",
-    "definition_en": "A list of acknowledgements of those who contributed to the creation of a film (usually run at the end of the film)",
-    "definition_zh": "n. 演职员名单；工作人员；信用；学分（credit的复数）",
-    "examples": [
-      "The new policy addressing credits was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "debtor_noun",
-    "word": "debtor",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'detә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/debtor-us.mp3",
-    "definition_en": "A person who owes a creditor; someone who has the obligation of paying a debt",
-    "definition_zh": "n. 债务人, 借主, 借方",
-    "examples": [
-      "The new policy addressing debtor was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "cost_adjective",
-    "word": "cost",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/kɒst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cost-us.mp3",
-    "definition_en": "The total spent for goods or services including money and time and labor",
-    "definition_zh": "n. 代价, 价值, 费用",
-    "examples": [
-      "The committee analyzed a highly cost perspective during the forum."
-    ]
-  },
-  {
-    "id": "creditors_noun",
-    "word": "creditors",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/creditors/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/creditors-us.mp3",
-    "definition_en": "N a person to whom money is owed by a debtor; someone to whom an obligation exists",
-    "definition_zh": "n. 债权人（creditor的复数）",
-    "examples": [
-      "The new policy addressing creditors was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "reproduced_verb",
-    "word": "reproduced",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ˌri:prəˈdju:st/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reproduced-us.mp3",
-    "definition_en": "V make a copy or equivalent of",
-    "definition_zh": "v. 复制( reproduce的过去式和过去分词 ); 重现; 再版; 生殖",
-    "examples": [
-      "Officials must reproduced institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "invested_verb",
-    "word": "invested",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/invested/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/invested-us.mp3",
-    "definition_en": "V make an investment",
-    "definition_zh": "vt. 投资, 花费",
-    "examples": [
-      "Officials must invested institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "trades_noun",
-    "word": "trades",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'treidz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trades-us.mp3",
-    "definition_en": "N the commercial exchange (buying and selling on domestic or international markets) of goods and services",
-    "definition_zh": "n. 交易；商业, 各种营业；贸易（trade的复数）",
-    "examples": [
-      "The new policy addressing trades was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "funded_verb",
-    "word": "funded",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/funded/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/funded-us.mp3",
-    "definition_en": "Furnished with funds",
-    "definition_zh": "a. 成为有固定利息的长期借款的",
-    "examples": [
-      "Officials must funded institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "investigators_noun",
-    "word": "investigators",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ɪn'vestɪɡeɪtəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investigators-us.mp3",
-    "definition_en": "N a scientist who devotes himself to doing research",
-    "definition_zh": "n. 调查者, 审查者( investigator的名词复数 )",
-    "examples": [
-      "The new policy addressing investigators was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "tax_adjective",
-    "word": "tax",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/tæks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tax-us.mp3",
-    "definition_en": "Charge against a citizen's person or property or activity for the support of government",
-    "definition_zh": "n. 税, 税款, 重负, 会费",
-    "examples": [
-      "The committee analyzed a highly tax perspective during the forum."
-    ]
-  },
-  {
-    "id": "creditor_noun",
-    "word": "creditor",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'kreditә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/creditor-us.mp3",
-    "definition_en": "A person to whom money is owed by a debtor; someone to whom an obligation exists",
-    "definition_zh": "n. 债权人",
-    "examples": [
-      "The new policy addressing creditor was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "indebtedness_noun",
-    "word": "indebtedness",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/in'detidnis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/indebtedness-us.mp3",
-    "definition_en": "An obligation to pay money to another party",
-    "definition_zh": "[经] 负债, 债务",
-    "examples": [
-      "The new policy addressing indebtedness was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "bankers_noun",
-    "word": "bankers",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ˈbæŋkəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bankers-us.mp3",
-    "definition_en": "A financier who owns or is an executive in a bank",
-    "definition_zh": "n. 银行家( banker的复数形式 ); 银行主; 银行经理; 庄家",
-    "examples": [
-      "The new policy addressing bankers was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "credited_verb",
-    "word": "credited",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/credited/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/credited-us.mp3",
-    "definition_en": "(usually followed by `to') given credit for",
-    "definition_zh": "v. 相信；记入贷方（credit的过去式和过去分词）",
-    "examples": [
-      "Officials must credited institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "costs_verb",
-    "word": "costs",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/costs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/costs-us.mp3",
-    "definition_en": "Pecuniary reimbursement to the winning party for the expenses of litigation",
-    "definition_zh": "n. 费用；诉讼费；损失（cost的复数）",
-    "examples": [
-      "Officials must costs institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "investigating_verb",
-    "word": "investigating",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/investigating/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investigating-us.mp3",
-    "definition_en": "N the work of inquiring into something thoroughly and systematically",
-    "definition_zh": "[法] 调查, 调查研究, 审查",
-    "examples": [
-      "Officials must investigating institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "produce_noun",
-    "word": "produce",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/prә'dju:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/produce-us.mp3",
-    "definition_en": "Fresh fruits and vegetable grown for the market",
-    "definition_zh": "n. 生产品, 物产, 后代",
-    "examples": [
-      "The new policy addressing produce was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "traders_noun",
-    "word": "traders",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/traders/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/traders-us.mp3",
-    "definition_en": "N someone who purchases and maintains an inventory of goods to be sold",
-    "definition_zh": "n. 交易员；贸易商（trader的复数形式）",
-    "examples": [
-      "The new policy addressing traders was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "moneys_noun",
-    "word": "moneys",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ˈmʌniz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moneys-us.mp3",
-    "definition_en": "Pl.  of Money",
-    "definition_zh": "n. 钱币, 钞票( money的名词复数 ); 款项, 钱款",
-    "examples": [
-      "The new policy addressing moneys was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "costa_noun",
-    "word": "costa",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'kɒstә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/costa-us.mp3",
-    "definition_en": "A riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing)",
-    "definition_zh": "n. 肋骨, 肋脉, 叶的中脉",
-    "examples": [
-      "The new policy addressing costa was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "reproductive_adjective",
-    "word": "reproductive",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.ri:prә'dʌktiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reproductive-us.mp3",
-    "definition_en": "S producing new life or offspring",
-    "definition_zh": "a. 生殖的, 再生的, 复制的",
-    "examples": [
-      "The committee analyzed a highly reproductive perspective during the forum."
-    ]
-  },
-  {
-    "id": "economists_noun",
-    "word": "economists",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ɪ'kɒnəmɪsts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economists-us.mp3",
-    "definition_en": "An expert in the science of economics",
-    "definition_zh": "n. 经济学家, 经济专家( economist的复数形式 )",
-    "examples": [
-      "The new policy addressing economists was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "productions_noun",
-    "word": "productions",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/prəˈdʌkʃənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/productions-us.mp3",
-    "definition_en": "The act or process of producing something",
-    "definition_zh": "n. 生产( production的复数形式 ); 产量; 产品; 出示",
-    "examples": [
-      "The new policy addressing productions was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "liquids_noun",
-    "word": "liquids",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'lɪkwɪdz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liquids-us.mp3",
-    "definition_en": "A substance that is liquid at room temperature and pressure",
-    "definition_zh": "n. 液体( liquid的复数形式 )",
-    "examples": [
-      "The new policy addressing liquids was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "nonprofit_adjective",
-    "word": "nonprofit",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/nɒn'prɒfit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nonprofit-us.mp3",
-    "definition_en": "Not commercially motivated",
-    "definition_zh": "a. 非赢利的, 无利可图的",
-    "examples": [
-      "The committee analyzed a highly nonprofit perspective during the forum."
-    ]
-  },
-  {
-    "id": "liquidation_noun",
-    "word": "liquidation",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.likwi'deiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liquidation-us.mp3",
-    "definition_en": "Termination of a business operation by using its assets to discharge its liabilities",
-    "definition_zh": "n. 偿还, 偿付, 清算",
-    "examples": [
-      "The new policy addressing liquidation was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "taxed_verb",
-    "word": "taxed",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/taxed/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxed-us.mp3",
-    "definition_en": "V levy a tax on",
-    "definition_zh": "vt. 使负重担（tax的过去式与过去分词形式）",
-    "examples": [
-      "Officials must taxed institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "deficits_noun",
-    "word": "deficits",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ˈdefisits/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deficits-us.mp3",
-    "definition_en": "The property of being an amount by which something is less than expected or required",
-    "definition_zh": "n. 不足额( deficit的复数形式 ); 赤字; 亏空; 亏损",
-    "examples": [
-      "The new policy addressing deficits was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "producing_adjective",
-    "word": "producing",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/prә'dju:siŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/producing-us.mp3",
-    "definition_en": "V bring forth or yield",
-    "definition_zh": "a. 生产的",
-    "examples": [
-      "The committee analyzed a highly producing perspective during the forum."
-    ]
-  },
-  {
-    "id": "traded_verb",
-    "word": "traded",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/traded/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/traded-us.mp3",
-    "definition_en": "V engage in the trade of",
-    "definition_zh": "v. 交易；贸易（trade的过去分词形式）",
-    "examples": [
-      "Officials must traded institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "occurrences_noun",
-    "word": "occurrences",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ə'kʌrənsɪz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/occurrences-us.mp3",
-    "definition_en": "An event that happens",
-    "definition_zh": "n. 发生( occurrence的复数形式 ); 出现; 事件; 发生的事",
-    "examples": [
-      "The new policy addressing occurrences was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "costing_verb",
-    "word": "costing",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'kɒstiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/costing-us.mp3",
-    "definition_en": "Cost accounting",
-    "definition_zh": "n. 成本计算, 成本会计",
-    "examples": [
-      "Officials must costing institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "fiscal_noun",
-    "word": "fiscal",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'fiskәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fiscal-us.mp3",
-    "definition_en": "Involving financial matters",
-    "definition_zh": "a. 财政的, 国库的",
-    "examples": [
-      "The new policy addressing fiscal was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "bankrupt_adjective",
-    "word": "bankrupt",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'bæŋkrʌpt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bankrupt-us.mp3",
-    "definition_en": "Someone who has insufficient assets to cover their debts",
-    "definition_zh": "a. 破产的",
-    "examples": [
-      "The committee analyzed a highly bankrupt perspective during the forum."
-    ]
-  },
-  {
-    "id": "currencies_noun",
-    "word": "currencies",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ˈkʌrənsiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/currencies-us.mp3",
-    "definition_en": "Pl.  of Currency",
-    "definition_zh": "n. 通货( currency的名词复数 ); 货币; 流通; 市价",
-    "examples": [
-      "The new policy addressing currencies was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "investing_verb",
-    "word": "investing",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/investing/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investing-us.mp3",
-    "definition_en": "The act of investing; laying out money or capital in an enterprise with the expectation of profit",
-    "definition_zh": "[医] 包埋, 围模",
-    "examples": [
-      "Officials must investing institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "liquidity_noun",
-    "word": "liquidity",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "Economics (经济与金融)",
-    "phonetic": "/li'kwiditi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liquidity-us.mp3",
-    "definition_en": "The availability of liquid assets to a market or company; the ease with which assets convert to cash.",
-    "definition_zh": "流动性，资产变现能力",
-    "examples": [
-      "The commercial bank maintained substantial cash buffers to ensure daily liquidity.",
-      "Market liquidity evaporated rapidly during the sudden credit panic."
-    ]
-  },
-  {
-    "id": "costumes_noun",
-    "word": "costumes",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/costumes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/costumes-us.mp3",
-    "definition_en": "N the attire worn in a play or at a fancy dress ball",
-    "definition_zh": "n. 服装（costume的复数形式）",
-    "examples": [
-      "The new policy addressing costumes was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "refunds_noun",
-    "word": "refunds",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/ˈri:fʌndz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refunds-us.mp3",
-    "definition_en": "N money returned to a payer",
-    "definition_zh": "n. 归还, 偿还额, 退款( refund的名词复数 )",
-    "examples": [
-      "The new policy addressing refunds was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "profit_adjective",
-    "word": "profit",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'prɒfit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profit-us.mp3",
-    "definition_en": "The advantageous quality of being beneficial",
-    "definition_zh": "n. 利润, 赢利, 利益",
-    "examples": [
-      "The committee analyzed a highly profit perspective during the forum."
-    ]
-  },
-  {
-    "id": "funding_verb",
-    "word": "funding",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'fʌndiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/funding-us.mp3",
-    "definition_en": "N financial resources provided to make some project possible",
-    "definition_zh": "[经] 债务转期",
-    "examples": [
-      "Officials must funding institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "accredited_verb",
-    "word": "accredited",
+    "id": "economize_verb",
+    "word": "economize",
     "part_of_speech": "verb",
     "level": "C2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/ә'kreditid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accredited-us.mp3",
-    "definition_en": "Given official approval to act",
-    "definition_zh": "v. 认可（accredit的过去分词形式）",
+    "phonetic": "/i'kɒnәmaiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economize-us.mp3",
+    "definition_en": "V use cautiously and frugally",
+    "definition_zh": "v. 节约, 节省, 有效地利用",
     "examples": [
-      "Officials must accredited institutional guidelines to uphold public integrity."
+      "Officials must economize institutional guidelines to uphold public integrity."
     ]
   }
 ]

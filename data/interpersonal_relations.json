@@ -1,100 +1,16 @@
 [
   {
-    "id": "aircrew_noun",
-    "word": "aircrew",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'єәkru:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aircrew-us.mp3",
-    "definition_en": "The crew of an aircraft",
-    "definition_zh": "n. 空勤组",
-    "examples": [
-      "Understanding aircrew provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "anchorperson_noun",
-    "word": "anchorperson",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'æŋkә,p\\\\\\\\:sən/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anchorperson-us.mp3",
-    "definition_en": "N a television reporter who coordinates a broadcast to which several correspondents contribute",
-    "definition_zh": "n. 新闻节目主持人",
-    "examples": [
-      "Understanding anchorperson provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "apparent_adjective",
-    "word": "apparent",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ә'pærәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apparent-us.mp3",
-    "definition_en": "Clearly revealed to the mind or the senses or judgment",
-    "definition_zh": "a. 清晰可见的, 显然的, 表面上的",
-    "examples": [
-      "The committee analyzed a highly apparent perspective during the forum."
-    ]
-  },
-  {
-    "id": "apparently_adverb",
-    "word": "apparently",
-    "part_of_speech": "adverb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ә'pærәntli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apparently-us.mp3",
-    "definition_en": "From appearances alone",
-    "definition_zh": "adv. 表面上, 清楚地, 显然地",
-    "examples": [
-      "Researchers systematically observed apparently relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "argue_verb",
-    "word": "argue",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'ɑ:gju/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/argue-us.mp3",
-    "definition_en": "Present reasons and arguments",
-    "definition_zh": "vi. 提出理由, 争论, 辩论",
-    "examples": [
-      "Many professionals argue key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "arrival_noun",
-    "word": "arrival",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ә'raivl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrival-us.mp3",
-    "definition_en": "Accomplishment of an objective",
-    "definition_zh": "n. 到达, 抵达, 到达者",
-    "examples": [
-      "Understanding arrival provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "boyfriend_noun",
-    "word": "boyfriend",
+    "id": "aunt_noun",
+    "word": "aunt",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'bɔifrend/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boyfriend-us.mp3",
-    "definition_en": "A man who is the lover of a girl or young woman",
-    "definition_zh": "n. 男朋友",
+    "phonetic": "/ɑ:nt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aunt-us.mp3",
+    "definition_en": "The sister of your father or mother; the wife of your uncle",
+    "definition_zh": "n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母",
     "examples": [
-      "Understanding boyfriend provides valuable insights into everyday communication."
+      "Understanding aunt provides valuable insights into everyday communication."
     ]
   },
   {
@@ -112,31 +28,17 @@
     ]
   },
   {
-    "id": "brotherhood_noun",
-    "word": "brotherhood",
+    "id": "brothers_noun",
+    "word": "brothers",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'brʌðәhud/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brotherhood-us.mp3",
-    "definition_en": "The kinship relation between a male offspring and the siblings",
-    "definition_zh": "n. 手足情谊, 兄弟关系",
+    "phonetic": "/brothers/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brothers-us.mp3",
+    "definition_en": "N a male with the same parents as someone else",
+    "definition_zh": "n. 哥们儿, 兄弟",
     "examples": [
-      "Understanding brotherhood provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "brother-in-law_noun",
-    "word": "brother-in-law",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/brother-in-law/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brother-in-law-us.mp3",
-    "definition_en": "A brother by marriage",
-    "definition_zh": "n. 姊妹的丈夫",
-    "examples": [
-      "Understanding brother-in-law provides valuable insights into everyday communication."
+      "Understanding brothers provides valuable insights into everyday communication."
     ]
   },
   {
@@ -154,130 +56,45 @@
     ]
   },
   {
-    "id": "childhood_noun",
-    "word": "childhood",
+    "id": "children_noun",
+    "word": "children",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'tʃaildhud/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/childhood-us.mp3",
-    "definition_en": "The time of person's life when they are a child",
-    "definition_zh": "n. 孩童时期",
+    "phonetic": "/'tʃildrәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/children-us.mp3",
+    "definition_en": "N a young person of either sex",
+    "definition_zh": "pl. 孩子, 孩子们",
     "examples": [
-      "Understanding childhood provides valuable insights into everyday communication."
+      "Understanding children provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "childish_adjective",
-    "word": "childish",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'tʃaildiʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/childish-us.mp3",
-    "definition_en": "Indicating a lack of maturity",
-    "definition_zh": "a. 天真的, 孩子气的",
-    "examples": [
-      "The committee analyzed a highly childish perspective during the forum."
-    ]
-  },
-  {
-    "id": "colleague_noun",
-    "word": "colleague",
+    "id": "cousin_noun",
+    "word": "cousin",
     "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "Work & Business",
-    "phonetic": "/'kɒli:g/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/colleague-us.mp3",
-    "definition_en": "A fellow member of a profession, staff, or academic faculty; a coworker.",
-    "definition_zh": "同事，同僚",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'kʌzәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cousin-us.mp3",
+    "definition_en": "The child of your aunt or uncle",
+    "definition_zh": "n. 堂兄弟姊妹, 表兄弟姊妹",
     "examples": [
-      "He exchanged technical documentation with his senior colleague before the code review.",
-      "Our cross-functional team comprises colleagues from design, product, and QA."
+      "Recent breakthroughs in cousin have accelerated modern technological innovation."
     ]
   },
   {
-    "id": "community_noun",
-    "word": "community",
+    "id": "cousins_noun",
+    "word": "cousins",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/kә'mju:niti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/community-us.mp3",
-    "definition_en": "A group of people living in a particular local area",
-    "definition_zh": "n. 社区, 公众, 共有, 共同体",
+    "phonetic": "/cousins/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cousins-us.mp3",
+    "definition_en": "N the child of your aunt or uncle",
+    "definition_zh": "n. 卡曾斯（姓）",
     "examples": [
-      "Understanding community provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "comparison_noun",
-    "word": "comparison",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/kәm'pærisn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/comparison-us.mp3",
-    "definition_en": "The act of examining resemblances",
-    "definition_zh": "n. 比较, 对照, 比喻",
-    "examples": [
-      "Understanding comparison provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "consonant_noun",
-    "word": "consonant",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'kɒnsәnәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consonant-us.mp3",
-    "definition_en": "A speech sound that is not a vowel",
-    "definition_zh": "n. 辅音",
-    "examples": [
-      "Understanding consonant provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "crew_noun",
-    "word": "crew",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/kru:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crew-us.mp3",
-    "definition_en": "The men and women who man a vehicle (ship, aircraft, etc.)",
-    "definition_zh": "n. 全体人员, 一群人, 全体队员",
-    "examples": [
-      "Understanding crew provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "crowd_noun",
-    "word": "crowd",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/kraud/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crowd-us.mp3",
-    "definition_en": "A large number of things or people considered together",
-    "definition_zh": "n. 群众, 一伙人",
-    "examples": [
-      "Understanding crowd provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "crowded_adjective",
-    "word": "crowded",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'kraudid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crowded-us.mp3",
-    "definition_en": "Overfilled or compacted or concentrated",
-    "definition_zh": "a. 拥挤的, 塞满的",
-    "examples": [
-      "The committee analyzed a highly crowded perspective during the forum."
+      "Recent breakthroughs in cousins have accelerated modern technological innovation."
     ]
   },
   {
@@ -295,73 +112,17 @@
     ]
   },
   {
-    "id": "daughter-in-law_noun",
-    "word": "daughter-in-law",
+    "id": "daughters_noun",
+    "word": "daughters",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/daughter-in-law/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/daughter-in-law-us.mp3",
-    "definition_en": "The wife of your son",
-    "definition_zh": "n. 媳妇",
+    "phonetic": "/daughters/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/daughters-us.mp3",
+    "definition_en": "N a female human offspring",
+    "definition_zh": "n. 女儿们（歌曲名）；枕边杀机（电影名）",
     "examples": [
-      "Understanding daughter-in-law provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "divorce_noun",
-    "word": "divorce",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/di'vɒ:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divorce-us.mp3",
-    "definition_en": "The legal dissolution of a marriage",
-    "definition_zh": "n. 离婚",
-    "examples": [
-      "Understanding divorce provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "divorce_verb",
-    "word": "divorce",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/di'vɒ:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divorce-us.mp3",
-    "definition_en": "Get a divorce; formally terminate a marriage",
-    "definition_zh": "vt. 与...离婚",
-    "examples": [
-      "Many professionals divorce key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "divorced_adjective",
-    "word": "divorced",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/divorced/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divorced-us.mp3",
-    "definition_en": "Of someone whose marriage has been legally dissolved",
-    "definition_zh": "a. 离婚的",
-    "examples": [
-      "The committee analyzed a highly divorced perspective during the forum."
-    ]
-  },
-  {
-    "id": "enemy_noun",
-    "word": "enemy",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'enimi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enemy-us.mp3",
-    "definition_en": "An opposing military force",
-    "definition_zh": "n. 敌人, 仇敌, 敌军",
-    "examples": [
-      "Understanding enemy provides valuable insights into everyday communication."
+      "Understanding daughters provides valuable insights into everyday communication."
     ]
   },
   {
@@ -393,20 +154,6 @@
     ]
   },
   {
-    "id": "father-in-law_noun",
-    "word": "father-in-law",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'fɑ:ðәrinlɔ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/father-in-law-us.mp3",
-    "definition_en": "The father of your spouse",
-    "definition_zh": "n. 公公, 岳父",
-    "examples": [
-      "Understanding father-in-law provides valuable insights into everyday communication."
-    ]
-  },
-  {
     "id": "friend_noun",
     "word": "friend",
     "part_of_speech": "noun",
@@ -421,87 +168,17 @@
     ]
   },
   {
-    "id": "friendliness_noun",
-    "word": "friendliness",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'frendlinis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friendliness-us.mp3",
-    "definition_en": "A feeling of liking for another person; enjoyment in their company",
-    "definition_zh": "n. 友谊, 亲切, 亲密",
-    "examples": [
-      "Understanding friendliness provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "friendly_adjective",
-    "word": "friendly",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'frendli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friendly-us.mp3",
-    "definition_en": "Characteristic of or befitting a friend",
-    "definition_zh": "a. 友好的, 亲切的, 互助的",
-    "examples": [
-      "The committee analyzed a highly friendly perspective during the forum."
-    ]
-  },
-  {
-    "id": "friendship_noun",
-    "word": "friendship",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'frendʃip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friendship-us.mp3",
-    "definition_en": "The state of being friends (or friendly)",
-    "definition_zh": "n. 友谊, 友爱, 友善",
-    "examples": [
-      "Understanding friendship provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "girlfriend_noun",
-    "word": "girlfriend",
+    "id": "friends_noun",
+    "word": "friends",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/girlfriend/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/girlfriend-us.mp3",
-    "definition_en": "Any female friend",
-    "definition_zh": "n. 女朋友",
+    "phonetic": "/friends/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friends-us.mp3",
+    "definition_en": "N a person you know well and regard with affection and trust",
+    "definition_zh": "n. 老友记（剧集）",
     "examples": [
-      "Understanding girlfriend provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "grandchild_noun",
-    "word": "grandchild",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'^rændtʃaild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grandchild-us.mp3",
-    "definition_en": "A child of your son or daughter",
-    "definition_zh": "n. 孙, 外孙女, 外孙, 孙女, 孙子",
-    "examples": [
-      "Understanding grandchild provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "granddaughter_noun",
-    "word": "granddaughter",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'^rændɔ:tә(r)/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/granddaughter-us.mp3",
-    "definition_en": "A female grandchild",
-    "definition_zh": "n. 孙女, 外孙女",
-    "examples": [
-      "Understanding granddaughter provides valuable insights into everyday communication."
+      "Understanding friends provides valuable insights into everyday communication."
     ]
   },
   {
@@ -533,34 +210,6 @@
     ]
   },
   {
-    "id": "grandparent_noun",
-    "word": "grandparent",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'grændperәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grandparent-us.mp3",
-    "definition_en": "A parent of your father or mother",
-    "definition_zh": "n. 祖父母",
-    "examples": [
-      "Understanding grandparent provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "grandson_noun",
-    "word": "grandson",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'grændsʌn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grandson-us.mp3",
-    "definition_en": "A male grandchild",
-    "definition_zh": "n. 孙子, 外孙",
-    "examples": [
-      "Understanding grandson provides valuable insights into everyday communication."
-    ]
-  },
-  {
     "id": "greet_verb",
     "word": "greet",
     "part_of_speech": "verb",
@@ -572,76 +221,6 @@
     "definition_zh": "vt. 问候, 致敬, 欢迎, 映入眼帘",
     "examples": [
       "Many professionals greet key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "greeting_noun",
-    "word": "greeting",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'gri:tiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/greeting-us.mp3",
-    "definition_en": "(usually plural) an acknowledgment or expression of good will (especially on meeting)",
-    "definition_zh": "n. 祝贺, 问候",
-    "examples": [
-      "Understanding greeting provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "hug_noun",
-    "word": "hug",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/hʌg/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hug-us.mp3",
-    "definition_en": "A tight or amorous embrace",
-    "definition_zh": "n. 紧抱, 拥抱",
-    "examples": [
-      "Understanding hug provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "hug_verb",
-    "word": "hug",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/hʌg/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hug-us.mp3",
-    "definition_en": "Fit closely or tightly",
-    "definition_zh": "vt. 紧抱, 坚持, 使沾沾自喜",
-    "examples": [
-      "Many professionals hug key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "huge_adjective",
-    "word": "huge",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/hju:dʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/huge-us.mp3",
-    "definition_en": "Unusually great in size or amount or degree or especially extent or scope",
-    "definition_zh": "a. 极大的, 巨大的, 无限的",
-    "examples": [
-      "The committee analyzed a highly huge perspective during the forum."
-    ]
-  },
-  {
-    "id": "hugely_adverb",
-    "word": "hugely",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'hju:dʒli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hugely-us.mp3",
-    "definition_en": "R extremely",
-    "definition_zh": "adv. 巨大地, 非常地",
-    "examples": [
-      "Researchers systematically observed hugely relevant patterns across trials."
     ]
   },
   {
@@ -659,17 +238,17 @@
     ]
   },
   {
-    "id": "interpersonal_adjective",
-    "word": "interpersonal",
-    "part_of_speech": "adjective",
-    "level": "B2",
+    "id": "husbands_noun",
+    "word": "husbands",
+    "part_of_speech": "noun",
+    "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/.intә'pә:sәnәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interpersonal-us.mp3",
-    "definition_en": "Occurring among or involving several people",
-    "definition_zh": "a. 人与人之间的, 人际(关系)的",
+    "phonetic": "/husbands/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/husbands-us.mp3",
+    "definition_en": "N a married man; a woman's partner in marriage",
+    "definition_zh": "n. 丈夫；节俭的人（husband的复数）",
     "examples": [
-      "The committee analyzed a highly interpersonal perspective during the forum."
+      "Understanding husbands provides valuable insights into everyday communication."
     ]
   },
   {
@@ -687,90 +266,6 @@
     ]
   },
   {
-    "id": "kiss_verb",
-    "word": "kiss",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/kis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kiss-us.mp3",
-    "definition_en": "The act of caressing with the lips (or an instance thereof)",
-    "definition_zh": "vt. 吻",
-    "examples": [
-      "Many professionals kiss key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "marriage_noun",
-    "word": "marriage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'mæridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marriage-us.mp3",
-    "definition_en": "The state of being a married couple voluntarily joined for life (or until divorce)",
-    "definition_zh": "n. 婚姻, 结婚, 婚礼, 合并",
-    "examples": [
-      "Understanding marriage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "marry_verb",
-    "word": "marry",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'mæri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marry-us.mp3",
-    "definition_en": "Take in marriage",
-    "definition_zh": "vt. 与...结婚, 娶, 嫁",
-    "examples": [
-      "Many professionals marry key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "meet_verb",
-    "word": "meet",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/mi:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meet-us.mp3",
-    "definition_en": "Come together",
-    "definition_zh": "vt. 遇见, 引见, 认识, 满足, 对付",
-    "examples": [
-      "Many professionals meet key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "meeting_noun",
-    "word": "meeting",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'mi:tiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meeting-us.mp3",
-    "definition_en": "A formally arranged gathering",
-    "definition_zh": "n. 会议, 会面",
-    "examples": [
-      "Understanding meeting provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "mistrustful_adjective",
-    "word": "mistrustful",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/.mis'trʌstful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mistrustful-us.mp3",
-    "definition_en": "S openly distrustful and unwilling to confide",
-    "definition_zh": "a. 不信任的, 深疑的",
-    "examples": [
-      "The committee analyzed a highly mistrustful perspective during the forum."
-    ]
-  },
-  {
     "id": "mother_noun",
     "word": "mother",
     "part_of_speech": "noun",
@@ -782,34 +277,6 @@
     "definition_zh": "n. 母亲, 修女院长",
     "examples": [
       "Understanding mother provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "mother-in-law_noun",
-    "word": "mother-in-law",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/mother-in-law/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mother-in-law-us.mp3",
-    "definition_en": "The mother of your spouse",
-    "definition_zh": "n. 婆母, 岳母",
-    "examples": [
-      "Understanding mother-in-law provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "motherland_noun",
-    "word": "motherland",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'mʌðәlænd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motherland-us.mp3",
-    "definition_en": "N the country where you were born",
-    "definition_zh": "n. 祖国",
-    "examples": [
-      "Understanding motherland provides valuable insights into everyday communication."
     ]
   },
   {
@@ -827,31 +294,17 @@
     ]
   },
   {
-    "id": "neighborhood_noun",
-    "word": "neighborhood",
+    "id": "neighbors_noun",
+    "word": "neighbors",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'neibәhud/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neighborhood-us.mp3",
-    "definition_en": "People living near one another",
-    "definition_zh": "n. 附近, 邻近",
+    "phonetic": "/neighbors/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neighbors-us.mp3",
+    "definition_en": "N a person who lives (or is located) near another",
+    "definition_zh": "n. 街坊邻里, 邻居；邻国；邻元素（neighbor的复数）",
     "examples": [
-      "Understanding neighborhood provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "neighboring_adjective",
-    "word": "neighboring",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'neibәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neighboring-us.mp3",
-    "definition_en": "V live or be located as a neighbor",
-    "definition_zh": "a. 附近的, 邻近的, 邻接的",
-    "examples": [
-      "The committee analyzed a highly neighboring perspective during the forum."
+      "Understanding neighbors provides valuable insights into everyday communication."
     ]
   },
   {
@@ -869,17 +322,31 @@
     ]
   },
   {
-    "id": "parental_adjective",
-    "word": "parental",
+    "id": "parent_adjective",
+    "word": "parent",
     "part_of_speech": "adjective",
-    "level": "B1",
+    "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/pә'rentәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parental-us.mp3",
-    "definition_en": "Designating the generation of organisms from which hybrid offspring are produced",
-    "definition_zh": "a. 父母亲的, 做双亲的, 作为渊源的",
+    "phonetic": "/'perәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parent-us.mp3",
+    "definition_en": "A father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian",
+    "definition_zh": "n. 父母, 父母亲, 根源",
     "examples": [
-      "The committee analyzed a highly parental perspective during the forum."
+      "The committee analyzed a highly parent perspective during the forum."
+    ]
+  },
+  {
+    "id": "parents_noun",
+    "word": "parents",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/parents/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parents-us.mp3",
+    "definition_en": "N a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian",
+    "definition_zh": "n. 父母；双亲（parent的复数）",
+    "examples": [
+      "Understanding parents provides valuable insights into everyday communication."
     ]
   },
   {
@@ -897,227 +364,452 @@
     ]
   },
   {
-    "id": "partnership_noun",
-    "word": "partnership",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'pɑ:tnәʃip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/partnership-us.mp3",
-    "definition_en": "The members of a business venture created by contract",
-    "definition_zh": "n. 合伙, 合股, 合作关系",
-    "examples": [
-      "Understanding partnership provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "peer_noun",
-    "word": "peer",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/piә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peer-us.mp3",
-    "definition_en": "A person who is of equal standing with another in a group",
-    "definition_zh": "n. 同等的人, 匹敌, 贵族",
-    "examples": [
-      "Understanding peer provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "penfriend_noun",
-    "word": "penfriend",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ˈpenfrend/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/penfriend-us.mp3",
-    "definition_en": "Denoting penfriend; widely used in Interpersonal & Social.",
-    "definition_zh": "n. <英>笔友",
-    "examples": [
-      "Understanding penfriend provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "person_noun",
-    "word": "person",
+    "id": "partners_noun",
+    "word": "partners",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'pә:sn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/person-us.mp3",
-    "definition_en": "A human being",
-    "definition_zh": "n. 人, 人身, 人称",
+    "phonetic": "/partners/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/partners-us.mp3",
+    "definition_en": "N a person's partner in marriage",
+    "definition_zh": "n. 合作伙伴；合伙人；伙伴（partner的复数形式）",
     "examples": [
-      "Understanding person provides valuable insights into everyday communication."
+      "Understanding partners provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "personal_adjective",
-    "word": "personal",
+    "id": "sister_noun",
+    "word": "sister",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'sistә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sister-us.mp3",
+    "definition_en": "A female person who has the same parents as another person",
+    "definition_zh": "n. 姐妹, 姐, 妹, 护士, 修女",
+    "examples": [
+      "Understanding sister provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "sisters_noun",
+    "word": "sisters",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/sisters/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sisters-us.mp3",
+    "definition_en": "N a female person who has the same parents as another person",
+    "definition_zh": "n. 姐妹们（sister的复数形式）",
+    "examples": [
+      "Understanding sisters provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "social_adjective",
+    "word": "social",
     "part_of_speech": "adjective",
     "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'pә:snl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personal-us.mp3",
-    "definition_en": "Concerning or affecting a particular person or his or her private life and personality",
-    "definition_zh": "a. 私人的, 涉及隐私的, 有人性的, 人称的, 亲自的, 身体的",
+    "phonetic": "/'sәuʃәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/social-us.mp3",
+    "definition_en": "Relating to human society and its members",
+    "definition_zh": "a. 社会的, 群居的, 社交的",
     "examples": [
-      "The committee analyzed a highly personal perspective during the forum."
+      "The committee analyzed a highly social perspective during the forum."
     ]
   },
   {
-    "id": "personality_noun",
-    "word": "personality",
+    "id": "social_noun",
+    "word": "social",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'sәuʃәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/social-us.mp3",
+    "definition_en": "Relating to human society and its members",
+    "definition_zh": "n. 联欢会",
+    "examples": [
+      "Understanding social provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "son_noun",
+    "word": "son",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/sʌn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/son-us.mp3",
+    "definition_en": "A male human offspring",
+    "definition_zh": "n. 儿子, 女婿, 子孙",
+    "examples": [
+      "Understanding son provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "sons_noun",
+    "word": "sons",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/sons/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sons-us.mp3",
+    "definition_en": "N a male human offspring",
+    "definition_zh": "n. 儿子们（son的复数）；子弟",
+    "examples": [
+      "Understanding sons provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "team_noun",
+    "word": "team",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/ti:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/team-us.mp3",
+    "definition_en": "A cooperative unit (especially in sports)",
+    "definition_zh": "n. 队, 组",
+    "examples": [
+      "Understanding team provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "uncle_noun",
+    "word": "uncle",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/ʌŋkl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/uncle-us.mp3",
+    "definition_en": "The brother of your father or mother; the husband of your aunt",
+    "definition_zh": "n. 叔父, 伯父, 姨丈",
+    "examples": [
+      "Understanding uncle provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "wife_noun",
+    "word": "wife",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/waif/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wife-us.mp3",
+    "definition_en": "A married woman; a man's partner in marriage",
+    "definition_zh": "n. 妻子, 太太, 夫人",
+    "examples": [
+      "Understanding wife provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "wives_noun",
+    "word": "wives",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/waivz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wives-us.mp3",
+    "definition_en": "N a married woman; a man's partner in marriage",
+    "definition_zh": "妻",
+    "examples": [
+      "Understanding wives provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "colleague_noun",
+    "word": "colleague",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/.pә:sә'næliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personality-us.mp3",
-    "definition_en": "The complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual",
-    "definition_zh": "n. 个性, 人格, (团体、地方、国家)特有特性, 名人",
+    "phonetic": "/'kɒli:g/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/colleague-us.mp3",
+    "definition_en": "A fellow member of a profession, staff, or academic faculty; a coworker.",
+    "definition_zh": "同事，同僚",
     "examples": [
-      "Understanding personality provides valuable insights into everyday communication."
+      "He exchanged technical documentation with his senior colleague before the code review.",
+      "Our cross-functional team comprises colleagues from design, product, and QA."
     ]
   },
   {
-    "id": "personally_adverb",
-    "word": "personally",
-    "part_of_speech": "adverb",
+    "id": "crowd_noun",
+    "word": "crowd",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/kraud/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crowd-us.mp3",
+    "definition_en": "A large number of things or people considered together",
+    "definition_zh": "n. 群众, 一伙人",
+    "examples": [
+      "Understanding crowd provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "female_adjective",
+    "word": "female",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'fi:meil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/female-us.mp3",
+    "definition_en": "Being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop",
+    "definition_zh": "a. 女性的, 女子的",
+    "examples": [
+      "The committee analyzed a highly female perspective during the forum."
+    ]
+  },
+  {
+    "id": "friendship_noun",
+    "word": "friendship",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'frendʃip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friendship-us.mp3",
+    "definition_en": "The state of being friends (or friendly)",
+    "definition_zh": "n. 友谊, 友爱, 友善",
+    "examples": [
+      "Understanding friendship provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "hug_verb",
+    "word": "hug",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/hʌg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hug-us.mp3",
+    "definition_en": "Fit closely or tightly",
+    "definition_zh": "vt. 紧抱, 坚持, 使沾沾自喜",
+    "examples": [
+      "Many professionals hug key methods to achieve consistent, high-quality results."
+    ]
+  },
+  {
+    "id": "male_noun",
+    "word": "male",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/meil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/male-us.mp3",
+    "definition_en": "An animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)",
+    "definition_zh": "n. 男人, 雄性动物",
+    "examples": [
+      "Fresh male can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "marry_verb",
+    "word": "marry",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'mæri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marry-us.mp3",
+    "definition_en": "Take in marriage",
+    "definition_zh": "vt. 与...结婚, 娶, 嫁",
+    "examples": [
+      "Many professionals marry key methods to achieve consistent, high-quality results."
+    ]
+  },
+  {
+    "id": "rumor_noun",
+    "word": "rumor",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'ru:mә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rumor-us.mp3",
+    "definition_en": "Gossip (usually a mixture of truth and untruth) passed around by word of mouth",
+    "definition_zh": "n. 谣言, 传闻",
+    "examples": [
+      "Fresh rumor can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "rumors_noun",
+    "word": "rumors",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/ˈru:məz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rumors-us.mp3",
+    "definition_en": "N gossip (usually a mixture of truth and untruth) passed around by word of mouth",
+    "definition_zh": "n. <美>传闻( rumor的名词复数 ); 名誉; 咕哝; 喧嚷",
+    "examples": [
+      "Fresh rumors can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "stranger_noun",
+    "word": "stranger",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'streindʒә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stranger-us.mp3",
+    "definition_en": "Anyone who does not belong in the environment in which they are found",
+    "definition_zh": "n. 陌生人, 门外汉",
+    "examples": [
+      "Understanding stranger provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "strangers_noun",
+    "word": "strangers",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/st'reɪndʒəz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strangers-us.mp3",
+    "definition_en": "Anyone who does not belong in the environment in which they are found",
+    "definition_zh": "n. 陌生人( stranger的复数形式 ); 外地人, 初到者",
+    "examples": [
+      "Understanding strangers provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "acquaintance_noun",
+    "word": "acquaintance",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'pә:sәnli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personally-us.mp3",
-    "definition_en": "As yourself",
-    "definition_zh": "adv. 亲自地, 个别地, 当面, 就本人而言, 针对个人地",
+    "phonetic": "/ә'kweintәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acquaintance-us.mp3",
+    "definition_en": "Personal knowledge or information about someone or something",
+    "definition_zh": "n. 认识, 相识者",
     "examples": [
-      "Researchers systematically observed personally relevant patterns across trials."
+      "Recent breakthroughs in acquaintance have accelerated modern technological innovation."
     ]
   },
   {
-    "id": "personification_noun",
-    "word": "personification",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/pә:.sɒnifi'keiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personification-us.mp3",
-    "definition_en": "A person who represents an abstract quality",
-    "definition_zh": "n. 拟人, 人格化, 拟人法, 化身, 象征",
-    "examples": [
-      "Understanding personification provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "personify_verb",
-    "word": "personify",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/pә'sɒnifai/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personify-us.mp3",
-    "definition_en": "Attribute human qualities to something",
-    "definition_zh": "vt. 看做人, 赋与人性, 使人格化, 体现, 是...的化身",
-    "examples": [
-      "Many professionals personify key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "personnel_noun",
-    "word": "personnel",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/.pә:sә'nel/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personnel-us.mp3",
-    "definition_en": "N group of people willing to obey orders",
-    "definition_zh": "n. 人员, 人事部门, 人事科(处)",
-    "examples": [
-      "Understanding personnel provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "poison_noun",
-    "word": "poison",
+    "id": "enemies_noun",
+    "word": "enemies",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'pɒizn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/poison-us.mp3",
-    "definition_en": "Any substance that causes injury or illness or death of a living organism",
-    "definition_zh": "n. 毒药, 毒, 毒物, 有毒害的事物",
+    "phonetic": "/'enəmɪz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enemies-us.mp3",
+    "definition_en": "Pl.  of Enemy",
+    "definition_zh": "n. 仇敌( enemy的名词复数 ); 敌军; 危害物; 大敌",
     "examples": [
-      "Understanding poison provides valuable insights into everyday communication."
+      "Recent breakthroughs in enemies have accelerated modern technological innovation."
     ]
   },
   {
-    "id": "poison_verb",
-    "word": "poison",
-    "part_of_speech": "verb",
-    "level": "B2",
+    "id": "enemy_noun",
+    "word": "enemy",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'pɒizn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/poison-us.mp3",
-    "definition_en": "Spoil as if by poison",
-    "definition_zh": "vt. 毒害, 毒杀, 使中毒",
+    "phonetic": "/'enimi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enemy-us.mp3",
+    "definition_en": "An opposing military force",
+    "definition_zh": "n. 敌人, 仇敌, 敌军",
     "examples": [
-      "Many professionals poison key methods to achieve consistent, high-quality results."
+      "Understanding enemy provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "poisonous_adjective",
-    "word": "poisonous",
+    "id": "females_noun",
+    "word": "females",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'fi:meɪlz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/females-us.mp3",
+    "definition_en": "An animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)",
+    "definition_zh": "n. 雌性动物( female的复数形式 ); 女人",
+    "examples": [
+      "Fresh females can be incorporated into a wide variety of delicious recipes."
+    ]
+  },
+  {
+    "id": "kiss_verb",
+    "word": "kiss",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/kis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kiss-us.mp3",
+    "definition_en": "The act of caressing with the lips (or an instance thereof)",
+    "definition_zh": "vt. 吻",
+    "examples": [
+      "Many professionals kiss key methods to achieve consistent, high-quality results."
+    ]
+  },
+  {
+    "id": "male_adjective",
+    "word": "male",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'pɒizәnәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/poisonous-us.mp3",
-    "definition_en": "Having the qualities or effects of a poison",
-    "definition_zh": "a. 有毒的, 恶毒的, 讨厌的",
+    "phonetic": "/meil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/male-us.mp3",
+    "definition_en": "Being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation",
+    "definition_zh": "a. 男性的, 雄性的, 有力的",
     "examples": [
-      "The committee analyzed a highly poisonous perspective during the forum."
+      "The committee analyzed a highly male perspective during the forum."
     ]
   },
   {
-    "id": "quarrel_noun",
-    "word": "quarrel",
+    "id": "marriage_noun",
+    "word": "marriage",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'kwɒrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quarrel-us.mp3",
-    "definition_en": "An angry dispute",
-    "definition_zh": "n. 吵架, 反目, 怨言, 方头凿",
+    "phonetic": "/'mæridʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marriage-us.mp3",
+    "definition_en": "The state of being a married couple voluntarily joined for life (or until divorce)",
+    "definition_zh": "n. 婚姻, 结婚, 婚礼, 合并",
     "examples": [
-      "Understanding quarrel provides valuable insights into everyday communication."
+      "Understanding marriage provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "quarrel_verb",
-    "word": "quarrel",
-    "part_of_speech": "verb",
-    "level": "B2",
+    "id": "nephew_noun",
+    "word": "nephew",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'kwɒrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quarrel-us.mp3",
-    "definition_en": "Have a disagreement over something",
-    "definition_zh": "vi. 吵架, 争论, 挑剔",
+    "phonetic": "/'nefju:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nephew-us.mp3",
+    "definition_en": "A son of your brother or sister",
+    "definition_zh": "n. 侄子, 外甥",
     "examples": [
-      "Many professionals quarrel key methods to achieve consistent, high-quality results."
+      "Recent breakthroughs in nephew have accelerated modern technological innovation."
     ]
   },
   {
-    "id": "quarrelsome_adjective",
-    "word": "quarrelsome",
+    "id": "niece_noun",
+    "word": "niece",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/ni:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/niece-us.mp3",
+    "definition_en": "A daughter of your brother or sister",
+    "definition_zh": "n. 侄女, 甥女",
+    "examples": [
+      "Understanding niece provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "parental_adjective",
+    "word": "parental",
     "part_of_speech": "adjective",
-    "level": "B2",
+    "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'kwɒrәlsәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quarrelsome-us.mp3",
-    "definition_en": "Given to quarreling",
-    "definition_zh": "a. 喜欢吵架的, 好争论的",
+    "phonetic": "/pә'rentәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parental-us.mp3",
+    "definition_en": "Designating the generation of organisms from which hybrid offspring are produced",
+    "definition_zh": "a. 父母亲的, 做双亲的, 作为渊源的",
     "examples": [
-      "The committee analyzed a highly quarrelsome perspective during the forum."
+      "The committee analyzed a highly parental perspective during the forum."
     ]
   },
   {
@@ -1149,745 +841,17 @@
     ]
   },
   {
-    "id": "relatively_adverb",
-    "word": "relatively",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'relәtivli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relatively-us.mp3",
-    "definition_en": "In a relative manner; by comparison to something else",
-    "definition_zh": "adv. 相对地, 比较地, 相当地, 相关地",
-    "examples": [
-      "Researchers systematically observed relatively relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "resonant_adjective",
-    "word": "resonant",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'rezәnәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resonant-us.mp3",
-    "definition_en": "Characterized by resonance",
-    "definition_zh": "a. 共鸣的, 反响的, 洪亮的, 共振的",
-    "examples": [
-      "The committee analyzed a highly resonant perspective during the forum."
-    ]
-  },
-  {
-    "id": "rival_noun",
-    "word": "rival",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'raivl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rival-us.mp3",
-    "definition_en": "The contestant you hope to defeat",
-    "definition_zh": "n. 对手, 竞争者",
-    "examples": [
-      "Understanding rival provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "salesperson_noun",
-    "word": "salesperson",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'seilzpә:sәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salesperson-us.mp3",
-    "definition_en": "A person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited)",
-    "definition_zh": "n. 售货员",
-    "examples": [
-      "Understanding salesperson provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "screw_noun",
-    "word": "screw",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/skru:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/screw-us.mp3",
-    "definition_en": "A simple machine of the inclined-plane type consisting of a spirally threaded cylindrical rod that engages with a similarly threaded hole",
-    "definition_zh": "n. 螺旋, 螺杆, 螺钉, 螺旋桨, 吝啬鬼",
-    "examples": [
-      "Understanding screw provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "screw_verb",
-    "word": "screw",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/skru:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/screw-us.mp3",
-    "definition_en": "Turn like a screw",
-    "definition_zh": "vt. 调节, 扭紧, 旋, 拧, 加强, 压榨, 勒索",
-    "examples": [
-      "Many professionals screw key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "season_noun",
-    "word": "season",
+    "id": "relatives_noun",
+    "word": "relatives",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'si:zn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/season-us.mp3",
-    "definition_en": "A period of the year marked by special events or activities in some field",
-    "definition_zh": "n. 季节, 时节, 当令期, 时期",
+    "phonetic": "/relatives/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relatives-us.mp3",
+    "definition_en": "N a person related by blood or marriage",
+    "definition_zh": "n. 亲属；[语法学]关系词（relative的复数）",
     "examples": [
-      "Understanding season provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "seasonal_adjective",
-    "word": "seasonal",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'si:znәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seasonal-us.mp3",
-    "definition_en": "Occurring at or dependent on a particular season",
-    "definition_zh": "a. 季节的, 依照季节的, 周期性的",
-    "examples": [
-      "The committee analyzed a highly seasonal perspective during the forum."
-    ]
-  },
-  {
-    "id": "sister_noun",
-    "word": "sister",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sistә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sister-us.mp3",
-    "definition_en": "A female person who has the same parents as another person",
-    "definition_zh": "n. 姐妹, 姐, 妹, 护士, 修女",
-    "examples": [
-      "Understanding sister provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "sister-in-law_noun",
-    "word": "sister-in-law",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/sister-in-law/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sister-in-law-us.mp3",
-    "definition_en": "The sister of your spouse",
-    "definition_zh": "n. 夫(或妻)的姊妹, 嫂子, 弟媳",
-    "examples": [
-      "Understanding sister-in-law provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "social_adjective",
-    "word": "social",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sәuʃәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/social-us.mp3",
-    "definition_en": "Relating to human society and its members",
-    "definition_zh": "a. 社会的, 群居的, 社交的",
-    "examples": [
-      "The committee analyzed a highly social perspective during the forum."
-    ]
-  },
-  {
-    "id": "socialize_verb",
-    "word": "socialize",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sәuʃәlaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/socialize-us.mp3",
-    "definition_en": "Take part in social activities; interact with others",
-    "definition_zh": "vt. 使社会化, 使社会主义化, 使适合社会需要",
-    "examples": [
-      "Many professionals socialize key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "socially_adverb",
-    "word": "socially",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sәuʃәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/socially-us.mp3",
-    "definition_en": "By or with respect to society",
-    "definition_zh": "adv. 在社会上, 在社交上, 以社会生活方式",
-    "examples": [
-      "Researchers systematically observed socially relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "son_noun",
-    "word": "son",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/sʌn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/son-us.mp3",
-    "definition_en": "A male human offspring",
-    "definition_zh": "n. 儿子, 女婿, 子孙",
-    "examples": [
-      "Understanding son provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "sonnet_noun",
-    "word": "sonnet",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sɒnit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sonnet-us.mp3",
-    "definition_en": "A verse form consisting of 14 lines with a fixed rhyme scheme",
-    "definition_zh": "n. 十四行诗",
-    "examples": [
-      "Understanding sonnet provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "steam_noun",
-    "word": "steam",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/sti:m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steam-us.mp3",
-    "definition_en": "Water at boiling temperature diffused in the atmosphere",
-    "definition_zh": "n. 蒸汽, 精力",
-    "examples": [
-      "Understanding steam provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "stepfather_noun",
-    "word": "stepfather",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'step,fɑ:ðә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stepfather-us.mp3",
-    "definition_en": "The husband of your mother by a subsequent marriage",
-    "definition_zh": "n. 继父",
-    "examples": [
-      "Understanding stepfather provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "stepmother_noun",
-    "word": "stepmother",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'step.mʌðә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stepmother-us.mp3",
-    "definition_en": "The wife of your father by a subsequent marriage",
-    "definition_zh": "n. 继母",
-    "examples": [
-      "Understanding stepmother provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "stranger_noun",
-    "word": "stranger",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'streindʒә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stranger-us.mp3",
-    "definition_en": "Anyone who does not belong in the environment in which they are found",
-    "definition_zh": "n. 陌生人, 门外汉",
-    "examples": [
-      "Understanding stranger provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "team_noun",
-    "word": "team",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ti:m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/team-us.mp3",
-    "definition_en": "A cooperative unit (especially in sports)",
-    "definition_zh": "n. 队, 组",
-    "examples": [
-      "Understanding team provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "teammate_noun",
-    "word": "teammate",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'ti:mmeit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teammate-us.mp3",
-    "definition_en": "A fellow member of a team",
-    "definition_zh": "n. 队友",
-    "examples": [
-      "Understanding teammate provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "teamwork_noun",
-    "word": "teamwork",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'ti:mwә:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teamwork-us.mp3",
-    "definition_en": "Cooperative work done by a team (especially when it is effective)",
-    "definition_zh": "n. 协同作业, 协力",
-    "examples": [
-      "Understanding teamwork provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "transparent_adjective",
-    "word": "transparent",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/træns'pærәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transparent-us.mp3",
-    "definition_en": "Easily understood or seen through (because of a lack of subtlety)",
-    "definition_zh": "a. 透明的, 显然的, 清晰的",
-    "examples": [
-      "The committee analyzed a highly transparent perspective during the forum."
-    ]
-  },
-  {
-    "id": "trust_noun",
-    "word": "trust",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/trʌst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trust-us.mp3",
-    "definition_en": "Something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)",
-    "definition_zh": "n. 信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯",
-    "examples": [
-      "Understanding trust provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "trust_verb",
-    "word": "trust",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/trʌst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trust-us.mp3",
-    "definition_en": "Have confidence or faith in",
-    "definition_zh": "vt. 信赖, 信任, 相信, 盼望, 赊卖给",
-    "examples": [
-      "Many professionals trust key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "trustworthy_adjective",
-    "word": "trustworthy",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'trʌst.wә:ði/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trustworthy-us.mp3",
-    "definition_en": "Worthy of trust or belief",
-    "definition_zh": "a. 可信赖的",
-    "examples": [
-      "The committee analyzed a highly trustworthy perspective during the forum."
-    ]
-  },
-  {
-    "id": "trusty_adjective",
-    "word": "trusty",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'trʌsti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trusty-us.mp3",
-    "definition_en": "A convict who is considered trustworthy and granted special privileges",
-    "definition_zh": "a. 可信任的, 可信赖的, 可靠的",
-    "examples": [
-      "The committee analyzed a highly trusty perspective during the forum."
-    ]
-  },
-  {
-    "id": "unfriendly_adjective",
-    "word": "unfriendly",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/.ʌn'frendli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unfriendly-us.mp3",
-    "definition_en": "Not easy to understand or use",
-    "definition_zh": "adv. 不友善地",
-    "examples": [
-      "The committee analyzed a highly unfriendly perspective during the forum."
-    ]
-  },
-  {
-    "id": "wife_noun",
-    "word": "wife",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/waif/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wife-us.mp3",
-    "definition_en": "A married woman; a man's partner in marriage",
-    "definition_zh": "n. 妻子, 太太, 夫人",
-    "examples": [
-      "Understanding wife provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "resonate_verb",
-    "word": "resonate",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'rezәneit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resonate-us.mp3",
-    "definition_en": "Sound with resonance",
-    "definition_zh": "v. (使)共鸣, (使)共振",
-    "examples": [
-      "Many professionals resonate key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "unison_noun",
-    "word": "unison",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'ju:nisn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unison-us.mp3",
-    "definition_en": "Corresponding exactly",
-    "definition_zh": "n. 调和, 和谐, 一致, 齐唱, 齐奏",
-    "examples": [
-      "Understanding unison provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "liaison_noun",
-    "word": "liaison",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/li:'eizɒn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liaison-us.mp3",
-    "definition_en": "A channel for communication between groups",
-    "definition_zh": "n. 联络",
-    "examples": [
-      "Understanding liaison provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "impersonal_adjective",
-    "word": "impersonal",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/im'pә:sәnәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impersonal-us.mp3",
-    "definition_en": "Not relating to or responsive to individual persons",
-    "definition_zh": "a. 客观的, 和个人无关的, 没有人情味的, 非人称的",
-    "examples": [
-      "The committee analyzed a highly impersonal perspective during the forum."
-    ]
-  },
-  {
-    "id": "impersonally_adverb",
-    "word": "impersonally",
-    "part_of_speech": "adverb",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/impersonally/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impersonally-us.mp3",
-    "definition_en": "Without warmth",
-    "definition_zh": "adv. 与个人无关地",
-    "examples": [
-      "Researchers systematically observed impersonally relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "impersonate_verb",
-    "word": "impersonate",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/im'pә:sәneit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impersonate-us.mp3",
-    "definition_en": "Assume or act the character of",
-    "definition_zh": "vt. 模仿, 扮演, 体现, 使人格化",
-    "examples": [
-      "Many professionals impersonate key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "impersonator_noun",
-    "word": "impersonator",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/impersonator/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impersonator-us.mp3",
-    "definition_en": "Someone who (fraudulently) assumes the appearance of another",
-    "definition_zh": "n. 演员；模拟艺人",
-    "examples": [
-      "Understanding impersonator provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "impersonation_noun",
-    "word": "impersonation",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/im.pә:sә'neiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impersonation-us.mp3",
-    "definition_en": "Imitating the mannerisms of another person",
-    "definition_zh": "n. 扮演, 装扮, 模仿",
-    "examples": [
-      "Understanding impersonation provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "personalize_verb",
-    "word": "personalize",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'pә:sәnәlaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personalize-us.mp3",
-    "definition_en": "Make personal or more personal",
-    "definition_zh": "vt. (贬)使个人化, 体现, 使人格化, 在(物品)上标明姓名/标出地址/标出记号",
-    "examples": [
-      "Many professionals personalize key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "personalization_noun",
-    "word": "personalization",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/personalization/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personalization-us.mp3",
-    "definition_en": "Denoting personalization; widely used in Interpersonal & Social.",
-    "definition_zh": "[医] 人格化",
-    "examples": [
-      "Understanding personalization provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "socialization_noun",
-    "word": "socialization",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/.sәuʃәlai'zeiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/socialization-us.mp3",
-    "definition_en": "The action of establishing on a socialist basis",
-    "definition_zh": "n. 社会化, 社会主义化",
-    "examples": [
-      "Understanding socialization provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "midwife_noun",
-    "word": "midwife",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'midwaif/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/midwife-us.mp3",
-    "definition_en": "A woman skilled in aiding the delivery of babies",
-    "definition_zh": "n. 助产士, 接生婆",
-    "examples": [
-      "Understanding midwife provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "midwifery_noun",
-    "word": "midwifery",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'midwaifәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/midwifery-us.mp3",
-    "definition_en": "Assisting women at childbirth",
-    "definition_zh": "n. 助产术, 产科学",
-    "examples": [
-      "Understanding midwifery provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "children_noun",
-    "word": "children",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'tʃildrәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/children-us.mp3",
-    "definition_en": "N a young person of either sex",
-    "definition_zh": "pl. 孩子, 孩子们",
-    "examples": [
-      "Understanding children provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "persons_noun",
-    "word": "persons",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/persons/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/persons-us.mp3",
-    "definition_en": "N a human being",
-    "definition_zh": "n. 人员；人们（person的复数）",
-    "examples": [
-      "Understanding persons provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "friends_noun",
-    "word": "friends",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/friends/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friends-us.mp3",
-    "definition_en": "N a person you know well and regard with affection and trust",
-    "definition_zh": "n. 老友记（剧集）",
-    "examples": [
-      "Understanding friends provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "parents_noun",
-    "word": "parents",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/parents/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parents-us.mp3",
-    "definition_en": "N a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian",
-    "definition_zh": "n. 父母；双亲（parent的复数）",
-    "examples": [
-      "Understanding parents provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "social_noun",
-    "word": "social",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sәuʃәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/social-us.mp3",
-    "definition_en": "Relating to human society and its members",
-    "definition_zh": "n. 联欢会",
-    "examples": [
-      "Understanding social provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "meetings_noun",
-    "word": "meetings",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/meetings/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meetings-us.mp3",
-    "definition_en": "N a formally arranged gathering",
-    "definition_zh": "n. 会议, 集会, 会见（meeting的复数形式）",
-    "examples": [
-      "Understanding meetings provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "sons_noun",
-    "word": "sons",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/sons/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sons-us.mp3",
-    "definition_en": "N a male human offspring",
-    "definition_zh": "n. 儿子们（son的复数）；子弟",
-    "examples": [
-      "Understanding sons provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "argued_verb",
-    "word": "argued",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/argued/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/argued-us.mp3",
-    "definition_en": "Imp. & p. p. of Argue",
-    "definition_zh": "争论",
-    "examples": [
-      "Many professionals argued key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "brothers_noun",
-    "word": "brothers",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/brothers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brothers-us.mp3",
-    "definition_en": "N a male with the same parents as someone else",
-    "definition_zh": "n. 哥们儿, 兄弟",
-    "examples": [
-      "Understanding brothers provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "partners_noun",
-    "word": "partners",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/partners/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/partners-us.mp3",
-    "definition_en": "N a person's partner in marriage",
-    "definition_zh": "n. 合作伙伴；合伙人；伙伴（partner的复数形式）",
-    "examples": [
-      "Understanding partners provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "trustees_noun",
-    "word": "trustees",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/trʌsˈti:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trustees-us.mp3",
-    "definition_en": "A person (or institution) to whom legal title to property is entrusted to use for another's benefit",
-    "definition_zh": "n. 受托人( trustee的复数形式 ); 信托公司; （公司、学院）理事; （慈善事业或其他机构的）受托人",
-    "examples": [
-      "Understanding trustees provides valuable insights into everyday communication."
+      "Understanding relatives provides valuable insights into everyday communication."
     ]
   },
   {
@@ -1905,283 +869,101 @@
     ]
   },
   {
-    "id": "trustee_noun",
-    "word": "trustee",
+    "id": "community_noun",
+    "word": "community",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/.trʌs'ti:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trustee-us.mp3",
-    "definition_en": "A person (or institution) to whom legal title to property is entrusted to use for another's benefit",
-    "definition_zh": "n. 受托人, 理事",
+    "phonetic": "/kә'mju:niti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/community-us.mp3",
+    "definition_en": "A group of people living in a particular local area",
+    "definition_zh": "n. 社区, 公众, 共有, 共同体",
     "examples": [
-      "Understanding trustee provides valuable insights into everyday communication."
+      "Understanding community provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "mothers_noun",
-    "word": "mothers",
+    "id": "crew_noun",
+    "word": "crew",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/mothers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mothers-us.mp3",
-    "definition_en": "N a woman who has given birth to a child (also used as a term of address to your mother)",
-    "definition_zh": "n. 母亲；根源（mother的复数）",
+    "phonetic": "/kru:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crew-us.mp3",
+    "definition_en": "The men and women who man a vehicle (ship, aircraft, etc.)",
+    "definition_zh": "n. 全体人员, 一群人, 全体队员",
     "examples": [
-      "Understanding mothers provides valuable insights into everyday communication."
+      "Understanding crew provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "meeting_verb",
-    "word": "meeting",
+    "id": "divorce_noun",
+    "word": "divorce",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/di'vɒ:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divorce-us.mp3",
+    "definition_en": "The legal dissolution of a marriage",
+    "definition_zh": "n. 离婚",
+    "examples": [
+      "Understanding divorce provides valuable insights into everyday communication."
+    ]
+  },
+  {
+    "id": "divorce_verb",
+    "word": "divorce",
     "part_of_speech": "verb",
-    "level": "A1",
+    "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'mi:tiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meeting-us.mp3",
-    "definition_en": "A formally arranged gathering",
-    "definition_zh": "n. 会议, 会面",
+    "phonetic": "/di'vɒ:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divorce-us.mp3",
+    "definition_en": "Get a divorce; formally terminate a marriage",
+    "definition_zh": "vt. 与...离婚",
     "examples": [
-      "Many professionals meeting key methods to achieve consistent, high-quality results."
+      "Many professionals divorce key methods to achieve consistent, high-quality results."
     ]
   },
   {
-    "id": "personal_noun",
-    "word": "personal",
+    "id": "female_noun",
+    "word": "female",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'pә:snl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personal-us.mp3",
-    "definition_en": "A short newspaper article about a particular person or group",
-    "definition_zh": "a. 私人的, 涉及隐私的, 有人性的, 人称的, 亲自的, 身体的",
+    "phonetic": "/'fi:meil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/female-us.mp3",
+    "definition_en": "An animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)",
+    "definition_zh": "n. 女性, 女人, 雌性动物",
     "examples": [
-      "Understanding personal provides valuable insights into everyday communication."
+      "Fresh female can be incorporated into a wide variety of delicious recipes."
     ]
   },
   {
-    "id": "argues_verb",
-    "word": "argues",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ˈɑ:ɡju:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/argues-us.mp3",
-    "definition_en": "V present reasons and arguments",
-    "definition_zh": "v. 争吵, 辩论( argue的第三人称单数 ); 坚决主张; 提出理由证明; 说服",
-    "examples": [
-      "Many professionals argues key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "teams_noun",
-    "word": "teams",
+    "id": "hug_noun",
+    "word": "hug",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/teams/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teams-us.mp3",
-    "definition_en": "N a cooperative unit (especially in sports)",
-    "definition_zh": "n. 团队, 参赛队伍（team的复数形式）",
+    "phonetic": "/hʌg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hug-us.mp3",
+    "definition_en": "A tight or amorous embrace",
+    "definition_zh": "n. 紧抱, 拥抱",
     "examples": [
-      "Understanding teams provides valuable insights into everyday communication."
+      "Understanding hug provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "sisters_noun",
-    "word": "sisters",
+    "id": "peer_noun",
+    "word": "peer",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/sisters/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sisters-us.mp3",
-    "definition_en": "N a female person who has the same parents as another person",
-    "definition_zh": "n. 姐妹们（sister的复数形式）",
+    "phonetic": "/piә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peer-us.mp3",
+    "definition_en": "A person who is of equal standing with another in a group",
+    "definition_zh": "n. 同等的人, 匹敌, 贵族",
     "examples": [
-      "Understanding sisters provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "meets_verb",
-    "word": "meets",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/mi:ts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meets-us.mp3",
-    "definition_en": "N a meeting at which a number of athletic contests are held",
-    "definition_zh": "v. 相遇( meet的第三人称单数 ); 相识; 开会; 接触（某物）",
-    "examples": [
-      "Many professionals meets key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "daughters_noun",
-    "word": "daughters",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/daughters/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/daughters-us.mp3",
-    "definition_en": "N a female human offspring",
-    "definition_zh": "n. 女儿们（歌曲名）；枕边杀机（电影名）",
-    "examples": [
-      "Understanding daughters provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "fathers_noun",
-    "word": "fathers",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ˈfɑ:ðəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fathers-us.mp3",
-    "definition_en": "N a male parent (also used as a term of address to your father)",
-    "definition_zh": "n. 父亲( father的名词复数 ); 祖先; （尤指天主教和东正教的）神父; 天父",
-    "examples": [
-      "Understanding fathers provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "relatives_noun",
-    "word": "relatives",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/relatives/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relatives-us.mp3",
-    "definition_en": "N a person related by blood or marriage",
-    "definition_zh": "n. 亲属；[语法学]关系词（relative的复数）",
-    "examples": [
-      "Understanding relatives provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "comparisons_noun",
-    "word": "comparisons",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/kəm'pærɪsnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/comparisons-us.mp3",
-    "definition_en": "The act of examining resemblances",
-    "definition_zh": "n. 比较( comparison的复数形式 ); [修辞学]比喻; [语法学]（形容词或副词的）比较等级; 类似",
-    "examples": [
-      "Understanding comparisons provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "neighbors_noun",
-    "word": "neighbors",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/neighbors/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neighbors-us.mp3",
-    "definition_en": "N a person who lives (or is located) near another",
-    "definition_zh": "n. 街坊邻里, 邻居；邻国；邻元素（neighbor的复数）",
-    "examples": [
-      "Understanding neighbors provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "resonance_noun",
-    "word": "resonance",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'rezәnәns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resonance-us.mp3",
-    "definition_en": "An excited state of a stable particle causing a sharp maximum in the probability of absorption of electromagnetic radiation",
-    "definition_zh": "n. 共鸣, 回声, 反响, 谐振, 共振",
-    "examples": [
-      "Understanding resonance provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "seasons_noun",
-    "word": "seasons",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/seasons/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seasons-us.mp3",
-    "definition_en": "N a period of the year marked by special events or activities in some field",
-    "definition_zh": "n. 季节, 四季",
-    "examples": [
-      "Understanding seasons provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "socialism_noun",
-    "word": "socialism",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sәuʃәlizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/socialism-us.mp3",
-    "definition_en": "A political theory advocating state ownership of industry",
-    "definition_zh": "n. 社会主义, 社会主义运动",
-    "examples": [
-      "Understanding socialism provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "kissed_verb",
-    "word": "kissed",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/kissed/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kissed-us.mp3",
-    "definition_en": "V touch with the lips or press the lips (against someone's mouth or other body part) as an expression of love, greeting, etc.",
-    "definition_zh": "v. 吻；接吻；轻拂（kiss的过去分词）",
-    "examples": [
-      "Many professionals kissed key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "trusts_noun",
-    "word": "trusts",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/trʌsts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trusts-us.mp3",
-    "definition_en": "N something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)",
-    "definition_zh": "n. 信任( trust的名词复数 ); 信托; 照管; 受托基金机构",
-    "examples": [
-      "Understanding trusts provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "trusted_verb",
-    "word": "trusted",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/trusted/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trusted-us.mp3",
-    "definition_en": "V have confidence or faith in",
-    "definition_zh": "a. 可信的；受信任的",
-    "examples": [
-      "Many professionals trusted key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "marriages_noun",
-    "word": "marriages",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ˈmæridʒz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marriages-us.mp3",
-    "definition_en": "The state of being a married couple voluntarily joined for life (or until divorce)",
-    "definition_zh": "n. 结婚( marriage的复数形式 ); 婚姻状况; 婚礼",
-    "examples": [
-      "Understanding marriages provides valuable insights into everyday communication."
+      "Understanding peer provides valuable insights into everyday communication."
     ]
   },
   {
@@ -2199,241 +981,45 @@
     ]
   },
   {
-    "id": "crowded_verb",
-    "word": "crowded",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'kraudid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crowded-us.mp3",
-    "definition_en": "Overfilled or compacted or concentrated",
-    "definition_zh": "a. 拥挤的, 塞满的",
-    "examples": [
-      "Many professionals crowded key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "strangers_noun",
-    "word": "strangers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/st'reɪndʒəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strangers-us.mp3",
-    "definition_en": "Anyone who does not belong in the environment in which they are found",
-    "definition_zh": "n. 陌生人( stranger的复数形式 ); 外地人, 初到者",
-    "examples": [
-      "Understanding strangers provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "partnerships_noun",
-    "word": "partnerships",
+    "id": "quarrel_noun",
+    "word": "quarrel",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/ˈpɑ:tnəʃips/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/partnerships-us.mp3",
-    "definition_en": "The members of a business venture created by contract",
-    "definition_zh": "n. 伙伴关系( partnership的复数形式 ); 合伙人身份; 合作关系",
+    "phonetic": "/'kwɒrәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quarrel-us.mp3",
+    "definition_en": "An angry dispute",
+    "definition_zh": "n. 吵架, 反目, 怨言, 方头凿",
     "examples": [
-      "Understanding partnerships provides valuable insights into everyday communication."
+      "Understanding quarrel provides valuable insights into everyday communication."
     ]
   },
   {
-    "id": "husbands_noun",
-    "word": "husbands",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/husbands/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/husbands-us.mp3",
-    "definition_en": "N a married man; a woman's partner in marriage",
-    "definition_zh": "n. 丈夫；节俭的人（husband的复数）",
-    "examples": [
-      "Understanding husbands provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "crews_noun",
-    "word": "crews",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/crews/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crews-us.mp3",
-    "definition_en": "N the men and women who man a vehicle (ship, aircraft, etc.)",
-    "definition_zh": "n. 一起工作的人, 一群做同一工作的人",
-    "examples": [
-      "Understanding crews provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "parsons_noun",
-    "word": "parsons",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/parsons/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parsons-us.mp3",
-    "definition_en": "United States sociologist (1902-1979)",
-    "definition_zh": "n. 帕森斯（姓氏）",
-    "examples": [
-      "Understanding parsons provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "greeted_verb",
-    "word": "greeted",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ɡ'ri:tɪd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/greeted-us.mp3",
-    "definition_en": "Imp. & p. p. of Greet",
-    "definition_zh": "v. 欢迎( greet的过去式和过去分词 ); 迎接; 致意; （以某种方式）对…作出反应",
-    "examples": [
-      "Many professionals greeted key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "steamer_noun",
-    "word": "steamer",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sti:mә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steamer-us.mp3",
-    "definition_en": "A cooking utensil that can be used to cook food by steaming it",
-    "definition_zh": "n. 汽船, 蒸汽机",
-    "examples": [
-      "Understanding steamer provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "entrusted_verb",
-    "word": "entrusted",
-    "part_of_speech": "verb",
-    "level": "C2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ɪnˈtrʌstid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/entrusted-us.mp3",
-    "definition_en": "V confer a trust upon",
-    "definition_zh": "v. 委托, 托付( entrust的过去式和过去分词 )",
-    "examples": [
-      "Many professionals entrusted key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "neighboring_verb",
-    "word": "neighboring",
+    "id": "quarrel_verb",
+    "word": "quarrel",
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'neibәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neighboring-us.mp3",
-    "definition_en": "V live or be located as a neighbor",
-    "definition_zh": "a. 附近的, 邻近的, 邻接的",
+    "phonetic": "/'kwɒrәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quarrel-us.mp3",
+    "definition_en": "Have a disagreement over something",
+    "definition_zh": "vi. 吵架, 争论, 挑剔",
     "examples": [
-      "Many professionals neighboring key methods to achieve consistent, high-quality results."
+      "Many professionals quarrel key methods to achieve consistent, high-quality results."
     ]
   },
   {
-    "id": "personalities_noun",
-    "word": "personalities",
+    "id": "rival_noun",
+    "word": "rival",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/personalities/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personalities-us.mp3",
-    "definition_en": "N the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual",
-    "definition_zh": "n. 人身攻击, 诽谤",
+    "phonetic": "/'raivl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rival-us.mp3",
+    "definition_en": "The contestant you hope to defeat",
+    "definition_zh": "n. 对手, 竞争者",
     "examples": [
-      "Understanding personalities provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "divorced_verb",
-    "word": "divorced",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/divorced/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divorced-us.mp3",
-    "definition_en": "Of someone whose marriage has been legally dissolved",
-    "definition_zh": "a. 离婚的",
-    "examples": [
-      "Many professionals divorced key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "crowds_noun",
-    "word": "crowds",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/kraudz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crowds-us.mp3",
-    "definition_en": "N a large number of things or people considered together",
-    "definition_zh": "n. 人群( crowd的名词复数 ); 群众; 一群; 听众",
-    "examples": [
-      "Understanding crowds provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "steamship_noun",
-    "word": "steamship",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sti:mʃip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steamship-us.mp3",
-    "definition_en": "N a ship powered by one or more steam engines",
-    "definition_zh": "n. 汽船, 轮船",
-    "examples": [
-      "Understanding steamship provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "neighborhoods_noun",
-    "word": "neighborhoods",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'neɪbɔ:hʊdz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neighborhoods-us.mp3",
-    "definition_en": "A surrounding or nearby region",
-    "definition_zh": "n. 地区( neighborhood的复数形式 ); 某地区的人; 与某处邻近的地区; 临近街坊",
-    "examples": [
-      "Understanding neighborhoods provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "antitrust_adjective",
-    "word": "antitrust",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/.ænti'trʌst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antitrust-us.mp3",
-    "definition_en": "S of laws and regulations; designed to protect trade and commerce from unfair business practices",
-    "definition_zh": "a. 反托拉斯的",
-    "examples": [
-      "The committee analyzed a highly antitrust perspective during the forum."
-    ]
-  },
-  {
-    "id": "screws_noun",
-    "word": "screws",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/screws/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/screws-us.mp3",
-    "definition_en": "N someone who guards prisoners",
-    "definition_zh": "n. 潜水员病；螺丝；螺旋体（screw的复数）",
-    "examples": [
-      "Understanding screws provides valuable insights into everyday communication."
+      "Understanding rival provides valuable insights into everyday communication."
     ]
   },
   {
@@ -2451,48 +1037,6 @@
     ]
   },
   {
-    "id": "parent_adjective",
-    "word": "parent",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'perәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parent-us.mp3",
-    "definition_en": "A father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian",
-    "definition_zh": "n. 父母, 父母亲, 根源",
-    "examples": [
-      "The committee analyzed a highly parent perspective during the forum."
-    ]
-  },
-  {
-    "id": "parentheses_noun",
-    "word": "parentheses",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/pә'renθisi:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parentheses-us.mp3",
-    "definition_en": "N either of two punctuation marks (or) used to enclose textual material",
-    "definition_zh": "pl. 圆括号, 插入语, 插曲",
-    "examples": [
-      "Understanding parentheses provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "kissing_verb",
-    "word": "kissing",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'kisiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kissing-us.mp3",
-    "definition_en": "N affectionate play (or foreplay without contact with the genital organs)",
-    "definition_zh": "a. 接吻的",
-    "examples": [
-      "Many professionals kissing key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
     "id": "rivals_noun",
     "word": "rivals",
     "part_of_speech": "noun",
@@ -2504,62 +1048,6 @@
     "definition_zh": "n. 竞争对手( rival的名词复数 )",
     "examples": [
       "Understanding rivals provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "seasonally_adverb",
-    "word": "seasonally",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/seasonally/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seasonally-us.mp3",
-    "definition_en": "Depending on the season",
-    "definition_zh": "adv. 季节性地；周期性地",
-    "examples": [
-      "Researchers systematically observed seasonally relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "grandchildren_noun",
-    "word": "grandchildren",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/.tʃildrәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grandchildren-us.mp3",
-    "definition_en": "N a child of your son or daughter",
-    "definition_zh": "n. 孙子, 孙辈",
-    "examples": [
-      "Understanding grandchildren provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "grandparents_noun",
-    "word": "grandparents",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/grandparents/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grandparents-us.mp3",
-    "definition_en": "N a parent of your father or mother",
-    "definition_zh": "n. 外祖父母；祖父母（grandparent的复数）",
-    "examples": [
-      "Understanding grandparents provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "steamers_noun",
-    "word": "steamers",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/s'ti:məz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steamers-us.mp3",
-    "definition_en": "A clam that is usually steamed in the shell",
-    "definition_zh": "n. 汽船( steamer的复数形式 ); 大轮船; 汽锅; 蒸锅",
-    "examples": [
-      "Understanding steamers provides valuable insights into everyday communication."
     ]
   }
 ]
