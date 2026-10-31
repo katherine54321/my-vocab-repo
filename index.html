@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>VocabMatrix 词汇矩阵 - CEFR × 主题场景单词应用</title>
+
+  <!-- PWA & Mobile Web App Meta -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#2563eb">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="VocabMatrix">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/svg+xml" href="icons/favicon.svg">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+
+  <link rel="stylesheet" href="style.css?v=6.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Top Navigation Bar -->
+  <header class="navbar">
+    <div class="nav-container">
+      <div class="brand">
+        <div class="brand-logo">
+          <span class="logo-icon">🗂️</span>
+        </div>
+        <div class="brand-text">
+          <h1>VocabMatrix <span>词界矩阵</span></h1>
+          <p class="tagline">EVP 权威难度骨架 × Wiktionary 详尽释义血肉</p>
+        </div>
+      </div>
+
+      <!-- Total Vocabulary Stat Badge -->
+      <div class="nav-stat-pill" title="词库已收录全量词汇">
+        <span class="pulse-dot"></span>
+        <span class="stat-text">词库总量：<strong id="navTotalCount">0</strong> 词</span>
+      </div>
+
+      <!-- Mode Switcher (Desktop) -->
+      <nav class="nav-modes">
+        <button class="nav-btn active" data-view="browse" id="btnViewBrowse">
+          <span class="icon">🔍</span> 交叉探索
+        </button>
+        <button class="nav-btn" data-view="matrix" id="btnViewMatrix">
+          <span class="icon">📊</span> 难度矩阵
+        </button>
+        <button class="nav-btn" data-view="flashcards" id="btnViewFlashcards">
+          <span class="icon">🃏</span> 抽认卡刷词
+        </button>
+        <button class="nav-btn" data-view="quiz" id="btnViewQuiz">
+          <span class="icon">⚡</span> 词汇自测
+        </button>
+      </nav>
+
+      <!-- Search & Bookmarks -->
+      <div class="nav-actions">
+        <div class="search-box">
+          <span class="search-icon">🔎</span>
+          <input type="text" id="searchInput" placeholder="搜索单词、释义或例句..." />
+          <button id="clearSearch" class="clear-btn" style="display:none;">×</button>
+        </div>
+        <button class="action-badge-btn pwa-install-btn" id="pwaInstallBtn" title="添加到手机主屏幕使用">
+          📲 <span id="pwaInstallText">添加到主屏幕</span>
+        </button>
+        <button class="action-badge-btn cdn-badge-btn" id="cdnSettingsBtn" title="GitHub + CDN 边缘分发与本地缓存配置">
+          🌐 <span id="cdnStatusText">云端 CDN / 缓存</span>
+        </button>
+        <button class="action-badge-btn" id="favFilterBtn" title="查看收藏词汇">
+          ⭐ <span id="favCount">0</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Application Container -->
+  <main class="main-content">
+    
+    <!-- VIEW 1: BROWSE & CROSS-FILTER -->
+    <section id="viewBrowse" class="app-view active">
+      
+      <!-- Cross Navigation Control Panel -->
+      <div class="filter-panel">
+        <div class="filter-mode-header">
+          <span class="filter-title">交叉筛选模式：</span>
+          <div class="mode-toggles">
+            <button class="toggle-pill active" id="modeTopicFirst">
+              🎯 按主题探索 (单主题 × 全难度)
+            </button>
+            <button class="toggle-pill" id="modeLevelFirst">
+              📈 按水平探索 (同水平 × 全主题)
+            </button>
+          </div>
+        </div>
+
+        <!-- Domain Group Fast Filter -->
+        <div class="filter-group group-filter">
+          <div class="filter-label">分类集群：</div>
+          <div class="filter-pills-scroll" id="domainGroupPills">
+            <!-- Dynamically populated by renderDomainGroups() -->
+          </div>
+        </div>
+
+        <!-- Primary Filter Row (Topic or Level depending on mode) -->
+        <div class="filter-group primary-filter">
+          <div class="filter-label" id="primaryFilterLabel">选择主题：</div>
+          <div class="filter-pills-scroll" id="primaryPills">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+        <!-- Secondary Filter Row (Level or Topic) -->
+        <div class="filter-group secondary-filter">
+          <div class="filter-label" id="secondaryFilterLabel">CEFR 等级：</div>
+          <div class="filter-pills-scroll" id="secondaryPills">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+        <!-- Filter Stats & Quick Sort -->
+        <div class="filter-status-bar">
+          <div class="results-count">
+            词库总收录 <span class="badge-total" id="filterTotalCount">0</span> 词 · 交叉筛选出 <strong id="matchedCount">0</strong> 个词汇
+            <span class="current-selection-desc" id="selectionDesc"></span>
+          </div>
+          <div class="filter-controls">
+            <label class="sort-label">排序方式：</label>
+            <select id="sortSelect" class="styled-select">
+              <option value="level-asc">按难度 (A1 → C2)</option>
+              <option value="level-desc">按难度 (C2 → A1)</option>
+              <option value="alpha-asc">字母顺序 (A → Z)</option>
+              <option value="alpha-desc">字母顺序 (Z → A)</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- Word Cards Grid -->
+      <div class="cards-grid" id="wordsContainer">
+        <!-- Word cards injected here -->
+      </div>
+      
+      <div id="noResults" class="empty-state" style="display: none;">
+        <div class="empty-icon">🍃</div>
+        <h3>未找到符合条件的词汇</h3>
+        <p>请尝试重置筛选条件或调整搜索关键词</p>
+        <button class="primary-btn" id="resetFiltersBtn">重置所有筛选</button>
+      </div>
+    </section>
+
+    <!-- VIEW 2: 2D MATRIX HEATMAP -->
+    <section id="viewMatrix" class="app-view">
+      <div class="view-header">
+        <h2>CEFR 难度 × 主题场景 分布全景矩阵</h2>
+        <p>当前全景矩阵总收录 <strong id="matrixTotalCount" style="color:var(--primary);">212</strong> 个高阶核心词汇，横跨 18 个细分主题领域与 CEFR A1-C2 全等级。点击矩阵中任意数字单元格，可直接联动跳转至该交叉维度的词汇进行深度专项突破。</p>
+      </div>
+
+      <div class="matrix-card">
+        <div class="table-responsive">
+          <table class="matrix-table" id="matrixTable">
+            <!-- Table dynamically populated -->
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 3: FLASHCARDS (抽认卡模式) -->
+    <section id="viewFlashcards" class="app-view">
+      <div class="flashcard-workspace">
+        <div class="flashcard-controls-top">
+          <div class="card-progress">
+            卡片 <span id="fcIndex">1</span> / <span id="fcTotal">1</span>
+          </div>
+          <div class="fc-filter-hint" id="fcScope">
+            范围：全部词汇
+          </div>
+        </div>
+
+        <!-- Flip Flashcard -->
+        <div class="flashcard-container">
+          <div class="flashcard" id="mainFlashcard">
+            <!-- Front Face -->
+            <div class="card-face card-front">
+              <div class="fc-header">
+                <span class="level-badge" id="fcLevel">B2</span>
+                <span class="topic-tag" id="fcTopic">Technology</span>
+              </div>
+              <div class="fc-word-area">
+                <h2 id="fcWord">algorithm</h2>
+                <div class="fc-meta">
+                  <span class="pos-badge" id="fcPos">noun</span>
+                  <span class="phonetic" id="fcPhonetic">/ˈæl.ɡə.rɪ.ðəm/</span>
+                  <button class="audio-btn" id="fcAudioBtn" title="播放发音">🔊</button>
+                </div>
+              </div>
+              <div class="fc-hint">
+                <span class="tap-hint">点击卡片或按空格翻转查看释义 ⟳</span>
+              </div>
+            </div>
+
+            <!-- Back Face -->
+            <div class="card-face card-back">
+              <div class="fc-header">
+                <span class="level-badge" id="fcLevelBack">B2</span>
+                <span class="topic-tag" id="fcTopicBack">Technology</span>
+              </div>
+              <div class="fc-content">
+                <div class="fc-defs">
+                  <div class="fc-zh" id="fcDefZh">算法，计算程序</div>
+                  <div class="fc-en" id="fcDefEn">A step-by-step procedure for solving a problem or accomplishing some end.</div>
+                </div>
+                <div class="fc-example-box" id="fcExampleBox">
+                  <div class="fc-eg-title">📌 例句：</div>
+                  <div class="fc-eg-text" id="fcEgText">Search engines rely on complex ranking algorithms.</div>
+                </div>
+              </div>
+              <div class="fc-hint">
+                <span class="tap-hint">点击翻回正面 ⟲</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Flashcard Bottom Bar -->
+        <div class="flashcard-nav-bottom">
+          <button class="fc-btn" id="fcPrev">← 上一个 (Left)</button>
+          <button class="fc-btn fc-flip-btn" id="fcFlip">翻转卡片 (Space)</button>
+          <button class="fc-btn" id="fcNext">下一个 (Right) →</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 4: QUIZ (词汇自测) -->
+    <section id="viewQuiz" class="app-view">
+      <div class="quiz-container">
+        <div class="quiz-header">
+          <div class="quiz-stat">得分: <strong id="quizScore">0</strong></div>
+          <div class="quiz-stat">连胜: <strong id="quizStreak">0 🔥</strong></div>
+          <div class="quiz-stat">进度: 第 <strong id="quizCurrent">1</strong> 题</div>
+        </div>
+
+        <div class="quiz-card" id="quizCard">
+          <div class="quiz-badge-row">
+            <span class="level-badge" id="qLevel">B1</span>
+            <span class="topic-tag" id="qTopic">Travel</span>
+          </div>
+
+          <div class="quiz-question-box">
+            <h2 id="qWord">destination</h2>
+            <div class="q-meta">
+              <span class="pos-badge" id="qPos">noun</span>
+              <span class="phonetic" id="qPhonetic">/ˌdes.tɪˈneɪ.ʃən/</span>
+              <button class="audio-btn" id="qAudioBtn">🔊</button>
+            </div>
+            <p class="quiz-instruction">请选择该单词的最恰当中文释义：</p>
+          </div>
+
+          <div class="quiz-options-grid" id="quizOptions">
+            <!-- 4 options injected dynamically -->
+          </div>
+
+          <div class="quiz-feedback" id="quizFeedback" style="display:none;">
+            <div id="quizFeedbackMsg"></div>
+            <button class="primary-btn" id="quizNextBtn">下一题 →</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Word Detail Modal -->
+  <div class="modal-backdrop" id="wordModal" style="display:none;">
+    <div class="modal-card">
+      <button class="modal-close-btn" id="modalCloseBtn">✕</button>
+      <div class="modal-header">
+        <div class="modal-word-title">
+          <h2 id="mWord">destination</h2>
+          <span class="phonetic" id="mPhonetic">/ˌdes.tɪˈneɪ.ʃən/</span>
+          <button class="audio-btn" id="mAudioBtn" title="朗读单词">🔊</button>
+        </div>
+        <div class="modal-badges">
+          <span class="level-badge" id="mLevel">B1</span>
+          <span class="pos-badge" id="mPos">noun</span>
+          <span class="topic-tag" id="mTopic">Travel & Transport</span>
+        </div>
+      </div>
+
+      <div class="modal-body">
+        <div class="detail-section">
+          <label>中文释义 (Wiktionary)：</label>
+          <p class="def-zh" id="mDefZh"></p>
+        </div>
+        <div class="detail-section">
+          <label>英文详尽释义 (Wiktionary / EVP)：</label>
+          <p class="def-en" id="mDefEn"></p>
+        </div>
+        <div class="detail-section" id="mExamplesSection">
+          <label>真实语境例句：</label>
+          <ul class="examples-list" id="mExamplesList"></ul>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="action-btn" id="mFavBtn">⭐ 收藏单词</button>
+        <button class="action-btn" id="mPronounceBtn">🗣️ 慢速发音</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- CDN & Local Cache Settings Modal -->
+  <div class="modal-backdrop" id="cdnModal" style="display:none;">
+    <div class="modal-card cdn-modal-card">
+      <button class="modal-close-btn" id="cdnModalCloseBtn">✕</button>
+      <div class="modal-header">
+        <div class="modal-word-title">
+          <h2>🌐 GitHub + CDN 边缘分发与双层缓存</h2>
+        </div>
+        <p class="tagline">零成本、高可用、免维护的云端只读词库托管架构</p>
+      </div>
+
+      <div class="modal-body">
+        <div class="cdn-status-alert">
+          <div class="alert-icon">⚡</div>
+          <div class="alert-content">
+            <h4>三级高效分发管道：</h4>
+            <p><strong>GitHub 仓库发布源</strong> → <strong>jsDelivr 全球边缘 CDN</strong> → <strong>客户端双层缓存 (Memory + IndexedDB)</strong></p>
+          </div>
+        </div>
+
+        <div class="detail-section">
+          <label>当前词库存储与缓存状态：</label>
+          <div class="cache-stat-grid">
+            <div class="cache-stat-box">
+              <span class="cs-num" id="csTotalWords">14,200</span>
+              <span class="cs-label">词库总词汇量</span>
+            </div>
+            <div class="cache-stat-box">
+              <span class="cs-num" id="csCachedSlices">0 / 34</span>
+              <span class="cs-label">已缓存场景切片</span>
+            </div>
+            <div class="cache-stat-box">
+              <span class="cs-num" id="csCachedWords">0</span>
+              <span class="cs-label">本地离线常驻词汇</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="detail-section">
+          <label>配置你的 GitHub 仓库（按需切换）：</label>
+          <div class="cdn-form-row">
+            <div class="form-group">
+              <label>GitHub 用户名：</label>
+              <input type="text" id="cfgGithubUser" class="styled-input" value="katherine54321" />
+            </div>
+            <div class="form-group">
+              <label>仓库名称：</label>
+              <input type="text" id="cfgGithubRepo" class="styled-input" value="my-vocab-repo" />
+            </div>
+            <div class="form-group">
+              <label>分支 (Branch)：</label>
+              <input type="text" id="cfgGithubBranch" class="styled-input" value="v5.0.0" />
+            </div>
+          </div>
+        </div>
+
+        <div class="detail-section">
+          <label>生成的 jsDelivr CDN 加速访问样例：</label>
+          <div class="cdn-preview-box">
+            <code id="cdnPreviewUrl">https://cdn.jsdelivr.net/gh/katherine54321/my-vocab-repo@v5.0.0/data/food_beverages.json</code>
+          </div>
+        </div>
+
+        <div class="detail-section">
+          <label>数据源加载策略：</label>
+          <div class="mode-toggles">
+            <button class="toggle-pill active" id="btnSourceLocal">🏠 本地极速模式 (直接使用本地切片)</button>
+            <button class="toggle-pill" id="btnSourceCDN">☁️ 强制云端 CDN 模式 (jsDelivr 加速)</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="primary-btn" id="btnPrefetchAll">🚀 一键离线预加载全部 14,200 词</button>
+        <button class="action-btn" id="btnClearCache" style="color: #ef4444;">🗑️ 清空 IndexedDB 缓存</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- PWA Install & Add to Home Screen Modal -->
+  <div class="modal-backdrop" id="pwaModal" style="display:none;">
+    <div class="modal-card pwa-modal-card">
+      <button class="modal-close-btn" id="pwaModalCloseBtn">✕</button>
+      
+      <div class="pwa-hero">
+        <img src="icons/icon-192.png" alt="VocabMatrix Icon" class="pwa-icon-large" />
+        <div class="pwa-hero-text">
+          <h3>安装 VocabMatrix 手机应用</h3>
+          <p class="tagline">添加到主屏幕，享受原生 App 般的流畅体验</p>
+        </div>
+      </div>
+
+      <div class="pwa-perks">
+        <div class="perk-item">
+          <span class="perk-icon">⚡</span>
+          <div>
+            <strong>秒开无等待</strong>
+            <p>免去在浏览器中输入网址，桌面图标一触即开</p>
+          </div>
+        </div>
+        <div class="perk-item">
+          <span class="perk-icon">📦</span>
+          <div>
+            <strong>全量离线可用</strong>
+            <p>依托 Service Worker 与本地缓存，无网络也可刷词</p>
+          </div>
+        </div>
+        <div class="perk-item">
+          <span class="perk-icon">📱</span>
+          <div>
+            <strong>沉浸式全屏学习</strong>
+            <p>去除浏览器地址栏与底部按钮，全心专注词汇记忆</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Installation Guide for Android / iOS -->
+      <div class="pwa-guide-box">
+        <div class="guide-title">💡 手机端添加方式：</div>
+        <div class="guide-steps">
+          <div class="step-card ios-step">
+            <span class="step-badge">iOS (Safari)</span>
+            <p>1. 点击浏览器底部菜单中间的 <strong>分享按钮 (⎋)</strong></p>
+            <p>2. 向上滑动列表，轻点 <strong>『添加到主屏幕 ➕』</strong></p>
+            <p>3. 右上角点击『添加』即可完成！</p>
+          </div>
+          <div class="step-card android-step">
+            <span class="step-badge">Android (Chrome / 浏览器)</span>
+            <p>1. 点击浏览器右上角菜单 <strong>⋮</strong></p>
+            <p>2. 选择 <strong>『添加到主屏幕』</strong> 或 <strong>『安装应用』</strong></p>
+            <button class="primary-btn pwa-native-install-btn" id="btnDoInstallPwa">📲 立即添加到桌面</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-footer" style="justify-content: flex-end;">
+        <button class="action-btn" id="btnPwaDismiss">我知道了</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile Bottom Tab Bar (Native App Style) -->
+  <nav class="mobile-bottom-nav" id="mobileBottomNav">
+    <button class="bottom-nav-item active" data-view="browse">
+      <span class="b-icon">🔍</span>
+      <span class="b-label">场景探索</span>
+    </button>
+    <button class="bottom-nav-item" data-view="matrix">
+      <span class="b-icon">📊</span>
+      <span class="b-label">难度矩阵</span>
+    </button>
+    <button class="bottom-nav-item" data-view="flashcards">
+      <span class="b-icon">🃏</span>
+      <span class="b-label">抽认卡</span>
+    </button>
+    <button class="bottom-nav-item" data-view="quiz">
+      <span class="b-icon">⚡</span>
+      <span class="b-label">词汇自测</span>
+    </button>
+  </nav>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast"></div>
+
+  <!-- Scripts -->
+  <script src="categories.js?v=9.0"></script>
+  <script src="data.js?v=9.0"></script>
+  <script src="app.js?v=9.0"></script>
+</body>
+</html>

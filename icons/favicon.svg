@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e40af" />
+      <stop offset="50%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+    <linearGradient id="gridGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#a5b4fc" stop-opacity="0.8" />
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Squircle Base with Drop Shadow -->
+  <rect x="32" y="32" width="448" height="448" rx="112" fill="url(#bgGrad)" filter="url(#shadow)" />
+
+  <!-- Subtle 2D Matrix Grid Motif -->
+  <g opacity="0.22" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="6,6">
+    <line x1="96" y1="140" x2="416" y2="140" />
+    <line x1="96" y1="210" x2="416" y2="210" />
+    <line x1="96" y1="280" x2="416" y2="280" />
+    <line x1="96" y1="350" x2="416" y2="350" />
+    <line x1="160" y1="96" x2="160" y2="416" />
+    <line x1="256" y1="96" x2="256" y2="416" />
+    <line x1="352" y1="96" x2="352" y2="416" />
+  </g>
+
+  <!-- Accent CEFR Node Dots -->
+  <circle cx="160" cy="140" r="10" fill="#38bdf8" opacity="0.9" />
+  <circle cx="256" cy="140" r="8" fill="#a7f3d0" opacity="0.8" />
+  <circle cx="352" cy="210" r="10" fill="#fde047" opacity="0.9" />
+  <circle cx="160" cy="280" r="8" fill="#f472b6" opacity="0.8" />
+  <circle cx="256" cy="350" r="12" fill="#60a5fa" opacity="0.95" />
+
+  <!-- Distinctive "V M" Stylized Monogram Overlay -->
+  <path d="M 124 165 L 204 350 L 256 240 L 308 350 L 388 165" 
+        fill="none" 
+        stroke="url(#glowGrad)" 
+        stroke-width="38" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" />
+
+  <!-- Inner Sparkle Badge -->
+  <circle cx="256" cy="240" r="16" fill="#ffffff" />
+  <circle cx="256" cy="240" r="8" fill="#3b82f6" />
+</svg>

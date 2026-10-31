@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Raw heavy source dictionaries (60MB+ source dictionary)
+scripts/ecdict.csv
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+*.log

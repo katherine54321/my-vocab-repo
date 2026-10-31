@@ -1,0 +1,58 @@
+{
+  "name": "VocabMatrix 词汇矩阵",
+  "short_name": "VocabMatrix",
+  "description": "14,200+ 场景与难度 CEFR 英语高阶词汇探索与记忆应用程序",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "lang": "zh-CN",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "场景探索",
+      "short_name": "探索",
+      "description": "按 34 个场景切片学习词汇",
+      "url": "./index.html?view=browse"
+    },
+    {
+      "name": "抽认卡刷词",
+      "short_name": "抽认卡",
+      "description": "进入全屏抽认卡卡片自测模式",
+      "url": "./index.html?view=flashcards"
+    },
+    {
+      "name": "词汇自测",
+      "short_name": "自测",
+      "description": "进行词义快速自测挑战",
+      "url": "./index.html?view=quiz"
+    }
+  ]
+}
