@@ -7,11 +7,38 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/'tʃikin/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chicken-us.mp3",
-    "definition_en": "A domestic fowl kept for its eggs or meat, especially the flesh eaten as food.",
-    "definition_zh": "鸡肉，鸡",
+    "definition_en": "n. the flesh of a chicken used for food n. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl n. a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops s. easily frightened",
+    "definition_zh": "n. 小鸡, 鸡肉",
     "examples": [
-      "Roast chicken seasoned with rosemary makes a classic Sunday dinner.",
-      "Skinless chicken breasts provide lean protein for athletes."
+      "Fresh chicken is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "egg_noun",
+    "word": "egg",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/eg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/egg-us.mp3",
+    "definition_en": "n. animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds n. oval reproductive body of a fowl (especially a hen) used as food v. throw eggs at v. coat with beaten egg",
+    "definition_zh": "n. 蛋, 卵",
+    "examples": [
+      "Fresh egg is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "fish_noun",
+    "word": "fish",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/fiʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fish-us.mp3",
+    "definition_en": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills n. the flesh of fish used as food v. seek indirectly v. catch or try to catch fish or shellfish",
+    "definition_zh": "n. 鱼, 鱼肉, 鱼类, 接合板",
+    "examples": [
+      "Fresh fish is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -22,24 +49,10 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/mi:t/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meat-us.mp3",
-    "definition_en": "The flesh of animals (including fishes and birds and snails) used as food",
+    "definition_en": "n. the flesh of animals (including fishes and birds and snails) used as food",
     "definition_zh": "n. 肉, 餐, 食物",
     "examples": [
-      "Fresh meat can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "meats_noun",
-    "word": "meats",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "肉类、禽类与海鲜",
-    "phonetic": "/meats/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meats-us.mp3",
-    "definition_en": "N the flesh of animals (including fishes and birds and snails) used as food",
-    "definition_zh": "n. 肉类（meat的复数）",
-    "examples": [
-      "Fresh meats can be incorporated into a wide variety of delicious recipes."
+      "Fresh meat is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -50,11 +63,10 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/bi:f/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beef-us.mp3",
-    "definition_en": "The flesh of a cow, bull, or ox, used as food.",
-    "definition_zh": "牛肉",
+    "definition_en": "n. cattle that are reared for their meat n. meat from an adult domestic bovine",
+    "definition_zh": "n. 牛肉, 肌肉",
     "examples": [
-      "Slow-simmered beef stew fills the kitchen with savory warmth.",
-      "Wagyu beef is renowned worldwide for exquisite marbling."
+      "Fresh beef is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -65,53 +77,10 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/pɒ:k/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pork-us.mp3",
-    "definition_en": "The flesh of a pig used as food, especially when uncured.",
-    "definition_zh": "猪肉",
+    "definition_en": "n. meat from a domestic hog or pig",
+    "definition_zh": "n. 猪肉",
     "examples": [
-      "Braised pork belly is a cornerstone of Chinese home-style gastronomy.",
-      "Glaze tender pork tenderloin with apple cider and mustard."
-    ]
-  },
-  {
-    "id": "sausage_noun",
-    "word": "sausage",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "肉类、禽类与海鲜",
-    "phonetic": "/'sɒsidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sausage-us.mp3",
-    "definition_en": "Highly seasoned minced meat stuffed in casings",
-    "definition_zh": "n. 香肠, 腊肠",
-    "examples": [
-      "Fresh sausage can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "seafood_noun",
-    "word": "seafood",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "肉类、禽类与海鲜",
-    "phonetic": "/'si:fu:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seafood-us.mp3",
-    "definition_en": "Edible fish (broadly including freshwater fish) or shellfish or roe etc",
-    "definition_zh": "n. 海味, 海鲜, 鱼类",
-    "examples": [
-      "Fresh seafood can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "steak_noun",
-    "word": "steak",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "肉类、禽类与海鲜",
-    "phonetic": "/steik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steak-us.mp3",
-    "definition_en": "A slice of meat cut from the fleshy part of an animal or large fish",
-    "definition_zh": "n. 牛排, 鱼排, 肉排",
-    "examples": [
-      "Fresh steak can be incorporated into a wide variety of delicious recipes."
+      "Fresh pork is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -122,10 +91,38 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/'beikәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bacon-us.mp3",
-    "definition_en": "Back and sides of a hog salted and dried or smoked; usually sliced thin and fried",
+    "definition_en": "n. back and sides of a hog salted and dried or smoked; usually sliced thin and fried n. English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292) n. English statesman and philosopher; precursor of British empiricism; advocated inductive reasoning (1561-1626)",
     "definition_zh": "n. 熏猪肉",
     "examples": [
-      "Fresh bacon can be incorporated into a wide variety of delicious recipes."
+      "Fresh bacon is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "duck_noun",
+    "word": "duck",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/dʌk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/duck-us.mp3",
+    "definition_en": "n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs n. (cricket) a score of nothing by a batsman n. flesh of a duck (domestic or wild) n. a heavy cotton fabric of plain weave; used for clothing and tents",
+    "definition_zh": "n. 鸭子",
+    "examples": [
+      "Fresh duck is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "ham_noun",
+    "word": "ham",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/hæm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ham-us.mp3",
+    "definition_en": "n. meat cut from the thigh of a hog (usually smoked) n. (Old Testament) son of Noah n. a licensed amateur radio operator n. an unskilled actor who overacts",
+    "definition_zh": "n. 火腿, 后腿, 笨拙演员",
+    "examples": [
+      "Fresh ham is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -136,11 +133,10 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/læm/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lamb-us.mp3",
-    "definition_en": "The meat of a young sheep eaten as food.",
-    "definition_zh": "羊肉，羔羊肉",
+    "definition_en": "n. young sheep n. English essayist (1775-1834) n. a person easily deceived or cheated (especially in financial matters) n. a sweet innocent mild-mannered person (especially a child)",
+    "definition_zh": "n. 小羊, 羔羊",
     "examples": [
-      "Herb-crusted rack of lamb is a customary centerpiece for festive banquets.",
-      "Marinate lamb skewers with cumin and coriander before charcoal grilling."
+      "Fresh lamb is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -151,11 +147,24 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/'sæmәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salmon-us.mp3",
-    "definition_en": "A large edible fish with pink flesh, celebrated for rich omega-3 fatty acids.",
-    "definition_zh": "三文鱼，鲑鱼",
+    "definition_en": "n. any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn n. a tributary of the Snake River in Idaho n. flesh of any of various marine or freshwater fish of the family Salmonidae n. a pale pinkish orange color",
+    "definition_zh": "n. 鲑鱼, 大麻哈鱼",
     "examples": [
-      "Pan-sear wild Atlantic salmon skin-side down until wonderfully crispy.",
-      "Smoked salmon and cream cheese are beloved bagel toppings."
+      "Fresh salmon is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "sausage_noun",
+    "word": "sausage",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'sɒsidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sausage-us.mp3",
+    "definition_en": "n. highly seasoned minced meat stuffed in casings",
+    "definition_zh": "n. 香肠, 腊肠",
+    "examples": [
+      "Fresh sausage is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -166,11 +175,24 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/ʃrimp/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shrimp-us.mp3",
-    "definition_en": "A small free-swimming crustacean with an elongated body, highly prized as seafood.",
-    "definition_zh": "虾，小虾",
+    "definition_en": "n. small slender-bodied chiefly marine decapod crustaceans with a long tail and single pair of pincers; many species are edible v. fish for shrimp",
+    "definition_zh": "n. 虾, 小虾, 矮子",
     "examples": [
-      "Garlic butter shrimp sautéed with parsley cooks in under four minutes.",
-      "The coastal town hosts an annual festival celebrating freshly caught shrimp."
+      "Fresh shrimp is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "steak_noun",
+    "word": "steak",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/steik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steak-us.mp3",
+    "definition_en": "n. a slice of meat cut from the fleshy part of an animal or large fish",
+    "definition_zh": "n. 牛排, 鱼排, 肉排",
+    "examples": [
+      "Fresh steak is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -181,10 +203,38 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/'tju:nә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tuna-us.mp3",
-    "definition_en": "A large predatory oceanic fish of the mackerel family, heavily fished commercially.",
-    "definition_zh": "金枪鱼，鲔鱼",
+    "definition_en": "n. tropical American prickly pear of Jamaica n. important warm-water fatty fish of the genus Thunnus of the family Scombridae; usually served as steaks n. any very large marine food and game fish of the genus Thunnus; related to mackerel; chiefly of warm waters n. New Zealand eel",
+    "definition_zh": "n. 金枪鱼, 金枪鱼肉",
     "examples": [
-      "Seared yellowfin tuna coated in black sesame is a delicacy."
+      "Fresh tuna is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "turkey_noun",
+    "word": "turkey",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'tә:ki/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/turkey-us.mp3",
+    "definition_en": "n. large gallinaceous bird with fan-shaped tail; widely domesticated for food n. a Eurasian republic in Asia Minor and the Balkans; on the collapse of the Ottoman Empire in 1918, the Young Turks, led by Kemal Ataturk, established a republic in 1923 n. flesh of large domesticated fowl usually roasted n. an event that fails badly or is totally ineffectual",
+    "definition_zh": "n. 火鸡, 无用的家伙, 土耳其",
+    "examples": [
+      "Fresh turkey is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "butcher_noun",
+    "word": "butcher",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'butʃә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/butcher-us.mp3",
+    "definition_en": "n. a retailer of meat n. a brutal indiscriminate murderer n. a person who slaughters or dresses meat for market v. kill (animals) usually for food consumption",
+    "definition_zh": "n. 屠夫, 肉商, 小贩",
+    "examples": [
+      "Fresh butcher is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -195,10 +245,10 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/klæm/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clam-us.mp3",
-    "definition_en": "Burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness",
+    "definition_en": "n. burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness n. flesh of either hard-shell or soft-shell clams v. gather clams, by digging in the sand by the ocean",
     "definition_zh": "n. 蛤, 沉默寡言的人",
     "examples": [
-      "Fresh clam can be incorporated into a wide variety of delicious recipes."
+      "Fresh clam is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -209,10 +259,52 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/kræb/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crab-us.mp3",
-    "definition_en": "Decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers",
+    "definition_en": "n. decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers n. a quarrelsome grouch n. the edible flesh of any of various crabs n. a stroke of the oar that either misses the water or digs too deeply",
     "definition_zh": "n. 螃蟹, 偏航, 脾气乖戾的人, 沙果",
     "examples": [
-      "Fresh crab can be incorporated into a wide variety of delicious recipes."
+      "Fresh crab is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "fillet_noun",
+    "word": "fillet",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'filit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fillet-us.mp3",
+    "definition_en": "n. a boneless steak cut from the tenderloin of beef n. a longitudinal slice or boned side of a fish n. fastener consisting of a narrow strip of welded metal used to join steel members v. decorate with a lace of geometric designs",
+    "definition_zh": "n. 头带, 带子",
+    "examples": [
+      "Fresh fillet is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "lobster_noun",
+    "word": "lobster",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'lɒbstә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lobster-us.mp3",
+    "definition_en": "n. flesh of a lobster n. any of several edible marine crustaceans of the families Homaridae and Nephropsidae and Palinuridae",
+    "definition_zh": "n. 龙虾",
+    "examples": [
+      "Fresh lobster is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "mussel_noun",
+    "word": "mussel",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'mʌsl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mussel-us.mp3",
+    "definition_en": "n. black marine bivalves usually steamed in wine n. marine or freshwater bivalve mollusk that lives attached to rocks etc.",
+    "definition_zh": "n. 贻贝, 珠蚌",
+    "examples": [
+      "Fresh mussel is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -223,10 +315,52 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/'mʌtn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mutton-us.mp3",
-    "definition_en": "N meat from a mature domestic sheep",
+    "definition_en": "n meat from a mature domestic sheep",
     "definition_zh": "n. 羊肉",
     "examples": [
-      "Fresh mutton can be incorporated into a wide variety of delicious recipes."
+      "Fresh mutton is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "octopus_noun",
+    "word": "octopus",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'ɒktәpәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/octopus-us.mp3",
+    "definition_en": "n. tentacles of octopus prepared as food n. bottom-living cephalopod having a soft oval body with eight long tentacles",
+    "definition_zh": "n. 章鱼",
+    "examples": [
+      "Fresh octopus is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "oyster_noun",
+    "word": "oyster",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'ɒistә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oyster-us.mp3",
+    "definition_en": "n. marine mollusks having a rough irregular shell; found on the sea bed mostly in coastal waters n. a small muscle on each side of the back of a fowl v. gather oysters, dig oysters",
+    "definition_zh": "n. 牡蛎, 蚝, 沉默者",
+    "examples": [
+      "Fresh oyster is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "poultry_noun",
+    "word": "poultry",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'pәultri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/poultry-us.mp3",
+    "definition_en": "n. flesh of chickens or turkeys or ducks or geese raised for food",
+    "definition_zh": "n. 家禽",
+    "examples": [
+      "Fresh poultry is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -237,10 +371,332 @@
     "topic": "肉类、禽类与海鲜",
     "phonetic": "/prɒ:n/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prawn-us.mp3",
-    "definition_en": "Any of various edible decapod crustaceans",
+    "definition_en": "n. any of various edible decapod crustaceans n. shrimp-like decapod crustacean having two pairs of pincers; most are edible v. fish for prawns",
     "definition_zh": "n. 明虾, 对虾",
     "examples": [
-      "Fresh prawn can be incorporated into a wide variety of delicious recipes."
+      "Fresh prawn is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "ribs_noun",
+    "word": "ribs",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ribs-us.mp3",
+    "definition_en": "n support resembling the rib of an animal n any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates) n cut of meat including one or more ribs n a teasing remark n a riblike supporting or strengthening part of an animal or plant n a projecting molding on the underside of a vault or ceiling; may be ornamental or structural v form vertical ribs by knitting v subject to laughter or ridicule",
+    "definition_zh": "n. 肋骨；排骨（rib的复数）",
+    "examples": [
+      "Fresh ribs is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "seafood_noun",
+    "word": "seafood",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'si:fu:d/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seafood-us.mp3",
+    "definition_en": "n. edible fish (broadly including freshwater fish) or shellfish or roe etc",
+    "definition_zh": "n. 海味, 海鲜, 鱼类",
+    "examples": [
+      "Fresh seafood is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "squid_noun",
+    "word": "squid",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/skwid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/squid-us.mp3",
+    "definition_en": "n. (Italian cuisine) squid prepared as food n. widely distributed fast-moving ten-armed cephalopod mollusk having a long tapered body with triangular tail fins",
+    "definition_zh": "n. 枪乌贼, 鱿鱼, 反潜水雷发射装置",
+    "examples": [
+      "Fresh squid is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "veal_noun",
+    "word": "veal",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/vi:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/veal-us.mp3",
+    "definition_en": "n. meat from a calf",
+    "definition_zh": "n. 小牛肉",
+    "examples": [
+      "Fresh veal is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "anchovy_noun",
+    "word": "anchovy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'æntʃәvi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anchovy-us.mp3",
+    "definition_en": "n. tiny fishes usually canned or salted; used for hors d'oeuvres or as seasoning in sauces n. small herring-like plankton-eating fishes often canned whole or as paste; abundant in tropical waters worldwide",
+    "definition_zh": "n. 凤尾鱼；鳀鱼",
+    "examples": [
+      "Fresh anchovy is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "brisket_noun",
+    "word": "brisket",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'briskit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brisket-us.mp3",
+    "definition_en": "n. a cut of meat from the breast or lower chest especially of beef",
+    "definition_zh": "n. 动物的胸部, 动物的胸肉",
+    "examples": [
+      "Fresh brisket is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "carp_noun",
+    "word": "carp",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/kɑ:p/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carp-us.mp3",
+    "definition_en": "n. the lean flesh of a fish that is often farmed; can be baked or braised n. any of various freshwater fish of the family Cyprinidae",
+    "definition_zh": "n. 鲤鱼",
+    "examples": [
+      "Fresh carp is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "cod_noun",
+    "word": "cod",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/kɒd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cod-us.mp3",
+    "definition_en": "n. lean white flesh of important North Atlantic food fish; usually baked or poached n. major food fish of Arctic and cold-temperate waters",
+    "definition_zh": "n. 鳕, 欺骗, 愚弄",
+    "examples": [
+      "Fresh cod is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "eel_noun",
+    "word": "eel",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/i:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eel-us.mp3",
+    "definition_en": "n. the fatty flesh of eel; an elongate fish found in fresh water in Europe and America; large eels are usually smoked or pickled n. voracious snakelike marine or freshwater fishes with smooth slimy usually scaleless skin and having a continuous vertical fin but no ventral fins",
+    "definition_zh": "n. 鳗鱼, 鳝鱼",
+    "examples": [
+      "Fresh eel is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "halibut_noun",
+    "word": "halibut",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'hælibәt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/halibut-us.mp3",
+    "definition_en": "n. lean flesh of very large flatfish of Atlantic or Pacific n. marine food fish of the northern Atlantic or northern Pacific; the largest flatfish and one of the largest teleost fishes",
+    "definition_zh": "n. 大比目鱼",
+    "examples": [
+      "Fresh halibut is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "herring_noun",
+    "word": "herring",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'heriŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/herring-us.mp3",
+    "definition_en": "n. valuable flesh of fatty fish from shallow waters of northern Atlantic or Pacific; usually salted or pickled n. commercially important food fish of northern waters of both Atlantic and Pacific",
+    "definition_zh": "n. 青鱼, 鲱",
+    "examples": [
+      "Fresh herring is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "mackerel_noun",
+    "word": "mackerel",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'mækәrәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mackerel-us.mp3",
+    "definition_en": "n. flesh of very important usually small (to 18 in) fatty Atlantic fish n. any of various fishes of the family Scombridae",
+    "definition_zh": "n. 鲭",
+    "examples": [
+      "Fresh mackerel is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "sardine_noun",
+    "word": "sardine",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/sɑ:'di:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sardine-us.mp3",
+    "definition_en": "n. small fatty fish usually canned n. any of various small edible herring or related food fishes frequently canned",
+    "definition_zh": "n. 沙丁鱼",
+    "examples": [
+      "Fresh sardine is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "scallop_noun",
+    "word": "scallop",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'skɒlәp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scallop-us.mp3",
+    "definition_en": "n. one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.) n. edible muscle of mollusks having fan-shaped shells; served broiled or poached or in salads or cream sauces n. edible marine bivalve having a fluted fan-shaped shell that swim by expelling water from the shell in a series of snapping motions v. decorate an edge with scallops",
+    "definition_zh": "n. 扇贝",
+    "examples": [
+      "Fresh scallop is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "sirloin_noun",
+    "word": "sirloin",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'sә:lɒin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sirloin-us.mp3",
+    "definition_en": "n. the portion of the loin (especially of beef) just in front of the rump",
+    "definition_zh": "n. 牛的上部腰肉, 牛里脊肉",
+    "examples": [
+      "Fresh sirloin is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "tenderloin_noun",
+    "word": "tenderloin",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'tendәlɒin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tenderloin-us.mp3",
+    "definition_en": "n. the tender meat of the loin muscle on each side of the vertebral column",
+    "definition_zh": "n. 腰部嫩肉, 里脊肉",
+    "examples": [
+      "Fresh tenderloin is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "trout_noun",
+    "word": "trout",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/traut/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trout-us.mp3",
+    "definition_en": "n. flesh of any of several primarily freshwater game and food fishes n. any of various game and food fishes of cool fresh waters mostly smaller than typical salmons",
+    "definition_zh": "n. 鲑鱼",
+    "examples": [
+      "Fresh trout is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "venison_noun",
+    "word": "venison",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'venizn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/venison-us.mp3",
+    "definition_en": "n. meat from a deer used as food",
+    "definition_zh": "n. 鹿肉, 野味",
+    "examples": [
+      "Fresh venison is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "carcass_noun",
+    "word": "carcass",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'kɑ:kәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carcass-us.mp3",
+    "definition_en": "n the dead body of an animal especially one slaughtered and dressed for food",
+    "definition_zh": "n. 尸体",
+    "examples": [
+      "Fresh carcass is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "flank_noun",
+    "word": "flank",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/flæŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flank-us.mp3",
+    "definition_en": "n. the side of military or naval formation n. a subfigure consisting of a side of something n. a cut from the fleshy part of an animal's side between the ribs and the leg n. the side between ribs and hipbone",
+    "definition_zh": "n. 侧面, 侧腹, 胁, 腰窝肉",
+    "examples": [
+      "Fresh flank is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "pastrami_noun",
+    "word": "pastrami",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/pә'strɑ:mi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pastrami-us.mp3",
+    "definition_en": "n. highly seasoned cut of smoked beef",
+    "definition_zh": "n. 五香烟熏牛肉",
+    "examples": [
+      "Fresh pastrami is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "prosciutto_noun",
+    "word": "prosciutto",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/prә'ʃu:tәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prosciutto-us.mp3",
+    "definition_en": "n. Italian salt-cured ham usually sliced paper thin",
+    "definition_zh": "n. 意大利熏火腿(切成薄片, 常与甜瓜或无花果配成一道菜)",
+    "examples": [
+      "Fresh prosciutto is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "slaughterhouse_noun",
+    "word": "slaughterhouse",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "肉类、禽类与海鲜",
+    "phonetic": "/'slɒ:tәhaus/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/slaughterhouse-us.mp3",
+    "definition_en": "n a building where animals are butchered",
+    "definition_zh": "n. 屠杀场",
+    "examples": [
+      "Fresh slaughterhouse is popular for its rich nutritional value and delightful taste."
     ]
   }
 ]

@@ -7,10 +7,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/bәul/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bowl-us.mp3",
-    "definition_en": "A round vessel that is open at the top; used chiefly for holding food or liquids;",
+    "definition_en": "n. a round vessel that is open at the top; used chiefly for holding food or liquids;  n. a concave shape with an open top n. a dish that is round and open at the top for serving foods n. the quantity contained in a bowl",
     "definition_zh": "n. 碗, 木球, 大酒杯",
     "examples": [
-      "Understanding bowl provides valuable insights into everyday communication."
+      "Fresh bowl is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -21,10 +21,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/bred/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bread-us.mp3",
-    "definition_en": "Food made of flour, water, and yeast or another leavening agent, baked.",
-    "definition_zh": "面包",
+    "definition_en": "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked v. cover with bread crumbs",
+    "definition_zh": "n. 面包, 生计, 食物",
     "examples": [
-      "Warm sourdough bread with salted butter is irresistible."
+      "Fresh bread is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -35,10 +35,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/'brekfәst/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/breakfast-us.mp3",
-    "definition_en": "The first meal of the day (usually in the morning)",
+    "definition_en": "n. the first meal of the day (usually in the morning) v. eat an early morning meal v. provide breakfast for",
     "definition_zh": "n. 早餐",
     "examples": [
-      "Fresh breakfast can be incorporated into a wide variety of delicious recipes."
+      "Fresh breakfast is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -49,38 +49,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/'bʌtә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/butter-us.mp3",
-    "definition_en": "An edible emulsion of fat globules made by churning milk or cream; for cooking and table use",
+    "definition_en": "n. an edible emulsion of fat globules made by churning milk or cream; for cooking and table use n. a fighter who strikes the opponent with his head v. spread butter on",
     "definition_zh": "n. 奶油, 黄油",
     "examples": [
-      "Fresh butter can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "cake_noun",
-    "word": "cake",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/keik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cake-us.mp3",
-    "definition_en": "A block of solid substance (such as soap or wax)",
-    "definition_zh": "n. 蛋糕, 块, 饼",
-    "examples": [
-      "Fresh cake can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "cakes_noun",
-    "word": "cakes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/cakes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cakes-us.mp3",
-    "definition_en": "N a block of solid substance (such as soap or wax)",
-    "definition_zh": "n. 蛋糕（cake的复数）",
-    "examples": [
-      "Fresh cakes can be incorporated into a wide variety of delicious recipes."
+      "Fresh butter is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -91,24 +63,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/tʃi:z/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cheese-us.mp3",
-    "definition_en": "A solid food prepared from the pressed curd of milk",
+    "definition_en": "n. a solid food prepared from the pressed curd of milk v. used in the imperative (get away, or stop it) v. wind onto a cheese",
     "definition_zh": "n. 乳酪",
     "examples": [
-      "Fresh cheese can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "cook_noun",
-    "word": "cook",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/kuk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cook-us.mp3",
-    "definition_en": "Someone who cooks food",
-    "definition_zh": "n. 厨子, 厨师",
-    "examples": [
-      "Fresh cook can be incorporated into a wide variety of delicious recipes."
+      "Fresh cheese is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -119,38 +77,24 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/kuk/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cook-us.mp3",
-    "definition_en": "Prepare a hot meal",
+    "definition_en": "n. someone who cooks food n. English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779) v. prepare a hot meal v. prepare for eating by applying heat",
     "definition_zh": "vt. 烹调, 煮饭, 加热",
     "examples": [
-      "Make sure to cook the ingredients thoroughly before serving."
+      "Be sure to cook the ingredients gently over moderate heat."
     ]
   },
   {
-    "id": "cooked_verb",
-    "word": "cooked",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/kukt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cooked-us.mp3",
-    "definition_en": "Having been prepared for eating by the application of heat",
-    "definition_zh": "a. 精疲力竭的, 被揍得昏厥的, 未达到目的就完蛋的, 喝醉了的",
-    "examples": [
-      "Make sure to cooked the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "cookie_noun",
-    "word": "cookie",
+    "id": "cooking_noun",
+    "word": "cooking",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'kuki/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cookie-us.mp3",
-    "definition_en": "Any of various small flat sweet cakes (`biscuit' is the British term)",
-    "definition_zh": "n. 饼干, 小甜点",
+    "phonetic": "/'kukiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cooking-us.mp3",
+    "definition_en": "n. the act of preparing something (as food) by the application of heat",
+    "definition_zh": "n. 烹饪",
     "examples": [
-      "Fresh cookie can be incorporated into a wide variety of delicious recipes."
+      "Fresh cooking is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -161,10 +105,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/'dinә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dinner-us.mp3",
-    "definition_en": "The main meal of the day served in the evening or at midday",
+    "definition_en": "n. the main meal of the day served in the evening or at midday n. a party of people assembled to have dinner together",
     "definition_zh": "n. 晚餐, 正餐, 宴会",
     "examples": [
-      "Fresh dinner can be incorporated into a wide variety of delicious recipes."
+      "Fresh dinner is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -175,24 +119,52 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/diʃ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dish-us.mp3",
-    "definition_en": "A piece of dishware normally used as a container for holding or serving food",
+    "definition_en": "n. a piece of dishware normally used as a container for holding or serving food n. a particular item of prepared food n. the quantity that a dish will hold n. directional antenna consisting of a parabolic reflector for microwave or radio frequency radiation",
     "definition_zh": "n. 盘子, 碟, 菜肴",
     "examples": [
-      "Fresh dish can be incorporated into a wide variety of delicious recipes."
+      "Fresh dish is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
-    "id": "dishes_noun",
-    "word": "dishes",
+    "id": "eat_verb",
+    "word": "eat",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/i:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eat-us.mp3",
+    "definition_en": "v. take in solid food v. eat a meal; take a meal v. worry or cause anxiety in a persistent way",
+    "definition_zh": "v. 吃, 腐蚀",
+    "examples": [
+      "Be sure to eat the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "food_noun",
+    "word": "food",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/dishes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dishes-us.mp3",
-    "definition_en": "N a piece of dishware normally used as a container for holding or serving food",
-    "definition_zh": "n. 餐具",
+    "phonetic": "/fu:d/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/food-us.mp3",
+    "definition_en": "n. any substance that can be metabolized by an animal to give energy and build tissue n. any solid substance (as opposed to liquid) that is used as a source of nourishment n. anything that provides mental stimulus for thinking",
+    "definition_zh": "n. 食物, 养料",
     "examples": [
-      "Fresh dishes can be incorporated into a wide variety of delicious recipes."
+      "Fresh food is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "fork_noun",
+    "word": "fork",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/fɒ:k/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fork-us.mp3",
+    "definition_en": "n. cutlery used for serving and eating food n. the region of the angle formed by the junction of two branches n. an agricultural tool used for lifting or digging; has a handle and metal prongs v. place under attack with one's own pieces, of two enemy pieces",
+    "definition_zh": "n. 叉子, 叉状物, 分岔",
+    "examples": [
+      "Fresh fork is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -203,10 +175,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/naif/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/knife-us.mp3",
-    "definition_en": "Edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle",
+    "definition_en": "n. edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle n. a weapon with a handle and blade with a sharp point v. use a knife on",
     "definition_zh": "n. 小刀, 匕首",
     "examples": [
-      "Understanding knife provides valuable insights into everyday communication."
+      "Fresh knife is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -217,10 +189,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/lʌntʃ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lunch-us.mp3",
-    "definition_en": "A midday meal",
+    "definition_en": "n. a midday meal v. take the midday meal v. provide a midday meal for",
     "definition_zh": "n. 午餐",
     "examples": [
-      "Fresh lunch can be incorporated into a wide variety of delicious recipes."
+      "Fresh lunch is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -231,24 +203,24 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/mi:l/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meal-us.mp3",
-    "definition_en": "The food served and eaten at one time",
+    "definition_en": "n. the food served and eaten at one time n. any of the occasions for eating food that occur by custom or habit at more or less fixed times n. coarsely ground foodstuff; especially seeds of various cereal grasses or pulse",
     "definition_zh": "n. 一餐, 膳食, 粗粉",
     "examples": [
-      "Fresh meal can be incorporated into a wide variety of delicious recipes."
+      "Fresh meal is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
-    "id": "meals_noun",
-    "word": "meals",
+    "id": "plate_noun",
+    "word": "plate",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/meals/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meals-us.mp3",
-    "definition_en": "N the food served and eaten at one time",
-    "definition_zh": "n. 膳食；谷类（meal的复数）",
+    "phonetic": "/pleit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plate-us.mp3",
+    "definition_en": "n. a sheet of metal or wood or glass or plastic n. a full-page illustration (usually on slick paper) n. dish on which food is served or from which food is eaten n. the quantity contained in a plate",
+    "definition_zh": "n. 碟, 盘子, 盆中物, 金属板, 图版, 金银餐具, 印版, 金属牌(照)",
     "examples": [
-      "Fresh meals can be incorporated into a wide variety of delicious recipes."
+      "Fresh plate is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -259,110 +231,24 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/'restәrɒŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/restaurant-us.mp3",
-    "definition_en": "A building where people go to eat",
+    "definition_en": "n. a building where people go to eat",
     "definition_zh": "n. 餐馆, 饭店",
     "examples": [
-      "Fresh restaurant can be incorporated into a wide variety of delicious recipes."
+      "Fresh restaurant is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
-    "id": "restaurants_noun",
-    "word": "restaurants",
+    "id": "spoon_noun",
+    "word": "spoon",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/ˈrestərənts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/restaurants-us.mp3",
-    "definition_en": "N a building where people go to eat",
-    "definition_zh": "n. 饭店( restaurant的名词复数 ); 餐馆; 饭馆; 菜馆",
+    "phonetic": "/spu:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spoon-us.mp3",
+    "definition_en": "n. a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food n. as much as a spoon will hold n. formerly a golfing wood with an elevated face v. scoop up or take up with a spoon",
+    "definition_zh": "n. 匙, 调羹, 匙形工具",
     "examples": [
-      "Fresh restaurants can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "salad_noun",
-    "word": "salad",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'sælәd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salad-us.mp3",
-    "definition_en": "A cold dish of various raw or cooked vegetables seasoned with oil, vinegar, or other dressing.",
-    "definition_zh": "沙拉，凉拌蔬菜",
-    "examples": [
-      "Toss crisp romaine lettuce with vinaigrette for a refreshing green salad.",
-      "A Greek salad features ripe tomatoes, cucumber, olives, and feta cheese."
-    ]
-  },
-  {
-    "id": "soup_noun",
-    "word": "soup",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/su:p/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soup-us.mp3",
-    "definition_en": "A liquid dish, typically made by boiling meat, fish, or vegetables in stock or water.",
-    "definition_zh": "汤，羹",
-    "examples": [
-      "A bowl of hot chicken noodle soup soothes a winter cold.",
-      "Creamy mushroom soup was served with warm crusty baguettes."
-    ]
-  },
-  {
-    "id": "baking_noun",
-    "word": "baking",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'beikiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/baking-us.mp3",
-    "definition_en": "Making bread or cake or pastry etc.",
-    "definition_zh": "n. 烘焙, 一次烘焙的量",
-    "examples": [
-      "Understanding baking provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "boil_verb",
-    "word": "boil",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/bɒil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boil-us.mp3",
-    "definition_en": "Come to the boiling point and change from a liquid to vapor",
-    "definition_zh": "v. 煮沸, 激动",
-    "examples": [
-      "Make sure to boil the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "boiled_adjective",
-    "word": "boiled",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/bɔild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boiled-us.mp3",
-    "definition_en": "Cooked in hot water",
-    "definition_zh": "a. 煮沸的, (非正式)喝醉的, 烧滚的",
-    "examples": [
-      "The committee analyzed a highly boiled perspective during the forum."
-    ]
-  },
-  {
-    "id": "boiled_verb",
-    "word": "boiled",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/bɔild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boiled-us.mp3",
-    "definition_en": "Cooked in hot water",
-    "definition_zh": "a. 煮沸的, (非正式)喝醉的, 烧滚的",
-    "examples": [
-      "Make sure to boiled the ingredients thoroughly before serving."
+      "Fresh spoon is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -373,222 +259,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/ʃef/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chef-us.mp3",
-    "definition_en": "A professional cook",
+    "definition_en": "n. a professional cook",
     "definition_zh": "n. 厨师",
     "examples": [
-      "The chef provided valuable guidance and expertise to the entire team."
-    ]
-  },
-  {
-    "id": "cooking_noun",
-    "word": "cooking",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'kukiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cooking-us.mp3",
-    "definition_en": "The act of preparing something (as food) by the application of heat",
-    "definition_zh": "n. 烹饪",
-    "examples": [
-      "Fresh ingredients and skilled cooking are essential for exceptional dining."
-    ]
-  },
-  {
-    "id": "cooking_verb",
-    "word": "cooking",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'kukiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cooking-us.mp3",
-    "definition_en": "The act of preparing something (as food) by the application of heat",
-    "definition_zh": "n. 烹饪",
-    "examples": [
-      "Make sure to cooking the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "delicious_adjective",
-    "word": "delicious",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/di'liʃәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delicious-us.mp3",
-    "definition_en": "Affording great pleasure to the sense of taste or smell.",
-    "definition_zh": "美味的，可口的",
-    "examples": [
-      "The restaurant serves delicious wood-fired sourdough pizza.",
-      "The aroma of freshly baked cinnamon bread was simply delicious."
-    ]
-  },
-  {
-    "id": "dessert_noun",
-    "word": "dessert",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/di'zә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dessert-us.mp3",
-    "definition_en": "The sweet course eaten at the end of a meal.",
-    "definition_zh": "甜点，饭后甜食",
-    "examples": [
-      "Save room for dessert; chocolate lava cake is on tonight's menu.",
-      "Tiramisu is Italy's most celebrated coffee-flavored dessert."
-    ]
-  },
-  {
-    "id": "fork_noun",
-    "word": "fork",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/fɒ:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fork-us.mp3",
-    "definition_en": "Cutlery used for serving and eating food",
-    "definition_zh": "n. 叉子, 叉状物, 分岔",
-    "examples": [
-      "Understanding fork provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "fried_adjective",
-    "word": "fried",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/fraid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fried-us.mp3",
-    "definition_en": "Cooked by frying in fat",
-    "definition_zh": "a. 油炸的",
-    "examples": [
-      "The committee analyzed a highly fried perspective during the forum."
-    ]
-  },
-  {
-    "id": "fry_noun",
-    "word": "fry",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/frai/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fry-us.mp3",
-    "definition_en": "English painter and art critic (1866-1934)",
-    "definition_zh": "n. 油炸食物, 鱼苗",
-    "examples": [
-      "Fresh fry can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "grilled_adjective",
-    "word": "grilled",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/grild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grilled-us.mp3",
-    "definition_en": "V cook over a grill",
-    "definition_zh": "a. 烤的, 炙过的, 有格子的",
-    "examples": [
-      "The committee analyzed a highly grilled perspective during the forum."
-    ]
-  },
-  {
-    "id": "menu_noun",
-    "word": "menu",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'menju:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/menu-us.mp3",
-    "definition_en": "A list of dishes available at a restaurant",
-    "definition_zh": "n. 菜单, (功能)选择单",
-    "examples": [
-      "Fresh menu can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "pasta_noun",
-    "word": "pasta",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'pæstә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pasta-us.mp3",
-    "definition_en": "A dish originally from Italy consisting of dough made from durum wheat and water, cooked in boiling water.",
-    "definition_zh": "意面，意大利面食",
-    "examples": [
-      "Cook the artisan pasta al dente before tossing with basil pesto."
-    ]
-  },
-  {
-    "id": "plate_noun",
-    "word": "plate",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/pleit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plate-us.mp3",
-    "definition_en": "A sheet of metal or wood or glass or plastic",
-    "definition_zh": "n. 碟, 盘子, 盆中物, 金属板, 图版, 金银餐具, 印版, 金属牌(照)",
-    "examples": [
-      "Understanding plate provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "roast_verb",
-    "word": "roast",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/rәust/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/roast-us.mp3",
-    "definition_en": "Cook with dry heat, usually in an oven",
-    "definition_zh": "vt. 烤, 炙, 烘焙, 嘲笑",
-    "examples": [
-      "Make sure to roast the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "spaghetti_noun",
-    "word": "spaghetti",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/spә'geti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spaghetti-us.mp3",
-    "definition_en": "Spaghetti served with a tomato sauce",
-    "definition_zh": "n. 意大利面条",
-    "examples": [
-      "Understanding spaghetti provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "spoon_noun",
-    "word": "spoon",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/spu:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spoon-us.mp3",
-    "definition_en": "A piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food",
-    "definition_zh": "n. 匙, 调羹, 匙形工具",
-    "examples": [
-      "Understanding spoon provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "supper_noun",
-    "word": "supper",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'sʌpә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/supper-us.mp3",
-    "definition_en": "A light evening meal; served in early evening if dinner is at midday or served late in the evening at bedtime",
-    "definition_zh": "n. 晚餐",
-    "examples": [
-      "Understanding supper provides valuable insights into everyday communication."
+      "Fresh chef is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -599,67 +273,80 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/beik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bake-us.mp3",
-    "definition_en": "To cook food using dry heat in an enclosed oven.",
-    "definition_zh": "烘烤，烘焙",
+    "definition_en": "v. cook and make edible by putting in a hot oven v. prepare with dry heat in an oven v. be very hot, due to hot weather or exposure to the sun",
+    "definition_zh": "vt. 烘焙, 烤",
     "examples": [
-      "Grandmother taught us how to bake artisan rye bread from scratch.",
-      "Bake the casserole at 180 degrees Celsius until golden brown."
+      "Be sure to bake the ingredients gently over moderate heat."
     ]
   },
   {
-    "id": "baker_noun",
-    "word": "baker",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'beikә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/baker-us.mp3",
-    "definition_en": "Someone who bakes commercially",
-    "definition_zh": "n. 面包师",
-    "examples": [
-      "Fresh baker can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "bakery_noun",
-    "word": "bakery",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'beikәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bakery-us.mp3",
-    "definition_en": "A workplace where baked goods (breads and cakes and pastries) are produced or sold",
-    "definition_zh": "n. 面包店",
-    "examples": [
-      "Fresh bakery can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "bowl_verb",
-    "word": "bowl",
+    "id": "boil_verb",
+    "word": "boil",
     "part_of_speech": "verb",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/bәul/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bowl-us.mp3",
-    "definition_en": "A round vessel that is open at the top; used chiefly for holding food or liquids;",
-    "definition_zh": "v. 滚木球, 快而稳地行驶",
+    "phonetic": "/bɒil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boil-us.mp3",
+    "definition_en": "n. a painful sore with a hard core filled with pus v. come to the boiling point and change from a liquid to vapor v. immerse or be immersed in a boiling liquid, often for cooking purposes v. bring to, or maintain at, the boiling point",
+    "definition_zh": "v. 煮沸, 激动",
     "examples": [
-      "Many professionals bowl key methods to achieve consistent, high-quality results."
+      "Be sure to boil the ingredients gently over moderate heat."
     ]
   },
   {
-    "id": "feast_noun",
-    "word": "feast",
+    "id": "cake_noun",
+    "word": "cake",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/fi:st/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feast-us.mp3",
-    "definition_en": "Something experienced with great delight",
-    "definition_zh": "n. 宴会, 酒席, 享受, 节日",
+    "phonetic": "/keik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cake-us.mp3",
+    "definition_en": "n. a block of solid substance (such as soap or wax) n. baked goods made from or based on a mixture of flour, sugar, eggs, and fat",
+    "definition_zh": "n. 蛋糕, 块, 饼",
     "examples": [
-      "Understanding feast provides valuable insights into everyday communication."
+      "Fresh cake is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "cookie_noun",
+    "word": "cookie",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'kuki/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cookie-us.mp3",
+    "definition_en": "n. any of various small flat sweet cakes (`biscuit' is the British term) n. the cook on a ranch or at a camp n. a short line of text that a web site puts on your computer's hard drive when you access the web site",
+    "definition_zh": "n. 饼干, 小甜点",
+    "examples": [
+      "Fresh cookie is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "delicious_adjective",
+    "word": "delicious",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/di'liʃәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delicious-us.mp3",
+    "definition_en": "n. variety of sweet eating apples",
+    "definition_zh": "a. 美味的",
+    "examples": [
+      "They enjoyed a delightful serving of delicious specialties at the gathering."
+    ]
+  },
+  {
+    "id": "dessert_noun",
+    "word": "dessert",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/di'zә:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dessert-us.mp3",
+    "definition_en": "n. a dish served as the last course of a meal",
+    "definition_zh": "n. 餐后甜点",
+    "examples": [
+      "Fresh dessert is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -670,24 +357,10 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/frai/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fry-us.mp3",
-    "definition_en": "Be excessively hot",
+    "definition_en": "n. English painter and art critic (1866-1934) n. English dramatist noted for his comic verse dramas (born 1907) v. be excessively hot v. cook on a hot surface using fat",
     "definition_zh": "v. 油炸, 煎",
     "examples": [
-      "Make sure to fry the ingredients thoroughly before serving."
-    ]
-  },
-  {
-    "id": "grill_noun",
-    "word": "grill",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/gril/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grill-us.mp3",
-    "definition_en": "A framework of metal bars used as a partition or a grate",
-    "definition_zh": "n. 烤架, 铁格子, 烤肉",
-    "examples": [
-      "Fresh grill can be incorporated into a wide variety of delicious recipes."
+      "Be sure to fry the ingredients gently over moderate heat."
     ]
   },
   {
@@ -698,10 +371,66 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/gril/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grill-us.mp3",
-    "definition_en": "Cook over a grill",
+    "definition_en": "n. a framework of metal bars used as a partition or a grate v. cook over a grill v. examine thoroughly",
     "definition_zh": "v. 烧, 烤, 严加盘问, 给...装栅栏",
     "examples": [
-      "Make sure to grill the ingredients thoroughly before serving."
+      "Be sure to grill the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "menu_noun",
+    "word": "menu",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'menju:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/menu-us.mp3",
+    "definition_en": "n. a list of dishes available at a restaurant n. the dishes making up a meal n. (computer science) a list of options available to a computer user n. an agenda of things to do",
+    "definition_zh": "n. 菜单, (功能)选择单",
+    "examples": [
+      "Fresh menu is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "noodle_noun",
+    "word": "noodle",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'nu:dl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/noodle-us.mp3",
+    "definition_en": "n. a ribbonlike strip of pasta",
+    "definition_zh": "n. 面条, 笨蛋",
+    "examples": [
+      "Fresh noodle is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "oil_noun",
+    "word": "oil",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/ɒil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oil-us.mp3",
+    "definition_en": "n. a slippery or viscous liquid or liquefiable substance not miscible with water n. oil paint containing pigment that is used by an artist v. cover with oil, as if by rubbing",
+    "definition_zh": "n. 油, 石油, 油画颜料",
+    "examples": [
+      "Fresh oil is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "pasta_noun",
+    "word": "pasta",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'pæstә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pasta-us.mp3",
+    "definition_en": "n. a dish that contains pasta as its main ingredient n. shaped and dried dough made from flour and water and sometimes egg",
+    "definition_zh": "n. 意大利面食",
+    "examples": [
+      "Fresh pasta is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -712,10 +441,122 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/pai/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pie-us.mp3",
-    "definition_en": "Dish baked in pastry-lined pan often with a pastry top",
+    "definition_en": "n. dish baked in pastry-lined pan often with a pastry top",
     "definition_zh": "n. 馅饼, 财富, 总额, 贪污受贿, 杂乱, 喜鹊",
     "examples": [
-      "Fresh pie can be incorporated into a wide variety of delicious recipes."
+      "Fresh pie is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "recipe_noun",
+    "word": "recipe",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'resipi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recipe-us.mp3",
+    "definition_en": "n. directions for making something",
+    "definition_zh": "n. 食谱, 处方, 秘诀",
+    "examples": [
+      "Fresh recipe is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "roast_verb",
+    "word": "roast",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/rәust/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/roast-us.mp3",
+    "definition_en": "n. a piece of meat roasted or for roasting and of a size for slicing into more than one portion v. cook with dry heat, usually in an oven s. (meat) cooked by dry heat in an oven",
+    "definition_zh": "vt. 烤, 炙, 烘焙, 嘲笑",
+    "examples": [
+      "Be sure to roast the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "salad_noun",
+    "word": "salad",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'sælәd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salad-us.mp3",
+    "definition_en": "n. food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens",
+    "definition_zh": "n. 色拉",
+    "examples": [
+      "Fresh salad is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "salt_noun",
+    "word": "salt",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/sɒ:lt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salt-us.mp3",
+    "definition_en": "n. a compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal) n. white crystalline form of especially sodium chloride used to season and preserve food n. the taste experience when common salt is taken into the mouth v. add salt to",
+    "definition_zh": "n. 盐, 风趣, 刺激",
+    "examples": [
+      "Fresh salt is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "sauce_noun",
+    "word": "sauce",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/sɒ:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sauce-us.mp3",
+    "definition_en": "n. flavorful relish or dressing or topping served as an accompaniment to food v. behave saucily or impudently towards v. dress (food) with a relish v. add zest or flavor to, make more interesting",
+    "definition_zh": "n. 酱油, 调味汁, 酱",
+    "examples": [
+      "Fresh sauce is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "soup_noun",
+    "word": "soup",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/su:p/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soup-us.mp3",
+    "definition_en": "n. liquid food especially of meat or fish or vegetable stock often containing pieces of solid food n. any composition having a consistency suggestive of soup n. an unfortunate situation v. dope (a racehorse)",
+    "definition_zh": "n. 汤, 马力",
+    "examples": [
+      "Fresh soup is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "sugar_noun",
+    "word": "sugar",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'ʃugә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sugar-us.mp3",
+    "definition_en": "n. a white crystalline carbohydrate used as a sweetener and preservative v. sweeten with sugar",
+    "definition_zh": "n. 糖, 糖块, 甜言蜜语",
+    "examples": [
+      "Fresh sugar is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "taste_noun",
+    "word": "taste",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/teist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taste-us.mp3",
+    "definition_en": "n. the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus n. delicate discrimination (especially of aesthetic values) n. a brief experience of something n. a small amount eaten or drunk",
+    "definition_zh": "n. 味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量",
+    "examples": [
+      "Fresh taste is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -726,38 +567,52 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/'teisti/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tasty-us.mp3",
-    "definition_en": "Pleasing to the sense of taste",
+    "definition_en": "a. pleasing to the sense of taste",
     "definition_zh": "a. 好吃的, 可口的",
     "examples": [
-      "The committee analyzed a highly tasty perspective during the forum."
+      "They enjoyed a delightful serving of tasty specialties at the gathering."
     ]
   },
   {
-    "id": "boiling_adjective",
-    "word": "boiling",
-    "part_of_speech": "adjective",
+    "id": "appetizer_noun",
+    "word": "appetizer",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'bɒiliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boiling-us.mp3",
-    "definition_en": "The application of heat to change something from a liquid to a gas",
-    "definition_zh": "a. 沸腾的, 激昂的",
+    "phonetic": "/'æpitaizә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appetizer-us.mp3",
+    "definition_en": "n. food or drink to stimulate the appetite (usually served before a meal or as the first course)",
+    "definition_zh": "n. 开胃食品, 吊胃口的东西",
     "examples": [
-      "The committee analyzed a highly boiling perspective during the forum."
+      "Fresh appetizer is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
-    "id": "boiling_verb",
-    "word": "boiling",
-    "part_of_speech": "verb",
+    "id": "banquet_noun",
+    "word": "banquet",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'bɒiliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boiling-us.mp3",
-    "definition_en": "The application of heat to change something from a liquid to a gas",
-    "definition_zh": "a. 沸腾的, 激昂的",
+    "phonetic": "/'bæŋkwit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banquet-us.mp3",
+    "definition_en": "n. a ceremonial dinner party for many people n. a meal that is well prepared and greatly enjoyed",
+    "definition_zh": "n. 宴会",
     "examples": [
-      "Make sure to boiling the ingredients thoroughly before serving."
+      "Fresh banquet is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "buffet_noun",
+    "word": "buffet",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'bʌfit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buffet-us.mp3",
+    "definition_en": "n. a piece of furniture that stands at the side of a dining room; has shelves and drawers n. a meal set out on a buffet at which guests help themselves v. strike against forcefully v. strike, beat repeatedly",
+    "definition_zh": "n. 自助餐, 小卖部, 碗橱, 殴打, 冲击",
+    "examples": [
+      "Fresh buffet is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -768,66 +623,598 @@
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/'keitәriŋ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/catering-us.mp3",
-    "definition_en": "Providing food and services",
-    "definition_zh": "n. 给养；承办酒席；[医]提供饮食及服务",
+    "definition_en": "n. providing food and services",
+    "definition_zh": "n. 给养；承办酒席；提供饮食及服务",
     "examples": [
-      "Understanding catering provides valuable insights into everyday communication."
+      "Fresh catering is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
-    "id": "recipe_noun",
-    "word": "recipe",
+    "id": "chop_verb",
+    "word": "chop",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/tʃɒp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chop-us.mp3",
+    "definition_en": "n. the irregular motion of waves (usually caused by wind blowing in a direction opposite to the tide) n. a small cut of meat including part of a rib n. a jaw n. a tennis return made with a downward motion that puts backspin on the ball",
+    "definition_zh": "vt. 剁碎, 砍, 切击, 割断",
+    "examples": [
+      "Be sure to chop the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "cuisine_noun",
+    "word": "cuisine",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'resipi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recipe-us.mp3",
-    "definition_en": "Directions for making something",
-    "definition_zh": "n. 食谱, 处方, 秘诀",
+    "phonetic": "/kwi:'zi:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cuisine-us.mp3",
+    "definition_en": "n. the practice or manner of preparing food or the food so prepared",
+    "definition_zh": "n. 烹调风格, 烹调法, 烹饪, 厨房",
     "examples": [
-      "Fresh recipe can be incorporated into a wide variety of delicious recipes."
+      "Fresh cuisine is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
-    "id": "recipes_noun",
-    "word": "recipes",
+    "id": "cutlery_noun",
+    "word": "cutlery",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/'resəpɪz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recipes-us.mp3",
-    "definition_en": "Pl.  of Recipe",
-    "definition_zh": "n. 烹饪法( recipe的名词复数 ); 食谱; 方法; 秘诀",
+    "phonetic": "/'kʌtlәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cutlery-us.mp3",
+    "definition_en": "n. tableware implements for cutting and eating food",
+    "definition_zh": "n. 刀剑制造业, 刃具制造业, 刀剑, 刃具, 刀叉餐具",
     "examples": [
-      "Fresh recipes can be incorporated into a wide variety of delicious recipes."
+      "Fresh cutlery is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
-    "id": "roast_adjective",
-    "word": "roast",
+    "id": "delicacy_noun",
+    "word": "delicacy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'delikәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delicacy-us.mp3",
+    "definition_en": "n. refined taste; tact n. smallness of stature n. subtly skillful handling of a situation",
+    "definition_zh": "n. 细软, 精致, 精美的食品, 娇气, 微妙, 棘手, 娇弱, 灵敏, 灵巧",
+    "examples": [
+      "Fresh delicacy is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "dining_noun",
+    "word": "dining",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'dainiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dining-us.mp3",
+    "definition_en": "n. the act of eating dinner",
+    "definition_zh": "n. 正餐, 宴会",
+    "examples": [
+      "Fresh dining is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "entree_noun",
+    "word": "entree",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'ɒntrei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/entree-us.mp3",
+    "definition_en": "n. the principal dish of a meal n. the right to enter n. the act of entering",
+    "definition_zh": "n. 入场许可, 主菜",
+    "examples": [
+      "Fresh entree is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "feast_noun",
+    "word": "feast",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/fi:st/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feast-us.mp3",
+    "definition_en": "n. something experienced with great delight v. partake in a feast or banquet v. provide a feast or banquet for",
+    "definition_zh": "n. 宴会, 酒席, 享受, 节日",
+    "examples": [
+      "Fresh feast is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "flavor_noun",
+    "word": "flavor",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'fleivә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flavor-us.mp3",
+    "definition_en": "n. (physics) the six kinds of quarks",
+    "definition_zh": "n. 滋味, 调味品",
+    "examples": [
+      "Fresh flavor is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "gourmet_noun",
+    "word": "gourmet",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'guәmei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gourmet-us.mp3",
+    "definition_en": "n a person devoted to refined sensuous enjoyment (especially good food and drink)",
+    "definition_zh": "n. 美食家",
+    "examples": [
+      "Fresh gourmet is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "ingredient_noun",
+    "word": "ingredient",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/in'gri:diәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ingredient-us.mp3",
+    "definition_en": "n. a component of a mixture or compound n. food that is a component of a mixture in cooking",
+    "definition_zh": "n. 成分, 因素",
+    "examples": [
+      "Fresh ingredient is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "luncheon_noun",
+    "word": "luncheon",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'lʌntʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/luncheon-us.mp3",
+    "definition_en": "n a midday meal",
+    "definition_zh": "n. 午宴, 午餐会",
+    "examples": [
+      "Fresh luncheon is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "marinate_verb",
+    "word": "marinate",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'mærineit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marinate-us.mp3",
+    "definition_en": "v soak in marinade",
+    "definition_zh": "vt. 用腌泡汁腌/泡(肉/鱼)",
+    "examples": [
+      "Be sure to marinate the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "mince_verb",
+    "word": "mince",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/mins/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mince-us.mp3",
+    "definition_en": "n. food chopped into small bits v. make less severe or harsh v. walk daintily v. cut into small pieces",
+    "definition_zh": "vt. 切碎, 矫揉做作地说",
+    "examples": [
+      "Be sure to mince the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "napkin_noun",
+    "word": "napkin",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'næpkin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/napkin-us.mp3",
+    "definition_en": "n. a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing",
+    "definition_zh": "n. 餐巾, 餐巾纸, 尿布",
+    "examples": [
+      "Fresh napkin is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "pantry_noun",
+    "word": "pantry",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'pæntri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pantry-us.mp3",
+    "definition_en": "n. a small storeroom for storing foods or wines",
+    "definition_zh": "n. 餐具室, 食品室",
+    "examples": [
+      "Fresh pantry is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "saute_verb",
+    "word": "saute",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saute-us.mp3",
+    "definition_en": "n. a dish of sauteed food v. fry briefly over high heat s. fried quickly in a little fat",
+    "definition_zh": "vt. 炒, 嫩煎, 炸",
+    "examples": [
+      "Be sure to saute the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "seasoning_noun",
+    "word": "seasoning",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'si:zniŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seasoning-us.mp3",
+    "definition_en": "n. the act of adding a seasoning to food",
+    "definition_zh": "n. 调味品, 作料, 佐料, 锻练",
+    "examples": [
+      "Fresh seasoning is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "simmer_verb",
+    "word": "simmer",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'simә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/simmer-us.mp3",
+    "definition_en": "n. temperature just below the boiling point v. boil slowly at low temperature",
+    "definition_zh": "vt. 煨",
+    "examples": [
+      "Be sure to simmer the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "slice_verb",
+    "word": "slice",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/slais/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/slice-us.mp3",
+    "definition_en": "n. a share of something n. a golf shot that curves to the right for a right-handed golfer n. a thin flat piece cut off of some object n. a spatula for spreading paint or ink",
+    "definition_zh": "vt. 切成薄片, 切下",
+    "examples": [
+      "Be sure to slice the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "spice_noun",
+    "word": "spice",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/spais/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spice-us.mp3",
+    "definition_en": "n. aromatic substances of vegetable origin used as a preservative n. any of a variety of pungent aromatic vegetable substances used for flavoring food v. make more interesting or flavorful",
+    "definition_zh": "n. 香料, 药料, 香气, 调味品, 情趣, 少许",
+    "examples": [
+      "Fresh spice is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "spicy_adjective",
+    "word": "spicy",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
-    "phonetic": "/rәust/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/roast-us.mp3",
-    "definition_en": "A piece of meat roasted or for roasting and of a size for slicing into more than one portion",
-    "definition_zh": "a. 烘烤的, 烤过的",
+    "phonetic": "/'spaisi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spicy-us.mp3",
+    "definition_en": "s having an agreeably pungent taste s producing a burning sensation on the taste nerves s suggestive of sexual impropriety",
+    "definition_zh": "a. 香的, 多香料的, 辛辣的, 下流的",
     "examples": [
-      "The committee analyzed a highly roast perspective during the forum."
+      "They enjoyed a delightful serving of spicy specialties at the gathering."
     ]
   },
   {
-    "id": "stew_noun",
+    "id": "stew_verb",
     "word": "stew",
-    "part_of_speech": "noun",
+    "part_of_speech": "verb",
     "level": "B2",
     "topic": "餐饮美食、菜单与烹饪",
     "phonetic": "/stju:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stew-us.mp3",
-    "definition_en": "Food prepared by stewing especially meat or fish with vegetables",
-    "definition_zh": "n. 炖, 烦恼, 热浴, 妓院, 鱼塘",
+    "definition_en": "n. food prepared by stewing especially meat or fish with vegetables v. bear a grudge; harbor ill feelings v. cook slowly and for a long time in liquid",
+    "definition_zh": "vi. 炖, 焖, 忧虑",
     "examples": [
-      "Fresh stew can be incorporated into a wide variety of delicious recipes."
+      "Be sure to stew the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "blanch_verb",
+    "word": "blanch",
+    "part_of_speech": "verb",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/blɑ:ntʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blanch-us.mp3",
+    "definition_en": "v. cook (vegetables) briefly",
+    "definition_zh": "vt. 漂白, 使变白",
+    "examples": [
+      "Be sure to blanch the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "braise_verb",
+    "word": "braise",
+    "part_of_speech": "verb",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/breiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/braise-us.mp3",
+    "definition_en": "v. cook in liquid",
+    "definition_zh": "vt. 炖, 蒸",
+    "examples": [
+      "Be sure to braise the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "confection_noun",
+    "word": "confection",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/kәn'fekʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/confection-us.mp3",
+    "definition_en": "n. the act of creating something (a medicine or drink or soup etc.) by compounding or mixing a variety of components",
+    "definition_zh": "n. 糖果, 蜜饯",
+    "examples": [
+      "Fresh confection is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "culinary_adjective",
+    "word": "culinary",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'kʌlinәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/culinary-us.mp3",
+    "definition_en": "a. of or relating to or used in cooking",
+    "definition_zh": "a. 厨房的, 烹调用的",
+    "examples": [
+      "They enjoyed a delightful serving of culinary specialties at the gathering."
+    ]
+  },
+  {
+    "id": "delectable_adjective",
+    "word": "delectable",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/di'lektәbl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delectable-us.mp3",
+    "definition_en": "s. extremely pleasing to the sense of taste s. capable of arousing desire",
+    "definition_zh": "a. 令人快乐的, 美味的, 使人愉快的",
+    "examples": [
+      "They enjoyed a delightful serving of delectable specialties at the gathering."
+    ]
+  },
+  {
+    "id": "dough_noun",
+    "word": "dough",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/dәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dough-us.mp3",
+    "definition_en": "n. a flour mixture stiff enough to knead or roll",
+    "definition_zh": "n. 生面团",
+    "examples": [
+      "Fresh dough is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "garnish_verb",
+    "word": "garnish",
+    "part_of_speech": "verb",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'gɑ:niʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/garnish-us.mp3",
+    "definition_en": "n. something (such as parsley) added to a dish for flavor or decoration n. any decoration added as a trimming or adornment",
+    "definition_zh": "vt. 装饰",
+    "examples": [
+      "Be sure to garnish the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "gastronomy_noun",
+    "word": "gastronomy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/gæs'trɒnәmi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gastronomy-us.mp3",
+    "definition_en": "n. a particular style of cookery (as of a region) n. the art and practice of choosing and preparing and eating good food",
+    "definition_zh": "n. 美食法, 烹饪法",
+    "examples": [
+      "Fresh gastronomy is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "palate_noun",
+    "word": "palate",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'pælit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/palate-us.mp3",
+    "definition_en": "n. the upper surface of the mouth that separates the oral and nasal cavities",
+    "definition_zh": "n. 腭, 味觉, 趣味, 爱好",
+    "examples": [
+      "Fresh palate is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "pastry_noun",
+    "word": "pastry",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'peistri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pastry-us.mp3",
+    "definition_en": "n. a dough of flour and water and shortening n. any of various baked foods made of dough or batter",
+    "definition_zh": "n. 油酥点心, 面粉糕饼",
+    "examples": [
+      "Fresh pastry is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "poach_verb",
+    "word": "poach",
+    "part_of_speech": "verb",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/pәutʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/poach-us.mp3",
+    "definition_en": "v. hunt illegally v. cook in a simmering liquid",
+    "definition_zh": "vt. 水煮(蛋), 偷猎, 侵入, 窃取",
+    "examples": [
+      "Be sure to poach the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "savory_adjective",
+    "word": "savory",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'seivәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/savory-us.mp3",
+    "definition_en": "n. any of several aromatic herbs or subshrubs of the genus Satureja having spikes of flowers attractive to bees n. dwarf aromatic shrub of Mediterranean regions n. either of two aromatic herbs of the mint family",
+    "definition_zh": "a. 风味极佳的, 可口的, 味香的",
+    "examples": [
+      "They enjoyed a delightful serving of savory specialties at the gathering."
+    ]
+  },
+  {
+    "id": "sear_verb",
+    "word": "sear",
+    "part_of_speech": "verb",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/siә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sear-us.mp3",
+    "definition_en": "v. make very hot and dry",
+    "definition_zh": "vt. 烤焦, 使枯萎",
+    "examples": [
+      "Be sure to sear the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "tablecloth_noun",
+    "word": "tablecloth",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'teiblklɒθ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tablecloth-us.mp3",
+    "definition_en": "n. a covering spread over a dining table",
+    "definition_zh": "n. 台布",
+    "examples": [
+      "Fresh tablecloth is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "utensil_noun",
+    "word": "utensil",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/ju:'tensl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/utensil-us.mp3",
+    "definition_en": "n. an implement for practical use (especially in a household)",
+    "definition_zh": "n. 器皿, 用具",
+    "examples": [
+      "Fresh utensil is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "caramelize_verb",
+    "word": "caramelize",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'kærәmәlaiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caramelize-us.mp3",
+    "definition_en": "v. be converted into caramel v. convert to caramel",
+    "definition_zh": "v. 加熔(糖)使焦, (糖)熔化而变成焦糖",
+    "examples": [
+      "Be sure to caramelize the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "condiment_noun",
+    "word": "condiment",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/'kɒndimәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/condiment-us.mp3",
+    "definition_en": "n. a preparation (a sauce or relish or spice) to enhance flavor or enjoyment",
+    "definition_zh": "n. 辛辣调味品",
+    "examples": [
+      "Fresh condiment is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "degrease_verb",
+    "word": "degrease",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/di:'gri:z/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/degrease-us.mp3",
+    "definition_en": "v. remove grease or oil from (a pan)",
+    "definition_zh": "vt. 使脱脂, 除油污",
+    "examples": [
+      "Be sure to degrease the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "flambé_verb",
+    "word": "flambé",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/flambé/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flambé-us.mp3",
+    "definition_en": "A term denoting flambé in standard English.",
+    "definition_zh": "n. flambé",
+    "examples": [
+      "Be sure to flambé the ingredients gently over moderate heat."
+    ]
+  },
+  {
+    "id": "vinaigrette_noun",
+    "word": "vinaigrette",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "餐饮美食、菜单与烹饪",
+    "phonetic": "/,vinei'^ret/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vinaigrette-us.mp3",
+    "definition_en": "n oil and vinegar with mustard and garlic",
+    "definition_zh": "n. 一种油、醋、盐、香料等合成的浓烈调味品",
+    "examples": [
+      "Fresh vinaigrette is popular for its rich nutritional value and delightful taste."
     ]
   }
 ]

@@ -1,170 +1,226 @@
 [
   {
-    "id": "additions_noun",
-    "word": "additions",
+    "id": "bank_noun",
+    "word": "bank",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/additions/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/additions-us.mp3",
-    "definition_en": "N a component that is added to something to improve it",
-    "definition_zh": "n. 附件；增加固定资产；附加物（addition的复数）",
+    "phonetic": "/bæŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bank-us.mp3",
+    "definition_en": "n. sloping land (especially the slope beside a body of water) n. a long ridge or pile n. an arrangement of similar objects in a row or in tiers n. a supply or stock held in reserve for future use (especially in emergencies)",
+    "definition_zh": "n. 银行, 堤, 岸",
     "examples": [
-      "Understanding additions provides valuable insights into everyday communication."
+      "Financial analysts evaluated how fluctuations in bank affect global market stability."
     ]
   },
   {
-    "id": "banking_noun",
-    "word": "banking",
-    "part_of_speech": "noun",
-    "level": "A2",
+    "id": "buy_verb",
+    "word": "buy",
+    "part_of_speech": "verb",
+    "level": "A1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/'bæŋkiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banking-us.mp3",
-    "definition_en": "Engaging in the business of keeping money for savings and checking accounts or for exchange or for issuing loans and credit etc.",
-    "definition_zh": "n. 银行业务",
+    "phonetic": "/bai/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buy-us.mp3",
+    "definition_en": "v. obtain by purchase; acquire by means of a financial transaction v. be worth or be capable of buying v. acquire by trade or sacrifice or exchange v. accept as true",
+    "definition_zh": "vt. 买, 获得",
     "examples": [
-      "The new policy addressing banking was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in buy affect global market stability."
     ]
   },
   {
-    "id": "bond_noun",
-    "word": "bond",
+    "id": "money_noun",
+    "word": "money",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/bɒnd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bond-us.mp3",
-    "definition_en": "A certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal",
-    "definition_zh": "n. 捆绑物, 结合, 债券, 契约, 粘合剂, 保证人, 键, 关栈保留",
+    "phonetic": "/'mʌni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/money-us.mp3",
+    "definition_en": "n. the most common medium of exchange; functions as legal tender n. wealth reckoned in terms of money n. the official currency issued by a government or national bank",
+    "definition_zh": "n. 金钱, 一笔款, 财富, 货币, 金额",
     "examples": [
-      "Understanding bond provides valuable insights into everyday communication."
+      "Financial analysts evaluated how fluctuations in money affect global market stability."
     ]
   },
   {
-    "id": "bonds_noun",
-    "word": "bonds",
-    "part_of_speech": "noun",
-    "level": "B1",
+    "id": "pay_verb",
+    "word": "pay",
+    "part_of_speech": "verb",
+    "level": "A1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/bɒndz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bonds-us.mp3",
-    "definition_en": "N an electrical force linking atoms",
-    "definition_zh": "n. 镣铐, 监禁",
+    "phonetic": "/pei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pay-us.mp3",
+    "definition_en": "v. give money, usually in exchange for goods or services v. do or give something to somebody in return v. be worth it v. render",
+    "definition_zh": "vt. 支付, 付清, 补偿, 偿还, 对...有利, 为...涂防水物",
     "examples": [
-      "Understanding bonds provides valuable insights into everyday communication."
+      "Financial analysts evaluated how fluctuations in pay affect global market stability."
     ]
   },
   {
-    "id": "cashpoint_noun",
-    "word": "cashpoint",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/cashpoint/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cashpoint-us.mp3",
-    "definition_en": "Denoting cashpoint; widely used in Arts & Literature.",
-    "definition_zh": "[经] 一种电脑化的付现机",
-    "examples": [
-      "Understanding cashpoint provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "currency_noun",
-    "word": "currency",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'kʌrәnsi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/currency-us.mp3",
-    "definition_en": "The metal or paper medium of exchange that is presently used",
-    "definition_zh": "n. 货币, 通货, 流通, 通用",
-    "examples": [
-      "The new policy addressing currency was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "debt_noun",
-    "word": "debt",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/det/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/debt-us.mp3",
-    "definition_en": "The state of owing something (especially money)",
-    "definition_zh": "n. 债务, 罪过",
-    "examples": [
-      "The new policy addressing debt was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "debts_noun",
-    "word": "debts",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/debts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/debts-us.mp3",
-    "definition_en": "N the state of owing something (especially money)",
-    "definition_zh": "n. 负债类, 债务（debt的复数形式）",
-    "examples": [
-      "The new policy addressing debts was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "economic_adjective",
-    "word": "economic",
+    "id": "poor_adjective",
+    "word": "poor",
     "part_of_speech": "adjective",
-    "level": "B1",
+    "level": "A1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/.i:kә'nɒmik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economic-us.mp3",
-    "definition_en": "Of or relating to an economy, the system of production and management of material wealth",
-    "definition_zh": "a. 经济上的, 实用的, 节省的",
+    "phonetic": "/puә. pɒ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/poor-us.mp3",
+    "definition_en": "a. having little money or few possessions a. characterized by or indicating poverty a. lacking in specific resources, qualities or substances s. unsatisfactory",
+    "definition_zh": "a. 贫穷的, 贫乏的, 不幸的, 可怜的, 拙劣的, 卑鄙的",
     "examples": [
-      "The committee analyzed a highly economic perspective during the forum."
+      "Financial analysts evaluated how fluctuations in poor affect global market stability."
     ]
   },
   {
-    "id": "economic_noun",
-    "word": "economic",
+    "id": "price_noun",
+    "word": "price",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/.i:kә'nɒmik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economic-us.mp3",
-    "definition_en": "Of or relating to an economy, the system of production and management of material wealth",
-    "definition_zh": "a. 经济上的, 实用的, 节省的",
+    "phonetic": "/prais/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/price-us.mp3",
+    "definition_en": "n. the amount of money needed to purchase something n. value measured by what must be given or done or undergone to obtain something n. the high value or worth of something n. a monetary reward for helping to catch a criminal",
+    "definition_zh": "n. 价格, 代价, 价值",
     "examples": [
-      "The new policy addressing economic was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in price affect global market stability."
     ]
   },
   {
-    "id": "economics_noun",
-    "word": "economics",
-    "part_of_speech": "noun",
-    "level": "B1",
+    "id": "rich_adjective",
+    "word": "rich",
+    "part_of_speech": "adjective",
+    "level": "A1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/.i:kә'nɒmiks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economics-us.mp3",
-    "definition_en": "The branch of social science that deals with the production and distribution and consumption of goods and services and their management",
-    "definition_zh": "n. 经济学",
+    "phonetic": "/ri:tʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rich-us.mp3",
+    "definition_en": "a. possessing material wealth a. having an abundant supply of desirable qualities or substances (especially natural resources) s. of great worth or quality s. very productive",
+    "definition_zh": "a. 富裕的, 富饶的, 浓厚的, 贵重的",
     "examples": [
-      "The new policy addressing economics was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in rich affect global market stability."
     ]
   },
   {
-    "id": "economies_noun",
-    "word": "economies",
+    "id": "sell_verb",
+    "word": "sell",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/sel/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sell-us.mp3",
+    "definition_en": "n. the activity of persuading someone to buy v. exchange or deliver for money or its equivalent v. be sold at a certain price or in a certain way v. persuade somebody to accept something",
+    "definition_zh": "vt. 卖, 背叛, 销售, 出卖",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in sell affect global market stability."
+    ]
+  },
+  {
+    "id": "cost_noun",
+    "word": "cost",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/kɒst/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cost-us.mp3",
+    "definition_en": "n. the total spent for goods or services including money and time and labor v. be priced at v. require to lose, suffer, or sacrifice",
+    "definition_zh": "n. 代价, 价值, 费用",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in cost affect global market stability."
+    ]
+  },
+  {
+    "id": "accounting_noun",
+    "word": "accounting",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "经济学与金融商贸",
-    "phonetic": "/iˈkɔnəmiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economies-us.mp3",
-    "definition_en": "Pl.  of Economy",
-    "definition_zh": "n. 节约( economy的名词复数 ); 经济; 经济情况; 经济结构",
+    "phonetic": "/ә'kauntiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accounting-us.mp3",
+    "definition_en": "n. a convincing explanation that reveals basic causes n. a system that provides quantitative information about finances n. a bookkeeper's chronological list of related debits and credits of a business; forms part of a ledger of accounts",
+    "definition_zh": "n. 会计学, 帐单, 清帐",
     "examples": [
-      "The new policy addressing economies was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in accounting affect global market stability."
+    ]
+  },
+  {
+    "id": "budget_noun",
+    "word": "budget",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'bʌdʒit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/budget-us.mp3",
+    "definition_en": "n. a sum of money allocated for a particular purpose n. a summary of intended expenditures along with proposals for how to meet them v. make a budget",
+    "definition_zh": "n. 预算",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in budget affect global market stability."
+    ]
+  },
+  {
+    "id": "business_noun",
+    "word": "business",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'biznis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/business-us.mp3",
+    "definition_en": "n. a commercial or industrial enterprise and the people who constitute it n. a rightful concern or responsibility n. an immediate objective n. the volume of commercial activity",
+    "definition_zh": "n. 生意, 事情, 业务, 商业, 商行, 职责",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in business affect global market stability."
+    ]
+  },
+  {
+    "id": "cash_noun",
+    "word": "cash",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/kæʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cash-us.mp3",
+    "definition_en": "n. money in the form of bills or coins n. prompt payment for goods or services in currency or by check n. United States country music singer and songwriter (1932-2003) v. exchange for cash",
+    "definition_zh": "n. 现金",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in cash affect global market stability."
+    ]
+  },
+  {
+    "id": "company_noun",
+    "word": "company",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'kʌmpәni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/company-us.mp3",
+    "definition_en": "n. an institution created to conduct business n. small military unit; usually two or three platoons n. the state of being with someone n. organization of performers and associated personnel (especially theatrical)",
+    "definition_zh": "n. 公司, 友伴, 交往, 连队, 朋友, 一群",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in company affect global market stability."
+    ]
+  },
+  {
+    "id": "credit_noun",
+    "word": "credit",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'kredit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/credit-us.mp3",
+    "definition_en": "n. money available for a client to borrow n. an accounting entry acknowledging income or capital items n. used in the phrase `to your credit' in order to indicate an achievement deserving praise;  n. arrangement for deferred payment for goods and services",
+    "definition_zh": "n. 信用, 信任, 荣誉, 贷款, 学分",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in credit affect global market stability."
+    ]
+  },
+  {
+    "id": "discount_noun",
+    "word": "discount",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'diskaunt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discount-us.mp3",
+    "definition_en": "n. the act of reducing the selling price of merchandise v. give a reduction in price on",
+    "definition_zh": "n. 折扣, 贴现率",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in discount affect global market stability."
     ]
   },
   {
@@ -175,164 +231,416 @@
     "topic": "经济学与金融商贸",
     "phonetic": "/i'kɒnәmi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economy-us.mp3",
-    "definition_en": "The system of production and distribution and consumption",
+    "definition_en": "n. the system of production and distribution and consumption n. the efficient use of resources n. frugality in the expenditure of money or resources n. an act of economizing; reduction in cost",
     "definition_zh": "n. 经济, 理财, 节约",
     "examples": [
-      "The new policy addressing economy was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in economy affect global market stability."
     ]
   },
   {
-    "id": "finance_verb",
+    "id": "export_noun",
+    "word": "export",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/ik'spɒ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/export-us.mp3",
+    "definition_en": "n. commodities (goods or services) sold to a foreign country v. sell or transfer abroad v. transfer (electronic data) out of a database or document in a format that can be used by other programs v. cause to spread in another part of the world",
+    "definition_zh": "n. 输出品, 输出",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in export affect global market stability."
+    ]
+  },
+  {
+    "id": "finance_noun",
     "word": "finance",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "经济学与金融商贸",
     "phonetic": "/fai'næns/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/finance-us.mp3",
-    "definition_en": "Obtain or provide money for",
-    "definition_zh": "vt. 供给...经费, 负担经费",
+    "definition_en": "n. the commercial activity of providing funds and capital n. the branch of economics that studies the management of money and other assets n. the management of money and credit and banking and investments v. obtain or provide money for",
+    "definition_zh": "n. 财政, 财务",
     "examples": [
-      "Officials must finance institutional guidelines to uphold public integrity."
+      "Financial analysts evaluated how fluctuations in finance affect global market stability."
     ]
   },
   {
-    "id": "financial_adjective",
-    "word": "financial",
+    "id": "import_noun",
+    "word": "import",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/im'pɒ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/import-us.mp3",
+    "definition_en": "n. commodities (goods or services) bought from a foreign country n. an imported person brought from a foreign country v. bring in from abroad v. transfer (electronic data) into a database or document",
+    "definition_zh": "n. 进口货, 进口, 输入, 含义, 重要性",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in import affect global market stability."
+    ]
+  },
+  {
+    "id": "income_noun",
+    "word": "income",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'inkʌm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/income-us.mp3",
+    "definition_en": "n. the financial gain (earned or unearned) accruing over a given period of time",
+    "definition_zh": "n. 收入, 收益, 流入",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in income affect global market stability."
+    ]
+  },
+  {
+    "id": "loss_noun",
+    "word": "loss",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/lɒs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loss-us.mp3",
+    "definition_en": "n. something that is lost n. gradual decline in amount or activity n. the act of losing someone or something n. the disadvantage that results from losing something",
+    "definition_zh": "n. 损失, 遗失, 失败, 输, 错过, 伤亡",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in loss affect global market stability."
+    ]
+  },
+  {
+    "id": "market_noun",
+    "word": "market",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'mɑ:kit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/market-us.mp3",
+    "definition_en": "n. the world of commercial activity where goods and services are bought and sold n. the customers for a particular product or service n. the securities markets in the aggregate v. engage in the commercial promotion, sale, or distribution of",
+    "definition_zh": "n. 市场, 交易, 集市, 推销地区, 行情, 市面, 销路",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in market affect global market stability."
+    ]
+  },
+  {
+    "id": "profit_noun",
+    "word": "profit",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'prɒfit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profit-us.mp3",
+    "definition_en": "n. the advantageous quality of being beneficial v. derive a benefit from v. make a profit; gain money or materially",
+    "definition_zh": "n. 利润, 赢利, 利益",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in profit affect global market stability."
+    ]
+  },
+  {
+    "id": "trade_noun",
+    "word": "trade",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/treid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trade-us.mp3",
+    "definition_en": "n. the commercial exchange (buying and selling on domestic or international markets) of goods and services n. the skilled practice of a practical occupation n. the business given to a commercial establishment by its customers v. engage in the trade of",
+    "definition_zh": "n. 贸易, 商业, 交易, 生意, 职业, 顾客, 信风",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in trade affect global market stability."
+    ]
+  },
+  {
+    "id": "unemployment_noun",
+    "word": "unemployment",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/.ʌnim'plɒimәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unemployment-us.mp3",
+    "definition_en": "n. the state of being unemployed or not having a job",
+    "definition_zh": "n. 失业, 失业人数",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in unemployment affect global market stability."
+    ]
+  },
+  {
+    "id": "wealth_noun",
+    "word": "wealth",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/welθ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wealth-us.mp3",
+    "definition_en": "n. the state of being rich and affluent; having a plentiful supply of material goods and money n. the quality of profuse abundance n. an abundance of material possessions and resources n. property that has economic utility: a monetary value or an exchange value",
+    "definition_zh": "n. 财富, 资源, 财产, 丰富, 富裕, 大量",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in wealth affect global market stability."
+    ]
+  },
+  {
+    "id": "acquisition_noun",
+    "word": "acquisition",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/.ækwi'ziʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acquisition-us.mp3",
+    "definition_en": "n. the act of contracting or assuming or acquiring possession of something n. something acquired",
+    "definition_zh": "n. 获得, 获得物",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in acquisition affect global market stability."
+    ]
+  },
+  {
+    "id": "appraisal_noun",
+    "word": "appraisal",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/ә'preizәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appraisal-us.mp3",
+    "definition_en": "n. the classification of someone or something with respect to its worth n. a document appraising the value of something (as for insurance or taxation) n. an expert estimation of the quality, quantity, and other characteristics of someone or something",
+    "definition_zh": "n. 评价, 估价",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in appraisal affect global market stability."
+    ]
+  },
+  {
+    "id": "appreciation_noun",
+    "word": "appreciation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/ә.pri:ʃi'eiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appreciation-us.mp3",
+    "definition_en": "n. understanding of the nature or meaning or quality or magnitude of something n. an expression of gratitude n. an increase in price or value",
+    "definition_zh": "n. 感激, 赏识, 鉴别",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in appreciation affect global market stability."
+    ]
+  },
+  {
+    "id": "asset_noun",
+    "word": "asset",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'æset/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/asset-us.mp3",
+    "definition_en": "n. a useful or valuable quality",
+    "definition_zh": "n. 资产, 有益的东西",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in asset affect global market stability."
+    ]
+  },
+  {
+    "id": "assets_noun",
+    "word": "assets",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'æsets/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assets-us.mp3",
+    "definition_en": "n. anything of material value or usefulness that is owned by a person or company",
+    "definition_zh": "n. 资产",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in assets affect global market stability."
+    ]
+  },
+  {
+    "id": "audit_noun",
+    "word": "audit",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'ɒ:dit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/audit-us.mp3",
+    "definition_en": "n. a methodical examination or review of a condition or situation v. examine carefully for accuracy with the intent of verification v. attend academic courses without getting credit",
+    "definition_zh": "n. 审计, 查帐",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in audit affect global market stability."
+    ]
+  },
+  {
+    "id": "bailout_noun",
+    "word": "bailout",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'beilaut/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bailout-us.mp3",
+    "definition_en": "A term denoting bailout.",
+    "definition_zh": "跳伞",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in bailout affect global market stability."
+    ]
+  },
+  {
+    "id": "balance sheet_noun",
+    "word": "balance sheet",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/balance sheet-us.mp3",
+    "definition_en": "A term denoting balance sheet.",
+    "definition_zh": "资产负债表",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in balance sheet affect global market stability."
+    ]
+  },
+  {
+    "id": "benchmark_noun",
+    "word": "benchmark",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/benchmark-us.mp3",
+    "definition_en": "n. a standard by which something can be measured or judged n. a surveyor's mark on a permanent object of predetermined position and elevation used as a reference point",
+    "definition_zh": "基准程序; 基准",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in benchmark affect global market stability."
+    ]
+  },
+  {
+    "id": "capital_noun",
+    "word": "capital",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'kæpitәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/capital-us.mp3",
+    "definition_en": "n. assets available for use in the production of further assets n. wealth in the form of money or property owned by a person or business and human resources of economic value n. a seat of government n. one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis; capitals were kept in the upper half of the type case and so became known as upper-case letters\"",
+    "definition_zh": "n. 首都, 大写字母, 资本",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in capital affect global market stability."
+    ]
+  },
+  {
+    "id": "capitalism_noun",
+    "word": "capitalism",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'kæpitәlizәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/capitalism-us.mp3",
+    "definition_en": "n. an economic system based on private ownership of capital",
+    "definition_zh": "n. 资本主义",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in capitalism affect global market stability."
+    ]
+  },
+  {
+    "id": "commodity_noun",
+    "word": "commodity",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/kә'mɒditi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/commodity-us.mp3",
+    "definition_en": "n. articles of commerce",
+    "definition_zh": "n. 农产品, 商品, 有用的物品",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in commodity affect global market stability."
+    ]
+  },
+  {
+    "id": "compound interest_noun",
+    "word": "compound interest",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compound interest-us.mp3",
+    "definition_en": "A term denoting compound interest.",
+    "definition_zh": "复利",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in compound interest affect global market stability."
+    ]
+  },
+  {
+    "id": "currency_noun",
+    "word": "currency",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'kʌrәnsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/currency-us.mp3",
+    "definition_en": "n. the metal or paper medium of exchange that is presently used n. general acceptance or use",
+    "definition_zh": "n. 货币, 通货, 流通, 通用",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in currency affect global market stability."
+    ]
+  },
+  {
+    "id": "debt_noun",
+    "word": "debt",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/det/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/debt-us.mp3",
+    "definition_en": "n. the state of owing something (especially money) n. money or goods or services owed by one person to another n. an obligation to pay or do something",
+    "definition_zh": "n. 债务, 罪过",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in debt affect global market stability."
+    ]
+  },
+  {
+    "id": "default_noun",
+    "word": "default",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/di'fɒ:lt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/default-us.mp3",
+    "definition_en": "n. loss due to not showing up n. act of failing to meet a financial obligation v. fail to pay up",
+    "definition_zh": "n. 违约, 不履行责任, 缺席, 默认值",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in default affect global market stability."
+    ]
+  },
+  {
+    "id": "dividend_noun",
+    "word": "dividend",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'dividend/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dividend-us.mp3",
+    "definition_en": "n. that part of the earnings of a corporation that is distributed to its shareholders; usually paid quarterly n. a number to be divided by another number n. a bonus; something extra (especially a share of a surplus)",
+    "definition_zh": "n. 被除数, 股利",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in dividend affect global market stability."
+    ]
+  },
+  {
+    "id": "economic_adjective",
+    "word": "economic",
     "part_of_speech": "adjective",
-    "level": "B1",
+    "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/fai'nænʃәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/financial-us.mp3",
-    "definition_en": "A involving financial matters",
-    "definition_zh": "a. 财政的, 金融的",
+    "phonetic": "/.i:kә'nɒmik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economic-us.mp3",
+    "definition_en": "a. of or relating to an economy, the system of production and management of material wealth a. of or relating to the science of economics s. using the minimum of time or resources necessary for effectiveness s. concerned with worldly necessities of life (especially money)",
+    "definition_zh": "a. 经济上的, 实用的, 节省的",
     "examples": [
-      "The committee analyzed a highly financial perspective during the forum."
+      "Financial analysts evaluated how fluctuations in economic affect global market stability."
     ]
   },
   {
-    "id": "financial_noun",
-    "word": "financial",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/fai'nænʃәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/financial-us.mp3",
-    "definition_en": "A involving financial matters",
-    "definition_zh": "a. 财政的, 金融的",
-    "examples": [
-      "The new policy addressing financial was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "funding_noun",
-    "word": "funding",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'fʌndiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/funding-us.mp3",
-    "definition_en": "N financial resources provided to make some project possible",
-    "definition_zh": "[经] 债务转期",
-    "examples": [
-      "The new policy addressing funding was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "funding_verb",
-    "word": "funding",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'fʌndiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/funding-us.mp3",
-    "definition_en": "N financial resources provided to make some project possible",
-    "definition_zh": "[经] 债务转期",
-    "examples": [
-      "Officials must funding institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "invest_verb",
-    "word": "invest",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/in'vest/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/invest-us.mp3",
-    "definition_en": "Make an investment",
-    "definition_zh": "vt. 投资, 花费, 笼罩, 授予",
-    "examples": [
-      "Officials must invest institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "taxation_noun",
-    "word": "taxation",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/tæk'seiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxation-us.mp3",
-    "definition_en": "The imposition of taxes; the practice of the government in levying taxes on the subjects of a state",
-    "definition_zh": "n. 课税, 征税, 抽税, 税款, 估定的税额",
-    "examples": [
-      "The new policy addressing taxation was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "taxes_noun",
-    "word": "taxes",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/tæksi:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxes-us.mp3",
-    "definition_en": "N charge against a citizen's person or property or activity for the support of government",
-    "definition_zh": "n. 税务；税捐；税收, 税金",
-    "examples": [
-      "The new policy addressing taxes was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "banker_noun",
-    "word": "banker",
+    "id": "economics_noun",
+    "word": "economics",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/'bæŋkә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banker-us.mp3",
-    "definition_en": "A financier who owns or is an executive in a bank",
-    "definition_zh": "n. 银行家, 庄家",
+    "phonetic": "/.i:kә'nɒmiks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economics-us.mp3",
+    "definition_en": "n. the branch of social science that deals with the production and distribution and consumption of goods and services and their management",
+    "definition_zh": "n. 经济学",
     "examples": [
-      "The new policy addressing banker was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "deficit_noun",
-    "word": "deficit",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'defisit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deficit-us.mp3",
-    "definition_en": "The property of being an amount by which something is less than expected or required",
-    "definition_zh": "n. 赤字, 不足额",
-    "examples": [
-      "The new policy addressing deficit was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "economical_adjective",
-    "word": "economical",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/.i:kә'nɒmikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economical-us.mp3",
-    "definition_en": "Avoiding waste",
-    "definition_zh": "a. 节俭的, 经济的, 合算的",
-    "examples": [
-      "The committee analyzed a highly economical perspective during the forum."
+      "Financial analysts evaluated how fluctuations in economics affect global market stability."
     ]
   },
   {
@@ -343,52 +651,52 @@
     "topic": "经济学与金融商贸",
     "phonetic": "/i:'kɒnәmist/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economist-us.mp3",
-    "definition_en": "An expert in the science of economics",
+    "definition_en": "n. an expert in the science of economics",
     "definition_zh": "n. 经济学者, 经济家",
     "examples": [
-      "The new policy addressing economist was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in economist affect global market stability."
     ]
   },
   {
-    "id": "economists_noun",
-    "word": "economists",
+    "id": "equilibrium_noun",
+    "word": "equilibrium",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/ɪ'kɒnəmɪsts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economists-us.mp3",
-    "definition_en": "An expert in the science of economics",
-    "definition_zh": "n. 经济学家, 经济专家( economist的复数形式 )",
+    "phonetic": "/.i:kwi'libriәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/equilibrium-us.mp3",
+    "definition_en": "n. a stable situation in which forces cancel one another n. a sensory system located in structures of the inner ear that registers the orientation of the head",
+    "definition_zh": "n. 平衡, 平静, 均衡",
     "examples": [
-      "The new policy addressing economists was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in equilibrium affect global market stability."
     ]
   },
   {
-    "id": "finance_noun",
-    "word": "finance",
+    "id": "expenditure_noun",
+    "word": "expenditure",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/fai'næns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/finance-us.mp3",
-    "definition_en": "The commercial activity of providing funds and capital",
-    "definition_zh": "n. 财政, 财务",
+    "phonetic": "/ik'spenditʃә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/expenditure-us.mp3",
+    "definition_en": "n money paid out; an amount spent n the act of spending money for goods or services n the act of consuming something",
+    "definition_zh": "n. 开支, 费用, 用光, 消费额",
     "examples": [
-      "The new policy addressing finance was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in expenditure affect global market stability."
     ]
   },
   {
-    "id": "financially_adverb",
-    "word": "financially",
-    "part_of_speech": "adverb",
+    "id": "financial_adjective",
+    "word": "financial",
+    "part_of_speech": "adjective",
     "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/financially/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/financially-us.mp3",
-    "definition_en": "From a financial point of view",
-    "definition_zh": "adv. 金融上；财政上",
+    "phonetic": "/fai'nænʃәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/financial-us.mp3",
+    "definition_en": "a involving financial matters",
+    "definition_zh": "a. 财政的, 金融的",
     "examples": [
-      "Researchers systematically observed financially relevant patterns across trials."
+      "Financial analysts evaluated how fluctuations in financial affect global market stability."
     ]
   },
   {
@@ -399,38 +707,24 @@
     "topic": "经济学与金融商贸",
     "phonetic": "/'fiskәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fiscal-us.mp3",
-    "definition_en": "Involving financial matters",
+    "definition_en": "a. involving financial matters",
     "definition_zh": "a. 财政的, 国库的",
     "examples": [
-      "The committee analyzed a highly fiscal perspective during the forum."
+      "Financial analysts evaluated how fluctuations in fiscal affect global market stability."
     ]
   },
   {
-    "id": "fiscal_noun",
-    "word": "fiscal",
+    "id": "fund_noun",
+    "word": "fund",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/'fiskәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fiscal-us.mp3",
-    "definition_en": "Involving financial matters",
-    "definition_zh": "a. 财政的, 国库的",
+    "phonetic": "/fʌnd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fund-us.mp3",
+    "definition_en": "n. a reserve of money set aside for some purpose v. convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds v. place or store up in a fund for accumulation v. provide a fund for the redemption of principal or payment of interest",
+    "definition_zh": "n. 基金, 资金, 存款, 财源, 贮藏",
     "examples": [
-      "The new policy addressing fiscal was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "inflate_verb",
-    "word": "inflate",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/in'fleit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inflate-us.mp3",
-    "definition_en": "Exaggerate or make bigger",
-    "definition_zh": "vt. 使膨胀, 使得意, 使通货膨胀, 使充气",
-    "examples": [
-      "Many professionals inflate key methods to achieve consistent, high-quality results."
+      "Financial analysts evaluated how fluctuations in fund affect global market stability."
     ]
   },
   {
@@ -441,11 +735,38 @@
     "topic": "经济学与金融商贸",
     "phonetic": "/in'fleiʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inflation-us.mp3",
-    "definition_en": "A general increase in prices and fall in the purchasing power of money.",
-    "definition_zh": "通货膨胀，通胀",
+    "definition_en": "n. a general and progressive increase in prices n. (cosmology) a brief exponential expansion of the universe (faster than the speed of light) postulated to have occurred shortly after the big bang n. the act of filling something with air",
+    "definition_zh": "n. 胀大, 夸张, 通货膨胀",
     "examples": [
-      "Central banks raised interest rates to combat stubborn consumer inflation.",
-      "Inflation erodes the purchasing power of fixed-income retirees."
+      "Economists closely monitor inflation to formulate balanced monetary policies."
+    ]
+  },
+  {
+    "id": "inventory_noun",
+    "word": "inventory",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'invәntәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inventory-us.mp3",
+    "definition_en": "n. a detailed list of all the items in stock n. (accounting) the value of a firm's current assets including raw materials and work in progress and finished goods n. making an itemized list of merchandise or supplies on hand v. make or include in an itemized record or report",
+    "definition_zh": "n. 详细目录, 存货清单",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in inventory affect global market stability."
+    ]
+  },
+  {
+    "id": "invest_verb",
+    "word": "invest",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/in'vest/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/invest-us.mp3",
+    "definition_en": "v. make an investment v. furnish with power or authority; of kings or emperors v. provide with power and authority",
+    "definition_zh": "vt. 投资, 花费, 笼罩, 授予",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in invest affect global market stability."
     ]
   },
   {
@@ -456,10 +777,10 @@
     "topic": "经济学与金融商贸",
     "phonetic": "/in'vestmәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investment-us.mp3",
-    "definition_en": "Money that is invested with an expectation of profit",
+    "definition_en": "n. money that is invested with an expectation of profit n. the commitment of something other than money (time, energy, or effort) to a project with the expectation of some worthwhile result n. outer layer or covering of an organ or part or organism n. the act of putting on robes or vestments",
     "definition_zh": "n. 投资",
     "examples": [
-      "The new policy addressing investment was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in investment affect global market stability."
     ]
   },
   {
@@ -470,24 +791,38 @@
     "topic": "经济学与金融商贸",
     "phonetic": "/in'vestә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investor-us.mp3",
-    "definition_en": "Someone who commits capital in order to gain financial returns",
+    "definition_en": "n. someone who commits capital in order to gain financial returns",
     "definition_zh": "n. 投资者",
     "examples": [
-      "The new policy addressing investor was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in investor affect global market stability."
     ]
   },
   {
-    "id": "investors_noun",
-    "word": "investors",
+    "id": "invoice_noun",
+    "word": "invoice",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/ɪn'vestəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investors-us.mp3",
-    "definition_en": "Someone who commits capital in order to gain financial returns",
-    "definition_zh": "n. 投资者, 出资者( investor的复数形式 )",
+    "phonetic": "/'invɒis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/invoice-us.mp3",
+    "definition_en": "v. send an bill to",
+    "definition_zh": "n. 发票, 发货单",
     "examples": [
-      "The new policy addressing investors was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in invoice affect global market stability."
+    ]
+  },
+  {
+    "id": "liability_noun",
+    "word": "liability",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/laiә'biliti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liability-us.mp3",
+    "definition_en": "n. the state of being legally obliged and responsible n. the quality of being something that holds you back",
+    "definition_zh": "n. 责任, 债务, 倾向",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in liability affect global market stability."
     ]
   },
   {
@@ -498,66 +833,38 @@
     "topic": "经济学与金融商贸",
     "phonetic": "/lәun/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loan-us.mp3",
-    "definition_en": "The temporary provision of money (usually at interest)",
+    "definition_en": "n. the temporary provision of money (usually at interest)",
     "definition_zh": "n. 贷款, 借出",
     "examples": [
-      "The new policy addressing loan was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in loan affect global market stability."
     ]
   },
   {
-    "id": "loans_noun",
-    "word": "loans",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/loans/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loans-us.mp3",
-    "definition_en": "N the temporary provision of money (usually at interest)",
-    "definition_zh": "n. 借贷；贷款（loan的复数形式）",
-    "examples": [
-      "The new policy addressing loans was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "mortgage_noun",
-    "word": "mortgage",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'mɒ:gidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mortgage-us.mp3",
-    "definition_en": "A conditional conveyance of property as security for the repayment of a loan",
-    "definition_zh": "n. 抵押, 约束性义务, 抵押借款",
-    "examples": [
-      "Understanding mortgage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "profit_noun",
-    "word": "profit",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "经济学与金融商贸",
-    "phonetic": "/'prɒfit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profit-us.mp3",
-    "definition_en": "The advantageous quality of being beneficial",
-    "definition_zh": "n. 利润, 赢利, 利益",
-    "examples": [
-      "The new policy addressing profit was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "profit_adjective",
-    "word": "profit",
+    "id": "monetary_adjective",
+    "word": "monetary",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/'prɒfit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profit-us.mp3",
-    "definition_en": "The advantageous quality of being beneficial",
-    "definition_zh": "n. 利润, 赢利, 利益",
+    "phonetic": "/'mʌnitәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/monetary-us.mp3",
+    "definition_en": "a. relating to or involving money",
+    "definition_zh": "a. 货币的, 金钱的",
     "examples": [
-      "The committee analyzed a highly profit perspective during the forum."
+      "Financial analysts evaluated how fluctuations in monetary affect global market stability."
+    ]
+  },
+  {
+    "id": "overhead_noun",
+    "word": "overhead",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'әuvәhed/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/overhead-us.mp3",
+    "definition_en": "n. (nautical) the top surface of an enclosed space on a ship n. a hard return hitting the tennis ball above your head a. located or originating from above r. above your head; in the sky",
+    "definition_zh": "n. 经常开支, 普通用费, 天花板",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in overhead affect global market stability."
     ]
   },
   {
@@ -568,10 +875,38 @@
     "topic": "经济学与金融商贸",
     "phonetic": "/'prɒfitәbl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profitable-us.mp3",
-    "definition_en": "Yielding material gain or profit",
+    "definition_en": "a. yielding material gain or profit",
     "definition_zh": "a. 有利润的, 有利益的, 赚钱的",
     "examples": [
-      "The committee analyzed a highly profitable perspective during the forum."
+      "Financial analysts evaluated how fluctuations in profitable affect global market stability."
+    ]
+  },
+  {
+    "id": "prosperity_noun",
+    "word": "prosperity",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/prɒs'periti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prosperity-us.mp3",
+    "definition_en": "n. an economic state of growth with rising profits and full employment n. the condition of prospering; having good fortune",
+    "definition_zh": "n. 繁荣, 茂盛, 成功",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in prosperity affect global market stability."
+    ]
+  },
+  {
+    "id": "quota_noun",
+    "word": "quota",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'kwәutә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quota-us.mp3",
+    "definition_en": "n. a prescribed number n. a proportional share assigned to each participant n. a limitation on imports",
+    "definition_zh": "n. 配额, 限额",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in quota affect global market stability."
     ]
   },
   {
@@ -582,10 +917,10 @@
     "topic": "经济学与金融商贸",
     "phonetic": "/ri'seʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recession-us.mp3",
-    "definition_en": "The state of the economy declines; a widespread decline in the GDP and employment and trade lasting from six months to a year",
+    "definition_en": "n. the state of the economy declines; a widespread decline in the GDP and employment and trade lasting from six months to a year n. the withdrawal of the clergy and choir from the chancel to the vestry at the end of a church service n. the act of ceding back",
     "definition_zh": "n. 后退, 凹处, 衰退, 归还",
     "examples": [
-      "The new policy addressing recession was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in recession affect global market stability."
     ]
   },
   {
@@ -596,38 +931,612 @@
     "topic": "经济学与金融商贸",
     "phonetic": "/'revinju:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/revenue-us.mp3",
-    "definition_en": "N the entire amount of income before any deductions are made",
+    "definition_en": "n the entire amount of income before any deductions are made n government income due to taxation",
     "definition_zh": "n. 收入, 岁入, 税收, 税务局",
     "examples": [
-      "The new policy addressing revenue was debated extensively by the committee."
+      "Financial analysts evaluated how fluctuations in revenue affect global market stability."
     ]
   },
   {
-    "id": "counterproductively_adverb",
-    "word": "counterproductively",
-    "part_of_speech": "adverb",
-    "level": "C2",
+    "id": "stock_noun",
+    "word": "stock",
+    "part_of_speech": "noun",
+    "level": "B2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/counterproductively/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/counterproductively-us.mp3",
-    "definition_en": "Denoting counterproductively; widely used in Economics & Finance.",
-    "definition_zh": "counterproductively（经济学与金融商贸相关词汇）",
+    "phonetic": "/stɒk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stock-us.mp3",
+    "definition_en": "n. the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity) n. the merchandise that a shop has on hand n. the handle of a handgun or the butt end of a rifle or shotgun or part of the support of a machine gun or artillery gun n. the reputation and popularity a person has",
+    "definition_zh": "n. 树干, 祖先, 血统, 原料, 备料, 库存, 牲畜, 股票, 股份, 保留剧目",
     "examples": [
-      "Researchers systematically observed counterproductively relevant patterns across trials."
+      "Financial analysts evaluated how fluctuations in stock affect global market stability."
     ]
   },
   {
-    "id": "economize_verb",
-    "word": "economize",
-    "part_of_speech": "verb",
+    "id": "subsidy_noun",
+    "word": "subsidy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'sʌbsidi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subsidy-us.mp3",
+    "definition_en": "n. a grant paid by a government to an enterprise that benefits the public",
+    "definition_zh": "n. 补助金, 津贴",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in subsidy affect global market stability."
+    ]
+  },
+  {
+    "id": "surplus_noun",
+    "word": "surplus",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'sә:plәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surplus-us.mp3",
+    "definition_en": "n a quantity much larger than is needed s more than is needed, desired, or required",
+    "definition_zh": "n. 剩余, 过剩, 盈余",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in surplus affect global market stability."
+    ]
+  },
+  {
+    "id": "tax_noun",
+    "word": "tax",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/tæks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tax-us.mp3",
+    "definition_en": "n. charge against a citizen's person or property or activity for the support of government v. levy a tax on v. set or determine the amount of (a payment such as a fine) v. use to the limit",
+    "definition_zh": "n. 税, 税款, 重负, 会费",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in tax affect global market stability."
+    ]
+  },
+  {
+    "id": "taxation_noun",
+    "word": "taxation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/tæk'seiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taxation-us.mp3",
+    "definition_en": "n. the imposition of taxes; the practice of the government in levying taxes on the subjects of a state",
+    "definition_zh": "n. 课税, 征税, 抽税, 税款, 估定的税额",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in taxation affect global market stability."
+    ]
+  },
+  {
+    "id": "yield_noun",
+    "word": "yield",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/ji:ld/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yield-us.mp3",
+    "definition_en": "n. an amount of a product v. be the cause or source of v. give in, as to influence or pressure v. bring in",
+    "definition_zh": "n. 生产量, 投资收益",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in yield affect global market stability."
+    ]
+  },
+  {
+    "id": "bankruptcy_noun",
+    "word": "bankruptcy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'bæŋkrәptsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bankruptcy-us.mp3",
+    "definition_en": "n. a state of complete lack of some abstract property n. inability to discharge all your debts as they come due n. a legal process intended to insure equality among the creditors of a corporation declared to be insolvent",
+    "definition_zh": "n. 破产者",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in bankruptcy affect global market stability."
+    ]
+  },
+  {
+    "id": "barter_noun",
+    "word": "barter",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'bɑ:tә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barter-us.mp3",
+    "definition_en": "n. an equal exchange v. exchange goods without involving money",
+    "definition_zh": "n. 物物交换, 实物交易",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in barter affect global market stability."
+    ]
+  },
+  {
+    "id": "bond_noun",
+    "word": "bond",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/bɒnd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bond-us.mp3",
+    "definition_en": "n. a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal n. a superior quality of strong durable white writing paper; originally made for printing documents n. United States civil rights leader who was elected to the legislature in Georgia but was barred from taking his seat because he opposed the Vietnam War (born 1940) n. British secret operative 007 in novels by Ian Fleming",
+    "definition_zh": "n. 捆绑物, 结合, 债券, 契约, 粘合剂, 保证人, 键, 关栈保留",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in bond affect global market stability."
+    ]
+  },
+  {
+    "id": "bonds_noun",
+    "word": "bonds",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/bɒndz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bonds-us.mp3",
+    "definition_en": "n an electrical force linking atoms n a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal n a connection based on kinship or marriage or common interest n (criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial n a restraint that confines or restricts freedom (especially something used to tie down or restrain a prisoner) n a connection that fastens things together n a superior quality of strong durable white writing paper; originally made for printing documents n United States civil rights leader who was elected to the legislature in Georgia but was barred from taking his seat because he opposed the Vietnam War (born 1940) n British secret operative 007 in novels by Ian Fleming n the property of sticking together (as of glue and wood) or the joining of surfaces of different composition v stick to firmly v create social or emotional ties v issue bonds on v bring together in a common cause or emotion",
+    "definition_zh": "n. 镣铐, 监禁",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in bonds affect global market stability."
+    ]
+  },
+  {
+    "id": "brokerage_noun",
+    "word": "brokerage",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'brәukәridʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brokerage-us.mp3",
+    "definition_en": "n. a stock broker's business; charges a fee to act as intermediary between buyer and seller n. the business of a broker; charges a fee to arrange a contract between two parties",
+    "definition_zh": "n. 经纪人, 回扣, 佣金, 中间人业务",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in brokerage affect global market stability."
+    ]
+  },
+  {
+    "id": "cartel_noun",
+    "word": "cartel",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/kɑ:'tel/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cartel-us.mp3",
+    "definition_en": "n a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service",
+    "definition_zh": "n. 卡特尔, 企业联合, 俘虏交换条约, 决斗挑战书",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in cartel affect global market stability."
+    ]
+  },
+  {
+    "id": "conglomerate_noun",
+    "word": "conglomerate",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/kәn'glɒmәrit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conglomerate-us.mp3",
+    "definition_en": "n. a group of diverse companies under common ownership and run as a single organization s. composed of heterogeneous elements gathered into a mass",
+    "definition_zh": "n. 集成物, 混合体, 砾岩",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in conglomerate affect global market stability."
+    ]
+  },
+  {
+    "id": "deficit_noun",
+    "word": "deficit",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'defisit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deficit-us.mp3",
+    "definition_en": "n. the property of being an amount by which something is less than expected or required n. a deficiency or failure in neurological or mental functioning n. (sports) the score by which a team or individual is losing n. an excess of liabilities over assets (usually over a certain period)",
+    "definition_zh": "n. 赤字, 不足额",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in deficit affect global market stability."
+    ]
+  },
+  {
+    "id": "deflation_noun",
+    "word": "deflation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/di'fleiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deflation-us.mp3",
+    "definition_en": "n. (geology) the erosion of soil as a consequence of sand and dust and loose rocks being removed by the wind n. a contraction of economic activity resulting in a decline of prices n. the act of letting the air out of something",
+    "definition_zh": "n. 放气, 缩小, 通货紧缩",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in deflation affect global market stability."
+    ]
+  },
+  {
+    "id": "depreciation_noun",
+    "word": "depreciation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/di.pri:ʃi'eiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depreciation-us.mp3",
+    "definition_en": "n. a decrease in price or value n. decrease in value of an asset due to obsolescence or use",
+    "definition_zh": "n. 价值减低, 减价, 跌落, 贬低, 折旧",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in depreciation affect global market stability."
+    ]
+  },
+  {
+    "id": "derivative_noun",
+    "word": "derivative",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/di'rivәtiv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/derivative-us.mp3",
+    "definition_en": "n. a compound obtained from, or regarded as derived from, another compound n. (linguistics) a word that is derived from another word s. resulting from or employing derivation",
+    "definition_zh": "n. 引出之物, 派生物, 衍生字",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in derivative affect global market stability."
+    ]
+  },
+  {
+    "id": "devaluation_noun",
+    "word": "devaluation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/,di:vælju'eiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/devaluation-us.mp3",
+    "definition_en": "n. an official lowering of a nation's currency; a decrease in the value of a country's currency relative to that of foreign countries n. the reduction of something's value or worth",
+    "definition_zh": "n. 降低价值, 贬值",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in devaluation affect global market stability."
+    ]
+  },
+  {
+    "id": "dumping_noun",
+    "word": "dumping",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'dʌmpiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dumping-us.mp3",
+    "definition_en": "n. selling goods abroad at a price below that charged in the domestic market",
+    "definition_zh": "n. 倾销",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in dumping affect global market stability."
+    ]
+  },
+  {
+    "id": "elasticity_noun",
+    "word": "elasticity",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/i.læs'tisiti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elasticity-us.mp3",
+    "definition_en": "n. the tendency of a body to return to its original shape after it has been stretched or compressed",
+    "definition_zh": "n. 弹力, 弹性",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in elasticity affect global market stability."
+    ]
+  },
+  {
+    "id": "embargo_noun",
+    "word": "embargo",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/im'bɑ:gәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embargo-us.mp3",
+    "definition_en": "n. a government order imposing a trade barrier v. ban the publication of (documents), as for security or copyright reasons v. prevent commerce",
+    "definition_zh": "n. 封港令, 禁运",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in embargo affect global market stability."
+    ]
+  },
+  {
+    "id": "equity_noun",
+    "word": "equity",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'ekwiti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/equity-us.mp3",
+    "definition_en": "n. the difference between the market value of a property and the claims held against it n. the ownership interest of shareholders in a corporation",
+    "definition_zh": "n. 公平, 公正",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in equity affect global market stability."
+    ]
+  },
+  {
+    "id": "gdp_noun",
+    "word": "gdp",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gdp-us.mp3",
+    "definition_en": "n the measure of an economy adopted by the United States in 1991; the total market values of goods and services produced by workers and capital within a nation's borders during a given period (usually 1 year)",
+    "definition_zh": "鸟苷二磷酸",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in gdp affect global market stability."
+    ]
+  },
+  {
+    "id": "insolvency_noun",
+    "word": "insolvency",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/in'sɒlvәnsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insolvency-us.mp3",
+    "definition_en": "n. the lack of financial resources",
+    "definition_zh": "n. 无力偿还, 破产",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in insolvency affect global market stability."
+    ]
+  },
+  {
+    "id": "liquidity_noun",
+    "word": "liquidity",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/li'kwiditi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liquidity-us.mp3",
+    "definition_en": "n. being in cash or easily convertible to cash; debt paying ability",
+    "definition_zh": "n. 流动性, 流畅",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in liquidity affect global market stability."
+    ]
+  },
+  {
+    "id": "macroeconomics_noun",
+    "word": "macroeconomics",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/,mækrәu,i:kә'nɔmiks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/macroeconomics-us.mp3",
+    "definition_en": "n. the branch of economics that studies the overall working of a national economy",
+    "definition_zh": "n. 整体经济学, 宏观经济学",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in macroeconomics affect global market stability."
+    ]
+  },
+  {
+    "id": "microeconomics_noun",
+    "word": "microeconomics",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/microeconomics-us.mp3",
+    "definition_en": "n. the branch of economics that studies the economy of consumers or households or individual firms",
+    "definition_zh": "n. 微观经济学",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in microeconomics affect global market stability."
+    ]
+  },
+  {
+    "id": "monopoly_noun",
+    "word": "monopoly",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/mә'nɒpәli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/monopoly-us.mp3",
+    "definition_en": "n. (economics) a market in which there are many buyers but only one seller n. exclusive control or possession of something n. a board game in which players try to gain a monopoly on real estate as pieces advance around the board according to the throw of a die",
+    "definition_zh": "n. 垄断, 专卖权, 独占事业",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in monopoly affect global market stability."
+    ]
+  },
+  {
+    "id": "mortgage_noun",
+    "word": "mortgage",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'mɒ:gidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mortgage-us.mp3",
+    "definition_en": "n. a conditional conveyance of property as security for the repayment of a loan v. put up as security or collateral",
+    "definition_zh": "n. 抵押, 约束性义务, 抵押借款",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in mortgage affect global market stability."
+    ]
+  },
+  {
+    "id": "overdraft_noun",
+    "word": "overdraft",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'әjvәdrɑ:ft; (?@) -dræft/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/overdraft-us.mp3",
+    "definition_en": "n. a draft in excess of the credit balance",
+    "definition_zh": "n. 透支, 透支额, 气流, 过度通风",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in overdraft affect global market stability."
+    ]
+  },
+  {
+    "id": "portfolio_noun",
+    "word": "portfolio",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/pɒ:t'fәuliәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/portfolio-us.mp3",
+    "definition_en": "n. a large, flat, thin case for carrying loose papers or drawings or maps; usually leather n. a set of pieces of creative work collected to be shown to potential customers or employers n. a list of the financial assets held by an individual or a bank or other financial institution n. the role of the head of a government department",
+    "definition_zh": "n. 皮包, 公文包, 部长职务, 有价证券财产目录, 艺术代表作选辑",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in portfolio affect global market stability."
+    ]
+  },
+  {
+    "id": "privatization_noun",
+    "word": "privatization",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/privatization-us.mp3",
+    "definition_en": "n changing something from state to private ownership or control",
+    "definition_zh": "私有化",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in privatization affect global market stability."
+    ]
+  },
+  {
+    "id": "shareholder_noun",
+    "word": "shareholder",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'ʃєә.hәuldә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shareholder-us.mp3",
+    "definition_en": "n someone who holds shares of stock in a corporation",
+    "definition_zh": "n. 股东",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in shareholder affect global market stability."
+    ]
+  },
+  {
+    "id": "stagflation_noun",
+    "word": "stagflation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/stæg'fleiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stagflation-us.mp3",
+    "definition_en": "n. a period of slow economic growth and high unemployment (stagnation) while prices rise (inflation)",
+    "definition_zh": "n. 滞胀(不景气状况下之物价上涨)",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in stagflation affect global market stability."
+    ]
+  },
+  {
+    "id": "tariff_noun",
+    "word": "tariff",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/'tærif/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tariff-us.mp3",
+    "definition_en": "v. charge a tariff",
+    "definition_zh": "n. 关税, 关税表, 价格表, 收费表",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in tariff affect global market stability."
+    ]
+  },
+  {
+    "id": "amortization_noun",
+    "word": "amortization",
+    "part_of_speech": "noun",
     "level": "C2",
     "topic": "经济学与金融商贸",
-    "phonetic": "/i'kɒnәmaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/economize-us.mp3",
-    "definition_en": "V use cautiously and frugally",
-    "definition_zh": "v. 节约, 节省, 有效地利用",
+    "phonetic": "/ә,mɔ:ti'zeiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amortization-us.mp3",
+    "definition_en": "n. the reduction of the value of an asset by prorating its cost over a period of years n. payment of an obligation in a series of installments or transfers",
+    "definition_zh": "分期付款",
     "examples": [
-      "Officials must economize institutional guidelines to uphold public integrity."
+      "Financial analysts evaluated how fluctuations in amortization affect global market stability."
+    ]
+  },
+  {
+    "id": "annuity_noun",
+    "word": "annuity",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/ә'nju:iti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/annuity-us.mp3",
+    "definition_en": "n. income from capital investment paid in a series of regular payments",
+    "definition_zh": "n. 年金, 年金保险, 年金领受权",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in annuity affect global market stability."
+    ]
+  },
+  {
+    "id": "arbitrage_noun",
+    "word": "arbitrage",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/.ɑ:bi'trɑ:ʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arbitrage-us.mp3",
+    "definition_en": "n. a kind of hedged investment meant to capture slight differences in price; when there is a difference in the price of something on two different markets the arbitrageur simultaneously buys at the lower price and sells at the higher price v. practice arbitrage, as in the stock market",
+    "definition_zh": "n. 套利, 套汇, 仲裁",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in arbitrage affect global market stability."
+    ]
+  },
+  {
+    "id": "collateral_noun",
+    "word": "collateral",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/kә'lætәrәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/collateral-us.mp3",
+    "definition_en": "n. a security pledged for the repayment of a loan a. descended from a common ancestor but through different lines s. serving to support or corroborate s. accompany, concomitant",
+    "definition_zh": "n. 旁系亲属, 担保品",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in collateral affect global market stability."
+    ]
+  },
+  {
+    "id": "fiduciary_adjective",
+    "word": "fiduciary",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/fi'dju:ʃjәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fiduciary-us.mp3",
+    "definition_en": "n. a person who holds assets in trust for a beneficiary a. relating to or of the nature of a legal trust (i.e. the holding of something in trust for another)",
+    "definition_zh": "a. 基于信用的, 信托的, 受信托的",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in fiduciary affect global market stability."
+    ]
+  },
+  {
+    "id": "hyperinflation_noun",
+    "word": "hyperinflation",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/,haipәrin'fleiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hyperinflation-us.mp3",
+    "definition_en": "A term denoting hyperinflation.",
+    "definition_zh": "n. 恶性通货膨胀",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in hyperinflation affect global market stability."
+    ]
+  },
+  {
+    "id": "monopsony_noun",
+    "word": "monopsony",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/mә'nɔpsәni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/monopsony-us.mp3",
+    "definition_en": "n. (economics) a market in which goods or services are offered by several sellers but there is only one buyer",
+    "definition_zh": "买主独家垄断",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in monopsony affect global market stability."
+    ]
+  },
+  {
+    "id": "securitization_noun",
+    "word": "securitization",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "经济学与金融商贸",
+    "phonetic": "/sɪ'kjʊrətɪzeɪʃn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/securitization-us.mp3",
+    "definition_en": "A term denoting securitization.",
+    "definition_zh": "n. 证券化",
+    "examples": [
+      "Financial analysts evaluated how fluctuations in securitization affect global market stability."
     ]
   }
 ]

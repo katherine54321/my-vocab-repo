@@ -1,16 +1,44 @@
 [
   {
-    "id": "glad_adjective",
-    "word": "glad",
+    "id": "angry_adjective",
+    "word": "angry",
     "part_of_speech": "adjective",
     "level": "A1",
     "topic": "人类情感与心境",
-    "phonetic": "/glæd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/glad-us.mp3",
-    "definition_en": "Showing or causing joy and pleasure; especially made happy",
-    "definition_zh": "a. 高兴的, 喜欢的, 情愿的",
+    "phonetic": "/'æŋgri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angry-us.mp3",
+    "definition_en": "a. feeling or showing anger s. (of the elements) as if showing violent anger s. severely inflamed and painful",
+    "definition_zh": "a. 生气的, 愤怒的",
     "examples": [
-      "The committee analyzed a highly glad perspective during the forum."
+      "She felt remarkably angry upon learning that all challenges were successfully overcome."
+    ]
+  },
+  {
+    "id": "cry_verb",
+    "word": "cry",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "人类情感与心境",
+    "phonetic": "/krai/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cry-us.mp3",
+    "definition_en": "n. a loud utterance; often in protest or opposition n. a loud utterance of emotion (especially when inarticulate) n. a fit of weeping n. the characteristic utterance of an animal",
+    "definition_zh": "vi. 哭, 叫, 喊",
+    "examples": [
+      "She felt remarkably cry upon learning that all challenges were successfully overcome."
+    ]
+  },
+  {
+    "id": "feel_verb",
+    "word": "feel",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "人类情感与心境",
+    "phonetic": "/fi:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feel-us.mp3",
+    "definition_en": "n. an intuitive awareness;  n. manual stimulation of the genital area for sexual pleasure v. undergo an emotional sensation or be in a particular state of mind v. perceive by a physical sensation, e.g., coming from the skin or muscles",
+    "definition_zh": "vt. 感觉, 觉得, 触摸, 以为",
+    "examples": [
+      "She felt remarkably feel upon learning that all challenges were successfully overcome."
     ]
   },
   {
@@ -21,11 +49,38 @@
     "topic": "人类情感与心境",
     "phonetic": "/'hæpi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/happy-us.mp3",
-    "definition_en": "Feeling or showing pleasure or contentment.",
-    "definition_zh": "快乐的，高兴的，幸福的",
+    "definition_en": "a. enjoying or showing or marked by joy or pleasure s. well expressed and to the point",
+    "definition_zh": "a. 快乐的, 幸福的, 愉快的, 恰当的",
     "examples": [
-      "The children were happy playing in the sunlit meadow.",
-      "We celebrated a happy family reunion."
+      "She felt remarkably happy upon learning that all challenges were successfully overcome."
+    ]
+  },
+  {
+    "id": "laugh_verb",
+    "word": "laugh",
+    "part_of_speech": "verb",
+    "level": "A1",
+    "topic": "人类情感与心境",
+    "phonetic": "/lɑ:f/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/laugh-us.mp3",
+    "definition_en": "n. the sound of laughing n. a facial expression characteristic of a person laughing v. produce laughter",
+    "definition_zh": "vi. 笑, 大笑",
+    "examples": [
+      "She felt remarkably laugh upon learning that all challenges were successfully overcome."
+    ]
+  },
+  {
+    "id": "love_noun",
+    "word": "love",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人类情感与心境",
+    "phonetic": "/lʌv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/love-us.mp3",
+    "definition_en": "n. a strong positive emotion of regard and affection n. any object of warm affection or devotion;  n. a deep feeling of sexual desire and attraction n. a score of zero in tennis or squash",
+    "definition_zh": "n. 爱, 恋爱, 爱情, 爱好, 性爱",
+    "examples": [
+      "A profound sense of love swept through the room as the news was announced."
     ]
   },
   {
@@ -36,53 +91,38 @@
     "topic": "人类情感与心境",
     "phonetic": "/sæd/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sad-us.mp3",
-    "definition_en": "Feeling or showing sorrow; unhappy.",
-    "definition_zh": "悲伤的，难过的",
+    "definition_en": "a. experiencing or showing sorrow or unhappiness s. of things that make you feel sad",
+    "definition_zh": "a. 忧愁的, 悲哀的",
     "examples": [
-      "A gentle hug comforted the sad child."
+      "She felt remarkably sad upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "angry_adjective",
-    "word": "angry",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'æŋgri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angry-us.mp3",
-    "definition_en": "Feeling or showing strong annoyance, displeasure, or hostility.",
-    "definition_zh": "愤怒的，生气的",
-    "examples": [
-      "He grew angry when he discovered the broken promise.",
-      "Take ten deep breaths before responding to an angry message."
-    ]
-  },
-  {
-    "id": "anxious_adjective",
-    "word": "anxious",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'æŋʃәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anxious-us.mp3",
-    "definition_en": "Eagerly desirous",
-    "definition_zh": "a. 忧虑的, 发愁的, 渴望的",
-    "examples": [
-      "The committee analyzed a highly anxious perspective during the forum."
-    ]
-  },
-  {
-    "id": "envy_noun",
-    "word": "envy",
+    "id": "smile_noun",
+    "word": "smile",
     "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人类情感与心境",
+    "phonetic": "/smail/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/smile-us.mp3",
+    "definition_en": "n. a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement v. change one's facial expression by spreading the lips, often to signal pleasure v. express with a smile",
+    "definition_zh": "n. 微笑, 喜色, 笑容",
+    "examples": [
+      "A profound sense of smile swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "afraid_adjective",
+    "word": "afraid",
+    "part_of_speech": "adjective",
     "level": "A2",
     "topic": "人类情感与心境",
-    "phonetic": "/'envi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/envy-us.mp3",
-    "definition_en": "A feeling of grudging admiration and desire to have something that is possessed by another",
-    "definition_zh": "n. 羡慕, 嫉妒",
+    "phonetic": "/ә'freid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/afraid-us.mp3",
+    "definition_en": "a. filled with fear or apprehension s. filled with regret or concern; used often to soften an unpleasant statement s. feeling worry or concern or insecurity s. having feelings of aversion or unwillingness",
+    "definition_zh": "a. 害怕的, 恐怕的, 遗憾的",
     "examples": [
-      "Understanding envy provides valuable insights into everyday communication."
+      "She felt remarkably afraid upon learning that all challenges were successfully overcome."
     ]
   },
   {
@@ -93,38 +133,24 @@
     "topic": "人类情感与心境",
     "phonetic": "/fiә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fear-us.mp3",
-    "definition_en": "An emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
+    "definition_en": "n. an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight) n. a feeling of profound respect for someone or something v. be afraid or feel anxious or apprehensive about a possible or probable situation or event v. be afraid or scared of; be frightened of",
     "definition_zh": "n. 恐怖, 害怕, 担心",
     "examples": [
-      "Understanding fear provides valuable insights into everyday communication."
+      "A profound sense of fear swept through the room as the news was announced."
     ]
   },
   {
-    "id": "happiness_noun",
-    "word": "happiness",
+    "id": "feeling_noun",
+    "word": "feeling",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人类情感与心境",
-    "phonetic": "/'hæpinis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/happiness-us.mp3",
-    "definition_en": "State of well-being characterized by emotions ranging from contentment to intense joy",
-    "definition_zh": "n. 快乐, 幸运, 适当",
+    "phonetic": "/'fi:liŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feeling-us.mp3",
+    "definition_en": "n. the experiencing of affective and emotional states n. a physical sensation that you experience n. an intuitive understanding of something",
+    "definition_zh": "n. 摸, 触觉, 知觉, 感觉, 情绪, 同情",
     "examples": [
-      "Understanding happiness provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "human_adjective",
-    "word": "human",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'hju:mәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/human-us.mp3",
-    "definition_en": "Characteristic of humanity",
-    "definition_zh": "a. 人类的, 似人类的, 人性的, 有同情心的",
-    "examples": [
-      "The committee analyzed a highly human perspective during the forum."
+      "A profound sense of feeling swept through the room as the news was announced."
     ]
   },
   {
@@ -135,52 +161,10 @@
     "topic": "人类情感与心境",
     "phonetic": "/dʒɒi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/joy-us.mp3",
-    "definition_en": "The emotion of great happiness",
+    "definition_en": "n. the emotion of great happiness n. something or someone that provides a source of happiness",
     "definition_zh": "n. 欢喜, 乐事, 高兴",
     "examples": [
-      "Understanding joy provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "panic_noun",
-    "word": "panic",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'pænik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/panic-us.mp3",
-    "definition_en": "An overwhelming feeling of fear and anxiety",
-    "definition_zh": "n. 恐慌, 惊慌",
-    "examples": [
-      "Understanding panic provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "pity_noun",
-    "word": "pity",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/'piti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pity-us.mp3",
-    "definition_en": "An unfortunate development",
-    "definition_zh": "n. 遗憾, 同情, 怜悯, 憾事, 可惜",
-    "examples": [
-      "Understanding pity provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "pride_noun",
-    "word": "pride",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人类情感与心境",
-    "phonetic": "/praid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pride-us.mp3",
-    "definition_en": "A feeling of self-respect and personal worth",
-    "definition_zh": "n. 骄傲, 自尊心, 自豪, 精华, 勇气",
-    "examples": [
-      "Understanding pride provides valuable insights into everyday communication."
+      "A profound sense of joy swept through the room as the news was announced."
     ]
   },
   {
@@ -191,208 +175,136 @@
     "topic": "人类情感与心境",
     "phonetic": "/'æŋgә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anger-us.mp3",
-    "definition_en": "A strong emotion; a feeling that is oriented toward some real or supposed grievance",
+    "definition_en": "n. a strong emotion; a feeling that is oriented toward some real or supposed grievance n. the state of being angry v. make angry v. become angry",
     "definition_zh": "n. 忿怒",
     "examples": [
-      "Understanding anger provides valuable insights into everyday communication."
+      "A profound sense of anger swept through the room as the news was announced."
     ]
   },
   {
-    "id": "anxiety_noun",
-    "word": "anxiety",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/æŋ'zaiәti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anxiety-us.mp3",
-    "definition_en": "A feeling of worry, nervousness, or unease typically about an imminent event or uncertain outcome.",
-    "definition_zh": "焦虑，忧虑，渴望",
-    "examples": [
-      "Mindfulness meditation can substantially reduce generalized anxiety.",
-      "Exam anxiety often prevents students from performing at their best."
-    ]
-  },
-  {
-    "id": "cheerful_adjective",
-    "word": "cheerful",
+    "id": "calm_adjective",
+    "word": "calm",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/'tʃiәful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cheerful-us.mp3",
-    "definition_en": "Being full of or promoting cheer; having or showing good spirits",
-    "definition_zh": "a. 快活的, 高兴的, 兴高采烈的",
+    "phonetic": "/kɑ:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/calm-us.mp3",
+    "definition_en": "v. make calm or still v. become quiet or calm, especially after a state of agitation s. not agitated; without losing self-possession a. (of weather) free from storm or wind",
+    "definition_zh": "a. 平静的, 冷静的",
     "examples": [
-      "The committee analyzed a highly cheerful perspective during the forum."
+      "She felt remarkably calm upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "delight_noun",
-    "word": "delight",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/di'lait/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delight-us.mp3",
-    "definition_en": "A feeling of extreme pleasure or satisfaction",
-    "definition_zh": "n. 高兴, 愉快",
-    "examples": [
-      "Understanding delight provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "delighted_adjective",
-    "word": "delighted",
+    "id": "excited_adjective",
+    "word": "excited",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/di'laitid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delighted-us.mp3",
-    "definition_en": "Greatly pleased",
-    "definition_zh": "a. 高兴的, 快乐的",
+    "phonetic": "/ik'saitid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/excited-us.mp3",
+    "definition_en": "a. in an aroused state",
+    "definition_zh": "a. 兴奋的, 已励磁的, 已激发的, 激昂的, 激动的",
     "examples": [
-      "The committee analyzed a highly delighted perspective during the forum."
+      "She felt remarkably excited upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "delighted_verb",
-    "word": "delighted",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/di'laitid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delighted-us.mp3",
-    "definition_en": "Greatly pleased",
-    "definition_zh": "a. 高兴的, 快乐的",
-    "examples": [
-      "Many professionals delighted key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "embarrass_verb",
-    "word": "embarrass",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/im'bærәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarrass-us.mp3",
-    "definition_en": "Cause to be embarrassed; cause to feel self-conscious",
-    "definition_zh": "vt. 使困窘, 使局促不安, 阻碍",
-    "examples": [
-      "Many professionals embarrass key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "embarrassment_noun",
-    "word": "embarrassment",
+    "id": "grief_noun",
+    "word": "grief",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/im'bærәsmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarrassment-us.mp3",
-    "definition_en": "The shame you feel when your inadequacy or guilt is made public",
-    "definition_zh": "n. 困难, 阻碍, 困窘",
+    "phonetic": "/gri:f/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grief-us.mp3",
+    "definition_en": "n. intense sorrow caused by loss of a loved one (especially by death) n. something that causes great unhappiness",
+    "definition_zh": "n. 伤心, 忧愁, 悲痛, 不幸, 灾难",
     "examples": [
-      "Understanding embarrassment provides valuable insights into everyday communication."
+      "A profound sense of grief swept through the room as the news was announced."
     ]
   },
   {
-    "id": "emotion_noun",
-    "word": "emotion",
+    "id": "guilt_noun",
+    "word": "guilt",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/i'mәuʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/emotion-us.mp3",
-    "definition_en": "Any strong feeling",
-    "definition_zh": "n. 情绪, 激动, 强烈的情感",
+    "phonetic": "/gilt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guilt-us.mp3",
+    "definition_en": "n. the state of having committed an offense n. remorse caused by feeling responsible for some offense",
+    "definition_zh": "n. 罪行, 内疚",
     "examples": [
-      "Understanding emotion provides valuable insights into everyday communication."
+      "A profound sense of guilt swept through the room as the news was announced."
     ]
   },
   {
-    "id": "emotional_adjective",
-    "word": "emotional",
+    "id": "hate_noun",
+    "word": "hate",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/heit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hate-us.mp3",
+    "definition_en": "n. the emotion of intense dislike; a feeling of dislike so strong that it demands action v. dislike intensely; feel antipathy or aversion towards",
+    "definition_zh": "n. 憎恨, 恨, 厌恶",
+    "examples": [
+      "A profound sense of hate swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "hope_noun",
+    "word": "hope",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/hәup/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hope-us.mp3",
+    "definition_en": "n. a specific instance of feeling hopeful n. the general feeling that some desire will be fulfilled n. someone (or something) on which expectations are centered n. United States comedian (born in England) who appeared in films with Bing Crosby (1903-2003)",
+    "definition_zh": "n. 希望, 信心, 期待",
+    "examples": [
+      "A profound sense of hope swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "lonely_adjective",
+    "word": "lonely",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/i'mәuʃәnәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/emotional-us.mp3",
-    "definition_en": "Determined or actuated by emotion rather than reason",
-    "definition_zh": "a. 情绪的, 情感的",
+    "phonetic": "/'lәunli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lonely-us.mp3",
+    "definition_en": "s. marked by dejection from being alone s. devoid of creatures",
+    "definition_zh": "a. 孤单的, 孤寂的, 荒凉的",
     "examples": [
-      "The committee analyzed a highly emotional perspective during the forum."
+      "She felt remarkably lonely upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "emotions_noun",
-    "word": "emotions",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/emotions/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/emotions-us.mp3",
-    "definition_en": "N any strong feeling",
-    "definition_zh": "n. 情绪；情感（emotion的复数形式）",
-    "examples": [
-      "Understanding emotions provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "feared_verb",
-    "word": "feared",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/fiəd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feared-us.mp3",
-    "definition_en": "V be afraid or feel anxious or apprehensive about a possible or probable situation or event",
-    "definition_zh": "v. 畏惧( fear的过去式和过去分词 ); 为…忧虑（或担心、焦虑）; 敬畏（神等）; 感到害怕",
-    "examples": [
-      "Many professionals feared key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "fearful_adjective",
-    "word": "fearful",
+    "id": "nervous_adjective",
+    "word": "nervous",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/'fiәful/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fearful-us.mp3",
-    "definition_en": "Experiencing or showing fear",
-    "definition_zh": "a. 可怕的, 恐怕的, 担心的",
+    "phonetic": "/'nә:vәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nervous-us.mp3",
+    "definition_en": "s. easily agitated a. of or relating to the nervous system",
+    "definition_zh": "a. 神经紧张的, 不安的, 神经的",
     "examples": [
-      "The committee analyzed a highly fearful perspective during the forum."
+      "She felt remarkably nervous upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "jealous_adjective",
-    "word": "jealous",
+    "id": "peaceful_adjective",
+    "word": "peaceful",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/'dʒelәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jealous-us.mp3",
-    "definition_en": "Feeling or showing envy of someone or their achievements and advantages.",
-    "definition_zh": "嫉妒的，吃醋的",
+    "phonetic": "/'pi:sful/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peaceful-us.mp3",
+    "definition_en": "a. not disturbed by strife or turmoil or war",
+    "definition_zh": "a. 平静的, 和平的, 和平时期的, 爱好和平的, 喜爱安静的",
     "examples": [
-      "Try not to be jealous of other people's overnight success.",
-      "Jealousy often stems from deep-seated personal insecurity."
-    ]
-  },
-  {
-    "id": "passion_noun",
-    "word": "passion",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'pæʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passion-us.mp3",
-    "definition_en": "A strong feeling or emotion",
-    "definition_zh": "n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)",
-    "examples": [
-      "Understanding passion provides valuable insights into everyday communication."
+      "She felt remarkably peaceful upon learning that all challenges were successfully overcome."
     ]
   },
   {
@@ -403,38 +315,10 @@
     "topic": "人类情感与心境",
     "phonetic": "/praud/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/proud-us.mp3",
-    "definition_en": "Feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride",
+    "definition_en": "a. feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride",
     "definition_zh": "a. 骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的",
     "examples": [
-      "The committee analyzed a highly proud perspective during the forum."
-    ]
-  },
-  {
-    "id": "rage_noun",
-    "word": "rage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/reidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rage-us.mp3",
-    "definition_en": "A state of extreme anger",
-    "definition_zh": "n. 愤怒, 情绪激动, 狂暴",
-    "examples": [
-      "Understanding rage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "sadness_noun",
-    "word": "sadness",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境",
-    "phonetic": "/'sædnis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sadness-us.mp3",
-    "definition_en": "Emotions experienced when not in a state of well-being",
-    "definition_zh": "n. 悲哀, 悲伤",
-    "examples": [
-      "Understanding sadness provides valuable insights into everyday communication."
+      "She felt remarkably proud upon learning that all challenges were successfully overcome."
     ]
   },
   {
@@ -445,66 +329,108 @@
     "topic": "人类情感与心境",
     "phonetic": "/ʃeim/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shame-us.mp3",
-    "definition_en": "A painful emotion resulting from an awareness of inadequacy or guilt",
+    "definition_en": "n. a painful emotion resulting from an awareness of inadequacy or guilt n. a state of dishonor v. compel through a sense of shame v. cause to be ashamed",
     "definition_zh": "n. 羞耻, 羞愧, 耻辱",
     "examples": [
-      "Understanding shame provides valuable insights into everyday communication."
+      "A profound sense of shame swept through the room as the news was announced."
     ]
   },
   {
-    "id": "sorrow_noun",
-    "word": "sorrow",
-    "part_of_speech": "noun",
+    "id": "surprised_adjective",
+    "word": "surprised",
+    "part_of_speech": "adjective",
     "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/'sɒrәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sorrow-us.mp3",
-    "definition_en": "An emotion of great sadness associated with loss or bereavement",
-    "definition_zh": "n. 悲伤, 哀惜, 不幸",
+    "phonetic": "/sә'praizd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surprised-us.mp3",
+    "definition_en": "a. taken unawares or suddenly and feeling wonder or astonishment",
+    "definition_zh": "a. 感到惊讶的",
     "examples": [
-      "Understanding sorrow provides valuable insights into everyday communication."
+      "She felt remarkably surprised upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "sympathy_noun",
-    "word": "sympathy",
-    "part_of_speech": "noun",
+    "id": "upset_adjective",
+    "word": "upset",
+    "part_of_speech": "adjective",
     "level": "B1",
     "topic": "人类情感与心境",
-    "phonetic": "/'simpәθi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sympathy-us.mp3",
-    "definition_en": "An inclination to support or be loyal to or to agree with an opinion",
-    "definition_zh": "n. 同情, 赞同, 怜悯, 慰问, 吊唁",
+    "phonetic": "/ʌp'set/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/upset-us.mp3",
+    "definition_en": "n. the act of disturbing the mind or body n. a tool used to thicken or spread metal (the end of a bar or a rivet etc.) by forging or hammering or swaging n. the act of upsetting something v. disturb the balance or stability of",
+    "definition_zh": "a. 弄翻的, 混乱的, 心烦的",
     "examples": [
-      "Understanding sympathy provides valuable insights into everyday communication."
+      "She felt remarkably upset upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "caring_adjective",
-    "word": "caring",
+    "id": "worried_adjective",
+    "word": "worried",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'wʌrid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/worried-us.mp3",
+    "definition_en": "v be worried, concerned, anxious, troubled, or uneasy v be concerned with v disturb the peace of mind of; afflict with mental agitation or distress v be on the mind of v lacerate by biting v touch or rub constantly s afflicted with or marked by anxious uneasiness or trouble or grief s mentally upset over possible misfortune or danger etc",
+    "definition_zh": "a. 担心的, 闷闷不乐的",
+    "examples": [
+      "She felt remarkably worried upon learning that all challenges were successfully overcome."
+    ]
+  },
+  {
+    "id": "anxiety_noun",
+    "word": "anxiety",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/æŋ'zaiәti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anxiety-us.mp3",
+    "definition_en": "n. (psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic n. a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune",
+    "definition_zh": "n. 焦虑, 忧虑, 令人焦虑的事",
+    "examples": [
+      "A profound sense of anxiety swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "anxious_adjective",
+    "word": "anxious",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "人类情感与心境",
-    "phonetic": "/'kεәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caring-us.mp3",
-    "definition_en": "Feeling and exhibiting concern and empathy for others",
-    "definition_zh": "a. 有同情心的；表示或感到关怀或关心的",
+    "phonetic": "/'æŋʃәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anxious-us.mp3",
+    "definition_en": "s. eagerly desirous s. causing or fraught with or showing anxiety",
+    "definition_zh": "a. 忧虑的, 发愁的, 渴望的",
     "examples": [
-      "The committee analyzed a highly caring perspective during the forum."
+      "She felt remarkably anxious upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "caring_verb",
-    "word": "caring",
-    "part_of_speech": "verb",
+    "id": "cheer_noun",
+    "word": "cheer",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人类情感与心境",
-    "phonetic": "/'kεәriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caring-us.mp3",
-    "definition_en": "Feeling and exhibiting concern and empathy for others",
-    "definition_zh": "a. 有同情心的；表示或感到关怀或关心的",
+    "phonetic": "/tʃiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cheer-us.mp3",
+    "definition_en": "n. a cry or shout of approval v. give encouragement to v. show approval or good wishes by shouting v. cause (somebody) to feel happier or more cheerful",
+    "definition_zh": "n. 愉快, 振奋, 欢呼",
     "examples": [
-      "Many professionals caring key methods to achieve consistent, high-quality results."
+      "A profound sense of cheer swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "cheerful_adjective",
+    "word": "cheerful",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/'tʃiәful/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cheerful-us.mp3",
+    "definition_en": "a. being full of or promoting cheer; having or showing good spirits s. pleasantly (even unrealistically) optimistic",
+    "definition_zh": "a. 快活的, 高兴的, 兴高采烈的",
+    "examples": [
+      "She felt remarkably cheerful upon learning that all challenges were successfully overcome."
     ]
   },
   {
@@ -515,38 +441,66 @@
     "topic": "人类情感与心境",
     "phonetic": "/kәm'pæʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compassion-us.mp3",
-    "definition_en": "A deep awareness of and sympathy for another's suffering",
+    "definition_en": "n. a deep awareness of and sympathy for another's suffering n. the humane quality of understanding the suffering of others and wanting to do something about it",
     "definition_zh": "n. 同情, 怜悯",
     "examples": [
-      "Understanding compassion provides valuable insights into everyday communication."
+      "A profound sense of compassion swept through the room as the news was announced."
     ]
   },
   {
-    "id": "compassionate_adjective",
-    "word": "compassionate",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/kәm'pæʃәnit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compassionate-us.mp3",
-    "definition_en": "Showing or having compassion",
-    "definition_zh": "a. 慈悲的, 富于同情心的, 照顾性的",
-    "examples": [
-      "The committee analyzed a highly compassionate perspective during the forum."
-    ]
-  },
-  {
-    "id": "delight_verb",
+    "id": "delight_noun",
     "word": "delight",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人类情感与心境",
     "phonetic": "/di'lait/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delight-us.mp3",
-    "definition_en": "Take delight in",
-    "definition_zh": "vt. 使高兴, 乐于",
+    "definition_en": "n. a feeling of extreme pleasure or satisfaction v. take delight in",
+    "definition_zh": "n. 高兴, 愉快",
     "examples": [
-      "Many professionals delight key methods to achieve consistent, high-quality results."
+      "A profound sense of delight swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "delighted_adjective",
+    "word": "delighted",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/di'laitid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delighted-us.mp3",
+    "definition_en": "s. greatly pleased",
+    "definition_zh": "a. 高兴的, 快乐的",
+    "examples": [
+      "She felt remarkably delighted upon learning that all challenges were successfully overcome."
+    ]
+  },
+  {
+    "id": "depressed_adjective",
+    "word": "depressed",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/di'prest/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depressed-us.mp3",
+    "definition_en": "s. lower than previously s. flattened downward as if pressed from above or flattened along the dorsal and ventral surfaces",
+    "definition_zh": "a. 沮丧的, 降低的",
+    "examples": [
+      "She felt remarkably depressed upon learning that all challenges were successfully overcome."
+    ]
+  },
+  {
+    "id": "depression_noun",
+    "word": "depression",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/di'preʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depression-us.mp3",
+    "definition_en": "n. a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity n. a long-term economic state characterized by unemployment and low prices and low levels of trade and investment n. sad feelings of gloom and inadequacy n. a period during the 1930s when there was a worldwide economic depression and mass unemployment",
+    "definition_zh": "n. 不景气, 消沉, 沮丧, 洼地",
+    "examples": [
+      "A profound sense of depression swept through the room as the news was announced."
     ]
   },
   {
@@ -557,39 +511,24 @@
     "topic": "人类情感与心境",
     "phonetic": "/di'spєә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/despair-us.mp3",
-    "definition_en": "The complete loss or absence of hope.",
-    "definition_zh": "绝望，令人绝望的人或事",
+    "definition_en": "n. a state in which all hope is lost or absent n. the feeling that everything is wrong and nothing will turn out well v. abandon hope; give up hope; lose heart",
+    "definition_zh": "n. 绝望, 失望",
     "examples": [
-      "She refused to yield to despair despite severe setbacks.",
-      "Kind words from a mentor rescued the student from despair."
+      "A profound sense of despair swept through the room as the news was announced."
     ]
   },
   {
-    "id": "envy_verb",
+    "id": "envy_noun",
     "word": "envy",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人类情感与心境",
     "phonetic": "/'envi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/envy-us.mp3",
-    "definition_en": "Feel envious towards; admire enviously",
-    "definition_zh": "vt. 羡慕, 嫉妒",
+    "definition_en": "n. a feeling of grudging admiration and desire to have something that is possessed by another n. spite and resentment at seeing the success of another (personified as one of the deadly sins) v. feel envious towards; admire enviously v. be envious of; set one's heart on",
+    "definition_zh": "n. 羡慕, 嫉妒",
     "examples": [
-      "Many professionals envy key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "fear_verb",
-    "word": "fear",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "人类情感与心境",
-    "phonetic": "/fiә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fear-us.mp3",
-    "definition_en": "Be afraid or feel anxious or apprehensive about a possible or probable situation or event",
-    "definition_zh": "v. 害怕, 恐惧, 为...担心, 敬畏",
-    "examples": [
-      "Many professionals fear key methods to achieve consistent, high-quality results."
+      "A profound sense of envy swept through the room as the news was announced."
     ]
   },
   {
@@ -600,67 +539,80 @@
     "topic": "人类情感与心境",
     "phonetic": "/'fjuәriәs/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/furious-us.mp3",
-    "definition_en": "S marked by extreme and violent energy",
+    "definition_en": "s marked by extreme and violent energy s marked by extreme anger s (of the elements) as if showing violent anger",
     "definition_zh": "a. 狂怒的, 激烈的, 吵闹的",
     "examples": [
-      "The committee analyzed a highly furious perspective during the forum."
+      "She felt remarkably furious upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "gloomy_adjective",
-    "word": "gloomy",
+    "id": "jealous_adjective",
+    "word": "jealous",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "人类情感与心境",
-    "phonetic": "/'glu:mi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gloomy-us.mp3",
-    "definition_en": "Filled with melancholy and despondency",
-    "definition_zh": "a. 抑沉的, 忧闷的, 黑暗的, 悲观的",
+    "phonetic": "/'dʒelәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jealous-us.mp3",
+    "definition_en": "s. suspicious or unduly suspicious or fearful of being displaced by a rival",
+    "definition_zh": "a. 嫉妒的, 羡慕的, 留心的, 戒备的",
     "examples": [
-      "The committee analyzed a highly gloomy perspective during the forum."
+      "She felt remarkably jealous upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "grief_noun",
-    "word": "grief",
+    "id": "jealousy_noun",
+    "word": "jealousy",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人类情感与心境",
-    "phonetic": "/gri:f/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grief-us.mp3",
-    "definition_en": "Intense sorrow caused by loss of a loved one (especially by death)",
-    "definition_zh": "n. 伤心, 忧愁, 悲痛, 不幸, 灾难",
+    "phonetic": "/'dʒelәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jealousy-us.mp3",
+    "definition_en": "n. a feeling of jealous envy (especially of a rival) n. zealous vigilance",
+    "definition_zh": "n. 妒忌, 猜忌, 羡慕",
     "examples": [
-      "Understanding grief provides valuable insights into everyday communication."
+      "A profound sense of jealousy swept through the room as the news was announced."
     ]
   },
   {
-    "id": "nostalgic_adjective",
-    "word": "nostalgic",
-    "part_of_speech": "adjective",
+    "id": "nostalgia_noun",
+    "word": "nostalgia",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人类情感与心境",
-    "phonetic": "/nɒs'tældʒik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgic-us.mp3",
-    "definition_en": "Characterized by or exhibiting a sentimental yearning for the happiness felt in a former place, time, or situation.",
-    "definition_zh": "怀旧的，留恋过去的",
+    "phonetic": "/nɒs'tældʒiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgia-us.mp3",
+    "definition_en": "n. longing for something past",
+    "definition_zh": "n. 乡愁, 向往过去, 怀旧之情",
     "examples": [
-      "Hearing the vintage jazz tune made him feel deeply nostalgic.",
-      "Flipping through grandmother's photo albums evokes nostalgic warmth."
+      "A profound sense of nostalgia swept through the room as the news was announced."
     ]
   },
   {
-    "id": "panic_verb",
+    "id": "panic_noun",
     "word": "panic",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人类情感与心境",
     "phonetic": "/'pænik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/panic-us.mp3",
-    "definition_en": "Be overcome by a sudden fear",
-    "definition_zh": "vt. 使惊慌, 使狂热",
+    "definition_en": "n. an overwhelming feeling of fear and anxiety n. sudden mass fear and anxiety over anticipated events v. be overcome by a sudden fear v. cause sudden fear in or fill with sudden panic",
+    "definition_zh": "n. 恐慌, 惊慌",
     "examples": [
-      "Many professionals panic key methods to achieve consistent, high-quality results."
+      "A profound sense of panic swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "passion_noun",
+    "word": "passion",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/'pæʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passion-us.mp3",
+    "definition_en": "n. a strong feeling or emotion n. a feeling of strong sexual desire n. the suffering of Jesus at the Crucifixion",
+    "definition_zh": "n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)",
+    "examples": [
+      "A profound sense of passion swept through the room as the news was announced."
     ]
   },
   {
@@ -671,10 +623,66 @@
     "topic": "人类情感与心境",
     "phonetic": "/'pæʃәnit/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/passionate-us.mp3",
-    "definition_en": "Having or expressing strong emotions",
+    "definition_en": "a. having or expressing strong emotions",
     "definition_zh": "a. 热情的, 热烈的, 易怒的, 热恋的",
     "examples": [
-      "The committee analyzed a highly passionate perspective during the forum."
+      "She felt remarkably passionate upon learning that all challenges were successfully overcome."
+    ]
+  },
+  {
+    "id": "pity_noun",
+    "word": "pity",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/'piti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pity-us.mp3",
+    "definition_en": "n. an unfortunate development",
+    "definition_zh": "n. 遗憾, 同情, 怜悯, 憾事, 可惜",
+    "examples": [
+      "A profound sense of pity swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "rage_noun",
+    "word": "rage",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/reidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rage-us.mp3",
+    "definition_en": "n. a state of extreme anger n. something that is desired intensely n. violent state of the elements v. be violent; as of fires and storms",
+    "definition_zh": "n. 愤怒, 情绪激动, 狂暴",
+    "examples": [
+      "A profound sense of rage swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "resent_verb",
+    "word": "resent",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/ri'zent/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resent-us.mp3",
+    "definition_en": "v. feel bitter or indignant about",
+    "definition_zh": "vt. 愤恨, 憎恶, 怨恨",
+    "examples": [
+      "She felt remarkably resent upon learning that all challenges were successfully overcome."
+    ]
+  },
+  {
+    "id": "resentment_noun",
+    "word": "resentment",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/ri'zentmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resentment-us.mp3",
+    "definition_en": "n. a feeling of deep and bitter anger and ill-will",
+    "definition_zh": "n. 怨恨, 愤恨",
+    "examples": [
+      "A profound sense of resentment swept through the room as the news was announced."
     ]
   },
   {
@@ -685,24 +693,206 @@
     "topic": "人类情感与心境",
     "phonetic": "/si'ri:n/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/serene-us.mp3",
-    "definition_en": "Completely clear and fine",
+    "definition_en": "s. completely clear and fine",
     "definition_zh": "a. 宁静的, 沉着的, 安详的, 晴朗的",
     "examples": [
-      "The committee analyzed a highly serene perspective during the forum."
+      "She felt remarkably serene upon learning that all challenges were successfully overcome."
     ]
   },
   {
-    "id": "sympathetic_adjective",
-    "word": "sympathetic",
-    "part_of_speech": "adjective",
+    "id": "serenity_noun",
+    "word": "serenity",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人类情感与心境",
-    "phonetic": "/.simpә'θetik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sympathetic-us.mp3",
-    "definition_en": "Of or relating to the sympathetic nervous system",
-    "definition_zh": "a. 有同情心的, 合意的, 赞成的",
+    "phonetic": "/si'reniti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/serenity-us.mp3",
+    "definition_en": "n a disposition free from stress or emotion n the absence of mental stress or anxiety",
+    "definition_zh": "n. 宁静, 沉着, 晴朗",
     "examples": [
-      "The committee analyzed a highly sympathetic perspective during the forum."
+      "A profound sense of serenity swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "sorrow_noun",
+    "word": "sorrow",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/'sɒrәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sorrow-us.mp3",
+    "definition_en": "n. an emotion of great sadness associated with loss or bereavement n. sadness associated with some wrong done or some disappointment",
+    "definition_zh": "n. 悲伤, 哀惜, 不幸",
+    "examples": [
+      "A profound sense of sorrow swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "sympathy_noun",
+    "word": "sympathy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境",
+    "phonetic": "/'simpәθi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sympathy-us.mp3",
+    "definition_en": "n. an inclination to support or be loyal to or to agree with an opinion n. sharing the feelings of others (especially feelings of sorrow or anguish) n. a relation of affinity or harmony between people; whatever affects one correspondingly affects the other",
+    "definition_zh": "n. 同情, 赞同, 怜悯, 慰问, 吊唁",
+    "examples": [
+      "A profound sense of sympathy swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "adoration_noun",
+    "word": "adoration",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/.ædә'reiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adoration-us.mp3",
+    "definition_en": "n. the act of admiring strongly n. the worship given to God alone",
+    "definition_zh": "n. 崇拜, 爱慕",
+    "examples": [
+      "A profound sense of adoration swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "agony_noun",
+    "word": "agony",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'ægәni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/agony-us.mp3",
+    "definition_en": "n. intense feelings of suffering; acute mental or physical pain n. a state of acute pain",
+    "definition_zh": "n. 极大的痛苦, 挣扎",
+    "examples": [
+      "A profound sense of agony swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "anguish_noun",
+    "word": "anguish",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'æŋgwiʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anguish-us.mp3",
+    "definition_en": "n. extreme mental distress n. extreme distress of body or mind v. suffer great pains or distress",
+    "definition_zh": "n. 剧痛, 痛苦",
+    "examples": [
+      "A profound sense of anguish swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "apathy_noun",
+    "word": "apathy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'æpәθi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apathy-us.mp3",
+    "definition_en": "n. an absence of emotion or enthusiasm n. the trait of lacking enthusiasm for or interest in things generally",
+    "definition_zh": "n. 无感情, 无兴趣, 冷漠",
+    "examples": [
+      "A profound sense of apathy swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "awe_noun",
+    "word": "awe",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/ɒ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/awe-us.mp3",
+    "definition_en": "n. an overwhelming feeling of wonder or admiration v. inspire awe in",
+    "definition_zh": "n. 敬畏",
+    "examples": [
+      "A profound sense of awe swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "bitterness_noun",
+    "word": "bitterness",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'bitәnis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bitterness-us.mp3",
+    "definition_en": "n. a rough and bitter manner n. the property of having a harsh unpleasant taste",
+    "definition_zh": "n. 苦味, 悲痛, 怨恨",
+    "examples": [
+      "A profound sense of bitterness swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "bliss_noun",
+    "word": "bliss",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/blis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bliss-us.mp3",
+    "definition_en": "n. a state of extreme happiness",
+    "definition_zh": "n. 福佑, 天赐的福",
+    "examples": [
+      "A profound sense of bliss swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "dread_noun",
+    "word": "dread",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/dred/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dread-us.mp3",
+    "definition_en": "n fearful expectation or anticipation v be afraid or scared of; be frightened of s causing fear or dread or terror",
+    "definition_zh": "n. 恐惧, 可怕的人(或事)",
+    "examples": [
+      "A profound sense of dread swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "ecstasy_noun",
+    "word": "ecstasy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'ekstәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecstasy-us.mp3",
+    "definition_en": "n. a state of being carried away by overwhelming emotion n. a state of elated bliss",
+    "definition_zh": "n. 狂喜, 心醉神迷, 忘形",
+    "examples": [
+      "A profound sense of ecstasy swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "elation_noun",
+    "word": "elation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/i'leiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elation-us.mp3",
+    "definition_en": "n. an exhilarating psychological state of pride and optimism; an absence of depression n. a feeling of joy and pride",
+    "definition_zh": "n. 得意洋洋, 兴高采烈",
+    "examples": [
+      "A profound sense of elation swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "embarrassment_noun",
+    "word": "embarrassment",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/im'bærәsmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embarrassment-us.mp3",
+    "definition_en": "n. the shame you feel when your inadequacy or guilt is made public n. the state of being embarrassed (usually by some financial inadequacy) n. some event that causes someone to be embarrassed",
+    "definition_zh": "n. 困难, 阻碍, 困窘",
+    "examples": [
+      "A profound sense of embarrassment swept through the room as the news was announced."
     ]
   },
   {
@@ -713,125 +903,206 @@
     "topic": "人类情感与心境",
     "phonetic": "/ju:'fɒ:riә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/euphoria-us.mp3",
-    "definition_en": "A state of intense excitement and happiness.",
-    "definition_zh": "狂喜，亢奋，欣快感",
+    "definition_en": "n. a feeling of great (usually exaggerated) elation",
+    "definition_zh": "n. 兴奋, 陶醉, 陶醉感",
     "examples": [
-      "Marathon runners often experience runner's high accompanied by profound euphoria.",
-      "The euphoria of championship victory lasted for weeks."
+      "A profound sense of euphoria swept through the room as the news was announced."
     ]
   },
   {
-    "id": "resent_verb",
-    "word": "resent",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "人类情感与心境",
-    "phonetic": "/ri'zent/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resent-us.mp3",
-    "definition_en": "Feel bitter or indignant about",
-    "definition_zh": "vt. 愤恨, 憎恶, 怨恨",
-    "examples": [
-      "Many professionals resent key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "resentment_noun",
-    "word": "resentment",
+    "id": "exasperation_noun",
+    "word": "exasperation",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "人类情感与心境",
-    "phonetic": "/ri'zentmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resentment-us.mp3",
-    "definition_en": "Bitter indignation at having been treated unfairly.",
-    "definition_zh": "怨恨，愤懑，不满",
+    "phonetic": "/ig.zæspә'reiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/exasperation-us.mp3",
+    "definition_en": "n. actions that cause great irritation (or even anger)",
+    "definition_zh": "n. 恼怒, 恼怒的原因",
     "examples": [
-      "Harboring unspoken resentment corrodes interpersonal intimacy.",
-      "Unfair salary disparities bred intense resentment across the division."
+      "A profound sense of exasperation swept through the room as the news was announced."
     ]
   },
   {
-    "id": "euphoric_adjective",
-    "word": "euphoric",
-    "part_of_speech": "adjective",
-    "level": "C2",
+    "id": "gloom_noun",
+    "word": "gloom",
+    "part_of_speech": "noun",
+    "level": "C1",
     "topic": "人类情感与心境",
-    "phonetic": "/ju:'fɔrik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/euphoric-us.mp3",
-    "definition_en": "Exaggerated feeling of well-being or elation",
-    "definition_zh": "a. 欣快症的, 欣快的",
+    "phonetic": "/glu:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gloom-us.mp3",
+    "definition_en": "n. a state of partial or total darkness n. a feeling of melancholy apprehension n. an atmosphere of depression and melancholy",
+    "definition_zh": "n. 忧郁, 暗处, 幽暗",
     "examples": [
-      "The committee analyzed a highly euphoric perspective during the forum."
+      "A profound sense of gloom swept through the room as the news was announced."
     ]
   },
   {
-    "id": "euphorically_adverb",
-    "word": "euphorically",
-    "part_of_speech": "adverb",
-    "level": "C2",
+    "id": "hysteria_noun",
+    "word": "hysteria",
+    "part_of_speech": "noun",
+    "level": "C1",
     "topic": "人类情感与心境",
-    "phonetic": "/euphorically/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/euphorically-us.mp3",
-    "definition_en": "Denoting euphorically; widely used in Human Emotions.",
-    "definition_zh": "情绪高涨地",
+    "phonetic": "/his'tiәriә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hysteria-us.mp3",
+    "definition_en": "n. excessive or uncontrollable fear n. neurotic disorder characterized by violent emotional outbreaks and disturbances of sensory and motor functions",
+    "definition_zh": "n. 歇斯底里症, 不正常的兴奋, 癔病",
     "examples": [
-      "Researchers systematically observed euphorically relevant patterns across trials."
+      "A profound sense of hysteria swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "indignation_noun",
+    "word": "indignation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/.indig'neiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/indignation-us.mp3",
+    "definition_en": "n. a feeling of righteous anger",
+    "definition_zh": "n. 愤怒, 愤慨, 义愤",
+    "examples": [
+      "A profound sense of indignation swept through the room as the news was announced."
     ]
   },
   {
     "id": "melancholy_noun",
     "word": "melancholy",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "人类情感与心境",
     "phonetic": "/'melәnkɒli/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/melancholy-us.mp3",
-    "definition_en": "A feeling of pensive sadness, typically with no obvious cause.",
-    "definition_zh": "忧郁，愁思，哀伤",
+    "definition_en": "n. a feeling of thoughtful sadness n. a constitutional tendency to be gloomy and depressed s. characterized by or causing or expressing sadness",
+    "definition_zh": "n. 忧郁, 悲哀, 愁思",
     "examples": [
-      "Chopin's nocturnes convey a haunting lyrical melancholy.",
-      "An autumn drizzle infused the quiet streets with gentle melancholy."
+      "A profound sense of melancholy swept through the room as the news was announced."
     ]
   },
   {
-    "id": "melancholy_adjective",
-    "word": "melancholy",
-    "part_of_speech": "adjective",
-    "level": "C2",
+    "id": "misery_noun",
+    "word": "misery",
+    "part_of_speech": "noun",
+    "level": "C1",
     "topic": "人类情感与心境",
-    "phonetic": "/'melәnkɒli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/melancholy-us.mp3",
-    "definition_en": "A feeling of thoughtful sadness",
-    "definition_zh": "a. 忧郁的, 使人悲伤的, 愁思的",
+    "phonetic": "/'mizәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/misery-us.mp3",
+    "definition_en": "n. a state of ill-being due to affliction or misfortune n. a feeling of intense unhappiness",
+    "definition_zh": "n. 痛苦, 悲惨, 不幸, 穷困",
     "examples": [
-      "The committee analyzed a highly melancholy perspective during the forum."
+      "A profound sense of misery swept through the room as the news was announced."
     ]
   },
   {
-    "id": "nostalgia_noun",
-    "word": "nostalgia",
+    "id": "remorse_noun",
+    "word": "remorse",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/ri'mɒ:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/remorse-us.mp3",
+    "definition_en": "n a feeling of deep regret (usually for some misdeed)",
+    "definition_zh": "n. 懊悔, 良心不安, 自责, 同情",
+    "examples": [
+      "A profound sense of remorse swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "solace_noun",
+    "word": "solace",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境",
+    "phonetic": "/'sɒlis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/solace-us.mp3",
+    "definition_en": "n. comfort in disappointment or misery",
+    "definition_zh": "n. 安慰, 安慰之物",
+    "examples": [
+      "A profound sense of solace swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "abhorrence_noun",
+    "word": "abhorrence",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "人类情感与心境",
-    "phonetic": "/nɒs'tældʒiә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgia-us.mp3",
-    "definition_en": "Longing for something past",
-    "definition_zh": "n. 乡愁, 向往过去, 怀旧之情",
+    "phonetic": "/әb'hɒrәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abhorrence-us.mp3",
+    "definition_en": "n. hate coupled with disgust",
+    "definition_zh": "n. 厌恶, 痛恨",
     "examples": [
-      "Understanding nostalgia provides valuable insights into everyday communication."
+      "A profound sense of abhorrence swept through the room as the news was announced."
     ]
   },
   {
-    "id": "nostalgically_adverb",
-    "word": "nostalgically",
-    "part_of_speech": "adverb",
+    "id": "consternation_noun",
+    "word": "consternation",
+    "part_of_speech": "noun",
     "level": "C2",
     "topic": "人类情感与心境",
-    "phonetic": "/nɔˈstældʒɪkəlɪ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgically-us.mp3",
-    "definition_en": "In a nostalgic manner",
-    "definition_zh": "adv. 怀乡地, 怀旧地, 恋旧地",
+    "phonetic": "/.kɒnstә'neiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consternation-us.mp3",
+    "definition_en": "n fear resulting from the awareness of danger",
+    "definition_zh": "n. 惊愕, 恐怖, 惊惶失措",
     "examples": [
-      "Researchers systematically observed nostalgically relevant patterns across trials."
+      "A profound sense of consternation swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "despondency_noun",
+    "word": "despondency",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人类情感与心境",
+    "phonetic": "/di'spɒndәnsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/despondency-us.mp3",
+    "definition_en": "n. feeling downcast and disheartened and hopeless",
+    "definition_zh": "n. 失去勇气, 失望",
+    "examples": [
+      "A profound sense of despondency swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "disgruntlement_noun",
+    "word": "disgruntlement",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人类情感与心境",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disgruntlement-us.mp3",
+    "definition_en": "n. a feeling of sulky discontent",
+    "definition_zh": "不满",
+    "examples": [
+      "A profound sense of disgruntlement swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "infatuation_noun",
+    "word": "infatuation",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人类情感与心境",
+    "phonetic": "/in.fætju'eiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infatuation-us.mp3",
+    "definition_en": "n. a foolish and usually extravagant passion or love or admiration n. an object of extravagant short-lived passion",
+    "definition_zh": "n. 迷惑, 迷恋, 醉心",
+    "examples": [
+      "A profound sense of infatuation swept through the room as the news was announced."
+    ]
+  },
+  {
+    "id": "jubilation_noun",
+    "word": "jubilation",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人类情感与心境",
+    "phonetic": "/.dʒu:bi'leiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jubilation-us.mp3",
+    "definition_en": "n a feeling of extreme joy n a joyful occasion for special festivities to mark some happy event n the utterance of sounds expressing great joy",
+    "definition_zh": "n. 欢呼, 喜欢, 庆祝",
+    "examples": [
+      "A profound sense of jubilation swept through the room as the news was announced."
     ]
   }
 ]

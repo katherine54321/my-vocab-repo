@@ -7,24 +7,10 @@
     "topic": "自然生态与地理环境",
     "phonetic": "/'ænimәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/animal-us.mp3",
-    "definition_en": "A living organism characterized by voluntary movement",
+    "definition_en": "n. a living organism characterized by voluntary movement s. marked by the appetites and passions of the body",
     "definition_zh": "n. 动物",
     "examples": [
-      "Understanding animal provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "animals_noun",
-    "word": "animals",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/animals/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/animals-us.mp3",
-    "definition_en": "N a living organism characterized by voluntary movement",
-    "definition_zh": "n. 动物, 动物世界；牲畜（animal的复数形式）",
-    "examples": [
-      "Understanding animals provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile animal from excessive human impact."
     ]
   },
   {
@@ -35,24 +21,10 @@
     "topic": "自然生态与地理环境",
     "phonetic": "/bә:d/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bird-us.mp3",
-    "definition_en": "Warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+    "definition_en": "n. warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings n. the flesh of a bird or fowl (wild or domestic) used as food v. watch and study birds in their natural habitat",
     "definition_zh": "n. 鸟, 羽毛球",
     "examples": [
-      "Understanding bird provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "birds_noun",
-    "word": "birds",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/birds/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/birds-us.mp3",
-    "definition_en": "N warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
-    "definition_zh": "n. 鸟类；禽（bird的复数）",
-    "examples": [
-      "Understanding birds provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile bird from excessive human impact."
     ]
   },
   {
@@ -63,80 +35,52 @@
     "topic": "自然生态与地理环境",
     "phonetic": "/'flauә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flower-us.mp3",
-    "definition_en": "A plant cultivated for its blooms or blossoms",
+    "definition_en": "n. a plant cultivated for its blooms or blossoms n. reproductive organ of angiosperm plants especially one having showy or colorful parts n. the period of greatest prosperity or productivity",
     "definition_zh": "n. 花, 开花植物, 精华, 盛时",
     "examples": [
-      "Understanding flower provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile flower from excessive human impact."
     ]
   },
   {
-    "id": "flowers_noun",
-    "word": "flowers",
+    "id": "grass_noun",
+    "word": "grass",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/flowers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flowers-us.mp3",
-    "definition_en": "N a plant cultivated for its blooms or blossoms",
-    "definition_zh": "[医] 花; 升华制成的药物; 月经",
+    "phonetic": "/græs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grass-us.mp3",
+    "definition_en": "n. narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay n. German writer of novels and poetry and plays (born 1927) v. shoot down, of birds v. cover with grass",
+    "definition_zh": "n. 草, 草原, 牧场",
     "examples": [
-      "Understanding flowers provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile grass from excessive human impact."
     ]
   },
   {
-    "id": "hill_noun",
-    "word": "hill",
+    "id": "moon_noun",
+    "word": "moon",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/hil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hill-us.mp3",
-    "definition_en": "A local and well-defined elevation of the land",
-    "definition_zh": "n. 小山, 丘陵, 小土堆",
+    "phonetic": "/mu:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moon-us.mp3",
+    "definition_en": "n. the natural satellite of the Earth n. any object resembling a moon n. United States religious leader (born in Korea) who founded the Unification Church in 1954; was found guilty of conspiracy to evade taxes (born in 1920) n. any natural satellite of a planet",
+    "definition_zh": "n. 月亮, 月球, 月光",
     "examples": [
-      "Understanding hill provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile moon from excessive human impact."
     ]
   },
   {
-    "id": "hills_noun",
-    "word": "hills",
+    "id": "rain_noun",
+    "word": "rain",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/hills/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hills-us.mp3",
-    "definition_en": "N a local and well-defined elevation of the land",
-    "definition_zh": "n. 丘陵（hill的复数形式）",
+    "phonetic": "/rein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rain-us.mp3",
+    "definition_en": "n. water falling in drops from vapor condensed in the atmosphere n. drops of fresh water that fall as precipitation from clouds n. anything happening rapidly or in quick successive v. precipitate as rain",
+    "definition_zh": "n. 雨, 下雨, 雨天",
     "examples": [
-      "Understanding hills provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "mountain_noun",
-    "word": "mountain",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/'mauntin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mountain-us.mp3",
-    "definition_en": "A land mass that projects well above its surroundings; higher than a hill",
-    "definition_zh": "n. 山, 山脉, 大堆",
-    "examples": [
-      "Understanding mountain provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "mountains_noun",
-    "word": "mountains",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/mountains/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mountains-us.mp3",
-    "definition_en": "N a land mass that projects well above its surroundings; higher than a hill",
-    "definition_zh": "n. 山脉；山区；山岳（mountain的复数）",
-    "examples": [
-      "Understanding mountains provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile rain from excessive human impact."
     ]
   },
   {
@@ -147,24 +91,10 @@
     "topic": "自然生态与地理环境",
     "phonetic": "/'rivә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/river-us.mp3",
-    "definition_en": "A large natural stream of water (larger than a creek)",
+    "definition_en": "n. a large natural stream of water (larger than a creek)",
     "definition_zh": "n. 河, 江",
     "examples": [
-      "Understanding river provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "rivers_noun",
-    "word": "rivers",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/rivers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rivers-us.mp3",
-    "definition_en": "N a large natural stream of water (larger than a creek)",
-    "definition_zh": "n. 里弗斯（人名）；河流州（尼日利亚州名）；河水钻",
-    "examples": [
-      "Understanding rivers provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile river from excessive human impact."
     ]
   },
   {
@@ -175,38 +105,66 @@
     "topic": "自然生态与地理环境",
     "phonetic": "/si:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sea-us.mp3",
-    "definition_en": "A division of an ocean or a large body of salt water partially enclosed by land",
+    "definition_en": "n. a division of an ocean or a large body of salt water partially enclosed by land n. turbulent water with swells of considerable size",
     "definition_zh": "n. 海, 海洋, 海浪, 大量",
     "examples": [
-      "Understanding sea provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile sea from excessive human impact."
     ]
   },
   {
-    "id": "sea_adjective",
-    "word": "sea",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/si:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sea-us.mp3",
-    "definition_en": "A division of an ocean or a large body of salt water partially enclosed by land",
-    "definition_zh": "n. 海, 海洋, 海浪, 大量",
-    "examples": [
-      "The committee analyzed a highly sea perspective during the forum."
-    ]
-  },
-  {
-    "id": "seas_noun",
-    "word": "seas",
+    "id": "sky_noun",
+    "word": "sky",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/seas/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seas-us.mp3",
-    "definition_en": "N a division of an ocean or a large body of salt water partially enclosed by land",
-    "definition_zh": "n. 海洋（sea的复数）",
+    "phonetic": "/skai/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sky-us.mp3",
+    "definition_en": "n. the atmosphere and outer space as viewed from the earth",
+    "definition_zh": "n. 天空, 天色, 天堂",
     "examples": [
-      "Understanding seas provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile sky from excessive human impact."
+    ]
+  },
+  {
+    "id": "snow_noun",
+    "word": "snow",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/snәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/snow-us.mp3",
+    "definition_en": "n. precipitation falling from clouds in the form of ice crystals n. a layer of snowflakes (white crystals of frozen water) covering the ground n. English writer of novels about moral dilemmas in academe (1905-1980) v. fall as snow",
+    "definition_zh": "n. 雪, 积雪, 下雪, 雪花形干扰",
+    "examples": [
+      "Conservationists strive to protect the fragile snow from excessive human impact."
+    ]
+  },
+  {
+    "id": "star_noun",
+    "word": "star",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/stɑ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/star-us.mp3",
+    "definition_en": "n. (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior n. any celestial body visible (as a point of light) from the Earth at night n. an actor who plays a principal role n. a plane figure with 5 or more points; often used as an emblem",
+    "definition_zh": "n. 星, 恒星, 星形物, 运气, 明星",
+    "examples": [
+      "Conservationists strive to protect the fragile star from excessive human impact."
+    ]
+  },
+  {
+    "id": "sun_noun",
+    "word": "sun",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/sʌn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sun-us.mp3",
+    "definition_en": "n. the star that is the source of light and heat for the planets in the solar system n. a person considered as a source of warmth or energy or glory etc n. any star around which a planetary system revolves v. expose one's body to the sun",
+    "definition_zh": "n. 太阳, 日, 日光, 阳光",
+    "examples": [
+      "Conservationists strive to protect the fragile sun from excessive human impact."
     ]
   },
   {
@@ -217,348 +175,220 @@
     "topic": "自然生态与地理环境",
     "phonetic": "/tri:/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tree-us.mp3",
-    "definition_en": "A perennial woody plant having a primary self-supporting trunk and elevated crown of branches.",
-    "definition_zh": "树木，乔木",
+    "definition_en": "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms n. a figure that branches from a single root n. English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917) v. plant with trees",
+    "definition_zh": "n. 树, 木料, 树状物",
     "examples": [
-      "Centuries-old oak trees cast protective shade across the town square.",
-      "Communities planted ten thousand native trees to curb soil erosion."
+      "Conservationists strive to protect the fragile tree from excessive human impact."
     ]
   },
   {
-    "id": "trees_noun",
-    "word": "trees",
+    "id": "wind_noun",
+    "word": "wind",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/trees/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trees-us.mp3",
-    "definition_en": "N a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
-    "definition_zh": "n. 树木；乔木；树状结构（tree的复数）",
+    "phonetic": "/wind/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wind-us.mp3",
+    "definition_en": "n. air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure n. a tendency or force that influences events n. breath n. empty rhetoric or insincere or exaggerated talk",
+    "definition_zh": "n. 风, 气息, 气味, 呼吸, 风声, 趋势, 空谈, 卷绕, 弯曲",
     "examples": [
-      "Understanding trees provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile wind from excessive human impact."
     ]
   },
   {
-    "id": "weather_noun",
-    "word": "weather",
+    "id": "earth_noun",
+    "word": "earth",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "A2",
     "topic": "自然生态与地理环境",
-    "phonetic": "/'weðә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/weather-us.mp3",
-    "definition_en": "The atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation",
-    "definition_zh": "n. 天气, 气象, 处境",
+    "phonetic": "/ә:θ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/earth-us.mp3",
+    "definition_en": "n. the 3rd planet from the sun; the planet we live on n. the loose soft material that makes up a large part of the land surface n. the abode of mortals (as contrasted with Heaven or Hell) n. once thought to be one of four elements composing the universe (Empedocles)",
+    "definition_zh": "n. 地球, 泥土, 世界, 尘世",
     "examples": [
-      "Understanding weather provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile earth from excessive human impact."
+    ]
+  },
+  {
+    "id": "agriculture_noun",
+    "word": "agriculture",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'ægrikʌltʃә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/agriculture-us.mp3",
+    "definition_en": "n. the class of people engaged in growing food",
+    "definition_zh": "n. 农业",
+    "examples": [
+      "Conservationists strive to protect the fragile agriculture from excessive human impact."
+    ]
+  },
+  {
+    "id": "atmosphere_noun",
+    "word": "atmosphere",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'ætmәsfiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/atmosphere-us.mp3",
+    "definition_en": "n. a particular environment or surrounding influence n. the mass of air surrounding the Earth n. the weather or climate at some place n. the envelope of gases surrounding any celestial body",
+    "definition_zh": "n. 大气, 空气, 气氛",
+    "examples": [
+      "Conservationists strive to protect the fragile atmosphere from excessive human impact."
     ]
   },
   {
     "id": "climate_noun",
     "word": "climate",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "自然生态与地理环境",
     "phonetic": "/'klaimit/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/climate-us.mp3",
-    "definition_en": "The meteorological trends, average temperature, and rainfall of a locale over decades.",
-    "definition_zh": "气候，大势",
+    "definition_en": "n. the weather in some location averaged over some long period of time n. the prevailing psychological state",
+    "definition_zh": "n. 气候, 社会趋势, 气候区",
     "examples": [
-      "Mediterranean climates feature temperate wet winters and arid summers.",
-      "Accelerating climate shifts threaten fragile alpine biomes."
+      "Conservationists strive to protect the fragile climate from excessive human impact."
     ]
   },
   {
-    "id": "desert_noun",
-    "word": "desert",
+    "id": "cloud_noun",
+    "word": "cloud",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/'dezәt. di'sә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/desert-us.mp3",
-    "definition_en": "Arid land with little or no vegetation",
-    "definition_zh": "n. 沙漠, 应得的赏罚, 功劳",
+    "phonetic": "/klaud/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cloud-us.mp3",
+    "definition_en": "n. any collection of particles (e.g., smoke or dust) or gases that is visible n. a visible mass of water or ice particles suspended at a considerable altitude n. out of touch with reality n. a cause of worry or gloom or trouble",
+    "definition_zh": "n. 云, 阴暗, 烟雾, 疑团",
     "examples": [
-      "Recent breakthroughs in desert have accelerated modern technological innovation."
+      "Conservationists strive to protect the fragile cloud from excessive human impact."
     ]
   },
   {
-    "id": "earthquake_noun",
-    "word": "earthquake",
+    "id": "food chain_noun",
+    "word": "food chain",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/'ә:θkweik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/earthquake-us.mp3",
-    "definition_en": "Shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity",
-    "definition_zh": "n. 地震",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/food chain-us.mp3",
+    "definition_en": "A term denoting food chain.",
+    "definition_zh": "食物链",
     "examples": [
-      "Understanding earthquake provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile food chain from excessive human impact."
     ]
   },
   {
     "id": "forest_noun",
     "word": "forest",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "自然生态与地理环境",
     "phonetic": "/'fɒrist/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/forest-us.mp3",
-    "definition_en": "The trees and other plants in a large densely wooded area",
+    "definition_en": "n. the trees and other plants in a large densely wooded area n. land that is covered with trees and shrubs",
     "definition_zh": "n. 森林, 林区",
     "examples": [
-      "Understanding forest provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile forest from excessive human impact."
     ]
   },
   {
-    "id": "forests_noun",
-    "word": "forests",
+    "id": "global warming_noun",
+    "word": "global warming",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/ˈfɔrists/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/forests-us.mp3",
-    "definition_en": "N the trees and other plants in a large densely wooded area",
-    "definition_zh": "n. 森林( forest的名词复数 ); 丛林; （森林似的）一丛; 一片",
+    "phonetic": "/ˈɡləubəl ˈwɔ:miŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/global warming-us.mp3",
+    "definition_en": "A term denoting global warming.",
+    "definition_zh": "n. 全球变暖",
     "examples": [
-      "Understanding forests provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile global warming from excessive human impact."
+    ]
+  },
+  {
+    "id": "hill_noun",
+    "word": "hill",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/hil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hill-us.mp3",
+    "definition_en": "n. a local and well-defined elevation of the land n. United States railroad tycoon (1838-1916) n. risque English comedian (1925-1992) v. form into a hill",
+    "definition_zh": "n. 小山, 丘陵, 小土堆",
+    "examples": [
+      "Conservationists strive to protect the fragile hill from excessive human impact."
+    ]
+  },
+  {
+    "id": "island_noun",
+    "word": "island",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'ailәnd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/island-us.mp3",
+    "definition_en": "n. a land mass (smaller than a continent) that is surrounded by water n. a zone or area resembling an island",
+    "definition_zh": "n. 岛, 岛屿, 孤立地区, 安全岛",
+    "examples": [
+      "Conservationists strive to protect the fragile island from excessive human impact."
     ]
   },
   {
     "id": "lake_noun",
     "word": "lake",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "自然生态与地理环境",
     "phonetic": "/leik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lake-us.mp3",
-    "definition_en": "A body of (usually fresh) water surrounded by land",
+    "definition_en": "n. a body of (usually fresh) water surrounded by land n. a purplish red pigment prepared from lac or cochineal n. any of numerous bright translucent organic pigments",
     "definition_zh": "n. 湖, 池, 色淀",
     "examples": [
-      "Understanding lake provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile lake from excessive human impact."
     ]
   },
   {
-    "id": "lakes_noun",
-    "word": "lakes",
+    "id": "mountain_noun",
+    "word": "mountain",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/lakes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lakes-us.mp3",
-    "definition_en": "N a body of (usually fresh) water surrounded by land",
-    "definition_zh": "n. 色淀；湖泊, 湖畔",
+    "phonetic": "/'mauntin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mountain-us.mp3",
+    "definition_en": "n. a land mass that projects well above its surroundings; higher than a hill",
+    "definition_zh": "n. 山, 山脉, 大堆",
     "examples": [
-      "Understanding lakes provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile mountain from excessive human impact."
     ]
   },
   {
-    "id": "natural_adjective",
-    "word": "natural",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/'nætʃәrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/natural-us.mp3",
-    "definition_en": "In accordance with nature; relating to or concerning nature",
-    "definition_zh": "a. 自然的, 自然界的, 本能的, 天然的, 物质的, 正常的, 原始的, 自然数的",
-    "examples": [
-      "The committee analyzed a highly natural perspective during the forum."
-    ]
-  },
-  {
-    "id": "natural_noun",
-    "word": "natural",
+    "id": "natural resource_noun",
+    "word": "natural resource",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/'nætʃәrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/natural-us.mp3",
-    "definition_en": "Someone regarded as certain to succeed",
-    "definition_zh": "n. 白痴",
+    "phonetic": "/ˈnætʃərəl riˈsɔ:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/natural resource-us.mp3",
+    "definition_en": "A term denoting natural resource.",
+    "definition_zh": "自然资源",
     "examples": [
-      "Understanding natural provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile natural resource from excessive human impact."
     ]
   },
   {
     "id": "nature_noun",
     "word": "nature",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "自然生态与地理环境",
     "phonetic": "/'neitʃә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nature-us.mp3",
-    "definition_en": "The essential qualities or characteristics by which something is recognized",
+    "definition_en": "n. the essential qualities or characteristics by which something is recognized n. a causal agent creating and controlling things in the universe n. the natural physical world including plants and animals and landscapes etc. n. the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions",
     "definition_zh": "n. 自然, 大自然, 本性, 性格, 性质",
     "examples": [
-      "Understanding nature provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "planet_noun",
-    "word": "planet",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/'plænit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/planet-us.mp3",
-    "definition_en": "(astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction",
-    "definition_zh": "n. 行星, 命运星辰, 杰出的人, 重大影响的事",
-    "examples": [
-      "Understanding planet provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "plant_noun",
-    "word": "plant",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/plænt. plɑ:nt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plant-us.mp3",
-    "definition_en": "Buildings for carrying on industrial labor",
-    "definition_zh": "n. 植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备",
-    "examples": [
-      "Understanding plant provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "storm_noun",
-    "word": "storm",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/stɒ:m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/storm-us.mp3",
-    "definition_en": "A violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning",
-    "definition_zh": "n. 暴风雨, 骚动, 风波, 风暴, 猛攻",
-    "examples": [
-      "Understanding storm provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "storms_noun",
-    "word": "storms",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/storms/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/storms-us.mp3",
-    "definition_en": "N a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning",
-    "definition_zh": "n. 暴风雨；风暴；暴风（storm复数）",
-    "examples": [
-      "Understanding storms provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "wild_adjective",
-    "word": "wild",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/waild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wild-us.mp3",
-    "definition_en": "Marked by extreme lack of restraint or control",
-    "definition_zh": "a. 野性的, 野蛮的, 野生的, 失控的, 任性的, 杂乱的, 轻率的, 狂热的, 疯狂的",
-    "examples": [
-      "The committee analyzed a highly wild perspective during the forum."
-    ]
-  },
-  {
-    "id": "wild_noun",
-    "word": "wild",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/waild/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wild-us.mp3",
-    "definition_en": "A wild primitive state untouched by civilization",
-    "definition_zh": "n. 荒野, 荒地",
-    "examples": [
-      "Understanding wild provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "ecological_adjective",
-    "word": "ecological",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/.i:kә'lɒdʒikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecological-us.mp3",
-    "definition_en": "Characterized by the interdependence of living organisms in an environment",
-    "definition_zh": "a. 生态学的, 主张生态保护的",
-    "examples": [
-      "The committee analyzed a highly ecological perspective during the forum."
-    ]
-  },
-  {
-    "id": "ecology_noun",
-    "word": "ecology",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/i:'kɒlәdʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecology-us.mp3",
-    "definition_en": "The environment as it relates to living organisms",
-    "definition_zh": "n. 生态学, 社会生态学",
-    "examples": [
-      "Understanding ecology provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "ecosystems_noun",
-    "word": "ecosystems",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/ˈekəʊˌsɪstəmz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecosystems-us.mp3",
-    "definition_en": "A system formed by the interaction of a community of organisms with their physical environment",
-    "definition_zh": "n. <生>生态系统( ecosystem的复数形式 )",
-    "examples": [
-      "Understanding ecosystems provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "environmental_adjective",
-    "word": "environmental",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/in.vaiәrәn'mentәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environmental-us.mp3",
-    "definition_en": "Of or relating to the external conditions or surroundings",
-    "definition_zh": "a. 周围的, 环境的",
-    "examples": [
-      "The committee analyzed a highly environmental perspective during the forum."
-    ]
-  },
-  {
-    "id": "environmental_noun",
-    "word": "environmental",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/in.vaiәrәn'mentәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environmental-us.mp3",
-    "definition_en": "Of or relating to the external conditions or surroundings",
-    "definition_zh": "a. 周围的, 环境的",
-    "examples": [
-      "Psychologists study how environmental impacts emotional well-being and daily behavior."
-    ]
-  },
-  {
-    "id": "environmentalist_noun",
-    "word": "environmentalist",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/in,vaiәrәn'mentlist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environmentalist-us.mp3",
-    "definition_en": "Someone who works to protect the environment from destruction or pollution",
-    "definition_zh": "n. 环保人士",
-    "examples": [
-      "Psychologists study how environmentalist impacts emotional well-being and daily behavior."
+      "Conservationists strive to protect the fragile nature from excessive human impact."
     ]
   },
   {
@@ -569,166 +399,94 @@
     "topic": "自然生态与地理环境",
     "phonetic": "/'әuʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ocean-us.mp3",
-    "definition_en": "A large body of water constituting a principal part of the hydrosphere",
+    "definition_en": "n. a large body of water constituting a principal part of the hydrosphere n. anything apparently limitless in quantity or volume",
     "definition_zh": "n. 海洋, 广阔, 许多, 一大片",
     "examples": [
-      "Understanding ocean provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile ocean from excessive human impact."
     ]
   },
   {
-    "id": "oceans_noun",
-    "word": "oceans",
+    "id": "planet_noun",
+    "word": "planet",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/oceans/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oceans-us.mp3",
-    "definition_en": "N a large body of water constituting a principal part of the hydrosphere",
-    "definition_zh": "n. 海洋（ocean的复数形式）",
+    "phonetic": "/'plænit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/planet-us.mp3",
+    "definition_en": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction n. any celestial body (other than comets or satellites) that revolves around a star",
+    "definition_zh": "n. 行星, 命运星辰, 杰出的人, 重大影响的事",
     "examples": [
-      "Understanding oceans provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile planet from excessive human impact."
     ]
   },
   {
-    "id": "plant_verb",
+    "id": "plant_noun",
     "word": "plant",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态与地理环境",
     "phonetic": "/plænt. plɑ:nt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plant-us.mp3",
-    "definition_en": "Buildings for carrying on industrial labor",
-    "definition_zh": "vt. 种植, 栽培, 播种, 培养, 安置, 殖民于, 使位于",
+    "definition_en": "n. buildings for carrying on industrial labor n. (botany) a living organism lacking the power of locomotion n. an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience n. something planted secretly for discovery by another",
+    "definition_zh": "n. 植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备",
     "examples": [
-      "Many professionals plant key methods to achieve consistent, high-quality results."
+      "Conservationists strive to protect the fragile plant from excessive human impact."
     ]
   },
   {
-    "id": "pollution_noun",
-    "word": "pollution",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/pә'lu:ʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pollution-us.mp3",
-    "definition_en": "The contamination of air, water, or earth by detrimental synthetic toxins.",
-    "definition_zh": "污染，污染物",
-    "examples": [
-      "Stricter vehicle emissions standards reduced particulate air pollution significantly.",
-      "Plastic pollution wreaks catastrophic havoc on pelagic marine ecosystems."
-    ]
-  },
-  {
-    "id": "rainforest_noun",
-    "word": "rainforest",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/'rein'fɔrist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rainforest-us.mp3",
-    "definition_en": "N a forest with heavy annual rainfall",
-    "definition_zh": "[生态]雨林",
-    "examples": [
-      "Understanding rainforest provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "recycle_verb",
-    "word": "recycle",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/.ri:'saikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recycle-us.mp3",
-    "definition_en": "To reclaim, process, and convert scrap materials into useful new goods.",
-    "definition_zh": "回收利用，再循环",
-    "examples": [
-      "The community incentivizes residents to recycle glass, paper, and aluminum.",
-      "Advanced facilities recycle lithium-ion vehicle batteries with high efficiency."
-    ]
-  },
-  {
-    "id": "recycling_noun",
-    "word": "recycling",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/recycling/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recycling-us.mp3",
-    "definition_en": "The act of processing used or abandoned materials for use in creating new products",
-    "definition_zh": "[电] 再循环",
-    "examples": [
-      "Understanding recycling provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "soil_verb",
+    "id": "soil_noun",
     "word": "soil",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态与地理环境",
     "phonetic": "/sɒil/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soil-us.mp3",
-    "definition_en": "The part of the earth's surface consisting of humus and disintegrated rock",
-    "definition_zh": "vt. 弄脏, 污辱",
+    "definition_en": "n. the part of the earth's surface consisting of humus and disintegrated rock",
+    "definition_zh": "n. 土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池",
     "examples": [
-      "Many professionals soil key methods to achieve consistent, high-quality results."
+      "Conservationists strive to protect the fragile soil from excessive human impact."
     ]
   },
   {
-    "id": "tornado_noun",
-    "word": "tornado",
+    "id": "solar energy_noun",
+    "word": "solar energy",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/tɒ:'neidәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tornado-us.mp3",
-    "definition_en": "A localized and violently destructive windstorm occurring over land characterized by a funnel-shaped cloud extending toward the ground",
-    "definition_zh": "n. 旋风, 龙卷风, 大雷雨",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/solar energy-us.mp3",
+    "definition_en": "A term denoting solar energy.",
+    "definition_zh": "太阳能",
     "examples": [
-      "Understanding tornado provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile solar energy from excessive human impact."
     ]
   },
   {
-    "id": "volcano_noun",
-    "word": "volcano",
+    "id": "storm_noun",
+    "word": "storm",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/vɒl'keinәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/volcano-us.mp3",
-    "definition_en": "A mountain formed by volcanic material",
-    "definition_zh": "n. 火山",
+    "phonetic": "/stɒ:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/storm-us.mp3",
+    "definition_en": "n. a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning n. a violent commotion or disturbance n. a direct and violent assault on a stronghold v. take by force",
+    "definition_zh": "n. 暴风雨, 骚动, 风波, 风暴, 猛攻",
     "examples": [
-      "Understanding volcano provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile storm from excessive human impact."
     ]
   },
   {
-    "id": "wetland_noun",
-    "word": "wetland",
+    "id": "weather_noun",
+    "word": "weather",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/'wetlænd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wetland-us.mp3",
-    "definition_en": "A low area where the land is saturated with water",
-    "definition_zh": "n. 湿地, 沼泽地",
+    "phonetic": "/'weðә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/weather-us.mp3",
+    "definition_en": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation v. face and withstand with courage v. cause to slope v. sail to the windward of",
+    "definition_zh": "n. 天气, 气象, 处境",
     "examples": [
-      "Understanding wetland provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "whale_noun",
-    "word": "whale",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/hweil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/whale-us.mp3",
-    "definition_en": "Any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head",
-    "definition_zh": "n. 鲸",
-    "examples": [
-      "Fresh whale can be incorporated into a wide variety of delicious recipes."
+      "Conservationists strive to protect the fragile weather from excessive human impact."
     ]
   },
   {
@@ -739,52 +497,206 @@
     "topic": "自然生态与地理环境",
     "phonetic": "/'waildlaif/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wildlife-us.mp3",
-    "definition_en": "All living things (except people) that are undomesticated",
+    "definition_en": "n. all living things (except people) that are undomesticated",
     "definition_zh": "n. 野生动植物",
     "examples": [
-      "Understanding wildlife provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile wildlife from excessive human impact."
     ]
   },
   {
-    "id": "antipollution_noun",
-    "word": "antipollution",
+    "id": "adaptation_noun",
+    "word": "adaptation",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "自然生态与地理环境",
-    "phonetic": "/'æntipә'lju:ʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antipollution-us.mp3",
-    "definition_en": "A intended to reduce pollution",
-    "definition_zh": "a. 防止环境污染的, 防污染的",
+    "phonetic": "/.ædæp'teiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adaptation-us.mp3",
+    "definition_en": "n. a written work (as a novel) that has been recast in a new form n. the process of adapting to something (such as environmental conditions) n. (physiology) the responsive adjustment of a sense organ (as the eye) to varying conditions (as of light)",
+    "definition_zh": "n. 适应, 改编, 改编本",
     "examples": [
-      "Understanding antipollution provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile adaptation from excessive human impact."
     ]
   },
   {
-    "id": "ecologically_adverb",
-    "word": "ecologically",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "自然生态与地理环境",
-    "phonetic": "/ecologically/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecologically-us.mp3",
-    "definition_en": "With respect to ecology; economically, it is a disaster\"",
-    "definition_zh": "adv. 从生态学的观点看",
-    "examples": [
-      "Researchers systematically observed ecologically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "ecologist_noun",
-    "word": "ecologist",
+    "id": "biodiversity_noun",
+    "word": "biodiversity",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "自然生态与地理环境",
-    "phonetic": "/i:'kɒlәdʒist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecologist-us.mp3",
-    "definition_en": "A biologist who studies the relation between organisms and their environment",
-    "definition_zh": "n. 生态学者",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/biodiversity-us.mp3",
+    "definition_en": "n. the diversity of plant and animal life in a particular habitat (or in the world as a whole)",
+    "definition_zh": "n. 生物多样性",
     "examples": [
-      "Understanding ecologist provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile biodiversity from excessive human impact."
+    ]
+  },
+  {
+    "id": "blizzard_noun",
+    "word": "blizzard",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'blizәd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blizzard-us.mp3",
+    "definition_en": "n. a storm with widespread snowfall accompanied by strong winds",
+    "definition_zh": "n. 大风雪, 暴风雪",
+    "examples": [
+      "Conservationists strive to protect the fragile blizzard from excessive human impact."
+    ]
+  },
+  {
+    "id": "compost_noun",
+    "word": "compost",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'kɒmpәust/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compost-us.mp3",
+    "definition_en": "n. a mixture of decaying vegetation and manure; used as a fertilizer v. convert to compost",
+    "definition_zh": "n. 混合物, 堆肥",
+    "examples": [
+      "Conservationists strive to protect the fragile compost from excessive human impact."
+    ]
+  },
+  {
+    "id": "conservation_noun",
+    "word": "conservation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/.kɒnsә'veiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conservation-us.mp3",
+    "definition_en": "n. an occurrence of improvement by virtue of preventing loss or injury or other change n. the preservation and careful management of the environment and of natural resources n. (physics) the maintenance of a certain quantities unchanged during chemical reactions or physical transformations",
+    "definition_zh": "n. 保护, 保存",
+    "examples": [
+      "Conservationists strive to protect the fragile conservation from excessive human impact."
+    ]
+  },
+  {
+    "id": "delta_noun",
+    "word": "delta",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'deltә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delta-us.mp3",
+    "definition_en": "n. a low triangular area of alluvial deposits where a river divides before entering a larger body of water n. an object shaped like an equilateral triangle n. the 4th letter of the Greek alphabet",
+    "definition_zh": "n. 三角洲, 希腊字母的第四个字",
+    "examples": [
+      "Conservationists strive to protect the fragile delta from excessive human impact."
+    ]
+  },
+  {
+    "id": "desert_noun",
+    "word": "desert",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'dezәt. di'sә:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/desert-us.mp3",
+    "definition_en": "n. arid land with little or no vegetation v. leave behind",
+    "definition_zh": "n. 沙漠, 应得的赏罚, 功劳",
+    "examples": [
+      "Conservationists strive to protect the fragile desert from excessive human impact."
+    ]
+  },
+  {
+    "id": "drought_noun",
+    "word": "drought",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/draut/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drought-us.mp3",
+    "definition_en": "n. a shortage of rainfall n. a prolonged shortage",
+    "definition_zh": "n. 干旱, 缺乏",
+    "examples": [
+      "Conservationists strive to protect the fragile drought from excessive human impact."
+    ]
+  },
+  {
+    "id": "dune_noun",
+    "word": "dune",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/dju:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dune-us.mp3",
+    "definition_en": "n. a ridge of sand created by the wind; found in deserts or near lakes and oceans",
+    "definition_zh": "n. 沙丘",
+    "examples": [
+      "Conservationists strive to protect the fragile dune from excessive human impact."
+    ]
+  },
+  {
+    "id": "earthquake_noun",
+    "word": "earthquake",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'ә:θkweik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/earthquake-us.mp3",
+    "definition_en": "n. shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity n. a disturbance that is extremely disruptive",
+    "definition_zh": "n. 地震",
+    "examples": [
+      "Conservationists strive to protect the fragile earthquake from excessive human impact."
+    ]
+  },
+  {
+    "id": "ecological_adjective",
+    "word": "ecological",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/.i:kә'lɒdʒikәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecological-us.mp3",
+    "definition_en": "a. characterized by the interdependence of living organisms in an environment a. of or relating to the science of ecology",
+    "definition_zh": "a. 生态学的, 主张生态保护的",
+    "examples": [
+      "Conservationists strive to protect the fragile ecological from excessive human impact."
+    ]
+  },
+  {
+    "id": "ecology_noun",
+    "word": "ecology",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/i:'kɒlәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecology-us.mp3",
+    "definition_en": "n. the environment as it relates to living organisms n. the branch of biology concerned with the relations between organisms and their environment",
+    "definition_zh": "n. 生态学, 社会生态学",
+    "examples": [
+      "Studying ecology helps us understand intricate relationships between living organisms."
+    ]
+  },
+  {
+    "id": "ecosystem_noun",
+    "word": "ecosystem",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'i:kәu.sistәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecosystem-us.mp3",
+    "definition_en": "n. a system formed by the interaction of a community of organisms with their physical environment",
+    "definition_zh": "n. 生态系统",
+    "examples": [
+      "Conservationists strive to protect the fragile ecosystem from excessive human impact."
+    ]
+  },
+  {
+    "id": "emissions_noun",
+    "word": "emissions",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/ɪˈmɪʃənz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/emissions-us.mp3",
+    "definition_en": "n. the act of emitting; causing to flow forth n. a substance that is emitted or released n. the release of electrons from parent atoms",
+    "definition_zh": "n. 排放物( emission的复数形式 ); 散发物（尤指气体）",
+    "examples": [
+      "Conservationists strive to protect the fragile emissions from excessive human impact."
     ]
   },
   {
@@ -795,52 +707,332 @@
     "topic": "自然生态与地理环境",
     "phonetic": "/in'vairәnmәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environment-us.mp3",
-    "definition_en": "The totality of surrounding conditions",
+    "definition_en": "n. the totality of surrounding conditions n. the area in which something exists or lives",
     "definition_zh": "n. 环境, 外界, 围绕",
     "examples": [
-      "Understanding environment provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile environment from excessive human impact."
     ]
   },
   {
-    "id": "environmentally_adverb",
-    "word": "environmentally",
-    "part_of_speech": "adverb",
+    "id": "environmental_adjective",
+    "word": "environmental",
+    "part_of_speech": "adjective",
     "level": "B2",
     "topic": "自然生态与地理环境",
-    "phonetic": "/environmentally/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environmentally-us.mp3",
-    "definition_en": "For the environment",
-    "definition_zh": "adv. 有关环境方面",
+    "phonetic": "/in.vaiәrәn'mentәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environmental-us.mp3",
+    "definition_en": "a. of or relating to the external conditions or surroundings a. concerned with the ecological effects of altering the environment",
+    "definition_zh": "a. 周围的, 环境的",
     "examples": [
-      "Researchers systematically observed environmentally relevant patterns across trials."
+      "Conservationists strive to protect the fragile environmental from excessive human impact."
     ]
   },
   {
-    "id": "environments_noun",
-    "word": "environments",
+    "id": "eruption_noun",
+    "word": "eruption",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "自然生态与地理环境",
-    "phonetic": "/environments/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environments-us.mp3",
-    "definition_en": "N the totality of surrounding conditions",
-    "definition_zh": "n. 环境；生态环境；[计]（计算机系统运行的）环境（environment的复数）",
+    "phonetic": "/i'rʌpʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eruption-us.mp3",
+    "definition_en": "n. symptom consisting of a breaking out and becoming visible n. (of volcanos) pouring out fumes or lava (or a deposit so formed) n. the emergence of a tooth as it breaks through the gum",
+    "definition_zh": "n. 爆发, 喷出物, 出疹",
     "examples": [
-      "Understanding environments provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile eruption from excessive human impact."
     ]
   },
   {
-    "id": "soil_noun",
-    "word": "soil",
+    "id": "extinction_noun",
+    "word": "extinction",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "自然生态与地理环境",
-    "phonetic": "/sɒil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soil-us.mp3",
-    "definition_en": "The part of the earth's surface consisting of humus and disintegrated rock",
-    "definition_zh": "n. 土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池",
+    "phonetic": "/ik'stiŋkʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/extinction-us.mp3",
+    "definition_en": "n. no longer active; extinguished n. no longer in existence n. the reduction of the intensity of radiation as a consequence of absorption and radiation",
+    "definition_zh": "n. 消失, 消灭, 废止",
     "examples": [
-      "Understanding soil provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile extinction from excessive human impact."
+    ]
+  },
+  {
+    "id": "fertile_adjective",
+    "word": "fertile",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'fә:tail/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fertile-us.mp3",
+    "definition_en": "a. capable of reproducing",
+    "definition_zh": "a. 可繁殖的, 肥沃的, 生产多的",
+    "examples": [
+      "Conservationists strive to protect the fragile fertile from excessive human impact."
+    ]
+  },
+  {
+    "id": "flood_noun",
+    "word": "flood",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/flʌd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flood-us.mp3",
+    "definition_en": "n. the rising of a body of water and its overflowing onto normally dry land n. an overwhelming number or amount n. light that is a source of artificial illumination having a broad beam; used in photography n. a large flow",
+    "definition_zh": "n. 洪水, 大量之水, 涨潮",
+    "examples": [
+      "Conservationists strive to protect the fragile flood from excessive human impact."
+    ]
+  },
+  {
+    "id": "fossil fuel_noun",
+    "word": "fossil fuel",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/ˈfɔsl fjuəl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fossil fuel-us.mp3",
+    "definition_en": "A term denoting fossil fuel.",
+    "definition_zh": "n. 化石燃料",
+    "examples": [
+      "Conservationists strive to protect the fragile fossil fuel from excessive human impact."
+    ]
+  },
+  {
+    "id": "glacier_noun",
+    "word": "glacier",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'gleiʃә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/glacier-us.mp3",
+    "definition_en": "n. a slowly moving mass of ice",
+    "definition_zh": "n. 冰川",
+    "examples": [
+      "Conservationists strive to protect the fragile glacier from excessive human impact."
+    ]
+  },
+  {
+    "id": "habitat_noun",
+    "word": "habitat",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'hæbitæt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/habitat-us.mp3",
+    "definition_en": "n. the type of environment in which an organism or group normally lives or occurs",
+    "definition_zh": "n. 栖息地, 居留地, 自生地, 聚集处",
+    "examples": [
+      "Conservationists strive to protect the fragile habitat from excessive human impact."
+    ]
+  },
+  {
+    "id": "humidity_noun",
+    "word": "humidity",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/hju:'miditi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/humidity-us.mp3",
+    "definition_en": "n. wetness in the atmosphere",
+    "definition_zh": "n. 湿气, 潮湿, 湿度",
+    "examples": [
+      "Conservationists strive to protect the fragile humidity from excessive human impact."
+    ]
+  },
+  {
+    "id": "hurricane_noun",
+    "word": "hurricane",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'hә:rikәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hurricane-us.mp3",
+    "definition_en": "n. a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale)",
+    "definition_zh": "n. 飓风, 暴风, 暴风雨",
+    "examples": [
+      "Conservationists strive to protect the fragile hurricane from excessive human impact."
+    ]
+  },
+  {
+    "id": "monsoon_noun",
+    "word": "monsoon",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/mɒn'su:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/monsoon-us.mp3",
+    "definition_en": "n. a seasonal wind in southern Asia; blows from the southwest (bringing rain) in summer and from the northeast in winter n. rainy season in southern Asia when the southwestern monsoon blows, bringing heavy rains n. any wind that changes direction with the seasons",
+    "definition_zh": "n. 季风, 吹季风的季节, 雨季",
+    "examples": [
+      "Conservationists strive to protect the fragile monsoon from excessive human impact."
+    ]
+  },
+  {
+    "id": "oasis_noun",
+    "word": "oasis",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/әu'eisis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oasis-us.mp3",
+    "definition_en": "n. a fertile tract in a desert (where the water table approaches the surface)",
+    "definition_zh": "n. 绿洲, 舒适的地方",
+    "examples": [
+      "Conservationists strive to protect the fragile oasis from excessive human impact."
+    ]
+  },
+  {
+    "id": "organism_noun",
+    "word": "organism",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'ɒ:gәnizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organism-us.mp3",
+    "definition_en": "n. a living thing that has (or can develop) the ability to act or function independently n. a system considered analogous in structure or function to a living body",
+    "definition_zh": "n. 生物, 有机体, 社会组织",
+    "examples": [
+      "Conservationists strive to protect the fragile organism from excessive human impact."
+    ]
+  },
+  {
+    "id": "ozone layer_noun",
+    "word": "ozone layer",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ozone layer-us.mp3",
+    "definition_en": "A term denoting ozone layer.",
+    "definition_zh": "臭氧层",
+    "examples": [
+      "Conservationists strive to protect the fragile ozone layer from excessive human impact."
+    ]
+  },
+  {
+    "id": "peninsula_noun",
+    "word": "peninsula",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/pi'ninsjulә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peninsula-us.mp3",
+    "definition_en": "n. a large mass of land projecting into a body of water",
+    "definition_zh": "n. 半岛, 突出的地方, 伊比利亚半岛",
+    "examples": [
+      "Conservationists strive to protect the fragile peninsula from excessive human impact."
+    ]
+  },
+  {
+    "id": "plateau_noun",
+    "word": "plateau",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/plæ'tәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plateau-us.mp3",
+    "definition_en": "n a relatively flat highland",
+    "definition_zh": "n. 高地, 高原, (上升后的)稳定水平",
+    "examples": [
+      "Conservationists strive to protect the fragile plateau from excessive human impact."
+    ]
+  },
+  {
+    "id": "pollution_noun",
+    "word": "pollution",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/pә'lu:ʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pollution-us.mp3",
+    "definition_en": "n. undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities",
+    "definition_zh": "n. 污染, 玷污",
+    "examples": [
+      "Conservationists strive to protect the fragile pollution from excessive human impact."
+    ]
+  },
+  {
+    "id": "predator_noun",
+    "word": "predator",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'predәtә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/predator-us.mp3",
+    "definition_en": "n. any animal that lives by preying on other animals",
+    "definition_zh": "n. 食肉动物, 掠夺者",
+    "examples": [
+      "Conservationists strive to protect the fragile predator from excessive human impact."
+    ]
+  },
+  {
+    "id": "prey_noun",
+    "word": "prey",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/prei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prey-us.mp3",
+    "definition_en": "n. a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence n. animal hunted or caught for food v. profit from in an exploitatory manner",
+    "definition_zh": "n. 被掠食者, 牺牲者",
+    "examples": [
+      "Conservationists strive to protect the fragile prey from excessive human impact."
+    ]
+  },
+  {
+    "id": "rainforest_noun",
+    "word": "rainforest",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'rein'fɔrist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rainforest-us.mp3",
+    "definition_en": "n a forest with heavy annual rainfall",
+    "definition_zh": "雨林",
+    "examples": [
+      "Conservationists strive to protect the fragile rainforest from excessive human impact."
+    ]
+  },
+  {
+    "id": "recycle_verb",
+    "word": "recycle",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/.ri:'saikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recycle-us.mp3",
+    "definition_en": "v. cause to repeat a cycle v. use again after processing",
+    "definition_zh": "vt. 使再循环, 重新利用, 再制",
+    "examples": [
+      "Conservationists strive to protect the fragile recycle from excessive human impact."
+    ]
+  },
+  {
+    "id": "renewable energy_noun",
+    "word": "renewable energy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/renewable energy/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/renewable energy-us.mp3",
+    "definition_en": "A term denoting renewable energy in standard English.",
+    "definition_zh": "n. renewable energy",
+    "examples": [
+      "Conservationists strive to protect the fragile renewable energy from excessive human impact."
+    ]
+  },
+  {
+    "id": "reservoir_noun",
+    "word": "reservoir",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'rezәvwɑ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reservoir-us.mp3",
+    "definition_en": "n. a large or extra supply of something n. lake used to store water for community use n. tank used for collecting and storing a liquid (as water or oil) n. anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies",
+    "definition_zh": "n. 贮水池, 贮藏处, 贮备, 水库",
+    "examples": [
+      "Conservationists strive to protect the fragile reservoir from excessive human impact."
     ]
   },
   {
@@ -851,110 +1043,612 @@
     "topic": "自然生态与地理环境",
     "phonetic": "/sә'steinәbl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sustainable-us.mp3",
-    "definition_en": "Capable of being sustained long-term without depleting natural reserves or ecological vitality.",
-    "definition_zh": "可持续的，环保的",
+    "definition_en": "a. capable of being sustained",
+    "definition_zh": "a. 足可支撑的, 养得起的, 可以忍受的",
     "examples": [
-      "Hydropower and geothermal energy provide dependable sustainable power grids.",
-      "Sustainable forestry practices mandate planting two saplings for each felled tree."
+      "Conservationists strive to protect the fragile sustainable from excessive human impact."
     ]
   },
   {
-    "id": "desert_verb",
-    "word": "desert",
+    "id": "tornado_noun",
+    "word": "tornado",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/tɒ:'neidәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tornado-us.mp3",
+    "definition_en": "n. a localized and violently destructive windstorm occurring over land characterized by a funnel-shaped cloud extending toward the ground",
+    "definition_zh": "n. 旋风, 龙卷风, 大雷雨",
+    "examples": [
+      "Conservationists strive to protect the fragile tornado from excessive human impact."
+    ]
+  },
+  {
+    "id": "toxic waste_noun",
+    "word": "toxic waste",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/ˈtɔksik weist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toxic waste-us.mp3",
+    "definition_en": "A term denoting toxic waste.",
+    "definition_zh": "有毒废物",
+    "examples": [
+      "Conservationists strive to protect the fragile toxic waste from excessive human impact."
+    ]
+  },
+  {
+    "id": "typhoon_noun",
+    "word": "typhoon",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/tai'fu:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/typhoon-us.mp3",
+    "definition_en": "n. a tropical cyclone occurring in the western Pacific or Indian oceans",
+    "definition_zh": "n. 台风",
+    "examples": [
+      "Conservationists strive to protect the fragile typhoon from excessive human impact."
+    ]
+  },
+  {
+    "id": "vegetation_noun",
+    "word": "vegetation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/.vedʒi'teiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetation-us.mp3",
+    "definition_en": "n. all the plant life in a particular region or period n. the process of growth in plants n. an abnormal growth or excrescence (especially a warty excrescence on the valves of the heart) n. inactivity that is passive and monotonous, comparable to the inactivity of plant life",
+    "definition_zh": "n. 植物",
+    "examples": [
+      "Conservationists strive to protect the fragile vegetation from excessive human impact."
+    ]
+  },
+  {
+    "id": "volcano_noun",
+    "word": "volcano",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/vɒl'keinәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/volcano-us.mp3",
+    "definition_en": "n. a mountain formed by volcanic material",
+    "definition_zh": "n. 火山",
+    "examples": [
+      "Conservationists strive to protect the fragile volcano from excessive human impact."
+    ]
+  },
+  {
+    "id": "wetland_noun",
+    "word": "wetland",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'wetlænd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wetland-us.mp3",
+    "definition_en": "n. a low area where the land is saturated with water",
+    "definition_zh": "n. 湿地, 沼泽地",
+    "examples": [
+      "Conservationists strive to protect the fragile wetland from excessive human impact."
+    ]
+  },
+  {
+    "id": "wilderness_noun",
+    "word": "wilderness",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'wildәnis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wilderness-us.mp3",
+    "definition_en": "n. (politics) a state of disfavor n. a wooded region in northeastern Virginia near Spotsylvania where bloody but inconclusive battles were fought in the American Civil War n. a wild and uninhabited area left in its natural condition n. a bewildering profusion",
+    "definition_zh": "n. 荒野, 荒地, 大量",
+    "examples": [
+      "Conservationists strive to protect the fragile wilderness from excessive human impact."
+    ]
+  },
+  {
+    "id": "antarctic_adjective",
+    "word": "antarctic",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/ænt'ɑ:ktik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antarctic-us.mp3",
+    "definition_en": "n. the region around the south pole: Antarctica and surrounding waters",
+    "definition_zh": "a. 南极的, 南极地带的",
+    "examples": [
+      "Conservationists strive to protect the fragile antarctic from excessive human impact."
+    ]
+  },
+  {
+    "id": "archipelago_noun",
+    "word": "archipelago",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/.ɑ:ki'pelәgәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/archipelago-us.mp3",
+    "definition_en": "n. a group of many islands in a large body of water",
+    "definition_zh": "n. 群岛, 多岛屿的海",
+    "examples": [
+      "Conservationists strive to protect the fragile archipelago from excessive human impact."
+    ]
+  },
+  {
+    "id": "arctic_adjective",
+    "word": "arctic",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'ɑ:ktik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arctic-us.mp3",
+    "definition_en": "n. the regions to the north of the Arctic Circle centered on the North Pole n. a waterproof overshoe that protects shoes from water or snow s. extremely cold",
+    "definition_zh": "a. 北极的, 极寒的",
+    "examples": [
+      "Conservationists strive to protect the fragile arctic from excessive human impact."
+    ]
+  },
+  {
+    "id": "aurora_noun",
+    "word": "aurora",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/ɒ:'rɒ:rә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aurora-us.mp3",
+    "definition_en": "n. an atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnetic lines of force n. (Roman mythology) goddess of the dawn; counterpart of Greek Eos",
+    "definition_zh": "n. 曙光, 极光, 奥罗拉(曙光女神)",
+    "examples": [
+      "Conservationists strive to protect the fragile aurora from excessive human impact."
+    ]
+  },
+  {
+    "id": "avalanche_noun",
+    "word": "avalanche",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'ævәlɑ:ntʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/avalanche-us.mp3",
+    "definition_en": "n. a slide of large masses of snow and ice and mud down a mountain n. a sudden appearance of an overwhelming number of things v. gather into a huge mass and roll down a mountain, of snow",
+    "definition_zh": "n. 雪崩, 山崩, 大量",
+    "examples": [
+      "Conservationists strive to protect the fragile avalanche from excessive human impact."
+    ]
+  },
+  {
+    "id": "biomass_noun",
+    "word": "biomass",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'baiәumæs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/biomass-us.mp3",
+    "definition_en": "n. plant materials and animal waste used as fuel n. the total mass of living matter in a given unit area",
+    "definition_zh": "n. 生物量",
+    "examples": [
+      "Conservationists strive to protect the fragile biomass from excessive human impact."
+    ]
+  },
+  {
+    "id": "biosphere_noun",
+    "word": "biosphere",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'baiәsfiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/biosphere-us.mp3",
+    "definition_en": "n. the regions of the surface and atmosphere of the Earth (or other planet) where living organisms exist",
+    "definition_zh": "n. 生物圈",
+    "examples": [
+      "Conservationists strive to protect the fragile biosphere from excessive human impact."
+    ]
+  },
+  {
+    "id": "canopy_noun",
+    "word": "canopy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'kænәpi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/canopy-us.mp3",
+    "definition_en": "n. the transparent covering of an aircraft cockpit n. the umbrellalike part of a parachute that fills with air n. a covering (usually of cloth) that serves as a roof to shelter an area from the weather v. cover with a canopy",
+    "definition_zh": "n. 天篷, 遮篷, 苍穹",
+    "examples": [
+      "Conservationists strive to protect the fragile canopy from excessive human impact."
+    ]
+  },
+  {
+    "id": "carnivore_noun",
+    "word": "carnivore",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'kɑ:nivɒ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carnivore-us.mp3",
+    "definition_en": "n. a terrestrial or aquatic flesh-eating mammal n. any animal that feeds on flesh",
+    "definition_zh": "n. 食肉动物",
+    "examples": [
+      "Conservationists strive to protect the fragile carnivore from excessive human impact."
+    ]
+  },
+  {
+    "id": "condensation_noun",
+    "word": "condensation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/.kɒnden'seiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/condensation-us.mp3",
+    "definition_en": "n. (psychoanalysis) an unconscious process whereby two ideas or images combine into a single symbol; especially in dreams n. the process of changing from a gaseous to a liquid or solid state n. atmospheric moisture that has condensed because of cold",
+    "definition_zh": "n. 压缩, 凝缩, 冷凝",
+    "examples": [
+      "Conservationists strive to protect the fragile condensation from excessive human impact."
+    ]
+  },
+  {
+    "id": "deforestation_noun",
+    "word": "deforestation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/di:.fɒ:ri'steiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deforestation-us.mp3",
+    "definition_en": "n. the state of being clear of trees n. the removal of trees",
+    "definition_zh": "n. 采伐森林, 森林开伐",
+    "examples": [
+      "Conservationists strive to protect the fragile deforestation from excessive human impact."
+    ]
+  },
+  {
+    "id": "desertification_noun",
+    "word": "desertification",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/,dezә:tifi'keiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/desertification-us.mp3",
+    "definition_en": "n. the gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land",
+    "definition_zh": "n. （土壤）荒漠化, 沙漠化",
+    "examples": [
+      "Conservationists strive to protect the fragile desertification from excessive human impact."
+    ]
+  },
+  {
+    "id": "endangered_adjective",
+    "word": "endangered",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/in'deindʒәd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/endangered-us.mp3",
+    "definition_en": "s. (of flora or fauna) in imminent danger of extinction",
+    "definition_zh": "a. 有生命危险的；濒临灭绝的",
+    "examples": [
+      "Conservationists strive to protect the fragile endangered from excessive human impact."
+    ]
+  },
+  {
+    "id": "erosion_noun",
+    "word": "erosion",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/i'rәuʒәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/erosion-us.mp3",
+    "definition_en": "n. (geology) the mechanical process of wearing or grinding something down (as by particles washing over it) n. condition in which the earth's surface is worn away by the action of water and wind n. a gradual decline of something",
+    "definition_zh": "n. 腐蚀, 冲蚀, 侵蚀",
+    "examples": [
+      "Conservationists strive to protect the fragile erosion from excessive human impact."
+    ]
+  },
+  {
+    "id": "estuary_noun",
+    "word": "estuary",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'estjuәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/estuary-us.mp3",
+    "definition_en": "n. the wide part of a river where it nears the sea; fresh and salt water mix",
+    "definition_zh": "n. 河口, 港湾",
+    "examples": [
+      "Conservationists strive to protect the fragile estuary from excessive human impact."
+    ]
+  },
+  {
+    "id": "evaporation_noun",
+    "word": "evaporation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/i.væpә'reiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/evaporation-us.mp3",
+    "definition_en": "n the process of becoming a vapor n the process of extracting moisture",
+    "definition_zh": "n. 蒸发, 脱水, 消失",
+    "examples": [
+      "Conservationists strive to protect the fragile evaporation from excessive human impact."
+    ]
+  },
+  {
+    "id": "fauna_noun",
+    "word": "fauna",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'fɒ:nә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fauna-us.mp3",
+    "definition_en": "n. all the animal life in a particular region or period",
+    "definition_zh": "n. 动物群",
+    "examples": [
+      "Conservationists strive to protect the fragile fauna from excessive human impact."
+    ]
+  },
+  {
+    "id": "flora_noun",
+    "word": "flora",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'flɒ:rә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flora-us.mp3",
+    "definition_en": "n all the plant life in a particular region or period n (botany) a living organism lacking the power of locomotion",
+    "definition_zh": "n. 植物群",
+    "examples": [
+      "Conservationists strive to protect the fragile flora from excessive human impact."
+    ]
+  },
+  {
+    "id": "greenhouse_noun",
+    "word": "greenhouse",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'gri:nhaus/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/greenhouse-us.mp3",
+    "definition_en": "n. a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions a. of or relating to or caused by the greenhouse effect",
+    "definition_zh": "n. 温室",
+    "examples": [
+      "Conservationists strive to protect the fragile greenhouse from excessive human impact."
+    ]
+  },
+  {
+    "id": "herbivore_noun",
+    "word": "herbivore",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'hә:bivɒ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/herbivore-us.mp3",
+    "definition_en": "n. any animal that feeds chiefly on grass and other plants",
+    "definition_zh": "n. 草食动物",
+    "examples": [
+      "Conservationists strive to protect the fragile herbivore from excessive human impact."
+    ]
+  },
+  {
+    "id": "hibernate_verb",
+    "word": "hibernate",
     "part_of_speech": "verb",
     "level": "C1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/'dezәt. di'sә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/desert-us.mp3",
-    "definition_en": "Leave behind",
-    "definition_zh": "vt. 放弃, 遗弃, 擅离",
+    "phonetic": "/'haibәneit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hibernate-us.mp3",
+    "definition_en": "v. sleep during winter v. be in an inactive or dormant state",
+    "definition_zh": "vi. 过冬, 冬眠, 避寒",
     "examples": [
-      "Engineers can desert system performance by applying automated algorithms."
+      "Conservationists strive to protect the fragile hibernate from excessive human impact."
     ]
   },
   {
-    "id": "ecosystem_noun",
-    "word": "ecosystem",
+    "id": "photosynthesis_noun",
+    "word": "photosynthesis",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/'i:kәu.sistәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ecosystem-us.mp3",
-    "definition_en": "A biological community of interacting organisms and their physical abiotic environment.",
-    "definition_zh": "生态系统",
+    "phonetic": "/.fәutәu'sinθәsis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/photosynthesis-us.mp3",
+    "definition_en": "n. synthesis of compounds with the aid of radiant energy (especially in plants)",
+    "definition_zh": "n. 光合作用",
     "examples": [
-      "Mangrove wetlands act as a vital buffer and dynamic nursery ecosystem.",
-      "Introducing invasive predator species disrupts the delicate equilibrium of island ecosystems."
+      "Conservationists strive to protect the fragile photosynthesis from excessive human impact."
     ]
   },
   {
-    "id": "snail_noun",
-    "word": "snail",
+    "id": "precipitation_noun",
+    "word": "precipitation",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/sneil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/snail-us.mp3",
-    "definition_en": "Freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell",
-    "definition_zh": "n. 蜗牛, 行动迟缓的人, 脑筋迟钝的人, 蜗形凸轮",
+    "phonetic": "/pri.sipi'teiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/precipitation-us.mp3",
+    "definition_en": "n. the quantity of water falling to earth at a specific place within a specified period of time n. the process of forming a chemical precipitate n. the falling to earth of any form of water (rain or snow or hail or sleet or mist)",
+    "definition_zh": "n. 坠落, 沉淀, 降水, 轻率, 急速, 猛冲, 突如其来",
     "examples": [
-      "Recent breakthroughs in snail have accelerated modern technological innovation."
+      "Conservationists strive to protect the fragile precipitation from excessive human impact."
     ]
   },
   {
-    "id": "sustainably_adverb",
-    "word": "sustainably",
-    "part_of_speech": "adverb",
+    "id": "reforestation_noun",
+    "word": "reforestation",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/sustainably/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sustainably-us.mp3",
-    "definition_en": "Denoting sustainably; widely used in Science & Technology.",
-    "definition_zh": "adv. 支撑得住；能保持住地",
+    "phonetic": "/.ri:fɒ:ris'teiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reforestation-us.mp3",
+    "definition_en": "n. the restoration (replanting) of a forest that had been reduced by fire or cutting",
+    "definition_zh": "n. 重新造林",
     "examples": [
-      "Researchers systematically observed sustainably relevant patterns across trials."
+      "Conservationists strive to protect the fragile reforestation from excessive human impact."
     ]
   },
   {
-    "id": "plumage_noun",
-    "word": "plumage",
+    "id": "savanna_noun",
+    "word": "savanna",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/'plu:midʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plumage-us.mp3",
-    "definition_en": "N the light horny waterproof structure forming the external covering of birds",
-    "definition_zh": "n. 鸟类羽毛",
+    "phonetic": "/sә'vænә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/savanna-us.mp3",
+    "definition_en": "n. a flat grassland in tropical or subtropical regions",
+    "definition_zh": "n. 热带草原",
     "examples": [
-      "Fresh plumage can be incorporated into a wide variety of delicious recipes."
+      "Conservationists strive to protect the fragile savanna from excessive human impact."
     ]
   },
   {
-    "id": "preservationist_noun",
-    "word": "preservationist",
-    "part_of_speech": "noun",
-    "level": "C2",
+    "id": "temperate_adjective",
+    "word": "temperate",
+    "part_of_speech": "adjective",
+    "level": "C1",
     "topic": "自然生态与地理环境",
-    "phonetic": "/,prezә'veiʃәnist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/preservationist-us.mp3",
-    "definition_en": "Someone who advocates the preservation of historical sites or endangered species or natural areas",
-    "definition_zh": "n. (对野生动物、自然区、古迹和传统事物等的)保护主义者",
+    "phonetic": "/'tempәrәt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/temperate-us.mp3",
+    "definition_en": "a. (of weather or climate) free from extremes; mild; or characteristic of such weather or climate a. not extreme in behavior",
+    "definition_zh": "a. 温和的, 适度的, 有节制的, 温带的",
     "examples": [
-      "Understanding preservationist provides valuable insights into everyday communication."
+      "Conservationists strive to protect the fragile temperate from excessive human impact."
     ]
   },
   {
-    "id": "wales_noun",
-    "word": "wales",
+    "id": "topography_noun",
+    "word": "topography",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/tә'pɒgrәfi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/topography-us.mp3",
+    "definition_en": "n. the configuration of a surface and the relations among its man-made and natural features n. precise detailed study of the surface features of a region",
+    "definition_zh": "n. 地志, 地形学, 地势, 局部解剖学",
+    "examples": [
+      "Conservationists strive to protect the fragile topography from excessive human impact."
+    ]
+  },
+  {
+    "id": "tributary_noun",
+    "word": "tributary",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'tribjutәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tributary-us.mp3",
+    "definition_en": "s. (of a stream) flowing into a larger stream s. paying tribute",
+    "definition_zh": "n. 支流, 纳贡者, 属国",
+    "examples": [
+      "Conservationists strive to protect the fragile tributary from excessive human impact."
+    ]
+  },
+  {
+    "id": "tsunami_noun",
+    "word": "tsunami",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/tsu'nɑ:mi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tsunami-us.mp3",
+    "definition_en": "n. a cataclysm resulting from a destructive sea wave caused by an earthquake or volcanic eruption",
+    "definition_zh": "n. 海啸",
+    "examples": [
+      "Conservationists strive to protect the fragile tsunami from excessive human impact."
+    ]
+  },
+  {
+    "id": "tundra_noun",
+    "word": "tundra",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'tʌndrә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tundra-us.mp3",
+    "definition_en": "n. a vast treeless plain in the Arctic regions where the subsoil is permanently frozen",
+    "definition_zh": "n. 苔原, 冻原",
+    "examples": [
+      "Conservationists strive to protect the fragile tundra from excessive human impact."
+    ]
+  },
+  {
+    "id": "watershed_noun",
+    "word": "watershed",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'wɒtәʃed/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/watershed-us.mp3",
+    "definition_en": "n. a ridge of land that separates two adjacent river systems",
+    "definition_zh": "n. 流域, 分水岭",
+    "examples": [
+      "Conservationists strive to protect the fragile watershed from excessive human impact."
+    ]
+  },
+  {
+    "id": "anthropogenic_adjective",
+    "word": "anthropogenic",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anthropogenic-us.mp3",
+    "definition_en": "a of or relating to the study of the origins and development of human beings",
+    "definition_zh": "人类发生的, 人类起源的",
+    "examples": [
+      "Conservationists strive to protect the fragile anthropogenic from excessive human impact."
+    ]
+  },
+  {
+    "id": "calcification_noun",
+    "word": "calcification",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "自然生态与地理环境",
-    "phonetic": "/weilz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wales-us.mp3",
-    "definition_en": "One of the four countries that make up the United Kingdom of Great Britain and Northern Ireland; during Roman times the region was known as Cambria",
-    "definition_zh": "n. 威尔士",
+    "phonetic": "/kælsәfi'keiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/calcification-us.mp3",
+    "definition_en": "n. a process that impregnates something with calcium (or calcium salts) n. tissue hardened by deposition of lime salts n. an inflexible and unchanging state",
+    "definition_zh": "n. 钙化",
     "examples": [
-      "Fresh wales can be incorporated into a wide variety of delicious recipes."
+      "Conservationists strive to protect the fragile calcification from excessive human impact."
+    ]
+  },
+  {
+    "id": "eutrophication_noun",
+    "word": "eutrophication",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/ju:,trɔfi'keiʃən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eutrophication-us.mp3",
+    "definition_en": "n. excessive nutrients in a lake or other body of water, usually caused by runoff of nutrients (animal waste, fertilizers, sewage) from the land, which causes a dense growth of plant life; the decomposition of the plants depletes the supply of oxygen, leading to the death of animal life",
+    "definition_zh": "富营养化",
+    "examples": [
+      "Conservationists strive to protect the fragile eutrophication from excessive human impact."
+    ]
+  },
+  {
+    "id": "omnivore_noun",
+    "word": "omnivore",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'ɒmnivɒ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/omnivore-us.mp3",
+    "definition_en": "n. a person who eats all kinds of foods n. an animal that feeds on both animal and vegetable substances",
+    "definition_zh": "n. 不偏食的人, 杂食动物",
+    "examples": [
+      "Conservationists strive to protect the fragile omnivore from excessive human impact."
+    ]
+  },
+  {
+    "id": "permafrost_noun",
+    "word": "permafrost",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "自然生态与地理环境",
+    "phonetic": "/'pә:mәfrɔ(:)st/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/permafrost-us.mp3",
+    "definition_en": "n. ground that is permanently frozen",
+    "definition_zh": "n. 永久冻结带",
+    "examples": [
+      "Conservationists strive to protect the fragile permafrost from excessive human impact."
     ]
   }
 ]

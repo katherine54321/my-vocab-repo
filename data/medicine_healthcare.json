@@ -1,5 +1,19 @@
 [
   {
+    "id": "cold_noun",
+    "word": "cold",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/kәuld/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cold-us.mp3",
+    "definition_en": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs) n. the sensation produced by low temperatures a. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration a. extended meanings; especially of psychological coldness; without human warmth or emotion",
+    "definition_zh": "n. 感冒, 寒冷",
+    "examples": [
+      "Medical specialists monitored the patient's cold to determine the most effective therapy."
+    ]
+  },
+  {
     "id": "doctor_noun",
     "word": "doctor",
     "part_of_speech": "noun",
@@ -7,38 +21,10 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/'dɒktә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctor-us.mp3",
-    "definition_en": "A licensed medical practitioner",
+    "definition_en": "n. a licensed medical practitioner n. children take the roles of physician or patient or nurse and pretend they are at the physician's office n. a person who holds Ph.D. degree (or the equivalent) from an academic institution v. give medical treatment to",
     "definition_zh": "n. 医生, 博士",
     "examples": [
-      "Maintaining proper health supports the optimal function of the doctor."
-    ]
-  },
-  {
-    "id": "doctors_noun",
-    "word": "doctors",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/doctors/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctors-us.mp3",
-    "definition_en": "N a licensed medical practitioner",
-    "definition_zh": "n. 医生（doctor的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the doctors."
-    ]
-  },
-  {
-    "id": "fever_noun",
-    "word": "fever",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'fi:vә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fever-us.mp3",
-    "definition_en": "A rise in the temperature of the body; frequently a symptom of infection",
-    "definition_zh": "n. 发烧, 发热, 热病",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the fever."
+      "The compassionate doctor listened attentively to every patient's symptoms."
     ]
   },
   {
@@ -49,38 +35,10 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/'hɒspitәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospital-us.mp3",
-    "definition_en": "A health facility where patients receive treatment",
+    "definition_en": "n. a health facility where patients receive treatment n. a medical institution where sick or injured people are given medical or surgical care",
     "definition_zh": "n. 医院",
     "examples": [
-      "Maintaining proper health supports the optimal function of the hospital."
-    ]
-  },
-  {
-    "id": "hospitals_noun",
-    "word": "hospitals",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'hɒspɪtlz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospitals-us.mp3",
-    "definition_en": "A health facility where patients receive treatment",
-    "definition_zh": "n. 医院( hospital的复数形式 )",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the hospitals."
-    ]
-  },
-  {
-    "id": "medicines_noun",
-    "word": "medicines",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'medsnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medicines-us.mp3",
-    "definition_en": "The branches of medical science that deal with nonsurgical techniques",
-    "definition_zh": "n. 药( medicine的复数形式 ); 内服药; 医术; 医学",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the medicines."
+      "The metropolitan hospital is equipped with cutting-edge medical technology."
     ]
   },
   {
@@ -91,66 +49,66 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/nә:s/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nurse-us.mp3",
-    "definition_en": "One skilled in caring for young children or the sick (usually under the supervision of a physician)",
+    "definition_en": "n. one skilled in caring for young children or the sick (usually under the supervision of a physician) v. try to cure by special care of treatment, of an illness or injury v. serve as a nurse; care for sick or handicapped people v. treat carefully",
     "definition_zh": "n. 护士, 保姆, 奶妈",
     "examples": [
-      "Maintaining proper health supports the optimal function of the nurse."
+      "Medical specialists monitored the patient's nurse to determine the most effective therapy."
     ]
   },
   {
-    "id": "drug_noun",
-    "word": "drug",
+    "id": "sick_adjective",
+    "word": "sick",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/sik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sick-us.mp3",
+    "definition_en": "n. people who are sick s. deeply affected by a strong feeling",
+    "definition_zh": "a. 不舒服, 有病的, 恶心的, 厌恶的, 渴望的, 病态的",
+    "examples": [
+      "Medical specialists monitored the patient's sick to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "appointment_noun",
+    "word": "appointment",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/drʌg/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drug-us.mp3",
-    "definition_en": "A substance that is used as a medicine or narcotic",
-    "definition_zh": "n. 药, 麻药, 麻醉药",
+    "phonetic": "/ә'pɒintmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appointment-us.mp3",
+    "definition_en": "n. the act of putting a person into a non-elective position n. (usually plural) furnishings and equipment (especially for a ship or hotel) n. the job to which you are (or hope to be) appointed n. (law) the act of disposing of property by virtue of the power of appointment",
+    "definition_zh": "n. 约会, 委任的职位, 委派",
     "examples": [
-      "Maintaining proper health supports the optimal function of the drug."
+      "Medical specialists monitored the patient's appointment to determine the most effective therapy."
     ]
   },
   {
-    "id": "drugs_noun",
-    "word": "drugs",
+    "id": "diet_noun",
+    "word": "diet",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/drugs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drugs-us.mp3",
-    "definition_en": "N a substance that is used as a medicine or narcotic",
-    "definition_zh": "n. 毒品, 药物",
+    "phonetic": "/'daiәt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diet-us.mp3",
+    "definition_en": "n. a prescribed selection of foods n. a legislative assembly in certain countries (e.g., Japan) n. the usual food and drink consumed by an organism (person or animal) n. the act of restricting your food intake (or your intake of particular foods)",
+    "definition_zh": "n. 日常饮食, 议会",
     "examples": [
-      "Maintaining proper health supports the optimal function of the drugs."
+      "Medical specialists monitored the patient's diet to determine the most effective therapy."
     ]
   },
   {
-    "id": "medical_adjective",
-    "word": "medical",
+    "id": "ill_adjective",
+    "word": "ill",
     "part_of_speech": "adjective",
     "level": "A2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'medikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medical-us.mp3",
-    "definition_en": "Relating to the study or practice of medicine",
-    "definition_zh": "a. 医学的, 内科的, 药的",
+    "phonetic": "/il/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ill-us.mp3",
+    "definition_en": "a. affected by an impairment of normal physical or mental function s. resulting in suffering or adversity s. distressing s. indicating hostility or enmity",
+    "definition_zh": "a. 生病的, 邪恶的, 不吉利的, 敌意的, 不良的, 不顺利的",
     "examples": [
-      "The committee analyzed a highly medical perspective during the forum."
-    ]
-  },
-  {
-    "id": "medical_noun",
-    "word": "medical",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'medikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medical-us.mp3",
-    "definition_en": "Relating to the study or practice of medicine",
-    "definition_zh": "n. 医生, 体格检查",
-    "examples": [
-      "Understanding medical provides valuable insights into everyday communication."
+      "Medical specialists monitored the patient's ill to determine the most effective therapy."
     ]
   },
   {
@@ -161,109 +119,108 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/'medisin/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medicine-us.mp3",
-    "definition_en": "Any pharmacological compound, drug, or clinical treatment formulated to alleviate disease.",
-    "definition_zh": "药物，医学",
+    "definition_en": "n. the branches of medical science that deal with nonsurgical techniques n. (medicine) something that treats or prevents or alleviates the symptoms of disease n. the learned profession that is mastered by graduate training in a medical school and that is devoted to preventing or alleviating or curing diseases and injuries",
+    "definition_zh": "n. 药, 医学, 内科",
     "examples": [
-      "Take two tablets of this prescribed medicine after meals.",
-      "Breakthroughs in genomic medicine have transformed targeted cancer therapy."
+      "Medical specialists monitored the patient's medicine to determine the most effective therapy."
     ]
   },
   {
-    "id": "nurses_noun",
-    "word": "nurses",
+    "id": "pain_noun",
+    "word": "pain",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/nurses/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nurses-us.mp3",
-    "definition_en": "N one skilled in caring for young children or the sick (usually under the supervision of a physician)",
-    "definition_zh": "n. 护士；褓姆, 看护（nurse的复数）",
+    "phonetic": "/pein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pain-us.mp3",
+    "definition_en": "n. a symptom of some physical hurt or disorder n. emotional distress; a fundamental feeling that people try to avoid n. a somatic sensation of acute discomfort n. a bothersome annoying person",
+    "definition_zh": "n. 痛苦, 疼痛, 辛苦",
     "examples": [
-      "Maintaining proper health supports the optimal function of the nurses."
+      "Medical specialists monitored the patient's pain to determine the most effective therapy."
     ]
   },
   {
-    "id": "operating_noun",
-    "word": "operating",
+    "id": "x-ray_noun",
+    "word": "x-ray",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'ɔpәreitiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/operating-us.mp3",
-    "definition_en": "Involved in a kind of operation",
-    "definition_zh": "a. 操作的, 工作的, 营业上的, 业务的, 关于收支的, 关于损益的, 外科手术的",
+    "phonetic": "/'eks'rei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/x-ray-us.mp3",
+    "definition_en": "v. examine by taking x-rays v. take an x-ray of something or somebody",
+    "definition_zh": "a. X射线的",
     "examples": [
-      "Understanding operating provides valuable insights into everyday communication."
+      "Medical specialists monitored the patient's x-ray to determine the most effective therapy."
     ]
   },
   {
-    "id": "operating_verb",
-    "word": "operating",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'ɔpәreitiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/operating-us.mp3",
-    "definition_en": "Involved in a kind of operation",
-    "definition_zh": "a. 操作的, 工作的, 营业上的, 业务的, 关于收支的, 关于损益的, 外科手术的",
-    "examples": [
-      "Many professionals operating key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "patient_noun",
-    "word": "patient",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'peiʃәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/patient-us.mp3",
-    "definition_en": "A person who requires medical care",
-    "definition_zh": "n. 病人, 承受者",
-    "examples": [
-      "Understanding patient provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "pill_noun",
-    "word": "pill",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/pil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pill-us.mp3",
-    "definition_en": "Something that resembles a tablet of medicine in shape or size",
-    "definition_zh": "n. 药丸, 弹丸, 屈辱, 胡说",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the pill."
-    ]
-  },
-  {
-    "id": "stomachache_noun",
-    "word": "stomachache",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'stʌmәkeik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stomachache-us.mp3",
-    "definition_en": "An ache localized in the stomach or abdominal region",
-    "definition_zh": "n. 胃痛, 肚子痛",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the stomachache."
-    ]
-  },
-  {
-    "id": "bandage_noun",
-    "word": "bandage",
+    "id": "allergy_noun",
+    "word": "allergy",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'bændidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bandage-us.mp3",
-    "definition_en": "A piece of soft material that covers and protects an injured part of the body",
-    "definition_zh": "n. 绷带",
+    "phonetic": "/'ælәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/allergy-us.mp3",
+    "definition_en": "n. hypersensitivity reaction to a particular allergen; symptoms can vary greatly in intensity",
+    "definition_zh": "n. 变应性, 反感, 厌恶",
     "examples": [
-      "Understanding the concept of bandage plays an essential role in daily life."
+      "Medical specialists monitored the patient's allergy to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "ambulance_noun",
+    "word": "ambulance",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'æmbjulәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambulance-us.mp3",
+    "definition_en": "n. a vehicle that takes people to and from hospitals",
+    "definition_zh": "n. 救护车",
+    "examples": [
+      "Medical specialists monitored the patient's ambulance to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "blood pressure_noun",
+    "word": "blood pressure",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blood pressure-us.mp3",
+    "definition_en": "A term denoting blood pressure.",
+    "definition_zh": "血压",
+    "examples": [
+      "Medical specialists monitored the patient's blood pressure to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "cast_noun",
+    "word": "cast",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/kɑ:st. kæst/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cast-us.mp3",
+    "definition_en": "n. the actors in a play n. the distinctive form in which a thing is made n. bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal n. object formed by a mold",
+    "definition_zh": "n. 演员阵容, 投掷, 铸件, 预测, 特性",
+    "examples": [
+      "Medical specialists monitored the patient's cast to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "check-up_noun",
+    "word": "check-up",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'tʃekʌp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/check-up-us.mp3",
+    "definition_en": "A term denoting check-up.",
+    "definition_zh": "n. 检查, 体格检查",
+    "examples": [
+      "Medical specialists monitored the patient's check-up to determine the most effective therapy."
     ]
   },
   {
@@ -274,52 +231,52 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/'klinik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clinic-us.mp3",
-    "definition_en": "A medical establishment run by a group of medical specialists",
+    "definition_en": "n. a medical establishment run by a group of medical specialists n. meeting for diagnosis of problems and instruction or remedial work in a particular activity n. a healthcare facility for outpatient care",
     "definition_zh": "n. 诊所, 临床教学",
     "examples": [
-      "Maintaining proper health supports the optimal function of the clinic."
+      "Medical specialists monitored the patient's clinic to determine the most effective therapy."
     ]
   },
   {
-    "id": "clinics_noun",
-    "word": "clinics",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/k'lɪnɪks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clinics-us.mp3",
-    "definition_en": "A medical establishment run by a group of medical specialists",
-    "definition_zh": "n. 诊所( clinic的复数形式 ); 门诊时间; 私人诊所; 临床实习",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the clinics."
-    ]
-  },
-  {
-    "id": "cough_verb",
+    "id": "cough_noun",
     "word": "cough",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
     "phonetic": "/kɒf/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cough-us.mp3",
-    "definition_en": "Exhale abruptly, as when one has a chest cold or congestion",
-    "definition_zh": "vi. 咳嗽",
+    "definition_en": "n. a sudden noisy expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis v. exhale abruptly, as when one has a chest cold or congestion",
+    "definition_zh": "n. 咳嗽",
     "examples": [
-      "Doctors advise patients to cough regularly to promote physical recovery."
+      "Medical specialists monitored the patient's cough to determine the most effective therapy."
     ]
   },
   {
-    "id": "cure_noun",
+    "id": "cure_verb",
     "word": "cure",
-    "part_of_speech": "noun",
+    "part_of_speech": "verb",
     "level": "B1",
     "topic": "临床医学与医药健康",
     "phonetic": "/kjuә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cure-us.mp3",
-    "definition_en": "Prepare by drying, salting, or chemical processing in order to preserve",
-    "definition_zh": "n. 治疗, 治愈, 治疗法",
+    "definition_en": "v. prepare by drying, salting, or chemical processing in order to preserve v. make (substances) hard and improve their usability v. be or become preserved",
+    "definition_zh": "vt. 治疗, 治愈, 改正, 腌制, 加工处理, 使硫化",
     "examples": [
-      "Maintaining proper health supports the optimal function of the cure."
+      "Medical specialists monitored the patient's cure to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "dentist_noun",
+    "word": "dentist",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'dentist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dentist-us.mp3",
+    "definition_en": "n. a person qualified to practice dentistry",
+    "definition_zh": "n. 牙科医生",
+    "examples": [
+      "Medical specialists monitored the patient's dentist to determine the most effective therapy."
     ]
   },
   {
@@ -330,38 +287,66 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/di'zi:z/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disease-us.mp3",
-    "definition_en": "An impairment of health or a condition of abnormal functioning",
+    "definition_en": "n. an impairment of health or a condition of abnormal functioning",
     "definition_zh": "n. 疾病, 弊病",
     "examples": [
-      "Maintaining proper health supports the optimal function of the disease."
+      "Medical specialists monitored the patient's disease to determine the most effective therapy."
     ]
   },
   {
-    "id": "diseases_noun",
-    "word": "diseases",
+    "id": "dose_noun",
+    "word": "dose",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/diseases/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diseases-us.mp3",
-    "definition_en": "N an impairment of health or a condition of abnormal functioning",
-    "definition_zh": "n. 病害；疾病；疾病种类；病（disease的复数）",
+    "phonetic": "/dәus/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dose-us.mp3",
+    "definition_en": "n. a measured portion of medicine taken at any one time n. the quantity of an active agent (substance or radiation) taken in or absorbed at any one time v. treat with an agent; add (an agent) to",
+    "definition_zh": "n. 剂量, 服用量",
     "examples": [
-      "Maintaining proper health supports the optimal function of the diseases."
+      "Medical specialists monitored the patient's dose to determine the most effective therapy."
     ]
   },
   {
-    "id": "earache_noun",
-    "word": "earache",
+    "id": "drug_noun",
+    "word": "drug",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'iәreik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/earache-us.mp3",
-    "definition_en": "An ache localized in the middle or inner ear",
-    "definition_zh": "n. 耳朵痛",
+    "phonetic": "/drʌg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drug-us.mp3",
+    "definition_en": "n. a substance that is used as a medicine or narcotic v. administer a drug to v. use recreational drugs",
+    "definition_zh": "n. 药, 麻药, 麻醉药",
     "examples": [
-      "Maintaining proper health supports the optimal function of the earache."
+      "Medical specialists monitored the patient's drug to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "emergency room_noun",
+    "word": "emergency room",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/emergency room-us.mp3",
+    "definition_en": "A term denoting emergency room.",
+    "definition_zh": "急诊室,急救室",
+    "examples": [
+      "Medical specialists monitored the patient's emergency room to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "fever_noun",
+    "word": "fever",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'fi:vә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fever-us.mp3",
+    "definition_en": "n. a rise in the temperature of the body; frequently a symptom of infection n. intense nervous anticipation",
+    "definition_zh": "n. 发烧, 发热, 热病",
+    "examples": [
+      "Medical specialists monitored the patient's fever to determine the most effective therapy."
     ]
   },
   {
@@ -372,236 +357,164 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/hi:l/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heal-us.mp3",
-    "definition_en": "Get healthy again",
+    "definition_en": "v. get healthy again",
     "definition_zh": "vi. 痊愈",
     "examples": [
-      "Doctors advise patients to heal regularly to promote physical recovery."
+      "Medical specialists monitored the patient's heal to determine the most effective therapy."
     ]
   },
   {
-    "id": "healing_adjective",
-    "word": "healing",
+    "id": "health_noun",
+    "word": "health",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'helθ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/health-us.mp3",
+    "definition_en": "n. a healthy state of wellbeing free from disease n. the general condition of body and mind",
+    "definition_zh": "n. 健康, 卫生, 蓬勃, 健康状态",
+    "examples": [
+      "Medical specialists monitored the patient's health to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "healthy_adjective",
+    "word": "healthy",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'hi:liŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healing-us.mp3",
-    "definition_en": "The natural process by which the body repairs itself",
-    "definition_zh": "a. 治愈的, 恢复健康的",
+    "phonetic": "/'helθi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healthy-us.mp3",
+    "definition_en": "a. having or indicating good health in body or mind; free from infirmity or disease s. financially secure and functioning well s. promoting health; healthful s. exercising or showing good judgment",
+    "definition_zh": "a. 健康的, 有益健康的, 卫生的",
     "examples": [
-      "The committee analyzed a highly healing perspective during the forum."
+      "Medical specialists monitored the patient's healthy to determine the most effective therapy."
     ]
   },
   {
-    "id": "healing_verb",
-    "word": "healing",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'hi:liŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healing-us.mp3",
-    "definition_en": "The natural process by which the body repairs itself",
-    "definition_zh": "a. 治愈的, 恢复健康的",
-    "examples": [
-      "Doctors advise patients to healing regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "healing_noun",
-    "word": "healing",
+    "id": "injury_noun",
+    "word": "injury",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'hi:liŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healing-us.mp3",
-    "definition_en": "The natural process by which the body repairs itself",
-    "definition_zh": "a. 治愈的, 恢复健康的",
+    "phonetic": "/'indʒәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/injury-us.mp3",
+    "definition_en": "n. any physical damage to the body caused by violence or accident or fracture etc. n. an accident that results in physical damage or hurt n. an act that causes someone or something to receive physical damage n. wrongdoing that violates another's rights and is unjustly inflicted",
+    "definition_zh": "n. 伤害, 侮辱",
     "examples": [
-      "Maintaining proper health supports the optimal function of the healing."
+      "Medical specialists monitored the patient's injury to determine the most effective therapy."
     ]
   },
   {
-    "id": "illness_noun",
-    "word": "illness",
+    "id": "operation_noun",
+    "word": "operation",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'ilnis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illness-us.mp3",
-    "definition_en": "Impairment of normal physiological function affecting part or all of an organism",
-    "definition_zh": "n. 疾病, 恶意",
+    "phonetic": "/.ɒpә'reiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/operation-us.mp3",
+    "definition_en": "n. the state of being in effect or being operative n. a business especially one run on a large scale n. a planned activity involving many people performing various actions n. (computer science) data processing in which the result is completely specified by a rule (especially the processing that results from a single instruction)",
+    "definition_zh": "n. 操作, 动作, 手术, 运算, 作用, 业务",
     "examples": [
-      "Maintaining proper health supports the optimal function of the illness."
+      "Medical specialists monitored the patient's operation to determine the most effective therapy."
     ]
   },
   {
-    "id": "infection_noun",
-    "word": "infection",
+    "id": "patient_noun",
+    "word": "patient",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/in'fekʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infection-us.mp3",
-    "definition_en": "The pathological state resulting from the invasion of the body by pathogenic microorganisms",
-    "definition_zh": "n. 传染, 影响, 传染病",
+    "phonetic": "/'peiʃәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/patient-us.mp3",
+    "definition_en": "n. a person who requires medical care a. enduring trying circumstances with even temper or characterized by such endurance",
+    "definition_zh": "n. 病人, 承受者",
     "examples": [
-      "Maintaining proper health supports the optimal function of the infection."
+      "Medical specialists monitored the patient's patient to determine the most effective therapy."
     ]
   },
   {
-    "id": "infections_noun",
-    "word": "infections",
+    "id": "pharmacy_noun",
+    "word": "pharmacy",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/infections/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infections-us.mp3",
-    "definition_en": "N the pathological state resulting from the invasion of the body by pathogenic microorganisms",
-    "definition_zh": "n. 传染病；口腔病害（infection复数形式）",
+    "phonetic": "/'fɑ:mәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pharmacy-us.mp3",
+    "definition_en": "n. the art and science of preparing and dispensing drugs and medicines,",
+    "definition_zh": "n. 药房, 配药学, 制药业",
     "examples": [
-      "Maintaining proper health supports the optimal function of the infections."
+      "Medical specialists monitored the patient's pharmacy to determine the most effective therapy."
     ]
   },
   {
-    "id": "nurse_verb",
-    "word": "nurse",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/nә:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nurse-us.mp3",
-    "definition_en": "Try to cure by special care of treatment, of an illness or injury",
-    "definition_zh": "vt. 看护, 照顾, 培养",
-    "examples": [
-      "Doctors advise patients to nurse regularly to promote physical recovery."
-    ]
-  },
-  {
-    "id": "prescribe_verb",
-    "word": "prescribe",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/pris'kraib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prescribe-us.mp3",
-    "definition_en": "To formally authorize medical treatment or the dispensing of pharmaceutical substances.",
-    "definition_zh": "开处方，开药",
-    "examples": [
-      "The physician prescribed an antihistamine to treat seasonal allergic rhinitis.",
-      "Doctors rarely prescribe antibiotics for uncomplicated viral colds."
-    ]
-  },
-  {
-    "id": "prescription_noun",
-    "word": "prescription",
+    "id": "pill_noun",
+    "word": "pill",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/pri'skripʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prescription-us.mp3",
-    "definition_en": "Directions prescribed beforehand; the action of prescribing authoritative rules or directions",
-    "definition_zh": "n. 处方, 命令, 指定",
+    "phonetic": "/pil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pill-us.mp3",
+    "definition_en": "n. something that resembles a tablet of medicine in shape or size n. a dose of medicine in the form of a small pellet n. a unpleasant or tiresome person n. something unpleasant or offensive that must be tolerated or endured",
+    "definition_zh": "n. 药丸, 弹丸, 屈辱, 胡说",
     "examples": [
-      "Understanding prescription provides valuable insights into everyday communication."
+      "Medical specialists monitored the patient's pill to determine the most effective therapy."
     ]
   },
   {
-    "id": "surgeon_noun",
-    "word": "surgeon",
+    "id": "side effect_noun",
+    "word": "side effect",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'sә:dʒәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surgeon-us.mp3",
-    "definition_en": "A physician who specializes in surgery",
-    "definition_zh": "n. 外科医生, 军医, 船医",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/side effect-us.mp3",
+    "definition_en": "A term denoting side effect.",
+    "definition_zh": "副作用",
     "examples": [
-      "Understanding surgeon provides valuable insights into everyday communication."
+      "Medical specialists monitored the patient's side effect to determine the most effective therapy."
     ]
   },
   {
-    "id": "surgeons_noun",
-    "word": "surgeons",
+    "id": "specialist_noun",
+    "word": "specialist",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'sɜ:dʒənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surgeons-us.mp3",
-    "definition_en": "A physician who specializes in surgery",
-    "definition_zh": "n. 外科医生; 外科医生( surgeon的复数形式 )",
+    "phonetic": "/'speiʃәlist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/specialist-us.mp3",
+    "definition_en": "n. an expert who is devoted to one occupation or branch of learning n. practices one branch of medicine",
+    "definition_zh": "n. 专门医师, 专家",
     "examples": [
-      "Understanding surgeons provides valuable insights into everyday communication."
+      "Medical specialists monitored the patient's specialist to determine the most effective therapy."
     ]
   },
   {
-    "id": "surgery_noun",
-    "word": "surgery",
+    "id": "thermometer_noun",
+    "word": "thermometer",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'sә:dʒәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surgery-us.mp3",
-    "definition_en": "The branch of medical science that treats disease or injury by operative procedures",
-    "definition_zh": "n. 外科, 手术, 手术室, 换球术",
+    "phonetic": "/θә'mɒmitә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thermometer-us.mp3",
+    "definition_en": "n. measuring instrument for measuring temperature",
+    "definition_zh": "n. 温度计, 体温计",
     "examples": [
-      "Maintaining proper health supports the optimal function of the surgery."
+      "Medical specialists monitored the patient's thermometer to determine the most effective therapy."
     ]
   },
   {
-    "id": "symptom_noun",
-    "word": "symptom",
+    "id": "treatment_noun",
+    "word": "treatment",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'simptәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/symptom-us.mp3",
-    "definition_en": "A subjective physical sensation indicating disease or physiological aberration.",
-    "definition_zh": "症状，征兆",
+    "phonetic": "/'tri:tmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/treatment-us.mp3",
+    "definition_en": "n. care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury) n. the management of someone or something n. a manner of dealing with something artistically",
+    "definition_zh": "n. 治疗, 待遇, 处理",
     "examples": [
-      "Persistent dry cough and high fever are common symptoms of respiratory infection.",
-      "Prompt diagnosis occurs when clinicians recognize atypical early symptoms."
-    ]
-  },
-  {
-    "id": "symptoms_noun",
-    "word": "symptoms",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/symptoms/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/symptoms-us.mp3",
-    "definition_en": "N (medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease",
-    "definition_zh": "n. 病徵；症状；症候",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the symptoms."
-    ]
-  },
-  {
-    "id": "virus_noun",
-    "word": "virus",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/'vaiәrәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/virus-us.mp3",
-    "definition_en": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein",
-    "definition_zh": "n. 病毒, 滤过性病毒, 毒害",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the virus."
-    ]
-  },
-  {
-    "id": "viruses_noun",
-    "word": "viruses",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/viruses/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/viruses-us.mp3",
-    "definition_en": "N (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein",
-    "definition_zh": "n. 病毒；病霉（virus的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the viruses."
+      "Medical specialists monitored the patient's treatment to determine the most effective therapy."
     ]
   },
   {
@@ -612,38 +525,360 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/wu:nd/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wound-us.mp3",
-    "definition_en": "An injury to living tissue (especially an injury involving a cut or break in the skin)",
+    "definition_en": "n. an injury to living tissue (especially an injury involving a cut or break in the skin) n. a casualty to military personnel resulting from combat n. a figurative injury (to your feelings or pride) n. the act of inflicting a wound",
     "definition_zh": "n. 创伤, 伤口, 伤疤, 伤害, 痛苦",
     "examples": [
-      "Maintaining proper health supports the optimal function of the wound."
+      "Medical specialists monitored the patient's wound to determine the most effective therapy."
     ]
   },
   {
-    "id": "cough_noun",
-    "word": "cough",
+    "id": "acute_adjective",
+    "word": "acute",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/ә'kju:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acute-us.mp3",
+    "definition_en": "a. having or experiencing a rapid onset and short but severe course s. extremely sharp or intense s. having or demonstrating ability to recognize or draw fine distinctions a. of an angle; less than 90 degrees",
+    "definition_zh": "a. 尖锐的, 敏锐的, 激烈的, 严重的, 急性的",
+    "examples": [
+      "Medical specialists monitored the patient's acute to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "anatomy_noun",
+    "word": "anatomy",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/kɒf/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cough-us.mp3",
-    "definition_en": "A sudden noisy expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis",
-    "definition_zh": "n. 咳嗽",
+    "phonetic": "/ә'nætәmi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anatomy-us.mp3",
+    "definition_en": "n. the branch of morphology that deals with the structure of animals n. a detailed analysis",
+    "definition_zh": "n. 剖析, 解剖学, 骨骼, 结构",
     "examples": [
-      "Maintaining proper health supports the optimal function of the cough."
+      "Medical specialists monitored the patient's anatomy to determine the most effective therapy."
     ]
   },
   {
-    "id": "cure_verb",
-    "word": "cure",
-    "part_of_speech": "verb",
+    "id": "antibody_noun",
+    "word": "antibody",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/kjuә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cure-us.mp3",
-    "definition_en": "Prepare by drying, salting, or chemical processing in order to preserve",
-    "definition_zh": "vt. 治疗, 治愈, 改正, 腌制, 加工处理, 使硫化",
+    "phonetic": "/'æntibɒdi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antibody-us.mp3",
+    "definition_en": "n. any of a large variety of proteins normally present in the body or produced in response to an antigen which it neutralizes, thus producing an immune response",
+    "definition_zh": "n. 抗体",
     "examples": [
-      "Doctors advise patients to cure regularly to promote physical recovery."
+      "Medical specialists monitored the patient's antibody to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "asthma_noun",
+    "word": "asthma",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'æsmә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/asthma-us.mp3",
+    "definition_en": "n. respiratory disorder characterized by wheezing; usually of allergic origin",
+    "definition_zh": "n. 哮喘",
+    "examples": [
+      "Medical specialists monitored the patient's asthma to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "bacteria_noun",
+    "word": "bacteria",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/bæk'tiәriә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bacteria-us.mp3",
+    "definition_en": "n. (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants",
+    "definition_zh": "pl. 细菌",
+    "examples": [
+      "Medical specialists monitored the patient's bacteria to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "bandage_noun",
+    "word": "bandage",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'bændidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bandage-us.mp3",
+    "definition_en": "n. a piece of soft material that covers and protects an injured part of the body v. dress by covering or binding",
+    "definition_zh": "n. 绷带",
+    "examples": [
+      "Medical specialists monitored the patient's bandage to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "bypass_noun",
+    "word": "bypass",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'baipɑ:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bypass-us.mp3",
+    "definition_en": "n. a surgically created shunt (usually around a damaged part) v. avoid something unpleasant or laborious",
+    "definition_zh": "n. 旁路",
+    "examples": [
+      "Medical specialists monitored the patient's bypass to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "carrier_noun",
+    "word": "carrier",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'kæriә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carrier-us.mp3",
+    "definition_en": "n. someone whose employment involves carrying something n. a self-propelled wheeled vehicle designed specifically to carry something n. an inactive substance that is a vehicle for a radioactive tracer of the same substance and that assists in its recovery after some chemical reaction n. a person or firm in the business of transporting people or goods or messages",
+    "definition_zh": "n. 运送者, 邮递员, 带菌者",
+    "examples": [
+      "Medical specialists monitored the patient's carrier to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "casualty_noun",
+    "word": "casualty",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'kæʒjuәlti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/casualty-us.mp3",
+    "definition_en": "n. someone injured or killed or captured or missing in a military engagement n. someone injured or killed in an accident n. a decrease of military personnel or equipment",
+    "definition_zh": "n. 意外事故, 伤亡, 受害者",
+    "examples": [
+      "Medical specialists monitored the patient's casualty to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "chronic_adjective",
+    "word": "chronic",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'krɒnik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chronic-us.mp3",
+    "definition_en": "a. being long-lasting and recurrent or characterized by long suffering s. of long duration s. habitual",
+    "definition_zh": "a. 慢性的, 习惯性的",
+    "examples": [
+      "Medical specialists monitored the patient's chronic to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "coma_noun",
+    "word": "coma",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'kәumә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coma-us.mp3",
+    "definition_en": "n. a state of deep and often prolonged unconsciousness; usually the result of disease or injury n. (botany) a usually terminal tuft of bracts (as in the pineapple) or tuft of hairs (especially on certain seeds) n. (astronomy) the luminous cloud of particles surrounding the frozen nucleus of a comet; forms as the comet approaches the sun and is warmed",
+    "definition_zh": "n. 昏迷, 麻木, 彗发",
+    "examples": [
+      "Medical specialists monitored the patient's coma to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "complication_noun",
+    "word": "complication",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.kɒmpli'keiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/complication-us.mp3",
+    "definition_en": "n. the act or process of complicating n. a situation or condition that is complex or confused n. any disease or disorder that occurs during the course of (or because of) another disease n. a development that complicates a situation",
+    "definition_zh": "n. 复杂化, 复杂情况",
+    "examples": [
+      "Medical specialists monitored the patient's complication to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "consultation_noun",
+    "word": "consultation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.kɒnsәl'teiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consultation-us.mp3",
+    "definition_en": "n. a conference (usually with someone important) n. a conference between two or more people to consider a particular question",
+    "definition_zh": "n. 请教, 咨询, 磋商会",
+    "examples": [
+      "Medical specialists monitored the patient's consultation to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "crutches_noun",
+    "word": "crutches",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/krʌtʃiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crutches-us.mp3",
+    "definition_en": "pl.  of Crutch",
+    "definition_zh": "n. 拐杖( crutch的名词复数 ); 支持物; 精神上的寄托; 胯部",
+    "examples": [
+      "Medical specialists monitored the patient's crutches to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "dentistry_noun",
+    "word": "dentistry",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'dentistri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dentistry-us.mp3",
+    "definition_en": "n. the branch of medicine dealing with the anatomy and development and diseases of the teeth",
+    "definition_zh": "n. 牙科",
+    "examples": [
+      "Medical specialists monitored the patient's dentistry to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "disinfectant_noun",
+    "word": "disinfectant",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.disin'fektәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disinfectant-us.mp3",
+    "definition_en": "n. an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease",
+    "definition_zh": "n. 消毒剂, 杀菌剂",
+    "examples": [
+      "Medical specialists monitored the patient's disinfectant to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "dosage_noun",
+    "word": "dosage",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'dәusidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dosage-us.mp3",
+    "definition_en": "n the quantity of an active agent (substance or radiation) taken in or absorbed at any one time n a measured portion of medicine taken at any one time",
+    "definition_zh": "n. 剂量, 用量, 配药",
+    "examples": [
+      "Medical specialists monitored the patient's dosage to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "epidemic_noun",
+    "word": "epidemic",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.epi'demik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/epidemic-us.mp3",
+    "definition_en": "n. a widespread outbreak of an infectious disease; many people are infected at the same time a. (especially of medicine) of disease or anything resembling a disease; attacking or affecting many individuals in a community or a population simultaneously",
+    "definition_zh": "n. 传染病, 流行病",
+    "examples": [
+      "Medical specialists monitored the patient's epidemic to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "fatal_adjective",
+    "word": "fatal",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'feitәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fatal-us.mp3",
+    "definition_en": "a. bringing death s. controlled or decreed by fate; predetermined",
+    "definition_zh": "a. 致命的, 重大的, 命运注定的, 粗心的, 不幸的",
+    "examples": [
+      "Medical specialists monitored the patient's fatal to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "fracture_noun",
+    "word": "fracture",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'fræktʃә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fracture-us.mp3",
+    "definition_en": "n. breaking of hard tissue such as bone n. the act of cracking something v. violate or abuse v. interrupt, break, or destroy",
+    "definition_zh": "n. 破碎, 骨折",
+    "examples": [
+      "Medical specialists monitored the patient's fracture to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "healing_noun",
+    "word": "healing",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'hi:liŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/healing-us.mp3",
+    "definition_en": "n. the natural process by which the body repairs itself",
+    "definition_zh": "a. 治愈的, 恢复健康的",
+    "examples": [
+      "Medical specialists monitored the patient's healing to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "hygiene_noun",
+    "word": "hygiene",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'haidʒi:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hygiene-us.mp3",
+    "definition_en": "n. a condition promoting sanitary practices n. the science concerned with the prevention of illness and maintenance of health",
+    "definition_zh": "n. 卫生保健, 卫生学, 保健法",
+    "examples": [
+      "Medical specialists monitored the patient's hygiene to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "immune_adjective",
+    "word": "immune",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/i'mju:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/immune-us.mp3",
+    "definition_en": "n. a person who is immune to a particular infection a. relating to the condition of immunity s. secure against s. relating to or conferring immunity (to disease or infection)",
+    "definition_zh": "a. 免疫的, 免除的, 不受影响的",
+    "examples": [
+      "Medical specialists monitored the patient's immune to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "immunity_noun",
+    "word": "immunity",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/i'mju:niti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/immunity-us.mp3",
+    "definition_en": "n. (medicine) the condition in which an organism can resist disease n. the quality of being unaffected by something",
+    "definition_zh": "n. 免疫, 免疫性, 免除",
+    "examples": [
+      "Medical specialists monitored the patient's immunity to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "immunization_noun",
+    "word": "immunization",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.imju:nai'zeiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/immunization-us.mp3",
+    "definition_en": "n. the act of making immune (especially by inoculation)",
+    "definition_zh": "n. 免疫",
+    "examples": [
+      "Medical specialists monitored the patient's immunization to determine the most effective therapy."
     ]
   },
   {
@@ -654,38 +889,24 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/in'fekt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infect-us.mp3",
-    "definition_en": "Communicate a disease to",
+    "definition_en": "v. communicate a disease to v. contaminate with a disease or microorganism v. corrupt with ideas or an ideology v. affect in a contagious way",
     "definition_zh": "vt. 传染, 感染",
     "examples": [
-      "Doctors advise patients to infect regularly to promote physical recovery."
+      "Medical specialists monitored the patient's infect to determine the most effective therapy."
     ]
   },
   {
-    "id": "infected_adjective",
-    "word": "infected",
-    "part_of_speech": "adjective",
+    "id": "infection_noun",
+    "word": "infection",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/in'fektid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infected-us.mp3",
-    "definition_en": "V communicate a disease to",
-    "definition_zh": "a. 被感染的",
+    "phonetic": "/in'fekʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infection-us.mp3",
+    "definition_en": "n. the pathological state resulting from the invasion of the body by pathogenic microorganisms n. (phonetics) the alteration of a speech sound under the influence of a neighboring sound n. (medicine) the invasion of the body by pathogenic microorganisms and their multiplication which can lead to tissue damage and disease n. an incident in which an infectious disease is transmitted",
+    "definition_zh": "n. 传染, 影响, 传染病",
     "examples": [
-      "The committee analyzed a highly infected perspective during the forum."
-    ]
-  },
-  {
-    "id": "infected_verb",
-    "word": "infected",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "临床医学与医药健康",
-    "phonetic": "/in'fektid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infected-us.mp3",
-    "definition_en": "V communicate a disease to",
-    "definition_zh": "a. 被感染的",
-    "examples": [
-      "Doctors advise patients to infected regularly to promote physical recovery."
+      "Medical specialists monitored the patient's infection to determine the most effective therapy."
     ]
   },
   {
@@ -696,10 +917,80 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/in'fekʃәs/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/infectious-us.mp3",
-    "definition_en": "Easily spread; children catch it from their elders\"- Bertrand Russell",
+    "definition_en": "s. caused by infection or capable of causing infection a. easily spread; children catch it from their elders\"- Bertrand Russell a. of or relating to infection",
     "definition_zh": "a. 有传染性的, 易传染的",
     "examples": [
-      "The committee analyzed a highly infectious perspective during the forum."
+      "Medical specialists monitored the patient's infectious to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "inflammation_noun",
+    "word": "inflammation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.inflә'meiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inflammation-us.mp3",
+    "definition_en": "n. a response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat n. arousal to violent emotion",
+    "definition_zh": "n. 怒火, 发火, 燃烧, 发炎",
+    "examples": [
+      "Medical specialists monitored the patient's inflammation to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "influenza_noun",
+    "word": "influenza",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.influ'enzә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/influenza-us.mp3",
+    "definition_en": "n. an acute febrile highly contagious viral disease",
+    "definition_zh": "n. 流行性感冒",
+    "examples": [
+      "Medical specialists monitored the patient's influenza to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "intensive care_noun",
+    "word": "intensive care",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/inˈtensiv kɛə/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/intensive care-us.mp3",
+    "definition_en": "A term denoting intensive care.",
+    "definition_zh": "n. 重病特别护理",
+    "examples": [
+      "Medical specialists monitored the patient's intensive care to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "maternity_noun",
+    "word": "maternity",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/mә'tә:niti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/maternity-us.mp3",
+    "definition_en": "n the state of being pregnant; the period from conception to birth when a woman carries a developing fetus in her uterus n the kinship relation between an offspring and the mother n the quality of having or showing the tenderness and warmth and affection of or befitting a mother",
+    "definition_zh": "n. 母性, 怀孕, 妇产科医院",
+    "examples": [
+      "Medical specialists monitored the patient's maternity to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "medical_adjective",
+    "word": "medical",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'medikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medical-us.mp3",
+    "definition_en": "a. relating to the study or practice of medicine a. requiring or amenable to treatment by medicine especially as opposed to surgery",
+    "definition_zh": "a. 医学的, 内科的, 药的",
+    "examples": [
+      "Medical specialists monitored the patient's medical to determine the most effective therapy."
     ]
   },
   {
@@ -710,122 +1001,262 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/.medi'keiʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medication-us.mp3",
-    "definition_en": "The act of treating with medicines or remedies",
+    "definition_en": "n. the act of treating with medicines or remedies",
     "definition_zh": "n. 药物治疗, 药物处理, 医药",
     "examples": [
-      "Understanding medication provides valuable insights into everyday communication."
+      "Medical specialists monitored the patient's medication to determine the most effective therapy."
     ]
   },
   {
-    "id": "medications_noun",
-    "word": "medications",
+    "id": "nausea_noun",
+    "word": "nausea",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/medications/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medications-us.mp3",
-    "definition_en": "N (medicine) something that treats or prevents or alleviates the symptoms of disease",
-    "definition_zh": "n. 药物治疗；药物（medication的复数形式）",
+    "phonetic": "/'nɒ:ʃjә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nausea-us.mp3",
+    "definition_en": "n. the state that precedes vomiting n. disgust so strong it makes you feel sick",
+    "definition_zh": "n. 反胃, 晕船, 恶心, 厌恶",
     "examples": [
-      "Understanding medications provides valuable insights into everyday communication."
+      "Medical specialists monitored the patient's nausea to determine the most effective therapy."
     ]
   },
   {
-    "id": "pandemic_adjective",
+    "id": "ointment_noun",
+    "word": "ointment",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'ɒintmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ointment-us.mp3",
+    "definition_en": "n. semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation",
+    "definition_zh": "n. 软膏, 油膏",
+    "examples": [
+      "Medical specialists monitored the patient's ointment to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "pandemic_noun",
     "word": "pandemic",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
     "phonetic": "/pæn'demik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pandemic-us.mp3",
-    "definition_en": "An epidemic that is geographically widespread; occurring throughout a region or even throughout the world",
+    "definition_en": "n. an epidemic that is geographically widespread; occurring throughout a region or even throughout the world s. epidemic over a wide geographical area s. existing everywhere",
     "definition_zh": "a. 大流行的, 普遍的, 全世界的",
     "examples": [
-      "The committee analyzed a highly pandemic perspective during the forum."
+      "Medical specialists monitored the patient's pandemic to determine the most effective therapy."
     ]
   },
   {
-    "id": "pneumonia_noun",
-    "word": "pneumonia",
+    "id": "paramedic_noun",
+    "word": "paramedic",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/nju:'mәunjә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pneumonia-us.mp3",
-    "definition_en": "Respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caused by viruses or bacteria or irritants",
-    "definition_zh": "n. 肺炎",
+    "phonetic": "/'pærәmedik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paramedic-us.mp3",
+    "definition_en": "n. a person trained to assist medical professionals and to give emergency medical treatment",
+    "definition_zh": "n. 伞兵军医, 伞降急救人员",
     "examples": [
-      "Recent breakthroughs in pneumonia have accelerated modern technological innovation."
+      "Medical specialists monitored the patient's paramedic to determine the most effective therapy."
     ]
   },
   {
-    "id": "prescribed_verb",
-    "word": "prescribed",
+    "id": "physician_noun",
+    "word": "physician",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/fi'ziʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/physician-us.mp3",
+    "definition_en": "n a licensed medical practitioner",
+    "definition_zh": "n. 医师, 内科医师, 解除痛苦者",
+    "examples": [
+      "Medical specialists monitored the patient's physician to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "prescribe_verb",
+    "word": "prescribe",
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/prescribed/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prescribed-us.mp3",
-    "definition_en": "Set down as a rule or guide",
-    "definition_zh": "a. 规定的",
+    "phonetic": "/pris'kraib/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prescribe-us.mp3",
+    "definition_en": "v issue commands or orders for",
+    "definition_zh": "v. 规定, 指定, 嘱咐, 开处方",
     "examples": [
-      "Doctors advise patients to prescribed regularly to promote physical recovery."
+      "Medical specialists monitored the patient's prescribe to determine the most effective therapy."
     ]
   },
   {
-    "id": "stimulant_noun",
-    "word": "stimulant",
+    "id": "prescription_noun",
+    "word": "prescription",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'stimjulәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stimulant-us.mp3",
-    "definition_en": "A drug that temporarily quickens some vital process",
-    "definition_zh": "n. 兴奋剂, 酒精饮料",
+    "phonetic": "/pri'skripʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prescription-us.mp3",
+    "definition_en": "n. directions prescribed beforehand; the action of prescribing authoritative rules or directions n. written instructions for an optician on the lenses for a given person n. written instructions from a physician or dentist to a druggist concerning the form and dosage of a drug to be issued to a given patient a. available only with a doctor's written prescription",
+    "definition_zh": "n. 处方, 命令, 指定",
     "examples": [
-      "Psychologists study how stimulant impacts emotional well-being and daily behavior."
+      "Medical specialists monitored the patient's prescription to determine the most effective therapy."
     ]
   },
   {
-    "id": "surge_noun",
-    "word": "surge",
+    "id": "pulse_noun",
+    "word": "pulse",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/sә:dʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surge-us.mp3",
-    "definition_en": "A sudden or abrupt strong increase",
-    "definition_zh": "n. 巨涌, 汹涌, 澎湃",
+    "phonetic": "/pʌls/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pulse-us.mp3",
+    "definition_en": "n. the rhythmic contraction and expansion of the arteries with each beat of the heart n. the rate at which the heart beats; usually measured to obtain a quick evaluation of a person's health n. edible seeds of various pod-bearing plants (peas or beans or lentils etc.) v. produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses",
+    "definition_zh": "n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类",
     "examples": [
-      "Understanding surge provides valuable insights into everyday communication."
+      "Medical specialists monitored the patient's pulse to determine the most effective therapy."
     ]
   },
   {
-    "id": "therapy_noun",
-    "word": "therapy",
-    "part_of_speech": "noun",
+    "id": "rehabilitate_verb",
+    "word": "rehabilitate",
+    "part_of_speech": "verb",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/'θerәpi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/therapy-us.mp3",
-    "definition_en": "(medicine) the act of caring for someone (as by medication or remedial training etc.)",
-    "definition_zh": "n. 治疗",
+    "phonetic": "/.ri:hә'biliteit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rehabilitate-us.mp3",
+    "definition_en": "v. help to readapt, as to a former state of health or good repute v. reinstall politically v. restore to a state of good condition or operation",
+    "definition_zh": "vt. 恢复原状, 修复, 使康复",
     "examples": [
-      "Psychologists study how therapy impacts emotional well-being and daily behavior."
+      "Medical specialists monitored the patient's rehabilitate to determine the most effective therapy."
     ]
   },
   {
-    "id": "tuberculosis_noun",
-    "word": "tuberculosis",
+    "id": "remedy_noun",
+    "word": "remedy",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/tju,bә:kju'lәusis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tuberculosis-us.mp3",
-    "definition_en": "Infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts of the body in acute stages)",
-    "definition_zh": "n. 肺结核",
+    "phonetic": "/'remidi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/remedy-us.mp3",
+    "definition_en": "n. a medicine or therapy that cures disease or relieve pain v. provide relief for",
+    "definition_zh": "n. 药物, 治疗法, 治疗, 补救, 赔偿",
     "examples": [
-      "Understanding tuberculosis provides valuable insights into everyday communication."
+      "Medical specialists monitored the patient's remedy to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "seizure_noun",
+    "word": "seizure",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'si:ʒә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seizure-us.mp3",
+    "definition_en": "n. a sudden occurrence (or recurrence) of a disease n. the taking possession of something by legal process",
+    "definition_zh": "n. 捕获, 夺取, 占领, 捕获物, 没收, 充公",
+    "examples": [
+      "Medical specialists monitored the patient's seizure to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "surgeon_noun",
+    "word": "surgeon",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'sә:dʒәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surgeon-us.mp3",
+    "definition_en": "n. a physician who specializes in surgery",
+    "definition_zh": "n. 外科医生, 军医, 船医",
+    "examples": [
+      "Medical specialists monitored the patient's surgeon to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "surgery_noun",
+    "word": "surgery",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'sә:dʒәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surgery-us.mp3",
+    "definition_en": "n. the branch of medical science that treats disease or injury by operative procedures n. a room where a doctor or dentist can be consulted",
+    "definition_zh": "n. 外科, 手术, 手术室, 换球术",
+    "examples": [
+      "Medical specialists monitored the patient's surgery to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "symptom_noun",
+    "word": "symptom",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'simptәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/symptom-us.mp3",
+    "definition_en": "n. (medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease n. anything that accompanies X and is regarded as an indication of X's existence",
+    "definition_zh": "n. 症状, 征候, 征兆",
+    "examples": [
+      "Medical specialists monitored the patient's symptom to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "syndrome_noun",
+    "word": "syndrome",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'sindrәum/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/syndrome-us.mp3",
+    "definition_en": "n. a complex of concurrent things n. a pattern of symptoms indicative of some disease",
+    "definition_zh": "n. 并发症状, 综合征, 同时存在的事物",
+    "examples": [
+      "Medical specialists monitored the patient's syndrome to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "trauma_noun",
+    "word": "trauma",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'trɒ:mә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trauma-us.mp3",
+    "definition_en": "n. an emotional wound or shock often having long-lasting effects",
+    "definition_zh": "n. 外伤, 损伤",
+    "examples": [
+      "Medical specialists monitored the patient's trauma to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "tumor_noun",
+    "word": "tumor",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'tju:mә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tumor-us.mp3",
+    "definition_en": "n. an abnormal new mass of tissue that serves no purpose",
+    "definition_zh": "n. 肿大, 肿块, 瘤, 赘生物, 肿瘤",
+    "examples": [
+      "Medical specialists monitored the patient's tumor to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "vaccination_noun",
+    "word": "vaccination",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.væksi'neiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vaccination-us.mp3",
+    "definition_en": "n. the scar left following inoculation with a vaccine",
+    "definition_zh": "n. 接种疫苗, 种痘",
+    "examples": [
+      "Medical specialists monitored the patient's vaccination to determine the most effective therapy."
     ]
   },
   {
@@ -836,52 +1267,724 @@
     "topic": "临床医学与医药健康",
     "phonetic": "/'væksi:n/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vaccine-us.mp3",
-    "definition_en": "Immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies",
+    "definition_en": "n. immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies",
     "definition_zh": "n. 牛痘苗, 疫苗",
     "examples": [
-      "Maintaining proper health supports the optimal function of the vaccine."
+      "Medical specialists monitored the patient's vaccine to determine the most effective therapy."
     ]
   },
   {
-    "id": "wound_verb",
-    "word": "wound",
-    "part_of_speech": "verb",
+    "id": "virus_noun",
+    "word": "virus",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/wu:nd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wound-us.mp3",
-    "definition_en": "An injury to living tissue (especially an injury involving a cut or break in the skin)",
-    "definition_zh": "vt. 伤害, 损害, 使受伤",
+    "phonetic": "/'vaiәrәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/virus-us.mp3",
+    "definition_en": "n. (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein n. a harmful or corrupting agency n. a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer",
+    "definition_zh": "n. 病毒, 滤过性病毒, 毒害",
     "examples": [
-      "Doctors advise patients to wound regularly to promote physical recovery."
+      "Medical specialists monitored the patient's virus to determine the most effective therapy."
     ]
   },
   {
-    "id": "bacteria_noun",
-    "word": "bacteria",
+    "id": "ward_noun",
+    "word": "ward",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/wɒ:d/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ward-us.mp3",
+    "definition_en": "n. a person who is under the protection or in the custody of another n. a district into which a city or town is divided for the purpose of administration and elections n. block forming a division of a hospital (or a suite of rooms) shared by patients who need a similar kind of care n. English economist and conservationist (1914-1981)",
+    "definition_zh": "n. 病房, 守卫, 保卫, 保护, 监护, 牢房, 行政区, 锁孔内的榫舌",
+    "examples": [
+      "Medical specialists monitored the patient's ward to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "anesthesia_noun",
+    "word": "anesthesia",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.ænis'θi:ziә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anesthesia-us.mp3",
+    "definition_en": "n. loss of bodily sensation with or without loss of consciousness",
+    "definition_zh": "n. 麻醉, 麻木",
+    "examples": [
+      "Medical specialists monitored the patient's anesthesia to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "antibiotic_noun",
+    "word": "antibiotic",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.æntibai'ɒtik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antibiotic-us.mp3",
+    "definition_en": "n. a chemical substance derivable from a mold or bacterium that can kill microorganisms and cure bacterial infections a. of or relating to antibiotic drugs",
+    "definition_zh": "n. 抗生素",
+    "examples": [
+      "Medical specialists monitored the patient's antibiotic to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "antidote_noun",
+    "word": "antidote",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'æntidәut/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antidote-us.mp3",
+    "definition_en": "n. a remedy that stops or controls the effects of a poison",
+    "definition_zh": "n. 解毒剂, 解毒药",
+    "examples": [
+      "Medical specialists monitored the patient's antidote to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "antiseptic_noun",
+    "word": "antiseptic",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.ænti'septik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antiseptic-us.mp3",
+    "definition_en": "n. a substance that destroys micro-organisms that carry disease without harming body tissues a. thoroughly clean and free of or destructive to disease-causing organisms s. clean and honest s. freeing from error or corruption",
+    "definition_zh": "n. 抗菌剂, 防腐剂",
+    "examples": [
+      "Medical specialists monitored the patient's antiseptic to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "appendicitis_noun",
+    "word": "appendicitis",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/ә.pendi'saitis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appendicitis-us.mp3",
+    "definition_en": "n. inflammation of the vermiform appendix",
+    "definition_zh": "n. 阑尾炎",
+    "examples": [
+      "Medical specialists monitored the patient's appendicitis to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "biopsy_noun",
+    "word": "biopsy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'bai.ɒpsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/biopsy-us.mp3",
+    "definition_en": "n. examination of tissues or liquids from the living body to determine the existence or cause of a disease",
+    "definition_zh": "n. 活组织检查",
+    "examples": [
+      "Medical specialists monitored the patient's biopsy to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "cardiology_noun",
+    "word": "cardiology",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.kɑ:di'ɒlәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cardiology-us.mp3",
+    "definition_en": "n. the branch of medicine dealing with the heart and its diseases",
+    "definition_zh": "n. 心脏病学",
+    "examples": [
+      "Medical specialists monitored the patient's cardiology to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "chemotherapy_noun",
+    "word": "chemotherapy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.kemәu'θerәpi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chemotherapy-us.mp3",
+    "definition_en": "n. the use of chemical agents to treat or control disease (or mental illness)",
+    "definition_zh": "n. 化学疗法",
+    "examples": [
+      "Medical specialists monitored the patient's chemotherapy to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "concussion_noun",
+    "word": "concussion",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/kәn'kʌʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/concussion-us.mp3",
+    "definition_en": "n. injury to the brain caused by a blow; usually resulting in loss of consciousness n. any violent blow",
+    "definition_zh": "n. 剧烈摇动, 震荡",
+    "examples": [
+      "Medical specialists monitored the patient's concussion to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "contagious_adjective",
+    "word": "contagious",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/kәn'teidʒәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contagious-us.mp3",
+    "definition_en": "s. easily diffused or spread as from one person to another",
+    "definition_zh": "a. 触染性的, 会蔓延的",
+    "examples": [
+      "Medical specialists monitored the patient's contagious to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "dehydration_noun",
+    "word": "dehydration",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.di:hai'dreiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dehydration-us.mp3",
+    "definition_en": "n. dryness resulting from the removal of water n. depletion of bodily fluids n. the process of extracting moisture",
+    "definition_zh": "n. 脱水",
+    "examples": [
+      "Medical specialists monitored the patient's dehydration to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "dermatologist_noun",
+    "word": "dermatologist",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.dә:mә'tɒlәdʒist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dermatologist-us.mp3",
+    "definition_en": "n. a doctor who specializes in the physiology and pathology of the skin",
+    "definition_zh": "n. 皮肤学者, 皮肤科医生",
+    "examples": [
+      "Medical specialists monitored the patient's dermatologist to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "diagnosis_noun",
+    "word": "diagnosis",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.daiәg'nәusis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diagnosis-us.mp3",
+    "definition_en": "n. identifying the nature or cause of some phenomenon",
+    "definition_zh": "n. 诊断",
+    "examples": [
+      "Medical specialists monitored the patient's diagnosis to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "hospice_noun",
+    "word": "hospice",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'hɒspis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospice-us.mp3",
+    "definition_en": "n. a lodging for travelers (especially one kept by a monastic order) n. a program of medical and emotional care for the terminally ill",
+    "definition_zh": "n. 旅客住宿处, 收容所",
+    "examples": [
+      "Medical specialists monitored the patient's hospice to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "incision_noun",
+    "word": "incision",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/in'siʒәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/incision-us.mp3",
+    "definition_en": "n. a depression scratched or carved into a surface n. the cutting of or into body tissues or organs (especially by a surgeon as part of an operation)",
+    "definition_zh": "n. 切口, 切割, 雕刻, 切入",
+    "examples": [
+      "Medical specialists monitored the patient's incision to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "injection_noun",
+    "word": "injection",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/in'dʒekʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/injection-us.mp3",
+    "definition_en": "n. the forceful insertion of a substance under pressure n. any solution that is injected (as into the skin) n. the act of putting a liquid into the body by means of a syringe",
+    "definition_zh": "n. 注射, 注射剂",
+    "examples": [
+      "Medical specialists monitored the patient's injection to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "malignant_adjective",
+    "word": "malignant",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/mә'lignәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/malignant-us.mp3",
+    "definition_en": "a. dangerous to health; characterized by progressive and uncontrolled growth (especially of a tumor)",
+    "definition_zh": "a. 有恶意的, 恶性的, 有害的",
+    "examples": [
+      "Medical specialists monitored the patient's malignant to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "midwife_noun",
+    "word": "midwife",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'midwaif/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/midwife-us.mp3",
+    "definition_en": "n. a woman skilled in aiding the delivery of babies",
+    "definition_zh": "n. 助产士, 接生婆",
+    "examples": [
+      "Medical specialists monitored the patient's midwife to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "neurology_noun",
+    "word": "neurology",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/nju'rɒlәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neurology-us.mp3",
+    "definition_en": "n. the branch of medical science that deals with the nervous system n. (neurology) the branch of medicine that deals with the nervous system and its disorders",
+    "definition_zh": "n. 神经病学",
+    "examples": [
+      "Medical specialists monitored the patient's neurology to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "oncology_noun",
+    "word": "oncology",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/ɒŋ'kɒlәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oncology-us.mp3",
+    "definition_en": "n. the branch of medicine concerned with the study and treatment of tumors",
+    "definition_zh": "n. 肿瘤学",
+    "examples": [
+      "Medical specialists monitored the patient's oncology to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "outpatient_noun",
+    "word": "outpatient",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'autpeiʃәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/outpatient-us.mp3",
+    "definition_en": "n. a patient who does not reside in the hospital where he is being treated",
+    "definition_zh": "n. 门诊病人",
+    "examples": [
+      "Medical specialists monitored the patient's outpatient to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "paralysis_noun",
+    "word": "paralysis",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/pә'rælisis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paralysis-us.mp3",
+    "definition_en": "n. loss of the ability to move a body part",
+    "definition_zh": "n. 麻痹, 停顿, 瘫痪",
+    "examples": [
+      "Medical specialists monitored the patient's paralysis to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "pathology_noun",
+    "word": "pathology",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/pæ'θɒlәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pathology-us.mp3",
+    "definition_en": "n. the branch of medical science that studies the causes and nature and effects of diseases n. any deviation from a healthy or normal condition",
+    "definition_zh": "n. 病理学, 病理, 病状, 病变",
+    "examples": [
+      "Medical specialists monitored the patient's pathology to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "pediatrician_noun",
+    "word": "pediatrician",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/,pi:diә'triʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pediatrician-us.mp3",
+    "definition_en": "n a specialist in the care of babies",
+    "definition_zh": "n. 儿科医生, 儿科专家",
+    "examples": [
+      "Medical specialists monitored the patient's pediatrician to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "pneumonia_noun",
+    "word": "pneumonia",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/nju:'mәunjә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pneumonia-us.mp3",
+    "definition_en": "n. respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caused by viruses or bacteria or irritants",
+    "definition_zh": "n. 肺炎",
+    "examples": [
+      "Medical specialists monitored the patient's pneumonia to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "prognosis_noun",
+    "word": "prognosis",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/prɒg'nәusis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prognosis-us.mp3",
+    "definition_en": "n. a prediction about how something (as the weather) will develop n. a prediction of the course of a disease",
+    "definition_zh": "n. 预测, 预后",
+    "examples": [
+      "Medical specialists monitored the patient's prognosis to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "quarantine_noun",
+    "word": "quarantine",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'kwɒrәnti:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quarantine-us.mp3",
+    "definition_en": "n. enforced isolation of patients suffering from a contagious disease in order to prevent the spread of disease n. isolation to prevent the spread of infectious disease v. place into enforced isolation, as for medical reasons",
+    "definition_zh": "n. 隔离, 封锁交通, 检疫期",
+    "examples": [
+      "Medical specialists monitored the patient's quarantine to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "radiology_noun",
+    "word": "radiology",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.reidi'ɒlәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/radiology-us.mp3",
+    "definition_en": "n. the branch of medical science dealing with the medical use of X-rays or other penetrating radiation",
+    "definition_zh": "n. 辐射学, 放射学",
+    "examples": [
+      "Medical specialists monitored the patient's radiology to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "remission_noun",
+    "word": "remission",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/ri'miʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/remission-us.mp3",
+    "definition_en": "n. an abatement in intensity or degree (as in the manifestations of a disease) n. (law) the act of remitting (especially the referral of a law case to another court)",
+    "definition_zh": "n. 宽恕, 豁免, 免罪, 缓和, 减轻",
+    "examples": [
+      "Medical specialists monitored the patient's remission to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "resuscitation_noun",
+    "word": "resuscitation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/ri.sʌsi'teiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resuscitation-us.mp3",
+    "definition_en": "n. the act of reviving a person and returning them to consciousness",
+    "definition_zh": "n. 复生, 复兴",
+    "examples": [
+      "Medical specialists monitored the patient's resuscitation to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "scalpel_noun",
+    "word": "scalpel",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'skælpәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scalpel-us.mp3",
+    "definition_en": "n. a thin straight surgical knife used in dissection and surgery",
+    "definition_zh": "n. 解剖刀",
+    "examples": [
+      "Medical specialists monitored the patient's scalpel to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "sedative_noun",
+    "word": "sedative",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'sedәtiv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sedative-us.mp3",
+    "definition_en": "n. a drug that reduces excitability and calms a person",
+    "definition_zh": "n. 镇静剂",
+    "examples": [
+      "Medical specialists monitored the patient's sedative to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "stethoscope_noun",
+    "word": "stethoscope",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'steθәskәup/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stethoscope-us.mp3",
+    "definition_en": "n. a medical instrument for listening to the sounds generated inside the body",
+    "definition_zh": "n. 听诊器",
+    "examples": [
+      "Medical specialists monitored the patient's stethoscope to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "syringe_noun",
+    "word": "syringe",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'sirindʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/syringe-us.mp3",
+    "definition_en": "n. a medical instrument used to inject or withdraw fluids v. spray or irrigate (a body part) with a syringe",
+    "definition_zh": "n. 注射器, 洗涤器",
+    "examples": [
+      "Medical specialists monitored the patient's syringe to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "transfusion_noun",
+    "word": "transfusion",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/træns'fju:ʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transfusion-us.mp3",
+    "definition_en": "n. the introduction of blood or blood plasma into a vein or artery n. the action of pouring a liquid from one vessel to another",
+    "definition_zh": "n. 倾注, 输血, 输液",
+    "examples": [
+      "Medical specialists monitored the patient's transfusion to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "triage_noun",
+    "word": "triage",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/tri'ɑ:ʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/triage-us.mp3",
+    "definition_en": "n. sorting and allocating aid on the basis of need for or likely benefit from medical treatment or food",
+    "definition_zh": "伤员拣别分类",
+    "examples": [
+      "Medical specialists monitored the patient's triage to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "tuberculosis_noun",
+    "word": "tuberculosis",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/tju,bә:kju'lәusis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tuberculosis-us.mp3",
+    "definition_en": "n. infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts of the body in acute stages)",
+    "definition_zh": "n. 肺结核",
+    "examples": [
+      "Medical specialists monitored the patient's tuberculosis to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "anesthesiologist_noun",
+    "word": "anesthesiologist",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/bæk'tiәriә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bacteria-us.mp3",
-    "definition_en": "(microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants",
-    "definition_zh": "pl. 细菌",
+    "phonetic": "/,ænis,θizi'ɔlәdʒist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anesthesiologist-us.mp3",
+    "definition_en": "n. a specialist who administers an anesthetic to a patient before he is treated",
+    "definition_zh": "n. 麻醉学者",
     "examples": [
-      "Maintaining proper health supports the optimal function of the bacteria."
+      "Medical specialists monitored the patient's anesthesiologist to determine the most effective therapy."
     ]
   },
   {
-    "id": "surge_verb",
-    "word": "surge",
-    "part_of_speech": "verb",
+    "id": "convalescence_noun",
+    "word": "convalescence",
+    "part_of_speech": "noun",
     "level": "C2",
     "topic": "临床医学与医药健康",
-    "phonetic": "/sә:dʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surge-us.mp3",
-    "definition_en": "See one's performance improve",
-    "definition_zh": "vi. 汹涌, 澎湃, 颠簸, 猛冲, 突然放松",
+    "phonetic": "/.kɒnvә'lesns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/convalescence-us.mp3",
+    "definition_en": "n. gradual healing (through rest) after sickness or injury",
+    "definition_zh": "n. 渐愈, 恢复期",
     "examples": [
-      "Many professionals surge key methods to achieve consistent, high-quality results."
+      "Medical specialists monitored the patient's convalescence to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "defibrillator_noun",
+    "word": "defibrillator",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/di'fɑibrileitә(r)/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/defibrillator-us.mp3",
+    "definition_en": "n. an electronic device that administers an electric shock of preset voltage to the heart through the chest wall in an attempt to restore the normal rhythm of the heart during ventricular fibrillation",
+    "definition_zh": "去纤颤器, 除纤颤器",
+    "examples": [
+      "Medical specialists monitored the patient's defibrillator to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "dialysis_noun",
+    "word": "dialysis",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/dai'ælisis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dialysis-us.mp3",
+    "definition_en": "n. separation of substances in solution by means of their unequal diffusion through semipermeable membranes",
+    "definition_zh": "n. 透析, 渗析",
+    "examples": [
+      "Medical specialists monitored the patient's dialysis to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "etiology_noun",
+    "word": "etiology",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/,i:ti'ɔlәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/etiology-us.mp3",
+    "definition_en": "n. the cause of a disease n. the philosophical study of causation",
+    "definition_zh": "n. 病原学, 病因学",
+    "examples": [
+      "Medical specialists monitored the patient's etiology to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "gynecology_noun",
+    "word": "gynecology",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.gaini'kɒlәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gynecology-us.mp3",
+    "definition_en": "n. the branch of medicine that deals with the diseases and hygiene of women",
+    "definition_zh": "n. 妇科医学",
+    "examples": [
+      "Medical specialists monitored the patient's gynecology to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "hemorrhage_noun",
+    "word": "hemorrhage",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'hemәridʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hemorrhage-us.mp3",
+    "definition_en": "n the flow of blood from a ruptured blood vessel v lose blood from one's body",
+    "definition_zh": "n. 出血",
+    "examples": [
+      "Medical specialists monitored the patient's hemorrhage to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "intubation_noun",
+    "word": "intubation",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/intubation-us.mp3",
+    "definition_en": "n the insertion of a cannula or tube into a hollow body organ",
+    "definition_zh": "n. 插管, 插管法",
+    "examples": [
+      "Medical specialists monitored the patient's intubation to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "ophthalmologist_noun",
+    "word": "ophthalmologist",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.ɒfθæl'mɒlәdʒist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ophthalmologist-us.mp3",
+    "definition_en": "n. a medical doctor specializing in the diagnosis and treatment of diseases of the eye",
+    "definition_zh": "n. 眼科医师",
+    "examples": [
+      "Medical specialists monitored the patient's ophthalmologist to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "panacea_noun",
+    "word": "panacea",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/.pænә'siә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/panacea-us.mp3",
+    "definition_en": "n. (Greek mythology) the goddess of healing; daughter of Aesculapius and sister of Hygeia n. hypothetical remedy for all ills or diseases; once sought by the alchemists",
+    "definition_zh": "n. 万能药, 灵丹妙药",
+    "examples": [
+      "Medical specialists monitored the patient's panacea to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "saline_noun",
+    "word": "saline",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'seilain/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saline-us.mp3",
+    "definition_en": "s. containing salt",
+    "definition_zh": "n. 盐湖, 盐田, 碱盐泻药, 生理盐水",
+    "examples": [
+      "Medical specialists monitored the patient's saline to determine the most effective therapy."
+    ]
+  },
+  {
+    "id": "suture_noun",
+    "word": "suture",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "临床医学与医药健康",
+    "phonetic": "/'su:tʃә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/suture-us.mp3",
+    "definition_en": "n. an immovable joint (especially between the bones of the skull) n. a seam used in surgery n. thread of catgut or silk or wire used by surgeons to stitch tissues together",
+    "definition_zh": "n. 缝合, 缝合处, 缝合线",
+    "examples": [
+      "Medical specialists monitored the patient's suture to determine the most effective therapy."
     ]
   }
 ]

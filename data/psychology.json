@@ -1,170 +1,170 @@
 [
   {
-    "id": "feeling_noun",
-    "word": "feeling",
+    "id": "idea_noun",
+    "word": "idea",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "心理学与心智认知",
-    "phonetic": "/'fi:liŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feeling-us.mp3",
-    "definition_en": "The experiencing of affective and emotional states",
-    "definition_zh": "n. 摸, 触觉, 知觉, 感觉, 情绪, 同情",
+    "phonetic": "/ai'diә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/idea-us.mp3",
+    "definition_en": "n. the content of cognition; the main thing you are thinking about n. a personal view",
+    "definition_zh": "n. 主意, 办法, 理想, 思想, 概念, 意见",
     "examples": [
-      "Understanding feeling provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how idea influences decision-making patterns."
     ]
   },
   {
-    "id": "feeling_verb",
-    "word": "feeling",
+    "id": "mind_noun",
+    "word": "mind",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/maind/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mind-us.mp3",
+    "definition_en": "n. that which is responsible for one's thoughts and feelings; the seat of the faculty of reason n. recall or remembrance n. attention n. your intention; what you intend to do",
+    "definition_zh": "n. 思想, 愿望, 智力, 记忆, 心理, 情绪, 理智, 主意, 心意",
+    "examples": [
+      "Modern cognitive researchers investigate how mind influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "think_verb",
+    "word": "think",
     "part_of_speech": "verb",
     "level": "A1",
     "topic": "心理学与心智认知",
-    "phonetic": "/'fi:liŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feeling-us.mp3",
-    "definition_en": "The experiencing of affective and emotional states",
-    "definition_zh": "n. 摸, 触觉, 知觉, 感觉, 情绪, 同情",
+    "phonetic": "/θiŋk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/think-us.mp3",
+    "definition_en": "n. an instance of deliberate thinking v. judge or regard; look upon; judge v. expect, believe, or suppose v. use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments",
+    "definition_zh": "vt. 想, 考虑, 想起, 想像, 打算, 认为",
     "examples": [
-      "Many professionals feeling key methods to achieve consistent, high-quality results."
+      "Modern cognitive researchers investigate how think influences decision-making patterns."
     ]
   },
   {
-    "id": "automatic_adjective",
-    "word": "automatic",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "心理学与心智认知",
-    "phonetic": "/.ɒ:tә'mætik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/automatic-us.mp3",
-    "definition_en": "Operating with minimal human intervention; independent of external control",
-    "definition_zh": "a. 自动的, 机械的, 必然的, 无意识的",
-    "examples": [
-      "The committee analyzed a highly automatic perspective during the forum."
-    ]
-  },
-  {
-    "id": "behavioral_adjective",
-    "word": "behavioral",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "心理学与心智认知",
-    "phonetic": "/bi'heivjәrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/behavioral-us.mp3",
-    "definition_en": "Of or relating to behavior",
-    "definition_zh": "a. 行为的",
-    "examples": [
-      "The committee analyzed a highly behavioral perspective during the forum."
-    ]
-  },
-  {
-    "id": "behavioral_noun",
-    "word": "behavioral",
+    "id": "dream_noun",
+    "word": "dream",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/bi'heivjәrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/behavioral-us.mp3",
-    "definition_en": "Of or relating to behavior",
-    "definition_zh": "a. 行为的",
+    "phonetic": "/dri:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dream-us.mp3",
+    "definition_en": "n. a series of mental images and emotions occurring during sleep n. imaginative thoughts indulged in while awake n. a state of mind characterized by abstraction and release from reality n. someone or something wonderful",
+    "definition_zh": "n. 梦, 空想, 愿望",
     "examples": [
-      "Psychologists study how behavioral impacts emotional well-being and daily behavior."
+      "Modern cognitive researchers investigate how dream influences decision-making patterns."
     ]
   },
   {
-    "id": "id_noun",
-    "word": "id",
+    "id": "remember_verb",
+    "word": "remember",
+    "part_of_speech": "verb",
+    "level": "A2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/ri'membә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/remember-us.mp3",
+    "definition_en": "v. recall knowledge from memory; have a recollection v. keep in mind for attention or consideration v. recapture the past; indulge in memories v. show appreciation to",
+    "definition_zh": "vt. 记得, 回忆起, 记住, 铭记, 纪念",
+    "examples": [
+      "Modern cognitive researchers investigate how remember influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "thought_noun",
+    "word": "thought",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "心理学与心智认知",
-    "phonetic": "/id/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/id-us.mp3",
-    "definition_en": "A card or badge used to identify the bearer",
-    "definition_zh": "n. 遗传素质, 本能冲动",
+    "phonetic": "/θɒ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thought-us.mp3",
+    "definition_en": "n. the organized beliefs of a period or group or individual",
+    "definition_zh": "n. 想法, 思想, 思维, 关心, 挂念",
     "examples": [
-      "Understanding id provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how thought influences decision-making patterns."
     ]
   },
   {
-    "id": "psychologist_noun",
-    "word": "psychologist",
+    "id": "attention_noun",
+    "word": "attention",
     "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "心理学与心智认知",
-    "phonetic": "/sai'kɒlәdʒist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychologist-us.mp3",
-    "definition_en": "A scientist trained in psychology",
-    "definition_zh": "n. 心理学家",
-    "examples": [
-      "Psychologists study how psychologist impacts emotional well-being and daily behavior."
-    ]
-  },
-  {
-    "id": "psychologists_noun",
-    "word": "psychologists",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "心理学与心智认知",
-    "phonetic": "/saɪˈkɔlədʒɪsts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychologists-us.mp3",
-    "definition_en": "A scientist trained in psychology",
-    "definition_zh": "n. 心理学研究者, 心理学家( psychologist的复数形式 )",
-    "examples": [
-      "Psychologists study how psychologists impacts emotional well-being and daily behavior."
-    ]
-  },
-  {
-    "id": "sense_noun",
-    "word": "sense",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "心理学与心智认知",
-    "phonetic": "/sens/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sense-us.mp3",
-    "definition_en": "A general conscious awareness",
-    "definition_zh": "n. 感应, 感觉, 感官, 意识, 观念, 情理, 知觉, 理智",
-    "examples": [
-      "Recent breakthroughs in sense have accelerated modern technological innovation."
-    ]
-  },
-  {
-    "id": "conscious_adjective",
-    "word": "conscious",
-    "part_of_speech": "adjective",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/'kɒnʃәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conscious-us.mp3",
-    "definition_en": "Knowing and perceiving; having awareness of surroundings and sensations and thoughts",
-    "definition_zh": "a. 有意识的, 知觉的, 觉察的",
+    "phonetic": "/ә'tenʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attention-us.mp3",
+    "definition_en": "n. the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others n. a general interest that leads people to want to know more n. a courteous act indicating affection n. the faculty or power of mental concentration",
+    "definition_zh": "n. 注意, 注意力",
     "examples": [
-      "The committee analyzed a highly conscious perspective during the forum."
+      "Modern cognitive researchers investigate how attention influences decision-making patterns."
     ]
   },
   {
-    "id": "insane_adjective",
-    "word": "insane",
-    "part_of_speech": "adjective",
+    "id": "behavior_noun",
+    "word": "behavior",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/in'sein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insane-us.mp3",
-    "definition_en": "Afflicted with or characteristic of mental derangement",
-    "definition_zh": "a. 患精神病的, 极愚蠢的",
+    "phonetic": "/bi'heivjә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/behavior-us.mp3",
+    "definition_en": "n. manner of acting or controlling yourself n. the action or reaction of something (as a machine or substance) under specified circumstances n. (psychology) the aggregate of the responses or reactions or movements made by an organism in any situation",
+    "definition_zh": "n. 行为, 举止",
     "examples": [
-      "The committee analyzed a highly insane perspective during the forum."
+      "Modern cognitive researchers investigate how behavior influences decision-making patterns."
     ]
   },
   {
-    "id": "involuntarily_adverb",
-    "word": "involuntarily",
-    "part_of_speech": "adverb",
+    "id": "focus_verb",
+    "word": "focus",
+    "part_of_speech": "verb",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/in'vɒlәntәrili/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/involuntarily-us.mp3",
-    "definition_en": "Against your will",
-    "definition_zh": "adv. 不知不觉地, 无意识地",
+    "phonetic": "/'fәukәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/focus-us.mp3",
+    "definition_en": "n. the concentration of attention or energy on something n. maximum clarity or distinctness of an image rendered by an optical system n. maximum clarity or distinctness of an idea n. a central point or locus of an infection in an organism",
+    "definition_zh": "vi. 聚焦, 注视",
     "examples": [
-      "Researchers systematically observed involuntarily relevant patterns across trials."
+      "Modern cognitive researchers investigate how focus influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "habit_noun",
+    "word": "habit",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/'hæbit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/habit-us.mp3",
+    "definition_en": "n. an established custom n. (psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition n. a distinctive attire worn by a member of a religious order n. the general form or mode of growth (especially of a plant or crystal)",
+    "definition_zh": "n. 习惯, 嗜好, 习性",
+    "examples": [
+      "Modern cognitive researchers investigate how habit influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "intelligence_noun",
+    "word": "intelligence",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/in'telidʒәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/intelligence-us.mp3",
+    "definition_en": "n. the ability to comprehend; to understand and profit from experience n. a unit responsible for gathering and interpreting information about an enemy n. secret information about an enemy (or potential enemy) n. the operation of gathering information about an enemy",
+    "definition_zh": "n. 智力, 情报, 信息",
+    "examples": [
+      "Modern cognitive researchers investigate how intelligence influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "memory_noun",
+    "word": "memory",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/'memәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/memory-us.mp3",
+    "definition_en": "n. something that is remembered n. the cognitive processes whereby past experience is remembered n. the power of retaining and recalling past experience n. an electronic memory device",
+    "definition_zh": "n. 记忆, 记忆力, 回忆, 纪念, 存储",
+    "examples": [
+      "Modern cognitive researchers investigate how memory influences decision-making patterns."
     ]
   },
   {
@@ -175,94 +175,80 @@
     "topic": "心理学与心智认知",
     "phonetic": "/'mentl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mental-us.mp3",
-    "definition_en": "Involving the mind or an intellectual process",
+    "definition_en": "a. involving the mind or an intellectual process a. of or relating to the mind a. of or relating to the chin- or liplike structure in insects and certain mollusks s. affected by a disorder of the mind",
     "definition_zh": "a. 心智的, 精神病的, 心理的, 颏的",
     "examples": [
-      "The committee analyzed a highly mental perspective during the forum."
+      "Modern cognitive researchers investigate how mental influences decision-making patterns."
     ]
   },
   {
-    "id": "mental_noun",
-    "word": "mental",
+    "id": "mood_noun",
+    "word": "mood",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/'mentl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mental-us.mp3",
-    "definition_en": "Involving the mind or an intellectual process",
-    "definition_zh": "n. 精神病患者",
+    "phonetic": "/mu:d/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mood-us.mp3",
+    "definition_en": "n. verb inflections that express how the action or state is conceived by the speaker",
+    "definition_zh": "n. 心情, 气氛, 生气, 基调",
     "examples": [
-      "Psychologists study how mental impacts emotional well-being and daily behavior."
+      "Modern cognitive researchers investigate how mood influences decision-making patterns."
     ]
   },
   {
-    "id": "phantom_adjective",
-    "word": "phantom",
+    "id": "unconscious_adjective",
+    "word": "unconscious",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "心理学与心智认知",
-    "phonetic": "/'fæntәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phantom-us.mp3",
-    "definition_en": "Something apparently sensed but having no physical reality",
-    "definition_zh": "a. 幻觉的, 幻影的, 幽灵的, 虚无飘渺的, 捉摸不定的, 有名无实的",
+    "phonetic": "/.ʌn'kɒnʃәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unconscious-us.mp3",
+    "definition_en": "a. not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead s. without conscious volition s. (followed by `of') not knowing or perceiving",
+    "definition_zh": "a. 未意识到的, 无意识的, 无知觉的",
     "examples": [
-      "The committee analyzed a highly phantom perspective during the forum."
+      "Modern cognitive researchers investigate how unconscious influences decision-making patterns."
     ]
   },
   {
-    "id": "psychological_adjective",
-    "word": "psychological",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "心理学与心智认知",
-    "phonetic": "/.saikә'lɒdʒikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychological-us.mp3",
-    "definition_en": "Of or relating to or determined by psychology",
-    "definition_zh": "a. 心理学的, 精神上的, 心灵的",
-    "examples": [
-      "The committee analyzed a highly psychological perspective during the forum."
-    ]
-  },
-  {
-    "id": "sensations_noun",
-    "word": "sensations",
+    "id": "addiction_noun",
+    "word": "addiction",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/senˈseiʃənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sensations-us.mp3",
-    "definition_en": "An unelaborated elementary awareness of stimulation",
-    "definition_zh": "n. 感觉( sensation的复数形式 ); 感受; 知觉; 激动",
+    "phonetic": "/ә'dikʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/addiction-us.mp3",
+    "definition_en": "n. being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs) n. an abnormally strong craving n. (Roman law) a formal award by a magistrate of a thing or person to another person (as the award of a debtor to his creditor); a surrender to a master",
+    "definition_zh": "n. 入迷, 瘾",
     "examples": [
-      "Understanding sensations provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how addiction influences decision-making patterns."
     ]
   },
   {
-    "id": "senses_noun",
-    "word": "senses",
+    "id": "anxiety_noun",
+    "word": "anxiety",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/senses/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/senses-us.mp3",
-    "definition_en": "N a general conscious awareness",
-    "definition_zh": "n. 五官的感觉, 知觉, 理性, 理智",
+    "phonetic": "/æŋ'zaiәti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anxiety-us.mp3",
+    "definition_en": "n. (psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic n. a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune",
+    "definition_zh": "n. 焦虑, 忧虑, 令人焦虑的事",
     "examples": [
-      "Recent breakthroughs in senses have accelerated modern technological innovation."
+      "Modern cognitive researchers investigate how anxiety influences decision-making patterns."
     ]
   },
   {
-    "id": "visions_noun",
-    "word": "visions",
+    "id": "cognition_noun",
+    "word": "cognition",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/visions/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/visions-us.mp3",
-    "definition_en": "N a vivid mental image",
-    "definition_zh": "n. 视力；愿景；幻觉（vision的复数）",
+    "phonetic": "/kɒg'niʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cognition-us.mp3",
+    "definition_en": "n. the psychological result of perception and learning and reasoning",
+    "definition_zh": "n. 认识, 认识力, 认识的结果",
     "examples": [
-      "Understanding visions provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how cognition influences decision-making patterns."
     ]
   },
   {
@@ -273,25 +259,38 @@
     "topic": "心理学与心智认知",
     "phonetic": "/'kɒgnitiv/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cognitive-us.mp3",
-    "definition_en": "Relating to conscious mental processes of cognition, perception, memory, and judgment.",
-    "definition_zh": "认知的，认识过程的",
+    "definition_en": "a. of or being or relating to or involving cognition",
+    "definition_zh": "a. 认知的, 认识的",
     "examples": [
-      "Cognitive behavioral therapy helps reframe negative mental patterns.",
-      "Sleep deprivation damages cognitive processing speed."
+      "Modern cognitive researchers investigate how cognitive influences decision-making patterns."
     ]
   },
   {
-    "id": "colonization_noun",
-    "word": "colonization",
+    "id": "complex_noun",
+    "word": "complex",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/,kɔlәnai'zeiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/colonization-us.mp3",
-    "definition_en": "The act of colonizing; the establishment of colonies",
-    "definition_zh": "[医] 移生, 移地发育; 集中护理(精神病人)",
+    "phonetic": "/kәm'pleks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/complex-us.mp3",
+    "definition_en": "n. a conceptual whole made up of complicated and related parts n. a compound described in terms of the central atom to which other atoms are bound or coordinated n. (psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior a. complicated in structure; consisting of interconnected parts",
+    "definition_zh": "n. 综合体, 情结, 络合物",
     "examples": [
-      "Understanding colonization provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how complex influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "conditioning_noun",
+    "word": "conditioning",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/kәn'diʃәniŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conditioning-us.mp3",
+    "definition_en": "n. a learning process in which an organism's behavior becomes dependent on the occurrence of a stimulus in its environment",
+    "definition_zh": "n. 调节, 条件作用, 整修",
+    "examples": [
+      "Modern cognitive researchers investigate how conditioning influences decision-making patterns."
     ]
   },
   {
@@ -302,24 +301,66 @@
     "topic": "心理学与心智认知",
     "phonetic": "/'kɒnʃәsnis/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consciousness-us.mp3",
-    "definition_en": "An alert cognitive state in which you are aware of yourself and your situation",
+    "definition_en": "n. an alert cognitive state in which you are aware of yourself and your situation",
     "definition_zh": "n. 意识, 知觉, 自觉",
     "examples": [
-      "Understanding consciousness provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how consciousness influences decision-making patterns."
     ]
   },
   {
-    "id": "inanimate_adjective",
-    "word": "inanimate",
-    "part_of_speech": "adjective",
+    "id": "delusion_noun",
+    "word": "delusion",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/in'ænimәt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inanimate-us.mp3",
-    "definition_en": "Belonging to the class of nouns denoting nonliving things",
-    "definition_zh": "a. 失去知觉的, 没生命的, 无精打采的",
+    "phonetic": "/di'lu:ʒәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delusion-us.mp3",
+    "definition_en": "n. (psychology) an erroneous belief that is held in the face of evidence to the contrary n. a mistaken or unfounded opinion or idea n. the act of deluding; deception by creating illusory ideas",
+    "definition_zh": "n. 迷惑, 欺瞒, 错觉",
     "examples": [
-      "The committee analyzed a highly inanimate perspective during the forum."
+      "Modern cognitive researchers investigate how delusion influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "depression_noun",
+    "word": "depression",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/di'preʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/depression-us.mp3",
+    "definition_en": "n. a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity n. a long-term economic state characterized by unemployment and low prices and low levels of trade and investment n. sad feelings of gloom and inadequacy n. a period during the 1930s when there was a worldwide economic depression and mass unemployment",
+    "definition_zh": "n. 不景气, 消沉, 沮丧, 洼地",
+    "examples": [
+      "Modern cognitive researchers investigate how depression influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "illusion_noun",
+    "word": "illusion",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/i'lju:ʒәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illusion-us.mp3",
+    "definition_en": "n. an erroneous mental representation n. something many people believe that is false",
+    "definition_zh": "n. 幻影, 错觉, 幻想",
+    "examples": [
+      "Modern cognitive researchers investigate how illusion influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "insight_noun",
+    "word": "insight",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/'insait/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insight-us.mp3",
+    "definition_en": "n. a feeling of understanding n. the clear (and often sudden) understanding of a complex situation n. grasping the inner nature of things intuitively",
+    "definition_zh": "n. 察看, 洞察力, 见识",
+    "examples": [
+      "Modern cognitive researchers investigate how insight influences decision-making patterns."
     ]
   },
   {
@@ -330,24 +371,24 @@
     "topic": "心理学与心智认知",
     "phonetic": "/'instiŋkt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instinct-us.mp3",
-    "definition_en": "Inborn pattern of behavior often responsive to specific stimuli",
+    "definition_en": "n. inborn pattern of behavior often responsive to specific stimuli s. (followed by `with')deeply filled or permeated",
     "definition_zh": "n. 本能, 直觉",
     "examples": [
-      "Psychologists study how instinct impacts emotional well-being and daily behavior."
+      "Modern cognitive researchers investigate how instinct influences decision-making patterns."
     ]
   },
   {
-    "id": "instincts_noun",
-    "word": "instincts",
+    "id": "obsession_noun",
+    "word": "obsession",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/instincts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instincts-us.mp3",
-    "definition_en": "N inborn pattern of behavior often responsive to specific stimuli",
-    "definition_zh": "n. 直觉；本能（instinct的复数）",
+    "phonetic": "/әb'seʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obsession-us.mp3",
+    "definition_en": "n. an unhealthy and compulsive preoccupation with something or someone",
+    "definition_zh": "n. 困扰, 困扰人的情绪",
     "examples": [
-      "Psychologists study how instincts impacts emotional well-being and daily behavior."
+      "Modern cognitive researchers investigate how obsession influences decision-making patterns."
     ]
   },
   {
@@ -358,24 +399,66 @@
     "topic": "心理学与心智认知",
     "phonetic": "/pә'sepʃәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perception-us.mp3",
-    "definition_en": "A way of conceiving something",
+    "definition_en": "n. a way of conceiving something n. the process of perceiving n. knowledge gained by perceiving",
     "definition_zh": "n. 知觉, 感觉, 领悟力, 获取",
     "examples": [
-      "Psychologists study how perception impacts emotional well-being and daily behavior."
+      "Modern cognitive researchers investigate how perception influences decision-making patterns."
     ]
   },
   {
-    "id": "psychologically_adverb",
-    "word": "psychologically",
-    "part_of_speech": "adverb",
+    "id": "phobia_noun",
+    "word": "phobia",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
-    "phonetic": "/,psaikә'lɔdʒikәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychologically-us.mp3",
-    "definition_en": "With regard to psychology",
-    "definition_zh": "adv. 心理上, 从心理学角度",
+    "phonetic": "/'fәubiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phobia-us.mp3",
+    "definition_en": "n. an anxiety disorder characterized by extreme and irrational fear of simple things or social situations",
+    "definition_zh": "n. 恐怖病, 恐惧症, 惧怕, 憎恶",
     "examples": [
-      "Researchers systematically observed psychologically relevant patterns across trials."
+      "Modern cognitive researchers investigate how phobia influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "projection_noun",
+    "word": "projection",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/prә'dʒekʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/projection-us.mp3",
+    "definition_en": "n. a prediction made by extrapolating from past observations n. the projection of an image from a film onto a screen n. any structure that branches out from a central support n. any solid convex shape that juts out from something",
+    "definition_zh": "n. 发射, 计划, 突出部分, 设计, 推测",
+    "examples": [
+      "Modern cognitive researchers investigate how projection influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "psychological_adjective",
+    "word": "psychological",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/.saikә'lɒdʒikәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychological-us.mp3",
+    "definition_en": "s. mental or emotional as opposed to physical in nature a. of or relating to or determined by psychology",
+    "definition_zh": "a. 心理学的, 精神上的, 心灵的",
+    "examples": [
+      "Modern cognitive researchers investigate how psychological influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "psychologist_noun",
+    "word": "psychologist",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/sai'kɒlәdʒist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychologist-us.mp3",
+    "definition_en": "n. a scientist trained in psychology",
+    "definition_zh": "n. 心理学家",
+    "examples": [
+      "Modern cognitive researchers investigate how psychologist influences decision-making patterns."
     ]
   },
   {
@@ -386,10 +469,24 @@
     "topic": "心理学与心智认知",
     "phonetic": "/sai'kɒlәdʒi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychology-us.mp3",
-    "definition_en": "The science of mental life",
+    "definition_en": "n. the science of mental life",
     "definition_zh": "n. 心理学, 心理状态",
     "examples": [
-      "Psychologists study how psychology impacts emotional well-being and daily behavior."
+      "Modern cognitive researchers investigate how psychology influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "reflex_noun",
+    "word": "reflex",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/'ri:fleks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reflex-us.mp3",
+    "definition_en": "n. an automatic instinctive unlearned reaction to a stimulus",
+    "definition_zh": "n. 反射, 反射光, 映像",
+    "examples": [
+      "Modern cognitive researchers investigate how reflex influences decision-making patterns."
     ]
   },
   {
@@ -400,11 +497,38 @@
     "topic": "心理学与心智认知",
     "phonetic": "/.sʌb'kɒnʃәs/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subconscious-us.mp3",
-    "definition_en": "Concerning the part of the mind of which one is not fully aware but which influences actions and feelings.",
-    "definition_zh": "下意识的，潜意识的",
+    "definition_en": "s. just below the level of consciousness",
+    "definition_zh": "a. 下意识的, 潜意识的",
     "examples": [
-      "Subconscious biases can subtly influence hiring deliberations.",
-      "Advertising frequently appeals to subconscious desires."
+      "Modern cognitive researchers investigate how subconscious influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "syndrome_noun",
+    "word": "syndrome",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/'sindrәum/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/syndrome-us.mp3",
+    "definition_en": "n. a complex of concurrent things n. a pattern of symptoms indicative of some disease",
+    "definition_zh": "n. 并发症状, 综合征, 同时存在的事物",
+    "examples": [
+      "Modern cognitive researchers investigate how syndrome influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "temperament_noun",
+    "word": "temperament",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/'temprәmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/temperament-us.mp3",
+    "definition_en": "n. excessive emotionalism or irritability and excitability (especially when displayed openly) n. an adjustment of the intervals (as in tuning a keyboard instrument) so that the scale can be used to play in different keys",
+    "definition_zh": "n. 气质, 性格, 性情",
+    "examples": [
+      "Modern cognitive researchers investigate how temperament influences decision-making patterns."
     ]
   },
   {
@@ -415,10 +539,24 @@
     "topic": "心理学与心智认知",
     "phonetic": "/'θerәpist/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/therapist-us.mp3",
-    "definition_en": "A person skilled in a particular type of therapy",
+    "definition_en": "n. a person skilled in a particular type of therapy",
     "definition_zh": "n. 治疗学家",
     "examples": [
-      "Understanding therapist provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how therapist influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "therapy_noun",
+    "word": "therapy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/'θerәpi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/therapy-us.mp3",
+    "definition_en": "n. (medicine) the act of caring for someone (as by medication or remedial training etc.)",
+    "definition_zh": "n. 治疗",
+    "examples": [
+      "Modern cognitive researchers investigate how therapy influences decision-making patterns."
     ]
   },
   {
@@ -429,25 +567,80 @@
     "topic": "心理学与心智认知",
     "phonetic": "/'trɒ:mә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trauma-us.mp3",
-    "definition_en": "A deeply distressing or disturbing emotional or mental experience.",
-    "definition_zh": "创伤，心理损伤",
+    "definition_en": "n. an emotional wound or shock often having long-lasting effects",
+    "definition_zh": "n. 外伤, 损伤",
     "examples": [
-      "Psychologists specialize in helping refugees heal from wartime trauma.",
-      "Early childhood trauma can cast long shadows over adult life."
+      "Modern cognitive researchers investigate how trauma influences decision-making patterns."
     ]
   },
   {
-    "id": "unconscious_adjective",
-    "word": "unconscious",
-    "part_of_speech": "adjective",
-    "level": "B2",
+    "id": "amnesia_noun",
+    "word": "amnesia",
+    "part_of_speech": "noun",
+    "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/.ʌn'kɒnʃәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unconscious-us.mp3",
-    "definition_en": "Not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead",
-    "definition_zh": "a. 未意识到的, 无意识的, 无知觉的",
+    "phonetic": "/æm'ni:zjә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amnesia-us.mp3",
+    "definition_en": "n. partial or total loss of memory",
+    "definition_zh": "n. 健忘症, 记忆缺失",
     "examples": [
-      "The committee analyzed a highly unconscious perspective during the forum."
+      "Modern cognitive researchers investigate how amnesia influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "archetype_noun",
+    "word": "archetype",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/'ɑ:tʃtaip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/archetype-us.mp3",
+    "definition_en": "n something that serves as a model or a basis for making copies",
+    "definition_zh": "n. 原型",
+    "examples": [
+      "Modern cognitive researchers investigate how archetype influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "behaviorism_noun",
+    "word": "behaviorism",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/bi'heiviәriz(ә)m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/behaviorism-us.mp3",
+    "definition_en": "n. an approach to psychology that emphasizes observable measurable behavior",
+    "definition_zh": "n. 行为主义",
+    "examples": [
+      "Modern cognitive researchers investigate how behaviorism influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "bipolar_adjective",
+    "word": "bipolar",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/bai'pәulә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bipolar-us.mp3",
+    "definition_en": "a. of or relating to manic depressive illness a. of, pertaining to, or occurring in both polar regions a. having two poles",
+    "definition_zh": "a. 有两极的, 双极的",
+    "examples": [
+      "Modern cognitive researchers investigate how bipolar influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "catharsis_noun",
+    "word": "catharsis",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/kә'θɑ:sis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/catharsis-us.mp3",
+    "definition_en": "n. (psychoanalysis) purging of emotional tensions n. purging the body by the use of a cathartic to stimulate evacuation of the bowels",
+    "definition_zh": "n. 陶冶, 净化, 导泻",
+    "examples": [
+      "Modern cognitive researchers investigate how catharsis influences decision-making patterns."
     ]
   },
   {
@@ -458,10 +651,24 @@
     "topic": "心理学与心智认知",
     "phonetic": "/klɒ:strә'fәubiә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/claustrophobia-us.mp3",
-    "definition_en": "A morbid fear of being closed in a confined space",
+    "definition_en": "n. a morbid fear of being closed in a confined space",
     "definition_zh": "n. 幽闭恐怖症",
     "examples": [
-      "Psychologists study how claustrophobia impacts emotional well-being and daily behavior."
+      "Modern cognitive researchers investigate how claustrophobia influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "dementia_noun",
+    "word": "dementia",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/di'menʃiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dementia-us.mp3",
+    "definition_en": "n. mental deterioration of organic or functional origin",
+    "definition_zh": "n. 痴呆",
+    "examples": [
+      "Modern cognitive researchers investigate how dementia influences decision-making patterns."
     ]
   },
   {
@@ -472,66 +679,178 @@
     "topic": "心理学与心智认知",
     "phonetic": "/'egәu. 'i:gәu/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ego-us.mp3",
-    "definition_en": "An inflated feeling of pride in your superiority to others",
+    "definition_en": "n. an inflated feeling of pride in your superiority to others n. (psychoanalysis) the conscious mind",
     "definition_zh": "n. 自我",
     "examples": [
-      "Understanding ego provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how ego influences decision-making patterns."
     ]
   },
   {
-    "id": "instinctive_adjective",
-    "word": "instinctive",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "心理学与心智认知",
-    "phonetic": "/in'stiŋktiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instinctive-us.mp3",
-    "definition_en": "S unthinking; prompted by (or as if by) instinct",
-    "definition_zh": "a. 本能的, 天生的, 直觉的",
-    "examples": [
-      "The committee analyzed a highly instinctive perspective during the forum."
-    ]
-  },
-  {
-    "id": "instinctively_adverb",
-    "word": "instinctively",
-    "part_of_speech": "adverb",
-    "level": "C1",
-    "topic": "心理学与心智认知",
-    "phonetic": "/instinctively/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instinctively-us.mp3",
-    "definition_en": "As a matter of instinct",
-    "definition_zh": "adv. 本能地, 直觉地",
-    "examples": [
-      "Researchers systematically observed instinctively relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "magnetic_adjective",
-    "word": "magnetic",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "心理学与心智认知",
-    "phonetic": "/mæg'netik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/magnetic-us.mp3",
-    "definition_en": "Of or relating to or caused by magnetism",
-    "definition_zh": "a. 有磁性的, 有吸引力的, 催眠术的",
-    "examples": [
-      "The committee analyzed a highly magnetic perspective during the forum."
-    ]
-  },
-  {
-    "id": "magnetism_noun",
-    "word": "magnetism",
+    "id": "extroversion_noun",
+    "word": "extroversion",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/'mægnitizm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/magnetism-us.mp3",
-    "definition_en": "Attraction for iron; associated with electric currents as well as magnets; characterized by fields of force",
-    "definition_zh": "n. 磁性, 吸引力, 磁学, 催眠术",
+    "phonetic": "/.ekstrә'vә:ʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/extroversion-us.mp3",
+    "definition_en": "n (psychology) an extroverted disposition; concern with what is outside the self",
+    "definition_zh": "n. 外翻, 外倾",
     "examples": [
-      "Understanding magnetism provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how extroversion influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "fixation_noun",
+    "word": "fixation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/fik'seiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fixation-us.mp3",
+    "definition_en": "n. the activity of fastening something firmly in position n. (histology) the preservation and hardening of a tissue sample to retain as nearly as possible the same relations they had in the living body",
+    "definition_zh": "n. 定置, 固定, 定色",
+    "examples": [
+      "Modern cognitive researchers investigate how fixation influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "hallucination_noun",
+    "word": "hallucination",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/hә.lu:si'neiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hallucination-us.mp3",
+    "definition_en": "n. illusory perception; a common symptom of severe mental disorder n. an object perceived during a hallucinatory episode",
+    "definition_zh": "n. 幻觉, 幻想",
+    "examples": [
+      "Modern cognitive researchers investigate how hallucination influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "hypnosis_noun",
+    "word": "hypnosis",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/hip'nәusis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hypnosis-us.mp3",
+    "definition_en": "n. a state that resembles sleep but that is induced by suggestion",
+    "definition_zh": "n. 催眠状态, 催眠术",
+    "examples": [
+      "Modern cognitive researchers investigate how hypnosis influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "hysteria_noun",
+    "word": "hysteria",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/his'tiәriә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hysteria-us.mp3",
+    "definition_en": "n. excessive or uncontrollable fear n. neurotic disorder characterized by violent emotional outbreaks and disturbances of sensory and motor functions",
+    "definition_zh": "n. 歇斯底里症, 不正常的兴奋, 癔病",
+    "examples": [
+      "Modern cognitive researchers investigate how hysteria influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "inhibition_noun",
+    "word": "inhibition",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/.inhi'biʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inhibition-us.mp3",
+    "definition_en": "n. (psychology) the conscious exclusion of unacceptable thoughts or desires n. the quality of being inhibited n. (physiology) the process whereby nerves can retard or prevent the functioning of an organ or part",
+    "definition_zh": "n. 禁止, 抑制, 压抑",
+    "examples": [
+      "Modern cognitive researchers investigate how inhibition influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "introspect_verb",
+    "word": "introspect",
+    "part_of_speech": "verb",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/,intrәu'spekt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/introspect-us.mp3",
+    "definition_en": "v. reflect on one's own thoughts and feelings",
+    "definition_zh": "vt.vi. 进行反省",
+    "examples": [
+      "Modern cognitive researchers investigate how introspect influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "introspection_noun",
+    "word": "introspection",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/.intrәu'spekʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/introspection-us.mp3",
+    "definition_en": "n. the contemplation of your own thoughts and desires and conduct",
+    "definition_zh": "n. 内省, 反省",
+    "examples": [
+      "Modern cognitive researchers investigate how introspection influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "introversion_noun",
+    "word": "introversion",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/.intrәu'vә:ʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/introversion-us.mp3",
+    "definition_en": "n. (psychology) an introverted disposition; concern with one's own thoughts and feelings",
+    "definition_zh": "n. 内向性, 内省",
+    "examples": [
+      "Modern cognitive researchers investigate how introversion influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "mania_noun",
+    "word": "mania",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/'meiniә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mania-us.mp3",
+    "definition_en": "n. an irrational but irresistible motive for a belief or action n. a mood disorder; an affective disorder in which the victim tends to respond excessively and sometimes violently",
+    "definition_zh": "n. 狂躁, 热衷, 狂热",
+    "examples": [
+      "Modern cognitive researchers investigate how mania influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "narcissism_noun",
+    "word": "narcissism",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/nɑ:'sisizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/narcissism-us.mp3",
+    "definition_en": "n an exceptional interest in and admiration for yourself",
+    "definition_zh": "n. 自我陶醉, 自恋",
+    "examples": [
+      "Modern cognitive researchers investigate how narcissism influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "narcissist_noun",
+    "word": "narcissist",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/nɑ:'sisist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/narcissist-us.mp3",
+    "definition_en": "n. someone in love with themselves",
+    "definition_zh": "n. 自我陶醉者",
+    "examples": [
+      "Modern cognitive researchers investigate how narcissist influences decision-making patterns."
     ]
   },
   {
@@ -542,66 +861,52 @@
     "topic": "心理学与心智认知",
     "phonetic": "/nju'rәusis/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neurosis-us.mp3",
-    "definition_en": "A mild mental illness involving symptoms of stress (depression, anxiety, obsessive behavior).",
-    "definition_zh": "神经症，神经官能症",
+    "definition_en": "n. a mental or personality disturbance not attributable to any known neurological or organic dysfunction",
+    "definition_zh": "n. 神经症, 神经机能病",
     "examples": [
-      "Chronic perfectionism can sometimes border on obsessive neurosis."
+      "Modern cognitive researchers investigate how neurosis influences decision-making patterns."
     ]
   },
   {
-    "id": "numb_adjective",
-    "word": "numb",
+    "id": "neurotic_adjective",
+    "word": "neurotic",
     "part_of_speech": "adjective",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/nʌm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/numb-us.mp3",
-    "definition_en": "Make numb or insensitive",
-    "definition_zh": "a. 麻木的, 失去知觉的",
+    "phonetic": "/nju'rɒtik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neurotic-us.mp3",
+    "definition_en": "n. a person suffering from neurosis a. characteristic of or affected by neurosis a. affected with emotional disorder",
+    "definition_zh": "a. 神经质的, 神经症的",
     "examples": [
-      "The committee analyzed a highly numb perspective during the forum."
+      "Modern cognitive researchers investigate how neurotic influences decision-making patterns."
     ]
   },
   {
-    "id": "numb_verb",
-    "word": "numb",
-    "part_of_speech": "verb",
+    "id": "paranoia_noun",
+    "word": "paranoia",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/nʌm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/numb-us.mp3",
-    "definition_en": "Make numb or insensitive",
-    "definition_zh": "vt. 使麻木, 使昏迷, 使失去知觉",
+    "phonetic": "/.pærә'nɒiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paranoia-us.mp3",
+    "definition_en": "n. a psychological disorder characterized by delusions of persecution or grandeur",
+    "definition_zh": "n. 偏执狂, 多疑症",
     "examples": [
-      "Many professionals numb key methods to achieve consistent, high-quality results."
+      "Modern cognitive researchers investigate how paranoia influences decision-making patterns."
     ]
   },
   {
-    "id": "perceptive_adjective",
-    "word": "perceptive",
-    "part_of_speech": "adjective",
+    "id": "placebo_noun",
+    "word": "placebo",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/pә'septiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perceptive-us.mp3",
-    "definition_en": "Of or relating to perception",
-    "definition_zh": "a. 知觉的, 有知觉力的, 感知的",
+    "phonetic": "/plә'si:bәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/placebo-us.mp3",
+    "definition_en": "n. an innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug n. (Roman Catholic Church) vespers of the office for the dead",
+    "definition_zh": "n. (为死者所诵的)晚祷歌, 安慰剂, 安慰的话, 使人宽慰的事",
     "examples": [
-      "The committee analyzed a highly perceptive perspective during the forum."
-    ]
-  },
-  {
-    "id": "phenomenal_adjective",
-    "word": "phenomenal",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "心理学与心智认知",
-    "phonetic": "/fi'nɒminәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phenomenal-us.mp3",
-    "definition_en": "Of or relating to a phenomenon",
-    "definition_zh": "a. 现象的, 能知觉的, 异常的, 显著的, 惊人的",
-    "examples": [
-      "The committee analyzed a highly phenomenal perspective during the forum."
+      "Modern cognitive researchers investigate how placebo influences decision-making patterns."
     ]
   },
   {
@@ -612,66 +917,206 @@
     "topic": "心理学与心智认知",
     "phonetic": "/saiki'ætrik; (?@) si-/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychiatric-us.mp3",
-    "definition_en": "Relating to or used in or engaged in the practice of psychiatry",
+    "definition_en": "a. relating to or used in or engaged in the practice of psychiatry",
     "definition_zh": "a. 精神病学的, 医精神病的",
     "examples": [
-      "The committee analyzed a highly psychiatric perspective during the forum."
+      "Modern cognitive researchers investigate how psychiatric influences decision-making patterns."
     ]
   },
   {
-    "id": "psychiatrist_noun",
-    "word": "psychiatrist",
+    "id": "psychiatry_noun",
+    "word": "psychiatry",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/sai'kaiәtrist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychiatrist-us.mp3",
-    "definition_en": "A physician who specializes in psychiatry",
-    "definition_zh": "n. 精神病医生, 精神病学家",
+    "phonetic": "/sai'kaiәtri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychiatry-us.mp3",
+    "definition_en": "n. the branch of medicine dealing with the diagnosis and treatment of mental disorders",
+    "definition_zh": "n. 精神病学, 精神病治疗",
     "examples": [
-      "Understanding psychiatrist provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how psychiatry influences decision-making patterns."
     ]
   },
   {
-    "id": "spontaneously_adverb",
-    "word": "spontaneously",
-    "part_of_speech": "adverb",
+    "id": "psychoanalysis_noun",
+    "word": "psychoanalysis",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
-    "phonetic": "/spontaneously/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spontaneously-us.mp3",
-    "definition_en": "In a spontaneous manner",
-    "definition_zh": "adv. 自发, 一时冲动, 出自自然, 不依赖人工, 自然产生, 本能, 自动, 自然而优雅",
+    "phonetic": "/.saikәuә'nælәsis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychoanalysis-us.mp3",
+    "definition_en": "n. a set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of Sigmund Freud",
+    "definition_zh": "n. 心理分析",
     "examples": [
-      "Researchers systematically observed spontaneously relevant patterns across trials."
+      "Modern cognitive researchers investigate how psychoanalysis influences decision-making patterns."
     ]
   },
   {
-    "id": "archetype_noun",
-    "word": "archetype",
+    "id": "psychosis_noun",
+    "word": "psychosis",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/sai'kәusis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychosis-us.mp3",
+    "definition_en": "n. any severe mental disorder in which contact with reality is lost or highly distorted",
+    "definition_zh": "n. 精神病, 精神不正常",
+    "examples": [
+      "Modern cognitive researchers investigate how psychosis influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "rationalization_noun",
+    "word": "rationalization",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/,ræʃәnәlai'zeiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rationalization-us.mp3",
+    "definition_en": "n. the cognitive process of making something seem consistent with or based on reason n. (psychiatry) a defense mechanism by which your true motivation is concealed by explaining your actions and feelings in a way that is not threatening n. (mathematics) the simplification of an expression or equation by eliminating radicals without changing the value of the expression or the roots of the equation",
+    "definition_zh": "n. 合理化",
+    "examples": [
+      "Modern cognitive researchers investigate how rationalization influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "repression_noun",
+    "word": "repression",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/ri'preʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repression-us.mp3",
+    "definition_en": "n. a state of forcible subjugation n. (psychiatry) the classical defense mechanism that protects you from impulses or ideas that would cause anxiety by preventing them from becoming conscious n. the act of repressing; control by holding down",
+    "definition_zh": "n. 抑制, 压抑, 制止",
+    "examples": [
+      "Modern cognitive researchers investigate how repression influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "schizophrenia_noun",
+    "word": "schizophrenia",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/.skizәu'fri:niә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/schizophrenia-us.mp3",
+    "definition_en": "n. any of several psychotic disorders characterized by distortions of reality and disturbances of thought and language and withdrawal from social contact",
+    "definition_zh": "n. 精神分裂症",
+    "examples": [
+      "Modern cognitive researchers investigate how schizophrenia influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "superego_noun",
+    "word": "superego",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "phonetic": "/.sju:pәr'i:gәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/superego-us.mp3",
+    "definition_en": "n. (psychoanalysis) that part of the unconscious mind that acts as a conscience",
+    "definition_zh": "n. 超自我",
+    "examples": [
+      "Modern cognitive researchers investigate how superego influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "hypochondria_noun",
+    "word": "hypochondria",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "心理学与心智认知",
-    "phonetic": "/'ɑ:tʃtaip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/archetype-us.mp3",
-    "definition_en": "N something that serves as a model or a basis for making copies",
-    "definition_zh": "n. 原型",
+    "phonetic": "/haipә'kɔndriә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hypochondria-us.mp3",
+    "definition_en": "n. chronic and abnormal anxiety about imaginary symptoms and ailments",
+    "definition_zh": "疑病, 季肋部",
     "examples": [
-      "Understanding archetype provides valuable insights into everyday communication."
+      "Modern cognitive researchers investigate how hypochondria influences decision-making patterns."
     ]
   },
   {
-    "id": "mesmeric_adjective",
-    "word": "mesmeric",
-    "part_of_speech": "adjective",
+    "id": "kleptomania_noun",
+    "word": "kleptomania",
+    "part_of_speech": "noun",
     "level": "C2",
     "topic": "心理学与心智认知",
-    "phonetic": "/mes'merik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mesmeric-us.mp3",
-    "definition_en": "S attracting and holding interest as if by a spell",
-    "definition_zh": "a. 催眠术的",
+    "phonetic": "/,kleptәu'meiniә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kleptomania-us.mp3",
+    "definition_en": "n. an irresistible impulse to steal in the absence of any economic motive",
+    "definition_zh": "n. 盗窃癖",
     "examples": [
-      "The committee analyzed a highly mesmeric perspective during the forum."
+      "Modern cognitive researchers investigate how kleptomania influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "megalomania_noun",
+    "word": "megalomania",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/.megәlә'meiniә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/megalomania-us.mp3",
+    "definition_en": "n. a psychological state characterized by delusions of grandeur",
+    "definition_zh": "n. 夸大狂",
+    "examples": [
+      "Modern cognitive researchers investigate how megalomania influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "melancholia_noun",
+    "word": "melancholia",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/,melәn'kәuljә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/melancholia-us.mp3",
+    "definition_en": "n. extreme depression characterized by tearful sadness and irrational fears",
+    "definition_zh": "n. 忧郁症",
+    "examples": [
+      "Modern cognitive researchers investigate how melancholia influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "solipsism_noun",
+    "word": "solipsism",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/'sɒlipsizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/solipsism-us.mp3",
+    "definition_en": "n. (philosophy) the philosophical theory that the self is all that you know to exist",
+    "definition_zh": "n. 唯我论",
+    "examples": [
+      "Modern cognitive researchers investigate how solipsism influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "somnambulism_noun",
+    "word": "somnambulism",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/sɒm'næmbjulizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/somnambulism-us.mp3",
+    "definition_en": "n walking by a person who is asleep",
+    "definition_zh": "n. 梦游病",
+    "examples": [
+      "Modern cognitive researchers investigate how somnambulism influences decision-making patterns."
+    ]
+  },
+  {
+    "id": "sublimation_noun",
+    "word": "sublimation",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "心理学与心智认知",
+    "phonetic": "/.sʌbli'meiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sublimation-us.mp3",
+    "definition_en": "n. (chemistry) a change directly from the solid to the gaseous state without becoming liquid n. (psychology) modifying the natural expression of an impulse or instinct (especially a sexual one) to one that is socially acceptable",
+    "definition_zh": "n. 净化, 升华作用, 高尚化",
+    "examples": [
+      "Modern cognitive researchers investigate how sublimation influences decision-making patterns."
     ]
   }
 ]

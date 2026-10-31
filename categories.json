@@ -1,97 +1,97 @@
 {
-  "version": "2.1.0",
-  "total_words": 14200,
+  "version": "4.0.0",
+  "total_words": 2080,
   "total_categories": 22,
   "cdn_base_pattern": "https://cdn.jsdelivr.net/gh/{username}/{repo}@{branch}/data/{category_id}.json",
   "categories": [
     {
-      "id": "psychology",
-      "name_en": "Psychology",
-      "name_zh": "心理学与心智认知",
-      "group": "academic",
-      "group_name_zh": "人文学科",
-      "icon": "🧠",
-      "slice_file": "data/psychology.json",
-      "word_count": 48,
+      "id": "food_beverages",
+      "name_en": "Drinks & Beverages",
+      "name_zh": "饮品、茶酒与水饮",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "☕",
+      "slice_file": "data/food_beverages.json",
+      "word_count": 139,
       "level_distribution": {
-        "A1": 2,
-        "A2": 7,
-        "B1": 10,
-        "B2": 13,
-        "C1": 14,
-        "C2": 2
+        "A1": 10,
+        "A2": 8,
+        "B1": 21,
+        "B2": 38,
+        "C1": 45,
+        "C2": 17
       }
     },
     {
-      "id": "politics",
-      "name_en": "Politics & Governance",
-      "name_zh": "政治学与公共治理",
-      "group": "academic",
-      "group_name_zh": "人文学科",
-      "icon": "🏛️",
-      "slice_file": "data/politics.json",
-      "word_count": 58,
+      "id": "food_fruits",
+      "name_en": "Fruits & Berries",
+      "name_zh": "水果与浆果坚果",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🍎",
+      "slice_file": "data/food_fruits.json",
+      "word_count": 66,
+      "level_distribution": {
+        "A1": 5,
+        "A2": 3,
+        "B1": 15,
+        "B2": 19,
+        "C1": 18,
+        "C2": 6
+      }
+    },
+    {
+      "id": "food_vegetables",
+      "name_en": "Vegetables & Greens",
+      "name_zh": "蔬菜根茎与菌类",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🥦",
+      "slice_file": "data/food_vegetables.json",
+      "word_count": 53,
+      "level_distribution": {
+        "A1": 6,
+        "A2": 1,
+        "B1": 8,
+        "B2": 18,
+        "C1": 15,
+        "C2": 5
+      }
+    },
+    {
+      "id": "food_meat_seafood",
+      "name_en": "Meat & Seafood",
+      "name_zh": "肉类、禽类与海鲜",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🥩",
+      "slice_file": "data/food_meat_seafood.json",
+      "word_count": 50,
       "level_distribution": {
         "A1": 4,
-        "A2": 5,
-        "B1": 18,
-        "B2": 27,
-        "C1": 4,
-        "C2": 0
-      }
-    },
-    {
-      "id": "philosophy",
-      "name_en": "Philosophy & Ethics",
-      "name_zh": "哲学与伦理思辨",
-      "group": "academic",
-      "group_name_zh": "人文学科",
-      "icon": "📜",
-      "slice_file": "data/philosophy.json",
-      "word_count": 17,
-      "level_distribution": {
-        "A1": 0,
-        "A2": 1,
-        "B1": 4,
-        "B2": 2,
-        "C1": 2,
-        "C2": 8
-      }
-    },
-    {
-      "id": "economics",
-      "name_en": "Economics & Finance",
-      "name_zh": "经济学与金融商贸",
-      "group": "academic",
-      "group_name_zh": "人文学科",
-      "icon": "📈",
-      "slice_file": "data/economics.json",
-      "word_count": 45,
-      "level_distribution": {
-        "A1": 0,
         "A2": 2,
-        "B1": 19,
-        "B2": 22,
-        "C1": 0,
-        "C2": 2
+        "B1": 10,
+        "B2": 15,
+        "C1": 14,
+        "C2": 5
       }
     },
     {
-      "id": "law_justice",
-      "name_en": "Law & Justice",
-      "name_zh": "法学与司法正义",
-      "group": "academic",
-      "group_name_zh": "人文学科",
-      "icon": "⚖️",
-      "slice_file": "data/law_justice.json",
-      "word_count": 47,
+      "id": "food_dining",
+      "name_en": "Menu & Culinary Arts",
+      "name_zh": "餐饮美食、菜单与烹饪",
+      "group": "food",
+      "group_name_zh": "食品与餐饮",
+      "icon": "🍽️",
+      "slice_file": "data/food_dining.json",
+      "word_count": 87,
       "level_distribution": {
-        "A1": 2,
-        "A2": 8,
-        "B1": 17,
-        "B2": 16,
-        "C1": 4,
-        "C2": 0
+        "A1": 18,
+        "A2": 1,
+        "B1": 22,
+        "B2": 26,
+        "C1": 15,
+        "C2": 5
       }
     },
     {
@@ -102,14 +102,14 @@
       "group_name_zh": "人类与生理",
       "icon": "🫀",
       "slice_file": "data/human_organs.json",
-      "word_count": 50,
+      "word_count": 90,
       "level_distribution": {
-        "A1": 12,
-        "A2": 7,
-        "B1": 20,
-        "B2": 10,
-        "C1": 1,
-        "C2": 0
+        "A1": 18,
+        "A2": 4,
+        "B1": 16,
+        "B2": 24,
+        "C1": 20,
+        "C2": 8
       }
     },
     {
@@ -120,13 +120,13 @@
       "group_name_zh": "人类与生理",
       "icon": "🎭",
       "slice_file": "data/human_emotions.json",
-      "word_count": 59,
+      "word_count": 79,
       "level_distribution": {
-        "A1": 3,
-        "A2": 10,
-        "B1": 21,
-        "B2": 16,
-        "C1": 3,
+        "A1": 8,
+        "A2": 4,
+        "B1": 15,
+        "B2": 26,
+        "C1": 20,
         "C2": 6
       }
     },
@@ -138,14 +138,14 @@
       "group_name_zh": "人类与生理",
       "icon": "🌟",
       "slice_file": "data/personality_traits.json",
-      "word_count": 55,
+      "word_count": 74,
       "level_distribution": {
-        "A1": 5,
-        "A2": 12,
-        "B1": 19,
-        "B2": 13,
-        "C1": 6,
-        "C2": 0
+        "A1": 4,
+        "A2": 5,
+        "B1": 15,
+        "B2": 24,
+        "C1": 20,
+        "C2": 6
       }
     },
     {
@@ -158,138 +158,102 @@
       "slice_file": "data/interpersonal_relations.json",
       "word_count": 75,
       "level_distribution": {
-        "A1": 37,
-        "A2": 11,
-        "B1": 13,
-        "B2": 14,
-        "C1": 0,
-        "C2": 0
+        "A1": 15,
+        "A2": 0,
+        "B1": 18,
+        "B2": 21,
+        "C1": 15,
+        "C2": 6
       }
     },
     {
-      "id": "food_fruits",
-      "name_en": "Fruits & Berries",
-      "name_zh": "水果与浆果坚果",
-      "group": "food",
-      "group_name_zh": "食品与餐饮",
-      "icon": "🍎",
-      "slice_file": "data/food_fruits.json",
-      "word_count": 25,
+      "id": "psychology",
+      "name_en": "Psychology",
+      "name_zh": "心理学与心智认知",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "🧠",
+      "slice_file": "data/psychology.json",
+      "word_count": 80,
       "level_distribution": {
-        "A1": 9,
-        "A2": 4,
-        "B1": 3,
-        "B2": 7,
-        "C1": 1,
-        "C2": 1
+        "A1": 3,
+        "A2": 3,
+        "B1": 9,
+        "B2": 26,
+        "C1": 32,
+        "C2": 7
       }
     },
     {
-      "id": "food_vegetables",
-      "name_en": "Vegetables & Greens",
-      "name_zh": "蔬菜根茎与菌类",
-      "group": "food",
-      "group_name_zh": "食品与餐饮",
-      "icon": "🥦",
-      "slice_file": "data/food_vegetables.json",
-      "word_count": 24,
-      "level_distribution": {
-        "A1": 9,
-        "A2": 10,
-        "B1": 3,
-        "B2": 2,
-        "C1": 0,
-        "C2": 0
-      }
-    },
-    {
-      "id": "food_meat_seafood",
-      "name_en": "Meat & Seafood",
-      "name_zh": "肉类、禽类与海鲜",
-      "group": "food",
-      "group_name_zh": "食品与餐饮",
-      "icon": "🥩",
-      "slice_file": "data/food_meat_seafood.json",
-      "word_count": 17,
+      "id": "politics",
+      "name_en": "Politics & Governance",
+      "name_zh": "政治学与公共治理",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "🏛️",
+      "slice_file": "data/politics.json",
+      "word_count": 105,
       "level_distribution": {
         "A1": 3,
         "A2": 5,
-        "B1": 5,
-        "B2": 4,
-        "C1": 0,
-        "C2": 0
+        "B1": 15,
+        "B2": 46,
+        "C1": 31,
+        "C2": 5
       }
     },
     {
-      "id": "food_dining",
-      "name_en": "Menu & Culinary Arts",
-      "name_zh": "餐饮美食、菜单与烹饪",
-      "group": "food",
-      "group_name_zh": "食品与餐饮",
-      "icon": "🍽️",
-      "slice_file": "data/food_dining.json",
-      "word_count": 59,
+      "id": "philosophy",
+      "name_en": "Philosophy & Ethics",
+      "name_zh": "哲学与伦理思辨",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "📜",
+      "slice_file": "data/philosophy.json",
+      "word_count": 78,
       "level_distribution": {
-        "A1": 22,
-        "A2": 20,
-        "B1": 10,
-        "B2": 7,
-        "C1": 0,
-        "C2": 0
+        "A1": 6,
+        "A2": 1,
+        "B1": 8,
+        "B2": 20,
+        "C1": 28,
+        "C2": 15
       }
     },
     {
-      "id": "food_beverages",
-      "name_en": "Drinks & Beverages",
-      "name_zh": "饮品、茶酒与水饮",
-      "group": "food",
-      "group_name_zh": "食品与餐饮",
-      "icon": "☕",
-      "slice_file": "data/food_beverages.json",
-      "word_count": 31,
+      "id": "economics",
+      "name_en": "Economics & Finance",
+      "name_zh": "经济学与金融商贸",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "📈",
+      "slice_file": "data/economics.json",
+      "word_count": 110,
       "level_distribution": {
         "A1": 8,
-        "A2": 8,
-        "B1": 6,
-        "B2": 9,
-        "C1": 0,
-        "C2": 0
+        "A2": 1,
+        "B1": 18,
+        "B2": 46,
+        "C1": 29,
+        "C2": 8
       }
     },
     {
-      "id": "medicine_healthcare",
-      "name_en": "Medicine & Health",
-      "name_zh": "临床医学与医药健康",
-      "group": "tech_nature",
-      "group_name_zh": "科技与自然",
-      "icon": "🏥",
-      "slice_file": "data/medicine_healthcare.json",
-      "word_count": 63,
+      "id": "law_justice",
+      "name_en": "Law & Justice",
+      "name_zh": "法学与司法正义",
+      "group": "academic",
+      "group_name_zh": "人文学科",
+      "icon": "⚖️",
+      "slice_file": "data/law_justice.json",
+      "word_count": 121,
       "level_distribution": {
-        "A1": 7,
-        "A2": 11,
-        "B1": 26,
-        "B2": 17,
-        "C1": 0,
-        "C2": 2
-      }
-    },
-    {
-      "id": "nature_environment",
-      "name_en": "Nature & Ecology",
-      "name_zh": "自然生态与地理环境",
-      "group": "tech_nature",
-      "group_name_zh": "科技与自然",
-      "icon": "🌿",
-      "slice_file": "data/nature_environment.json",
-      "word_count": 68,
-      "level_distribution": {
-        "A1": 18,
-        "A2": 16,
-        "B1": 19,
-        "B2": 8,
-        "C1": 4,
-        "C2": 3
+        "A1": 1,
+        "A2": 4,
+        "B1": 16,
+        "B2": 47,
+        "C1": 38,
+        "C2": 15
       }
     },
     {
@@ -300,50 +264,86 @@
       "group_name_zh": "科技与自然",
       "icon": "💻",
       "slice_file": "data/science_tech.json",
-      "word_count": 2816,
+      "word_count": 130,
       "level_distribution": {
-        "A1": 382,
-        "A2": 498,
-        "B1": 782,
-        "B2": 729,
-        "C1": 204,
-        "C2": 221
+        "A1": 4,
+        "A2": 4,
+        "B1": 33,
+        "B2": 50,
+        "C1": 22,
+        "C2": 17
+      }
+    },
+    {
+      "id": "medicine_healthcare",
+      "name_en": "Medicine & Health",
+      "name_zh": "临床医学与医药健康",
+      "group": "tech_nature",
+      "group_name_zh": "科技与自然",
+      "icon": "🏥",
+      "slice_file": "data/medicine_healthcare.json",
+      "word_count": 142,
+      "level_distribution": {
+        "A1": 5,
+        "A2": 6,
+        "B1": 27,
+        "B2": 55,
+        "C1": 37,
+        "C2": 12
+      }
+    },
+    {
+      "id": "nature_environment",
+      "name_en": "Nature & Ecology",
+      "name_zh": "自然生态与地理环境",
+      "group": "tech_nature",
+      "group_name_zh": "科技与自然",
+      "icon": "🌿",
+      "slice_file": "data/nature_environment.json",
+      "word_count": 118,
+      "level_distribution": {
+        "A1": 14,
+        "A2": 1,
+        "B1": 21,
+        "B2": 46,
+        "C1": 31,
+        "C2": 5
       }
     },
     {
       "id": "travel_transport",
       "name_en": "Travel & Transportation",
-      "name_zh": "旅行出行与城市交通",
+      "name_zh": "旅行出行与交通住宿",
       "group": "society_daily",
       "group_name_zh": "生活与社会",
       "icon": "✈️",
       "slice_file": "data/travel_transport.json",
-      "word_count": 49,
+      "word_count": 128,
       "level_distribution": {
-        "A1": 22,
-        "A2": 15,
-        "B1": 6,
-        "B2": 6,
-        "C1": 0,
-        "C2": 0
+        "A1": 13,
+        "A2": 18,
+        "B1": 38,
+        "B2": 39,
+        "C1": 15,
+        "C2": 5
       }
     },
     {
       "id": "work_career",
       "name_en": "Work & Business",
-      "name_zh": "职场发展与商业管理",
+      "name_zh": "职场办公与商业运营",
       "group": "society_daily",
       "group_name_zh": "生活与社会",
       "icon": "💼",
       "slice_file": "data/work_career.json",
-      "word_count": 2595,
+      "word_count": 83,
       "level_distribution": {
-        "A1": 370,
-        "A2": 417,
-        "B1": 683,
-        "B2": 700,
-        "C1": 210,
-        "C2": 215
+        "A1": 4,
+        "A2": 3,
+        "B1": 19,
+        "B2": 35,
+        "C1": 16,
+        "C2": 6
       }
     },
     {
@@ -354,14 +354,14 @@
       "group_name_zh": "生活与社会",
       "icon": "🎨",
       "slice_file": "data/arts_literature.json",
-      "word_count": 2729,
+      "word_count": 89,
       "level_distribution": {
-        "A1": 399,
-        "A2": 471,
-        "B1": 693,
-        "B2": 702,
-        "C1": 210,
-        "C2": 254
+        "A1": 13,
+        "A2": 1,
+        "B1": 27,
+        "B2": 26,
+        "C1": 16,
+        "C2": 6
       }
     },
     {
@@ -372,32 +372,32 @@
       "group_name_zh": "生活与社会",
       "icon": "🎓",
       "slice_file": "data/education_learning.json",
-      "word_count": 2523,
+      "word_count": 77,
       "level_distribution": {
-        "A1": 349,
-        "A2": 435,
-        "B1": 710,
-        "B2": 668,
-        "C1": 171,
-        "C2": 190
+        "A1": 8,
+        "A2": 3,
+        "B1": 18,
+        "B2": 25,
+        "C1": 18,
+        "C2": 5
       }
     },
     {
       "id": "daily_lifestyle",
       "name_en": "Daily Lifestyle & Home",
-      "name_zh": "日常生活与家居事物",
+      "name_zh": "日常生活与家居服饰",
       "group": "society_daily",
       "group_name_zh": "生活与社会",
       "icon": "🏠",
       "slice_file": "data/daily_lifestyle.json",
-      "word_count": 2747,
+      "word_count": 106,
       "level_distribution": {
-        "A1": 465,
-        "A2": 462,
-        "B1": 729,
-        "B2": 684,
-        "C1": 211,
-        "C2": 196
+        "A1": 19,
+        "A2": 16,
+        "B1": 26,
+        "B2": 30,
+        "C1": 12,
+        "C2": 3
       }
     }
   ]

@@ -1,213 +1,198 @@
 [
   {
-    "id": "parties_noun",
-    "word": "parties",
+    "id": "city_noun",
+    "word": "city",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "政治学与公共治理",
-    "phonetic": "/parties/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parties-us.mp3",
-    "definition_en": "N an organization to gain political power",
-    "definition_zh": "n. 当事人；聚会；党派；政党机关；同行者（party的复数）",
+    "phonetic": "/'siti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/city-us.mp3",
+    "definition_en": "n. a large and densely populated urban area; may include several independent administrative districts n. an incorporated administrative district established by state charter n. people living in a large densely populated municipality",
+    "definition_zh": "n. 城市, 市",
     "examples": [
-      "Understanding parties provides valuable insights into everyday communication."
+      "Delegates debated the role of city in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "party_noun",
-    "word": "party",
+    "id": "country_noun",
+    "word": "country",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "政治学与公共治理",
-    "phonetic": "/'pɑ:ti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/party-us.mp3",
-    "definition_en": "An organization to gain political power",
-    "definition_zh": "n. 宴会, 党, 政党, 团体, 当事人, 聚会",
+    "phonetic": "/'kʌntri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/country-us.mp3",
+    "definition_en": "n. the territory occupied by a nation n. an area outside of cities and towns",
+    "definition_zh": "n. 国家, 乡村, 地区, 故乡",
     "examples": [
-      "The new policy addressing party was debated extensively by the committee."
+      "Delegates debated the role of country in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "party_adjective",
-    "word": "party",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/'pɑ:ti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/party-us.mp3",
-    "definition_en": "An organization to gain political power",
-    "definition_zh": "n. 宴会, 党, 政党, 团体, 当事人, 聚会",
-    "examples": [
-      "The committee analyzed a highly party perspective during the forum."
-    ]
-  },
-  {
-    "id": "vote_noun",
-    "word": "vote",
+    "id": "leader_noun",
+    "word": "leader",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "政治学与公共治理",
-    "phonetic": "/vәut/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vote-us.mp3",
-    "definition_en": "A choice that is made by counting the number of people in favor of each alternative",
-    "definition_zh": "n. 投票, 选举, 选票, 表决, 选举权, 得票数",
+    "phonetic": "/'li:dә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leader-us.mp3",
+    "definition_en": "n. a person who rules or guides or inspires others",
+    "definition_zh": "n. 领导者, 社论, 指挥, 领袖, 领唱者, 前导字符",
     "examples": [
-      "The new policy addressing vote was debated extensively by the committee."
+      "Delegates debated the role of leader in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "benches_noun",
-    "word": "benches",
+    "id": "peace_noun",
+    "word": "peace",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "政治学与公共治理",
-    "phonetic": "/bentʃiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/benches-us.mp3",
-    "definition_en": "Pl.  of Bench",
-    "definition_zh": "n. 法官( bench的名词复数 ); （木制）长凳; （英国议会的）议员席; 场边的运动员休息区",
+    "phonetic": "/pi:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peace-us.mp3",
+    "definition_en": "n. the state prevailing during the absence of war n. harmonious relations; freedom from disputes n. the absence of mental stress or anxiety n. the general security of public places",
+    "definition_zh": "n. 和平, 和约, 治安, 和睦, 安宁, 静寂",
     "examples": [
-      "Understanding benches provides valuable insights into everyday communication."
+      "Delegates debated the role of peace in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "public_adjective",
+    "word": "public",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'pʌblik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/public-us.mp3",
+    "definition_en": "n. a body of people sharing some common interest a. not private; open to or concerning the people as a whole s. affecting the people or community as a whole",
+    "definition_zh": "a. 公众的, 公共的, 公立的, 公用的",
+    "examples": [
+      "Delegates debated the role of public in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "rule_noun",
+    "word": "rule",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/ru:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rule-us.mp3",
+    "definition_en": "n. a principle or condition that customarily governs behavior n. prescribed guide for conduct or action n. (linguistics) a rule describing (or prescribing) a linguistic practice n. the duration of a monarch's or government's power",
+    "definition_zh": "n. 规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线",
+    "examples": [
+      "Delegates debated the role of rule in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "state_noun",
+    "word": "state",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/steit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/state-us.mp3",
+    "definition_en": "n. the territory occupied by one of the constituent administrative districts of a nation n. the way something is with respect to its main attributes n. the group of people comprising the government of a sovereign state n. a politically organized body of people under a single government",
+    "definition_zh": "n. 州, 状态, 情形, 国家, 政府, 领土, 国务, 社会地位",
+    "examples": [
+      "Delegates debated the role of state in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "war_noun",
+    "word": "war",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/wɒ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/war-us.mp3",
+    "definition_en": "n. the waging of armed conflict against an enemy n. a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply n. an active struggle between competing entities n. a concerted campaign to end something that is injurious",
+    "definition_zh": "n. 战争, 战争状态, 战术, 军事, 冲突, 斗争, 竞争",
+    "examples": [
+      "Delegates debated the role of war in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "bill_noun",
+    "word": "bill",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/bil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bill-us.mp3",
+    "definition_en": "n. a statute in draft before it becomes law n. an itemized statement of money owed for goods shipped or services rendered n. a piece of paper money (especially one issued by a central bank) n. the entertainment offered at a public presentation",
+    "definition_zh": "n. 帐单, 清单, 钞票, 鸟嘴, 广告, 法案, 票据",
+    "examples": [
+      "Delegates debated the role of bill in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "candidate_noun",
+    "word": "candidate",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'kændideit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/candidate-us.mp3",
+    "definition_en": "n. someone who is considered for something (for an office or prize or honor etc.)",
+    "definition_zh": "n. 候选人, 投考者",
+    "examples": [
+      "Delegates debated the role of candidate in maintaining democratic governance and institutional integrity."
     ]
   },
   {
     "id": "citizen_noun",
     "word": "citizen",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "phonetic": "/'sitizn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/citizen-us.mp3",
-    "definition_en": "A legally recognized subject or national of a state or commonwealth.",
-    "definition_zh": "公民，市民",
+    "definition_en": "n. a native or naturalized member of a state or other political community",
+    "definition_zh": "n. 市民, 公民",
     "examples": [
-      "Active citizens participate routinely in civic forums."
+      "Delegates debated the role of citizen in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "embassy_noun",
+    "word": "embassy",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'embәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embassy-us.mp3",
+    "definition_en": "n. a diplomatic building where ambassadors live or work n. an ambassador and his entourage collectively",
+    "definition_zh": "n. 大使馆, 大使馆全体人员",
+    "examples": [
+      "Delegates debated the role of embassy in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "freedom_noun",
+    "word": "freedom",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'fri:dәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/freedom-us.mp3",
+    "definition_en": "n. the condition of being free; the power to act or speak or think without externally imposed restraints",
+    "definition_zh": "n. 自由, 坦率, 特权",
+    "examples": [
+      "Delegates debated the role of freedom in maintaining democratic governance and institutional integrity."
     ]
   },
   {
     "id": "government_noun",
     "word": "government",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "phonetic": "/'gʌvәnmәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/government-us.mp3",
-    "definition_en": "The governing body of a nation, state, or community.",
-    "definition_zh": "政府，治理体系",
+    "definition_en": "n. the organization that is the governing authority of a political unit n. the act of governing; exercising authority n. (government) the system or form by which a community or other political unit is governed",
+    "definition_zh": "n. 政府, 内阁",
     "examples": [
-      "The new government promised to prioritize healthcare reform.",
-      "Local government administers community libraries and road maintenance."
-    ]
-  },
-  {
-    "id": "political_adjective",
-    "word": "political",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "政治学与公共治理",
-    "phonetic": "/pә'litikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/political-us.mp3",
-    "definition_en": "Involving or characteristic of politics or parties or politicians",
-    "definition_zh": "a. 政治的, 政治上的, 政党的, 从事政治的",
-    "examples": [
-      "The committee analyzed a highly political perspective during the forum."
-    ]
-  },
-  {
-    "id": "political_noun",
-    "word": "political",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "政治学与公共治理",
-    "phonetic": "/pә'litikl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/political-us.mp3",
-    "definition_en": "Involving or characteristic of politics or parties or politicians",
-    "definition_zh": "a. 政治的, 政治上的, 政党的, 从事政治的",
-    "examples": [
-      "The new policy addressing political was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "citizenship_noun",
-    "word": "citizenship",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/'sitizәnʃip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/citizenship-us.mp3",
-    "definition_en": "The status of a citizen with rights and duties",
-    "definition_zh": "n. 国籍, 市民权, 市民的身份",
-    "examples": [
-      "The new policy addressing citizenship was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "constitution_noun",
-    "word": "constitution",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/.kɒnsti'tju:ʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/constitution-us.mp3",
-    "definition_en": "The act of forming or establishing something",
-    "definition_zh": "n. 构成, 宪法, 体格",
-    "examples": [
-      "The new policy addressing constitution was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "democratic_adjective",
-    "word": "democratic",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/.demә'krætik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/democratic-us.mp3",
-    "definition_en": "Characterized by or advocating or based upon the principles of democracy or social equality",
-    "definition_zh": "a. 民主的",
-    "examples": [
-      "The committee analyzed a highly democratic perspective during the forum."
-    ]
-  },
-  {
-    "id": "democratic_noun",
-    "word": "democratic",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/.demә'krætik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/democratic-us.mp3",
-    "definition_en": "Characterized by or advocating or based upon the principles of democracy or social equality",
-    "definition_zh": "a. 民主的",
-    "examples": [
-      "The new policy addressing democratic was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "election_noun",
-    "word": "election",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/i'lekʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/election-us.mp3",
-    "definition_en": "A vote to select the winner of a position or political office",
-    "definition_zh": "n. 选举, 当选, 选择权",
-    "examples": [
-      "The new policy addressing election was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "govern_verb",
-    "word": "govern",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/'gʌvәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/govern-us.mp3",
-    "definition_en": "Direct or strongly influence the behavior of",
-    "definition_zh": "v. 统治, 支配, 管理",
-    "examples": [
-      "Officials must govern institutional guidelines to uphold public integrity."
+      "Delegates debated the role of government in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -218,10 +203,10 @@
     "topic": "政治学与公共治理",
     "phonetic": "/'gʌvәnә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/governor-us.mp3",
-    "definition_en": "The head of a state government",
+    "definition_en": "n. the head of a state government n. a control that maintains a steady speed in a machine (as by controlling the supply of fuel)",
     "definition_zh": "n. (美)州长, (英)总督, 统治者, 管理者, 理事",
     "examples": [
-      "The new policy addressing governor was debated extensively by the committee."
+      "Delegates debated the role of governor in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -232,24 +217,38 @@
     "topic": "政治学与公共治理",
     "phonetic": "/'mєә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mayor-us.mp3",
-    "definition_en": "The head of a city government",
+    "definition_en": "n. the head of a city government",
     "definition_zh": "n. 市长",
     "examples": [
-      "The new policy addressing mayor was debated extensively by the committee."
+      "Delegates debated the role of mayor in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "pitt_noun",
-    "word": "pitt",
+    "id": "minister_noun",
+    "word": "minister",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "政治学与公共治理",
-    "phonetic": "/pit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pitt-us.mp3",
-    "definition_en": "A British playwright who created the fictional character Sweeney Todd (1799-1855)",
-    "definition_zh": "n. 皮特钻石（品牌名）；皮特（姓氏, 特指英国政治家父子威廉姆斯皮特）",
+    "phonetic": "/'ministә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/minister-us.mp3",
+    "definition_en": "n. a person appointed to a high office in the government n. a diplomat representing one government to another; ranks below ambassador n. the job of a head of a government department v. attend to the wants and needs of others",
+    "definition_zh": "n. 部长, 牧师, 公使",
     "examples": [
-      "Understanding pitt provides valuable insights into everyday communication."
+      "Delegates debated the role of minister in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "party_noun",
+    "word": "party",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'pɑ:ti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/party-us.mp3",
+    "definition_en": "n. an organization to gain political power n. a group of people gathered together for pleasure n. a band of people associated temporarily in some activity n. an occasion on which people can assemble for social interaction and entertainment",
+    "definition_zh": "n. 宴会, 党, 政党, 团体, 当事人, 聚会",
+    "examples": [
+      "Delegates debated the role of party in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -260,207 +259,290 @@
     "topic": "政治学与公共治理",
     "phonetic": "/'pɒlisi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/policy-us.mp3",
-    "definition_en": "A course or principle of action adopted or proposed by a government, party, or business.",
-    "definition_zh": "政策，方针，谋略",
+    "definition_en": "n. a plan of action adopted by an individual or social group n. a line of argument rationalizing the course of action of a government n. written contract or certificate of insurance",
+    "definition_zh": "n. 政策, 方针, 策略, 保险单",
     "examples": [
-      "The foreign policy focuses on strengthening bilateral trade ties.",
-      "Strict environmental policies have curtailed industrial pollution."
+      "Delegates debated the role of policy in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "politician_noun",
-    "word": "politician",
+    "id": "power_noun",
+    "word": "power",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "政治学与公共治理",
-    "phonetic": "/.pɒli'tiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/politician-us.mp3",
-    "definition_en": "A leader engaged in civil administration",
-    "definition_zh": "n. 政客, 政治家, 从事党派政治的人",
+    "phonetic": "/'pauә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/power-us.mp3",
+    "definition_en": "n. possession of controlling influence n. (physics) the rate of doing work; measured in watts (= joules/second) n. one possessing or exercising power or influence or authority v. supply the force or power for the functioning of",
+    "definition_zh": "n. 力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率",
     "examples": [
-      "The new policy addressing politician was debated extensively by the committee."
+      "Delegates debated the role of power in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "politicians_noun",
-    "word": "politicians",
+    "id": "president_noun",
+    "word": "president",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "政治学与公共治理",
-    "phonetic": "/pɒlɪ'tɪʃnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/politicians-us.mp3",
-    "definition_en": "A leader engaged in civil administration",
-    "definition_zh": "n. 政治家( politician的复数形式 ); 政客, 玩弄权术者",
+    "phonetic": "/'prezidәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/president-us.mp3",
+    "definition_en": "n. an executive officer of a firm or corporation n. the chief executive of a republic n. the officer who presides at the meetings of an organization n. the head administrative officer of a college or university",
+    "definition_zh": "n. 总统, 总裁, 董事长, (学院)院长, (大学)校长, 主管人, 主持人",
     "examples": [
-      "The new policy addressing politicians was debated extensively by the committee."
+      "Delegates debated the role of president in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "politics_noun",
-    "word": "politics",
+    "id": "vote_verb",
+    "word": "vote",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/vәut/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vote-us.mp3",
+    "definition_en": "n. a choice that is made by counting the number of people in favor of each alternative n. the opinion of a group as determined by voting n. a body of voters who have the same interests n. the total number of voters who participated",
+    "definition_zh": "vi. 投票, 选举",
+    "examples": [
+      "Delegates debated the role of vote in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "voting_noun",
+    "word": "voting",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "政治学与公共治理",
-    "phonetic": "/'pɒlitiks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/politics-us.mp3",
-    "definition_en": "Social relations involving intrigue to gain authority or power",
-    "definition_zh": "n. 政治, 政治学, 政见, 政治活动",
+    "phonetic": "/'vәutiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/voting-us.mp3",
+    "definition_en": "n a choice that is made by counting the number of people in favor of each alternative v express one's preference for a candidate or for a measure or resolution; cast a vote v express one's choice or preference by vote v express a choice or opinion v be guided by in voting v bring into existence or make available by vote",
+    "definition_zh": "n. 投票, 选举",
     "examples": [
-      "The new policy addressing politics was debated extensively by the committee."
+      "Delegates debated the role of voting in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "representative_noun",
-    "word": "representative",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/.repri'zentәtiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/representative-us.mp3",
-    "definition_en": "A person who represents others",
-    "definition_zh": "n. 代表, 众议员, 典型",
-    "examples": [
-      "Understanding representative provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "representatives_noun",
-    "word": "representatives",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/reprɪ'zentətɪvz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/representatives-us.mp3",
-    "definition_en": "A person who represents others",
-    "definition_zh": "n. 代表( representative的复数形式 ); 代理人; 典型人物; [常作 R-]（美国）众议院议员",
-    "examples": [
-      "Understanding representatives provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "republic_noun",
-    "word": "republic",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/ri'pʌblik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/republic-us.mp3",
-    "definition_en": "A form of government whose head of state is not a monarch",
-    "definition_zh": "n. 共和国, 共和政体, 团体, 界",
-    "examples": [
-      "The new policy addressing republic was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "republics_noun",
-    "word": "republics",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/riˈpʌbliks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/republics-us.mp3",
-    "definition_en": "A political system in which the supreme power lies in a body of citizens who can elect people to represent them",
-    "definition_zh": "n. 共和国( republic的复数形式 ); 共和政体; 成员具有平等权利的)团体; 界",
-    "examples": [
-      "The new policy addressing republics was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "tendencies_noun",
-    "word": "tendencies",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/ˈtendənsiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tendencies-us.mp3",
-    "definition_en": "Pl.  of Tendency",
-    "definition_zh": "n. 倾向, 趋势( tendency的名词复数 ); （政党内的）极端派别",
-    "examples": [
-      "Understanding tendencies provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "alliances_noun",
-    "word": "alliances",
+    "id": "activism_noun",
+    "word": "activism",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/əˈlaiənsiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alliances-us.mp3",
-    "definition_en": "The state of being allied or confederated",
-    "definition_zh": "n. （国家、政党等的）结盟( alliance的复数形式 ); 同盟国; 结盟的社会; 联姻",
+    "phonetic": "/'æktivizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/activism-us.mp3",
+    "definition_en": "n. a policy of taking direct and militant action to achieve a political or social goal",
+    "definition_zh": "n. 激进主义, 行动主义, 能动论",
     "examples": [
-      "Understanding alliances provides valuable insights into everyday communication."
+      "Delegates debated the role of activism in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "ballot_noun",
-    "word": "ballot",
+    "id": "administration_noun",
+    "word": "administration",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/'bælәt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ballot-us.mp3",
-    "definition_en": "A document listing the alternatives that is used in voting",
-    "definition_zh": "n. 投票, 投票用纸, 抽签",
+    "phonetic": "/әd.mini'streiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/administration-us.mp3",
+    "definition_en": "n. a method of tending to or managing the affairs of a some group of people (especially the group's business affairs) n. the persons (or committees or departments etc.) who make up a body for the purpose of administering something n. the act of administering medication n. the act of meting out justice according to the law",
+    "definition_zh": "n. 行政, 管理, 政府机关",
     "examples": [
-      "The new policy addressing ballot was debated extensively by the committee."
+      "Delegates debated the role of administration in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "ballots_noun",
-    "word": "ballots",
+    "id": "alliance_noun",
+    "word": "alliance",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/ˈbæləts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ballots-us.mp3",
-    "definition_en": "N a document listing the alternatives that is used in voting",
-    "definition_zh": "n. 投票表决( ballot的名词复数 ); 选举; 选票; 投票总数",
+    "phonetic": "/ә'laiәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alliance-us.mp3",
+    "definition_en": "n. the state of being allied or confederated n. a connection based on kinship or marriage or common interest n. an organization of people (or countries) involved in a pact or treaty n. a formal agreement establishing an association or alliance between nations or other groups to achieve a particular aim",
+    "definition_zh": "n. 联盟, 联合",
     "examples": [
-      "The new policy addressing ballots was debated extensively by the committee."
+      "Delegates debated the role of alliance in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "bureaucracy_noun",
-    "word": "bureaucracy",
+    "id": "ambassador_noun",
+    "word": "ambassador",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/bjuә'rɒkrәsi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bureaucracy-us.mp3",
-    "definition_en": "A system of government in which most decisions are made by state officials rather than elected representatives.",
-    "definition_zh": "官僚机构，繁文缛节",
+    "phonetic": "/æm'bæsәdә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambassador-us.mp3",
+    "definition_en": "n. a diplomat of the highest rank; accredited as representative from one country to another n. an informal representative",
+    "definition_zh": "n. 大使",
     "examples": [
-      "Excessive bureaucratic paperwork stifled small business creation."
+      "Delegates debated the role of ambassador in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "chancellor_noun",
-    "word": "chancellor",
+    "id": "asylum_noun",
+    "word": "asylum",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/'tʃɑ:nsәlә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chancellor-us.mp3",
-    "definition_en": "The person who is head of state (in several countries)",
-    "definition_zh": "n. 大臣, 总理, 首相, 大使馆/领事馆的一等秘书, 司法官, 大学校长",
+    "phonetic": "/ә'sailәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/asylum-us.mp3",
+    "definition_en": "n a shelter from danger or hardship n a hospital for mentally incompetent or unbalanced person",
+    "definition_zh": "n. 庇护, 收容所",
     "examples": [
-      "Maintaining proper health supports the optimal function of the chancellor."
+      "Delegates debated the role of asylum in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "commonwealth_noun",
-    "word": "commonwealth",
+    "id": "boycott_noun",
+    "word": "boycott",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/'kɔmәnwelθ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/commonwealth-us.mp3",
-    "definition_en": "The official name of some states in the United States (Massachusetts and Pennsylvania and Virginia and Kentucky) and associated territories (Puerto Rico)",
-    "definition_zh": "n. 共和国；联邦；国民整体",
+    "phonetic": "/'bɒikɒt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boycott-us.mp3",
+    "definition_en": "n. a group's refusal to have commercial dealings with some organization in protest against its policies v. refuse to sponsor; refuse to do business with",
+    "definition_zh": "n. 联合抵制",
     "examples": [
-      "The new policy addressing commonwealth was debated extensively by the committee."
+      "Delegates debated the role of boycott in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "cabinet_noun",
+    "word": "cabinet",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'kæbinit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cabinet-us.mp3",
+    "definition_en": "n. a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display n. persons appointed by a head of state to head executive departments of government and act as official advisers n. a storage compartment for clothes and valuables; usually it has a lock n. housing for electronic instruments, as radio or television",
+    "definition_zh": "n. 橱柜, 内阁",
+    "examples": [
+      "Delegates debated the role of cabinet in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "campaign_noun",
+    "word": "campaign",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/kæm'pein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/campaign-us.mp3",
+    "definition_en": "n. a series of actions advancing a principle or tending toward a particular end n. several related operations aimed at achieving a particular goal (usually within geographical and temporal constraints) n. an overland journey by hunters (especially in Africa) v. run, stand, or compete for an office or a position",
+    "definition_zh": "n. 战役, 运动, 竞选运动",
+    "examples": [
+      "Delegates debated the role of campaign in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "capitalism_noun",
+    "word": "capitalism",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'kæpitәlizәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/capitalism-us.mp3",
+    "definition_en": "n. an economic system based on private ownership of capital",
+    "definition_zh": "n. 资本主义",
+    "examples": [
+      "Delegates debated the role of capitalism in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "coalition_noun",
+    "word": "coalition",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/.kәuә'liʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coalition-us.mp3",
+    "definition_en": "n. the state of being combined into one body",
+    "definition_zh": "n. 结合体, 结合, 联合",
+    "examples": [
+      "Delegates debated the role of coalition in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "communism_noun",
+    "word": "communism",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'kɒmjunizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/communism-us.mp3",
+    "definition_en": "n. a form of socialism that abolishes private ownership n. a political theory favoring collectivism in a classless society",
+    "definition_zh": "n. 共产主义",
+    "examples": [
+      "Delegates debated the role of communism in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "congress_noun",
+    "word": "congress",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'kɒŋgres/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/congress-us.mp3",
+    "definition_en": "n. the legislature of the United States government n. a meeting of elected or appointed representatives n. a national legislative assembly",
+    "definition_zh": "n. 国会, 会议, 讨论会",
+    "examples": [
+      "Delegates debated the role of congress in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "conservatism_noun",
+    "word": "conservatism",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/kәn'sә:vәtizәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conservatism-us.mp3",
+    "definition_en": "n. a political or theological orientation advocating the preservation of the best in society and opposing radical changes",
+    "definition_zh": "n. 保守, 守旧性, 保守主义, 保守党的主张和政策, 保守党",
+    "examples": [
+      "Delegates debated the role of conservatism in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "convention_noun",
+    "word": "convention",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/kәn'venʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/convention-us.mp3",
+    "definition_en": "n. a large formal assembly n. something regarded as a normative example n. (diplomacy) an international agreement n. the act of convening",
+    "definition_zh": "n. 大会, 协定, 惯例, 约定",
+    "examples": [
+      "Delegates debated the role of convention in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "corruption_noun",
+    "word": "corruption",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/kә'rʌpʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corruption-us.mp3",
+    "definition_en": "n. decay of matter (as by rot or oxidation) n. moral perversion; impairment of virtue and moral principles n. destroying someone's (or some group's) honesty or loyalty; undermining moral integrity n. inducement (as of a public official) by improper means (as bribery) to violate duty (as by commiting a felony)",
+    "definition_zh": "n. 腐败, 堕落, 贪污",
+    "examples": [
+      "Delegates debated the role of corruption in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "delegate_noun",
+    "word": "delegate",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'deligeit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/delegate-us.mp3",
+    "definition_en": "n. a person appointed or elected to represent others v. transfer power to someone v. give an assignment to (a person) to a post, or assign a task to (a person)",
+    "definition_zh": "n. 代表",
+    "examples": [
+      "Delegates debated the role of delegate in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -471,25 +553,24 @@
     "topic": "政治学与公共治理",
     "phonetic": "/di'mɒkrәsi/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/democracy-us.mp3",
-    "definition_en": "A system of government by the whole population typically through elected representatives.",
-    "definition_zh": "民主，民主制度",
+    "definition_en": "n. the political orientation of those who favor government by the people or by their elected representatives n. a political system in which the supreme power lies in a body of citizens who can elect people to represent them",
+    "definition_zh": "n. 民主政治, 民主主义",
     "examples": [
-      "A free press serves as an indispensable pillar of healthy democracy.",
-      "The transition toward constitutional democracy took several turbulent decades."
+      "Civic participation and free elections form the cornerstone of a vibrant democracy."
     ]
   },
   {
-    "id": "deputies_noun",
-    "word": "deputies",
-    "part_of_speech": "noun",
+    "id": "democratic_adjective",
+    "word": "democratic",
+    "part_of_speech": "adjective",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/ˈdepjutiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deputies-us.mp3",
-    "definition_en": "Pl.  of Deputy",
-    "definition_zh": "n. 副手( deputy的名词复数 ); 代理人; （某些国家的）议员; （美国协助地方治安官办案的）警官",
+    "phonetic": "/.demә'krætik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/democratic-us.mp3",
+    "definition_en": "a. characterized by or advocating or based upon the principles of democracy or social equality a. belong to or relating to the Democratic Party s. representing or appealing to or adapted for the benefit of the people at large",
+    "definition_zh": "a. 民主的",
     "examples": [
-      "Recent breakthroughs in deputies have accelerated modern technological innovation."
+      "Delegates debated the role of democratic in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -500,10 +581,24 @@
     "topic": "政治学与公共治理",
     "phonetic": "/'dikteitә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dictator-us.mp3",
-    "definition_en": "A speaker who dictates to a secretary or a recording machine",
+    "definition_en": "n. a speaker who dictates to a secretary or a recording machine n. a ruler who is unconstrained by law",
     "definition_zh": "n. 命令者, 独裁者",
     "examples": [
-      "Understanding dictator provides valuable insights into everyday communication."
+      "Delegates debated the role of dictator in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "diplomacy_noun",
+    "word": "diplomacy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/di'plәumәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diplomacy-us.mp3",
+    "definition_en": "n. negotiation between nations",
+    "definition_zh": "n. 外交, 外交手腕, 交际手段",
+    "examples": [
+      "Delegates debated the role of diplomacy in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -514,10 +609,38 @@
     "topic": "政治学与公共治理",
     "phonetic": "/'diplәmæt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diplomat-us.mp3",
-    "definition_en": "An official engaged in international negotiations",
+    "definition_en": "n. an official engaged in international negotiations n. a person who deals tactfully with others",
     "definition_zh": "n. 外交官, 有外交手腕的人",
     "examples": [
-      "The new policy addressing diplomat was debated extensively by the committee."
+      "Delegates debated the role of diplomat in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "diplomatic_adjective",
+    "word": "diplomatic",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/.diplә'mætik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diplomatic-us.mp3",
+    "definition_en": "a. relating to or characteristic of diplomacy a. using or marked by tact in dealing with sensitive matters or people",
+    "definition_zh": "a. 外交的, 老练的",
+    "examples": [
+      "Delegates debated the role of diplomatic in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "election_noun",
+    "word": "election",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/i'lekʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/election-us.mp3",
+    "definition_en": "n. a vote to select the winner of a position or political office n. the act of selecting someone or something; the exercise of deliberate choice n. the status or fact of being elected n. the predestination of some individuals as objects of divine mercy (especially as conceived by Calvinists)",
+    "definition_zh": "n. 选举, 当选, 选择权",
+    "examples": [
+      "Delegates debated the role of election in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -528,80 +651,94 @@
     "topic": "政治学与公共治理",
     "phonetic": "/i'lektәrәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/electoral-us.mp3",
-    "definition_en": "Of or relating to elections",
+    "definition_en": "a. of or relating to elections s. relating to or composed of electors",
     "definition_zh": "a. 选举人的, 选举的, (有关)选举的",
     "examples": [
-      "The committee analyzed a highly electoral perspective during the forum."
+      "Delegates debated the role of electoral in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "electors_noun",
-    "word": "electors",
-    "part_of_speech": "noun",
+    "id": "federal_adjective",
+    "word": "federal",
+    "part_of_speech": "adjective",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/ɪˈlektəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/electors-us.mp3",
-    "definition_en": "A citizen who has a legal right to vote",
-    "definition_zh": "n. 有选举权的人, 选民( elector的复数形式 )",
+    "phonetic": "/'fedәrәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/federal-us.mp3",
+    "definition_en": "n. a member of the Union Army during the American Civil War n. any federal law-enforcement officer s. national; especially in reference to the government of the United States as distinct from that of its member units a. of or relating to the central government of a federation",
+    "definition_zh": "a. 联邦的, 联合的, 同盟的",
     "examples": [
-      "The new policy addressing electors was debated extensively by the committee."
+      "Delegates debated the role of federal in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "ideology_noun",
-    "word": "ideology",
+    "id": "federation_noun",
+    "word": "federation",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/.aidi'ɒlәdʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ideology-us.mp3",
-    "definition_en": "Imaginary or visionary theorization",
-    "definition_zh": "n. 思想体系, 意识形态, 观念学, 空论",
+    "phonetic": "/fedә'reiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/federation-us.mp3",
+    "definition_en": "n. an organization formed by merging several groups or parties n. the act of constituting a political unity out of a number of separate states or colonies or provinces so that each member retains the management of its internal affairs",
+    "definition_zh": "n. 联邦, 联合, 联盟",
     "examples": [
-      "The new policy addressing ideology was debated extensively by the committee."
+      "Delegates debated the role of federation in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "legislators_noun",
-    "word": "legislators",
+    "id": "governance_noun",
+    "word": "governance",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/'ledʒɪsleɪtəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/legislators-us.mp3",
-    "definition_en": "Someone who makes or enacts laws",
-    "definition_zh": "n. 立法委员, 议员, 立法者( legislator的复数形式 )",
+    "phonetic": "/'gʌvәnәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/governance-us.mp3",
+    "definition_en": "n the persons (or committees or departments etc.) who make up a body for the purpose of administering something n the act of governing; exercising authority",
+    "definition_zh": "n. 统治, 统辖, 管理",
     "examples": [
-      "Understanding legislators provides valuable insights into everyday communication."
+      "Delegates debated the role of governance in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "lobby_noun",
-    "word": "lobby",
+    "id": "legislation_noun",
+    "word": "legislation",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/'lɒbi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lobby-us.mp3",
-    "definition_en": "The people who support some common cause or business or principle or sectional interest",
-    "definition_zh": "n. 大厅, 休息室, 游说议员者",
+    "phonetic": "/.ledʒis'leiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/legislation-us.mp3",
+    "definition_en": "n. law enacted by a legislative body n. the act of making or enacting laws",
+    "definition_zh": "n. 立法, 法律",
     "examples": [
-      "Understanding lobby provides valuable insights into everyday communication."
+      "Delegates debated the role of legislation in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "minister_noun",
-    "word": "minister",
+    "id": "liberalism_noun",
+    "word": "liberalism",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/'ministә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/minister-us.mp3",
-    "definition_en": "A person appointed to a high office in the government",
-    "definition_zh": "n. 部长, 牧师, 公使",
+    "phonetic": "/'libәrәlizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liberalism-us.mp3",
+    "definition_en": "n. a political orientation that favors social progress by reform and by changing laws rather than by revolution n. an economic theory advocating free competition and a self-regulating market",
+    "definition_zh": "n. 自由主义",
     "examples": [
-      "The new policy addressing minister was debated extensively by the committee."
+      "Delegates debated the role of liberalism in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "nationalism_noun",
+    "word": "nationalism",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'næʃәnәlizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nationalism-us.mp3",
+    "definition_en": "n. the doctrine that your national culture and interests are superior to any other n. the aspiration for national independence felt by people under foreign domination n. the doctrine that nations should act independently (rather than collectively) to attain their goals",
+    "definition_zh": "n. 民族主义, 民族特性",
+    "examples": [
+      "Delegates debated the role of nationalism in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -612,24 +749,108 @@
     "topic": "政治学与公共治理",
     "phonetic": "/'pɑ:lәmәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parliament-us.mp3",
-    "definition_en": "A legislative assembly in certain countries",
+    "definition_en": "n. a legislative assembly in certain countries",
     "definition_zh": "n. 国会, 议会",
     "examples": [
-      "The new policy addressing parliament was debated extensively by the committee."
+      "Delegates debated the role of parliament in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "politically_adverb",
-    "word": "politically",
-    "part_of_speech": "adverb",
+    "id": "patriotism_noun",
+    "word": "patriotism",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/politically/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/politically-us.mp3",
-    "definition_en": "With regard to social relationships involving authority",
-    "definition_zh": "adv. 政治上",
+    "phonetic": "/'peitriәtizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/patriotism-us.mp3",
+    "definition_en": "n. love of country and willingness to sacrifice for it",
+    "definition_zh": "n. 爱国心, 爱国精神, 爱国主义",
     "examples": [
-      "Researchers systematically observed politically relevant patterns across trials."
+      "Delegates debated the role of patriotism in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "petition_noun",
+    "word": "petition",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/pi'tiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/petition-us.mp3",
+    "definition_en": "v. write a petition for something to somebody; request formally and in writing",
+    "definition_zh": "n. 请愿, 诉状, 陈情书, 申请, 祈求, 祷文",
+    "examples": [
+      "Delegates debated the role of petition in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "political_adjective",
+    "word": "political",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/pә'litikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/political-us.mp3",
+    "definition_en": "a. involving or characteristic of politics or parties or politicians a. of or relating to your views about social relationships involving authority or power a. of or relating to the profession of governing",
+    "definition_zh": "a. 政治的, 政治上的, 政党的, 从事政治的",
+    "examples": [
+      "Delegates debated the role of political in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "politician_noun",
+    "word": "politician",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/.pɒli'tiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/politician-us.mp3",
+    "definition_en": "n. a leader engaged in civil administration n. a person active in party politics n. a schemer who tries to gain advantage in an organization in sly or underhanded ways",
+    "definition_zh": "n. 政客, 政治家, 从事党派政治的人",
+    "examples": [
+      "Delegates debated the role of politician in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "politics_noun",
+    "word": "politics",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'pɒlitiks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/politics-us.mp3",
+    "definition_en": "n. social relations involving intrigue to gain authority or power n. the study of government of states and other political units n. the profession devoted to governing and to political affairs n. the opinion you hold with respect to political questions",
+    "definition_zh": "n. 政治, 政治学, 政见, 政治活动",
+    "examples": [
+      "Delegates debated the role of politics in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "propaganda_noun",
+    "word": "propaganda",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/.prɒpә'gændә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/propaganda-us.mp3",
+    "definition_en": "n. information that is spread for the purpose of promoting some cause",
+    "definition_zh": "n. 宣传, 宣传活动",
+    "examples": [
+      "Delegates debated the role of propaganda in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "referendum_noun",
+    "word": "referendum",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/.refә'rendәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/referendum-us.mp3",
+    "definition_en": "n. a legislative act is referred for final approval to a popular vote by the electorate",
+    "definition_zh": "n. （就重大政治或社会问题进行的）全民公决，全民投票",
+    "examples": [
+      "Delegates debated the role of referendum in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -640,10 +861,52 @@
     "topic": "政治学与公共治理",
     "phonetic": "/rei'ʒi:m/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/regime-us.mp3",
-    "definition_en": "N the organization that is the governing authority of a political unit",
+    "definition_en": "n the organization that is the governing authority of a political unit n (medicine) a systematic plan for therapy (often including diet)",
     "definition_zh": "n. 政权, 当权期间, 政体, 社会制度, 体制, 情态",
     "examples": [
-      "The new policy addressing regime was debated extensively by the committee."
+      "Delegates debated the role of regime in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "republic_noun",
+    "word": "republic",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/ri'pʌblik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/republic-us.mp3",
+    "definition_en": "n. a form of government whose head of state is not a monarch",
+    "definition_zh": "n. 共和国, 共和政体, 团体, 界",
+    "examples": [
+      "Delegates debated the role of republic in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "sanction_noun",
+    "word": "sanction",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'sæŋkʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sanction-us.mp3",
+    "definition_en": "n. formal and explicit approval n. a mechanism of social control for enforcing a society's standards n. the act of final authorization v. give authority or permission to",
+    "definition_zh": "n. 核准, 制裁, 处罚, 约束力",
+    "examples": [
+      "Delegates debated the role of sanction in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "senate_noun",
+    "word": "senate",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'senit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/senate-us.mp3",
+    "definition_en": "n. assembly possessing high legislative powers",
+    "definition_zh": "n. 参议院, 立法机构, 评议会",
+    "examples": [
+      "Delegates debated the role of senate in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -654,38 +917,24 @@
     "topic": "政治学与公共治理",
     "phonetic": "/'senәtә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/senator-us.mp3",
-    "definition_en": "A member of a senate",
+    "definition_en": "n. a member of a senate",
     "definition_zh": "n. 参议员, (某些大学的)理事",
     "examples": [
-      "The new policy addressing senator was debated extensively by the committee."
+      "Delegates debated the role of senator in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "senators_noun",
-    "word": "senators",
+    "id": "socialism_noun",
+    "word": "socialism",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "政治学与公共治理",
-    "phonetic": "/ˈsenətəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/senators-us.mp3",
-    "definition_en": "A member of a senate",
-    "definition_zh": "n. 参议员( senator的复数形式 )",
+    "phonetic": "/'sәuʃәlizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/socialism-us.mp3",
+    "definition_en": "n. a political theory advocating state ownership of industry n. an economic system based on state ownership of capital",
+    "definition_zh": "n. 社会主义, 社会主义运动",
     "examples": [
-      "The new policy addressing senators was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "statesman_noun",
-    "word": "statesman",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "政治学与公共治理",
-    "phonetic": "/'steitsmәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/statesman-us.mp3",
-    "definition_en": "A man who is a respected leader in national or international affairs",
-    "definition_zh": "n. 政治家",
-    "examples": [
-      "The new policy addressing statesman was debated extensively by the committee."
+      "Delegates debated the role of socialism in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -696,38 +945,10 @@
     "topic": "政治学与公共治理",
     "phonetic": "/'tri:ti/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/treaty-us.mp3",
-    "definition_en": "A written agreement between two states or sovereigns",
+    "definition_en": "n. a written agreement between two states or sovereigns",
     "definition_zh": "n. 条约, 谈判",
     "examples": [
-      "The new policy addressing treaty was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "tyranny_noun",
-    "word": "tyranny",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "政治学与公共治理",
-    "phonetic": "/'tirәni/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tyranny-us.mp3",
-    "definition_en": "N a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)",
-    "definition_zh": "n. 专制, 暴政",
-    "examples": [
-      "The new policy addressing tyranny was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "tyrant_noun",
-    "word": "tyrant",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "政治学与公共治理",
-    "phonetic": "/'taiәrәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tyrant-us.mp3",
-    "definition_en": "A cruel and oppressive dictator",
-    "definition_zh": "n. 暴君",
-    "examples": [
-      "The new policy addressing tyrant was debated extensively by the committee."
+      "Delegates debated the role of treaty in maintaining democratic governance and institutional integrity."
     ]
   },
   {
@@ -738,80 +959,514 @@
     "topic": "政治学与公共治理",
     "phonetic": "/'vәutә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/voter-us.mp3",
-    "definition_en": "A citizen who has a legal right to vote",
+    "definition_en": "n. a citizen who has a legal right to vote",
     "definition_zh": "n. 选民, 投票人",
     "examples": [
-      "The new policy addressing voter was debated extensively by the committee."
+      "Delegates debated the role of voter in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "voters_noun",
-    "word": "voters",
+    "id": "allegiance_noun",
+    "word": "allegiance",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "政治学与公共治理",
-    "phonetic": "/voters/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/voters-us.mp3",
-    "definition_en": "N a citizen who has a legal right to vote",
-    "definition_zh": "n. 投票者列表；选民, 投票人（voter的复数）",
+    "phonetic": "/ә'li:dʒәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/allegiance-us.mp3",
+    "definition_en": "n. the loyalty that citizens owe to their country (or subjects to their sovereign)",
+    "definition_zh": "n. 忠贞, 效忠",
     "examples": [
-      "The new policy addressing voters was debated extensively by the committee."
+      "Delegates debated the role of allegiance in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "bureaucratic_adjective",
-    "word": "bureaucratic",
+    "id": "anarchy_noun",
+    "word": "anarchy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'ænәki/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anarchy-us.mp3",
+    "definition_en": "n. a state of lawlessness and disorder (usually resulting from a failure of government)",
+    "definition_zh": "n. 无政府状态, 政治混乱",
+    "examples": [
+      "Delegates debated the role of anarchy in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "aristocracy_noun",
+    "word": "aristocracy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/.æri'stɒkrәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aristocracy-us.mp3",
+    "definition_en": "n a privileged class holding hereditary titles n the most powerful members of a society",
+    "definition_zh": "n. 贵族, 上层社会, 知识界杰出分子",
+    "examples": [
+      "Delegates debated the role of aristocracy in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "authoritarian_adjective",
+    "word": "authoritarian",
     "part_of_speech": "adjective",
     "level": "C1",
     "topic": "政治学与公共治理",
-    "phonetic": "/bjuәrәu'krætik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bureaucratic-us.mp3",
-    "definition_en": "Of or relating to or resembling a bureaucrat or bureaucracy",
-    "definition_zh": "a. 官僚的",
+    "phonetic": "/ɒ:.θɒri'tєәriәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/authoritarian-us.mp3",
+    "definition_en": "n. a person who behaves in a tyrannical manner s. characteristic of an absolute ruler or absolute rule; having absolute sovereignty s. expecting unquestioning obedience",
+    "definition_zh": "a. 独裁的, 独裁主义的",
     "examples": [
-      "The committee analyzed a highly bureaucratic perspective during the forum."
+      "Delegates debated the role of authoritarian in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "bureaucratically_adverb",
-    "word": "bureaucratically",
-    "part_of_speech": "adverb",
-    "level": "C1",
-    "topic": "政治学与公共治理",
-    "phonetic": "/,bjuərə'krætikli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bureaucratically-us.mp3",
-    "definition_en": "In a bureaucratic manner",
-    "definition_zh": "adv. 官僚主义地",
-    "examples": [
-      "Researchers systematically observed bureaucratically relevant patterns across trials."
-    ]
-  },
-  {
-    "id": "premier_noun",
-    "word": "premier",
+    "id": "autocracy_noun",
+    "word": "autocracy",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "政治学与公共治理",
-    "phonetic": "/'pri:mjә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/premier-us.mp3",
-    "definition_en": "Be performed for the first time",
-    "definition_zh": "n. 总理, 首相",
+    "phonetic": "/ɒ:'tɒkrәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/autocracy-us.mp3",
+    "definition_en": "n. a political system governed by a single individual n. a political theory favoring unlimited authority by a single individual",
+    "definition_zh": "n. 独裁统治, 独裁统治的国家",
     "examples": [
-      "Understanding premier provides valuable insights into everyday communication."
+      "Delegates debated the role of autocracy in maintaining democratic governance and institutional integrity."
     ]
   },
   {
-    "id": "scrutiny_noun",
-    "word": "scrutiny",
+    "id": "ballot_noun",
+    "word": "ballot",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "政治学与公共治理",
-    "phonetic": "/'skru:tini/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scrutiny-us.mp3",
-    "definition_en": "A prolonged intense look",
-    "definition_zh": "n. 细看, 仔细检查, 监视, 选票检查",
+    "phonetic": "/'bælәt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ballot-us.mp3",
+    "definition_en": "n. a document listing the alternatives that is used in voting v. vote by ballot",
+    "definition_zh": "n. 投票, 投票用纸, 抽签",
     "examples": [
-      "Recent breakthroughs in scrutiny have accelerated modern technological innovation."
+      "Delegates debated the role of ballot in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "bipartisan_adjective",
+    "word": "bipartisan",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/bai,pɑ:ti'zæn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bipartisan-us.mp3",
+    "definition_en": "s. supported by both sides",
+    "definition_zh": "a. 两党连立的",
+    "examples": [
+      "Delegates debated the role of bipartisan in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "bureaucracy_noun",
+    "word": "bureaucracy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/bjuә'rɒkrәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bureaucracy-us.mp3",
+    "definition_en": "n. nonelective government officials n. a government that is administered primarily by bureaus that are staffed with nonelective officials n. any organization in which action is obstructed by insistence on unnecessary procedures and red tape",
+    "definition_zh": "n. 官僚, 官吏",
+    "examples": [
+      "Delegates debated the role of bureaucracy in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "bureaucrat_noun",
+    "word": "bureaucrat",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'bjuәrәukræt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bureaucrat-us.mp3",
+    "definition_en": "n. an official of a bureaucracy",
+    "definition_zh": "n. 官僚作风的人, 官僚, 官僚主义者",
+    "examples": [
+      "Delegates debated the role of bureaucrat in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "constituent_noun",
+    "word": "constituent",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/kәn'stitjuәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/constituent-us.mp3",
+    "definition_en": "n. a member of a constituency; a citizen who is represented in a government by officials for whom he or she votes n. (grammar) a word or phrase or clause forming part of a larger grammatical construction s. constitutional in the structure of something (especially your physical makeup)",
+    "definition_zh": "n. 成分, 选民, 构成物",
+    "examples": [
+      "Delegates debated the role of constituent in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "constitution_noun",
+    "word": "constitution",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/.kɒnsti'tju:ʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/constitution-us.mp3",
+    "definition_en": "n. the act of forming or establishing something n. the way in which someone or something is composed n. a United States 44-gun frigate that was one of the first three naval ships built by the United States; it won brilliant victories over British frigates during the War of 1812 and is without doubt the most famous ship in the history of the United States Navy; it has been rebuilt and is anchored in the Charlestown Navy Yard in Boston",
+    "definition_zh": "n. 构成, 宪法, 体格",
+    "examples": [
+      "Delegates debated the role of constitution in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "constitutional_adjective",
+    "word": "constitutional",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/.kɒnsti'tju:ʃәnl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/constitutional-us.mp3",
+    "definition_en": "n. a regular walk taken as a form of exercise a. of benefit to or intended to benefit your physical makeup a. sanctioned by or consistent with or operating under the law determining the fundamental political principles of a government",
+    "definition_zh": "a. 宪法的, 立宪的, 体质的",
+    "examples": [
+      "Delegates debated the role of constitutional in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "coup_noun",
+    "word": "coup",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'ku:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coup-us.mp3",
+    "definition_en": "n. a brilliant and notable success",
+    "definition_zh": "n. 砰然的一击, 妙计, 出乎意料的行动, 政变",
+    "examples": [
+      "Delegates debated the role of coup in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "electorate_noun",
+    "word": "electorate",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/i'lektәrit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/electorate-us.mp3",
+    "definition_en": "n. the body of enfranchised citizens; those qualified to vote",
+    "definition_zh": "n. 选民, 有选举权者, 选区",
+    "examples": [
+      "Delegates debated the role of electorate in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "faction_noun",
+    "word": "faction",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'fækʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/faction-us.mp3",
+    "definition_en": "n. a dissenting clique",
+    "definition_zh": "n. 小派系, 内讧",
+    "examples": [
+      "Delegates debated the role of faction in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "geopolitics_noun",
+    "word": "geopolitics",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/.dʒi:әu'pɒlitiks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/geopolitics-us.mp3",
+    "definition_en": "n. the study of the effects of economic geography on the powers of the state",
+    "definition_zh": "n. 地缘政治学",
+    "examples": [
+      "Delegates debated the role of geopolitics in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "ideology_noun",
+    "word": "ideology",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/.aidi'ɒlәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ideology-us.mp3",
+    "definition_en": "n. imaginary or visionary theorization",
+    "definition_zh": "n. 思想体系, 意识形态, 观念学, 空论",
+    "examples": [
+      "Delegates debated the role of ideology in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "imperialism_noun",
+    "word": "imperialism",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/im'piәriәlizm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/imperialism-us.mp3",
+    "definition_en": "n. a policy of extending your rule over foreign countries n. a political orientation that advocates imperial interests n. any instance of aggressive extension of authority",
+    "definition_zh": "n. 帝国主义, 帝制",
+    "examples": [
+      "Delegates debated the role of imperialism in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "incumbent_noun",
+    "word": "incumbent",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/in'kʌmbәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/incumbent-us.mp3",
+    "definition_en": "n. the official who holds an office s. lying or leaning on something else s. necessary (for someone) as a duty or responsibility; morally binding s. currently holding an office",
+    "definition_zh": "n. 领圣俸者, 在职者",
+    "examples": [
+      "Delegates debated the role of incumbent in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "legislature_noun",
+    "word": "legislature",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'ledʒisleitʃә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/legislature-us.mp3",
+    "definition_en": "n. persons who make or amend or repeal laws",
+    "definition_zh": "n. 立法机关, 议会, 立法院",
+    "examples": [
+      "Delegates debated the role of legislature in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "lobbyist_noun",
+    "word": "lobbyist",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'lɔbiist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lobbyist-us.mp3",
+    "definition_en": "n. someone who is employed to persuade legislators to vote for legislation that favors the lobbyist's employer",
+    "definition_zh": "n. 说客",
+    "examples": [
+      "Delegates debated the role of lobbyist in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "monarchy_noun",
+    "word": "monarchy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'mɒnәki/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/monarchy-us.mp3",
+    "definition_en": "n. an autocracy governed by a monarch who usually inherits the authority",
+    "definition_zh": "n. 君主政体, 君主国, 君主政治",
+    "examples": [
+      "Delegates debated the role of monarchy in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "municipal_adjective",
+    "word": "municipal",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/mju:'nisipl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/municipal-us.mp3",
+    "definition_en": "a. relating or belonging to or characteristic of a municipality s. of or relating to the government of a municipality",
+    "definition_zh": "a. 市政的, 自治区的, 内政的",
+    "examples": [
+      "Delegates debated the role of municipal in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "oligarchy_noun",
+    "word": "oligarchy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'ɒligɑ:ki/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oligarchy-us.mp3",
+    "definition_en": "n. a political system governed by a few people",
+    "definition_zh": "n. 寡头政治, 寡头政治的政府",
+    "examples": [
+      "Delegates debated the role of oligarchy in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "partisan_adjective",
+    "word": "partisan",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'pɑ:tizn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/partisan-us.mp3",
+    "definition_en": "n. a fervent and even militant proponent of something n. a pike with a long tapering double-edged blade with lateral projections; 16th and 17th centuries a. devoted to a cause or party",
+    "definition_zh": "a. 党派的, 偏袒的, 效忠的, 献身的, 盲目推崇的",
+    "examples": [
+      "Delegates debated the role of partisan in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "sovereign_adjective",
+    "word": "sovereign",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'sɒvrin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sovereign-us.mp3",
+    "definition_en": "n. a nation's ruler or head of state usually by hereditary right s. greatest in status or authority or power",
+    "definition_zh": "a. 具有主权的, 至高无上的, 国王的, 完全的",
+    "examples": [
+      "Delegates debated the role of sovereign in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "sovereignty_noun",
+    "word": "sovereignty",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'sɒvrәnti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sovereignty-us.mp3",
+    "definition_en": "n. government free from external control n. the authority of a state to govern another state",
+    "definition_zh": "n. 主权, 独立国",
+    "examples": [
+      "Delegates debated the role of sovereignty in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "suffrage_noun",
+    "word": "suffrage",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'sʌfridʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/suffrage-us.mp3",
+    "definition_en": "n a legal right guaranteed by the 15th amendment to the US Constitution; guaranteed to women by the 19th amendment",
+    "definition_zh": "n. 投票, 选举权, 参政权, 代祷",
+    "examples": [
+      "Delegates debated the role of suffrage in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "tyranny_noun",
+    "word": "tyranny",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'tirәni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tyranny-us.mp3",
+    "definition_en": "n a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.) n dominance through threat of punishment and violence",
+    "definition_zh": "n. 专制, 暴政",
+    "examples": [
+      "Delegates debated the role of tyranny in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "tyrant_noun",
+    "word": "tyrant",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'taiәrәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tyrant-us.mp3",
+    "definition_en": "n. a cruel and oppressive dictator n. in ancient Greece, a ruler who had seized power without legal right to it n. any person who exercises power in a cruel way",
+    "definition_zh": "n. 暴君",
+    "examples": [
+      "Delegates debated the role of tyrant in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "veto_noun",
+    "word": "veto",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'vi:tәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/veto-us.mp3",
+    "definition_en": "n. a vote that blocks a decision n. the power or right to prohibit or reject a proposed or intended act (especially the power of a chief executive to reject a bill passed by the legislature) v. vote against; refuse to endorse; refuse to assent",
+    "definition_zh": "n. 否决权",
+    "examples": [
+      "Delegates debated the role of veto in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "caucus_noun",
+    "word": "caucus",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'kɒ:kәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caucus-us.mp3",
+    "definition_en": "n. a closed political meeting v. meet to select a candidate or promote a policy",
+    "definition_zh": "n. 领导人会议, 核心会议",
+    "examples": [
+      "Delegates debated the role of caucus in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "demagogue_noun",
+    "word": "demagogue",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'demәgɒg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/demagogue-us.mp3",
+    "definition_en": "n. a political leader who seeks support by appealing to popular passions and prejudices",
+    "definition_zh": "n. 煽动者",
+    "examples": [
+      "Delegates debated the role of demagogue in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "filibuster_noun",
+    "word": "filibuster",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'filibʌstә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/filibuster-us.mp3",
+    "definition_en": "n. a legislator who gives long speeches in an effort to delay or obstruct legislation that he (or she) opposes n. (law) a tactic for delaying or obstructing legislation by making long speeches v. obstruct deliberately by delaying",
+    "definition_zh": "n. 阻挠议事的活动, 掠夺兵, 暴兵, 海盗",
+    "examples": [
+      "Delegates debated the role of filibuster in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "gerrymander_verb",
+    "word": "gerrymander",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/'dʒerimændә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gerrymander-us.mp3",
+    "definition_en": "n. an act of gerrymandering (dividing a voting area so as to give your own party an unfair advantage) v. divide unfairly and to one's advantage; of voting districts",
+    "definition_zh": "vt. 为政党利益改划选区",
+    "examples": [
+      "Delegates debated the role of gerrymander in maintaining democratic governance and institutional integrity."
+    ]
+  },
+  {
+    "id": "totalitarianism_noun",
+    "word": "totalitarianism",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "政治学与公共治理",
+    "phonetic": "/,tәjtæli'teәriәnizəm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/totalitarianism-us.mp3",
+    "definition_en": "n a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.) n the principle of complete and unrestricted power in government",
+    "definition_zh": "n. 极权主义",
+    "examples": [
+      "Delegates debated the role of totalitarianism in maintaining democratic governance and institutional integrity."
     ]
   }
 ]

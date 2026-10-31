@@ -1,16 +1,44 @@
 [
   {
-    "id": "bones_noun",
-    "word": "bones",
+    "id": "arm_noun",
+    "word": "arm",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/bәunz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bones-us.mp3",
-    "definition_en": "A percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by Spanish dancers) in rhythm with the dance",
-    "definition_zh": "n. 骨骼, 尸体",
+    "phonetic": "/ɑ:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arm-us.mp3",
+    "definition_en": "n. a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb n. any projection that is thought to resemble a human arm n. the part of an armchair or sofa that supports the elbow and forearm of a seated person v. prepare oneself for a military confrontation",
+    "definition_zh": "n. 手臂, 袖子, 狭长港湾, 武器",
     "examples": [
-      "Maintaining proper health supports the optimal function of the bones."
+      "Understanding the physiological structure of the arm is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "back_noun",
+    "word": "back",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/bæk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/back-us.mp3",
+    "definition_en": "n. the posterior part of a human (or animal) body from the neck to the end of the spine n. the part of something that is furthest from the normal viewer n. (football) a person who plays in the backfield n. the part of a garment that covers the back of your body",
+    "definition_zh": "n. 背部, 后面",
+    "examples": [
+      "Understanding the physiological structure of the back is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "body_noun",
+    "word": "body",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'bɒdi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/body-us.mp3",
+    "definition_en": "n. the entire structure of an organism (an animal, plant, or human being) n. a group of persons associated by some common tie or occupation and regarded as an entity n. a natural object consisting of a dead animal or person n. an individual 3-dimensional object that has mass and that is distinguishable from other objects",
+    "definition_zh": "n. 身体, 人, 尸体, 主要部分, 团体",
+    "examples": [
+      "Understanding the physiological structure of the body is vital in clinical anatomy."
     ]
   },
   {
@@ -21,81 +49,150 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/iә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ear-us.mp3",
-    "definition_en": "The sense organ for hearing and equilibrium",
+    "definition_en": "n. the sense organ for hearing and equilibrium n. good hearing n. attention to what is said n. fruiting spike of a cereal plant especially corn",
     "definition_zh": "n. 耳朵, 倾听, 听觉, 穗",
     "examples": [
-      "Maintaining proper health supports the optimal function of the ear."
+      "Understanding the physiological structure of the ear is vital in clinical anatomy."
     ]
   },
   {
-    "id": "ears_noun",
-    "word": "ears",
+    "id": "eye_noun",
+    "word": "eye",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/ears/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ears-us.mp3",
-    "definition_en": "N the sense organ for hearing and equilibrium",
-    "definition_zh": "abbr. 电声额定系统（Electro-Acoustic Rating System）",
+    "phonetic": "/ai/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eye-us.mp3",
+    "definition_en": "n. the organ of sight n. good discernment (either visually or as if visually) n. attention to what is seen n. a small hole or loop (as in a needle)",
+    "definition_zh": "n. 眼睛, 视力, 看",
     "examples": [
-      "Maintaining proper health supports the optimal function of the ears."
+      "Understanding the physiological structure of the eye is vital in clinical anatomy."
     ]
   },
   {
-    "id": "heart_noun",
-    "word": "heart",
+    "id": "face_noun",
+    "word": "face",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/hɑ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heart-us.mp3",
-    "definition_en": "A hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction.",
-    "definition_zh": "心脏，胸膛",
+    "phonetic": "/feis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/face-us.mp3",
+    "definition_en": "n. the front of the human head from the forehead to the chin and ear to ear n. the general outward appearance of something n. the striking or working surface of an implement n. a part of a person that is used to refer to a person",
+    "definition_zh": "n. 脸, 面容, 正面, 外观",
     "examples": [
-      "Aerobic exercise strengthens your heart muscles.",
-      "His heart beat rapidly during the thrilling presentation."
+      "Understanding the physiological structure of the face is vital in clinical anatomy."
     ]
   },
   {
-    "id": "hearts_noun",
-    "word": "hearts",
+    "id": "feet_noun",
+    "word": "feet",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/hearts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearts-us.mp3",
-    "definition_en": "A form of whist in which players avoid winning tricks containing hearts or the queen of spades",
-    "definition_zh": "n. 心；中心；内心；同情心；心形物（heart的复数）",
+    "phonetic": "/fi:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feet-us.mp3",
+    "definition_en": "n the part of the leg of a human being below the ankle joint n a linear unit of length equal to 12 inches or a third of a yard n the lower part of anything n the pedal extremity of vertebrates other than human beings n lowest support of a structure n any of various organs of locomotion or attachment in invertebrates n travel by walking n a member of a surveillance team who works on foot or rides as a passenger n an army unit consisting of soldiers who fight on foot n (prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm n a support resembling a pedal extremity",
+    "definition_zh": "n. 尺",
     "examples": [
-      "Maintaining proper health supports the optimal function of the hearts."
+      "Understanding the physiological structure of the feet is vital in clinical anatomy."
     ]
   },
   {
-    "id": "knee_noun",
-    "word": "knee",
+    "id": "finger_noun",
+    "word": "finger",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/ni:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/knee-us.mp3",
-    "definition_en": "Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella",
-    "definition_zh": "n. 膝, 膝盖",
+    "phonetic": "/'fiŋgә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/finger-us.mp3",
+    "definition_en": "n. any of the terminal members of the hand (sometimes excepting the thumb) n. the length of breadth of a finger used as a linear measure n. one of the parts of a glove that provides covering for a finger or thumb v. feel or handle with the fingers",
+    "definition_zh": "n. 手指, 指状物, (手套的)手指部分, 指针",
     "examples": [
-      "Understanding knee provides valuable insights into everyday communication."
+      "Understanding the physiological structure of the finger is vital in clinical anatomy."
     ]
   },
   {
-    "id": "knees_noun",
-    "word": "knees",
+    "id": "foot_noun",
+    "word": "foot",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/ni:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/knees-us.mp3",
-    "definition_en": "Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella",
-    "definition_zh": "n. 膝( knee的复数形式 ); 膝盖; （裤子的）膝部; 坐下时)大腿朝上的面",
+    "phonetic": "/fut/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/foot-us.mp3",
+    "definition_en": "n. the part of the leg of a human being below the ankle joint n. a linear unit of length equal to 12 inches or a third of a yard n. the lower part of anything n. any of various organs of locomotion or attachment in invertebrates",
+    "definition_zh": "n. 脚, 步调, 英尺, 底部, 末尾, 步兵",
     "examples": [
-      "Understanding knees provides valuable insights into everyday communication."
+      "Understanding the physiological structure of the foot is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "hair_noun",
+    "word": "hair",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/hєә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hair-us.mp3",
+    "definition_en": "n. a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss n. filamentous hairlike growth on a plant n. any of the cylindrical filaments characteristically growing from the epidermis of a mammal n. a filamentous projection or process on an organism",
+    "definition_zh": "n. 头发, 毛发, 些微",
+    "examples": [
+      "Understanding the physiological structure of the hair is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "hand_noun",
+    "word": "hand",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/hænd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hand-us.mp3",
+    "definition_en": "n. the (prehensile) extremity of the superior limb n. ability n. a position given by its location to the side of an object n. the cards held in a card game by a given player at any given time",
+    "definition_zh": "n. 手, 爪, 指针, 掌握, 协助, 人手, 手艺, 手迹, 支配, 插手",
+    "examples": [
+      "Understanding the physiological structure of the hand is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "head_noun",
+    "word": "head",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/hed/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/head-us.mp3",
+    "definition_en": "n. the upper part of the human body or the front part of the body in animals; contains the face and brains n. a single domestic animal n. a person who is in charge n. the front of a military formation or procession",
+    "definition_zh": "n. 头, 头脑, 领袖, 脑袋, 最前的部分",
+    "examples": [
+      "Understanding the physiological structure of the head is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "leg_noun",
+    "word": "leg",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/leg/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leg-us.mp3",
+    "definition_en": "n. a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle n. a structure in animals that is similar to a human leg and used for locomotion n. one of the supports for a piece of furniture n. the limb of an animal used for food",
+    "definition_zh": "n. 腿, 假腿, 路程",
+    "examples": [
+      "Understanding the physiological structure of the leg is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "mouth_noun",
+    "word": "mouth",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/mauθ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mouth-us.mp3",
+    "definition_en": "n. the opening through which food is taken in and vocalizations emerge n. the externally visible part of the oral cavity on the face and the system of organs surrounding the opening n. an opening that resembles a mouth (as of a cave or a gorge) n. the point where a stream issues into a larger body of water",
+    "definition_zh": "n. 嘴, 口, 口腔, 口状物",
+    "examples": [
+      "Understanding the physiological structure of the mouth is vital in clinical anatomy."
     ]
   },
   {
@@ -106,38 +203,24 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/nәuz/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nose-us.mp3",
-    "definition_en": "The organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals",
+    "definition_en": "n. the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals n. a front that resembles a human nose (especially the front of an aircraft) n. the front or forward projection of a tool or weapon n. a small distance",
     "definition_zh": "n. 鼻子, 突出部分, 嗅觉",
     "examples": [
-      "Maintaining proper health supports the optimal function of the nose."
+      "Understanding the physiological structure of the nose is vital in clinical anatomy."
     ]
   },
   {
-    "id": "shoulder_noun",
-    "word": "shoulder",
+    "id": "skin_noun",
+    "word": "skin",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'ʃәuldә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shoulder-us.mp3",
-    "definition_en": "The part of the body between the neck and the upper arm",
-    "definition_zh": "n. 肩, 肩膀, 衣肩",
+    "phonetic": "/skin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skin-us.mp3",
+    "definition_en": "n. a natural protective body covering and site of the sense of touch n. an outer surface (usually thin) n. a person's skin regarded as their life n. a bag serving as a container for liquids; it is made from the hide of an animal",
+    "definition_zh": "n. 皮肤, 皮",
     "examples": [
-      "Understanding shoulder provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "shoulders_noun",
-    "word": "shoulders",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/shoulders/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shoulders-us.mp3",
-    "definition_en": "N the part of the body between the neck and the upper arm",
-    "definition_zh": "n. 肩部；肩膀（shoulder的复数）",
-    "examples": [
-      "Understanding shoulders provides valuable insights into everyday communication."
+      "Understanding the physiological structure of the skin is vital in clinical anatomy."
     ]
   },
   {
@@ -148,10 +231,10 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/ti:θ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teeth-us.mp3",
-    "definition_en": "N the kind and number and arrangement of teeth (collectively) in a person or animal",
+    "definition_en": "n the kind and number and arrangement of teeth (collectively) in a person or animal n hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense n something resembling the tooth of an animal n toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell n a means of enforcement n one of a number of uniform projections on a gear",
     "definition_zh": "pl. 牙齿",
     "examples": [
-      "Maintaining proper health supports the optimal function of the teeth."
+      "Understanding the physiological structure of the teeth is vital in clinical anatomy."
     ]
   },
   {
@@ -162,38 +245,10 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/tu:θ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tooth-us.mp3",
-    "definition_en": "Hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense",
+    "definition_en": "n. hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense n. something resembling the tooth of an animal n. toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell n. a means of enforcement",
     "definition_zh": "n. 牙齿, 齿状物, 爱好",
     "examples": [
-      "Maintaining proper health supports the optimal function of the tooth."
-    ]
-  },
-  {
-    "id": "ankle_noun",
-    "word": "ankle",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'æŋkl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ankle-us.mp3",
-    "definition_en": "A gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus",
-    "definition_zh": "n. 踝",
-    "examples": [
-      "Understanding ankle provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "belly_noun",
-    "word": "belly",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'beli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/belly-us.mp3",
-    "definition_en": "A protruding abdomen",
-    "definition_zh": "n. 腹部, 食欲",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the belly."
+      "Understanding the physiological structure of the tooth is vital in clinical anatomy."
     ]
   },
   {
@@ -204,39 +259,24 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/bәun/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bone-us.mp3",
-    "definition_en": "Any of the pieces of hard, whitish tissue making up the skeleton in humans.",
-    "definition_zh": "骨头，骨骼",
+    "definition_en": "n. rigid connective tissue that makes up the skeleton of vertebrates n. the porous calcified substance from which bones are made n. a shade of white the color of bleached bones v. remove the bones from",
+    "definition_zh": "n. 骨头, 骨, 骨制品",
     "examples": [
-      "Calcium and vitamin D are essential for maintaining bone density."
+      "Understanding the physiological structure of the bone is vital in clinical anatomy."
     ]
   },
   {
-    "id": "chest_noun",
-    "word": "chest",
+    "id": "neck_noun",
+    "word": "neck",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/tʃest/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chest-us.mp3",
-    "definition_en": "Box with a lid; used for storage; usually large and sturdy",
-    "definition_zh": "n. 胸, 胸部, 衣柜, 箱子",
+    "phonetic": "/nek/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neck-us.mp3",
+    "definition_en": "n. the part of an organism (human or animal) that connects the head to the rest of the body n. a narrow elongated projecting strip of land n. a cut of meat from the neck of an animal n. a narrow part of an artifact that resembles a neck in position or form",
+    "definition_zh": "n. 脖子, 衣领, 颈",
     "examples": [
-      "Maintaining proper health supports the optimal function of the chest."
-    ]
-  },
-  {
-    "id": "stomach_noun",
-    "word": "stomach",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'stʌmәk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stomach-us.mp3",
-    "definition_en": "The internal organ in which the first major part of digestion of food occurs.",
-    "definition_zh": "胃，腹部",
-    "examples": [
-      "You shouldn't consume spicy food on an empty stomach.",
-      "Gastric juices inside the stomach break down dietary proteins."
+      "Understanding the physiological structure of the neck is vital in clinical anatomy."
     ]
   },
   {
@@ -247,24 +287,94 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/tәu/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toe-us.mp3",
-    "definition_en": "One of the digits of the foot",
+    "definition_en": "n. one of the digits of the foot n. the part of footwear that provides a covering for the toes n. forepart of a hoof n. (golf) the part of a clubhead farthest from the shaft",
     "definition_zh": "n. 足趾, 趾部, 脚趾",
     "examples": [
-      "Understanding toe provides valuable insights into everyday communication."
+      "Understanding the physiological structure of the toe is vital in clinical anatomy."
     ]
   },
   {
-    "id": "toes_noun",
-    "word": "toes",
+    "id": "tongue_noun",
+    "word": "tongue",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/toes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toes-us.mp3",
-    "definition_en": "N one of the digits of the foot",
-    "definition_zh": "n. 脚趾（toe的复数）",
+    "phonetic": "/tʌŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tongue-us.mp3",
+    "definition_en": "n. a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity n. any long thin projection that is transient n. a manner of speaking n. the tongue of certain animals used as meat",
+    "definition_zh": "n. 舌, 语言能力, 讲话方式, 语言",
     "examples": [
-      "Understanding toes provides valuable insights into everyday communication."
+      "Understanding the physiological structure of the tongue is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "ankle_noun",
+    "word": "ankle",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'æŋkl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ankle-us.mp3",
+    "definition_en": "n. a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus",
+    "definition_zh": "n. 踝",
+    "examples": [
+      "Understanding the physiological structure of the ankle is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "belly_noun",
+    "word": "belly",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'beli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/belly-us.mp3",
+    "definition_en": "n. a protruding abdomen n. a part that bulges deeply n. the hollow inside of something n. the underpart of the body of certain vertebrates such as snakes or fish",
+    "definition_zh": "n. 腹部, 食欲",
+    "examples": [
+      "Understanding the physiological structure of the belly is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "blood_noun",
+    "word": "blood",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/blʌd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blood-us.mp3",
+    "definition_en": "n. the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets n. temperament or disposition n. people viewed as members of a group v. smear with blood, as in a hunting initiation rite, where the face of a person is smeared with the blood of the kill",
+    "definition_zh": "n. 血, 血统, 流血, 气质, 生命",
+    "examples": [
+      "Understanding the physiological structure of the blood is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "brain_noun",
+    "word": "brain",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/brein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brain-us.mp3",
+    "definition_en": "n. that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord n. mental ability n. the brain of certain animals used as meat v. hit on the head",
+    "definition_zh": "n. 脑",
+    "examples": [
+      "Understanding the physiological structure of the brain is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "chest_noun",
+    "word": "chest",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/tʃest/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chest-us.mp3",
+    "definition_en": "n. box with a lid; used for storage; usually large and sturdy",
+    "definition_zh": "n. 胸, 胸部, 衣柜, 箱子",
+    "examples": [
+      "Understanding the physiological structure of the chest is vital in clinical anatomy."
     ]
   },
   {
@@ -275,124 +385,52 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/'elbәu/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elbow-us.mp3",
-    "definition_en": "Hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped",
+    "definition_en": "n. hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped n. a sharp bend in a road or river n. a length of pipe with a sharp bend in it n. the part of a sleeve that covers the elbow joint",
     "definition_zh": "n. 手肘, 弯头, 扶手",
     "examples": [
-      "Recent breakthroughs in elbow have accelerated modern technological innovation."
+      "Understanding the physiological structure of the elbow is vital in clinical anatomy."
     ]
   },
   {
-    "id": "finger_noun",
-    "word": "finger",
+    "id": "heart_noun",
+    "word": "heart",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'fiŋgә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/finger-us.mp3",
-    "definition_en": "Any of the terminal members of the hand (sometimes excepting the thumb)",
-    "definition_zh": "n. 手指, 指状物, (手套的)手指部分, 指针",
+    "phonetic": "/hɑ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heart-us.mp3",
+    "definition_en": "n. the locus of feelings and intuitions n. the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body n. the courage to carry on n. an inclination or tendency of a certain kind",
+    "definition_zh": "n. 心, 心脏, 中心, 内心, 感情, 精神, 心情, 宝贝儿",
     "examples": [
-      "Understanding finger provides valuable insights into everyday communication."
+      "Understanding the physiological structure of the heart is vital in clinical anatomy."
     ]
   },
   {
-    "id": "fingers_noun",
-    "word": "fingers",
+    "id": "knee_noun",
+    "word": "knee",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/fingers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fingers-us.mp3",
-    "definition_en": "N any of the terminal members of the hand (sometimes excepting the thumb)",
-    "definition_zh": "n. 梳状剔除器；手指头, 指头（finger复数）",
+    "phonetic": "/ni:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/knee-us.mp3",
+    "definition_en": "n. hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella n. the part of a trouser leg that provides the cloth covering for the knee",
+    "definition_zh": "n. 膝, 膝盖",
     "examples": [
-      "Understanding fingers provides valuable insights into everyday communication."
+      "Understanding the physiological structure of the knee is vital in clinical anatomy."
     ]
   },
   {
-    "id": "heel_noun",
-    "word": "heel",
+    "id": "lip_noun",
+    "word": "lip",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/hi:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heel-us.mp3",
-    "definition_en": "The bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
-    "definition_zh": "n. 脚后跟, 踵, 后部, 倾侧",
+    "phonetic": "/lip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lip-us.mp3",
+    "definition_en": "n. either of two fleshy folds of tissue that surround the mouth and play a role in speaking n. (botany) either of the two parts of a bilabiate corolla or calyx n. either the outer margin or the inner margin of the aperture of a gastropod's shell",
+    "definition_zh": "n. 唇, 口缘, 唇状构造",
     "examples": [
-      "Understanding heel provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "heels_noun",
-    "word": "heels",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/heels/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heels-us.mp3",
-    "definition_en": "N the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
-    "definition_zh": "残余料; 下脚料",
-    "examples": [
-      "Understanding heels provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "joint_adjective",
-    "word": "joint",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/dʒɒint/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/joint-us.mp3",
-    "definition_en": "(anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)",
-    "definition_zh": "a. 共同的, 联合的, 连接的, 合办的",
-    "examples": [
-      "The committee analyzed a highly joint perspective during the forum."
-    ]
-  },
-  {
-    "id": "liver_noun",
-    "word": "liver",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'livә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liver-us.mp3",
-    "definition_en": "A large lobed glandular organ in the abdomen, involved in metabolism, bile secretion, and detoxification.",
-    "definition_zh": "肝脏",
-    "examples": [
-      "The liver possesses a remarkable capacity to regenerate cellular tissue.",
-      "Excessive alcohol consumption places severe strain on liver function."
-    ]
-  },
-  {
-    "id": "lung_noun",
-    "word": "lung",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/lʌŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lung-us.mp3",
-    "definition_en": "Each of the pair of organs situated within the rib cage, allowing oxygen exchange with blood.",
-    "definition_zh": "肺，肺脏",
-    "examples": [
-      "Inhaling fresh alpine air expanded his lungs.",
-      "Smoking damages delicate alveoli within human lung tissue."
-    ]
-  },
-  {
-    "id": "lungs_noun",
-    "word": "lungs",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/'lʌŋz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lungs-us.mp3",
-    "definition_en": "Either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood",
-    "definition_zh": "n. 肺( lung的复数形式 ); 肺脏",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the lungs."
+      "Understanding the physiological structure of the lip is vital in clinical anatomy."
     ]
   },
   {
@@ -403,136 +441,80 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/'mʌsl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscle-us.mp3",
-    "definition_en": "A band or bundle of fibrous tissue in a human body with the ability to contract.",
-    "definition_zh": "肌肉",
+    "definition_en": "n. one of the contractile organs of the body n. animal tissue consisting predominantly of contractile cells n. authority or power or force (especially when used in a coercive way) v. make one's way by force",
+    "definition_zh": "n. 肌肉, 臂力",
     "examples": [
-      "Resistance training stimulates skeletal muscle hypertrophy."
+      "Understanding the physiological structure of the muscle is vital in clinical anatomy."
     ]
   },
   {
-    "id": "muscles_noun",
-    "word": "muscles",
+    "id": "shoulder_noun",
+    "word": "shoulder",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/muscles/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscles-us.mp3",
-    "definition_en": "N one of the contractile organs of the body",
-    "definition_zh": "n. 肌肉（muscle的复数）",
+    "phonetic": "/'ʃәuldә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shoulder-us.mp3",
+    "definition_en": "n. the part of the body between the neck and the upper arm n. a cut of meat including the upper joint of the foreleg n. a ball-and-socket joint between the head of the humerus and a cavity of the scapula n. the part of a garment that covers or fits over the shoulder",
+    "definition_zh": "n. 肩, 肩膀, 衣肩",
     "examples": [
-      "Maintaining proper health supports the optimal function of the muscles."
+      "Understanding the physiological structure of the shoulder is vital in clinical anatomy."
     ]
   },
   {
-    "id": "organ_noun",
-    "word": "organ",
+    "id": "skull_noun",
+    "word": "skull",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'ɒ:gәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organ-us.mp3",
-    "definition_en": "A fully differentiated structural and functional unit in an animal that is specialized for some particular function",
-    "definition_zh": "n. 风琴, 器官, 元件, 机构, 机关",
+    "phonetic": "/skʌl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skull-us.mp3",
+    "definition_en": "n. the bony skeleton of the head of vertebrates",
+    "definition_zh": "n. 头盖骨, 头脑, 好学生",
     "examples": [
-      "Maintaining proper health supports the optimal function of the organ."
+      "Understanding the physiological structure of the skull is vital in clinical anatomy."
     ]
   },
   {
-    "id": "organs_noun",
-    "word": "organs",
+    "id": "spine_noun",
+    "word": "spine",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/organs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organs-us.mp3",
-    "definition_en": "N edible viscera of a butchered animal",
-    "definition_zh": "n. 器官；机构；风琴（organ的复数）",
+    "phonetic": "/spain/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spine-us.mp3",
+    "definition_en": "n. a small sharp-pointed tip resembling a spike on a stem or leaf n. the part of a book's cover that encloses the inner side of the book's pages and that faces outward when the book is shelved n. a sharp rigid animal process or appendage; as a porcupine quill or a ridge on a bone or a ray of a fish fin",
+    "definition_zh": "n. 背骨, 脊柱, 尖刺",
     "examples": [
-      "Maintaining proper health supports the optimal function of the organs."
+      "Understanding the physiological structure of the spine is vital in clinical anatomy."
     ]
   },
   {
-    "id": "skeleton_noun",
-    "word": "skeleton",
+    "id": "stomach_noun",
+    "word": "stomach",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'skelәtn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skeleton-us.mp3",
-    "definition_en": "Something reduced to its minimal form",
-    "definition_zh": "n. 骨骼, 骨瘦如柴的人, 梗概, 骨干, 残骸",
+    "phonetic": "/'stʌmәk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stomach-us.mp3",
+    "definition_en": "n. an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion n. an inclination or liking for things involving conflict or difficulty or unpleasantness n. an appetite for food v. bear to eat",
+    "definition_zh": "n. 胃, 食欲, 欲望, 肚子",
     "examples": [
-      "Maintaining proper health supports the optimal function of the skeleton."
+      "Understanding the physiological structure of the stomach is vital in clinical anatomy."
     ]
   },
   {
-    "id": "thumb_noun",
-    "word": "thumb",
+    "id": "throat_noun",
+    "word": "throat",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/θʌm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thumb-us.mp3",
-    "definition_en": "The thick short innermost digit of the forelimb",
-    "definition_zh": "n. 拇指",
+    "phonetic": "/θrәut/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/throat-us.mp3",
+    "definition_en": "n. the passage to the stomach and lungs; in the front part of the neck below the chin and above the collarbone n. an opening in the vamp of a shoe at the instep n. a passage resembling a throat in shape or function;  n. the part of an animal's body that corresponds to a person's throat",
+    "definition_zh": "n. 咽喉, 喉咙, 嗓音",
     "examples": [
-      "Understanding thumb provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "tongue_noun",
-    "word": "tongue",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/tʌŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tongue-us.mp3",
-    "definition_en": "A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity",
-    "definition_zh": "n. 舌, 语言能力, 讲话方式, 语言",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the tongue."
-    ]
-  },
-  {
-    "id": "tongues_noun",
-    "word": "tongues",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/tʌŋz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tongues-us.mp3",
-    "definition_en": "N a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity",
-    "definition_zh": "n. 语言( tongue的名词复数 ); 舌头; 舌状物; 鞋舌",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the tongues."
-    ]
-  },
-  {
-    "id": "vein_noun",
-    "word": "vein",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/vein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vein-us.mp3",
-    "definition_en": "A blood vessel that carries blood from the capillaries toward the heart",
-    "definition_zh": "n. 血管, 静脉, 纹理, 气质, 情绪",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the vein."
-    ]
-  },
-  {
-    "id": "veins_noun",
-    "word": "veins",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "phonetic": "/veins/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/veins-us.mp3",
-    "definition_en": "N a blood vessel that carries blood from the capillaries toward the heart",
-    "definition_zh": "n. 纹理；静脉（vein的复数）",
-    "examples": [
-      "Maintaining proper health supports the optimal function of the veins."
+      "Understanding the physiological structure of the throat is vital in clinical anatomy."
     ]
   },
   {
@@ -543,24 +525,24 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/rist/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wrist-us.mp3",
-    "definition_en": "A joint between the distal end of the radius and the proximal row of carpal bones",
+    "definition_en": "n. a joint between the distal end of the radius and the proximal row of carpal bones",
     "definition_zh": "n. 手腕, 腕关节",
     "examples": [
-      "Understanding wrist provides valuable insights into everyday communication."
+      "Understanding the physiological structure of the wrist is vital in clinical anatomy."
     ]
   },
   {
-    "id": "arteries_noun",
-    "word": "arteries",
+    "id": "anatomy_noun",
+    "word": "anatomy",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/arteries/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arteries-us.mp3",
-    "definition_en": "N a blood vessel that carries blood from the heart to the body",
-    "definition_zh": "n. 动脉（artery的复数）",
+    "phonetic": "/ә'nætәmi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anatomy-us.mp3",
+    "definition_en": "n. the branch of morphology that deals with the structure of animals n. a detailed analysis",
+    "definition_zh": "n. 剖析, 解剖学, 骨骼, 结构",
     "examples": [
-      "Understanding arteries provides valuable insights into everyday communication."
+      "Understanding the physiological structure of the anatomy is vital in clinical anatomy."
     ]
   },
   {
@@ -571,11 +553,122 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/'ɑ:tәri/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/artery-us.mp3",
-    "definition_en": "Any of the muscular-walled tubes forming part of the circulation system conveying oxygenated blood from the heart.",
-    "definition_zh": "动脉，干线",
+    "definition_en": "n. a blood vessel that carries blood from the heart to the body n. a major thoroughfare that bears important traffic",
+    "definition_zh": "n. 动脉, 干道, 要道",
     "examples": [
-      "Coronary arteries deliver vital oxygenated blood directly to cardiac muscle.",
-      "Arterial elasticity typically declines with advancing age."
+      "Understanding the physiological structure of the artery is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "bowel_noun",
+    "word": "bowel",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'bauәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bowel-us.mp3",
+    "definition_en": "n the part of the alimentary canal between the stomach and the anus",
+    "definition_zh": "n. 肠, 内脏, 内部",
+    "examples": [
+      "Understanding the physiological structure of the bowel is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "chin_noun",
+    "word": "chin",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/tʃin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chin-us.mp3",
+    "definition_en": "n. the protruding part of the lower jaw v. raise oneself while hanging from one's hands until one's chin is level with the support bar",
+    "definition_zh": "n. 下巴, 颏",
+    "examples": [
+      "Understanding the physiological structure of the chin is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "fingernail_noun",
+    "word": "fingernail",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'fiŋgәneil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fingernail-us.mp3",
+    "definition_en": "n. the nail at the end of a finger",
+    "definition_zh": "n. 手指甲",
+    "examples": [
+      "Understanding the physiological structure of the fingernail is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "forehead_noun",
+    "word": "forehead",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'fɒ:rid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/forehead-us.mp3",
+    "definition_en": "n the part of the face above the eyes n the large cranial bone forming the front part of the cranium: includes the upper part of the orbits",
+    "definition_zh": "n. 额, 前额, 前部",
+    "examples": [
+      "Understanding the physiological structure of the forehead is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "gland_noun",
+    "word": "gland",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/glænd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gland-us.mp3",
+    "definition_en": "n. any of various organs that synthesize substances needed by the body and release it through ducts or directly into the bloodstream",
+    "definition_zh": "n. 腺, 密封套",
+    "examples": [
+      "Understanding the physiological structure of the gland is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "heel_noun",
+    "word": "heel",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/hi:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heel-us.mp3",
+    "definition_en": "n. the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation n. the back part of the human foot n. one of the crusty ends of a loaf of bread n. the lower end of a ship's mast",
+    "definition_zh": "n. 脚后跟, 踵, 后部, 倾侧",
+    "examples": [
+      "Understanding the physiological structure of the heel is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "hip_noun",
+    "word": "hip",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/hip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hip-us.mp3",
+    "definition_en": "n. either side of the body below the waist and above the thigh n. the ball-and-socket joint between the head of the femur and the acetabulum n. (architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof n. the fruit of a rose plant",
+    "definition_zh": "n. 臀部, 蔷薇果, 忧郁",
+    "examples": [
+      "Understanding the physiological structure of the hip is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "jaw_noun",
+    "word": "jaw",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/dʒɒ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jaw-us.mp3",
+    "definition_en": "n. the part of the skull of a vertebrate that frames the mouth and holds the teeth n. the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth n. holding device consisting of one or both of the opposing parts of a tool that close to hold an object",
+    "definition_zh": "n. 颚, 颌",
+    "examples": [
+      "Understanding the physiological structure of the jaw is vital in clinical anatomy."
     ]
   },
   {
@@ -586,10 +679,24 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/dʒɒint/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/joint-us.mp3",
-    "definition_en": "(anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)",
+    "definition_en": "n. (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion) n. a disreputable place of entertainment n. junction by which parts or objects are joined together n. marijuana leaves rolled into a cigarette for smoking",
     "definition_zh": "n. 连接处, 接合, 关节",
     "examples": [
-      "Maintaining proper health supports the optimal function of the joint."
+      "Understanding the physiological structure of the joint is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "kidney_noun",
+    "word": "kidney",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'kidni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kidney-us.mp3",
+    "definition_en": "n. either of two bean-shaped excretory organs that filter wastes (especially urea) from the blood and excrete them and water in urine",
+    "definition_zh": "n. 肾, 个性",
+    "examples": [
+      "Understanding the physiological structure of the kidney is vital in clinical anatomy."
     ]
   },
   {
@@ -600,24 +707,80 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/lim/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/limb-us.mp3",
-    "definition_en": "One of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper",
+    "definition_en": "n. one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper n. any of the main branches arising from the trunk or a bough of a tree n. (astronomy) the circumferential edge of the apparent disc of the sun or the moon or a planet n. either of the two halves of a bow from handle to tip",
     "definition_zh": "n. 四肢, 枝干, 翼, 边缘",
     "examples": [
-      "Maintaining proper health supports the optimal function of the limb."
+      "Understanding the physiological structure of the limb is vital in clinical anatomy."
     ]
   },
   {
-    "id": "limbs_noun",
-    "word": "limbs",
+    "id": "liver_noun",
+    "word": "liver",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/limbs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/limbs-us.mp3",
-    "definition_en": "N one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper",
-    "definition_zh": "n. 四肢（limb的复数）",
+    "phonetic": "/'livә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liver-us.mp3",
+    "definition_en": "n. large and complicated reddish-brown glandular organ located in the upper right portion of the abdominal cavity; secretes bile and functions in metabolism of protein and carbohydrate and fat; synthesizes substances involved in the clotting of the blood; synthesizes vitamin A; detoxifies poisonous substances and breaks down worn-out erythrocytes n. liver of an animal used as meat n. a person who has a special life style n. someone who lives in a place",
+    "definition_zh": "n. 肝脏, 生活者, 居民",
     "examples": [
-      "Maintaining proper health supports the optimal function of the limbs."
+      "Understanding the physiological structure of the liver is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "lung_noun",
+    "word": "lung",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/lʌŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lung-us.mp3",
+    "definition_en": "n. either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood",
+    "definition_zh": "n. 肺, 肺脏, 空地",
+    "examples": [
+      "Understanding the physiological structure of the lung is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "nerve_noun",
+    "word": "nerve",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/nә:v/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nerve-us.mp3",
+    "definition_en": "n. any bundle of nerve fibers running to various organs and tissues of the body",
+    "definition_zh": "n. 精神, 勇气, 叶脉, 神经",
+    "examples": [
+      "Understanding the physiological structure of the nerve is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "organ_noun",
+    "word": "organ",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'ɒ:gәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organ-us.mp3",
+    "definition_en": "n. a fully differentiated structural and functional unit in an animal that is specialized for some particular function n. a government agency or instrument devoted to the performance of some specific function n. a periodical that is published by a special interest group n. wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard",
+    "definition_zh": "n. 风琴, 器官, 元件, 机构, 机关",
+    "examples": [
+      "Understanding the physiological structure of the organ is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "palm_noun",
+    "word": "palm",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/pɑ:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/palm-us.mp3",
+    "definition_en": "n. the inner surface of the hand from the wrist to the base of the fingers n. a linear unit based on the length or width of the human hand n. any plant of the family Palmae having an unbranched trunk crowned by large pinnate or palmate leaves",
+    "definition_zh": "n. 手掌, 棕榈, 胜利",
+    "examples": [
+      "Understanding the physiological structure of the palm is vital in clinical anatomy."
     ]
   },
   {
@@ -628,66 +791,290 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/rib/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rib-us.mp3",
-    "definition_en": "Support resembling the rib of an animal",
+    "definition_en": "n. support resembling the rib of an animal n. any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates) n. cut of meat including one or more ribs n. a teasing remark",
     "definition_zh": "n. 肋骨, 肋状物, 笑话",
     "examples": [
-      "Maintaining proper health supports the optimal function of the rib."
+      "Understanding the physiological structure of the rib is vital in clinical anatomy."
     ]
   },
   {
-    "id": "ribs_noun",
-    "word": "ribs",
+    "id": "skeleton_noun",
+    "word": "skeleton",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/ribs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ribs-us.mp3",
-    "definition_en": "N support resembling the rib of an animal",
-    "definition_zh": "n. 肋骨；排骨（rib的复数）",
+    "phonetic": "/'skelәtn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skeleton-us.mp3",
+    "definition_en": "n. something reduced to its minimal form n. a scandal that is kept secret n. the internal supporting structure that gives an artifact its shape",
+    "definition_zh": "n. 骨骼, 骨瘦如柴的人, 梗概, 骨干, 残骸",
     "examples": [
-      "Maintaining proper health supports the optimal function of the ribs."
+      "Understanding the physiological structure of the skeleton is vital in clinical anatomy."
     ]
   },
   {
-    "id": "spine_noun",
-    "word": "spine",
+    "id": "thumb_noun",
+    "word": "thumb",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/spain/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spine-us.mp3",
-    "definition_en": "A small sharp-pointed tip resembling a spike on a stem or leaf",
-    "definition_zh": "n. 背骨, 脊柱, 尖刺",
+    "phonetic": "/θʌm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thumb-us.mp3",
+    "definition_en": "n. the thick short innermost digit of the forelimb n. the part of a glove that provides a covering for the thumb",
+    "definition_zh": "n. 拇指",
     "examples": [
-      "Maintaining proper health supports the optimal function of the spine."
+      "Understanding the physiological structure of the thumb is vital in clinical anatomy."
     ]
   },
   {
-    "id": "throat_noun",
-    "word": "throat",
+    "id": "tissue_noun",
+    "word": "tissue",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/θrәut/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/throat-us.mp3",
-    "definition_en": "The passage to the stomach and lungs; in the front part of the neck below the chin and above the collarbone",
-    "definition_zh": "n. 咽喉, 喉咙, 嗓音",
+    "phonetic": "/'tiʃu:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tissue-us.mp3",
+    "definition_en": "n. part of an organism consisting of an aggregate of cells having a similar structure and function n. a soft thin (usually translucent) paper",
+    "definition_zh": "n. 薄的织物, 薄纱, 棉纸, 组织, 一套",
     "examples": [
-      "Maintaining proper health supports the optimal function of the throat."
+      "Understanding the physiological structure of the tissue is vital in clinical anatomy."
     ]
   },
   {
-    "id": "toenail_noun",
-    "word": "toenail",
+    "id": "vein_noun",
+    "word": "vein",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
-    "phonetic": "/'tәuneil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toenail-us.mp3",
-    "definition_en": "The nail at the end of a toe",
-    "definition_zh": "n. 脚趾甲, 斜钉",
+    "phonetic": "/vein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vein-us.mp3",
+    "definition_en": "n. a blood vessel that carries blood from the capillaries toward the heart n. a distinctive style or manner n. any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ n. a layer of ore between layers of rock",
+    "definition_zh": "n. 血管, 静脉, 纹理, 气质, 情绪",
     "examples": [
-      "Recent breakthroughs in toenail have accelerated modern technological innovation."
+      "Understanding the physiological structure of the vein is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "waist_noun",
+    "word": "waist",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/weist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/waist-us.mp3",
+    "definition_en": "n. the narrowing of the body between the ribs and hips",
+    "definition_zh": "n. 腰部, 腰",
+    "examples": [
+      "Understanding the physiological structure of the waist is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "abdomen_noun",
+    "word": "abdomen",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'æbdәmen/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abdomen-us.mp3",
+    "definition_en": "n. the region of the body of a vertebrate between the thorax and the pelvis",
+    "definition_zh": "n. 腹部",
+    "examples": [
+      "Understanding the physiological structure of the abdomen is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "bladder_noun",
+    "word": "bladder",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'blædә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bladder-us.mp3",
+    "definition_en": "n. a distensible membranous sac (usually containing liquid or gas) n. a bag that fills with air",
+    "definition_zh": "n. 膀胱, 囊",
+    "examples": [
+      "Understanding the physiological structure of the bladder is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "capillary_noun",
+    "word": "capillary",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/kæ'pilәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/capillary-us.mp3",
+    "definition_en": "n. a tube of small internal diameter; holds liquid by capillary action n. any of the minute blood vessels connecting arterioles with venules a. of or relating to hair s. long and slender with a very small internal diameter",
+    "definition_zh": "n. 毛细管",
+    "examples": [
+      "Understanding the physiological structure of the capillary is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "cartilage_noun",
+    "word": "cartilage",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'kɑ:tilidʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cartilage-us.mp3",
+    "definition_en": "n. tough elastic tissue; mostly converted to bone in adults",
+    "definition_zh": "n. 软骨",
+    "examples": [
+      "Understanding the physiological structure of the cartilage is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "cerebellum_noun",
+    "word": "cerebellum",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/.seri'belәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cerebellum-us.mp3",
+    "definition_en": "n. a major division of the vertebrate brain; situated above the medulla oblongata and beneath the cerebrum in humans",
+    "definition_zh": "n. 小脑",
+    "examples": [
+      "Understanding the physiological structure of the cerebellum is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "clavicle_noun",
+    "word": "clavicle",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'klævikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clavicle-us.mp3",
+    "definition_en": "n. bone linking the scapula and sternum",
+    "definition_zh": "n. 锁骨",
+    "examples": [
+      "Understanding the physiological structure of the clavicle is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "cornea_noun",
+    "word": "cornea",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'kɒ:niә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cornea-us.mp3",
+    "definition_en": "n. the transparent dome-shaped anterior portion of the outer covering of the eye; it covers the iris and pupil and is continuous with the sclera",
+    "definition_zh": "n. 角膜",
+    "examples": [
+      "Understanding the physiological structure of the cornea is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "esophagus_noun",
+    "word": "esophagus",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/i:'sɒfәgәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/esophagus-us.mp3",
+    "definition_en": "n. the passage between the pharynx and the stomach",
+    "definition_zh": "n. 食道",
+    "examples": [
+      "Understanding the physiological structure of the esophagus is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "intestine_noun",
+    "word": "intestine",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/in'testin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/intestine-us.mp3",
+    "definition_en": "n. the part of the alimentary canal between the stomach and the anus",
+    "definition_zh": "n. 肠",
+    "examples": [
+      "Understanding the physiological structure of the intestine is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "larynx_noun",
+    "word": "larynx",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'læriŋks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/larynx-us.mp3",
+    "definition_en": "n. a cartilaginous structure at the top of the trachea; contains elastic vocal cords that are the source of the vocal tone in speech",
+    "definition_zh": "n. 喉头",
+    "examples": [
+      "Understanding the physiological structure of the larynx is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "marrow_noun",
+    "word": "marrow",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'mærәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marrow-us.mp3",
+    "definition_en": "n. the fatty network of connective tissue that fills the cavities of bones n. any of various squash plants grown for their elongated fruit with smooth dark green skin and whitish flesh n. very tender and very nutritious tissue from marrowbones n. large elongated squash with creamy to deep green skins",
+    "definition_zh": "n. 髓, 骨髓, 精华, 活力, 配偶",
+    "examples": [
+      "Understanding the physiological structure of the marrow is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "membrane_noun",
+    "word": "membrane",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'membrein/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/membrane-us.mp3",
+    "definition_en": "n. a thin pliable sheet of material n. a pliable sheet of tissue that covers or lines or connects the organs or cells of animals or plants",
+    "definition_zh": "n. 薄膜, 膜, 羊皮纸",
+    "examples": [
+      "Understanding the physiological structure of the membrane is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "pancreas_noun",
+    "word": "pancreas",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'pæŋkriәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pancreas-us.mp3",
+    "definition_en": "n. a large elongated exocrine gland located behind the stomach; secretes pancreatic juice and insulin",
+    "definition_zh": "n. 胰腺",
+    "examples": [
+      "Understanding the physiological structure of the pancreas is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "pelvis_noun",
+    "word": "pelvis",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'pelvis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pelvis-us.mp3",
+    "definition_en": "n. the structure of the vertebrate skeleton supporting the lower limbs in humans and the hind limbs or corresponding parts in other vertebrates n. a structure shaped like a funnel in the outlet of the kidney into which urine is discharged before passing into the ureter",
+    "definition_zh": "n. 骨盆",
+    "examples": [
+      "Understanding the physiological structure of the pelvis is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "pupil_noun",
+    "word": "pupil",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'pju:pl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pupil-us.mp3",
+    "definition_en": "n. the contractile aperture in the center of the iris of the eye; resembles a large black dot",
+    "definition_zh": "n. 学生, 门生, 未成年人, 瞳孔",
+    "examples": [
+      "Understanding the physiological structure of the pupil is vital in clinical anatomy."
     ]
   },
   {
@@ -698,11 +1085,178 @@
     "topic": "人体器官与生理解剖",
     "phonetic": "/'retinә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/retina-us.mp3",
-    "definition_en": "A layer at the back of the eyeball sensitive to light, triggering nerve impulses via optic nerves.",
-    "definition_zh": "视网膜",
+    "definition_en": "n. the innermost light-sensitive membrane covering the back wall of the eyeball; it is continuous with the optic nerve",
+    "definition_zh": "n. 视网膜",
     "examples": [
-      "Photoreceptor rods and cones in the retina convert light into electrical impulses.",
-      "Laser surgery can effectively repair a torn retina."
+      "Understanding the physiological structure of the retina is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "spleen_noun",
+    "word": "spleen",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/spli:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spleen-us.mp3",
+    "definition_en": "n. a large dark-red oval organ on the left side of the body between the stomach and the diaphragm; produces cells involved in immune responses",
+    "definition_zh": "n. 脾脏, 坏脾气, 怨恨",
+    "examples": [
+      "Understanding the physiological structure of the spleen is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "tendon_noun",
+    "word": "tendon",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'tendәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tendon-us.mp3",
+    "definition_en": "n. a cord or band of inelastic tissue connecting a muscle with its bony attachment",
+    "definition_zh": "n. 腱",
+    "examples": [
+      "Understanding the physiological structure of the tendon is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "tonsil_noun",
+    "word": "tonsil",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'tɒnsl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tonsil-us.mp3",
+    "definition_en": "n. either of two masses of lymphatic tissue one on each side of the oral pharynx",
+    "definition_zh": "n. 扁桃体",
+    "examples": [
+      "Understanding the physiological structure of the tonsil is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "vertebra_noun",
+    "word": "vertebra",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'vә:tibrә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vertebra-us.mp3",
+    "definition_en": "n. one of the bony segments of the spinal column",
+    "definition_zh": "n. 脊椎, 椎骨",
+    "examples": [
+      "Understanding the physiological structure of the vertebra is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "aorta_noun",
+    "word": "aorta",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/ei'ɒ:tә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aorta-us.mp3",
+    "definition_en": "n. the large trunk artery that carries blood from the left ventricle of the heart to branch arteries",
+    "definition_zh": "n. 主动脉",
+    "examples": [
+      "Understanding the physiological structure of the aorta is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "colon_noun",
+    "word": "colon",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'kәulәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/colon-us.mp3",
+    "definition_en": "n. the part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted n. the basic unit of money in El Salvador; equal to 100 centavos n. the basic unit of money in Costa Rica; equal to 100 centimos n. a port city at the Caribbean entrance to the Panama Canal",
+    "definition_zh": "n. 冒号, 结肠",
+    "examples": [
+      "Understanding the physiological structure of the colon is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "cuticle_noun",
+    "word": "cuticle",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'kju:tikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cuticle-us.mp3",
+    "definition_en": "n. the dead skin at the base of a fingernail or toenail",
+    "definition_zh": "n. 表皮",
+    "examples": [
+      "Understanding the physiological structure of the cuticle is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "femur_noun",
+    "word": "femur",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'fi:mә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/femur-us.mp3",
+    "definition_en": "n. the longest and thickest bone of the human skeleton; extends from the pelvis to the knee",
+    "definition_zh": "n. 大腿骨, (昆虫的)腿节",
+    "examples": [
+      "Understanding the physiological structure of the femur is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "gallbladder_noun",
+    "word": "gallbladder",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'gɒ:lblædә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gallbladder-us.mp3",
+    "definition_en": "n. a muscular sac attached to the liver that stores bile (secreted by the liver) until it is needed for digestion",
+    "definition_zh": "n. 胆囊",
+    "examples": [
+      "Understanding the physiological structure of the gallbladder is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "ligament_noun",
+    "word": "ligament",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'ligәmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ligament-us.mp3",
+    "definition_en": "n. a sheet or band of tough fibrous tissue connecting bones or cartilages or supporting muscles or organs n. any connection or unifying bond",
+    "definition_zh": "n. 结带, 纽带, 韧带",
+    "examples": [
+      "Understanding the physiological structure of the ligament is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "scapula_noun",
+    "word": "scapula",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'skæpjulә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scapula-us.mp3",
+    "definition_en": "n. either of two flat triangular bones one on each side of the shoulder in human beings",
+    "definition_zh": "n. 肩胛, 肩胛骨",
+    "examples": [
+      "Understanding the physiological structure of the scapula is vital in clinical anatomy."
+    ]
+  },
+  {
+    "id": "trachea_noun",
+    "word": "trachea",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人体器官与生理解剖",
+    "phonetic": "/'treikiә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trachea-us.mp3",
+    "definition_en": "n. membranous tube with cartilaginous rings that conveys inhaled air from the larynx to the bronchi n. one of the tubules forming the respiratory system of most insects and many arachnids",
+    "definition_zh": "n. 气管, 导管",
+    "examples": [
+      "Understanding the physiological structure of the trachea is vital in clinical anatomy."
     ]
   }
 ]

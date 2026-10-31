@@ -1,44 +1,30 @@
 [
   {
-    "id": "bean_noun",
-    "word": "bean",
+    "id": "carrot_noun",
+    "word": "carrot",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "蔬菜根茎与菌类",
-    "phonetic": "/bi:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bean-us.mp3",
-    "definition_en": "Any of various edible seeds of plants of the family Leguminosae used for food",
-    "definition_zh": "n. 豆子",
+    "phonetic": "/'kærәt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carrot-us.mp3",
+    "definition_en": "n. deep orange edible root of the cultivated carrot plant n. perennial plant widely cultivated as an annual in many varieties for its long conical orange edible roots; temperate and tropical regions n. orange root; important source of carotene n. promise of reward as in \"carrot and stick\";",
+    "definition_zh": "n. 胡萝卜",
     "examples": [
-      "Fresh bean can be incorporated into a wide variety of delicious recipes."
+      "Fresh carrot is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
-    "id": "beans_noun",
-    "word": "beans",
+    "id": "onion_noun",
+    "word": "onion",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "蔬菜根茎与菌类",
-    "phonetic": "/beans/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beans-us.mp3",
-    "definition_en": "N any of various edible seeds of plants of the family Leguminosae used for food",
-    "definition_zh": "n. 豆子；豆类；黄豆（bean的复数）",
+    "phonetic": "/'ʌnjәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/onion-us.mp3",
+    "definition_en": "n. the bulb of an onion plant n. bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb n. an aromatic flavorful vegetable",
+    "definition_zh": "n. 洋葱",
     "examples": [
-      "Fresh beans can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "beet_noun",
-    "word": "beet",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/bi:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beet-us.mp3",
-    "definition_en": "Biennial Eurasian plant usually having a swollen edible root; widely cultivated as a food crop",
-    "definition_zh": "n. 甜菜(根)",
-    "examples": [
-      "Fresh beet can be incorporated into a wide variety of delicious recipes."
+      "Fresh onion is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -49,25 +35,10 @@
     "topic": "蔬菜根茎与菌类",
     "phonetic": "/pә'teitәu/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/potato-us.mp3",
-    "definition_en": "A starchy plant tuber that is one of the most important food crops worldwide.",
-    "definition_zh": "马铃薯，土豆",
+    "definition_en": "n. an edible tuber native to South America; a staple food of Ireland n. annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous",
+    "definition_zh": "n. 马铃薯",
     "examples": [
-      "Mashed potatoes seasoned with butter and chives accompany the steak.",
-      "Boil the potatoes until tender to make potato salad."
-    ]
-  },
-  {
-    "id": "potatoes_noun",
-    "word": "potatoes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/potatoes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/potatoes-us.mp3",
-    "definition_en": "N an edible tuber native to South America; a staple food of Ireland",
-    "definition_zh": "n. 马铃薯；土豆（potato的复数形式）",
-    "examples": [
-      "Fresh potatoes can be incorporated into a wide variety of delicious recipes."
+      "Fresh potato is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -78,25 +49,10 @@
     "topic": "蔬菜根茎与菌类",
     "phonetic": "/tә'mɑ:tәu/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomato-us.mp3",
-    "definition_en": "A glossy red, or occasionally yellow, pulpy edible fruit eaten as a vegetable or in salad.",
-    "definition_zh": "番茄，西红柿",
+    "definition_en": "n. mildly acid red or yellow pulpy fruit eaten as a vegetable n. native to South America; widely cultivated in many varieties",
+    "definition_zh": "n. 番茄, 西红柿",
     "examples": [
-      "Sun-ripened tomatoes possess sweet acidity ideal for pasta sauce.",
-      "Slice heirloom tomatoes with fresh mozzarella and basil."
-    ]
-  },
-  {
-    "id": "tomatoes_noun",
-    "word": "tomatoes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/tomatoes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomatoes-us.mp3",
-    "definition_en": "N mildly acid red or yellow pulpy fruit eaten as a vegetable",
-    "definition_zh": "n. 蕃茄（tomato的复数形式）",
-    "examples": [
-      "Fresh tomatoes can be incorporated into a wide variety of delicious recipes."
+      "Fresh tomato is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -107,10 +63,10 @@
     "topic": "蔬菜根茎与菌类",
     "phonetic": "/'vedʒәtәbl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetable-us.mp3",
-    "definition_en": "Edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant",
+    "definition_en": "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant n. any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
     "definition_zh": "n. 蔬菜, 植物, 无精打采之人",
     "examples": [
-      "Fresh vegetable can be incorporated into a wide variety of delicious recipes."
+      "Fresh vegetable is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -119,169 +75,82 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "蔬菜根茎与菌类",
-    "phonetic": "/vegetables/",
+    "phonetic": "",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetables-us.mp3",
-    "definition_en": "N edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant",
+    "definition_en": "n edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant n any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
     "definition_zh": "n. 菜类；蔬菜（vegetable的复数形式）",
     "examples": [
-      "Fresh vegetables can be incorporated into a wide variety of delicious recipes."
+      "Fresh vegetables is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "bean_noun",
+    "word": "bean",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/bi:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bean-us.mp3",
+    "definition_en": "n. any of various edible seeds of plants of the family Leguminosae used for food n. any of various seeds or fruits that are beans or resemble beans n. any of various leguminous plants grown for their edible seeds and pods v. hit on the head, especially with a pitched baseball",
+    "definition_zh": "n. 豆子",
+    "examples": [
+      "Fresh bean is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
     "id": "cabbage_noun",
     "word": "cabbage",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "蔬菜根茎与菌类",
     "phonetic": "/'kæbidʒ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cabbage-us.mp3",
-    "definition_en": "A cultivated plant with a round head of dense green or reddish leaves.",
-    "definition_zh": "卷心菜，圆白菜",
+    "definition_en": "n. any of various types of cabbage n. any of various cultivars of the genus Brassica oleracea grown for their edible leaves or flowers",
+    "definition_zh": "n. 卷心菜",
     "examples": [
-      "Shredded red cabbage adds vibrant crunch to winter salads."
+      "Fresh cabbage is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
-    "id": "carrot_noun",
-    "word": "carrot",
+    "id": "corn_noun",
+    "word": "corn",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'kærәt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carrot-us.mp3",
-    "definition_en": "A tapering orange-colored root eaten as a vegetable.",
-    "definition_zh": "胡萝卜",
+    "phonetic": "/kɒ:n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corn-us.mp3",
+    "definition_en": "n. tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times n. the dried grains or kernels or corn used as animal feed or ground for meal n. ears of corn that can be prepared and served for human food n. a hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes",
+    "definition_zh": "n. 玉蜀黍, 谷类, 谷粒, 鸡眼",
     "examples": [
-      "Carrots contain high concentrations of beta-carotene beneficial for eye health.",
-      "Grate raw carrots finely for an aromatic spiced cake."
+      "Fresh corn is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
     "id": "cucumber_noun",
     "word": "cucumber",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "蔬菜根茎与菌类",
     "phonetic": "/'kju:kәmbә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cucumber-us.mp3",
-    "definition_en": "A long, green-skinned fruit with watery flesh, usually eaten raw in salads.",
-    "definition_zh": "黄瓜",
+    "definition_en": "n. a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit n. cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons",
+    "definition_zh": "n. 黄瓜",
     "examples": [
-      "Chilled cucumber slices soothe puffy eyes after long flights."
+      "Fresh cucumber is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
     "id": "garlic_noun",
     "word": "garlic",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "蔬菜根茎与菌类",
     "phonetic": "/'gɑ:lik/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/garlic-us.mp3",
-    "definition_en": "Bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves",
+    "definition_en": "n. bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves n. aromatic bulb used as seasoning",
     "definition_zh": "n. 大蒜",
     "examples": [
-      "Fresh garlic can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "mushroom_noun",
-    "word": "mushroom",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'mʌʃrum/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mushroom-us.mp3",
-    "definition_en": "Common name for an edible agaric (contrasting with the inedible toadstool)",
-    "definition_zh": "n. 蘑菇形物, 蘑菇, 暴发户",
-    "examples": [
-      "Fresh mushroom can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "onion_noun",
-    "word": "onion",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'ʌnjәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/onion-us.mp3",
-    "definition_en": "A swollen edible bulb with a pungent taste and smell, composed of several concentric layers.",
-    "definition_zh": "洋葱，葱头",
-    "examples": [
-      "Sauté diced onions slowly in olive oil until golden and caramelized.",
-      "Chopping raw onions releases sulfurous vapors that cause tearing."
-    ]
-  },
-  {
-    "id": "onions_noun",
-    "word": "onions",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'ʌnjәnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/onions-us.mp3",
-    "definition_en": "N the bulb of an onion plant",
-    "definition_zh": "n. 奥尼恩斯（姓氏）；奥尼恩斯（英国语言学家、词典编纂家）",
-    "examples": [
-      "Fresh onions can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "pea_noun",
-    "word": "pea",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/pi:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pea-us.mp3",
-    "definition_en": "Seed of a pea plant used for food",
-    "definition_zh": "n. 豌豆, 似豌豆的东西",
-    "examples": [
-      "Fresh pea can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "peas_noun",
-    "word": "peas",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/peas/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peas-us.mp3",
-    "definition_en": "N seed of a pea plant used for food",
-    "definition_zh": "n. 豌豆（pea的复数）",
-    "examples": [
-      "Fresh peas can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "pepper_noun",
-    "word": "pepper",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'pepә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pepper-us.mp3",
-    "definition_en": "Climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern Burma and Assam",
-    "definition_zh": "n. 胡椒粉, 胡椒, 辣椒",
-    "examples": [
-      "Fresh pepper can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "broccoli_noun",
-    "word": "broccoli",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'brɒkәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/broccoli-us.mp3",
-    "definition_en": "A cultivated variety of cabbage bearing heads of green or purplish flower buds.",
-    "definition_zh": "西兰花，花椰菜",
-    "examples": [
-      "Steamed broccoli preserves vital micronutrients and retains a vibrant green hue.",
-      "Toss roasted broccoli with minced garlic and grated parmesan."
+      "Fresh garlic is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -292,25 +161,192 @@
     "topic": "蔬菜根茎与菌类",
     "phonetic": "/'letis/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lettuce-us.mp3",
-    "definition_en": "Any of various plants of the genus Lactuca",
+    "definition_en": "n. any of various plants of the genus Lactuca n. leaves of any of various plants of Lactuca sativa",
     "definition_zh": "n. 莴苣, 生菜, 纸币",
     "examples": [
-      "Fresh lettuce can be incorporated into a wide variety of delicious recipes."
+      "Fresh lettuce is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
-    "id": "spinach_noun",
-    "word": "spinach",
+    "id": "mushroom_noun",
+    "word": "mushroom",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "蔬菜根茎与菌类",
-    "phonetic": "/'spinitʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spinach-us.mp3",
-    "definition_en": "An edible flowering plant in the family Amaranthaceae with dark green succulent leaves.",
-    "definition_zh": "菠菜",
+    "phonetic": "/'mʌʃrum/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mushroom-us.mp3",
+    "definition_en": "n. common name for an edible agaric (contrasting with the inedible toadstool) n. mushrooms and related fleshy fungi (including toadstools, puffballs, morels, coral fungi, etc.) n. any of various fleshy fungi of the subdivision Basidiomycota consisting of a cap at the end of a stem arising from an underground mycelium n. a large cloud of rubble and dust shaped like a mushroom and rising into the sky after an explosion (especially of a nuclear bomb)",
+    "definition_zh": "n. 蘑菇形物, 蘑菇, 暴发户",
     "examples": [
-      "Fresh baby spinach wilts within seconds when tossed into hot soup.",
-      "Spinach is renowned for iron and folate content."
+      "Fresh mushroom is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "pea_noun",
+    "word": "pea",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/pi:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pea-us.mp3",
+    "definition_en": "n. seed of a pea plant used for food n. the fruit or seed of a pea plant n. a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds",
+    "definition_zh": "n. 豌豆, 似豌豆的东西",
+    "examples": [
+      "Fresh pea is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "pepper_noun",
+    "word": "pepper",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'pepә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pepper-us.mp3",
+    "definition_en": "n. climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern Burma and Assam n. pungent seasoning from the berry of the common pepper plant of East India; use whole or ground n. sweet and hot varieties of fruits of plants of the genus Capsicum v. add pepper to",
+    "definition_zh": "n. 胡椒粉, 胡椒, 辣椒",
+    "examples": [
+      "Fresh pepper is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "asparagus_noun",
+    "word": "asparagus",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/ә'spærәgәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/asparagus-us.mp3",
+    "definition_en": "n. plant whose succulent young shoots are cooked and eaten as a vegetable n. edible young shoots of the asparagus plant",
+    "definition_zh": "n. 芦笋",
+    "examples": [
+      "Fresh asparagus is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "beet_noun",
+    "word": "beet",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/bi:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beet-us.mp3",
+    "definition_en": "n. biennial Eurasian plant usually having a swollen edible root; widely cultivated as a food crop n. round red root vegetable",
+    "definition_zh": "n. 甜菜(根)",
+    "examples": [
+      "Fresh beet is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "broccoli_noun",
+    "word": "broccoli",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'brɒkәli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/broccoli-us.mp3",
+    "definition_en": "n. plant with dense clusters of tight green flower buds n. branched green undeveloped flower heads",
+    "definition_zh": "n. 花椰菜",
+    "examples": [
+      "Fresh broccoli is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "cauliflower_noun",
+    "word": "cauliflower",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'kɒliflauә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cauliflower-us.mp3",
+    "definition_en": "n. a plant having a large edible head of crowded white flower buds n. compact head of white undeveloped flowers",
+    "definition_zh": "n. 花椰菜",
+    "examples": [
+      "Fresh cauliflower is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "celery_noun",
+    "word": "celery",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'selәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/celery-us.mp3",
+    "definition_en": "n. widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked n. stalks eaten raw or cooked or used as seasoning",
+    "definition_zh": "n. 芹菜",
+    "examples": [
+      "Fresh celery is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "chili_noun",
+    "word": "chili",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'tʃili/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chili-us.mp3",
+    "definition_en": "n. ground beef and chili peppers or chili powder often with tomatoes and kidney beans n. very hot and finely tapering pepper of special pungency",
+    "definition_zh": "n. 干辣椒, 辣椒粉",
+    "examples": [
+      "Fresh chili is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "eggplant_noun",
+    "word": "eggplant",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'egplɑ:nt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eggplant-us.mp3",
+    "definition_en": "n. egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow n. hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable",
+    "definition_zh": "n. 茄子",
+    "examples": [
+      "Fresh eggplant is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "ginger_noun",
+    "word": "ginger",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'dʒindʒә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ginger-us.mp3",
+    "definition_en": "n. perennial plants having thick branching aromatic rhizomes and leafy reedlike stems n. dried ground gingerroot n. pungent rhizome of the common ginger plant; used fresh as a seasoning especially in Asian cookery v. add ginger to in order to add flavor",
+    "definition_zh": "n. 姜, 精力, 姜黄色",
+    "examples": [
+      "Fresh ginger is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "herb_noun",
+    "word": "herb",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/hә:b/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/herb-us.mp3",
+    "definition_en": "n. a plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests n. aromatic potherb used in cookery for its savory qualities",
+    "definition_zh": "n. 药草, 香草",
+    "examples": [
+      "Fresh herb is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "herbs_noun",
+    "word": "herbs",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/herbs-us.mp3",
+    "definition_en": "n a plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests n aromatic potherb used in cookery for its savory qualities",
+    "definition_zh": "n. 药草；草本植物（herb的复数）",
+    "examples": [
+      "Fresh herbs is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -321,10 +357,10 @@
     "topic": "蔬菜根茎与菌类",
     "phonetic": "/li:k/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leek-us.mp3",
-    "definition_en": "Plant having a large slender white bulb and flat overlapping dark green leaves; used in cooking; believed derived from the wild Allium ampeloprasum",
+    "definition_en": "n. plant having a large slender white bulb and flat overlapping dark green leaves; used in cooking; believed derived from the wild Allium ampeloprasum n. related to onions; white cylindrical bulb and flat dark-green leaves",
     "definition_zh": "n. 韭",
     "examples": [
-      "Fresh leek can be incorporated into a wide variety of delicious recipes."
+      "Fresh leek is popular for its rich nutritional value and delightful taste."
     ]
   },
   {
@@ -335,10 +371,374 @@
     "topic": "蔬菜根茎与菌类",
     "phonetic": "/'pʌmpkin/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pumpkin-us.mp3",
-    "definition_en": "A coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes",
+    "definition_en": "n. a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes n. usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn",
     "definition_zh": "n. 南瓜",
     "examples": [
-      "Fresh pumpkin can be incorporated into a wide variety of delicious recipes."
+      "Fresh pumpkin is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "radish_noun",
+    "word": "radish",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'rædiʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/radish-us.mp3",
+    "definition_en": "n. pungent fleshy edible root n. radish of Japan with a long hard durable root eaten raw or cooked n. pungent edible root of any of various cultivated radish plants",
+    "definition_zh": "n. 小萝卜",
+    "examples": [
+      "Fresh radish is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "scallion_noun",
+    "word": "scallion",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'skæljәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scallion-us.mp3",
+    "definition_en": "n plant having a large slender white bulb and flat overlapping dark green leaves; used in cooking; believed derived from the wild Allium ampeloprasum n a young onion before the bulb has enlarged; eaten in salads",
+    "definition_zh": "n. 青葱, 冬葱, 韭葱",
+    "examples": [
+      "Fresh scallion is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "shallot_noun",
+    "word": "shallot",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/ʃә'lɒt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shallot-us.mp3",
+    "definition_en": "n. aggregate bulb of the multiplier onion n. type of onion plant producing small clustered mild-flavored bulbs used as seasoning n. small mild-flavored onion-like or garlic-like clustered bulbs used for seasoning",
+    "definition_zh": "n. 葱",
+    "examples": [
+      "Fresh shallot is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "spinach_noun",
+    "word": "spinach",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'spinitʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spinach-us.mp3",
+    "definition_en": "n. southwestern Asian plant widely cultivated for its succulent edible dark green leaves n. dark green leaves; eaten cooked or raw in salads",
+    "definition_zh": "n. 菠菜, 货币, 胡说八道",
+    "examples": [
+      "Fresh spinach is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "turnip_noun",
+    "word": "turnip",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'tә:nip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/turnip-us.mp3",
+    "definition_en": "n. widely cultivated plant having a large fleshy edible white or yellow root n. root of any of several members of the mustard family",
+    "definition_zh": "n. 芜菁, 芜菁甘蓝",
+    "examples": [
+      "Fresh turnip is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "zucchini_noun",
+    "word": "zucchini",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/zu:'ki:ni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/zucchini-us.mp3",
+    "definition_en": "n. marrow squash plant whose fruit are eaten when small n. small cucumber-shaped vegetable marrow; typically dark green",
+    "definition_zh": "n. 绿皮密生西葫芦",
+    "examples": [
+      "Fresh zucchini is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "artichoke_noun",
+    "word": "artichoke",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'ɑ:titʃәuk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/artichoke-us.mp3",
+    "definition_en": "n. Mediterranean thistlelike plant widely cultivated for its large edible flower head n. a thistlelike flower head with edible fleshy leaves and heart",
+    "definition_zh": "n. 朝鲜蓟",
+    "examples": [
+      "Fresh artichoke is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "arugula_noun",
+    "word": "arugula",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/ә'ru:^әlә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arugula-us.mp3",
+    "definition_en": "n erect European annual often grown as a salad crop to be harvested when young and tender",
+    "definition_zh": "n. 芝麻菜",
+    "examples": [
+      "Fresh arugula is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "cilantro_noun",
+    "word": "cilantro",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/si'lɑ:ntrәj/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cilantro-us.mp3",
+    "definition_en": "n Old World herb with aromatic leaves and seed resembling parsley n parsley-like herb used as seasoning or garnish",
+    "definition_zh": "n. 芫荽叶",
+    "examples": [
+      "Fresh cilantro is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "fennel_noun",
+    "word": "fennel",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'fenәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fennel-us.mp3",
+    "definition_en": "n. any of several aromatic herbs having edible seeds and leaves and stems n. aromatic bulbous stem base eaten cooked or raw in salads n. leaves used for seasoning n. fennel seeds are ground and used as a spice or as an ingredient of a spice mixture",
+    "definition_zh": "n. 茴香",
+    "examples": [
+      "Fresh fennel is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "kale_noun",
+    "word": "kale",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/keil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kale-us.mp3",
+    "definition_en": "n. a hardy cabbage with coarse curly leaves that do not form a head n. coarse curly-leafed cabbage",
+    "definition_zh": "n. 无头甘蓝类, 甘蓝菜, 蔬菜",
+    "examples": [
+      "Fresh kale is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "lentil_noun",
+    "word": "lentil",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'lentil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lentil-us.mp3",
+    "definition_en": "n. round flat seed of the lentil plant used for food n. the fruit or seed of a lentil plant n. widely cultivated Eurasian annual herb grown for its edible flattened seeds that are cooked like peas and also ground into meal and for its leafy stalks that are used as fodder",
+    "definition_zh": "n. 兵豆",
+    "examples": [
+      "Fresh lentil is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "okra_noun",
+    "word": "okra",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'әukrә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/okra-us.mp3",
+    "definition_en": "n. long green edible beaked pods of the okra plant n. tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus",
+    "definition_zh": "n. 秋葵, 秋葵荚, 羊角豆",
+    "examples": [
+      "Fresh okra is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "organic_adjective",
+    "word": "organic",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/ɒ:'gænik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organic-us.mp3",
+    "definition_en": "n. a fertilizer that is derived from animal or vegetable matter a. relating or belonging to the class of chemical compounds having a carbon basis a. being or relating to or derived from or having properties characteristic of living organisms a. involving or affecting physiology or bodily organs",
+    "definition_zh": "a. 器官的, 有机的, 组织的, 根本的",
+    "examples": [
+      "They enjoyed a delightful serving of organic specialties at the gathering."
+    ]
+  },
+  {
+    "id": "parsley_noun",
+    "word": "parsley",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'pɑ:sli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parsley-us.mp3",
+    "definition_en": "n. annual or perennial herb with aromatic leaves n. aromatic herb with flat or crinkly leaves that are cut finely and used to garnish food",
+    "definition_zh": "n. 皱叶欧芹, 荷兰芹",
+    "examples": [
+      "Fresh parsley is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "rhubarb_noun",
+    "word": "rhubarb",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'ru:bɑ:b/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rhubarb-us.mp3",
+    "definition_en": "n. plants having long green or reddish acidic leafstalks growing in basal clumps; stems (and only the stems) are edible when cooked; leaves are poisonous",
+    "definition_zh": "n. 大黄, 大黄根",
+    "examples": [
+      "Fresh rhubarb is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "seaweed_noun",
+    "word": "seaweed",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'si:wi:d/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seaweed-us.mp3",
+    "definition_en": "n. plant growing in the sea, especially marine algae",
+    "definition_zh": "n. 海草, 海藻",
+    "examples": [
+      "Fresh seaweed is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "sprout_noun",
+    "word": "sprout",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/spraut/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sprout-us.mp3",
+    "definition_en": "n. any new growth of a plant such as a new branch or a bud n. a newly grown bud (especially from a germinating seed) v. put forth and grow sprouts or shoots",
+    "definition_zh": "n. 芽, 萌芽",
+    "examples": [
+      "Fresh sprout is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "stalk_noun",
+    "word": "stalk",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/stɒ:k/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stalk-us.mp3",
+    "definition_en": "n. a slender or elongated structure that supports a plant or fungus or a plant part or plant organ n. a hunt for game carried on by following it stealthily or waiting in ambush n. the act of following prey stealthily n. a stiff or threatening gait",
+    "definition_zh": "n. 茎, 追踪, 高视阔步",
+    "examples": [
+      "Fresh stalk is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "tuber_noun",
+    "word": "tuber",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'tju:bә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tuber-us.mp3",
+    "definition_en": "n. a fleshy underground stem or root serving for reproductive and food storage n. type genus of the Tuberaceae: fungi whose fruiting bodies are typically truffles",
+    "definition_zh": "n. 块茎, 突起, 结节",
+    "examples": [
+      "Fresh tuber is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "yam_noun",
+    "word": "yam",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/jæm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yam-us.mp3",
+    "definition_en": "n. edible tuber of any of several yams n. any of a number of tropical vines of the genus Dioscorea many having edible tuberous roots n. sweet potato with deep orange flesh that remains moist when baked",
+    "definition_zh": "n. 山药, 薯蓣",
+    "examples": [
+      "Fresh yam is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "chicory_noun",
+    "word": "chicory",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'tʃikәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chicory-us.mp3",
+    "definition_en": "n. the dried root of the chicory plant: used as a coffee substitute n. perennial Old World herb having rayed flower heads with blue florets cultivated for its root and its heads of crisp edible leaves used in salads n. root of the chicory plant roasted and ground to substitute for or adulterate coffee",
+    "definition_zh": "n. 菊苣",
+    "examples": [
+      "Fresh chicory is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "horseradish_noun",
+    "word": "horseradish",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/hɒ:s'rædiʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/horseradish-us.mp3",
+    "definition_en": "n. the root of the horseradish plant; it is grated or ground and used for seasoning n. coarse Eurasian plant cultivated for its thick white pungent root n. grated horseradish root",
+    "definition_zh": "n. 辣根, 辣根所制调味剂",
+    "examples": [
+      "Fresh horseradish is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "kohlrabi_noun",
+    "word": "kohlrabi",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'kәul'rɑ:bi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kohlrabi-us.mp3",
+    "definition_en": "n. plant cultivated for its enlarged fleshy turnip-shaped edible stem n. fleshy turnip-shaped edible stem of the kohlrabi plant",
+    "definition_zh": "n. 撇蓝",
+    "examples": [
+      "Fresh kohlrabi is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "taro_noun",
+    "word": "taro",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'tɑ:rәu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taro-us.mp3",
+    "definition_en": "n. edible starchy tuberous root of taro plants n. herb of the Pacific islands grown throughout the tropics for its edible root and in temperate areas as an ornamental for its large glossy leaves n. tropical starchy tuberous root",
+    "definition_zh": "n. 芋头",
+    "examples": [
+      "Fresh taro is popular for its rich nutritional value and delightful taste."
+    ]
+  },
+  {
+    "id": "watercress_noun",
+    "word": "watercress",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "蔬菜根茎与菌类",
+    "phonetic": "/'wɔ:tәkres/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/watercress-us.mp3",
+    "definition_en": "n. any of several water-loving cresses n. cresses that grow in clear ponds and streams",
+    "definition_zh": "n. 水田芥, 西洋菜",
+    "examples": [
+      "Fresh watercress is popular for its rich nutritional value and delightful taste."
     ]
   }
 ]

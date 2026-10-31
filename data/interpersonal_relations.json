@@ -1,16 +1,16 @@
 [
   {
-    "id": "aunt_noun",
-    "word": "aunt",
+    "id": "baby_noun",
+    "word": "baby",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/ɑ:nt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aunt-us.mp3",
-    "definition_en": "The sister of your father or mother; the wife of your uncle",
-    "definition_zh": "n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母",
+    "phonetic": "/'beibi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/baby-us.mp3",
+    "definition_en": "n. a very young child (birth to 1 year) who has not yet begun to walk or talk n. the youngest member of a group (not necessarily young) n. an unborn child; a human fetus n. (slang) sometimes used as a term of address for attractive young women",
+    "definition_zh": "n. 婴孩",
     "examples": [
-      "Understanding aunt provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your baby fosters mutual trust and harmony."
     ]
   },
   {
@@ -21,24 +21,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'brʌðә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brother-us.mp3",
-    "definition_en": "A male with the same parents as someone else",
+    "definition_en": "n. a male with the same parents as someone else n. a male person who is a fellow member (of a fraternity or religion or other group) n. used as a term of address for those male persons engaged in the same movement n. (Roman Catholic Church) a title given to a monk and used as form of address",
     "definition_zh": "n. 兄弟",
     "examples": [
-      "Understanding brother provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "brothers_noun",
-    "word": "brothers",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/brothers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brothers-us.mp3",
-    "definition_en": "N a male with the same parents as someone else",
-    "definition_zh": "n. 哥们儿, 兄弟",
-    "examples": [
-      "Understanding brothers provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your brother fosters mutual trust and harmony."
     ]
   },
   {
@@ -49,10 +35,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/tʃaild/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/child-us.mp3",
-    "definition_en": "A young person of either sex",
+    "definition_en": "n. a young person of either sex n. a human offspring (son or daughter) of any age n. an immature childish person n. a member of a clan or tribe",
     "definition_zh": "n. 孩子, 产物, 追随者",
     "examples": [
-      "Understanding child provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your child fosters mutual trust and harmony."
     ]
   },
   {
@@ -63,38 +49,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'tʃildrәn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/children-us.mp3",
-    "definition_en": "N a young person of either sex",
+    "definition_en": "n a young person of either sex n a human offspring (son or daughter) of any age n an immature childish person n a member of a clan or tribe",
     "definition_zh": "pl. 孩子, 孩子们",
     "examples": [
-      "Understanding children provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "cousin_noun",
-    "word": "cousin",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'kʌzәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cousin-us.mp3",
-    "definition_en": "The child of your aunt or uncle",
-    "definition_zh": "n. 堂兄弟姊妹, 表兄弟姊妹",
-    "examples": [
-      "Recent breakthroughs in cousin have accelerated modern technological innovation."
-    ]
-  },
-  {
-    "id": "cousins_noun",
-    "word": "cousins",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/cousins/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cousins-us.mp3",
-    "definition_en": "N the child of your aunt or uncle",
-    "definition_zh": "n. 卡曾斯（姓）",
-    "examples": [
-      "Recent breakthroughs in cousins have accelerated modern technological innovation."
+      "Maintaining healthy communication with your children fosters mutual trust and harmony."
     ]
   },
   {
@@ -105,24 +63,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'dɒ:tә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/daughter-us.mp3",
-    "definition_en": "A female human offspring",
+    "definition_en": "n. a female human offspring",
     "definition_zh": "n. 女儿",
     "examples": [
-      "Understanding daughter provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "daughters_noun",
-    "word": "daughters",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/daughters/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/daughters-us.mp3",
-    "definition_en": "N a female human offspring",
-    "definition_zh": "n. 女儿们（歌曲名）；枕边杀机（电影名）",
-    "examples": [
-      "Understanding daughters provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your daughter fosters mutual trust and harmony."
     ]
   },
   {
@@ -133,10 +77,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'fæmәli/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/family-us.mp3",
-    "definition_en": "A social unit living together",
+    "definition_en": "n. a social unit living together n. primary social group; parents and children n. people descended from a common ancestor n. (biology) a taxonomic group containing one or more genera",
     "definition_zh": "n. 家庭, 家人, 族",
     "examples": [
-      "Understanding family provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your family fosters mutual trust and harmony."
     ]
   },
   {
@@ -147,10 +91,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'fɑ:ðә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/father-us.mp3",
-    "definition_en": "A male parent (also used as a term of address to your father)",
+    "definition_en": "n. a male parent (also used as a term of address to your father) n. `Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); `Padre' is frequently used in the military n. a person who holds an important or distinguished position in some organization n. God when considered as the first person in the Trinity",
     "definition_zh": "n. 父亲, 祖先, 长辈, 神父, 创始者",
     "examples": [
-      "Understanding father provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your father fosters mutual trust and harmony."
     ]
   },
   {
@@ -161,10 +105,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/frend/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friend-us.mp3",
-    "definition_en": "A person you know well and regard with affection and trust",
+    "definition_en": "n. a person you know well and regard with affection and trust n. a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)",
     "definition_zh": "n. 朋友, 支持者, 赞助者",
     "examples": [
-      "Understanding friend provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your friend fosters mutual trust and harmony."
     ]
   },
   {
@@ -173,96 +117,12 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/friends/",
+    "phonetic": "",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friends-us.mp3",
-    "definition_en": "N a person you know well and regard with affection and trust",
+    "definition_en": "n a person you know well and regard with affection and trust n an associate who provides cooperation or assistance n a person with whom you are acquainted n a person who backs a politician or a team etc. n a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)",
     "definition_zh": "n. 老友记（剧集）",
     "examples": [
-      "Understanding friends provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "grandfather_noun",
-    "word": "grandfather",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'grændfɑ:ðә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grandfather-us.mp3",
-    "definition_en": "The father of your father or mother",
-    "definition_zh": "n. 祖父, 始祖",
-    "examples": [
-      "Understanding grandfather provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "grandmother_noun",
-    "word": "grandmother",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'grændmʌðә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grandmother-us.mp3",
-    "definition_en": "N the mother of your father or mother",
-    "definition_zh": "n. 祖母, 女祖先",
-    "examples": [
-      "Understanding grandmother provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "greet_verb",
-    "word": "greet",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/gri:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/greet-us.mp3",
-    "definition_en": "Express greetings upon meeting someone",
-    "definition_zh": "vt. 问候, 致敬, 欢迎, 映入眼帘",
-    "examples": [
-      "Many professionals greet key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "husband_noun",
-    "word": "husband",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'hʌzbәnd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/husband-us.mp3",
-    "definition_en": "A married man; a woman's partner in marriage",
-    "definition_zh": "n. 丈夫, 管理人, 节俭的人",
-    "examples": [
-      "Understanding husband provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "husbands_noun",
-    "word": "husbands",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/husbands/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/husbands-us.mp3",
-    "definition_en": "N a married man; a woman's partner in marriage",
-    "definition_zh": "n. 丈夫；节俭的人（husband的复数）",
-    "examples": [
-      "Understanding husbands provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "kiss_noun",
-    "word": "kiss",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/kis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kiss-us.mp3",
-    "definition_en": "The act of caressing with the lips (or an instance thereof)",
-    "definition_zh": "n. 吻",
-    "examples": [
-      "Understanding kiss provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your friends fosters mutual trust and harmony."
     ]
   },
   {
@@ -273,38 +133,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'mʌðә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mother-us.mp3",
-    "definition_en": "A woman who has given birth to a child (also used as a term of address to your mother)",
+    "definition_en": "n. a woman who has given birth to a child (also used as a term of address to your mother) n. a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar n. a term of address for an elderly woman n. a term of address for a mother superior",
     "definition_zh": "n. 母亲, 修女院长",
     "examples": [
-      "Understanding mother provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "neighbor_noun",
-    "word": "neighbor",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'neibә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neighbor-us.mp3",
-    "definition_en": "A person who lives (or is located) near another",
-    "definition_zh": "n. 邻居",
-    "examples": [
-      "Understanding neighbor provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "neighbors_noun",
-    "word": "neighbors",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/neighbors/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neighbors-us.mp3",
-    "definition_en": "N a person who lives (or is located) near another",
-    "definition_zh": "n. 街坊邻里, 邻居；邻国；邻元素（neighbor的复数）",
-    "examples": [
-      "Understanding neighbors provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your mother fosters mutual trust and harmony."
     ]
   },
   {
@@ -315,24 +147,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'perәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parent-us.mp3",
-    "definition_en": "A father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian",
+    "definition_en": "n. a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian n. an organism (plant or animal) from which younger ones are obtained",
     "definition_zh": "n. 父母, 父母亲, 根源",
     "examples": [
-      "Understanding parent provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "parent_adjective",
-    "word": "parent",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'perәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parent-us.mp3",
-    "definition_en": "A father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian",
-    "definition_zh": "n. 父母, 父母亲, 根源",
-    "examples": [
-      "The committee analyzed a highly parent perspective during the forum."
+      "Maintaining healthy communication with your parent fosters mutual trust and harmony."
     ]
   },
   {
@@ -341,40 +159,26 @@
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/parents/",
+    "phonetic": "",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parents-us.mp3",
-    "definition_en": "N a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian",
+    "definition_en": "n a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian n an organism (plant or animal) from which younger ones are obtained v bring up",
     "definition_zh": "n. 父母；双亲（parent的复数）",
     "examples": [
-      "Understanding parents provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your parents fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "partner_noun",
-    "word": "partner",
+    "id": "people_noun",
+    "word": "people",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'pɑ:tnә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/partner-us.mp3",
-    "definition_en": "A person who is a member of a partnership",
-    "definition_zh": "n. 合伙人, 股东, 伙伴, 伴侣",
+    "phonetic": "/'pi:pl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/people-us.mp3",
+    "definition_en": "n. (plural) any group of human beings (men or women or children) collectively n. members of a family line v. fill with people v. furnish with people",
+    "definition_zh": "n. 人, 人民, 民族, 平民",
     "examples": [
-      "Understanding partner provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "partners_noun",
-    "word": "partners",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/partners/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/partners-us.mp3",
-    "definition_en": "N a person's partner in marriage",
-    "definition_zh": "n. 合作伙伴；合伙人；伙伴（partner的复数形式）",
-    "examples": [
-      "Understanding partners provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your people fosters mutual trust and harmony."
     ]
   },
   {
@@ -385,52 +189,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'sistә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sister-us.mp3",
-    "definition_en": "A female person who has the same parents as another person",
+    "definition_en": "n. a female person who has the same parents as another person n. (Roman Catholic Church) a title given to a nun (and used as a form of address) n. a female person who is a fellow member of a sorority or labor union or other group",
     "definition_zh": "n. 姐妹, 姐, 妹, 护士, 修女",
     "examples": [
-      "Understanding sister provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "sisters_noun",
-    "word": "sisters",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/sisters/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sisters-us.mp3",
-    "definition_en": "N a female person who has the same parents as another person",
-    "definition_zh": "n. 姐妹们（sister的复数形式）",
-    "examples": [
-      "Understanding sisters provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "social_adjective",
-    "word": "social",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sәuʃәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/social-us.mp3",
-    "definition_en": "Relating to human society and its members",
-    "definition_zh": "a. 社会的, 群居的, 社交的",
-    "examples": [
-      "The committee analyzed a highly social perspective during the forum."
-    ]
-  },
-  {
-    "id": "social_noun",
-    "word": "social",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'sәuʃәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/social-us.mp3",
-    "definition_en": "Relating to human society and its members",
-    "definition_zh": "n. 联欢会",
-    "examples": [
-      "Understanding social provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your sister fosters mutual trust and harmony."
     ]
   },
   {
@@ -441,319 +203,122 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/sʌn/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/son-us.mp3",
-    "definition_en": "A male human offspring",
+    "definition_en": "n. a male human offspring n. the divine word of God; the second person in the Trinity (incarnate in Jesus)",
     "definition_zh": "n. 儿子, 女婿, 子孙",
     "examples": [
-      "Understanding son provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your son fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "sons_noun",
-    "word": "sons",
+    "id": "aunt_noun",
+    "word": "aunt",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/sons/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sons-us.mp3",
-    "definition_en": "N a male human offspring",
-    "definition_zh": "n. 儿子们（son的复数）；子弟",
+    "phonetic": "/ɑ:nt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aunt-us.mp3",
+    "definition_en": "n. the sister of your father or mother; the wife of your uncle",
+    "definition_zh": "n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母",
     "examples": [
-      "Understanding sons provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your aunt fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "team_noun",
-    "word": "team",
+    "id": "cousin_noun",
+    "word": "cousin",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/ti:m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/team-us.mp3",
-    "definition_en": "A cooperative unit (especially in sports)",
-    "definition_zh": "n. 队, 组",
+    "phonetic": "/'kʌzәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cousin-us.mp3",
+    "definition_en": "n. the child of your aunt or uncle",
+    "definition_zh": "n. 堂兄弟姊妹, 表兄弟姊妹",
     "examples": [
-      "Understanding team provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "uncle_noun",
-    "word": "uncle",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ʌŋkl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/uncle-us.mp3",
-    "definition_en": "The brother of your father or mother; the husband of your aunt",
-    "definition_zh": "n. 叔父, 伯父, 姨丈",
-    "examples": [
-      "Understanding uncle provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "wife_noun",
-    "word": "wife",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/waif/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wife-us.mp3",
-    "definition_en": "A married woman; a man's partner in marriage",
-    "definition_zh": "n. 妻子, 太太, 夫人",
-    "examples": [
-      "Understanding wife provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "wives_noun",
-    "word": "wives",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/waivz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wives-us.mp3",
-    "definition_en": "N a married woman; a man's partner in marriage",
-    "definition_zh": "妻",
-    "examples": [
-      "Understanding wives provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "colleague_noun",
-    "word": "colleague",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'kɒli:g/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/colleague-us.mp3",
-    "definition_en": "A fellow member of a profession, staff, or academic faculty; a coworker.",
-    "definition_zh": "同事，同僚",
-    "examples": [
-      "He exchanged technical documentation with his senior colleague before the code review.",
-      "Our cross-functional team comprises colleagues from design, product, and QA."
+      "Maintaining healthy communication with your cousin fosters mutual trust and harmony."
     ]
   },
   {
     "id": "crowd_noun",
     "word": "crowd",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "人际交往与家庭社交",
     "phonetic": "/kraud/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crowd-us.mp3",
-    "definition_en": "A large number of things or people considered together",
+    "definition_en": "n. a large number of things or people considered together n. an informal body of friends v. fill or occupy to the point of overflowing v. to gather together in large numbers",
     "definition_zh": "n. 群众, 一伙人",
     "examples": [
-      "Understanding crowd provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your crowd fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "female_adjective",
-    "word": "female",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'fi:meil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/female-us.mp3",
-    "definition_en": "Being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop",
-    "definition_zh": "a. 女性的, 女子的",
-    "examples": [
-      "The committee analyzed a highly female perspective during the forum."
-    ]
-  },
-  {
-    "id": "friendship_noun",
-    "word": "friendship",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'frendʃip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friendship-us.mp3",
-    "definition_en": "The state of being friends (or friendly)",
-    "definition_zh": "n. 友谊, 友爱, 友善",
-    "examples": [
-      "Understanding friendship provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "hug_verb",
-    "word": "hug",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/hʌg/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hug-us.mp3",
-    "definition_en": "Fit closely or tightly",
-    "definition_zh": "vt. 紧抱, 坚持, 使沾沾自喜",
-    "examples": [
-      "Many professionals hug key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "male_noun",
-    "word": "male",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/meil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/male-us.mp3",
-    "definition_en": "An animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)",
-    "definition_zh": "n. 男人, 雄性动物",
-    "examples": [
-      "Fresh male can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "marry_verb",
-    "word": "marry",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'mæri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marry-us.mp3",
-    "definition_en": "Take in marriage",
-    "definition_zh": "vt. 与...结婚, 娶, 嫁",
-    "examples": [
-      "Many professionals marry key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "rumor_noun",
-    "word": "rumor",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'ru:mә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rumor-us.mp3",
-    "definition_en": "Gossip (usually a mixture of truth and untruth) passed around by word of mouth",
-    "definition_zh": "n. 谣言, 传闻",
-    "examples": [
-      "Fresh rumor can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "rumors_noun",
-    "word": "rumors",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/ˈru:məz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rumors-us.mp3",
-    "definition_en": "N gossip (usually a mixture of truth and untruth) passed around by word of mouth",
-    "definition_zh": "n. <美>传闻( rumor的名词复数 ); 名誉; 咕哝; 喧嚷",
-    "examples": [
-      "Fresh rumors can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "stranger_noun",
-    "word": "stranger",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'streindʒә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stranger-us.mp3",
-    "definition_en": "Anyone who does not belong in the environment in which they are found",
-    "definition_zh": "n. 陌生人, 门外汉",
-    "examples": [
-      "Understanding stranger provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "strangers_noun",
-    "word": "strangers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/st'reɪndʒəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strangers-us.mp3",
-    "definition_en": "Anyone who does not belong in the environment in which they are found",
-    "definition_zh": "n. 陌生人( stranger的复数形式 ); 外地人, 初到者",
-    "examples": [
-      "Understanding strangers provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "acquaintance_noun",
-    "word": "acquaintance",
+    "id": "grandfather_noun",
+    "word": "grandfather",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/ә'kweintәns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acquaintance-us.mp3",
-    "definition_en": "Personal knowledge or information about someone or something",
-    "definition_zh": "n. 认识, 相识者",
+    "phonetic": "/'grændfɑ:ðә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grandfather-us.mp3",
+    "definition_en": "n. the father of your father or mother",
+    "definition_zh": "n. 祖父, 始祖",
     "examples": [
-      "Recent breakthroughs in acquaintance have accelerated modern technological innovation."
+      "Maintaining healthy communication with your grandfather fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "enemies_noun",
-    "word": "enemies",
+    "id": "grandmother_noun",
+    "word": "grandmother",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'enəmɪz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enemies-us.mp3",
-    "definition_en": "Pl.  of Enemy",
-    "definition_zh": "n. 仇敌( enemy的名词复数 ); 敌军; 危害物; 大敌",
+    "phonetic": "/'grændmʌðә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grandmother-us.mp3",
+    "definition_en": "n the mother of your father or mother",
+    "definition_zh": "n. 祖母, 女祖先",
     "examples": [
-      "Recent breakthroughs in enemies have accelerated modern technological innovation."
+      "Maintaining healthy communication with your grandmother fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "enemy_noun",
-    "word": "enemy",
+    "id": "group_noun",
+    "word": "group",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'enimi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enemy-us.mp3",
-    "definition_en": "An opposing military force",
-    "definition_zh": "n. 敌人, 仇敌, 敌军",
+    "phonetic": "/gru:p/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/group-us.mp3",
+    "definition_en": "n. any number of entities (members) considered as a unit n. (chemistry) two or more atoms bound together as a single unit and forming part of a molecule n. a set that is closed, associative, has an identity element and every element has an inverse v. arrange into a group or groups",
+    "definition_zh": "n. 团体, 组, 团, 群",
     "examples": [
-      "Understanding enemy provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your group fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "females_noun",
-    "word": "females",
+    "id": "guest_noun",
+    "word": "guest",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'fi:meɪlz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/females-us.mp3",
-    "definition_en": "An animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)",
-    "definition_zh": "n. 雌性动物( female的复数形式 ); 女人",
+    "phonetic": "/gest/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guest-us.mp3",
+    "definition_en": "n. a visitor to whom hospitality is extended n. United States journalist (born in England) noted for his syndicated homey verse (1881-1959) n. a customer of a hotel or restaurant etc.",
+    "definition_zh": "n. 客人, 来宾, 旅客",
     "examples": [
-      "Fresh females can be incorporated into a wide variety of delicious recipes."
+      "Maintaining healthy communication with your guest fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "kiss_verb",
-    "word": "kiss",
-    "part_of_speech": "verb",
+    "id": "husband_noun",
+    "word": "husband",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/kis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kiss-us.mp3",
-    "definition_en": "The act of caressing with the lips (or an instance thereof)",
-    "definition_zh": "vt. 吻",
+    "phonetic": "/'hʌzbәnd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/husband-us.mp3",
+    "definition_en": "n. a married man; a woman's partner in marriage",
+    "definition_zh": "n. 丈夫, 管理人, 节俭的人",
     "examples": [
-      "Many professionals kiss key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "male_adjective",
-    "word": "male",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/meil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/male-us.mp3",
-    "definition_en": "Being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation",
-    "definition_zh": "a. 男性的, 雄性的, 有力的",
-    "examples": [
-      "The committee analyzed a highly male perspective during the forum."
+      "Maintaining healthy communication with your husband fosters mutual trust and harmony."
     ]
   },
   {
@@ -764,108 +329,164 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'mæridʒ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marriage-us.mp3",
-    "definition_en": "The state of being a married couple voluntarily joined for life (or until divorce)",
+    "definition_en": "n. the state of being a married couple voluntarily joined for life (or until divorce) n. two people who are married to each other n. the act of marrying; the nuptial ceremony n. a close and intimate union",
     "definition_zh": "n. 婚姻, 结婚, 婚礼, 合并",
     "examples": [
-      "Understanding marriage provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your marriage fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "nephew_noun",
-    "word": "nephew",
+    "id": "marry_verb",
+    "word": "marry",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'mæri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marry-us.mp3",
+    "definition_en": "v. take in marriage v. perform a marriage ceremony",
+    "definition_zh": "vt. 与...结婚, 娶, 嫁",
+    "examples": [
+      "Maintaining healthy communication with your marry fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "meet_verb",
+    "word": "meet",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/mi:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meet-us.mp3",
+    "definition_en": "n. a meeting at which a number of athletic contests are held v. come together v. get together socially or for a specific purpose v. fill or meet a want or need",
+    "definition_zh": "vt. 遇见, 引见, 认识, 满足, 对付",
+    "examples": [
+      "Maintaining healthy communication with your meet fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "neighbor_noun",
+    "word": "neighbor",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'nefju:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nephew-us.mp3",
-    "definition_en": "A son of your brother or sister",
-    "definition_zh": "n. 侄子, 外甥",
+    "phonetic": "/'neibә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neighbor-us.mp3",
+    "definition_en": "n. a person who lives (or is located) near another n. a nearby object of the same kind v. live or be located as a neighbor",
+    "definition_zh": "n. 邻居",
     "examples": [
-      "Recent breakthroughs in nephew have accelerated modern technological innovation."
+      "Maintaining healthy communication with your neighbor fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "niece_noun",
-    "word": "niece",
+    "id": "partner_noun",
+    "word": "partner",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/ni:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/niece-us.mp3",
-    "definition_en": "A daughter of your brother or sister",
-    "definition_zh": "n. 侄女, 甥女",
+    "phonetic": "/'pɑ:tnә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/partner-us.mp3",
+    "definition_en": "n. a person who is a member of a partnership v. provide with a partner v. act as a partner",
+    "definition_zh": "n. 合伙人, 股东, 伙伴, 伴侣",
     "examples": [
-      "Understanding niece provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your partner fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "parental_adjective",
-    "word": "parental",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/pә'rentәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parental-us.mp3",
-    "definition_en": "Designating the generation of organisms from which hybrid offspring are produced",
-    "definition_zh": "a. 父母亲的, 做双亲的, 作为渊源的",
-    "examples": [
-      "The committee analyzed a highly parental perspective during the forum."
-    ]
-  },
-  {
-    "id": "relative_adjective",
-    "word": "relative",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/'relәtiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relative-us.mp3",
-    "definition_en": "Estimated by comparison; not absolute or complete",
-    "definition_zh": "a. 有关系的, 相对的, 比较的",
-    "examples": [
-      "The committee analyzed a highly relative perspective during the forum."
-    ]
-  },
-  {
-    "id": "relative_noun",
-    "word": "relative",
+    "id": "stranger_noun",
+    "word": "stranger",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'relәtiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relative-us.mp3",
-    "definition_en": "A person related by blood or marriage",
-    "definition_zh": "n. 亲戚, 关系词",
+    "phonetic": "/'streindʒә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stranger-us.mp3",
+    "definition_en": "n. anyone who does not belong in the environment in which they are found n. an individual that one is not acquainted with",
+    "definition_zh": "n. 陌生人, 门外汉",
     "examples": [
-      "Understanding relative provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your stranger fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "relatives_noun",
-    "word": "relatives",
+    "id": "team_noun",
+    "word": "team",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/relatives/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relatives-us.mp3",
-    "definition_en": "N a person related by blood or marriage",
-    "definition_zh": "n. 亲属；[语法学]关系词（relative的复数）",
+    "phonetic": "/ti:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/team-us.mp3",
+    "definition_en": "n. a cooperative unit (especially in sports) n. two or more draft animals that work together to pull something v. form a team",
+    "definition_zh": "n. 队, 组",
     "examples": [
-      "Understanding relatives provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your team fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "colleagues_noun",
-    "word": "colleagues",
+    "id": "uncle_noun",
+    "word": "uncle",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/ʌŋkl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/uncle-us.mp3",
+    "definition_en": "n. the brother of your father or mother; the husband of your aunt n. a source of help and advice and encouragement",
+    "definition_zh": "n. 叔父, 伯父, 姨丈",
+    "examples": [
+      "Maintaining healthy communication with your uncle fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "visit_verb",
+    "word": "visit",
+    "part_of_speech": "verb",
+    "level": "B1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'vizit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/visit-us.mp3",
+    "definition_en": "n. the act of going to see some person or place or thing for a short time n. a meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice n. the act of visiting in an official capacity (as for an inspection) n. the act of going to see some person in a professional capacity",
+    "definition_zh": "vt. 拜访, 访问, 参观, 视察, 降临",
+    "examples": [
+      "Maintaining healthy communication with your visit fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "wife_noun",
+    "word": "wife",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/waif/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wife-us.mp3",
+    "definition_en": "n. a married woman; a man's partner in marriage",
+    "definition_zh": "n. 妻子, 太太, 夫人",
+    "examples": [
+      "Maintaining healthy communication with your wife fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "acquaintance_noun",
+    "word": "acquaintance",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/colleagues/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/colleagues-us.mp3",
-    "definition_en": "N an associate that one works with",
-    "definition_zh": "n. 同事；同行（colleague的复数）",
+    "phonetic": "/ә'kweintәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acquaintance-us.mp3",
+    "definition_en": "n. personal knowledge or information about someone or something n. a relationship less intimate than friendship n. a person with whom you are acquainted",
+    "definition_zh": "n. 认识, 相识者",
     "examples": [
-      "Understanding colleagues provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your acquaintance fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "colleague_noun",
+    "word": "colleague",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'kɒli:g/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/colleague-us.mp3",
+    "definition_en": "n. an associate that one works with n. a person who is member of one's class or profession",
+    "definition_zh": "n. 同事, 同僚",
+    "examples": [
+      "Maintaining healthy communication with your colleague fosters mutual trust and harmony."
     ]
   },
   {
@@ -876,24 +497,24 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/kә'mju:niti/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/community-us.mp3",
-    "definition_en": "A group of people living in a particular local area",
+    "definition_en": "n. a group of people living in a particular local area n. common ownership n. a group of nations having common interests n. agreement as to goals",
     "definition_zh": "n. 社区, 公众, 共有, 共同体",
     "examples": [
-      "Understanding community provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your community fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "crew_noun",
-    "word": "crew",
+    "id": "companion_noun",
+    "word": "companion",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/kru:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crew-us.mp3",
-    "definition_en": "The men and women who man a vehicle (ship, aircraft, etc.)",
-    "definition_zh": "n. 全体人员, 一群人, 全体队员",
+    "phonetic": "/kәm'pænjәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/companion-us.mp3",
+    "definition_en": "n. a friend who is frequently in the company of another n. a traveler who accompanies you n. one paid to accompany or assist or live with another",
+    "definition_zh": "n. 朋友, 陪伴, 指南, 升降口围罩",
     "examples": [
-      "Understanding crew provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your companion fosters mutual trust and harmony."
     ]
   },
   {
@@ -904,52 +525,136 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/di'vɒ:s/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divorce-us.mp3",
-    "definition_en": "The legal dissolution of a marriage",
+    "definition_en": "n. the legal dissolution of a marriage v. get a divorce; formally terminate a marriage",
     "definition_zh": "n. 离婚",
     "examples": [
-      "Understanding divorce provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your divorce fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "divorce_verb",
-    "word": "divorce",
+    "id": "enemy_noun",
+    "word": "enemy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'enimi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enemy-us.mp3",
+    "definition_en": "n. an opposing military force n. an armed adversary (especially a member of an opposing military force) n. any hostile group of people",
+    "definition_zh": "n. 敌人, 仇敌, 敌军",
+    "examples": [
+      "Maintaining healthy communication with your enemy fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "greet_verb",
+    "word": "greet",
     "part_of_speech": "verb",
     "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/di'vɒ:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divorce-us.mp3",
-    "definition_en": "Get a divorce; formally terminate a marriage",
-    "definition_zh": "vt. 与...离婚",
+    "phonetic": "/gri:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/greet-us.mp3",
+    "definition_en": "v. express greetings upon meeting someone v. send greetings to v. react to in a certain way v. be perceived by",
+    "definition_zh": "vt. 问候, 致敬, 欢迎, 映入眼帘",
     "examples": [
-      "Many professionals divorce key methods to achieve consistent, high-quality results."
+      "Maintaining healthy communication with your greet fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "female_noun",
-    "word": "female",
+    "id": "greeting_noun",
+    "word": "greeting",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'fi:meil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/female-us.mp3",
-    "definition_en": "An animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)",
-    "definition_zh": "n. 女性, 女人, 雌性动物",
+    "phonetic": "/'gri:tiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/greeting-us.mp3",
+    "definition_en": "n. (usually plural) an acknowledgment or expression of good will (especially on meeting)",
+    "definition_zh": "n. 祝贺, 问候",
     "examples": [
-      "Fresh female can be incorporated into a wide variety of delicious recipes."
+      "Maintaining healthy communication with your greeting fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "hug_noun",
-    "word": "hug",
+    "id": "household_noun",
+    "word": "household",
     "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'haushәuld/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/household-us.mp3",
+    "definition_en": "n a social unit living together",
+    "definition_zh": "n. 一家人, 家庭, 家族, 王室",
+    "examples": [
+      "Maintaining healthy communication with your household fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "hug_verb",
+    "word": "hug",
+    "part_of_speech": "verb",
     "level": "B2",
     "topic": "人际交往与家庭社交",
     "phonetic": "/hʌg/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hug-us.mp3",
-    "definition_en": "A tight or amorous embrace",
-    "definition_zh": "n. 紧抱, 拥抱",
+    "definition_en": "n. a tight or amorous embrace v. fit closely or tightly",
+    "definition_zh": "vt. 紧抱, 坚持, 使沾沾自喜",
     "examples": [
-      "Understanding hug provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your hug fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "kinship_noun",
+    "word": "kinship",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'kinʃip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kinship-us.mp3",
+    "definition_en": "n. (anthropology) relatedness or connection by blood or marriage or adoption",
+    "definition_zh": "n. 亲属关系",
+    "examples": [
+      "Maintaining healthy communication with your kinship fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "kiss_verb",
+    "word": "kiss",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/kis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kiss-us.mp3",
+    "definition_en": "n. the act of caressing with the lips (or an instance thereof) n. a cookie made of egg whites and sugar n. any of several bite-sized candies n. a light glancing touch",
+    "definition_zh": "vt. 吻",
+    "examples": [
+      "Maintaining healthy communication with your kiss fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "nephew_noun",
+    "word": "nephew",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'nefju:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nephew-us.mp3",
+    "definition_en": "n. a son of your brother or sister",
+    "definition_zh": "n. 侄子, 外甥",
+    "examples": [
+      "Maintaining healthy communication with your nephew fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "niece_noun",
+    "word": "niece",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/ni:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/niece-us.mp3",
+    "definition_en": "n. a daughter of your brother or sister",
+    "definition_zh": "n. 侄女, 甥女",
+    "examples": [
+      "Maintaining healthy communication with your niece fosters mutual trust and harmony."
     ]
   },
   {
@@ -960,24 +665,10 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/piә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peer-us.mp3",
-    "definition_en": "A person who is of equal standing with another in a group",
+    "definition_en": "n. a person who is of equal standing with another in a group n. a nobleman (duke or marquis or earl or viscount or baron) who is a member of the British peerage v. look searchingly",
     "definition_zh": "n. 同等的人, 匹敌, 贵族",
     "examples": [
-      "Understanding peer provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "peers_noun",
-    "word": "peers",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人际交往与家庭社交",
-    "phonetic": "/peers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peers-us.mp3",
-    "definition_en": "N a person who is of equal standing with another in a group",
-    "definition_zh": "n. 平辈, 同事（peer的复数）",
-    "examples": [
-      "Understanding peers provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your peer fosters mutual trust and harmony."
     ]
   },
   {
@@ -988,24 +679,38 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'kwɒrәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quarrel-us.mp3",
-    "definition_en": "An angry dispute",
+    "definition_en": "n. an angry dispute n. an arrow that is shot from a crossbow; has a head with four edges v. have a disagreement over something",
     "definition_zh": "n. 吵架, 反目, 怨言, 方头凿",
     "examples": [
-      "Understanding quarrel provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your quarrel fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "quarrel_verb",
-    "word": "quarrel",
-    "part_of_speech": "verb",
+    "id": "relative_noun",
+    "word": "relative",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'kwɒrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quarrel-us.mp3",
-    "definition_en": "Have a disagreement over something",
-    "definition_zh": "vi. 吵架, 争论, 挑剔",
+    "phonetic": "/'relәtiv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relative-us.mp3",
+    "definition_en": "n. a person related by blood or marriage n. an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus) a. estimated by comparison; not absolute or complete",
+    "definition_zh": "n. 亲戚, 关系词",
     "examples": [
-      "Many professionals quarrel key methods to achieve consistent, high-quality results."
+      "Maintaining healthy communication with your relative fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "relatives_noun",
+    "word": "relatives",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relatives-us.mp3",
+    "definition_en": "n a person related by blood or marriage n an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus)",
+    "definition_zh": "n. 亲属；关系词（relative的复数）",
+    "examples": [
+      "Maintaining healthy communication with your relatives fosters mutual trust and harmony."
     ]
   },
   {
@@ -1016,38 +721,332 @@
     "topic": "人际交往与家庭社交",
     "phonetic": "/'raivl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rival-us.mp3",
-    "definition_en": "The contestant you hope to defeat",
+    "definition_en": "n. the contestant you hope to defeat v. be the rival of, be in competition with",
     "definition_zh": "n. 对手, 竞争者",
     "examples": [
-      "Understanding rival provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your rival fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "rival_adjective",
-    "word": "rival",
+    "id": "social_adjective",
+    "word": "social",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'raivl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rival-us.mp3",
-    "definition_en": "The contestant you hope to defeat",
-    "definition_zh": "a. 竞争的",
+    "phonetic": "/'sәuʃәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/social-us.mp3",
+    "definition_en": "a. relating to human society and its members a. living together or enjoying life in communities or organized groups a. relating to or belonging to or characteristic of high society s. composed of sociable people or formed for the purpose of sociability",
+    "definition_zh": "a. 社会的, 群居的, 社交的",
     "examples": [
-      "The committee analyzed a highly rival perspective during the forum."
+      "Maintaining healthy communication with your social fosters mutual trust and harmony."
     ]
   },
   {
-    "id": "rivals_noun",
-    "word": "rivals",
+    "id": "spouse_noun",
+    "word": "spouse",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人际交往与家庭社交",
-    "phonetic": "/'raivəlz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rivals-us.mp3",
-    "definition_en": "N the contestant you hope to defeat",
-    "definition_zh": "n. 竞争对手( rival的名词复数 )",
+    "phonetic": "/spauz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spouse-us.mp3",
+    "definition_en": "n. a person's partner in marriage",
+    "definition_zh": "n. 配偶",
     "examples": [
-      "Understanding rivals provides valuable insights into everyday communication."
+      "Maintaining healthy communication with your spouse fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "alienation_noun",
+    "word": "alienation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/.eiljә'neiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alienation-us.mp3",
+    "definition_en": "n. the feeling of being alienated from other people n. separation resulting from hostility n. (law) the voluntary and absolute transfer of title and possession of real property from one person to another",
+    "definition_zh": "n. 疏远, 离间, 转让",
+    "examples": [
+      "Maintaining healthy communication with your alienation fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "ancestral_adjective",
+    "word": "ancestral",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/æn'sestrәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ancestral-us.mp3",
+    "definition_en": "s. inherited or inheritable by established rules (usually legal rules) of descent a. of or belonging to or inherited from an ancestor",
+    "definition_zh": "a. 祖先的, 祖传的",
+    "examples": [
+      "Maintaining healthy communication with your ancestral fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "bride_noun",
+    "word": "bride",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/braid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bride-us.mp3",
+    "definition_en": "n. a woman who has recently been married n. a woman participant in her own marriage ceremony",
+    "definition_zh": "n. 新娘",
+    "examples": [
+      "Maintaining healthy communication with your bride fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "camaraderie_noun",
+    "word": "camaraderie",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/.kæmә'rɑ:dәri:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/camaraderie-us.mp3",
+    "definition_en": "n the quality of affording easy familiarity and sociability",
+    "definition_zh": "n. 友情；同志之爱",
+    "examples": [
+      "Maintaining healthy communication with your camaraderie fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "courtship_noun",
+    "word": "courtship",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'kɒ:tʃip/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/courtship-us.mp3",
+    "definition_en": "n. a man's courting of a woman; seeking the affections of a woman (usually with the hope of marriage)",
+    "definition_zh": "n. 求爱, 求婚, 求爱时期",
+    "examples": [
+      "Maintaining healthy communication with your courtship fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "estrangement_noun",
+    "word": "estrangement",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/i'streindʒmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/estrangement-us.mp3",
+    "definition_en": "n separation resulting from hostility n the feeling of being alienated from other people",
+    "definition_zh": "n. 疏远",
+    "examples": [
+      "Maintaining healthy communication with your estrangement fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "fiance_noun",
+    "word": "fiance",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/fi'ɒnsei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fiance-us.mp3",
+    "definition_en": "n. a man who is engaged to be married",
+    "definition_zh": "n. 未婚夫",
+    "examples": [
+      "Maintaining healthy communication with your fiance fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "genealogy_noun",
+    "word": "genealogy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/.dʒi:ni'ælәdʒi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/genealogy-us.mp3",
+    "definition_en": "n. successive generations of kin n. the study or investigation of ancestry and family history",
+    "definition_zh": "n. 系谱, 宗谱, 家系, 世系, 血统",
+    "examples": [
+      "Maintaining healthy communication with your genealogy fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "groom_noun",
+    "word": "groom",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/gru:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/groom-us.mp3",
+    "definition_en": "n. a man participant in his own marriage ceremony n. a man who has recently been married v. care for one's external appearance",
+    "definition_zh": "n. 马夫, 新郎, 男仆",
+    "examples": [
+      "Maintaining healthy communication with your groom fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "hospitality_noun",
+    "word": "hospitality",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/.hɒspi'tæliti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospitality-us.mp3",
+    "definition_en": "n kindness in welcoming guests or strangers",
+    "definition_zh": "n. 款待, 亲切, 殷勤",
+    "examples": [
+      "Maintaining healthy communication with your hospitality fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "intimacy_noun",
+    "word": "intimacy",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'intimәsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/intimacy-us.mp3",
+    "definition_en": "n close or warm friendship n a usually secretive or illicit sexual relationship n a feeling of being intimate and belonging together",
+    "definition_zh": "n. 亲密, 熟悉, 亲昵行为(言语)",
+    "examples": [
+      "Maintaining healthy communication with your intimacy fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "matchmaking_noun",
+    "word": "matchmaking",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'mætʃ.meikiŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/matchmaking-us.mp3",
+    "definition_en": "n. mediation in order to bring about a marriage between others",
+    "definition_zh": "n. 火柴制造, 缔缘, 做媒",
+    "examples": [
+      "Maintaining healthy communication with your matchmaking fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "mentor_noun",
+    "word": "mentor",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'mentɔ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mentor-us.mp3",
+    "definition_en": "n. a wise and trusted guide and advisor v. serve as a teacher or trusted counselor",
+    "definition_zh": "n. 指导者, 良师益友",
+    "examples": [
+      "Maintaining healthy communication with your mentor fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "reconciliation_noun",
+    "word": "reconciliation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/,rekәnsili'eiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reconciliation-us.mp3",
+    "definition_en": "n. the reestablishing of cordial relations n. getting two things to correspond",
+    "definition_zh": "n. 和解, 和好, 复交, 调解, 调停, 和谐, 一致, 甘愿, 顺从",
+    "examples": [
+      "Maintaining healthy communication with your reconciliation fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "sibling_noun",
+    "word": "sibling",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'sibliŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sibling-us.mp3",
+    "definition_en": "n. a person's brother or sister",
+    "definition_zh": "n. 兄弟, 同胞",
+    "examples": [
+      "Maintaining healthy communication with your sibling fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "clique_noun",
+    "word": "clique",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/kli:k/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clique-us.mp3",
+    "definition_en": "n. an exclusive circle of people with a common purpose",
+    "definition_zh": "n. 派系, 集团",
+    "examples": [
+      "Maintaining healthy communication with your clique fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "confidant_noun",
+    "word": "confidant",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/.kɒnfi'dænt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/confidant-us.mp3",
+    "definition_en": "n. someone to whom private matters are confided",
+    "definition_zh": "n. 心腹朋友, 知己",
+    "examples": [
+      "Maintaining healthy communication with your confidant fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "consanguinity_noun",
+    "word": "consanguinity",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/.kɒnsæŋ'gwiniti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consanguinity-us.mp3",
+    "definition_en": "n. (anthropology) related by blood",
+    "definition_zh": "n. 血亲, 血缘, 同族",
+    "examples": [
+      "Maintaining healthy communication with your consanguinity fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "filial_adjective",
+    "word": "filial",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'filiәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/filial-us.mp3",
+    "definition_en": "a. designating the generation or the sequence of generations following the parental generation a. relating to or characteristic of or befitting an offspring",
+    "definition_zh": "a. 子女的, 当做子女的, 孝顺的",
+    "examples": [
+      "Maintaining healthy communication with your filial fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "fraternize_verb",
+    "word": "fraternize",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "/'frætәnaiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fraternize-us.mp3",
+    "definition_en": "v. be on friendly terms with someone, as if with a brother, especially with an enemy",
+    "definition_zh": "vi. 结有深交, 友善",
+    "examples": [
+      "Maintaining healthy communication with your fraternize fosters mutual trust and harmony."
+    ]
+  },
+  {
+    "id": "in-laws_noun",
+    "word": "in-laws",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人际交往与家庭社交",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/in-laws-us.mp3",
+    "definition_en": "n a relative by marriage",
+    "definition_zh": "n. 姻亲",
+    "examples": [
+      "Maintaining healthy communication with your in-laws fosters mutual trust and harmony."
     ]
   }
 ]

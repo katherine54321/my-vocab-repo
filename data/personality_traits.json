@@ -1,156 +1,100 @@
 [
   {
-    "id": "character_noun",
-    "word": "character",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'kærәktә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/character-us.mp3",
-    "definition_en": "The inherent complex of attributes that determines a persons moral and ethical actions and reactions",
-    "definition_zh": "n. 个性, 字符, 人物, 性质, 品格, 资格",
-    "examples": [
-      "Understanding character provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "clever_adjective",
-    "word": "clever",
+    "id": "bad_adjective",
+    "word": "bad",
     "part_of_speech": "adjective",
     "level": "A1",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'klevә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clever-us.mp3",
-    "definition_en": "Showing inventiveness and skill",
-    "definition_zh": "a. 聪明的, 精明的",
+    "phonetic": "/bæd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bad-us.mp3",
+    "definition_en": "n. that which is below standard or expectations as of ethics or decency a. having undesirable or negative qualities s. very intense s. feeling physical discomfort or pain (`tough' is occasionally used colloquially for `bad')",
+    "definition_zh": "a. 坏的",
     "examples": [
-      "The committee analyzed a highly clever perspective during the forum."
+      "Colleagues admired her bad character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "kind_noun",
-    "word": "kind",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/kaind/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kind-us.mp3",
-    "definition_en": "A category of things distinguished by some common characteristic or quality",
-    "definition_zh": "n. 种类, 性质, 方式",
-    "examples": [
-      "Understanding kind provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "lazy_adjective",
-    "word": "lazy",
+    "id": "good_adjective",
+    "word": "good",
     "part_of_speech": "adjective",
     "level": "A1",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'leizi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lazy-us.mp3",
-    "definition_en": "Moving slowly and gently",
-    "definition_zh": "a. 懒惰的, 怠惰的, 缓慢的",
+    "phonetic": "/gud/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/good-us.mp3",
+    "definition_en": "n. benefit n. moral excellence or admirableness n. that which is pleasing or valuable or useful a. having desirable or positive qualities especially those suitable for a thing specified",
+    "definition_zh": "a. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
     "examples": [
-      "The committee analyzed a highly lazy perspective during the forum."
-    ]
-  },
-  {
-    "id": "rude_adjective",
-    "word": "rude",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/ru:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rude-us.mp3",
-    "definition_en": "S socially incorrect in behavior",
-    "definition_zh": "a. 粗鲁无礼的, 粗陋的, 粗暴的, 原始的, 未开化的, 大略的, 崎岖不平的, 狂暴的",
-    "examples": [
-      "The committee analyzed a highly rude perspective during the forum."
-    ]
-  },
-  {
-    "id": "ambition_noun",
-    "word": "ambition",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/æm'biʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambition-us.mp3",
-    "definition_en": "A cherished desire",
-    "definition_zh": "n. 野心, 志向",
-    "examples": [
-      "Understanding ambition provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "brave_adjective",
-    "word": "brave",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/breiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brave-us.mp3",
-    "definition_en": "Possessing or displaying courage; able to face and deal with danger or fear without flinching",
-    "definition_zh": "a. 勇敢的, 美好的, 华丽的",
-    "examples": [
-      "The committee analyzed a highly brave perspective during the forum."
-    ]
-  },
-  {
-    "id": "gentle_adjective",
-    "word": "gentle",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'dʒentl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gentle-us.mp3",
-    "definition_en": "Stroke soothingly",
-    "definition_zh": "a. 温和的, 文雅的",
-    "examples": [
-      "The committee analyzed a highly gentle perspective during the forum."
-    ]
-  },
-  {
-    "id": "greedy_adjective",
-    "word": "greedy",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'gri:di/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/greedy-us.mp3",
-    "definition_en": "Wanting to eat or drink more than one can reasonably consume",
-    "definition_zh": "a. 贪婪的, 贪得的, 贪吃的",
-    "examples": [
-      "The committee analyzed a highly greedy perspective during the forum."
+      "Colleagues admired her good character in handling demanding responsibilities."
     ]
   },
   {
     "id": "kind_adjective",
     "word": "kind",
     "part_of_speech": "adjective",
-    "level": "A2",
+    "level": "A1",
     "topic": "性格品质与人格特质",
     "phonetic": "/kaind/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kind-us.mp3",
-    "definition_en": "Having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+    "definition_en": "n. a category of things distinguished by some common characteristic or quality a. having or showing a tender and considerate and helpful nature; used especially of persons and their behavior s. agreeable, conducive to comfort s. tolerant and forgiving under provocation",
     "definition_zh": "a. 亲切的, 仁慈的, 和蔼的",
     "examples": [
-      "The committee analyzed a highly kind perspective during the forum."
+      "Colleagues admired her kind character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "personality_noun",
-    "word": "personality",
-    "part_of_speech": "noun",
+    "id": "nice_adjective",
+    "word": "nice",
+    "part_of_speech": "adjective",
+    "level": "A1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/nais/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nice-us.mp3",
+    "definition_en": "n. a city in southeastern France on the Mediterranean; the leading resort on the French Riviera a. pleasant or pleasing or agreeable in nature or appearance s. done with delicacy and skill",
+    "definition_zh": "a. 美好的, 和蔼的, 正派的, 做得好的, 精密的, 细微的, 挑剔的, 谨慎的",
+    "examples": [
+      "Colleagues admired her nice character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "friendly_adjective",
+    "word": "friendly",
+    "part_of_speech": "adjective",
     "level": "A2",
     "topic": "性格品质与人格特质",
-    "phonetic": "/.pә:sә'næliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/personality-us.mp3",
-    "definition_en": "The complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual",
-    "definition_zh": "n. 个性, 人格, (团体、地方、国家)特有特性, 名人",
+    "phonetic": "/'frendli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friendly-us.mp3",
+    "definition_en": "n. troops belonging to or allied with your own military forces a. characteristic of or befitting a friend s. inclined to help or support; not antagonistic or hostile a. easy to understand or use",
+    "definition_zh": "a. 友好的, 亲切的, 互助的",
     "examples": [
-      "Understanding personality provides valuable insights into everyday communication."
+      "Colleagues admired her friendly character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "funny_adjective",
+    "word": "funny",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'fʌni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/funny-us.mp3",
+    "definition_en": "s. experiencing odd bodily sensations",
+    "definition_zh": "a. 好笑的, 有趣的, 滑稽的",
+    "examples": [
+      "Colleagues admired her funny character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "lazy_adjective",
+    "word": "lazy",
+    "part_of_speech": "adjective",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'leizi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lazy-us.mp3",
+    "definition_en": "s. moving slowly and gently",
+    "definition_zh": "a. 懒惰的, 怠惰的, 缓慢的",
+    "examples": [
+      "Colleagues admired her lazy character in handling demanding responsibilities."
     ]
   },
   {
@@ -161,178 +105,80 @@
     "topic": "性格品质与人格特质",
     "phonetic": "/pә'lait/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/polite-us.mp3",
-    "definition_en": "Showing regard for others in manners, speech, behavior, etc.",
+    "definition_en": "a. showing regard for others in manners, speech, behavior, etc.",
     "definition_zh": "a. 有礼貌的, 文雅的, 客气的, 有教养的",
     "examples": [
-      "The committee analyzed a highly polite perspective during the forum."
+      "Colleagues admired her polite character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "talent_noun",
-    "word": "talent",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'tælәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/talent-us.mp3",
-    "definition_en": "A person who possesses unusual innate ability in some field or activity",
-    "definition_zh": "n. 天才, 才能, 有才干的人, 天资",
-    "examples": [
-      "Fresh talent can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "talents_noun",
-    "word": "talents",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/talents/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/talents-us.mp3",
-    "definition_en": "N natural abilities or qualities",
-    "definition_zh": "n. 人才；才能, 天赋（talent的复数）",
-    "examples": [
-      "Fresh talents can be incorporated into a wide variety of delicious recipes."
-    ]
-  },
-  {
-    "id": "wisdom_noun",
-    "word": "wisdom",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'wizdәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wisdom-us.mp3",
-    "definition_en": "Accumulated knowledge or erudition or enlightenment",
-    "definition_zh": "n. 智慧, 明智行为, 学识, 名言, 贤人",
-    "examples": [
-      "Understanding wisdom provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "wise_adjective",
-    "word": "wise",
+    "id": "quiet_adjective",
+    "word": "quiet",
     "part_of_speech": "adjective",
     "level": "A2",
     "topic": "性格品质与人格特质",
-    "phonetic": "/waiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wise-us.mp3",
-    "definition_en": "Having or prompted by wisdom or discernment",
-    "definition_zh": "a. 明智的, 慎虑的, 聪明的, 博学的, 狡猾的, 机灵的",
+    "phonetic": "/'kwaiәt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quiet-us.mp3",
+    "definition_en": "a. characterized by an absence or near absence of agitation or activity a. free of noise or uproar; or making little if any sound s. not showy or obtrusive a. of the sun characterized by a low level of surface phenomena like sunspots e.g.",
+    "definition_zh": "a. 安静的, 静止的, 寂静的, 朴素的, 从容的, 暗中的",
     "examples": [
-      "The committee analyzed a highly wise perspective during the forum."
+      "Colleagues admired her quiet character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "wise_noun",
-    "word": "wise",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/waiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wise-us.mp3",
-    "definition_en": "A way of doing or being",
-    "definition_zh": "n. 方法, 方式",
-    "examples": [
-      "Understanding wise provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "ambitious_adjective",
-    "word": "ambitious",
+    "id": "active_adjective",
+    "word": "active",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "性格品质与人格特质",
-    "phonetic": "/æm'biʃәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambitious-us.mp3",
-    "definition_en": "Having a strong desire for success or achievement",
-    "definition_zh": "a. 有野心的, 抱负不凡的, 雄心勃勃的",
+    "phonetic": "/'æktiv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/active-us.mp3",
+    "definition_en": "n. a person who is a participating member of an organization a. tending to become more severe or wider in scope s. engaged in or ready for military or naval operations a. disposed to take action or effectuate change",
+    "definition_zh": "a. 活跃的, 起作用的, 积极的, 有效的, 主动的, 活性的, 现行的, 现役的",
     "examples": [
-      "The committee analyzed a highly ambitious perspective during the forum."
+      "Colleagues admired her active character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "cautious_adjective",
-    "word": "cautious",
+    "id": "brave_adjective",
+    "word": "brave",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'kɒ:ʃәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cautious-us.mp3",
-    "definition_en": "Showing careful forethought; never making swift decisions\"",
-    "definition_zh": "a. 谨慎的, 小心的",
+    "phonetic": "/breiv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brave-us.mp3",
+    "definition_en": "n. a North American Indian warrior n. people who are brave a. possessing or displaying courage; able to face and deal with danger or fear without flinching s. brightly colored and showy",
+    "definition_zh": "a. 勇敢的, 美好的, 华丽的",
     "examples": [
-      "The committee analyzed a highly cautious perspective during the forum."
+      "Colleagues admired her brave character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "courage_noun",
-    "word": "courage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'kʌridʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/courage-us.mp3",
-    "definition_en": "A quality of spirit that enables you to face danger or pain without showing fear",
-    "definition_zh": "n. 勇气, 胆量",
-    "examples": [
-      "Understanding courage provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "courageous_adjective",
-    "word": "courageous",
+    "id": "calm_adjective",
+    "word": "calm",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "性格品质与人格特质",
-    "phonetic": "/kә'reidʒәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/courageous-us.mp3",
-    "definition_en": "A possessing or displaying courage; able to face and deal with danger or fear without flinching",
-    "definition_zh": "a. 勇敢的, 大胆的, 有胆量的",
+    "phonetic": "/kɑ:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/calm-us.mp3",
+    "definition_en": "v. make calm or still v. become quiet or calm, especially after a state of agitation s. not agitated; without losing self-possession a. (of weather) free from storm or wind",
+    "definition_zh": "a. 平静的, 冷静的",
     "examples": [
-      "The committee analyzed a highly courageous perspective during the forum."
+      "Colleagues admired her calm character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "cruel_adjective",
-    "word": "cruel",
+    "id": "clever_adjective",
+    "word": "clever",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'kru:әl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cruel-us.mp3",
-    "definition_en": "S (of persons or their actions) able or disposed to inflict pain or suffering",
-    "definition_zh": "a. 残酷的, 令人极痛苦的",
+    "phonetic": "/'klevә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clever-us.mp3",
+    "definition_en": "s. showing inventiveness and skill",
+    "definition_zh": "a. 聪明的, 精明的",
     "examples": [
-      "The committee analyzed a highly cruel perspective during the forum."
-    ]
-  },
-  {
-    "id": "diligence_noun",
-    "word": "diligence",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'dilidʒәns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diligence-us.mp3",
-    "definition_en": "Conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation",
-    "definition_zh": "n. 勤奋",
-    "examples": [
-      "Recent breakthroughs in diligence have accelerated modern technological innovation."
-    ]
-  },
-  {
-    "id": "diligent_adjective",
-    "word": "diligent",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'dilidʒәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diligent-us.mp3",
-    "definition_en": "Characterized by care and perseverance in carrying out tasks",
-    "definition_zh": "a. 勤勉的, 用功的",
-    "examples": [
-      "The committee analyzed a highly diligent perspective during the forum."
+      "Colleagues admired her clever character in handling demanding responsibilities."
     ]
   },
   {
@@ -343,10 +189,10 @@
     "topic": "性格品质与人格特质",
     "phonetic": "/'fu:liʃ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/foolish-us.mp3",
-    "definition_en": "Devoid of good sense or judgment",
+    "definition_en": "a. devoid of good sense or judgment",
     "definition_zh": "a. 愚蠢的, 傻的",
     "examples": [
-      "The committee analyzed a highly foolish perspective during the forum."
+      "Colleagues admired her foolish character in handling demanding responsibilities."
     ]
   },
   {
@@ -357,10 +203,10 @@
     "topic": "性格品质与人格特质",
     "phonetic": "/'dʒenәrәs/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/generous-us.mp3",
-    "definition_en": "Willing to give and share unstintingly",
+    "definition_en": "a. willing to give and share unstintingly a. not petty in character and mind s. more than adequate",
     "definition_zh": "a. 慷慨的, 有雅量的, 大量的, 丰富的",
     "examples": [
-      "The committee analyzed a highly generous perspective during the forum."
+      "Colleagues admired her generous character in handling demanding responsibilities."
     ]
   },
   {
@@ -371,80 +217,38 @@
     "topic": "性格品质与人格特质",
     "phonetic": "/'ɒnist/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/honest-us.mp3",
-    "definition_en": "Not disposed to cheat or defraud; not deceptive or fraudulent",
+    "definition_en": "a. not disposed to cheat or defraud; not deceptive or fraudulent s. without dissimulation; frank s. without pretensions s. marked by truth",
     "definition_zh": "a. 诚实的, 坦直的, 可靠的",
     "examples": [
-      "The committee analyzed a highly honest perspective during the forum."
+      "Colleagues admired her honest character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "honesty_noun",
-    "word": "honesty",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'ɒnisti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/honesty-us.mp3",
-    "definition_en": "The quality of being honest",
-    "definition_zh": "n. 诚实, 公正, 正直",
-    "examples": [
-      "Understanding honesty provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "kindness_noun",
-    "word": "kindness",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'kaindnis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kindness-us.mp3",
-    "definition_en": "The quality of being warmhearted and considerate and humane and sympathetic",
-    "definition_zh": "n. 仁慈, 亲切, 和蔼",
-    "examples": [
-      "Understanding kindness provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "loyal_adjective",
-    "word": "loyal",
+    "id": "impatient_adjective",
+    "word": "impatient",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'lɒiәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loyal-us.mp3",
-    "definition_en": "Steadfast in allegiance or duty",
-    "definition_zh": "a. 忠诚的, 忠实的, 忠贞的",
+    "phonetic": "/im'peiʃәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impatient-us.mp3",
+    "definition_en": "a. restless or short-tempered under delay or opposition s. (usually followed by `to') full of eagerness",
+    "definition_zh": "a. 不耐烦的, 着急的, 急切的",
     "examples": [
-      "The committee analyzed a highly loyal perspective during the forum."
+      "Colleagues admired her impatient character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "loyalty_noun",
-    "word": "loyalty",
-    "part_of_speech": "noun",
+    "id": "modest_adjective",
+    "word": "modest",
+    "part_of_speech": "adjective",
     "level": "B1",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'lɒiәlti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loyalty-us.mp3",
-    "definition_en": "The quality of being loyal",
-    "definition_zh": "n. 忠贞, 忠诚, 忠实",
+    "phonetic": "/'mɒdist/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/modest-us.mp3",
+    "definition_en": "a. marked by simplicity; having a humble opinion of yourself s. not large but sufficient in size or amount s. free from pomp or affectation a. not offensive to sexual mores in conduct or appearance",
+    "definition_zh": "a. 谦逊的, 羞怯的, 端庄的, 适度的",
     "examples": [
-      "Understanding loyalty provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "patience_noun",
-    "word": "patience",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'peiʃәns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/patience-us.mp3",
-    "definition_en": "Good-natured tolerance of delay or incompetence",
-    "definition_zh": "n. 耐性, 忍耐",
-    "examples": [
-      "Understanding patience provides valuable insights into everyday communication."
+      "Colleagues admired her modest character in handling demanding responsibilities."
     ]
   },
   {
@@ -455,10 +259,24 @@
     "topic": "性格品质与人格特质",
     "phonetic": "/'peiʃәnt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/patient-us.mp3",
-    "definition_en": "Enduring trying circumstances with even temper or characterized by such endurance",
+    "definition_en": "n. a person who requires medical care a. enduring trying circumstances with even temper or characterized by such endurance",
     "definition_zh": "a. 忍耐的, 容忍的, 有耐性的, 坚忍的",
     "examples": [
-      "The committee analyzed a highly patient perspective during the forum."
+      "Colleagues admired her patient character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "rude_adjective",
+    "word": "rude",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/ru:d/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rude-us.mp3",
+    "definition_en": "s socially incorrect in behavior s (of persons) lacking in refinement or grace a lacking civility or good manners s (used especially of commodities) being unprocessed or manufactured using only simple or minimal processes s belonging to an early stage of technical development; characterized by simplicity and (often) crudeness",
+    "definition_zh": "a. 粗鲁无礼的, 粗陋的, 粗暴的, 原始的, 未开化的, 大略的, 崎岖不平的, 狂暴的",
+    "examples": [
+      "Colleagues admired her rude character in handling demanding responsibilities."
     ]
   },
   {
@@ -469,94 +287,234 @@
     "topic": "性格品质与人格特质",
     "phonetic": "/'selfiʃ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/selfish-us.mp3",
-    "definition_en": "Concerned chiefly or only with yourself and your advantage to the exclusion of others",
+    "definition_en": "a. concerned chiefly or only with yourself and your advantage to the exclusion of others",
     "definition_zh": "a. 自私的, 利己主义的, 自我中心的",
     "examples": [
-      "The committee analyzed a highly selfish perspective during the forum."
+      "Colleagues admired her selfish character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "stubborn_adjective",
-    "word": "stubborn",
+    "id": "serious_adjective",
+    "word": "serious",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'stʌbәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stubborn-us.mp3",
-    "definition_en": "Tenaciously unwilling or marked by tenacious unwillingness to yield",
-    "definition_zh": "a. 顽固的, 不听话的, 执拗的, 棘手的",
+    "phonetic": "/'siәriәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/serious-us.mp3",
+    "definition_en": "a. concerned with work or important matters rather than play or trivialities s. of great consequence s. requiring effort or concentration; complex and not easy to answer or solve",
+    "definition_zh": "a. 严肃的, 认真的, 重要的, 严重的",
     "examples": [
-      "The committee analyzed a highly stubborn perspective during the forum."
+      "Colleagues admired her serious character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "talented_adjective",
-    "word": "talented",
+    "id": "strict_adjective",
+    "word": "strict",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'tælәntid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/talented-us.mp3",
-    "definition_en": "Endowed with talent or talents",
-    "definition_zh": "a. 天资高的, 有才能的",
+    "phonetic": "/strikt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strict-us.mp3",
+    "definition_en": "s rigidly accurate; allowing no deviation from a standard s (of rules) stringently enforced a characterized by strictness, severity, or restraint s incapable of compromise or flexibility s severe and unremitting in making demands",
+    "definition_zh": "a. 严厉的, 绝对的, 详尽的, 严格的, 精确的",
     "examples": [
-      "The committee analyzed a highly talented perspective during the forum."
+      "Colleagues admired her strict character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "arrogant_adjective",
-    "word": "arrogant",
+    "id": "warm_adjective",
+    "word": "warm",
+    "part_of_speech": "adjective",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/wɒ:m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/warm-us.mp3",
+    "definition_en": "v. get warm or warmer v. make warm or warmer a. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat a. psychologically warm; friendly and responsive",
+    "definition_zh": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的",
+    "examples": [
+      "Colleagues admired her warm character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "ambition_noun",
+    "word": "ambition",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/æm'biʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambition-us.mp3",
+    "definition_en": "n. a cherished desire n. a strong drive for success v. have as one's ambition",
+    "definition_zh": "n. 野心, 志向",
+    "examples": [
+      "Displaying genuine ambition earned him widespread respect across the organization."
+    ]
+  },
+  {
+    "id": "ambitious_adjective",
+    "word": "ambitious",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'ærәɡәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrogant-us.mp3",
-    "definition_en": "Having or showing feelings of unwarranted importance out of overbearing pride",
-    "definition_zh": "a. 自大的, 傲慢的",
+    "phonetic": "/æm'biʃәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambitious-us.mp3",
+    "definition_en": "a. having a strong desire for success or achievement s. requiring full use of your abilities or resources",
+    "definition_zh": "a. 有野心的, 抱负不凡的, 雄心勃勃的",
     "examples": [
-      "The committee analyzed a highly arrogant perspective during the forum."
+      "Colleagues admired her ambitious character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "bravery_noun",
-    "word": "bravery",
-    "part_of_speech": "noun",
+    "id": "cautious_adjective",
+    "word": "cautious",
+    "part_of_speech": "adjective",
     "level": "B2",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'breivәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bravery-us.mp3",
-    "definition_en": "N a quality of spirit that enables you to face danger or pain without showing fear",
-    "definition_zh": "n. 勇敢",
+    "phonetic": "/'kɒ:ʃәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cautious-us.mp3",
+    "definition_en": "a. showing careful forethought; never making swift decisions\" s. avoiding excess",
+    "definition_zh": "a. 谨慎的, 小心的",
     "examples": [
-      "Understanding bravery provides valuable insights into everyday communication."
+      "Colleagues admired her cautious character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "cruelty_noun",
-    "word": "cruelty",
+    "id": "courage_noun",
+    "word": "courage",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'kru:әlti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cruelty-us.mp3",
-    "definition_en": "A cruel act; a deliberate infliction of pain and suffering",
-    "definition_zh": "n. 残酷, 野蛮, 残酷行为",
+    "phonetic": "/'kʌridʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/courage-us.mp3",
+    "definition_en": "n. a quality of spirit that enables you to face danger or pain without showing fear",
+    "definition_zh": "n. 勇气, 胆量",
     "examples": [
-      "Understanding cruelty provides valuable insights into everyday communication."
+      "Displaying genuine courage earned him widespread respect across the organization."
     ]
   },
   {
-    "id": "generosity_noun",
-    "word": "generosity",
+    "id": "courageous_adjective",
+    "word": "courageous",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/kә'reidʒәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/courageous-us.mp3",
+    "definition_en": "a possessing or displaying courage; able to face and deal with danger or fear without flinching",
+    "definition_zh": "a. 勇敢的, 大胆的, 有胆量的",
+    "examples": [
+      "Colleagues admired her courageous character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "cruel_adjective",
+    "word": "cruel",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'kru:әl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cruel-us.mp3",
+    "definition_en": "s (of persons or their actions) able or disposed to inflict pain or suffering",
+    "definition_zh": "a. 残酷的, 令人极痛苦的",
+    "examples": [
+      "Colleagues admired her cruel character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "cynical_adjective",
+    "word": "cynical",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'sinikәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cynical-us.mp3",
+    "definition_en": "s. believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others",
+    "definition_zh": "a. 愤世嫉俗的, 讽刺的, 冷嘲的",
+    "examples": [
+      "Colleagues admired her cynical character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "diligence_noun",
+    "word": "diligence",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "性格品质与人格特质",
-    "phonetic": "/.dʒenә'rɒsiti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/generosity-us.mp3",
-    "definition_en": "The trait of being willing to give your money or time",
-    "definition_zh": "n. 慷慨, 宽大",
+    "phonetic": "/'dilidʒәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diligence-us.mp3",
+    "definition_en": "n. conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation n. persevering determination to perform a task",
+    "definition_zh": "n. 勤奋",
     "examples": [
-      "Recent breakthroughs in generosity have accelerated modern technological innovation."
+      "Displaying genuine diligence earned him widespread respect across the organization."
+    ]
+  },
+  {
+    "id": "diligent_adjective",
+    "word": "diligent",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'dilidʒәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diligent-us.mp3",
+    "definition_en": "s. quietly and steadily persevering especially in detail or exactness a. characterized by care and perseverance in carrying out tasks",
+    "definition_zh": "a. 勤勉的, 用功的",
+    "examples": [
+      "Colleagues admired her diligent character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "eccentric_adjective",
+    "word": "eccentric",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/ik'sentrik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eccentric-us.mp3",
+    "definition_en": "n. a person with an unusual or odd personality a. not having a common center; not concentric",
+    "definition_zh": "a. 古怪的, 反常的, 不同圆心的",
+    "examples": [
+      "Colleagues admired her eccentric character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "extrovert_noun",
+    "word": "extrovert",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'ekstrәuvә:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/extrovert-us.mp3",
+    "definition_en": "n. (psychology) a person concerned more with practical realities than with inner thoughts and feelings s. being concerned with the social and physical environment",
+    "definition_zh": "n. 外向性格的人",
+    "examples": [
+      "Displaying genuine extrovert earned him widespread respect across the organization."
+    ]
+  },
+  {
+    "id": "gentle_adjective",
+    "word": "gentle",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'dʒentl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gentle-us.mp3",
+    "definition_en": "v. stroke soothingly s. soft and mild; not harsh or stern or severe s. having or showing a kindly or tender nature s. quiet and soothing",
+    "definition_zh": "a. 温和的, 文雅的",
+    "examples": [
+      "Colleagues admired her gentle character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "greedy_adjective",
+    "word": "greedy",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'gri:di/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/greedy-us.mp3",
+    "definition_en": "s. wanting to eat or drink more than one can reasonably consume",
+    "definition_zh": "a. 贪婪的, 贪得的, 贪吃的",
+    "examples": [
+      "Colleagues admired her greedy character in handling demanding responsibilities."
     ]
   },
   {
@@ -567,24 +525,52 @@
     "topic": "性格品质与人格特质",
     "phonetic": "/'hʌmbl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/humble-us.mp3",
-    "definition_en": "Marked by meekness or modesty; not arrogant or prideful",
+    "definition_en": "v. cause to be unpretentious s. low or inferior in station or quality a. marked by meekness or modesty; not arrogant or prideful s. used of unskilled work (especially domestic work)",
     "definition_zh": "a. 低下的, 谦逊的, 粗陋的",
     "examples": [
-      "The committee analyzed a highly humble perspective during the forum."
+      "Colleagues admired her humble character in handling demanding responsibilities."
     ]
   },
   {
-    "id": "modest_adjective",
-    "word": "modest",
+    "id": "introvert_noun",
+    "word": "introvert",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'intrәuvә:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/introvert-us.mp3",
+    "definition_en": "n. (psychology) a person who tends to shrink from social contacts and to become preoccupied with their own thoughts v. turn inside",
+    "definition_zh": "n. 个性内向者",
+    "examples": [
+      "Displaying genuine introvert earned him widespread respect across the organization."
+    ]
+  },
+  {
+    "id": "loyal_adjective",
+    "word": "loyal",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "性格品质与人格特质",
-    "phonetic": "/'mɒdist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/modest-us.mp3",
-    "definition_en": "Marked by simplicity; having a humble opinion of yourself",
-    "definition_zh": "a. 谦逊的, 羞怯的, 端庄的, 适度的",
+    "phonetic": "/'lɒiәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loyal-us.mp3",
+    "definition_en": "a. steadfast in allegiance or duty",
+    "definition_zh": "a. 忠诚的, 忠实的, 忠贞的",
     "examples": [
-      "The committee analyzed a highly modest perspective during the forum."
+      "Colleagues admired her loyal character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "loyalty_noun",
+    "word": "loyalty",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'lɒiәlti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loyalty-us.mp3",
+    "definition_en": "n. the quality of being loyal n. feelings of allegiance",
+    "definition_zh": "n. 忠贞, 忠诚, 忠实",
+    "examples": [
+      "Displaying genuine loyalty earned him widespread respect across the organization."
     ]
   },
   {
@@ -595,24 +581,10 @@
     "topic": "性格品质与人格特质",
     "phonetic": "/'nәubl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/noble-us.mp3",
-    "definition_en": "Of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times",
+    "definition_en": "a. of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times a. having or showing or indicative of high or elevated character s. inert especially toward oxygen",
     "definition_zh": "a. 高贵的, 高尚的, 贵族的, 辉煌的",
     "examples": [
-      "The committee analyzed a highly noble perspective during the forum."
-    ]
-  },
-  {
-    "id": "noble_noun",
-    "word": "noble",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'nәubl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/noble-us.mp3",
-    "definition_en": "Of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times",
-    "definition_zh": "n. 贵族",
-    "examples": [
-      "Understanding noble provides valuable insights into everyday communication."
+      "Colleagues admired her noble character in handling demanding responsibilities."
     ]
   },
   {
@@ -623,10 +595,10 @@
     "topic": "性格品质与人格特质",
     "phonetic": "/sin'siә/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sincere-us.mp3",
-    "definition_en": "Open and genuine; not deceitful",
+    "definition_en": "a. open and genuine; not deceitful",
     "definition_zh": "a. 诚实的, 正直的, 真挚的, 纯净的",
     "examples": [
-      "The committee analyzed a highly sincere perspective during the forum."
+      "Colleagues admired her sincere character in handling demanding responsibilities."
     ]
   },
   {
@@ -637,136 +609,430 @@
     "topic": "性格品质与人格特质",
     "phonetic": "/sin'serәti/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sincerity-us.mp3",
-    "definition_en": "The quality of being open and truthful; not deceitful or hypocritical",
+    "definition_en": "n. the quality of being open and truthful; not deceitful or hypocritical n. a quality of naturalness and simplicity",
     "definition_zh": "n. 诚实, 真实, 诚心诚意",
     "examples": [
-      "Understanding sincerity provides valuable insights into everyday communication."
+      "Displaying genuine sincerity earned him widespread respect across the organization."
     ]
   },
   {
-    "id": "trait_noun",
-    "word": "trait",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/treit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trait-us.mp3",
-    "definition_en": "A distinguishing feature of your personal nature",
-    "definition_zh": "n. 特征, 特性, 一笔, 少许",
-    "examples": [
-      "Recent breakthroughs in trait have accelerated modern technological innovation."
-    ]
-  },
-  {
-    "id": "traits_noun",
-    "word": "traits",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/traits/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/traits-us.mp3",
-    "definition_en": "N a distinguishing feature of your personal nature",
-    "definition_zh": "n. 特性, 特质, 性格（trait的复数）",
-    "examples": [
-      "Recent breakthroughs in traits have accelerated modern technological innovation."
-    ]
-  },
-  {
-    "id": "untalented_adjective",
-    "word": "untalented",
+    "id": "stubborn_adjective",
+    "word": "stubborn",
     "part_of_speech": "adjective",
     "level": "B2",
     "topic": "性格品质与人格特质",
-    "phonetic": "/ʌn'tælәntid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/untalented-us.mp3",
-    "definition_en": "Devoid of talent; not gifted",
-    "definition_zh": "a. 缺乏才能的, 没有才干的；没有天赋的；不聪明的",
+    "phonetic": "/'stʌbәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stubborn-us.mp3",
+    "definition_en": "a. tenaciously unwilling or marked by tenacious unwillingness to yield",
+    "definition_zh": "a. 顽固的, 不听话的, 执拗的, 棘手的",
     "examples": [
-      "The committee analyzed a highly untalented perspective during the forum."
-    ]
-  },
-  {
-    "id": "cynic_noun",
-    "word": "cynic",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'sinik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cynic-us.mp3",
-    "definition_en": "Someone who is critical of the motives of others",
-    "definition_zh": "n. 犬儒学派的人, 玩世不恭的人, 愤世嫉俗者, 好挖苦人的人",
-    "examples": [
-      "Understanding cynic provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "cynical_adjective",
-    "word": "cynical",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'sinikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cynical-us.mp3",
-    "definition_en": "Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others",
-    "definition_zh": "a. 愤世嫉俗的, 讽刺的, 冷嘲的",
-    "examples": [
-      "The committee analyzed a highly cynical perspective during the forum."
-    ]
-  },
-  {
-    "id": "eccentric_adjective",
-    "word": "eccentric",
-    "part_of_speech": "adjective",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/ik'sentrik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eccentric-us.mp3",
-    "definition_en": "Not having a common center; not concentric",
-    "definition_zh": "a. 古怪的, 反常的, 不同圆心的",
-    "examples": [
-      "The committee analyzed a highly eccentric perspective during the forum."
-    ]
-  },
-  {
-    "id": "eccentric_noun",
-    "word": "eccentric",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/ik'sentrik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eccentric-us.mp3",
-    "definition_en": "A person with an unusual or odd personality",
-    "definition_zh": "n. 怪人, 偏心圆",
-    "examples": [
-      "Understanding eccentric provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "humble_verb",
-    "word": "humble",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "phonetic": "/'hʌmbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/humble-us.mp3",
-    "definition_en": "Cause to be unpretentious",
-    "definition_zh": "vt. 使...卑下, 降低...地位, 贬抑",
-    "examples": [
-      "Many professionals humble key methods to achieve consistent, high-quality results."
+      "Colleagues admired her stubborn character in handling demanding responsibilities."
     ]
   },
   {
     "id": "timid_adjective",
     "word": "timid",
     "part_of_speech": "adjective",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "phonetic": "/'timid/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/timid-us.mp3",
-    "definition_en": "Showing fear and lack of confidence",
+    "definition_en": "n. people who are fearful and cautious a. showing fear and lack of confidence",
     "definition_zh": "a. 胆小的, 羞怯的",
     "examples": [
-      "The committee analyzed a highly timid perspective during the forum."
+      "Colleagues admired her timid character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "wisdom_noun",
+    "word": "wisdom",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'wizdәm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wisdom-us.mp3",
+    "definition_en": "n. accumulated knowledge or erudition or enlightenment n. the trait of utilizing knowledge and experience with common sense and insight n. ability to apply knowledge or experience or understanding or common sense and insight n. the quality of being prudent and sensible",
+    "definition_zh": "n. 智慧, 明智行为, 学识, 名言, 贤人",
+    "examples": [
+      "Displaying genuine wisdom earned him widespread respect across the organization."
+    ]
+  },
+  {
+    "id": "wise_adjective",
+    "word": "wise",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/waiz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wise-us.mp3",
+    "definition_en": "n. a way of doing or being n. United States Jewish leader (born in Hungary) (1874-1949) n. United States religious leader (born in Bohemia) who united reform Jewish organizations in the United States (1819-1900) a. having or prompted by wisdom or discernment",
+    "definition_zh": "a. 明智的, 慎虑的, 聪明的, 博学的, 狡猾的, 机灵的",
+    "examples": [
+      "Colleagues admired her wise character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "arrogance_noun",
+    "word": "arrogance",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'ærәgәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrogance-us.mp3",
+    "definition_en": "n. overbearing pride evidenced by a superior manner toward inferiors",
+    "definition_zh": "n. 傲慢态度, 自大",
+    "examples": [
+      "Displaying genuine arrogance earned him widespread respect across the organization."
+    ]
+  },
+  {
+    "id": "arrogant_adjective",
+    "word": "arrogant",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'ærәɡәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrogant-us.mp3",
+    "definition_en": "s. having or showing feelings of unwarranted importance out of overbearing pride",
+    "definition_zh": "a. 自大的, 傲慢的",
+    "examples": [
+      "Colleagues admired her arrogant character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "charismatic_adjective",
+    "word": "charismatic",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/,kæriz'mætik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/charismatic-us.mp3",
+    "definition_en": "s. possessing an extraordinary ability to attract",
+    "definition_zh": "a. 魅力, 能吸引大众的非凡能力, 神授的能力, 领袖人物感人的超凡魅力",
+    "examples": [
+      "Colleagues admired her charismatic character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "deceitful_adjective",
+    "word": "deceitful",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/di'si:tful/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deceitful-us.mp3",
+    "definition_en": "s. intended to deceive",
+    "definition_zh": "a. 欺诈的",
+    "examples": [
+      "Colleagues admired her deceitful character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "defiant_adjective",
+    "word": "defiant",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/di'faiәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/defiant-us.mp3",
+    "definition_en": "a. boldly resisting authority or an opposing force",
+    "definition_zh": "a. 挑衅的, 目中无人的",
+    "examples": [
+      "Colleagues admired her defiant character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "discreet_adjective",
+    "word": "discreet",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/dis'kri:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discreet-us.mp3",
+    "definition_en": "a. marked by prudence or modesty and wise self-restraint",
+    "definition_zh": "a. 小心的, 慎重的",
+    "examples": [
+      "Colleagues admired her discreet character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "empathetic_adjective",
+    "word": "empathetic",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/em'pæθik. .empә'θetik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/empathetic-us.mp3",
+    "definition_en": "s showing empathy or ready comprehension of others' states",
+    "definition_zh": "a. 移情作用的；同感的（等于empathic）",
+    "examples": [
+      "Colleagues admired her empathetic character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "hypocritical_adjective",
+    "word": "hypocritical",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/.hipә'kritikl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hypocritical-us.mp3",
+    "definition_en": "s. professing feelings or virtues one does not have",
+    "definition_zh": "a. 伪善的, 伪善者的",
+    "examples": [
+      "Colleagues admired her hypocritical character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "impulsive_adjective",
+    "word": "impulsive",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/im'pʌlsiv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impulsive-us.mp3",
+    "definition_en": "s. proceeding from natural feeling or impulse without external stimulus s. without forethought",
+    "definition_zh": "a. 冲动的, 受感情驱使的, 任性的",
+    "examples": [
+      "Colleagues admired her impulsive character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "indifferent_adjective",
+    "word": "indifferent",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/in'difәrәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/indifferent-us.mp3",
+    "definition_en": "s. showing no care or concern in attitude or action s. fairly poor to not very good s. marked by no especial liking or dislike or preference for one thing over another s. characterized by a lack of partiality",
+    "definition_zh": "a. 漠不关心的, 无重要性的, 中立的",
+    "examples": [
+      "Colleagues admired her indifferent character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "integrity_noun",
+    "word": "integrity",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/in'tegriti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/integrity-us.mp3",
+    "definition_en": "n. an undivided or unbroken completeness or totality with nothing wanting n. moral soundness",
+    "definition_zh": "n. 正直, 廉正, 完整",
+    "examples": [
+      "Displaying genuine integrity earned him widespread respect across the organization."
+    ]
+  },
+  {
+    "id": "malicious_adjective",
+    "word": "malicious",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/mә'liʃәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/malicious-us.mp3",
+    "definition_en": "a. having the nature of or resulting from malice",
+    "definition_zh": "a. 怀恶意的, 恶毒的",
+    "examples": [
+      "Colleagues admired her malicious character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "meticulous_adjective",
+    "word": "meticulous",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/mә'tikjulәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meticulous-us.mp3",
+    "definition_en": "s. marked by precise accordance with details s. marked by extreme care in treatment of details",
+    "definition_zh": "a. 一丝不苟的, 精确的, 过细的",
+    "examples": [
+      "Colleagues admired her meticulous character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "persistent_adjective",
+    "word": "persistent",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/pә'sistәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/persistent-us.mp3",
+    "definition_en": "s. never-ceasing a. retained; not shed",
+    "definition_zh": "a. 固执的, 坚持的, 持续的, 作用持久的",
+    "examples": [
+      "Colleagues admired her persistent character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "reckless_adjective",
+    "word": "reckless",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'reklis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reckless-us.mp3",
+    "definition_en": "s marked by defiant disregard for danger or consequences s characterized by careless unconcern",
+    "definition_zh": "a. 不介意的, 大意的, 鲁莽的, 不顾后果的",
+    "examples": [
+      "Colleagues admired her reckless character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "resilient_adjective",
+    "word": "resilient",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/ri'ziliәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resilient-us.mp3",
+    "definition_en": "s. recovering readily from adversity, depression, or the like",
+    "definition_zh": "a. 弹回的, 有弹力的",
+    "examples": [
+      "Colleagues admired her resilient character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "ruthless_adjective",
+    "word": "ruthless",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'ru:θlis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ruthless-us.mp3",
+    "definition_en": "s without mercy or pity",
+    "definition_zh": "a. 无情的, 残忍的, 毫不留情的, 彻底的",
+    "examples": [
+      "Colleagues admired her ruthless character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "skeptical_adjective",
+    "word": "skeptical",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'skeptikәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skeptical-us.mp3",
+    "definition_en": "s denying or questioning the tenets of especially a religion s marked by or given to doubt",
+    "definition_zh": "a. 怀疑论的, 怀疑的, 不可知论的",
+    "examples": [
+      "Colleagues admired her skeptical character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "versatile_adjective",
+    "word": "versatile",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'vә:sәtail/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/versatile-us.mp3",
+    "definition_en": "s. having great diversity or variety s. changeable or inconstant s. competent in many areas and able to turn with ease from one thing to another s. able to move freely in all directions",
+    "definition_zh": "a. 多才多艺的, 万用的, 万向的",
+    "examples": [
+      "Colleagues admired her versatile character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "zealous_adjective",
+    "word": "zealous",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'zelәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-us.mp3",
+    "definition_en": "s marked by active interest and enthusiasm",
+    "definition_zh": "a. 热衷的, 热诚的, 热心的, 热情的",
+    "examples": [
+      "Colleagues admired her zealous character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "fastidious_adjective",
+    "word": "fastidious",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/fæs'tidiәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fastidious-us.mp3",
+    "definition_en": "a. giving careful attention to detail; hard to please; excessively concerned with cleanliness a. having complicated nutritional requirements; especially growing only in special artificial cultures",
+    "definition_zh": "a. 难取悦的, 挑剔的, 苛求的",
+    "examples": [
+      "Colleagues admired her fastidious character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "gregarious_adjective",
+    "word": "gregarious",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/gre'gєәriәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gregarious-us.mp3",
+    "definition_en": "a. (of animals) tending to form a group with others of the same species s. instinctively or temperamentally seeking and enjoying the company of others a. (of plants) growing in groups that are close together",
+    "definition_zh": "a. 社交的, 群居的",
+    "examples": [
+      "Colleagues admired her gregarious character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "indolent_adjective",
+    "word": "indolent",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/'indәlәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/indolent-us.mp3",
+    "definition_en": "s. (of tumors, e.g.) slow to heal or develop and usually painless",
+    "definition_zh": "a. 懒惰的, 无痛的",
+    "examples": [
+      "Colleagues admired her indolent character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "magnanimous_adjective",
+    "word": "magnanimous",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/mæg'nænimәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/magnanimous-us.mp3",
+    "definition_en": "s noble and generous in spirit s generous and understanding and tolerant",
+    "definition_zh": "a. 宽宏大量的, 有雅量的",
+    "examples": [
+      "Colleagues admired her magnanimous character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "pusillanimous_adjective",
+    "word": "pusillanimous",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/.pju:si'lænimәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pusillanimous-us.mp3",
+    "definition_en": "s. lacking in courage and manly strength and resolution; contemptibly fearful",
+    "definition_zh": "a. 无勇气的, 胆怯的, 优柔寡断的",
+    "examples": [
+      "Colleagues admired her pusillanimous character in handling demanding responsibilities."
+    ]
+  },
+  {
+    "id": "unscrupulous_adjective",
+    "word": "unscrupulous",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "性格品质与人格特质",
+    "phonetic": "/.ʌn'skru:pjulәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unscrupulous-us.mp3",
+    "definition_en": "a. without scruples or principles",
+    "definition_zh": "a. 无道德原则的, 不审慎的, 肆无忌惮的",
+    "examples": [
+      "Colleagues admired her unscrupulous character in handling demanding responsibilities."
     ]
   }
 ]

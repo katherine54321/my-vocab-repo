@@ -1,45 +1,16 @@
 [
   {
-    "id": "judge_verb",
-    "word": "judge",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "法学与司法正义",
-    "phonetic": "/dʒʌdʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/judge-us.mp3",
-    "definition_en": "Determine the result of (a competition)",
-    "definition_zh": "vt. 审理, 鉴定, 判断, 判决, 裁定",
-    "examples": [
-      "Officials must judge institutional guidelines to uphold public integrity."
-    ]
-  },
-  {
-    "id": "pardon_noun",
-    "word": "pardon",
+    "id": "police_noun",
+    "word": "police",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "法学与司法正义",
-    "phonetic": "/'pɑ:dn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pardon-us.mp3",
-    "definition_en": "A warrant granting release from punishment for an offense",
-    "definition_zh": "n. 原谅, 赦免",
+    "phonetic": "/pә'li:s/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/police-us.mp3",
+    "definition_en": "n. the force of policemen and officers",
+    "definition_zh": "n. 警察, 警察当局, 治安",
     "examples": [
-      "Understanding pardon provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "court_noun",
-    "word": "court",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/kɒ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/court-us.mp3",
-    "definition_en": "A tribunal presided over by a judge or other judicial officers in civil and criminal cases.",
-    "definition_zh": "法院，法庭",
-    "examples": [
-      "The high court will hear arguments concerning patent infringement.",
-      "The witness took an oath before testifying in front of the court."
+      "Legal practitioners carefully examine the police to ensure justice and procedural fairness."
     ]
   },
   {
@@ -50,136 +21,108 @@
     "topic": "法学与司法正义",
     "phonetic": "/kraim/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crime-us.mp3",
-    "definition_en": "(criminal law) an act punishable by law; usually considered an evil act",
+    "definition_en": "n. (criminal law) an act punishable by law; usually considered an evil act n. an evil act not necessarily punishable by law",
     "definition_zh": "n. 犯罪, 罪行, 罪恶",
     "examples": [
-      "The new policy addressing crime was debated extensively by the committee."
+      "Legal practitioners carefully examine the crime to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "crimes_noun",
-    "word": "crimes",
+    "id": "prison_noun",
+    "word": "prison",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "法学与司法正义",
-    "phonetic": "/crimes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crimes-us.mp3",
-    "definition_en": "N (criminal law) an act punishable by law; usually considered an evil act",
-    "definition_zh": "n. 犯罪（crime的复数形式）",
+    "phonetic": "/'prizn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prison-us.mp3",
+    "definition_en": "n. a correctional institution where persons are confined while on trial or for punishment n. a prisonlike situation; a place of seeming confinement",
+    "definition_zh": "n. 监狱, 监禁, 拘留所",
     "examples": [
-      "The new policy addressing crimes was debated extensively by the committee."
+      "Legal practitioners carefully examine the prison to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "illegal_adjective",
-    "word": "illegal",
+    "id": "rule_noun",
+    "word": "rule",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "法学与司法正义",
+    "phonetic": "/ru:l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rule-us.mp3",
+    "definition_en": "n. a principle or condition that customarily governs behavior n. prescribed guide for conduct or action n. (linguistics) a rule describing (or prescribing) a linguistic practice n. the duration of a monarch's or government's power",
+    "definition_zh": "n. 规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线",
+    "examples": [
+      "Legal practitioners carefully examine the rule to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "safe_adjective",
+    "word": "safe",
     "part_of_speech": "adjective",
     "level": "A2",
     "topic": "法学与司法正义",
-    "phonetic": "/i'li:gәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illegal-us.mp3",
-    "definition_en": "Prohibited by law or by official or accepted rules",
-    "definition_zh": "a. 违法的, 不合规定的",
+    "phonetic": "/seif/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/safe-us.mp3",
+    "definition_en": "n. strongbox where valuables can be safely kept n. a ventilated or refrigerated cupboard for securing provisions from pests a. free from danger or the risk of harm s. (of an undertaking) secure from risk",
+    "definition_zh": "a. 安全的, 可靠的, 平安的, 稳健的, 有把握的",
     "examples": [
-      "The committee analyzed a highly illegal perspective during the forum."
+      "Legal practitioners carefully examine the safe to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "judges_noun",
-    "word": "judges",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'dʒʌdʒiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/judges-us.mp3",
-    "definition_en": "A book of the Old Testament that tells the history of Israel under the leaders known as judges",
-    "definition_zh": "n. 士师记（又译《民长记》, 旧约全书之一卷）",
-    "examples": [
-      "The new policy addressing judges was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "law_noun",
-    "word": "law",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/lɒ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/law-us.mp3",
-    "definition_en": "The collection of rules imposed by authority",
-    "definition_zh": "n. 法律, 法则, 定律, 法律的制约, 法学, 司法界, 诉讼",
-    "examples": [
-      "The new policy addressing law was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "lawyer_noun",
-    "word": "lawyer",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'lɒ:jә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawyer-us.mp3",
-    "definition_en": "A professional person authorized to practice law; conducts lawsuits or gives legal advice",
-    "definition_zh": "n. 律师",
-    "examples": [
-      "The new policy addressing lawyer was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "lawyers_noun",
-    "word": "lawyers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "法学与司法正义",
-    "phonetic": "/lawyers/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawyers-us.mp3",
-    "definition_en": "N a professional person authorized to practice law; conducts lawsuits or gives legal advice",
-    "definition_zh": "n. 律师（lawyer的复数）",
-    "examples": [
-      "The new policy addressing lawyers was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "appeal_noun",
-    "word": "appeal",
+    "id": "arrest_noun",
+    "word": "arrest",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/ә'pi:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appeal-us.mp3",
-    "definition_en": "Attractiveness that interests or pleases or stimulates",
-    "definition_zh": "n. 恳求, 诉请, 上诉, 吸引力",
+    "phonetic": "/ә'rest/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrest-us.mp3",
+    "definition_en": "n. the state of inactivity following an interruption",
+    "definition_zh": "n. 逮捕, 监禁",
     "examples": [
-      "The new policy addressing appeal was debated extensively by the committee."
+      "Legal practitioners carefully examine the arrest to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "cage_noun",
-    "word": "cage",
+    "id": "complaint_noun",
+    "word": "complaint",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/keidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cage-us.mp3",
-    "definition_en": "An enclosure made or wire or metal bars in which birds or animals can be kept",
-    "definition_zh": "n. 笼, 牢房, 战俘营",
+    "phonetic": "/kәm'pleint/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/complaint-us.mp3",
+    "definition_en": "n. (formerly) a loud cry (or repeated cries) of pain or rage or sorrow n. an expression of grievance or resentment n. (civil law) the first pleading of the plaintiff setting out the facts on which the claim for relief is based",
+    "definition_zh": "n. 诉苦, 抱怨, 控诉",
     "examples": [
-      "Understanding cage provides valuable insights into everyday communication."
+      "Legal practitioners carefully examine the complaint to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "cells_noun",
-    "word": "cells",
+    "id": "contract_noun",
+    "word": "contract",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/cells/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cells-us.mp3",
-    "definition_en": "N any small compartment",
-    "definition_zh": "n. 细胞；牢房；小屋；单元格（cell的复数）",
+    "phonetic": "/'kɒntrækt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contract-us.mp3",
+    "definition_en": "n. a binding agreement between two or more persons that is enforceable by law n. (contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make n. a variety of bridge in which the bidder receives points toward game only for the number of tricks he bid v. enter into a contractual arrangement",
+    "definition_zh": "n. 合约, 婚约, 契约",
     "examples": [
-      "Maintaining proper health supports the optimal function of the cells."
+      "Legal practitioners carefully examine the contract to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "court_noun",
+    "word": "court",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "法学与司法正义",
+    "phonetic": "/kɒ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/court-us.mp3",
+    "definition_en": "n. an assembly (including one or more judges) to conduct judicial business n. a room in which a lawcourt sits n. the sovereign and his advisers who are the governing power of a state n. a specially marked horizontal area within which a game is played",
+    "definition_zh": "n. 法院, 庭院, 奉承",
+    "examples": [
+      "Legal practitioners carefully examine the court to ensure justice and procedural fairness."
     ]
   },
   {
@@ -190,66 +133,38 @@
     "topic": "法学与司法正义",
     "phonetic": "/'kriminәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/criminal-us.mp3",
-    "definition_en": "Someone who has committed a crime or has been legally convicted of a crime",
+    "definition_en": "n. someone who has committed a crime or has been legally convicted of a crime s. guilty of crime or serious offense s. involving or being or having the nature of a crime",
     "definition_zh": "n. 罪犯, 犯人, 刑事",
     "examples": [
-      "The new policy addressing criminal was debated extensively by the committee."
+      "Legal practitioners carefully examine the criminal to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "guilt_noun",
-    "word": "guilt",
+    "id": "evidence_noun",
+    "word": "evidence",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/gilt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guilt-us.mp3",
-    "definition_en": "The state of having committed an offense",
-    "definition_zh": "n. 罪行, 内疚",
+    "phonetic": "/'evidәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/evidence-us.mp3",
+    "definition_en": "n. your basis for belief or disbelief; knowledge on which to base belief n. an indication that makes something evident n. (law) all the means by which any alleged matter of fact whose truth is investigated at judicial trial is established or disproved",
+    "definition_zh": "n. 根据, 证据, 迹象",
     "examples": [
-      "The new policy addressing guilt was debated extensively by the committee."
+      "Legal practitioners carefully examine the evidence to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "guilty_adjective",
-    "word": "guilty",
+    "id": "illegal_adjective",
+    "word": "illegal",
     "part_of_speech": "adjective",
     "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/'gilti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guilty-us.mp3",
-    "definition_en": "Responsible for or chargeable with a reprehensible act",
-    "definition_zh": "a. 犯罪的, 有过失的, 自觉有错的, 心虚的",
+    "phonetic": "/i'li:gәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/illegal-us.mp3",
+    "definition_en": "a. prohibited by law or by official or accepted rules",
+    "definition_zh": "a. 违法的, 不合规定的",
     "examples": [
-      "The committee analyzed a highly guilty perspective during the forum."
-    ]
-  },
-  {
-    "id": "innocent_adjective",
-    "word": "innocent",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'inәsәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/innocent-us.mp3",
-    "definition_en": "Free from evil or guilt",
-    "definition_zh": "a. 无罪的, 不懂事的, 无知的",
-    "examples": [
-      "The committee analyzed a highly innocent perspective during the forum."
-    ]
-  },
-  {
-    "id": "jail_noun",
-    "word": "jail",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/dʒeil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jail-us.mp3",
-    "definition_en": "A correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)",
-    "definition_zh": "n. 监牢, 监狱, 拘留所",
-    "examples": [
-      "The new policy addressing jail was debated extensively by the committee."
+      "Legal practitioners carefully examine the illegal to ensure justice and procedural fairness."
     ]
   },
   {
@@ -260,10 +175,24 @@
     "topic": "法学与司法正义",
     "phonetic": "/dʒʌdʒ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/judge-us.mp3",
-    "definition_en": "A public official authorized to decide questions brought before a court of justice",
+    "definition_en": "n. a public official authorized to decide questions brought before a court of justice v. determine the result of (a competition) v. put on trial or hear a case and sit as the judge at the trial of",
     "definition_zh": "n. 法官, 裁判员, 审判官, 鉴定人",
     "examples": [
-      "The new policy addressing judge was debated extensively by the committee."
+      "Legal practitioners carefully examine the judge to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "law_noun",
+    "word": "law",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "法学与司法正义",
+    "phonetic": "/lɒ:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/law-us.mp3",
+    "definition_en": "n. the collection of rules imposed by authority n. legal document setting forth rules governing a particular kind of activity n. a rule or body of rules of conduct inherent in human nature and essential to or binding upon human society n. a generalization that describes recurring facts or events in nature",
+    "definition_zh": "n. 法律, 法则, 定律, 法律的制约, 法学, 司法界, 诉讼",
+    "examples": [
+      "Legal practitioners carefully examine the law to ensure justice and procedural fairness."
     ]
   },
   {
@@ -274,52 +203,24 @@
     "topic": "法学与司法正义",
     "phonetic": "/'li:gәl/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/legal-us.mp3",
-    "definition_en": "Established by or founded upon law or official or accepted rules",
+    "definition_en": "a. established by or founded upon law or official or accepted rules a. of or relating to jurisprudence s. having legal efficacy or force a. relating to or characteristic of the profession of law",
     "definition_zh": "a. 法律的, 法定的, 合法的",
     "examples": [
-      "The committee analyzed a highly legal perspective during the forum."
+      "Legal practitioners carefully examine the legal to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "legal_noun",
-    "word": "legal",
+    "id": "murder_noun",
+    "word": "murder",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/'li:gәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/legal-us.mp3",
-    "definition_en": "Established by or founded upon law or official or accepted rules",
-    "definition_zh": "a. 法律的, 法定的, 合法的",
+    "phonetic": "/'mә:dә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/murder-us.mp3",
+    "definition_en": "n. unlawful premeditated killing of a human being by a human being v. kill intentionally and with premeditation",
+    "definition_zh": "n. 谋杀",
     "examples": [
-      "The new policy addressing legal was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "pardon_verb",
-    "word": "pardon",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'pɑ:dn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pardon-us.mp3",
-    "definition_en": "Grant a pardon to",
-    "definition_zh": "vt. 宽恕, 原谅",
-    "examples": [
-      "Many professionals pardon key methods to achieve consistent, high-quality results."
-    ]
-  },
-  {
-    "id": "prison_noun",
-    "word": "prison",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "法学与司法正义",
-    "phonetic": "/'prizn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prison-us.mp3",
-    "definition_en": "A correctional institution where persons are confined while on trial or for punishment",
-    "definition_zh": "n. 监狱, 监禁, 拘留所",
-    "examples": [
-      "The new policy addressing prison was debated extensively by the committee."
+      "Legal practitioners carefully examine the murder to ensure justice and procedural fairness."
     ]
   },
   {
@@ -330,94 +231,402 @@
     "topic": "法学与司法正义",
     "phonetic": "/'pʌniʃ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/punish-us.mp3",
-    "definition_en": "Impose a penalty on; inflict punishment on",
+    "definition_en": "v. impose a penalty on; inflict punishment on",
     "definition_zh": "vt. 处罚, 惩罚, 严厉对待",
     "examples": [
-      "Officials must punish institutional guidelines to uphold public integrity."
+      "Legal practitioners carefully examine the punish to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "punishment_noun",
-    "word": "punishment",
+    "id": "sentence_noun",
+    "word": "sentence",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/'pʌniʃmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/punishment-us.mp3",
-    "definition_en": "The act of punishing",
-    "definition_zh": "n. 处罚, 刑罚, 惩罚",
+    "phonetic": "/'sentәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sentence-us.mp3",
+    "definition_en": "n. a string of words satisfying the grammatical rules of a language v. pronounce a sentence on (somebody) in a court of law",
+    "definition_zh": "n. 句子, 命题, 宣判",
     "examples": [
-      "The new policy addressing punishment was debated extensively by the committee."
+      "Legal practitioners carefully examine the sentence to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "ward_noun",
-    "word": "ward",
+    "id": "theft_noun",
+    "word": "theft",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "法学与司法正义",
-    "phonetic": "/wɒ:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ward-us.mp3",
-    "definition_en": "A person who is under the protection or in the custody of another",
-    "definition_zh": "n. 病房, 守卫, 保卫, 保护, 监护, 牢房, 行政区, 锁孔内的榫舌",
+    "phonetic": "/θeft/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/theft-us.mp3",
+    "definition_en": "n the act of taking something from someone unlawfully",
+    "definition_zh": "n. 盗窃, 失窃, 盗窃罪, 赃物",
     "examples": [
-      "Understanding ward provides valuable insights into everyday communication."
+      "Legal practitioners carefully examine the theft to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "witness_verb",
+    "id": "trial_noun",
+    "word": "trial",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'traiәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trial-us.mp3",
+    "definition_en": "n. trying something to find out about it n. (law) the determination of a person's innocence or guilt by due process of law n. (sports) a preliminary competition to determine qualifications n. an annoying or frustrating or catastrophic event",
+    "definition_zh": "n. 审判, 试验, 艰苦, 麻烦事, 考验",
+    "examples": [
+      "Legal practitioners carefully examine the trial to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "witness_noun",
     "word": "witness",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "法学与司法正义",
     "phonetic": "/'witnis/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/witness-us.mp3",
-    "definition_en": "Someone who sees an event and reports what happened",
-    "definition_zh": "vt. 目击, 作证, 证明, 表明",
+    "definition_en": "n. someone who sees an event and reports what happened n. testimony by word or deed to your religious faith n. (law) a person who attests to the genuineness of a document or signature by adding their own signature n. (law) a person who testifies under oath in a court of law",
+    "definition_zh": "n. 证人, 目击者, 证据, 证词",
     "examples": [
-      "Officials must witness institutional guidelines to uphold public integrity."
+      "Legal practitioners carefully examine the witness to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "appeal_verb",
+    "id": "appeal_noun",
     "word": "appeal",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "法学与司法正义",
     "phonetic": "/ә'pi:l/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appeal-us.mp3",
-    "definition_en": "Take a court case to a higher court for review",
-    "definition_zh": "vi. 呼吁, 诉请, 要求, 上诉, 有吸引力",
+    "definition_en": "n. attractiveness that interests or pleases or stimulates n. (law) a legal proceeding in which the appellant resorts to a higher court for the purpose of obtaining a review of a lower court decision and a reversal of the lower court's judgment or the granting of a new trial v. take a court case to a higher court for review v. request earnestly (something from somebody); ask for aid or protection",
+    "definition_zh": "n. 恳求, 诉请, 上诉, 吸引力",
     "examples": [
-      "Officials must appeal institutional guidelines to uphold public integrity."
+      "Legal practitioners carefully examine the appeal to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "criminal_adjective",
-    "word": "criminal",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'kriminәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/criminal-us.mp3",
-    "definition_en": "Someone who has committed a crime or has been legally convicted of a crime",
-    "definition_zh": "a. 犯了罪的, 刑事的, 有罪的",
-    "examples": [
-      "The committee analyzed a highly criminal perspective during the forum."
-    ]
-  },
-  {
-    "id": "jurors_noun",
-    "word": "jurors",
+    "id": "assault_noun",
+    "word": "assault",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "法学与司法正义",
-    "phonetic": "/d'ʒʊərəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jurors-us.mp3",
-    "definition_en": "Someone who serves (or waits to be called to serve) on a jury",
-    "definition_zh": "n. 陪审员, 陪审团成员( juror的复数形式 ); 审查委员",
+    "phonetic": "/ә'sɒ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assault-us.mp3",
+    "definition_en": "n. close fighting during the culmination of a military attack n. a threatened or attempted physical attack by someone who appears to be able to cause bodily harm if not stopped n. thoroughbred that won the triple crown in 1946",
+    "definition_zh": "n. 攻击, 袭击",
     "examples": [
-      "Recent breakthroughs in jurors have accelerated modern technological innovation."
+      "Legal practitioners carefully examine the assault to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "attorney_noun",
+    "word": "attorney",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/ә'tә:ni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attorney-us.mp3",
+    "definition_en": "n a professional person authorized to practice law; conducts lawsuits or gives legal advice",
+    "definition_zh": "n. 代理人, 律师",
+    "examples": [
+      "Legal practitioners carefully examine the attorney to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "battery_noun",
+    "word": "battery",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'bætәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/battery-us.mp3",
+    "definition_en": "n. group of guns or missile launchers operated together at one place n. a device that produces electricity; may have several primary or secondary cells arranged in parallel or series n. a collection of related things intended for use together n. a unit composed of the pitcher and catcher",
+    "definition_zh": "n. 电池, 殴打",
+    "examples": [
+      "Legal practitioners carefully examine the battery to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "brief_noun",
+    "word": "brief",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/bri:f/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brief-us.mp3",
+    "definition_en": "n. a document stating the facts and points of law of a client's case n. a condensed written summary or abstract v. give essential information to someone s. of short duration or distance",
+    "definition_zh": "n. 摘要, 简报",
+    "examples": [
+      "Legal practitioners carefully examine the brief to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "common law_noun",
+    "word": "common law",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/common law-us.mp3",
+    "definition_en": "A term denoting common law.",
+    "definition_zh": "习惯法, 不成文法, 普通法",
+    "examples": [
+      "Legal practitioners carefully examine the common law to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "compensation_noun",
+    "word": "compensation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/.kɒmpen'seiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compensation-us.mp3",
+    "definition_en": "n. something (such as money) given or received as payment or reparation (as for a service or loss or injury) n. (psychiatry) a defense mechanism that conceals your undesirable shortcomings by exaggerating desirable behaviors",
+    "definition_zh": "n. 补偿, 赔偿金, 工资",
+    "examples": [
+      "Legal practitioners carefully examine the compensation to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "confession_noun",
+    "word": "confession",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/kәn'feʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/confession-us.mp3",
+    "definition_en": "n. an admission of misdeeds or faults n. a written document acknowledging an offense and signed by the guilty party n. (Roman Catholic Church) the act of a penitent disclosing his sinfulness before a priest in the sacrament of penance in the hope of absolution n. a public declaration of your faith",
+    "definition_zh": "n. 承认, 坦白, 招供",
+    "examples": [
+      "Legal practitioners carefully examine the confession to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "convict_verb",
+    "word": "convict",
+    "part_of_speech": "verb",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/kәn'vikt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/convict-us.mp3",
+    "definition_en": "n. a person serving a sentence in a jail or prison n. a person who has been convicted of a criminal offense v. find or declare guilty",
+    "definition_zh": "vt. 宣告有罪, 使知罪",
+    "examples": [
+      "Legal practitioners carefully examine the convict to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "conviction_noun",
+    "word": "conviction",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/kәn'vikʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conviction-us.mp3",
+    "definition_en": "n. an unshakable belief in something without need for proof or evidence n. (criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed",
+    "definition_zh": "n. 定罪, 信服, 坚信",
+    "examples": [
+      "Legal practitioners carefully examine the conviction to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "counsel_noun",
+    "word": "counsel",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'kaunsәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/counsel-us.mp3",
+    "definition_en": "n a lawyer who pleads cases in court n something that provides direction or advice as to a decision or course of action v give advice to",
+    "definition_zh": "n. 商议, 忠告, 法律顾问",
+    "examples": [
+      "Legal practitioners carefully examine the counsel to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "damages_noun",
+    "word": "damages",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/damages-us.mp3",
+    "definition_en": "n. a sum of money paid in compensation for loss or injury",
+    "definition_zh": "n. 赔偿金",
+    "examples": [
+      "Legal practitioners carefully examine the damages to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "defendant_noun",
+    "word": "defendant",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/di'fendәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/defendant-us.mp3",
+    "definition_en": "n. a person or institution against whom an action is brought in a court of law; the person being sued or accused",
+    "definition_zh": "n. 被告",
+    "examples": [
+      "Legal practitioners carefully examine the defendant to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "felony_noun",
+    "word": "felony",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'felәni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/felony-us.mp3",
+    "definition_en": "n. a serious crime (such as murder or arson)",
+    "definition_zh": "n. 重罪",
+    "examples": [
+      "Legal practitioners carefully examine the felony to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "forensic_adjective",
+    "word": "forensic",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/fә'rensik/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/forensic-us.mp3",
+    "definition_en": "s. of, relating to, or used in public debate or argument s. used or applied in the investigation and establishment of facts or evidence in a court of law",
+    "definition_zh": "a. 辩论的, 法院的, 关于法庭的",
+    "examples": [
+      "Legal practitioners carefully examine the forensic to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "fraud_noun",
+    "word": "fraud",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/frɒ:d/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fraud-us.mp3",
+    "definition_en": "n. intentional deception resulting in injury to another person n. something intended to deceive; deliberate trickery intended to gain an advantage",
+    "definition_zh": "n. 欺骗, 欺诈, 诡计, 骗子",
+    "examples": [
+      "Legal practitioners carefully examine the fraud to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "grievance_noun",
+    "word": "grievance",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'gri:vәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grievance-us.mp3",
+    "definition_en": "n. an allegation that something imposes an illegal obligation or denies some legal right or causes injustice n. a complaint about a (real or imaginary) wrong that causes resentment and is grounds for action",
+    "definition_zh": "n. 委屈, 冤情, 苦况",
+    "examples": [
+      "Legal practitioners carefully examine the grievance to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "guilt_noun",
+    "word": "guilt",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/gilt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guilt-us.mp3",
+    "definition_en": "n. the state of having committed an offense n. remorse caused by feeling responsible for some offense",
+    "definition_zh": "n. 罪行, 内疚",
+    "examples": [
+      "Legal practitioners carefully examine the guilt to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "guilty_adjective",
+    "word": "guilty",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'gilti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guilty-us.mp3",
+    "definition_en": "a. responsible for or chargeable with a reprehensible act s. showing a sense of guilt",
+    "definition_zh": "a. 犯罪的, 有过失的, 自觉有错的, 心虚的",
+    "examples": [
+      "Legal practitioners carefully examine the guilty to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "immunity_noun",
+    "word": "immunity",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/i'mju:niti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/immunity-us.mp3",
+    "definition_en": "n. (medicine) the condition in which an organism can resist disease n. the quality of being unaffected by something",
+    "definition_zh": "n. 免疫, 免疫性, 免除",
+    "examples": [
+      "Legal practitioners carefully examine the immunity to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "innocence_noun",
+    "word": "innocence",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'inәsәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/innocence-us.mp3",
+    "definition_en": "n. a state or condition of being innocent of a specific crime or offense",
+    "definition_zh": "n. 无罪, 无知, 天真无邪",
+    "examples": [
+      "Legal practitioners carefully examine the innocence to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "innocent_adjective",
+    "word": "innocent",
+    "part_of_speech": "adjective",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'inәsәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/innocent-us.mp3",
+    "definition_en": "n. a person who lacks knowledge of evil a. free from evil or guilt s. lacking intent or capacity to injure s. lacking in sophistication or worldliness",
+    "definition_zh": "a. 无罪的, 不懂事的, 无知的",
+    "examples": [
+      "Legal practitioners carefully examine the innocent to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "interrogation_noun",
+    "word": "interrogation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/in.terәu'geiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interrogation-us.mp3",
+    "definition_en": "n. a transmission that will trigger an answering transmission from a transponder n. formal systematic questioning",
+    "definition_zh": "n. 审问, 疑问句, 问号",
+    "examples": [
+      "Legal practitioners carefully examine the interrogation to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "jurisdiction_noun",
+    "word": "jurisdiction",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/.dʒuәris'dikʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jurisdiction-us.mp3",
+    "definition_en": "n. in law; the territory within which power can be exercised",
+    "definition_zh": "n. 司法权, 审判权, 管辖权",
+    "examples": [
+      "Legal practitioners carefully examine the jurisdiction to ensure justice and procedural fairness."
     ]
   },
   {
@@ -428,10 +637,24 @@
     "topic": "法学与司法正义",
     "phonetic": "/'dʒuәri/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jury-us.mp3",
-    "definition_en": "A body of citizens sworn to give a true verdict according to the evidence presented in a court of law",
+    "definition_en": "n. a body of citizens sworn to give a true verdict according to the evidence presented in a court of law n. a committee appointed to judge a competition",
     "definition_zh": "n. 陪审团, 评判委员会",
     "examples": [
-      "The new policy addressing jury was debated extensively by the committee."
+      "Legal practitioners carefully examine the jury to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "justice_noun",
+    "word": "justice",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'dʒʌstis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/justice-us.mp3",
+    "definition_en": "n. the quality of being just or fair n. judgment involved in the determination of rights and the assignment of rewards and punishments",
+    "definition_zh": "n. 正义, 公平, 公正, 正确, 司法, 审判",
+    "examples": [
+      "Legal practitioners carefully examine the justice to ensure justice and procedural fairness."
     ]
   },
   {
@@ -442,10 +665,24 @@
     "topic": "法学与司法正义",
     "phonetic": "/'lɒ:sju:t/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawsuit-us.mp3",
-    "definition_en": "A comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "definition_en": "n. a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
     "definition_zh": "n. 诉讼",
     "examples": [
-      "The new policy addressing lawsuit was debated extensively by the committee."
+      "Legal practitioners carefully examine the lawsuit to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "lawyer_noun",
+    "word": "lawyer",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'lɒ:jә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lawyer-us.mp3",
+    "definition_en": "n. a professional person authorized to practice law; conducts lawsuits or gives legal advice",
+    "definition_zh": "n. 律师",
+    "examples": [
+      "Legal practitioners carefully examine the lawyer to ensure justice and procedural fairness."
     ]
   },
   {
@@ -456,24 +693,38 @@
     "topic": "法学与司法正义",
     "phonetic": "/әuθ/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oath-us.mp3",
-    "definition_en": "A commitment to tell the truth (especially in a court of law); to lie under oath is to become subject to prosecution for perjury",
+    "definition_en": "n. a commitment to tell the truth (especially in a court of law); to lie under oath is to become subject to prosecution for perjury n. a solemn promise, usually invoking a divine witness, regarding your future acts or behavior",
     "definition_zh": "n. 誓约, 誓言, 咒骂",
     "examples": [
-      "The new policy addressing oath was debated extensively by the committee."
+      "Legal practitioners carefully examine the oath to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "offence_noun",
-    "word": "offence",
+    "id": "objection_noun",
+    "word": "objection",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "法学与司法正义",
-    "phonetic": "/ә'fens/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/offence-us.mp3",
-    "definition_en": "N the action of attacking an enemy",
-    "definition_zh": "n. 犯罪, 冒犯, 违反, 罪过, 过错, 攻击",
+    "phonetic": "/әb'dʒekʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/objection-us.mp3",
+    "definition_en": "n. the speech act of objecting n. (law) a procedure whereby a party to a suit says that a particular line of questioning or a particular witness or a piece of evidence or other matter is improper and should not be continued and asks the court to rule on its impropriety or illegality",
+    "definition_zh": "n. 异议, 反对, 不喜欢, 缺点, 缺陷, 妨碍, 拒绝之理由",
     "examples": [
-      "Understanding offence provides valuable insights into everyday communication."
+      "Legal practitioners carefully examine the objection to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "offender_noun",
+    "word": "offender",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/ә'fendә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/offender-us.mp3",
+    "definition_en": "n a person who transgresses moral or civil law",
+    "definition_zh": "n. 罪犯, 无礼的人, 得罪人的人",
+    "examples": [
+      "Legal practitioners carefully examine the offender to ensure justice and procedural fairness."
     ]
   },
   {
@@ -484,10 +735,38 @@
     "topic": "法学与司法正义",
     "phonetic": "/ә'fens/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/offense-us.mp3",
-    "definition_en": "The team that has the ball (or puck) and is trying to score",
+    "definition_en": "n. the team that has the ball (or puck) and is trying to score n. the action of attacking an enemy",
     "definition_zh": "n. 犯罪, 伤感情, 攻击",
     "examples": [
-      "The new policy addressing offense was debated extensively by the committee."
+      "Legal practitioners carefully examine the offense to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "plaintiff_noun",
+    "word": "plaintiff",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'pleintif/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plaintiff-us.mp3",
+    "definition_en": "n. a person who brings an action in a court of law",
+    "definition_zh": "n. 原告, 起诉人",
+    "examples": [
+      "Legal practitioners carefully examine the plaintiff to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "plea_noun",
+    "word": "plea",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/pli:/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plea-us.mp3",
+    "definition_en": "n. (law) a defendant's answer by a factual matter (as distinguished from a demurrer) n. an answer indicating why a suit should be dismissed",
+    "definition_zh": "n. 恳求, 辩解, 抗辩, 诉讼, 请愿, 托词",
+    "examples": [
+      "Legal practitioners carefully examine the plea to ensure justice and procedural fairness."
     ]
   },
   {
@@ -498,24 +777,122 @@
     "topic": "法学与司法正义",
     "phonetic": "/'prɒsikju:t/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prosecute-us.mp3",
-    "definition_en": "Conduct a prosecution in a court of law",
+    "definition_en": "v. conduct a prosecution in a court of law v. bring a criminal action against (in a trial) v. carry out or participate in an activity; be involved in",
     "definition_zh": "vt. 告发, 起诉, 彻底进行, 执行, 从事",
     "examples": [
-      "Officials must prosecute institutional guidelines to uphold public integrity."
+      "Legal practitioners carefully examine the prosecute to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "prosecuted_verb",
-    "word": "prosecuted",
-    "part_of_speech": "verb",
+    "id": "prosecution_noun",
+    "word": "prosecution",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "法学与司法正义",
-    "phonetic": "/'prɒsɪkju:tɪd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prosecuted-us.mp3",
-    "definition_en": "Imp. & p. p. of Prosecute",
-    "definition_zh": "v. 检举、告发某人( prosecute的过去式和过去分词 ); 对某人提起公诉; 继续从事（某事物）; 担任控方律师",
+    "phonetic": "/.prɒsi'kju:ʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prosecution-us.mp3",
+    "definition_en": "n. the institution and conduct of legal proceedings against a defendant for criminal behavior n. the lawyers acting for the state to put the case against the defendant",
+    "definition_zh": "n. 执行, 经营, 起诉",
     "examples": [
-      "Officials must prosecuted institutional guidelines to uphold public integrity."
+      "Legal practitioners carefully examine the prosecution to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "prosecutor_noun",
+    "word": "prosecutor",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'prɒsikju:tә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prosecutor-us.mp3",
+    "definition_en": "n. a government official who conducts criminal prosecutions on behalf of the state",
+    "definition_zh": "n. 实行者, 告发者, 公诉人",
+    "examples": [
+      "Legal practitioners carefully examine the prosecutor to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "punishment_noun",
+    "word": "punishment",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'pʌniʃmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/punishment-us.mp3",
+    "definition_en": "n. the act of punishing",
+    "definition_zh": "n. 处罚, 刑罚, 惩罚",
+    "examples": [
+      "Legal practitioners carefully examine the punishment to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "ruling_noun",
+    "word": "ruling",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'ru:liŋ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ruling-us.mp3",
+    "definition_en": "n the reason for a court's judgment (as opposed to the decision itself) v exercise authority over; as of nations v decide with authority v be larger in number, quantity, power, status or importance v decide on and make a declaration about v have an affinity with; of signs of the zodiac v mark or draw with a ruler v keep in check s exercising power or authority",
+    "definition_zh": "n. 判决, 裁定, 统治",
+    "examples": [
+      "Legal practitioners carefully examine the ruling to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "settlement_noun",
+    "word": "settlement",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'setlmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/settlement-us.mp3",
+    "definition_en": "n. a conclusive resolution of a matter and disposition of it n. something settled or resolved; the outcome of decision making n. an area where a group of families live together",
+    "definition_zh": "n. 安顿, 解决, 处理, 结算, 殖民, 殖民地, 沉降",
+    "examples": [
+      "Legal practitioners carefully examine the settlement to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "solicitor_noun",
+    "word": "solicitor",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/sә'lisitә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/solicitor-us.mp3",
+    "definition_en": "n. a petitioner who solicits contributions or trade or votes n. a British lawyer who gives legal advice and prepares legal documents",
+    "definition_zh": "n. (英)律师, 初级律师, (美)法务官, (美)掮客, 游说者, (美)募捐者",
+    "examples": [
+      "Legal practitioners carefully examine the solicitor to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "statute_noun",
+    "word": "statute",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'stætju:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/statute-us.mp3",
+    "definition_en": "n an act passed by a legislative body s enacted by a legislative body",
+    "definition_zh": "n. 法令, 成文法律, 法规, 章程, 条例",
+    "examples": [
+      "Legal practitioners carefully examine the statute to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "subpoena_noun",
+    "word": "subpoena",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "法学与司法正义",
+    "phonetic": "/sәb'pi:nә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subpoena-us.mp3",
+    "definition_en": "n. a writ issued by court authority to compel the attendance of a witness at a judicial proceeding; disobedience may be punishable as a contempt of court v. serve or summon with a subpoena",
+    "definition_zh": "n. 传票",
+    "examples": [
+      "Legal practitioners carefully examine the subpoena to ensure justice and procedural fairness."
     ]
   },
   {
@@ -526,10 +903,10 @@
     "topic": "法学与司法正义",
     "phonetic": "/'testifai/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/testify-us.mp3",
-    "definition_en": "Give testimony in a court of law",
+    "definition_en": "v. give testimony in a court of law v. provide evidence for",
     "definition_zh": "v. 证明, 作证, 声明, 表明",
     "examples": [
-      "Officials must testify institutional guidelines to uphold public integrity."
+      "Legal practitioners carefully examine the testify to ensure justice and procedural fairness."
     ]
   },
   {
@@ -540,38 +917,10 @@
     "topic": "法学与司法正义",
     "phonetic": "/'testimәni/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/testimony-us.mp3",
-    "definition_en": "A solemn statement made under oath",
+    "definition_en": "n. a solemn statement made under oath n. an assertion offering firsthand authentication of a fact n. something that serves as evidence",
     "definition_zh": "n. 证言, 证据, 声明",
     "examples": [
-      "Understanding testimony provides valuable insights into everyday communication."
-    ]
-  },
-  {
-    "id": "trial_noun",
-    "word": "trial",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/'traiәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trial-us.mp3",
-    "definition_en": "Trying something to find out about it",
-    "definition_zh": "n. 审判, 试验, 艰苦, 麻烦事, 考验",
-    "examples": [
-      "The new policy addressing trial was debated extensively by the committee."
-    ]
-  },
-  {
-    "id": "trials_noun",
-    "word": "trials",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "法学与司法正义",
-    "phonetic": "/trials/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trials-us.mp3",
-    "definition_en": "N the act of testing something",
-    "definition_zh": "n. 尝试, 努力；考验；审判；顿顽（trial的复数）",
-    "examples": [
-      "The new policy addressing trials was debated extensively by the committee."
+      "Legal practitioners carefully examine the testimony to ensure justice and procedural fairness."
     ]
   },
   {
@@ -582,82 +931,766 @@
     "topic": "法学与司法正义",
     "phonetic": "/'vә:dikt/",
     "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/verdict-us.mp3",
-    "definition_en": "A decision on a disputed issue in a civil or criminal case or an inquest.",
-    "definition_zh": "裁决，判决，定论",
+    "definition_en": "n. (law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment",
+    "definition_zh": "n. 裁决, 判决, 判断性意见, 定论, 结论",
     "examples": [
-      "The jury deliberated for four hours before returning a unanimous verdict.",
-      "The public eagerly awaited the court's verdict."
+      "The jury deliberated for three days before reaching a unanimous verdict."
     ]
   },
   {
-    "id": "witness_noun",
-    "word": "witness",
+    "id": "warrant_noun",
+    "word": "warrant",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "法学与司法正义",
-    "phonetic": "/'witnis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/witness-us.mp3",
-    "definition_en": "Someone who sees an event and reports what happened",
-    "definition_zh": "n. 证人, 目击者, 证据, 证词",
+    "phonetic": "/'wɒ:rәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/warrant-us.mp3",
+    "definition_en": "n. a writ from a court commanding police to perform specified acts n. a type of security issued by a corporation (usually together with a bond or preferred stock) that gives the holder the right to purchase a certain amount of common stock at a stated price",
+    "definition_zh": "n. 授权, 正当理由, 根据, 证明, 批准, 凭证, 令状, 委任状",
     "examples": [
-      "The new policy addressing witness was debated extensively by the committee."
+      "Legal practitioners carefully examine the warrant to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "convict_verb",
-    "word": "convict",
+    "id": "accomplice_noun",
+    "word": "accomplice",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/ә'kʌmplis/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accomplice-us.mp3",
+    "definition_en": "n. a person who joins with another in carrying out some plan (especially an unethical or illegal plan)",
+    "definition_zh": "n. 共犯, 同谋",
+    "examples": [
+      "Legal practitioners carefully examine the accomplice to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "acquittal_noun",
+    "word": "acquittal",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/ә'kwitәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acquittal-us.mp3",
+    "definition_en": "n. a judgment of not guilty",
+    "definition_zh": "n. 履行, 无罪开释",
+    "examples": [
+      "Legal practitioners carefully examine the acquittal to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "affidavit_noun",
+    "word": "affidavit",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/.æfi'deivit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/affidavit-us.mp3",
+    "definition_en": "n. written declaration made under oath; a written statement sworn to be true before someone legally authorized to administer an oath",
+    "definition_zh": "n. 宣誓书, 书面陈述",
+    "examples": [
+      "Legal practitioners carefully examine the affidavit to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "arbitration_noun",
+    "word": "arbitration",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/.ɑ:bi'treiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arbitration-us.mp3",
+    "definition_en": "n. (law) the hearing and determination of a dispute by an impartial referee agreed to by both parties (often used to settle disputes between labor and management) n. the act of deciding as an arbiter; giving authoritative judgment",
+    "definition_zh": "n. 仲裁, 公断",
+    "examples": [
+      "Legal practitioners carefully examine the arbitration to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "bail_noun",
+    "word": "bail",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/beil/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bail-us.mp3",
+    "definition_en": "n. (criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial n. the legal system that allows an accused person to be temporarily released from custody (usually on condition that a sum of money guarantees their appearance at trial) v. release after a security has been paid v. deliver something in trust to somebody for a special purpose and for a limited period",
+    "definition_zh": "n. 保释, 拎环, 杓, 栅栏",
+    "examples": [
+      "Legal practitioners carefully examine the bail to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "barrister_noun",
+    "word": "barrister",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'bæristә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barrister-us.mp3",
+    "definition_en": "n. a British or Canadian lawyer who speaks in the higher courts of law on behalf of either the defense or prosecution",
+    "definition_zh": "n. 出庭律师, 律师",
+    "examples": [
+      "Legal practitioners carefully examine the barrister to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "beneficiary_noun",
+    "word": "beneficiary",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/.beni'fiʃәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beneficiary-us.mp3",
+    "definition_en": "n. the recipient of funds or other benefits a. having or arising from a benefice",
+    "definition_zh": "n. 受惠者, 受益人",
+    "examples": [
+      "Legal practitioners carefully examine the beneficiary to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "claimant_noun",
+    "word": "claimant",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'kleimәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/claimant-us.mp3",
+    "definition_en": "n. someone who claims a benefit or right or title",
+    "definition_zh": "n. 提出要求者, 原告",
+    "examples": [
+      "Legal practitioners carefully examine the claimant to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "coroner_noun",
+    "word": "coroner",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'kɒrәnә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coroner-us.mp3",
+    "definition_en": "n. a public official who investigates by inquest any death not due to natural causes",
+    "definition_zh": "n. 验尸官",
+    "examples": [
+      "Legal practitioners carefully examine the coroner to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "cross-examination_noun",
+    "word": "cross-examination",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cross-examination-us.mp3",
+    "definition_en": "n. (law) close questioning of a hostile witness in a court of law to discredit or throw a new light on the testimony already provided in direct examination",
+    "definition_zh": "n. 盘问",
+    "examples": [
+      "Legal practitioners carefully examine the cross-examination to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "custody_noun",
+    "word": "custody",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'kʌstәdi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/custody-us.mp3",
+    "definition_en": "n. holding by the police",
+    "definition_zh": "n. 监护, 拘留, 监禁",
+    "examples": [
+      "Legal practitioners carefully examine the custody to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "deposition_noun",
+    "word": "deposition",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/.depә'ziʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deposition-us.mp3",
+    "definition_en": "n. the natural process of laying down a deposit of something n. (law) a pretrial interrogation of a witness; usually conducted in a lawyer's office n. the act of deposing someone; removing a powerful person from a position or office",
+    "definition_zh": "n. 免职, 作证, 沉淀",
+    "examples": [
+      "Legal practitioners carefully examine the deposition to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "due process_noun",
+    "word": "due process",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/due process-us.mp3",
+    "definition_en": "A term denoting due process.",
+    "definition_zh": "正当手续, 法定诉讼程序",
+    "examples": [
+      "Legal practitioners carefully examine the due process to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "embezzlement_noun",
+    "word": "embezzlement",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/im'bezlmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embezzlement-us.mp3",
+    "definition_en": "n. the fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else",
+    "definition_zh": "n. 盗用, 挪用, 侵占",
+    "examples": [
+      "Legal practitioners carefully examine the embezzlement to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "extradition_noun",
+    "word": "extradition",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/.ekstrә'diʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/extradition-us.mp3",
+    "definition_en": "n. the surrender of an accused or convicted person by one state or country to another (usually under the provisions of a statute or treaty)",
+    "definition_zh": "n. 引渡逃犯, 亡命者送还本国",
+    "examples": [
+      "Legal practitioners carefully examine the extradition to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "forgery_noun",
+    "word": "forgery",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'fɒ:dʒәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/forgery-us.mp3",
+    "definition_en": "n. criminal falsification by making or altering an instrument with intent to defraud",
+    "definition_zh": "n. 伪造, 伪造罪, 伪造物",
+    "examples": [
+      "Legal practitioners carefully examine the forgery to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "hearsay_noun",
+    "word": "hearsay",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'hiәsei/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearsay-us.mp3",
+    "definition_en": "s. heard through another rather than directly",
+    "definition_zh": "n. 传闻, 谣言",
+    "examples": [
+      "Legal practitioners carefully examine the hearsay to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "homicide_noun",
+    "word": "homicide",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'hɒmisaid/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/homicide-us.mp3",
+    "definition_en": "n. the killing of a human being by another human being",
+    "definition_zh": "n. 杀人, 杀人者",
+    "examples": [
+      "Legal practitioners carefully examine the homicide to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "impeachment_noun",
+    "word": "impeachment",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/im'pi:tʃmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impeachment-us.mp3",
+    "definition_en": "n. a formal document charging a public official with misconduct in office",
+    "definition_zh": "控告, 检举, 弹劾",
+    "examples": [
+      "Legal practitioners carefully examine the impeachment to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "indictment_noun",
+    "word": "indictment",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/in'daitmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/indictment-us.mp3",
+    "definition_en": "n. a formal document written for a prosecuting attorney charging a person with some offense n. an accusation of wrongdoing",
+    "definition_zh": "n. 起诉, 控告, 起诉状",
+    "examples": [
+      "Legal practitioners carefully examine the indictment to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "interrogate_verb",
+    "word": "interrogate",
     "part_of_speech": "verb",
     "level": "C1",
     "topic": "法学与司法正义",
-    "phonetic": "/kәn'vikt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/convict-us.mp3",
-    "definition_en": "Find or declare guilty",
-    "definition_zh": "vt. 宣告有罪, 使知罪",
+    "phonetic": "/in'terәgeit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interrogate-us.mp3",
+    "definition_en": "v. transmit (a signal) for setting off an appropriate response, as in telecommunication v. pose a series of questions to",
+    "definition_zh": "vt. 质问, 讯问, 审问",
     "examples": [
-      "Officials must convict institutional guidelines to uphold public integrity."
+      "Legal practitioners carefully examine the interrogate to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "convict_noun",
-    "word": "convict",
+    "id": "jurisprudence_noun",
+    "word": "jurisprudence",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "法学与司法正义",
-    "phonetic": "/kәn'vikt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/convict-us.mp3",
-    "definition_en": "A person serving a sentence in a jail or prison",
-    "definition_zh": "n. 囚犯, 罪犯",
+    "phonetic": "/.dʒuәris'pru:dәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jurisprudence-us.mp3",
+    "definition_en": "n. the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do",
+    "definition_zh": "n. 法律学, 法律体系",
     "examples": [
-      "The new policy addressing convict was debated extensively by the committee."
+      "Legal practitioners carefully examine the jurisprudence to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "conviction_noun",
-    "word": "conviction",
+    "id": "litigation_noun",
+    "word": "litigation",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "法学与司法正义",
-    "phonetic": "/kәn'vikʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conviction-us.mp3",
-    "definition_en": "An unshakable belief in something without need for proof or evidence",
-    "definition_zh": "n. 定罪, 信服, 坚信",
+    "phonetic": "/.liti'geiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/litigation-us.mp3",
+    "definition_en": "n. a legal proceeding in a court; a judicial contest to determine and enforce legal rights",
+    "definition_zh": "n. 诉讼, 起诉",
     "examples": [
-      "The new policy addressing conviction was debated extensively by the committee."
+      "Legal practitioners carefully examine the litigation to ensure justice and procedural fairness."
     ]
   },
   {
-    "id": "jurisdiction_noun",
-    "word": "jurisdiction",
+    "id": "magistrate_noun",
+    "word": "magistrate",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "法学与司法正义",
-    "phonetic": "/.dʒuәris'dikʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jurisdiction-us.mp3",
-    "definition_en": "The official power to make legal decisions and judgments over an area or persons.",
-    "definition_zh": "司法权，管辖权，审判权",
+    "phonetic": "/'mædʒistreit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/magistrate-us.mp3",
+    "definition_en": "n. a lay judge or civil authority who administers the law (especially one who conducts a court dealing with minor offenses)",
+    "definition_zh": "n. 长官, 法官, 推事",
     "examples": [
-      "The cross-border financial crime fell outside the provincial police's jurisdiction.",
-      "Federal courts possess jurisdiction over interstate commerce disputes."
+      "Legal practitioners carefully examine the magistrate to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "manslaughter_noun",
+    "word": "manslaughter",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'mænslɒ:tә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/manslaughter-us.mp3",
+    "definition_en": "n. homicide without malice aforethought",
+    "definition_zh": "n. 杀人, 过失杀人罪",
+    "examples": [
+      "Legal practitioners carefully examine the manslaughter to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "mediation_noun",
+    "word": "mediation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/.mi:di'eiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mediation-us.mp3",
+    "definition_en": "n. a negotiation to resolve differences that is conducted by some impartial party n. the act of intervening for the purpose of bringing about a settlement",
+    "definition_zh": "n. 调停, 调解, 中介",
+    "examples": [
+      "Legal practitioners carefully examine the mediation to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "misdemeanor_noun",
+    "word": "misdemeanor",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/,misdi'mi:nә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/misdemeanor-us.mp3",
+    "definition_en": "n. a crime less serious than a felony",
+    "definition_zh": "n. 行为不检, 品行不良, 轻罪, 不端行为",
+    "examples": [
+      "Legal practitioners carefully examine the misdemeanor to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "negligence_noun",
+    "word": "negligence",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'neglidʒәns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/negligence-us.mp3",
+    "definition_en": "n. failure to act with the prudence that a reasonable person would exercise under the same circumstances n. the trait of neglecting responsibilities and lacking concern",
+    "definition_zh": "n. 疏忽, 粗心大意, 忽视",
+    "examples": [
+      "Legal practitioners carefully examine the negligence to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "pardon_noun",
+    "word": "pardon",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'pɑ:dn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pardon-us.mp3",
+    "definition_en": "n. a warrant granting release from punishment for an offense v. grant a pardon to",
+    "definition_zh": "n. 原谅, 赦免",
+    "examples": [
+      "Legal practitioners carefully examine the pardon to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "parole_noun",
+    "word": "parole",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/pә'rәul/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parole-us.mp3",
+    "definition_en": "n. a promise n. (law) a conditional release from imprisonment that entitles the person to serve the remainder of the sentence outside the prison as long as the terms of release are complied with v. release a criminal from detention and place him on parole",
+    "definition_zh": "n. 假释, 誓言, 释放宣言",
+    "examples": [
+      "Legal practitioners carefully examine the parole to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "perjury_noun",
+    "word": "perjury",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'pә:dʒәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perjury-us.mp3",
+    "definition_en": "n. criminal offense of making false statements under oath",
+    "definition_zh": "n. 伪誓, 伪证, 背信弃义",
+    "examples": [
+      "Legal practitioners carefully examine the perjury to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "plea bargain_noun",
+    "word": "plea bargain",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/pli: ˈbɑ:ɡin/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plea bargain-us.mp3",
+    "definition_en": "A term denoting plea bargain.",
+    "definition_zh": "n. 坦白从宽; 辩诉交易",
+    "examples": [
+      "Legal practitioners carefully examine the plea bargain to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "precedent_noun",
+    "word": "precedent",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'presidәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/precedent-us.mp3",
+    "definition_en": "n. an example that is used to justify similar occurrences at a later time n. a subject mentioned earlier (preceding in time) s. preceding in time, order, or significance",
+    "definition_zh": "n. 先例, 前例",
+    "examples": [
+      "Legal practitioners carefully examine the precedent to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "probation_noun",
+    "word": "probation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/prәu'beiʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/probation-us.mp3",
+    "definition_en": "n. a trial period during which your character and abilities are tested to see whether you are suitable for work or for membership n. a trial period during which an offender has time to redeem himself or herself n. (law) a way of dealing with offenders without imprisoning them; a defendant found guilty of a crime is released by the court without imprisonment subject to conditions imposed by the court",
+    "definition_zh": "n. 鉴定, 查验, 证明, 试用, 察看, 缓刑",
+    "examples": [
+      "Legal practitioners carefully examine the probation to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "slander_noun",
+    "word": "slander",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'slændә/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/slander-us.mp3",
+    "definition_en": "n. words falsely spoken that damage the reputation of another",
+    "definition_zh": "n. 中伤, 诽谤",
+    "examples": [
+      "Legal practitioners carefully examine the slander to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "summons_noun",
+    "word": "summons",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'sʌmәnz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/summons-us.mp3",
+    "definition_en": "n. an order to appear in person at a given place and time n. a writ issued by authority of law; usually compels the defendant's attendance in a civil suit; failure to appear results in a default judgment against the defendant",
+    "definition_zh": "n. 召唤, 传唤, 召集, 传票",
+    "examples": [
+      "Legal practitioners carefully examine the summons to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "tribunal_noun",
+    "word": "tribunal",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/trai'bju:nl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tribunal-us.mp3",
+    "definition_en": "n an assembly (including one or more judges) to conduct judicial business",
+    "definition_zh": "n. 法庭, 法官席, 裁决",
+    "examples": [
+      "Legal practitioners carefully examine the tribunal to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "unconstitutional_adjective",
+    "word": "unconstitutional",
+    "part_of_speech": "adjective",
+    "level": "C1",
+    "topic": "法学与司法正义",
+    "phonetic": "/'ʌnkɔnsti'tju:ʃәnәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unconstitutional-us.mp3",
+    "definition_en": "a. not consistent with or according to a constitution; contrary to the U.S. Constitution",
+    "definition_zh": "a. 违反宪法的, 不符合宪法的",
+    "examples": [
+      "Legal practitioners carefully examine the unconstitutional to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "adjudicate_verb",
+    "word": "adjudicate",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/ә'dʒu:dikeit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adjudicate-us.mp3",
+    "definition_en": "v put on trial or hear a case and sit as the judge at the trial of v bring to an end; settle conclusively",
+    "definition_zh": "v. 判决, 宣告, 裁定",
+    "examples": [
+      "Legal practitioners carefully examine the adjudicate to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "alimony_noun",
+    "word": "alimony",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'ælimәni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alimony-us.mp3",
+    "definition_en": "n. court-ordered support paid by one spouse to another after they are separated",
+    "definition_zh": "n. 瞻养费, 生活费",
+    "examples": [
+      "Legal practitioners carefully examine the alimony to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "appellant_noun",
+    "word": "appellant",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/ә'pelәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appellant-us.mp3",
+    "definition_en": "n. the party who appeals a decision of a lower court",
+    "definition_zh": "n. 上诉人",
+    "examples": [
+      "Legal practitioners carefully examine the appellant to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "arraignment_noun",
+    "word": "arraignment",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/ә'reinmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arraignment-us.mp3",
+    "definition_en": "n. a legal document calling someone to court to answer an indictment",
+    "definition_zh": "n. 提讯, 传讯, 责难",
+    "examples": [
+      "Legal practitioners carefully examine the arraignment to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "bailiff_noun",
+    "word": "bailiff",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'beilif/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bailiff-us.mp3",
+    "definition_en": "n. an officer of the court who is employed to execute writs and processes and make arrests etc.",
+    "definition_zh": "n. 法警, 郡副司法长官, 乡长",
+    "examples": [
+      "Legal practitioners carefully examine the bailiff to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "clemency_noun",
+    "word": "clemency",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'klemәnsi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clemency-us.mp3",
+    "definition_en": "n. leniency and compassion shown toward offenders by a person or agency charged with administering justice",
+    "definition_zh": "n. 仁慈, 宽厚, 仁厚",
+    "examples": [
+      "Legal practitioners carefully examine the clemency to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "entrapment_noun",
+    "word": "entrapment",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/in'træpmәnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/entrapment-us.mp3",
+    "definition_en": "n. a defense that claims the defendant would not have broken the law if not tricked into doing it by law enforcement officials",
+    "definition_zh": "n. 诱捕, 使陷入罗网, 使陷入圈套, 使入陷阱, 使陷入困难, 诱使...妥协",
+    "examples": [
+      "Legal practitioners carefully examine the entrapment to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "exculpate_verb",
+    "word": "exculpate",
+    "part_of_speech": "verb",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'ekskʌlpeit/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/exculpate-us.mp3",
+    "definition_en": "v pronounce not guilty of criminal charges",
+    "definition_zh": "vt. 使无罪, 开脱",
+    "examples": [
+      "Legal practitioners carefully examine the exculpate to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "exculpatory_adjective",
+    "word": "exculpatory",
+    "part_of_speech": "adjective",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/eks'kʌlpәtәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/exculpatory-us.mp3",
+    "definition_en": "a. clearing of guilt or blame",
+    "definition_zh": "a. 辩解的, 辩明无罪的",
+    "examples": [
+      "Legal practitioners carefully examine the exculpatory to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "habeas corpus_noun",
+    "word": "habeas corpus",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'heibjәs'kɒ:pәs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/habeas corpus-us.mp3",
+    "definition_en": "A writ having for its object to bring a party before a    court or judge; especially, one to inquire into the cause of a person's    imprisonment or detention by another, with the view to protect the    right to personal liberty; also, one to bring a prisoner into court to    testify in a pending trial.",
+    "definition_zh": "人身保护权, 人身保护令",
+    "examples": [
+      "Legal practitioners carefully examine the habeas corpus to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "injunction_noun",
+    "word": "injunction",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/in'dʒʌŋkʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/injunction-us.mp3",
+    "definition_en": "n. a formal command or admonition n. (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity",
+    "definition_zh": "n. 命令, 禁令, 劝告",
+    "examples": [
+      "Legal practitioners carefully examine the injunction to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "mistrial_noun",
+    "word": "mistrial",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/.mis'traiәl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mistrial-us.mp3",
+    "definition_en": "n. a trial that is invalid or inconclusive",
+    "definition_zh": "n. 无效审判",
+    "examples": [
+      "Legal practitioners carefully examine the mistrial to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "notary_noun",
+    "word": "notary",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/'nәutәri/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/notary-us.mp3",
+    "definition_en": "n. someone legally empowered to witness signatures and certify a document's validity and to take depositions",
+    "definition_zh": "n. 公证人",
+    "examples": [
+      "Legal practitioners carefully examine the notary to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "restitution_noun",
+    "word": "restitution",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/.resti'tju:ʃәn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/restitution-us.mp3",
+    "definition_en": "n. the act of restoring something to its original state n. getting something back again",
+    "definition_zh": "n. 归还, 偿还, 赔偿",
+    "examples": [
+      "Legal practitioners carefully examine the restitution to ensure justice and procedural fairness."
+    ]
+  },
+  {
+    "id": "tort_noun",
+    "word": "tort",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "法学与司法正义",
+    "phonetic": "/tɒ:t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tort-us.mp3",
+    "definition_en": "n. (law) any wrongdoing for which an action for damages may be brought",
+    "definition_zh": "n. 民事侵权行为",
+    "examples": [
+      "Legal practitioners carefully examine the tort to ensure justice and procedural fairness."
     ]
   }
 ]
