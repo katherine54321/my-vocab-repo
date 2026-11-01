@@ -1,1045 +1,955 @@
 [
   {
-    "id": "aberration_noun",
+    "id": "aberration",
     "word": "aberration",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/æbә'reiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aberration-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aberration&type=2",
     "definition_en": "n. a disorder in one's mental state\\nn. an optical phenomenon resulting from the failure of a lens or mirror to produce a good image",
     "definition_zh": "n. 离开正路, 偏离, 畸变, 光行差, 心理失常, 色差； 光行差; 像差",
     "examples": [
       {
-        "en": "A deep understanding of aberration is beneficial in everyday life.",
-        "zh": "在相关语境中，'aberration'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of aberration is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 离开正路, 偏离, 畸变, 光行差, 心理失常, 色差具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "abject_adjective",
+    "id": "abject",
     "word": "abject",
-    "part_of_speech": "adjective",
-    "level": "C2",
+    "part_of_speech": "noun",
+    "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/'æbdʒekt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abject-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=abject&type=2",
     "definition_en": "s. of the most contemptible kind\\ns. most unfortunate or miserable\\ns. showing utter resignation or hopelessness\\ns. showing humiliation or submissiveness",
     "definition_zh": "a. 绝望无助的, 可怜的, 糟透的, 卑鄙的, 自卑的； 卑鄙的, 卑下的, 可怜的",
     "examples": [
       {
-        "en": "They adopted a abject perspective to address the challenge.",
-        "zh": "在相关语境中，'abject'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of abject is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 绝望无助的, 可怜的, 糟透的, 卑鄙的, 自卑的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "analyst_noun",
+    "id": "analyst",
     "word": "analyst",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/'ænәlist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/analyst-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=analyst&type=2",
     "definition_en": "n. someone who is skilled at analyzing data\\nn. an expert who studies financial data (on credit or securities or sales or financial patterns etc.) and recommends appropriate business actions\\nn. a licensed practitioner of psychoanalysis",
     "definition_zh": "n. 分析者, 精神分析学家； 分析员; 化验员",
     "examples": [
       {
-        "en": "A deep understanding of analyst is beneficial in everyday life.",
-        "zh": "在相关语境中，'analyst'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of analyst is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 分析者, 精神分析学家具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "automatic_adjective",
-    "word": "automatic",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/.ɒ:tә'mætik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/automatic-us.mp3",
-    "definition_en": "a. operating with minimal human intervention; independent of external control\\ns. resembling the unthinking functioning of a machine\\ns. without volition or conscious control",
-    "definition_zh": "n. 自动手枪, 自动机械； a. 自动的, 机械的, 必然的, 无意识的",
-    "examples": [
-      {
-        "en": "They adopted a automatic perspective to address the challenge.",
-        "zh": "在相关语境中，'automatic'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "automatic_verb",
-    "word": "automatic",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/.ɒ:tә'mætik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/automatic-us.mp3",
-    "definition_en": "a. operating with minimal human intervention; independent of external control\\ns. resembling the unthinking functioning of a machine\\ns. without volition or conscious control",
-    "definition_zh": "n. 自动手枪, 自动机械； a. 自动的, 机械的, 必然的, 无意识的",
-    "examples": [
-      {
-        "en": "Specialists actively automatic practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'automatic'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "automatic_noun",
+    "id": "automatic",
     "word": "automatic",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/.ɒ:tә'mætik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/automatic-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=automatic&type=2",
     "definition_en": "a. operating with minimal human intervention; independent of external control\\ns. resembling the unthinking functioning of a machine\\ns. without volition or conscious control",
     "definition_zh": "n. 自动手枪, 自动机械； a. 自动的, 机械的, 必然的, 无意识的",
     "examples": [
       {
-        "en": "A deep understanding of automatic is beneficial in everyday life.",
-        "zh": "在相关语境中，'automatic'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of automatic is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 自动手枪, 自动机械具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cognitive_adjective",
+    "id": "cognitive",
     "word": "cognitive",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/'kɒgnitiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cognitive-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cognitive&type=2",
     "definition_en": "a. of or being or relating to or involving cognition",
     "definition_zh": "a. 认知的, 认识的",
     "examples": [
       {
-        "en": "They adopted a cognitive perspective to address the challenge.",
-        "zh": "在相关语境中，'cognitive'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cognitive is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 认知的, 认识的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "colonization_noun",
+    "id": "colonization",
     "word": "colonization",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/,kɔlәnai'zeiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/colonization-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=colonization&type=2",
     "definition_en": "n. the act of colonizing; the establishment of colonies",
     "definition_zh": "移生, 移地发育; 集中护理(精神病人)",
     "examples": [
       {
-        "en": "A deep understanding of colonization is beneficial in everyday life.",
-        "zh": "在相关语境中，'colonization'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of colonization is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，移生, 移地发育; 集中护理(精神病人)具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "conscious_adjective",
+    "id": "conscious",
     "word": "conscious",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/'kɒnʃәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conscious-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=conscious&type=2",
     "definition_en": "s. intentionally conceived\\na. knowing and perceiving; having awareness of surroundings and sensations and thoughts\\ns. (followed by `of') showing realization or recognition of something",
     "definition_zh": "a. 有意识的, 知觉的, 觉察的； 有意识的, 清醒的",
     "examples": [
       {
-        "en": "They adopted a conscious perspective to address the challenge.",
-        "zh": "在相关语境中，'conscious'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of conscious is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 有意识的, 知觉的, 觉察的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "consciousness_noun",
+    "id": "consciousness",
     "word": "consciousness",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/'kɒnʃәsnis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consciousness-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=consciousness&type=2",
     "definition_en": "n. an alert cognitive state in which you are aware of yourself and your situation",
     "definition_zh": "n. 意识, 知觉, 自觉； (有)意识, 清醒",
     "examples": [
       {
-        "en": "A deep understanding of consciousness is beneficial in everyday life.",
-        "zh": "在相关语境中，'consciousness'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of consciousness is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 意识, 知觉, 自觉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "denies_verb",
+    "id": "delusion",
+    "word": "delusion",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/di'lu:ʒәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=delusion&type=2",
+    "definition_en": "n. (psychology) an erroneous belief that is held in the face of evidence to the contrary\\nn. a mistaken or unfounded opinion or idea\\nn. the act of deluding; deception by creating illusory ideas",
+    "definition_zh": "n. 迷惑, 欺瞒, 错觉； 妄想",
+    "examples": [
+      {
+        "en": "A deep understanding of delusion is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 迷惑, 欺瞒, 错觉具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "denies",
     "word": "denies",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/diˈnaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/denies-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=denies&type=2",
     "definition_en": "v declare untrue; contradict\\nv refuse to accept or believe\\nv refuse to grant, as of a petition or request\\nv refuse to let have\\nv deny oneself (something); restrain, especially from indulging in some pleasure\\nv deny formally (an allegation of fact by the opposing party) in a legal suit\\nv refuse to recognize or acknowledge",
     "definition_zh": "v. 拒绝( deny的第三人称单数 ); 拒绝承认; 拒绝…占有; 否认知情",
     "examples": [
       {
-        "en": "Specialists actively denies practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'denies'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of denies is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 拒绝( deny的第三人称单数 ); 拒绝承认; 拒绝…占有; 否认知情具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "denying_verb",
+    "id": "denying",
     "word": "denying",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/diˈnaiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/denying-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=denying&type=2",
     "definition_en": "v declare untrue; contradict\\nv refuse to accept or believe\\nv refuse to grant, as of a petition or request\\nv refuse to let have\\nv deny oneself (something); restrain, especially from indulging in some pleasure\\nv deny formally (an allegation of fact by the opposing party) in a legal suit\\nv refuse to recognize or acknowledge",
     "definition_zh": "v. 拒绝( deny的现在分词 ); 拒绝承认; 拒绝…占有; 否认知情",
     "examples": [
       {
-        "en": "Specialists actively denying practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'denying'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of denying is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 拒绝( deny的现在分词 ); 拒绝承认; 拒绝…占有; 否认知情具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "fallacy_noun",
+    "id": "fallacy",
     "word": "fallacy",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/'fælәsi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fallacy-us.mp3",
-    "definition_en": "n. a misconception resulting from incorrect reasoning",
-    "definition_zh": "n. 错误的观念(或信念), 谬见, 谬论； 错觉, 幻觉, 虚妄",
-    "examples": [
-      {
-        "en": "A deep understanding of fallacy is beneficial in everyday life.",
-        "zh": "在相关语境中，'fallacy'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "fatigue_noun",
-    "word": "fatigue",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
+    "phonetic": "/'fælәsi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fallacy&type=2",
+    "definition_en": "n. a misconception resulting from incorrect reasoning",
+    "definition_zh": "n. 错误的观念(或信念), 谬见, 谬论； 错觉, 幻觉, 虚妄",
+    "examples": [
+      {
+        "en": "A deep understanding of fallacy is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 错误的观念(或信念), 谬见, 谬论具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "fatigue",
+    "word": "fatigue",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
     "phonetic": "/fә'ti:g/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fatigue-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fatigue&type=2",
     "definition_en": "n. temporary loss of strength and energy resulting from hard physical or mental work\\nn. used of materials (especially metals) in a weakened state caused by long stress\\nn. (always used with a modifier) boredom resulting from overexposure to something",
     "definition_zh": "n. 疲乏, 疲劳； vt. 使疲劳, 使心智衰弱； vi. 疲劳； a. 疲劳的",
     "examples": [
       {
-        "en": "A deep understanding of fatigue is beneficial in everyday life.",
-        "zh": "在相关语境中，'fatigue'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of fatigue is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 疲乏, 疲劳具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "feel_noun",
+    "id": "feel",
     "word": "feel",
     "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/fi:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feel-us.mp3",
-    "definition_en": "n. an intuitive awareness; \\nn. manual stimulation of the genital area for sexual pleasure\\nv. undergo an emotional sensation or be in a particular state of mind\\nv. perceive by a physical sensation, e.g., coming from the skin or muscles",
-    "definition_zh": "vt. 感觉, 觉得, 触摸, 以为； vi. 有知觉, 摸索, 同情； n. 感觉, 觉得, 触摸",
-    "examples": [
-      {
-        "en": "A deep understanding of feel is beneficial in everyday life.",
-        "zh": "在相关语境中，'feel'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "feel_verb",
-    "word": "feel",
-    "part_of_speech": "verb",
     "level": "A1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/fi:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feel-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=feel&type=2",
     "definition_en": "n. an intuitive awareness; \\nn. manual stimulation of the genital area for sexual pleasure\\nv. undergo an emotional sensation or be in a particular state of mind\\nv. perceive by a physical sensation, e.g., coming from the skin or muscles",
     "definition_zh": "vt. 感觉, 觉得, 触摸, 以为； vi. 有知觉, 摸索, 同情； n. 感觉, 觉得, 触摸",
     "examples": [
       {
-        "en": "Specialists actively feel practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'feel'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of feel is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 感觉, 觉得, 触摸, 以为具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "hurt_adjective",
+    "id": "hurt",
     "word": "hurt",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/hә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hurt-us.mp3",
-    "definition_en": "v. give trouble or pain to\\nv. cause damage or affect negatively\\nv. hurt the feelings of\\nv. feel physical pain",
-    "definition_zh": "n. 伤害, 创伤, 损害； v. 伤害, (使)伤心, 危害, 刺痛",
-    "examples": [
-      {
-        "en": "They adopted a hurt perspective to address the challenge.",
-        "zh": "在相关语境中，'hurt'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "hurt_verb",
-    "word": "hurt",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "A1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/hә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hurt-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hurt&type=2",
     "definition_en": "v. give trouble or pain to\\nv. cause damage or affect negatively\\nv. hurt the feelings of\\nv. feel physical pain",
     "definition_zh": "n. 伤害, 创伤, 损害； v. 伤害, (使)伤心, 危害, 刺痛",
     "examples": [
       {
-        "en": "Specialists actively hurt practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'hurt'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of hurt is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 伤害, 创伤, 损害具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "hurt_noun",
-    "word": "hurt",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/hә:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hurt-us.mp3",
-    "definition_en": "v. give trouble or pain to\\nv. cause damage or affect negatively\\nv. hurt the feelings of\\nv. feel physical pain",
-    "definition_zh": "n. 伤害, 创伤, 损害； v. 伤害, (使)伤心, 危害, 刺痛",
-    "examples": [
-      {
-        "en": "A deep understanding of hurt is beneficial in everyday life.",
-        "zh": "在相关语境中，'hurt'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "hypnotherapy_noun",
+    "id": "hypnotherapy",
     "word": "hypnotherapy",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/.hipnә'θerәpi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hypnotherapy-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hypnotherapy&type=2",
     "definition_en": "n. the use of hypnosis in psychotherapy",
     "definition_zh": "n. 催眠疗法； 催眠疗法",
     "examples": [
       {
-        "en": "A deep understanding of hypnotherapy is beneficial in everyday life.",
-        "zh": "在相关语境中，'hypnotherapy'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of hypnotherapy is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 催眠疗法具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "inanimate_adjective",
+    "id": "inanimate",
     "word": "inanimate",
-    "part_of_speech": "adjective",
-    "level": "B2",
+    "part_of_speech": "noun",
+    "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/in'ænimәt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inanimate-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=inanimate&type=2",
     "definition_en": "a. belonging to the class of nouns denoting nonliving things\\na. not endowed with life",
     "definition_zh": "a. 失去知觉的, 没生命的, 无精打采的； 无生命的, 无生机的",
     "examples": [
       {
-        "en": "They adopted a inanimate perspective to address the challenge.",
-        "zh": "在相关语境中，'inanimate'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of inanimate is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 失去知觉的, 没生命的, 无精打采的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "insane_adjective",
+    "id": "insane",
     "word": "insane",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/in'sein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insane-us.mp3",
-    "definition_en": "a. afflicted with or characteristic of mental derangement",
-    "definition_zh": "a. 患精神病的, 极愚蠢的； 神经错乱的",
-    "examples": [
-      {
-        "en": "They adopted a insane perspective to address the challenge.",
-        "zh": "在相关语境中，'insane'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "instinct_noun",
-    "word": "instinct",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
+    "phonetic": "/in'sein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=insane&type=2",
+    "definition_en": "a. afflicted with or characteristic of mental derangement",
+    "definition_zh": "a. 患精神病的, 极愚蠢的； 神经错乱的",
+    "examples": [
+      {
+        "en": "A deep understanding of insane is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 患精神病的, 极愚蠢的具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "insanity",
+    "word": "insanity",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/in'sæniti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=insanity&type=2",
+    "definition_en": "n. relatively permanent disorder of the mind",
+    "definition_zh": "n. 疯狂, 愚顽, 精神错乱； 精神病",
+    "examples": [
+      {
+        "en": "A deep understanding of insanity is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 疯狂, 愚顽, 精神错乱具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "instinct",
+    "word": "instinct",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
     "phonetic": "/'instiŋkt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instinct-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=instinct&type=2",
     "definition_en": "n. inborn pattern of behavior often responsive to specific stimuli\\ns. (followed by `with')deeply filled or permeated",
     "definition_zh": "n. 本能, 直觉； a. 充满着的",
     "examples": [
       {
-        "en": "A deep understanding of instinct is beneficial in everyday life.",
-        "zh": "在相关语境中，'instinct'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of instinct is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 本能, 直觉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "instinctive_adjective",
+    "id": "instinctive",
     "word": "instinctive",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/in'stiŋktiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instinctive-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=instinctive&type=2",
     "definition_en": "s unthinking; prompted by (or as if by) instinct",
     "definition_zh": "a. 本能的, 天生的, 直觉的； 本能的",
     "examples": [
       {
-        "en": "They adopted a instinctive perspective to address the challenge.",
-        "zh": "在相关语境中，'instinctive'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of instinctive is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 本能的, 天生的, 直觉的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "instinctively_adverb",
+    "id": "instinctively",
     "word": "instinctively",
-    "part_of_speech": "adverb",
-    "level": "C1",
+    "part_of_speech": "noun",
+    "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instinctively-us.mp3",
+    "phonetic": "/instinctively/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=instinctively&type=2",
     "definition_en": "r. as a matter of instinct",
     "definition_zh": "adv. 本能地, 直觉地",
     "examples": [
       {
-        "en": "They adopted a instinctively perspective to address the challenge.",
-        "zh": "在相关语境中，'instinctively'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of instinctively is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，adv. 本能地, 直觉地具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "instincts_noun",
+    "id": "instincts",
     "word": "instincts",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instincts-us.mp3",
+    "phonetic": "/instincts/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=instincts&type=2",
     "definition_en": "n inborn pattern of behavior often responsive to specific stimuli",
     "definition_zh": "n. 直觉；本能（instinct的复数）",
     "examples": [
       {
-        "en": "A deep understanding of instincts is beneficial in everyday life.",
-        "zh": "在相关语境中，'instincts'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of instincts is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 直觉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "involuntarily_adverb",
+    "id": "involuntarily",
     "word": "involuntarily",
-    "part_of_speech": "adverb",
-    "level": "B1",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/in'vɒlәntәrili/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/involuntarily-us.mp3",
-    "definition_en": "r. against your will",
-    "definition_zh": "adv. 不知不觉地, 无意识地",
-    "examples": [
-      {
-        "en": "They adopted a involuntarily perspective to address the challenge.",
-        "zh": "在相关语境中，'involuntarily'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "mental_adjective",
-    "word": "mental",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/'mentl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mental-us.mp3",
-    "definition_en": "a. involving the mind or an intellectual process\\na. of or relating to the mind\\na. of or relating to the chin- or liplike structure in insects and certain mollusks\\ns. affected by a disorder of the mind",
-    "definition_zh": "a. 心智的, 精神病的, 心理的, 颏的； n. 精神病患者",
-    "examples": [
-      {
-        "en": "They adopted a mental perspective to address the challenge.",
-        "zh": "在相关语境中，'mental'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "mental_noun",
-    "word": "mental",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
+    "phonetic": "/in'vɒlәntәrili/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=involuntarily&type=2",
+    "definition_en": "r. against your will",
+    "definition_zh": "adv. 不知不觉地, 无意识地",
+    "examples": [
+      {
+        "en": "A deep understanding of involuntarily is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，adv. 不知不觉地, 无意识地具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "mechanically",
+    "word": "mechanically",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/mi'kænikәli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mechanically&type=2",
+    "definition_en": "r. in a mechanical manner; by a mechanism\\nr. in a machinelike manner; without feeling",
+    "definition_zh": "adv. 机械, 用机械, 机械学, 物理, 力学, 呆板, 无意识, 手工操作, 技工",
+    "examples": [
+      {
+        "en": "A deep understanding of mechanically is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，adv. 机械, 用机械, 机械学, 物理, 力学, 呆板, 无意识, 手工操作, 技工具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "mental",
+    "word": "mental",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
     "phonetic": "/'mentl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mental-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mental&type=2",
     "definition_en": "a. involving the mind or an intellectual process\\na. of or relating to the mind\\na. of or relating to the chin- or liplike structure in insects and certain mollusks\\ns. affected by a disorder of the mind",
     "definition_zh": "a. 心智的, 精神病的, 心理的, 颏的； n. 精神病患者",
     "examples": [
       {
-        "en": "A deep understanding of mental is beneficial in everyday life.",
-        "zh": "在相关语境中，'mental'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of mental is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 心智的, 精神病的, 心理的, 颏的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "mentally_adverb",
+    "id": "mentally",
     "word": "mentally",
-    "part_of_speech": "adverb",
-    "level": "B1",
+    "part_of_speech": "noun",
+    "level": "A2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/'mentli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mentally-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mentally&type=2",
     "definition_en": "r. in your mind",
     "definition_zh": "adv. 心理上, 精神上, 智力上； 精神上, 智力上",
     "examples": [
       {
-        "en": "They adopted a mentally perspective to address the challenge.",
-        "zh": "在相关语境中，'mentally'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of mentally is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，adv. 心理上, 精神上, 智力上具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "mesmeric_adjective",
+    "id": "mesmeric",
     "word": "mesmeric",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "C2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/mes'merik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mesmeric-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mesmeric&type=2",
     "definition_en": "s attracting and holding interest as if by a spell",
     "definition_zh": "a. 催眠术的； 催眠术的",
     "examples": [
       {
-        "en": "They adopted a mesmeric perspective to address the challenge.",
-        "zh": "在相关语境中，'mesmeric'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of mesmeric is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 催眠术的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "mind_noun",
+    "id": "mind",
     "word": "mind",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/maind/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mind-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mind&type=2",
     "definition_en": "n. that which is responsible for one's thoughts and feelings; the seat of the faculty of reason\\nn. recall or remembrance\\nn. attention\\nn. your intention; what you intend to do",
     "definition_zh": "n. 思想, 愿望, 智力, 记忆, 心理, 情绪, 理智, 主意, 心意； vi. 介意, 注意, 留心； vt. 注意, 留意, 专心于, 照看, 介意",
     "examples": [
       {
-        "en": "A deep understanding of mind is beneficial in everyday life.",
-        "zh": "在相关语境中，'mind'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of mind is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 思想, 愿望, 智力, 记忆, 心理, 情绪, 理智, 主意, 心意具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "mind_verb",
-    "word": "mind",
-    "part_of_speech": "verb",
-    "level": "A2",
+    "id": "narcotic",
+    "word": "narcotic",
+    "part_of_speech": "noun",
+    "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "/maind/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mind-us.mp3",
-    "definition_en": "n. that which is responsible for one's thoughts and feelings; the seat of the faculty of reason\\nn. recall or remembrance\\nn. attention\\nn. your intention; what you intend to do",
-    "definition_zh": "n. 思想, 愿望, 智力, 记忆, 心理, 情绪, 理智, 主意, 心意； vi. 介意, 注意, 留心； vt. 注意, 留意, 专心于, 照看, 介意",
+    "phonetic": "/nɑ:'kɒtik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=narcotic&type=2",
+    "definition_en": "n. a drug that produces numbness or stupor; often taken for pleasure or to reduce pain; extensive use can lead to addiction\\na. of or relating to or designating narcotics\\ns. inducing stupor or narcosis\\ns. inducing mental lethargy",
+    "definition_zh": "n. 麻醉药, 镇静剂； a. 麻醉的, 催眠的",
     "examples": [
       {
-        "en": "Specialists actively mind practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'mind'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of narcotic is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 麻醉药, 镇静剂具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "neurosis_noun",
+    "id": "neurosis",
     "word": "neurosis",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/nju'rәusis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neurosis-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=neurosis&type=2",
     "definition_en": "n. a mental or personality disturbance not attributable to any known neurological or organic dysfunction",
     "definition_zh": "n. 神经症, 神经机能病； 神经机能病, 神经症",
     "examples": [
       {
-        "en": "A deep understanding of neurosis is beneficial in everyday life.",
-        "zh": "在相关语境中，'neurosis'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of neurosis is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 神经症, 神经机能病具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "numb_adjective",
+    "id": "numb",
     "word": "numb",
-    "part_of_speech": "adjective",
-    "level": "C1",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/nʌm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/numb-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=numb&type=2",
     "definition_en": "v. make numb or insensitive\\ns. so frightened as to be unable to move; stunned or paralyzed with terror; petrified",
     "definition_zh": "a. 麻木的, 失去知觉的； vt. 使麻木, 使昏迷, 使失去知觉",
     "examples": [
       {
-        "en": "They adopted a numb perspective to address the challenge.",
-        "zh": "在相关语境中，'numb'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of numb is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 麻木的, 失去知觉的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "numb_verb",
-    "word": "numb",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/nʌm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/numb-us.mp3",
-    "definition_en": "v. make numb or insensitive\\ns. so frightened as to be unable to move; stunned or paralyzed with terror; petrified",
-    "definition_zh": "a. 麻木的, 失去知觉的； vt. 使麻木, 使昏迷, 使失去知觉",
-    "examples": [
-      {
-        "en": "Specialists actively numb practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'numb'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "perceive_verb",
+    "id": "perceive",
     "word": "perceive",
-    "part_of_speech": "verb",
-    "level": "B2",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/pә'si:v/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perceive-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=perceive&type=2",
     "definition_en": "v. to become aware of through the senses\\nv. become conscious of",
     "definition_zh": "vt. 感觉, 认知, 理解, 意识到",
     "examples": [
       {
-        "en": "Specialists actively perceive practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'perceive'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of perceive is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 感觉, 认知, 理解, 意识到具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "perception_noun",
+    "id": "perception",
     "word": "perception",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/pә'sepʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perception-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=perception&type=2",
     "definition_en": "n. a way of conceiving something\\nn. the process of perceiving\\nn. knowledge gained by perceiving",
     "definition_zh": "n. 知觉, 感觉, 领悟力, 获取； 知觉",
     "examples": [
       {
-        "en": "A deep understanding of perception is beneficial in everyday life.",
-        "zh": "在相关语境中，'perception'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of perception is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 知觉, 感觉, 领悟力, 获取具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "perceptive_adjective",
+    "id": "perceptive",
     "word": "perceptive",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/pә'septiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perceptive-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=perceptive&type=2",
     "definition_en": "a. of or relating to perception\\na. having the ability to perceive or understand; keen in discernment",
     "definition_zh": "a. 知觉的, 有知觉力的, 感知的； 知觉的",
     "examples": [
       {
-        "en": "They adopted a perceptive perspective to address the challenge.",
-        "zh": "在相关语境中，'perceptive'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of perceptive is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 知觉的, 有知觉力的, 感知的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "phantom_adjective",
-    "word": "phantom",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/'fæntәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phantom-us.mp3",
-    "definition_en": "s. something apparently sensed but having no physical reality",
-    "definition_zh": "n. 幻影, 虚位, 幽灵, 化身, 令人恐惧的事物, 骇人的想法； a. 幻觉的, 幻影的, 幽灵的, 虚无飘渺的, 捉摸不定的, 有名无实的",
-    "examples": [
-      {
-        "en": "They adopted a phantom perspective to address the challenge.",
-        "zh": "在相关语境中，'phantom'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "phantom_noun",
+    "id": "phantom",
     "word": "phantom",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/'fæntәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phantom-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=phantom&type=2",
     "definition_en": "s. something apparently sensed but having no physical reality",
     "definition_zh": "n. 幻影, 虚位, 幽灵, 化身, 令人恐惧的事物, 骇人的想法； a. 幻觉的, 幻影的, 幽灵的, 虚无飘渺的, 捉摸不定的, 有名无实的",
     "examples": [
       {
-        "en": "A deep understanding of phantom is beneficial in everyday life.",
-        "zh": "在相关语境中，'phantom'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of phantom is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 幻影, 虚位, 幽灵, 化身, 令人恐惧的事物, 骇人的想法具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "phenomenal_adjective",
+    "id": "phenomenal",
     "word": "phenomenal",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/fi'nɒminәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phenomenal-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=phenomenal&type=2",
     "definition_en": "a. of or relating to a phenomenon\\ns. exceedingly or unbelievably great",
     "definition_zh": "a. 现象的, 能知觉的, 异常的, 显著的, 惊人的",
     "examples": [
       {
-        "en": "They adopted a phenomenal perspective to address the challenge.",
-        "zh": "在相关语境中，'phenomenal'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of phenomenal is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 现象的, 能知觉的, 异常的, 显著的, 惊人的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "psychiatric_adjective",
+    "id": "psychiatric",
     "word": "psychiatric",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/saiki'ætrik; (?@) si-/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychiatric-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychiatric&type=2",
     "definition_en": "a. relating to or used in or engaged in the practice of psychiatry",
     "definition_zh": "a. 精神病学的, 医精神病的； 精神病学的",
     "examples": [
       {
-        "en": "They adopted a psychiatric perspective to address the challenge.",
-        "zh": "在相关语境中，'psychiatric'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of psychiatric is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 精神病学的, 医精神病的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "psychiatrist_noun",
+    "id": "psychiatrist",
     "word": "psychiatrist",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/sai'kaiәtrist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychiatrist-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychiatrist&type=2",
     "definition_en": "n. a physician who specializes in psychiatry",
     "definition_zh": "n. 精神病医生, 精神病学家； 精神病学家",
     "examples": [
       {
-        "en": "A deep understanding of psychiatrist is beneficial in everyday life.",
-        "zh": "在相关语境中，'psychiatrist'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of psychiatrist is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 精神病医生, 精神病学家具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "psychological_adjective",
+    "id": "psychiatry",
+    "word": "psychiatry",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/sai'kaiәtri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychiatry&type=2",
+    "definition_en": "n. the branch of medicine dealing with the diagnosis and treatment of mental disorders",
+    "definition_zh": "n. 精神病学, 精神病治疗； 精神病学",
+    "examples": [
+      {
+        "en": "A deep understanding of psychiatry is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 精神病学, 精神病治疗具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "psychological",
     "word": "psychological",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/.saikә'lɒdʒikәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychological-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychological&type=2",
     "definition_en": "s. mental or emotional as opposed to physical in nature\\na. of or relating to or determined by psychology",
     "definition_zh": "a. 心理学的, 精神上的, 心灵的； 心理上的, 心理学的",
     "examples": [
       {
-        "en": "They adopted a psychological perspective to address the challenge.",
-        "zh": "在相关语境中，'psychological'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of psychological is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 心理学的, 精神上的, 心灵的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "psychologically_adverb",
+    "id": "psychologically",
     "word": "psychologically",
-    "part_of_speech": "adverb",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/,psaikә'lɔdʒikәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychologically-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychologically&type=2",
     "definition_en": "r. with regard to psychology\\nr. in terms of psychology",
     "definition_zh": "adv. 心理上, 从心理学角度",
     "examples": [
       {
-        "en": "They adopted a psychologically perspective to address the challenge.",
-        "zh": "在相关语境中，'psychologically'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of psychologically is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，adv. 心理上, 从心理学角度具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "psychologist_noun",
+    "id": "psychologist",
     "word": "psychologist",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/sai'kɒlәdʒist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychologist-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychologist&type=2",
     "definition_en": "n. a scientist trained in psychology",
     "definition_zh": "n. 心理学家； 心理学家",
     "examples": [
       {
-        "en": "A deep understanding of psychologist is beneficial in everyday life.",
-        "zh": "在相关语境中，'psychologist'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of psychologist is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 心理学家具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "psychologists_noun",
+    "id": "psychologists",
     "word": "psychologists",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/saɪˈkɔlədʒɪsts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychologists-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychologists&type=2",
     "definition_en": "n. a scientist trained in psychology",
     "definition_zh": "n. 心理学研究者, 心理学家( psychologist的复数形式 )",
     "examples": [
       {
-        "en": "A deep understanding of psychologists is beneficial in everyday life.",
-        "zh": "在相关语境中，'psychologists'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of psychologists is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 心理学研究者, 心理学家( psychologist的复数形式 )具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "psychology_noun",
+    "id": "psychology",
     "word": "psychology",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/sai'kɒlәdʒi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psychology-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychology&type=2",
     "definition_en": "n. the science of mental life",
     "definition_zh": "n. 心理学, 心理状态； 心理学",
     "examples": [
       {
-        "en": "A deep understanding of psychology is beneficial in everyday life.",
-        "zh": "在相关语境中，'psychology'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of psychology is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 心理学, 心理状态具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "reproduction_noun",
+    "id": "reproduction",
     "word": "reproduction",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/.ri:prә'dʌkʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reproduction-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=reproduction&type=2",
     "definition_en": "n. the process of generating offspring\\nn. recall that is hypothesized to work by storing the original stimulus input and reproducing it during recall\\nn. the act of making copies\\nn. the sexual activity of conceiving and bearing offspring",
     "definition_zh": "n. 再现, 复制, 生殖, 繁殖, 复制品； 生殖, 复现(心理)",
     "examples": [
       {
-        "en": "A deep understanding of reproduction is beneficial in everyday life.",
-        "zh": "在相关语境中，'reproduction'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of reproduction is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 再现, 复制, 生殖, 繁殖, 复制品具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "sensations_noun",
+    "id": "sensations",
     "word": "sensations",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/senˈseiʃənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sensations-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sensations&type=2",
     "definition_en": "n. an unelaborated elementary awareness of stimulation\\nn. someone who is dazzlingly skilled in any field\\nn. a general feeling of excitement and heightened interest",
     "definition_zh": "n. 感觉( sensation的复数形式 ); 感受; 知觉; 激动",
     "examples": [
       {
-        "en": "A deep understanding of sensations is beneficial in everyday life.",
-        "zh": "在相关语境中，'sensations'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of sensations is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 感觉( sensation的复数形式 ); 感受; 知觉; 激动具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "sense_noun",
+    "id": "sense",
     "word": "sense",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/sens/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sense-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sense&type=2",
     "definition_en": "n. a general conscious awareness\\nn. the meaning of a word or expression; the way in which a word or expression or situation can be interpreted\\nn. the faculty through which the external world is apprehended\\nn. a natural appreciation or ability",
     "definition_zh": "n. 感应, 感觉, 感官, 意识, 观念, 情理, 知觉, 理智； vt. 感觉, 觉察, 检测； 阅读; 检测",
     "examples": [
       {
-        "en": "A deep understanding of sense is beneficial in everyday life.",
-        "zh": "在相关语境中，'sense'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of sense is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 感应, 感觉, 感官, 意识, 观念, 情理, 知觉, 理智具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "sense_verb",
-    "word": "sense",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/sens/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sense-us.mp3",
-    "definition_en": "n. a general conscious awareness\\nn. the meaning of a word or expression; the way in which a word or expression or situation can be interpreted\\nn. the faculty through which the external world is apprehended\\nn. a natural appreciation or ability",
-    "definition_zh": "n. 感应, 感觉, 感官, 意识, 观念, 情理, 知觉, 理智； vt. 感觉, 觉察, 检测； 阅读; 检测",
-    "examples": [
-      {
-        "en": "Specialists actively sense practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'sense'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "senses_noun",
+    "id": "senses",
     "word": "senses",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/senses-us.mp3",
+    "phonetic": "/senses/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=senses&type=2",
     "definition_en": "n a general conscious awareness\\nn the meaning of a word or expression; the way in which a word or expression or situation can be interpreted\\nn the faculty through which the external world is apprehended\\nn sound practical judgment\\nn a natural appreciation or ability\\nn street names for marijuana\\nv perceive by a physical sensation, e.g., coming from the skin or muscles\\nv detect some circumstance or entity automatically\\nv become aware of not through the senses but instinctively\\nv comprehend",
     "definition_zh": "n. 五官的感觉, 知觉, 理性, 理智",
     "examples": [
       {
-        "en": "A deep understanding of senses is beneficial in everyday life.",
-        "zh": "在相关语境中，'senses'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of senses is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 五官的感觉, 知觉, 理性, 理智具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "sentient_adjective",
+    "id": "sentient",
     "word": "sentient",
-    "part_of_speech": "adjective",
-    "level": "C1",
+    "part_of_speech": "noun",
+    "level": "C2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/'senʃәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sentient-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sentient&type=2",
     "definition_en": "a. endowed with feeling and unstructured consciousness\\ns. consciously perceiving",
     "definition_zh": "a. 有感觉力的, 意识到的； n. 有知觉的人",
     "examples": [
       {
-        "en": "They adopted a sentient perspective to address the challenge.",
-        "zh": "在相关语境中，'sentient'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of sentient is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 有感觉力的, 意识到的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "subconscious_adjective",
+    "id": "subconscious",
     "word": "subconscious",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/.sʌb'kɒnʃәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subconscious-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=subconscious&type=2",
     "definition_en": "s. just below the level of consciousness",
     "definition_zh": "n. 潜在意识, 下意识； a. 下意识的, 潜意识的",
     "examples": [
       {
-        "en": "They adopted a subconscious perspective to address the challenge.",
-        "zh": "在相关语境中，'subconscious'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of subconscious is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 潜在意识, 下意识具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "unconscious_adjective",
+    "id": "unconscious",
     "word": "unconscious",
-    "part_of_speech": "adjective",
-    "level": "B2",
+    "part_of_speech": "noun",
+    "level": "A2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/.ʌn'kɒnʃәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unconscious-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=unconscious&type=2",
     "definition_en": "a. not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead\\ns. without conscious volition\\ns. (followed by `of') not knowing or perceiving",
     "definition_zh": "a. 未意识到的, 无意识的, 无知觉的； 人事不省的, 神志丧失的; 无意识的",
     "examples": [
       {
-        "en": "They adopted a unconscious perspective to address the challenge.",
-        "zh": "在相关语境中，'unconscious'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of unconscious is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 未意识到的, 无意识的, 无知觉的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "visions_noun",
+    "id": "visions",
     "word": "visions",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/visions-us.mp3",
+    "phonetic": "/visions/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=visions&type=2",
     "definition_en": "n a vivid mental image\\nn the ability to see; the visual faculty\\nn the perceptual experience of seeing\\nn the formation of a mental image of something that is not perceived as real and is not present to the senses\\nn a religious or mystical experience of a supernatural appearance",
     "definition_zh": "n. 视力；愿景；幻觉（vision的复数）",
     "examples": [
       {
-        "en": "A deep understanding of visions is beneficial in everyday life.",
-        "zh": "在相关语境中，'visions'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of visions is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 视力具有重要的表达意义。"
       }
     ]
   }

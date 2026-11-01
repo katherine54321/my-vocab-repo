@@ -1,919 +1,973 @@
 [
   {
-    "id": "angle_noun",
+    "id": "angle",
     "word": "angle",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'æŋgl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angle-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=angle&type=2",
     "definition_en": "n. the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians\\nn. a member of a Germanic people who conquered England and merged with the Saxons and Jutes to become Anglo-Saxons\\nv. move or proceed at an angle\\nv. fish with a hook",
     "definition_zh": "n. 角, 角度, 角落； vi. 钓鱼, 谋取, 博取, 斜向移动, 转变角度； vt. 使转动角度, 在...钓鱼, 获取",
     "examples": [
       {
-        "en": "A deep understanding of angle is beneficial in everyday life.",
-        "zh": "在相关语境中，'angle'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of angle is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 角, 角度, 角落具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "angle_verb",
-    "word": "angle",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'æŋgl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angle-us.mp3",
-    "definition_en": "n. the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians\\nn. a member of a Germanic people who conquered England and merged with the Saxons and Jutes to become Anglo-Saxons\\nv. move or proceed at an angle\\nv. fish with a hook",
-    "definition_zh": "n. 角, 角度, 角落； vi. 钓鱼, 谋取, 博取, 斜向移动, 转变角度； vt. 使转动角度, 在...钓鱼, 获取",
-    "examples": [
-      {
-        "en": "Specialists actively angle practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'angle'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "bacon_noun",
+    "id": "bacon",
     "word": "bacon",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'beikәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bacon-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bacon&type=2",
     "definition_en": "n. back and sides of a hog salted and dried or smoked; usually sliced thin and fried\\nn. English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)\\nn. English statesman and philosopher; precursor of British empiricism; advocated inductive reasoning (1561-1626)",
     "definition_zh": "n. 熏猪肉； 腌肉",
     "examples": [
       {
-        "en": "A deep understanding of bacon is beneficial in everyday life.",
-        "zh": "在相关语境中，'bacon'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of bacon is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 熏猪肉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "barbecue_noun",
+    "id": "barbecue",
     "word": "barbecue",
     "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'bɑ:bikju:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barbecue-us.mp3",
-    "definition_en": "n. meat that has been barbecued or grilled in a highly seasoned sauce\\nn. a cookout in which food is cooked over an open fire; especially a whole animal carcass roasted on a spit\\nn. a rack to hold meat for cooking over hot charcoal usually out of doors",
-    "definition_zh": "n. 烤肉； vt. 烤肉, 烧烤",
-    "examples": [
-      {
-        "en": "A deep understanding of barbecue is beneficial in everyday life.",
-        "zh": "在相关语境中，'barbecue'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "barbecue_verb",
-    "word": "barbecue",
-    "part_of_speech": "verb",
     "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'bɑ:bikju:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barbecue-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=barbecue&type=2",
     "definition_en": "n. meat that has been barbecued or grilled in a highly seasoned sauce\\nn. a cookout in which food is cooked over an open fire; especially a whole animal carcass roasted on a spit\\nn. a rack to hold meat for cooking over hot charcoal usually out of doors",
     "definition_zh": "n. 烤肉； vt. 烤肉, 烧烤",
     "examples": [
       {
-        "en": "Specialists actively barbecue practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'barbecue'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of barbecue is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 烤肉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "beef_noun",
+    "id": "beef",
     "word": "beef",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/bi:f/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beef-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=beef&type=2",
     "definition_en": "n. cattle that are reared for their meat\\nn. meat from an adult domestic bovine",
     "definition_zh": "n. 牛肉, 肌肉； vt. 养(牛), 宰(牛)； vi. 抱怨, 告发",
     "examples": [
       {
-        "en": "A deep understanding of beef is beneficial in everyday life.",
-        "zh": "在相关语境中，'beef'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of beef is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 牛肉, 肌肉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "blocks_noun",
+    "id": "blocks",
     "word": "blocks",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'blɔks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blocks-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blocks&type=2",
     "definition_en": "n a solid piece of something (usually having flat rectangular sides)\\nn a rectangular area in a city surrounded by streets and usually containing several buildings\\nn a three-dimensional shape with six square or rectangular sides\\nn a number or quantity of related things dealt with as a unit\\nn housing in a large building that is divided into separate units\\nn (computer science) a sector or group of sectors that function as the smallest data unit permitted\\nn an inability to remember or think of something you normally can do; often caused by emotional tension\\nn a simple machine consisting of a wheel with a groove in which a rope can run to change the direction or point of application of a force applied to the rope\\nn a metal casting containing the cylinders and cooling ducts of an engine\\nn an obstruction in a pipe or tube\\nn a platform from which an auctioneer sells\\nn the act of obstructing or deflecting someone's movements\\nv render unsuitable for passage\\nv hinder or prevent the progress or accomplishment of\\nv stop from happening or developing\\nv interfere with or prevent the reception of signals\\nv run on a block system\\nv interrupt the normal function of by means of anesthesia\\nv shut out from view or get in the way so as to hide from sight\\nv stamp or emboss a title or design on a book with a block\\nv obstruct\\nv block passage through\\nv support, secure, or raise with a block\\nv impede the movement of (an opponent or a ball)\\nv be unable to remember\\nv shape by using a block\\nv shape into a block or blocks\\nv prohibit the conversion or use of (assets)",
     "definition_zh": "n. 积木；黑金石；街区；双头木鱼；楼群（block的复数）",
     "examples": [
       {
-        "en": "A deep understanding of blocks is beneficial in everyday life.",
-        "zh": "在相关语境中，'blocks'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of blocks is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 积木具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "butcher_noun",
+    "id": "butcher",
     "word": "butcher",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'butʃә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/butcher-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=butcher&type=2",
     "definition_en": "n. a retailer of meat\\nn. a brutal indiscriminate murderer\\nn. a person who slaughters or dresses meat for market\\nv. kill (animals) usually for food consumption",
     "definition_zh": "n. 屠夫, 肉商, 小贩； vt. 屠宰, 屠杀",
     "examples": [
       {
-        "en": "A deep understanding of butcher is beneficial in everyday life.",
-        "zh": "在相关语境中，'butcher'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of butcher is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 屠夫, 肉商, 小贩具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "butcher_verb",
-    "word": "butcher",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'butʃә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/butcher-us.mp3",
-    "definition_en": "n. a retailer of meat\\nn. a brutal indiscriminate murderer\\nn. a person who slaughters or dresses meat for market\\nv. kill (animals) usually for food consumption",
-    "definition_zh": "n. 屠夫, 肉商, 小贩； vt. 屠宰, 屠杀",
-    "examples": [
-      {
-        "en": "Specialists actively butcher practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'butcher'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "chicken_noun",
+    "id": "chicken",
     "word": "chicken",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'tʃikin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chicken-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chicken&type=2",
     "definition_en": "n. the flesh of a chicken used for food\\nn. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl\\nn. a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops\\ns. easily frightened",
     "definition_zh": "n. 小鸡, 鸡肉",
     "examples": [
       {
-        "en": "A deep understanding of chicken is beneficial in everyday life.",
-        "zh": "在相关语境中，'chicken'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of chicken is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 小鸡, 鸡肉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "chickens_noun",
+    "id": "chickens",
     "word": "chickens",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/ˈtʃikinz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chickens-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chickens&type=2",
     "definition_en": "n. the flesh of a chicken used for food\\nn. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl\\nn. a person who lacks confidence, is irresolute and wishy-washy",
     "definition_zh": "n. 鸡( chicken的复数形式 ); 鸡肉",
     "examples": [
       {
-        "en": "A deep understanding of chickens is beneficial in everyday life.",
-        "zh": "在相关语境中，'chickens'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of chickens is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 鸡( chicken的复数形式 ); 鸡肉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "chop_verb",
+    "id": "chop",
     "word": "chop",
-    "part_of_speech": "verb",
-    "level": "B2",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/tʃɒp/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chop-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chop&type=2",
     "definition_en": "n. the irregular motion of waves (usually caused by wind blowing in a direction opposite to the tide)\\nn. a small cut of meat including part of a rib\\nn. a jaw\\nn. a tennis return made with a downward motion that puts backspin on the ball",
     "definition_zh": "n. 肋条肉, 排骨, 砍, 戳记, 商标； vt. 剁碎, 砍, 切击, 割断； vi. 砍, 突然转向",
     "examples": [
       {
-        "en": "Specialists actively chop practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'chop'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of chop is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肋条肉, 排骨, 砍, 戳记, 商标具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "corporal_adjective",
+    "id": "corporal",
     "word": "corporal",
-    "part_of_speech": "adjective",
-    "level": "B2",
+    "part_of_speech": "noun",
+    "level": "C2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'kɒ:pәrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/corporal-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=corporal&type=2",
     "definition_en": "n. a noncommissioned officer in the Army or Air Force or Marines",
     "definition_zh": "n. 下士； a. 肉体的, 身体的, 个人的",
     "examples": [
       {
-        "en": "They adopted a corporal perspective to address the challenge.",
-        "zh": "在相关语境中，'corporal'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of corporal is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 下士具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "crab_noun",
+    "id": "crab",
     "word": "crab",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/kræb/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crab-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=crab&type=2",
     "definition_en": "n. decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers\\nn. a quarrelsome grouch\\nn. the edible flesh of any of various crabs\\nn. a stroke of the oar that either misses the water or digs too deeply",
     "definition_zh": "n. 螃蟹, 偏航, 脾气乖戾的人, 沙果； vi. 捕蟹, 偏航, 发牢骚； vt. 使偏航, 抱怨, 破坏",
     "examples": [
       {
-        "en": "A deep understanding of crab is beneficial in everyday life.",
-        "zh": "在相关语境中，'crab'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of crab is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 螃蟹, 偏航, 脾气乖戾的人, 沙果具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "crawl_verb",
+    "id": "crawl",
     "word": "crawl",
-    "part_of_speech": "verb",
-    "level": "B2",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/krɒ:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crawl-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=crawl&type=2",
     "definition_en": "n. a very slow movement\\nn. a swimming stroke; arms are moved alternately overhead accompanied by a flutter kick\\nn. a slow mode of locomotion on hands and knees or dragging the body\\nv. move slowly; in the case of people or animals with the body near the ground",
     "definition_zh": "n. 爬行, 匍匐而行, 养鱼池； v. 爬行",
     "examples": [
       {
-        "en": "Specialists actively crawl practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'crawl'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of crawl is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 爬行, 匍匐而行, 养鱼池具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "fat_adjective",
+    "id": "fat",
     "word": "fat",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/fæt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fat-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fat&type=2",
     "definition_en": "n. a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides)\\na. having an (over)abundance of flesh\\ns. having a relatively large diameter\\ns. lucrative",
     "definition_zh": "n. 脂肪, 脂油, 肥肉； a. 肥的, 胖的, 油腻的； n. 文件分配表； 文件分配表",
     "examples": [
       {
-        "en": "They adopted a fat perspective to address the challenge.",
-        "zh": "在相关语境中，'fat'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of fat is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 脂肪, 脂油, 肥肉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "fat_noun",
-    "word": "fat",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/fæt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fat-us.mp3",
-    "definition_en": "n. a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides)\\na. having an (over)abundance of flesh\\ns. having a relatively large diameter\\ns. lucrative",
-    "definition_zh": "n. 脂肪, 脂油, 肥肉； a. 肥的, 胖的, 油腻的； n. 文件分配表； 文件分配表",
-    "examples": [
-      {
-        "en": "A deep understanding of fat is beneficial in everyday life.",
-        "zh": "在相关语境中，'fat'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "fish_noun",
+    "id": "fish",
     "word": "fish",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/fiʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fish-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fish&type=2",
     "definition_en": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\\nn. the flesh of fish used as food\\nv. seek indirectly\\nv. catch or try to catch fish or shellfish",
     "definition_zh": "n. 鱼, 鱼肉, 鱼类, 接合板； vt. 钓, 钓鱼, 查出, 用接合板连接； vi. 捕鱼, 钓鱼, 用钩捞取, 摸索寻找",
     "examples": [
       {
-        "en": "A deep understanding of fish is beneficial in everyday life.",
-        "zh": "在相关语境中，'fish'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of fish is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 鱼, 鱼肉, 鱼类, 接合板具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "fish_verb",
-    "word": "fish",
-    "part_of_speech": "verb",
+    "id": "fisherman",
+    "word": "fisherman",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/fiʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fish-us.mp3",
-    "definition_en": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\\nn. the flesh of fish used as food\\nv. seek indirectly\\nv. catch or try to catch fish or shellfish",
-    "definition_zh": "n. 鱼, 鱼肉, 鱼类, 接合板； vt. 钓, 钓鱼, 查出, 用接合板连接； vi. 捕鱼, 钓鱼, 用钩捞取, 摸索寻找",
-    "examples": [
-      {
-        "en": "Specialists actively fish practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'fish'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "fisherman_noun",
-    "word": "fisherman",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
     "phonetic": "/'fiʃәmәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fisherman-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fisherman&type=2",
     "definition_en": "n. someone whose occupation is catching fish",
     "definition_zh": "n. 渔夫, 钓鱼者, 渔船",
     "examples": [
       {
-        "en": "A deep understanding of fisherman is beneficial in everyday life.",
-        "zh": "在相关语境中，'fisherman'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of fisherman is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 渔夫, 钓鱼者, 渔船具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "fishes_noun",
+    "id": "fishery",
+    "word": "fishery",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'fiʃәri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fishery&type=2",
+    "definition_en": "n. a workplace where fish are caught and processed and sold",
+    "definition_zh": "n. 渔业； 捕鱼, 捕鱼权",
+    "examples": [
+      {
+        "en": "A deep understanding of fishery is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 渔业具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "fishes",
     "word": "fishes",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'fiʃiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fishes-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fishes&type=2",
     "definition_en": "n any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\\nn the flesh of fish used as food\\nn (astrology) a person who is born while the sun is in Pisces\\nn the twelfth sign of the zodiac; the sun is in this sign from about February 19 to March 20\\nv seek indirectly\\nv catch or try to catch fish or shellfish",
     "definition_zh": "n. 鱼类（fish的复数）",
     "examples": [
       {
-        "en": "A deep understanding of fishes is beneficial in everyday life.",
-        "zh": "在相关语境中，'fishes'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of fishes is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 鱼类（fish的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "fishing_noun",
+    "id": "fishing",
     "word": "fishing",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'fiʃiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fishing-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fishing&type=2",
     "definition_en": "n. the act of someone who fishes as a diversion\\nn. the occupation of catching fish for a living",
     "definition_zh": "n. 钓鱼, 鱼业； a. 钓鱼的",
     "examples": [
       {
-        "en": "A deep understanding of fishing is beneficial in everyday life.",
-        "zh": "在相关语境中，'fishing'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of fishing is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 钓鱼, 鱼业具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "goose_noun",
+    "id": "flake",
+    "word": "flake",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/fleik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=flake&type=2",
+    "definition_en": "v. form into flakes\\nv. cover with flakes or as if with flakes",
+    "definition_zh": "n. 小薄片, 扁薄的一层, 火星, 晒鱼架子； vt. 使成薄片； vi. 剥落",
+    "examples": [
+      {
+        "en": "A deep understanding of flake is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 小薄片, 扁薄的一层, 火星, 晒鱼架子具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "flank",
+    "word": "flank",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/flæŋk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=flank&type=2",
+    "definition_en": "n. the side of military or naval formation\\nn. a subfigure consisting of a side of something\\nn. a cut from the fleshy part of an animal's side between the ribs and the leg\\nn. the side between ribs and hipbone",
+    "definition_zh": "n. 侧面, 侧腹, 胁, 腰窝肉； vt. 攻击侧面, 守侧面； vi. 侧面与...相接",
+    "examples": [
+      {
+        "en": "A deep understanding of flank is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 侧面, 侧腹, 胁, 腰窝肉具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "goldfish",
+    "word": "goldfish",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'gәuldfiʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=goldfish&type=2",
+    "definition_en": "n. small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes",
+    "definition_zh": "n. 金鱼",
+    "examples": [
+      {
+        "en": "A deep understanding of goldfish is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 金鱼具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "goose",
     "word": "goose",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/gu:s/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/goose-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=goose&type=2",
     "definition_en": "n. web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks\\nn. flesh of a goose (domestic or wild)\\nv. pinch in the buttocks\\nv. prod into action",
     "definition_zh": "n. 鹅, 雌鹅, 鹅肉, 弯把熨斗； vt. 与...性交, 突然加大油门, 使生色, 喝倒彩",
     "examples": [
       {
-        "en": "A deep understanding of goose is beneficial in everyday life.",
-        "zh": "在相关语境中，'goose'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of goose is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 鹅, 雌鹅, 鹅肉, 弯把熨斗具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "gravy_noun",
+    "id": "gravy",
     "word": "gravy",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'greivi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gravy-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gravy&type=2",
     "definition_en": "n. a sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats\\nn. the seasoned but not thickened juices that drip from cooking meats; often a little water is added",
     "definition_zh": "n. 肉汁, 外快",
     "examples": [
       {
-        "en": "A deep understanding of gravy is beneficial in everyday life.",
-        "zh": "在相关语境中，'gravy'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of gravy is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肉汁, 外快具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "hamburger_noun",
+    "id": "hamburger",
     "word": "hamburger",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'hæmbә:gә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hamburger-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hamburger&type=2",
     "definition_en": "n. a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients",
     "definition_zh": "n. 汉堡(德国港口), 肉饼, 汉堡包, 纯精牛肉, 汉堡牛排",
     "examples": [
       {
-        "en": "A deep understanding of hamburger is beneficial in everyday life.",
-        "zh": "在相关语境中，'hamburger'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of hamburger is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 汉堡(德国港口), 肉饼, 汉堡包, 纯精牛肉, 汉堡牛排具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "herring_noun",
+    "id": "herring",
     "word": "herring",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'heriŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/herring-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=herring&type=2",
     "definition_en": "n. valuable flesh of fatty fish from shallow waters of northern Atlantic or Pacific; usually salted or pickled\\nn. commercially important food fish of northern waters of both Atlantic and Pacific",
     "definition_zh": "n. 青鱼, 鲱",
     "examples": [
       {
-        "en": "A deep understanding of herring is beneficial in everyday life.",
-        "zh": "在相关语境中，'herring'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of herring is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 青鱼, 鲱具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "jungle_noun",
+    "id": "jerk",
+    "word": "jerk",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/dʒә:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jerk&type=2",
+    "definition_en": "n. a dull stupid fatuous person\\nn. an abrupt spasmodic movement\\nn. (mechanics) the rate of change of acceleration\\nn. raising a weight from shoulder height to above the head by straightening the arms",
+    "definition_zh": "n. 性情古怪的人, 急拉, 肌肉抽搐, 牛肉干； vi. 痉挛, 急拉, 急推； vt. 猛拉",
+    "examples": [
+      {
+        "en": "A deep understanding of jerk is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 性情古怪的人, 急拉, 肌肉抽搐, 牛肉干具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "jungle",
     "word": "jungle",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'dʒʌŋgl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jungle-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jungle&type=2",
     "definition_en": "n. a location marked by an intense competition and struggle for survival\\nn. an impenetrable equatorial forest",
     "definition_zh": "n. 丛林, 杂乱的一堆, 弱肉强食的地方",
     "examples": [
       {
-        "en": "A deep understanding of jungle is beneficial in everyday life.",
-        "zh": "在相关语境中，'jungle'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of jungle is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 丛林, 杂乱的一堆, 弱肉强食的地方具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "kid_noun",
+    "id": "kid",
     "word": "kid",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/kid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kid-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=kid&type=2",
     "definition_en": "n. soft smooth leather from the hide of a young goat\\nn. young goat\\nv. be silly or tease one another",
     "definition_zh": "n. 小山羊, 小山羊肉, 小孩, 欺骗； a. 小山羊皮制的； v. 哄骗, 嘲弄",
     "examples": [
       {
-        "en": "A deep understanding of kid is beneficial in everyday life.",
-        "zh": "在相关语境中，'kid'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of kid is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 小山羊, 小山羊肉, 小孩, 欺骗具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "kid_verb",
-    "word": "kid",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/kid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kid-us.mp3",
-    "definition_en": "n. soft smooth leather from the hide of a young goat\\nn. young goat\\nv. be silly or tease one another",
-    "definition_zh": "n. 小山羊, 小山羊肉, 小孩, 欺骗； a. 小山羊皮制的； v. 哄骗, 嘲弄",
-    "examples": [
-      {
-        "en": "Specialists actively kid practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'kid'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "lambs_noun",
+    "id": "lambs",
     "word": "lambs",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/læmz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lambs-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lambs&type=2",
     "definition_en": "n young sheep\\nn English essayist (1775-1834)\\nn a person easily deceived or cheated (especially in financial matters)\\nn a sweet innocent mild-mannered person (especially a child)\\nn the flesh of a young domestic sheep eaten as food\\nv give birth to a lamb",
     "definition_zh": "n. 羔羊肉( lamb的名词复数 ); （慈爱或怜悯地描述或称呼某人）宝贝; 像羔羊般柔顺的人",
     "examples": [
       {
-        "en": "A deep understanding of lambs is beneficial in everyday life.",
-        "zh": "在相关语境中，'lambs'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of lambs is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 羔羊肉( lamb的名词复数 ); （慈爱或怜悯地描述或称呼某人）宝贝; 像羔羊般柔顺的人具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "lean_adjective",
+    "id": "lean",
     "word": "lean",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/li:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lean-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lean&type=2",
     "definition_en": "v. to incline or bend from a vertical position\\nv. cause to lean or incline\\nv. rely on for support\\na. lacking in mineral content or combustible material",
     "definition_zh": "n. 瘦肉, 倾斜, 倾斜度； a. 瘦的, 贫乏的, 歉收的； vi. 倚靠, 倾斜, 依赖； vt. 使倾斜",
     "examples": [
       {
-        "en": "They adopted a lean perspective to address the challenge.",
-        "zh": "在相关语境中，'lean'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of lean is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 瘦肉, 倾斜, 倾斜度具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "lean_verb",
-    "word": "lean",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/li:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lean-us.mp3",
-    "definition_en": "v. to incline or bend from a vertical position\\nv. cause to lean or incline\\nv. rely on for support\\na. lacking in mineral content or combustible material",
-    "definition_zh": "n. 瘦肉, 倾斜, 倾斜度； a. 瘦的, 贫乏的, 歉收的； vi. 倚靠, 倾斜, 依赖； vt. 使倾斜",
-    "examples": [
-      {
-        "en": "Specialists actively lean practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'lean'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "ling_noun",
+    "id": "ling",
     "word": "ling",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/liŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ling-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ling&type=2",
     "definition_en": "n. water chestnut whose spiny fruit has two rather than 4 prongs\\nn. elongated marine food fish of Greenland and northern Europe; often salted and dried\\nn. American hakes",
     "definition_zh": "n. 鳕鱼, 帚石南",
     "examples": [
       {
-        "en": "A deep understanding of ling is beneficial in everyday life.",
-        "zh": "在相关语境中，'ling'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of ling is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 鳕鱼, 帚石南具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "meat_noun",
+    "id": "meat",
     "word": "meat",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/mi:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meat-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=meat&type=2",
     "definition_en": "n. the flesh of animals (including fishes and birds and snails) used as food",
     "definition_zh": "n. 肉, 餐, 食物； 肉类",
     "examples": [
       {
-        "en": "A deep understanding of meat is beneficial in everyday life.",
-        "zh": "在相关语境中，'meat'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of meat is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肉, 餐, 食物具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "meats_noun",
+    "id": "meats",
     "word": "meats",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meats-us.mp3",
+    "phonetic": "/meats/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=meats&type=2",
     "definition_en": "n the flesh of animals (including fishes and birds and snails) used as food\\nn the inner and usually edible part of a seed or grain or nut or fruit stone\\nn the choicest or most essential or most vital part of some idea or experience",
     "definition_zh": "n. 肉类（meat的复数）",
     "examples": [
       {
-        "en": "A deep understanding of meats is beneficial in everyday life.",
-        "zh": "在相关语境中，'meats'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of meats is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肉类（meat的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "mutton_noun",
+    "id": "mutton",
     "word": "mutton",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'mʌtn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mutton-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mutton&type=2",
     "definition_en": "n meat from a mature domestic sheep",
     "definition_zh": "n. 羊肉",
     "examples": [
       {
-        "en": "A deep understanding of mutton is beneficial in everyday life.",
-        "zh": "在相关语境中，'mutton'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of mutton is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 羊肉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "physicality_noun",
+    "id": "oyster",
+    "word": "oyster",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'ɒistә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=oyster&type=2",
+    "definition_en": "n. marine mollusks having a rough irregular shell; found on the sea bed mostly in coastal waters\\nn. a small muscle on each side of the back of a fowl\\nv. gather oysters, dig oysters",
+    "definition_zh": "n. 牡蛎, 蚝, 沉默者",
+    "examples": [
+      {
+        "en": "A deep understanding of oyster is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 牡蛎, 蚝, 沉默者具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "physicality",
     "word": "physicality",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/fizi'kæliti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/physicality-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=physicality&type=2",
     "definition_en": "n preoccupation with satisfaction of physical drives and appetites",
     "definition_zh": "n. 肉体性",
     "examples": [
       {
-        "en": "A deep understanding of physicality is beneficial in everyday life.",
-        "zh": "在相关语境中，'physicality'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of physicality is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肉体性具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "pig_noun",
+    "id": "pig",
     "word": "pig",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/pig/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pig-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pig&type=2",
     "definition_en": "n. a crude block of metal (lead or iron) poured from a smelting furnace\\nv. live like a pig, in squalor",
     "definition_zh": "n. 猪, 猪肉, 贪婪的人, 猪一样的人； v. 生小猪, 象猪般地生活",
     "examples": [
       {
-        "en": "A deep understanding of pig is beneficial in everyday life.",
-        "zh": "在相关语境中，'pig'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of pig is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 猪, 猪肉, 贪婪的人, 猪一样的人具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "pork_noun",
+    "id": "pork",
     "word": "pork",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/pɒ:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pork-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pork&type=2",
     "definition_en": "n. meat from a domestic hog or pig",
     "definition_zh": "n. 猪肉； 猪肉",
     "examples": [
       {
-        "en": "A deep understanding of pork is beneficial in everyday life.",
-        "zh": "在相关语境中，'pork'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of pork is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 猪肉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "prawn_noun",
+    "id": "poultry",
+    "word": "poultry",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'pәultri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=poultry&type=2",
+    "definition_en": "n. flesh of chickens or turkeys or ducks or geese raised for food",
+    "definition_zh": "n. 家禽",
+    "examples": [
+      {
+        "en": "A deep understanding of poultry is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 家禽具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "prawn",
     "word": "prawn",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/prɒ:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prawn-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=prawn&type=2",
     "definition_en": "n. any of various edible decapod crustaceans\\nn. shrimp-like decapod crustacean having two pairs of pincers; most are edible\\nv. fish for prawns",
     "definition_zh": "n. 明虾, 对虾； vi. 捕虾",
     "examples": [
       {
-        "en": "A deep understanding of prawn is beneficial in everyday life.",
-        "zh": "在相关语境中，'prawn'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of prawn is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 明虾, 对虾具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "quick_adjective",
+    "id": "pulp",
+    "word": "pulp",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/pʌlp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pulp&type=2",
+    "definition_en": "n. any soft or soggy mass\\nn. a soft moist part of a fruit\\nn. a mixture of cellulose fibers\\nn. an inexpensive magazine printed on poor quality paper",
+    "definition_zh": "n. 果肉, 纸浆； vt. 使化成纸浆, 除去...果肉； vi. 变成纸浆",
+    "examples": [
+      {
+        "en": "A deep understanding of pulp is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 果肉, 纸浆具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "quick",
     "word": "quick",
-    "part_of_speech": "adjective",
-    "level": "A2",
+    "part_of_speech": "noun",
+    "level": "A1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/kwik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quick-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=quick&type=2",
     "definition_en": "n. any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)\\ns. accomplished rapidly and without delay\\ns. apprehending and responding with speed and sensitivity\\ns. easily aroused or excited",
     "definition_zh": "a. 快的, 迅速的, 敏捷的, 灵敏的, 急速的； adv. 快； n. 新长出的肉, 要害, 核心, 感觉敏锐部位",
     "examples": [
       {
-        "en": "They adopted a quick perspective to address the challenge.",
-        "zh": "在相关语境中，'quick'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of quick is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 快的, 迅速的, 敏捷的, 灵敏的, 急速的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "salmon_noun",
+    "id": "salmon",
     "word": "salmon",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'sæmәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salmon-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=salmon&type=2",
     "definition_en": "n. any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn\\nn. a tributary of the Snake River in Idaho\\nn. flesh of any of various marine or freshwater fish of the family Salmonidae\\nn. a pale pinkish orange color",
     "definition_zh": "n. 鲑鱼, 大麻哈鱼； 鲑",
     "examples": [
       {
-        "en": "A deep understanding of salmon is beneficial in everyday life.",
-        "zh": "在相关语境中，'salmon'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of salmon is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 鲑鱼, 大麻哈鱼具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "sausage_noun",
+    "id": "sausage",
     "word": "sausage",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'sɒsidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sausage-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sausage&type=2",
     "definition_en": "n. highly seasoned minced meat stuffed in casings",
     "definition_zh": "n. 香肠, 腊肠",
     "examples": [
       {
-        "en": "A deep understanding of sausage is beneficial in everyday life.",
-        "zh": "在相关语境中，'sausage'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of sausage is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 香肠, 腊肠具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "scaling_noun",
+    "id": "scaling",
     "word": "scaling",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'skeiliŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scaling-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scaling&type=2",
     "definition_en": "n. the act of arranging in a graduated series\\nn. act of measuring or arranging or adjusting according to a scale\\nn. ascent by or as if by a ladder",
     "definition_zh": "n. 鱼鳞, 鳞片排列, 去鳞, 鳞片剥落, 攀登进攻, 按比例测量, 按比例缩放； 缩放比例",
     "examples": [
       {
-        "en": "A deep understanding of scaling is beneficial in everyday life.",
-        "zh": "在相关语境中，'scaling'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of scaling is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 鱼鳞, 鳞片排列, 去鳞, 鳞片剥落, 攀登进攻, 按比例测量, 按比例缩放具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "seafood_noun",
+    "id": "seafood",
     "word": "seafood",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'si:fu:d/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seafood-us.mp3",
-    "definition_en": "n. edible fish (broadly including freshwater fish) or shellfish or roe etc",
-    "definition_zh": "n. 海味, 海鲜, 鱼类",
-    "examples": [
-      {
-        "en": "A deep understanding of seafood is beneficial in everyday life.",
-        "zh": "在相关语境中，'seafood'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "separately_adverb",
-    "word": "separately",
-    "part_of_speech": "adverb",
-    "level": "B2",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'sepәrәtli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/separately-us.mp3",
-    "definition_en": "r apart from others",
-    "definition_zh": "adv. 分开, 不相连, 分隔, 分离, 不同, 单独, 独立, 各自, 各别, 脱离肉体, 灵魂； 分离地",
-    "examples": [
-      {
-        "en": "They adopted a separately perspective to address the challenge.",
-        "zh": "在相关语境中，'separately'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "shambles_noun",
-    "word": "shambles",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/'ʃæmblz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shambles-us.mp3",
-    "definition_en": "n. a condition of great disorder",
-    "definition_zh": "n. 肉店, 屠宰场, 混乱, 废墟",
+    "phonetic": "/'si:fu:d/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=seafood&type=2",
+    "definition_en": "n. edible fish (broadly including freshwater fish) or shellfish or roe etc",
+    "definition_zh": "n. 海味, 海鲜, 鱼类",
     "examples": [
       {
-        "en": "A deep understanding of shambles is beneficial in everyday life.",
-        "zh": "在相关语境中，'shambles'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of seafood is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 海味, 海鲜, 鱼类具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "shrimp_noun",
-    "word": "shrimp",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/ʃrimp/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shrimp-us.mp3",
-    "definition_en": "n. small slender-bodied chiefly marine decapod crustaceans with a long tail and single pair of pincers; many species are edible\\nv. fish for shrimp",
-    "definition_zh": "n. 虾, 小虾, 矮子； vi. 捕小虾",
-    "examples": [
-      {
-        "en": "A deep understanding of shrimp is beneficial in everyday life.",
-        "zh": "在相关语境中，'shrimp'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "steak_noun",
-    "word": "steak",
+    "id": "separately",
+    "word": "separately",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/steik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/steak-us.mp3",
-    "definition_en": "n. a slice of meat cut from the fleshy part of an animal or large fish",
-    "definition_zh": "n. 牛排, 鱼排, 肉排",
+    "phonetic": "/'sepәrәtli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=separately&type=2",
+    "definition_en": "r apart from others",
+    "definition_zh": "adv. 分开, 不相连, 分隔, 分离, 不同, 单独, 独立, 各自, 各别, 脱离肉体, 灵魂； 分离地",
     "examples": [
       {
-        "en": "A deep understanding of steak is beneficial in everyday life.",
-        "zh": "在相关语境中，'steak'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of separately is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，adv. 分开, 不相连, 分隔, 分离, 不同, 单独, 独立, 各自, 各别, 脱离肉体, 灵魂具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "tuna_noun",
-    "word": "tuna",
+    "id": "shambles",
+    "word": "shambles",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'ʃæmblz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shambles&type=2",
+    "definition_en": "n. a condition of great disorder",
+    "definition_zh": "n. 肉店, 屠宰场, 混乱, 废墟",
+    "examples": [
+      {
+        "en": "A deep understanding of shambles is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肉店, 屠宰场, 混乱, 废墟具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "shrimp",
+    "word": "shrimp",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/ʃrimp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shrimp&type=2",
+    "definition_en": "n. small slender-bodied chiefly marine decapod crustaceans with a long tail and single pair of pincers; many species are edible\\nv. fish for shrimp",
+    "definition_zh": "n. 虾, 小虾, 矮子； vi. 捕小虾",
+    "examples": [
+      {
+        "en": "A deep understanding of shrimp is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 虾, 小虾, 矮子具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "spawn",
+    "word": "spawn",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/spɒ:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spawn&type=2",
+    "definition_en": "n. the mass of eggs deposited by fish or amphibians or molluscs\\nv. lay spawn",
+    "definition_zh": "n. (鱼)卵, 产物； vt. 产卵, 酿成, 大量生产； vi. 产卵, 大量生产",
+    "examples": [
+      {
+        "en": "A deep understanding of spawn is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. (鱼)卵, 产物具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "squid",
+    "word": "squid",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/'tju:nә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tuna-us.mp3",
-    "definition_en": "n. tropical American prickly pear of Jamaica\\nn. important warm-water fatty fish of the genus Thunnus of the family Scombridae; usually served as steaks\\nn. any very large marine food and game fish of the genus Thunnus; related to mackerel; chiefly of warm waters\\nn. New Zealand eel",
-    "definition_zh": "n. 金枪鱼, 金枪鱼肉",
+    "phonetic": "/skwid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=squid&type=2",
+    "definition_en": "n. (Italian cuisine) squid prepared as food\\nn. widely distributed fast-moving ten-armed cephalopod mollusk having a long tapered body with triangular tail fins",
+    "definition_zh": "n. 枪乌贼, 鱿鱼, 反潜水雷发射装置； 超导量子干涉元件",
     "examples": [
       {
-        "en": "A deep understanding of tuna is beneficial in everyday life.",
-        "zh": "在相关语境中，'tuna'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of squid is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 枪乌贼, 鱿鱼, 反潜水雷发射装置具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "turkey_noun",
-    "word": "turkey",
+    "id": "steak",
+    "word": "steak",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/'tә:ki/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/turkey-us.mp3",
-    "definition_en": "n. large gallinaceous bird with fan-shaped tail; widely domesticated for food\\nn. a Eurasian republic in Asia Minor and the Balkans; on the collapse of the Ottoman Empire in 1918, the Young Turks, led by Kemal Ataturk, established a republic in 1923\\nn. flesh of large domesticated fowl usually roasted\\nn. an event that fails badly or is totally ineffectual",
-    "definition_zh": "n. 火鸡, 无用的家伙, 土耳其",
+    "phonetic": "/steik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=steak&type=2",
+    "definition_en": "n. a slice of meat cut from the fleshy part of an animal or large fish",
+    "definition_zh": "n. 牛排, 鱼排, 肉排",
     "examples": [
       {
-        "en": "A deep understanding of turkey is beneficial in everyday life.",
-        "zh": "在相关语境中，'turkey'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of steak is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 牛排, 鱼排, 肉排具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "tuna",
+    "word": "tuna",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'tju:nә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tuna&type=2",
+    "definition_en": "n. tropical American prickly pear of Jamaica\\nn. important warm-water fatty fish of the genus Thunnus of the family Scombridae; usually served as steaks\\nn. any very large marine food and game fish of the genus Thunnus; related to mackerel; chiefly of warm waters\\nn. New Zealand eel",
+    "definition_zh": "n. 金枪鱼, 金枪鱼肉",
+    "examples": [
+      {
+        "en": "A deep understanding of tuna is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 金枪鱼, 金枪鱼肉具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "veal",
+    "word": "veal",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/vi:l/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=veal&type=2",
+    "definition_en": "n. meat from a calf",
+    "definition_zh": "n. 小牛肉； vt. 宰小牛",
+    "examples": [
+      {
+        "en": "A deep understanding of veal is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 小牛肉具有重要的表达意义。"
       }
     ]
   }

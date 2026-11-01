@@ -1,1639 +1,1657 @@
 [
   {
-    "id": "ankle_noun",
+    "id": "ankle",
     "word": "ankle",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'æŋkl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ankle-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ankle&type=2",
     "definition_en": "n. a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus",
     "definition_zh": "n. 踝； 踝, 踝关节",
     "examples": [
       {
-        "en": "A deep understanding of ankle is beneficial in everyday life.",
-        "zh": "在相关语境中，'ankle'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of ankle is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 踝具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "armed_adjective",
-    "word": "armed",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/ɑ:md/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/armed-us.mp3",
-    "definition_en": "a. (used of persons or the military) characterized by having or bearing arms\\na. having arms or arms as specified; used especially in combination\\na. (used of plants and animals) furnished with bristles and thorns",
-    "definition_zh": "a. 有扶手的, 武装的, 有防卫器官的； 武装的, 持械的, \"F带武器的",
-    "examples": [
-      {
-        "en": "They adopted a armed perspective to address the challenge.",
-        "zh": "在相关语境中，'armed'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "armed_noun",
-    "word": "armed",
+    "id": "arm",
+    "word": "arm",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/ɑ:md/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/armed-us.mp3",
-    "definition_en": "a. (used of persons or the military) characterized by having or bearing arms\\na. having arms or arms as specified; used especially in combination\\na. (used of plants and animals) furnished with bristles and thorns",
-    "definition_zh": "a. 有扶手的, 武装的, 有防卫器官的； 武装的, 持械的, \"F带武器的",
+    "phonetic": "/ɑ:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=arm&type=2",
+    "definition_en": "n. a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb\\nn. any projection that is thought to resemble a human arm\\nn. the part of an armchair or sofa that supports the elbow and forearm of a seated person\\nv. prepare oneself for a military confrontation",
+    "definition_zh": "n. 手臂, 袖子, 狭长港湾, 武器； vt. 武装, 装备； vi. 武装起来； 异步应答方式; 自动货品销路管理",
     "examples": [
       {
-        "en": "A deep understanding of armed is beneficial in everyday life.",
-        "zh": "在相关语境中，'armed'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of arm is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 手臂, 袖子, 狭长港湾, 武器具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "armed_verb",
-    "word": "armed",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/ɑ:md/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/armed-us.mp3",
-    "definition_en": "a. (used of persons or the military) characterized by having or bearing arms\\na. having arms or arms as specified; used especially in combination\\na. (used of plants and animals) furnished with bristles and thorns",
-    "definition_zh": "a. 有扶手的, 武装的, 有防卫器官的； 武装的, 持械的, \"F带武器的",
-    "examples": [
-      {
-        "en": "Specialists actively armed practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'armed'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "arterial_noun",
+    "id": "arterial",
     "word": "arterial",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/ɑ:'tiәriәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arterial-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=arterial&type=2",
     "definition_en": "a. of or involving or contained in the arteries",
     "definition_zh": "a. 动脉的, 脉络状的, 干线的； 动脉的",
     "examples": [
       {
-        "en": "A deep understanding of arterial is beneficial in everyday life.",
-        "zh": "在相关语境中，'arterial'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of arterial is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 动脉的, 脉络状的, 干线的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "arteries_noun",
+    "id": "arteries",
     "word": "arteries",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arteries-us.mp3",
+    "phonetic": "/arteries/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=arteries&type=2",
     "definition_en": "n a blood vessel that carries blood from the heart to the body\\nn a major thoroughfare that bears important traffic",
     "definition_zh": "n. 动脉（artery的复数）",
     "examples": [
       {
-        "en": "A deep understanding of arteries is beneficial in everyday life.",
-        "zh": "在相关语境中，'arteries'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of arteries is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 动脉（artery的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "artery_noun",
+    "id": "artery",
     "word": "artery",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'ɑ:tәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/artery-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=artery&type=2",
     "definition_en": "n. a blood vessel that carries blood from the heart to the body\\nn. a major thoroughfare that bears important traffic",
     "definition_zh": "n. 动脉, 干道, 要道； 动脉",
     "examples": [
       {
-        "en": "A deep understanding of artery is beneficial in everyday life.",
-        "zh": "在相关语境中，'artery'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of artery is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 动脉, 干道, 要道具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "articulate_verb",
+    "id": "arthritis",
+    "word": "arthritis",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/ɑ:'θraitis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=arthritis&type=2",
+    "definition_en": "n. inflammation of a joint or joints",
+    "definition_zh": "n. 关节炎； 关节炎",
+    "examples": [
+      {
+        "en": "A deep understanding of arthritis is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 关节炎具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "articulate",
     "word": "articulate",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/ɑ:'tikjulit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/articulate-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=articulate&type=2",
     "definition_en": "v. unite by forming a joint or joints\\nv. express or state clearly\\na. expressing yourself easily or characterized by clear expressive language",
     "definition_zh": "a. 发音清晰的, 口才好的； vt. 明白地说, 以关节连接, 使成为系统的整体",
     "examples": [
       {
-        "en": "Specialists actively articulate practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'articulate'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of articulate is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 发音清晰的, 口才好的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "articulate_adjective",
-    "word": "articulate",
-    "part_of_speech": "adjective",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/ɑ:'tikjulit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/articulate-us.mp3",
-    "definition_en": "v. unite by forming a joint or joints\\nv. express or state clearly\\na. expressing yourself easily or characterized by clear expressive language",
-    "definition_zh": "a. 发音清晰的, 口才好的； vt. 明白地说, 以关节连接, 使成为系统的整体",
-    "examples": [
-      {
-        "en": "They adopted a articulate perspective to address the challenge.",
-        "zh": "在相关语境中，'articulate'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "articulated_verb",
+    "id": "articulated",
     "word": "articulated",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/ɑ:'tikju:leitid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/articulated-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=articulated&type=2",
     "definition_en": "a. consisting of segments held together by joints",
     "definition_zh": "a. 铰接式的；清晰的；组织缜密的；有关节的",
     "examples": [
       {
-        "en": "Specialists actively articulated practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'articulated'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of articulated is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 铰接式的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "articulation_noun",
+    "id": "articulation",
     "word": "articulation",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/ɑ:.tikju'leiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/articulation-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=articulation&type=2",
     "definition_en": "n. the aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech\\nn. the shape or manner in which things come together and a connection is made\\nn. expressing in coherent verbal form",
     "definition_zh": "n. 关节, 接合, 连贯, 发音, 表达； 清晰度",
     "examples": [
       {
-        "en": "A deep understanding of articulation is beneficial in everyday life.",
-        "zh": "在相关语境中，'articulation'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of articulation is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 关节, 接合, 连贯, 发音, 表达具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "auditory_adjective",
+    "id": "auditory",
     "word": "auditory",
-    "part_of_speech": "adjective",
-    "level": "B2",
+    "part_of_speech": "noun",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'ɒ:ditәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/auditory-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=auditory&type=2",
     "definition_en": "a. of or relating to the process of hearing",
     "definition_zh": "a. 听觉的, 听觉器官的； 听的, 听觉的",
     "examples": [
       {
-        "en": "They adopted a auditory perspective to address the challenge.",
-        "zh": "在相关语境中，'auditory'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of auditory is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 听觉的, 听觉器官的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "beard_noun",
-    "word": "beard",
+    "id": "backbone",
+    "word": "backbone",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/biәd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beard-us.mp3",
-    "definition_en": "n. the hair growing on the lower part of a man's face\\nn. a tuft or growth of hairs or bristles on certain plants such as iris or grasses\\nn. a person who diverts suspicion from someone (especially a woman who accompanies a male homosexual in order to conceal his homosexuality)\\nn. hairy growth on or near the face of certain mammals",
-    "definition_zh": "n. 胡须； vt. 抓住胡须, 公开反对",
+    "phonetic": "/'bækbәun/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=backbone&type=2",
+    "definition_en": "n. fortitude and determination\\nn. the part of a network that connects other networks together",
+    "definition_zh": "n. 脊椎, 志气, 骨干, 支柱； 主干网, 主干网点",
     "examples": [
       {
-        "en": "A deep understanding of beard is beneficial in everyday life.",
-        "zh": "在相关语境中，'beard'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of backbone is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 脊椎, 志气, 骨干, 支柱具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "belly_noun",
-    "word": "belly",
+    "id": "beard",
+    "word": "beard",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/'beli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/belly-us.mp3",
-    "definition_en": "n. a protruding abdomen\\nn. a part that bulges deeply\\nn. the hollow inside of something\\nn. the underpart of the body of certain vertebrates such as snakes or fish",
-    "definition_zh": "n. 腹部, 食欲； vt. 使鼓起； vi. 鼓起, 匍匐前进",
+    "phonetic": "/biәd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=beard&type=2",
+    "definition_en": "n. the hair growing on the lower part of a man's face\\nn. a tuft or growth of hairs or bristles on certain plants such as iris or grasses\\nn. a person who diverts suspicion from someone (especially a woman who accompanies a male homosexual in order to conceal his homosexuality)\\nn. hairy growth on or near the face of certain mammals",
+    "definition_zh": "n. 胡须； vt. 抓住胡须, 公开反对",
     "examples": [
       {
-        "en": "A deep understanding of belly is beneficial in everyday life.",
-        "zh": "在相关语境中，'belly'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of beard is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 胡须具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "bone_noun",
+    "id": "belly",
+    "word": "belly",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'beli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=belly&type=2",
+    "definition_en": "n. a protruding abdomen\\nn. a part that bulges deeply\\nn. the hollow inside of something\\nn. the underpart of the body of certain vertebrates such as snakes or fish",
+    "definition_zh": "n. 腹部, 食欲； vt. 使鼓起； vi. 鼓起, 匍匐前进",
+    "examples": [
+      {
+        "en": "A deep understanding of belly is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 腹部, 食欲具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "bone",
     "word": "bone",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/bәun/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bone-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bone&type=2",
     "definition_en": "n. rigid connective tissue that makes up the skeleton of vertebrates\\nn. the porous calcified substance from which bones are made\\nn. a shade of white the color of bleached bones\\nv. remove the bones from",
     "definition_zh": "n. 骨头, 骨, 骨制品； vt. 剔骨； vi. 专心致志",
     "examples": [
       {
-        "en": "A deep understanding of bone is beneficial in everyday life.",
-        "zh": "在相关语境中，'bone'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of bone is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 骨头, 骨, 骨制品具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "bones_noun",
+    "id": "bones",
     "word": "bones",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/bәunz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bones-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bones&type=2",
     "definition_en": "n. a percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by Spanish dancers) in rhythm with the dance",
     "definition_zh": "n. 骨骼, 尸体",
     "examples": [
       {
-        "en": "A deep understanding of bones is beneficial in everyday life.",
-        "zh": "在相关语境中，'bones'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of bones is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 骨骼, 尸体具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "breast_noun",
+    "id": "bosom",
+    "word": "bosom",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'buzәm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bosom&type=2",
+    "definition_en": "n. the chest considered as the place where secret thoughts are kept\\nn. a person's breast or chest\\nn. cloth that covers the chest or breasts\\nv. hide in one's bosom",
+    "definition_zh": "n. 胸部, 胸, 胸怀, 内部, 中间； vt. 怀抱",
+    "examples": [
+      {
+        "en": "A deep understanding of bosom is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 胸部, 胸, 胸怀, 内部, 中间具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "bowel",
+    "word": "bowel",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'bauәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bowel&type=2",
+    "definition_en": "n the part of the alimentary canal between the stomach and the anus",
+    "definition_zh": "n. 肠, 内脏, 内部； vt. 挖...的内脏",
+    "examples": [
+      {
+        "en": "A deep understanding of bowel is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肠, 内脏, 内部具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "breast",
     "word": "breast",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/brest/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/breast-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=breast&type=2",
     "definition_en": "n. the front of the trunk from the neck to the abdomen\\nn. either of two soft fleshy milk-secreting glandular organs on the chest of a woman\\nn. meat carved from the breast of a fowl\\nn. the part of an animal's body that corresponds to a person's chest",
     "definition_zh": "n. 胸部, 乳房, 胸怀； vt. 以胸对着, 面对",
     "examples": [
       {
-        "en": "A deep understanding of breast is beneficial in everyday life.",
-        "zh": "在相关语境中，'breast'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of breast is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 胸部, 乳房, 胸怀具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "calf_noun",
+    "id": "brow",
+    "word": "brow",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/brau/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=brow&type=2",
+    "definition_en": "n. the part of the face above the eyes",
+    "definition_zh": "n. 眉毛, 额； 额, 眉, 睫毛",
+    "examples": [
+      {
+        "en": "A deep understanding of brow is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 眉毛, 额具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "calf",
     "word": "calf",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/kɑ:f/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/calf-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=calf&type=2",
     "definition_en": "n. young of domestic cattle\\nn. the muscular back part of the shank\\nn. fine leather from the skin of a calf\\nn. young of various large placental mammals e.g. whale or giraffe or elephant or buffalo",
     "definition_zh": "n. 小牛, 小牛皮, 腓肠； 腓肠",
     "examples": [
       {
-        "en": "A deep understanding of calf is beneficial in everyday life.",
-        "zh": "在相关语境中，'calf'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of calf is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 小牛, 小牛皮, 腓肠具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "calves_noun",
+    "id": "calves",
     "word": "calves",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/kɑ:vz;kævz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/calves-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=calves&type=2",
     "definition_en": "n young of domestic cattle\\nn the muscular back part of the shank\\nn fine leather from the skin of a calf\\nn young of various large placental mammals e.g. whale or giraffe or elephant or buffalo\\nv release ice\\nv birth",
     "definition_zh": "小牛, 幼仔, 小牛皮, 腓, 小腿, (非正式)呆头呆脑的年轻人",
     "examples": [
       {
-        "en": "A deep understanding of calves is beneficial in everyday life.",
-        "zh": "在相关语境中，'calves'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of calves is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，小牛, 幼仔, 小牛皮, 腓, 小腿, (非正式)呆头呆脑的年轻人具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "chin_noun",
+    "id": "chin",
     "word": "chin",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/tʃin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chin-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chin&type=2",
     "definition_en": "n. the protruding part of the lower jaw\\nv. raise oneself while hanging from one's hands until one's chin is level with the support bar",
     "definition_zh": "n. 下巴, 颏； 颏",
     "examples": [
       {
-        "en": "A deep understanding of chin is beneficial in everyday life.",
-        "zh": "在相关语境中，'chin'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of chin is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 下巴, 颏具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cola_noun",
+    "id": "cola",
     "word": "cola",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'kәulә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cola-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cola&type=2",
     "definition_en": "n. large genus of African trees bearing kola nuts\\nn. carbonated drink flavored with extract from kola nuts (`dope' is a southernism in the United States)",
     "definition_zh": "结肠, 冒号, 科朗； 可乐果; 可乐果属; 可乐果干子叶",
     "examples": [
       {
-        "en": "A deep understanding of cola is beneficial in everyday life.",
-        "zh": "在相关语境中，'cola'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cola is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，结肠, 冒号, 科朗具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "colon_noun",
+    "id": "colon",
     "word": "colon",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'kәulәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/colon-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=colon&type=2",
     "definition_en": "n. the part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted\\nn. the basic unit of money in El Salvador; equal to 100 centavos\\nn. the basic unit of money in Costa Rica; equal to 100 centimos\\nn. a port city at the Caribbean entrance to the Panama Canal",
     "definition_zh": "n. 冒号, 结肠； 结肠",
     "examples": [
       {
-        "en": "A deep understanding of colon is beneficial in everyday life.",
-        "zh": "在相关语境中，'colon'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of colon is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 冒号, 结肠具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "costa_noun",
+    "id": "costa",
     "word": "costa",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'kɒstә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/costa-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=costa&type=2",
     "definition_en": "n. a riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing)",
     "definition_zh": "n. 肋骨, 肋脉, 叶的中脉； 肋",
     "examples": [
       {
-        "en": "A deep understanding of costa is beneficial in everyday life.",
-        "zh": "在相关语境中，'costa'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of costa is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肋骨, 肋脉, 叶的中脉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "dental_adjective",
+    "id": "dental",
     "word": "dental",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'dentl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dental-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dental&type=2",
     "definition_en": "a. of or relating to the teeth\\na. of or relating to dentistry",
     "definition_zh": "a. 牙齿的； 牙的, 齿的, 齿音, 齿音字母",
     "examples": [
       {
-        "en": "They adopted a dental perspective to address the challenge.",
-        "zh": "在相关语境中，'dental'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of dental is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 牙齿的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "donated_verb",
+    "id": "donated",
     "word": "donated",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/dəuˈneitid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/donated-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=donated&type=2",
     "definition_en": "v give to a charity or good cause",
     "definition_zh": "v. （尤指向慈善机构）捐赠( donate的过去式和过去分词 ); 献（血）; 捐（血）; 捐献（器官）",
     "examples": [
       {
-        "en": "Specialists actively donated practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'donated'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of donated is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. （尤指向慈善机构）捐赠( donate的过去式和过去分词 ); 献（血）; 捐（血）; 捐献（器官）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "ear_noun",
+    "id": "ear",
     "word": "ear",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/iә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ear-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ear&type=2",
     "definition_en": "n. the sense organ for hearing and equilibrium\\nn. good hearing\\nn. attention to what is said\\nn. fruiting spike of a cereal plant especially corn",
     "definition_zh": "n. 耳朵, 倾听, 听觉, 穗； vi. 抽穗",
     "examples": [
       {
-        "en": "A deep understanding of ear is beneficial in everyday life.",
-        "zh": "在相关语境中，'ear'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of ear is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 耳朵, 倾听, 听觉, 穗具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "elbow_noun",
+    "id": "elbow",
     "word": "elbow",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'elbәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elbow-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=elbow&type=2",
     "definition_en": "n. hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped\\nn. a sharp bend in a road or river\\nn. a length of pipe with a sharp bend in it\\nn. the part of a sleeve that covers the elbow joint",
     "definition_zh": "n. 手肘, 弯头, 扶手； v. 用手肘推开, 推挤",
     "examples": [
       {
-        "en": "A deep understanding of elbow is beneficial in everyday life.",
-        "zh": "在相关语境中，'elbow'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of elbow is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 手肘, 弯头, 扶手具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "eyebrow_noun",
+    "id": "eyebrow",
     "word": "eyebrow",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'aibrau/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eyebrow-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=eyebrow&type=2",
     "definition_en": "n. the arch of hair above each eye",
     "definition_zh": "n. 眉毛； 眉",
     "examples": [
       {
-        "en": "A deep understanding of eyebrow is beneficial in everyday life.",
-        "zh": "在相关语境中，'eyebrow'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of eyebrow is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 眉毛具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "eyebrows_noun",
+    "id": "eyebrows",
     "word": "eyebrows",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eyebrows-us.mp3",
+    "phonetic": "/eyebrows/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=eyebrows&type=2",
     "definition_en": "n the arch of hair above each eye",
     "definition_zh": "n. 眉毛（eyebrow的复数）",
     "examples": [
       {
-        "en": "A deep understanding of eyebrows is beneficial in everyday life.",
-        "zh": "在相关语境中，'eyebrows'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of eyebrows is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 眉毛（eyebrow的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "eyelid_noun",
+    "id": "eyelid",
     "word": "eyelid",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'ailid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eyelid-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=eyelid&type=2",
     "definition_en": "n. either of two folds of skin that can be moved to cover or open the eye",
     "definition_zh": "n. 眼皮, 眼睑； 睑",
     "examples": [
       {
-        "en": "A deep understanding of eyelid is beneficial in everyday life.",
-        "zh": "在相关语境中，'eyelid'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of eyelid is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 眼皮, 眼睑具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "fingernail_noun",
+    "id": "fingernail",
     "word": "fingernail",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/'fiŋgәneil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fingernail-us.mp3",
-    "definition_en": "n. the nail at the end of a finger",
-    "definition_zh": "n. 手指甲",
-    "examples": [
-      {
-        "en": "A deep understanding of fingernail is beneficial in everyday life.",
-        "zh": "在相关语境中，'fingernail'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "fingers_noun",
-    "word": "fingers",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fingers-us.mp3",
-    "definition_en": "n any of the terminal members of the hand (sometimes excepting the thumb)\\nn the length of breadth of a finger used as a linear measure\\nn one of the parts of a glove that provides covering for a finger or thumb\\nv feel or handle with the fingers\\nv examine by touch\\nv search for on the computer\\nv indicate the fingering for the playing of musical scores for keyboard instruments",
-    "definition_zh": "n. 梳状剔除器；手指头, 指头（finger复数）",
+    "phonetic": "/'fiŋgәneil/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fingernail&type=2",
+    "definition_en": "n. the nail at the end of a finger",
+    "definition_zh": "n. 手指甲",
     "examples": [
       {
-        "en": "A deep understanding of fingers is beneficial in everyday life.",
-        "zh": "在相关语境中，'fingers'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of fingernail is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 手指甲具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "heart_noun",
+    "id": "fingers",
+    "word": "fingers",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/fingers/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fingers&type=2",
+    "definition_en": "n any of the terminal members of the hand (sometimes excepting the thumb)\\nn the length of breadth of a finger used as a linear measure\\nn one of the parts of a glove that provides covering for a finger or thumb\\nv feel or handle with the fingers\\nv examine by touch\\nv search for on the computer\\nv indicate the fingering for the playing of musical scores for keyboard instruments",
+    "definition_zh": "n. 梳状剔除器；手指头, 指头（finger复数）",
+    "examples": [
+      {
+        "en": "A deep understanding of fingers is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 梳状剔除器具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "framework",
+    "word": "framework",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'freimwә:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=framework&type=2",
+    "definition_en": "n. the underlying structure\\nn. a structure supporting or containing something",
+    "definition_zh": "n. 结构, 骨架, 参照标准, 准则, 观点； 构架组织",
+    "examples": [
+      {
+        "en": "A deep understanding of framework is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 结构, 骨架, 参照标准, 准则, 观点具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "heart",
     "word": "heart",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/hɑ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heart-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=heart&type=2",
     "definition_en": "n. the locus of feelings and intuitions\\nn. the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body\\nn. the courage to carry on\\nn. an inclination or tendency of a certain kind",
     "definition_zh": "n. 心, 心脏, 中心, 内心, 感情, 精神, 心情, 宝贝儿； vt. 鼓励",
     "examples": [
       {
-        "en": "A deep understanding of heart is beneficial in everyday life.",
-        "zh": "在相关语境中，'heart'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of heart is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 心, 心脏, 中心, 内心, 感情, 精神, 心情, 宝贝儿具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "hearted_adjective",
+    "id": "hearted",
     "word": "hearted",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/'hɑ:tid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hearted-us.mp3",
-    "definition_en": "a. Having a heart; having (such) a heart (regarded as the\\n   seat of the affections, disposition, or character).\\na. Shaped like a heart; cordate.\\na. Seated or laid up in the heart.",
-    "definition_zh": "a. 有...心(肠)的",
-    "examples": [
-      {
-        "en": "They adopted a hearted perspective to address the challenge.",
-        "zh": "在相关语境中，'hearted'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "heartwarming_adjective",
-    "word": "heartwarming",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/'ha:tˌwɔ:mɪŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heartwarming-us.mp3",
-    "definition_en": "s. causing gladness and pleasure",
-    "definition_zh": "a. 暖人心房的, 感人的",
-    "examples": [
-      {
-        "en": "They adopted a heartwarming perspective to address the challenge.",
-        "zh": "在相关语境中，'heartwarming'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "heel_noun",
-    "word": "heel",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
+    "phonetic": "/'hɑ:tid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hearted&type=2",
+    "definition_en": "a. Having a heart; having (such) a heart (regarded as the\\n   seat of the affections, disposition, or character).\\na. Shaped like a heart; cordate.\\na. Seated or laid up in the heart.",
+    "definition_zh": "a. 有...心(肠)的",
+    "examples": [
+      {
+        "en": "A deep understanding of hearted is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 有...心(肠)的具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "heartwarming",
+    "word": "heartwarming",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'ha:tˌwɔ:mɪŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=heartwarming&type=2",
+    "definition_en": "s. causing gladness and pleasure",
+    "definition_zh": "a. 暖人心房的, 感人的",
+    "examples": [
+      {
+        "en": "A deep understanding of heartwarming is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 暖人心房的, 感人的具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "heel",
+    "word": "heel",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
     "phonetic": "/hi:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heel-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=heel&type=2",
     "definition_en": "n. the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation\\nn. the back part of the human foot\\nn. one of the crusty ends of a loaf of bread\\nn. the lower end of a ship's mast",
     "definition_zh": "n. 脚后跟, 踵, 后部, 倾侧； vt. 尾随, 装以鞋跟, 倾侧, 追赶； vi. 紧随, 用脚后跟传球",
     "examples": [
       {
-        "en": "A deep understanding of heel is beneficial in everyday life.",
-        "zh": "在相关语境中，'heel'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of heel is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 脚后跟, 踵, 后部, 倾侧具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "intravenous_adjective",
+    "id": "intravenous",
     "word": "intravenous",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/.intrә'vi:nәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/intravenous-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=intravenous&type=2",
     "definition_en": "a. within or by means of a vein",
     "definition_zh": "a. 静脉内的； 静脉内的",
     "examples": [
       {
-        "en": "They adopted a intravenous perspective to address the challenge.",
-        "zh": "在相关语境中，'intravenous'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of intravenous is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 静脉内的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "jaws_noun",
+    "id": "jaws",
     "word": "jaws",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/jɒ:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jaws-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jaws&type=2",
     "definition_en": "n the part of the skull of a vertebrate that frames the mouth and holds the teeth\\nn the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth\\nn holding device consisting of one or both of the opposing parts of a tool that close to hold an object\\nv talk socially without exchanging too much information\\nv talk incessantly and tiresomely\\nv chew (food); to bite and grind with the teeth\\nv censure severely or angrily",
     "definition_zh": "n. 口, 狭口, 咽喉, 险地",
     "examples": [
       {
-        "en": "A deep understanding of jaws is beneficial in everyday life.",
-        "zh": "在相关语境中，'jaws'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of jaws is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 口, 狭口, 咽喉, 险地具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "joint_adjective",
+    "id": "joint",
     "word": "joint",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/dʒɒint/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/joint-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=joint&type=2",
     "definition_en": "n. (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)\\nn. a disreputable place of entertainment\\nn. junction by which parts or objects are joined together\\nn. marijuana leaves rolled into a cigarette for smoking",
     "definition_zh": "n. 连接处, 接合, 关节； a. 共同的, 联合的, 连接的, 合办的； vt. 连接, 接合, 使有接头； vi. 贴合, 长节",
     "examples": [
       {
-        "en": "They adopted a joint perspective to address the challenge.",
-        "zh": "在相关语境中，'joint'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of joint is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 连接处, 接合, 关节具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "joint_noun",
-    "word": "joint",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/dʒɒint/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/joint-us.mp3",
-    "definition_en": "n. (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)\\nn. a disreputable place of entertainment\\nn. junction by which parts or objects are joined together\\nn. marijuana leaves rolled into a cigarette for smoking",
-    "definition_zh": "n. 连接处, 接合, 关节； a. 共同的, 联合的, 连接的, 合办的； vt. 连接, 接合, 使有接头； vi. 贴合, 长节",
-    "examples": [
-      {
-        "en": "A deep understanding of joint is beneficial in everyday life.",
-        "zh": "在相关语境中，'joint'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "knee_noun",
+    "id": "knee",
     "word": "knee",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/ni:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/knee-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=knee&type=2",
     "definition_en": "n. hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella\\nn. the part of a trouser leg that provides the cloth covering for the knee",
     "definition_zh": "n. 膝, 膝盖； vt. 膝行, 用膝盖碰",
     "examples": [
       {
-        "en": "A deep understanding of knee is beneficial in everyday life.",
-        "zh": "在相关语境中，'knee'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of knee is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 膝, 膝盖具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "knees_noun",
+    "id": "knees",
     "word": "knees",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/ni:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/knees-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=knees&type=2",
     "definition_en": "n. hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella\\nn. joint between the femur and tibia in a quadruped; corresponds to the human knee\\nn. the part of a trouser leg that provides the cloth covering for the knee",
     "definition_zh": "n. 膝( knee的复数形式 ); 膝盖; （裤子的）膝部; 坐下时)大腿朝上的面",
     "examples": [
       {
-        "en": "A deep understanding of knees is beneficial in everyday life.",
-        "zh": "在相关语境中，'knees'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of knees is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 膝( knee的复数形式 ); 膝盖; （裤子的）膝部; 坐下时)大腿朝上的面具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "lap_noun",
+    "id": "lap",
     "word": "lap",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/læp/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lap-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lap&type=2",
     "definition_en": "n. the upper side of the thighs of a seated person\\nn. an area of control or responsibility\\nn. the part of a piece of clothing that covers the thighs\\nn. a flap that lies over another part",
     "definition_zh": "n. 膝盖, 舔, 一圈, 下摆, 衣兜, 山坳； vi. 重叠, 围住, 轻拍, 舔； vt. 包围, 抱...在膝上, 使重叠, 舔, 拍打, 泼溅； 链接访问程序",
     "examples": [
       {
-        "en": "A deep understanding of lap is beneficial in everyday life.",
-        "zh": "在相关语境中，'lap'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of lap is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 膝盖, 舔, 一圈, 下摆, 衣兜, 山坳具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "limb_noun",
+    "id": "limb",
     "word": "limb",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/lim/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/limb-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=limb&type=2",
     "definition_en": "n. one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper\\nn. any of the main branches arising from the trunk or a bough of a tree\\nn. (astronomy) the circumferential edge of the apparent disc of the sun or the moon or a planet\\nn. either of the two halves of a bow from handle to tip",
     "definition_zh": "n. 四肢, 枝干, 翼, 边缘； vt. 切断...之手足",
     "examples": [
       {
-        "en": "A deep understanding of limb is beneficial in everyday life.",
-        "zh": "在相关语境中，'limb'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of limb is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 四肢, 枝干, 翼, 边缘具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "limbs_noun",
+    "id": "limbs",
     "word": "limbs",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/limbs-us.mp3",
+    "phonetic": "/limbs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=limbs&type=2",
     "definition_en": "n one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper\\nn any of the main branches arising from the trunk or a bough of a tree\\nn (astronomy) the circumferential edge of the apparent disc of the sun or the moon or a planet\\nn either of the two halves of a bow from handle to tip\\nn the graduated arc that is attached to an instrument for measuring angles\\nn any projection that is thought to resemble a human arm",
     "definition_zh": "n. 四肢（limb的复数）",
     "examples": [
       {
-        "en": "A deep understanding of limbs is beneficial in everyday life.",
-        "zh": "在相关语境中，'limbs'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of limbs is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 四肢（limb的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "liver_noun",
+    "id": "liver",
     "word": "liver",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'livә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/liver-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=liver&type=2",
     "definition_en": "n. large and complicated reddish-brown glandular organ located in the upper right portion of the abdominal cavity; secretes bile and functions in metabolism of protein and carbohydrate and fat; synthesizes substances involved in the clotting of the blood; synthesizes vitamin A; detoxifies poisonous substances and breaks down worn-out erythrocytes\\nn. liver of an animal used as meat\\nn. a person who has a special life style\\nn. someone who lives in a place",
     "definition_zh": "n. 肝脏, 生活者, 居民； 肝",
     "examples": [
       {
-        "en": "A deep understanding of liver is beneficial in everyday life.",
-        "zh": "在相关语境中，'liver'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of liver is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肝脏, 生活者, 居民具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "median_adjective",
-    "word": "median",
-    "part_of_speech": "adjective",
-    "level": "A1",
+    "id": "marrow",
+    "word": "marrow",
+    "part_of_speech": "noun",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/'mi:diәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/median-us.mp3",
-    "definition_en": "n. the value below which 50% of the cases fall\\ns. relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)\\ns. relating to or situated in or extending toward the middle",
-    "definition_zh": "a. 中央的, 中间的, 正中的； n. 正中动脉, 中位数, 中线",
+    "phonetic": "/'mærәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=marrow&type=2",
+    "definition_en": "n. the fatty network of connective tissue that fills the cavities of bones\\nn. any of various squash plants grown for their elongated fruit with smooth dark green skin and whitish flesh\\nn. very tender and very nutritious tissue from marrowbones\\nn. large elongated squash with creamy to deep green skins",
+    "definition_zh": "n. 髓, 骨髓, 精华, 活力, 配偶； 髓(尤指骨髓)",
     "examples": [
       {
-        "en": "They adopted a median perspective to address the challenge.",
-        "zh": "在相关语境中，'median'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of marrow is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 髓, 骨髓, 精华, 活力, 配偶具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "median_noun",
+    "id": "median",
     "word": "median",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'mi:diәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/median-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=median&type=2",
     "definition_en": "n. the value below which 50% of the cases fall\\ns. relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)\\ns. relating to or situated in or extending toward the middle",
     "definition_zh": "a. 中央的, 中间的, 正中的； n. 正中动脉, 中位数, 中线",
     "examples": [
       {
-        "en": "A deep understanding of median is beneficial in everyday life.",
-        "zh": "在相关语境中，'median'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of median is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 中央的, 中间的, 正中的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "middle_adjective",
+    "id": "middle",
     "word": "middle",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'midl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/middle-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=middle&type=2",
     "definition_en": "n. an intermediate part or section\\nn. the middle area of the human torso (usually in front)\\nn. time between the beginning and the end of a temporal period\\nv. put in the middle",
     "definition_zh": "n. 中央, 中间, 腰部； a. 中央的, 中庸的, 中间的",
     "examples": [
       {
-        "en": "They adopted a middle perspective to address the challenge.",
-        "zh": "在相关语境中，'middle'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of middle is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 中央, 中间, 腰部具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "middle_noun",
-    "word": "middle",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/'midl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/middle-us.mp3",
-    "definition_en": "n. an intermediate part or section\\nn. the middle area of the human torso (usually in front)\\nn. time between the beginning and the end of a temporal period\\nv. put in the middle",
-    "definition_zh": "n. 中央, 中间, 腰部； a. 中央的, 中庸的, 中间的",
-    "examples": [
-      {
-        "en": "A deep understanding of middle is beneficial in everyday life.",
-        "zh": "在相关语境中，'middle'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "muscle_noun",
+    "id": "muscle",
     "word": "muscle",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'mʌsl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscle-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=muscle&type=2",
     "definition_en": "n. one of the contractile organs of the body\\nn. animal tissue consisting predominantly of contractile cells\\nn. authority or power or force (especially when used in a coercive way)\\nv. make one's way by force",
     "definition_zh": "n. 肌肉, 臂力； 肌",
     "examples": [
       {
-        "en": "A deep understanding of muscle is beneficial in everyday life.",
-        "zh": "在相关语境中，'muscle'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of muscle is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肌肉, 臂力具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "muscle-bound_adjective",
+    "id": "muscle-bound",
     "word": "muscle-bound",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "C2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscle-bound-us.mp3",
+    "phonetic": "/muscle-bound/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=muscle-bound&type=2",
     "definition_en": "s. having stiff muscles as the result of excessive exercise",
     "definition_zh": "a. 肌肉紧张的, 死板的, 僵硬的",
     "examples": [
       {
-        "en": "They adopted a muscle-bound perspective to address the challenge.",
-        "zh": "在相关语境中，'muscle-bound'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of muscle-bound is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 肌肉紧张的, 死板的, 僵硬的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "muscles_noun",
+    "id": "muscles",
     "word": "muscles",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscles-us.mp3",
+    "phonetic": "/muscles/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=muscles&type=2",
     "definition_en": "n one of the contractile organs of the body\\nn animal tissue consisting predominantly of contractile cells\\nn a bully employed as a thug or bodyguard\\nn authority or power or force (especially when used in a coercive way)\\nn possessing muscular strength\\nv make one's way by force",
     "definition_zh": "n. 肌肉（muscle的复数）",
     "examples": [
       {
-        "en": "A deep understanding of muscles is beneficial in everyday life.",
-        "zh": "在相关语境中，'muscles'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of muscles is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肌肉（muscle的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "muscular_adjective",
+    "id": "muscular",
     "word": "muscular",
-    "part_of_speech": "adjective",
-    "level": "C1",
+    "part_of_speech": "noun",
+    "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'mʌskjulә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/muscular-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=muscular&type=2",
     "definition_en": "a. of or relating to or consisting of muscle\\ns. having or suggesting great physical power or force",
     "definition_zh": "a. 强壮的, 肌肉发达的, 有力的； 肌的; 肌肉发达的",
     "examples": [
       {
-        "en": "They adopted a muscular perspective to address the challenge.",
-        "zh": "在相关语境中，'muscular'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of muscular is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 强壮的, 肌肉发达的, 有力的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "neck_noun",
+    "id": "nausea",
+    "word": "nausea",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'nɒ:ʃjә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nausea&type=2",
+    "definition_en": "n. the state that precedes vomiting\\nn. disgust so strong it makes you feel sick",
+    "definition_zh": "n. 反胃, 晕船, 恶心, 厌恶； 恶心",
+    "examples": [
+      {
+        "en": "A deep understanding of nausea is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 反胃, 晕船, 恶心, 厌恶具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "neck",
     "word": "neck",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/nek/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neck-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=neck&type=2",
     "definition_en": "n. the part of an organism (human or animal) that connects the head to the rest of the body\\nn. a narrow elongated projecting strip of land\\nn. a cut of meat from the neck of an animal\\nn. a narrow part of an artifact that resembles a neck in position or form",
     "definition_zh": "n. 脖子, 衣领, 颈； vi. 拥抱, 拥吻, 收缩； vt. 割颈",
     "examples": [
       {
-        "en": "A deep understanding of neck is beneficial in everyday life.",
-        "zh": "在相关语境中，'neck'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of neck is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 脖子, 衣领, 颈具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "nose_noun",
+    "id": "nose",
     "word": "nose",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/nәuz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nose-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nose&type=2",
     "definition_en": "n. the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals\\nn. a front that resembles a human nose (especially the front of an aircraft)\\nn. the front or forward projection of a tool or weapon\\nn. a small distance",
     "definition_zh": "n. 鼻子, 突出部分, 嗅觉； vt. 嗅到, 探出, 用鼻子触； vi. 闻, 嗅, 探听, 告密",
     "examples": [
       {
-        "en": "A deep understanding of nose is beneficial in everyday life.",
-        "zh": "在相关语境中，'nose'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of nose is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 鼻子, 突出部分, 嗅觉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "organ_noun",
+    "id": "organ",
     "word": "organ",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'ɒ:gәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organ-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=organ&type=2",
     "definition_en": "n. a fully differentiated structural and functional unit in an animal that is specialized for some particular function\\nn. a government agency or instrument devoted to the performance of some specific function\\nn. a periodical that is published by a special interest group\\nn. wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard",
     "definition_zh": "n. 风琴, 器官, 元件, 机构, 机关； 风琴",
     "examples": [
       {
-        "en": "A deep understanding of organ is beneficial in everyday life.",
-        "zh": "在相关语境中，'organ'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of organ is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 风琴, 器官, 元件, 机构, 机关具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "organic_adjective",
-    "word": "organic",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/ɒ:'gænik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organic-us.mp3",
-    "definition_en": "n. a fertilizer that is derived from animal or vegetable matter\\na. relating or belonging to the class of chemical compounds having a carbon basis\\na. being or relating to or derived from or having properties characteristic of living organisms\\na. involving or affecting physiology or bodily organs",
-    "definition_zh": "a. 器官的, 有机的, 组织的, 根本的； 器官的, 有生命的, 有机的, 器质的",
-    "examples": [
-      {
-        "en": "They adopted a organic perspective to address the challenge.",
-        "zh": "在相关语境中，'organic'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "organic_noun",
+    "id": "organic",
     "word": "organic",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/ɒ:'gænik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organic-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=organic&type=2",
     "definition_en": "n. a fertilizer that is derived from animal or vegetable matter\\na. relating or belonging to the class of chemical compounds having a carbon basis\\na. being or relating to or derived from or having properties characteristic of living organisms\\na. involving or affecting physiology or bodily organs",
     "definition_zh": "a. 器官的, 有机的, 组织的, 根本的； 器官的, 有生命的, 有机的, 器质的",
     "examples": [
       {
-        "en": "A deep understanding of organic is beneficial in everyday life.",
-        "zh": "在相关语境中，'organic'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of organic is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 器官的, 有机的, 组织的, 根本的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "organs_noun",
+    "id": "organs",
     "word": "organs",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/organs-us.mp3",
+    "phonetic": "/organs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=organs&type=2",
     "definition_en": "n edible viscera of a butchered animal\\nn a fully differentiated structural and functional unit in an animal that is specialized for some particular function\\nn a government agency or instrument devoted to the performance of some specific function\\nn (music) an electronic simulation of a pipe organ\\nn a periodical that is published by a special interest group\\nn wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard\\nn a free-reed instrument in which air is forced through the reeds by bellows",
     "definition_zh": "n. 器官；机构；风琴（organ的复数）",
     "examples": [
       {
-        "en": "A deep understanding of organs is beneficial in everyday life.",
-        "zh": "在相关语境中，'organs'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of organs is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 器官具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "retina_noun",
+    "id": "retina",
     "word": "retina",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'retinә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/retina-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=retina&type=2",
     "definition_en": "n. the innermost light-sensitive membrane covering the back wall of the eyeball; it is continuous with the optic nerve",
     "definition_zh": "n. 视网膜； 视网膜",
     "examples": [
       {
-        "en": "A deep understanding of retina is beneficial in everyday life.",
-        "zh": "在相关语境中，'retina'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of retina is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 视网膜具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "rib_noun",
+    "id": "rib",
     "word": "rib",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/rib/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rib-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rib&type=2",
     "definition_en": "n. support resembling the rib of an animal\\nn. any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates)\\nn. cut of meat including one or more ribs\\nn. a teasing remark",
     "definition_zh": "n. 肋骨, 肋状物, 笑话； vt. 装肋状物于, 戏弄",
     "examples": [
       {
-        "en": "A deep understanding of rib is beneficial in everyday life.",
-        "zh": "在相关语境中，'rib'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of rib is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肋骨, 肋状物, 笑话具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "ribs_noun",
+    "id": "ribs",
     "word": "ribs",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ribs-us.mp3",
+    "phonetic": "/ribs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ribs&type=2",
     "definition_en": "n support resembling the rib of an animal\\nn any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates)\\nn cut of meat including one or more ribs\\nn a teasing remark\\nn a riblike supporting or strengthening part of an animal or plant\\nn a projecting molding on the underside of a vault or ceiling; may be ornamental or structural\\nv form vertical ribs by knitting\\nv subject to laughter or ridicule",
     "definition_zh": "n. 肋骨；排骨（rib的复数）",
     "examples": [
       {
-        "en": "A deep understanding of ribs is beneficial in everyday life.",
-        "zh": "在相关语境中，'ribs'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of ribs is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肋骨具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "runs_verb",
-    "word": "runs",
-    "part_of_speech": "verb",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/runs-us.mp3",
-    "definition_en": "n a score in baseball made by a runner touching all four bases safely\\nn the act of testing something\\nn a race run on foot\\nn an unbroken series of events\\nn (American football) a play in which a player attempts to carry the ball through or past the opposing team\\nn a regular trip\\nn the act of running; traveling on foot at a fast pace\\nn the continuous period of time during which something (a machine or a factory) operates or continues in operation\\nn unrestricted freedom to use\\nn the production achieved during a continuous period of operation (of a machine or factory etc.)\\nn a small stream\\nn a race between candidates for elective office\\nn a row of unravelled stitches\\nn the pouring forth of a fluid\\nn an unbroken chronological sequence\\nn a short trip\\nv move fast by using one's feet, with one foot off the ground at any given time\\nv flee; take to one's heels; cut and run\\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\\nv direct or control; projects, businesses, etc.\\nv have a particular form\\nv move along, of liquids\\nv perform as expected when applied\\nv change or be different within limits\\nv run, stand, or compete for an office or a position\\nv cause to emit recorded audio or video\\nv move about freely and without restraint, or act as if running around in an uncontrolled way\\nv have a tendency or disposition to do or be something; be inclined\\nv be operating, running or functioning\\nv change from one state to another\\nv cause to perform\\nv be affected by; be subjected to\\nv continue to exist\\nv occur persistently\\nv carry out a process or program, as on a computer or a machine\\nv include as the content; broadcast or publicize\\nv carry out\\nv pass over, across, or through\\nv cause something to pass or lead somewhere\\nv make without a miss\\nv deal in illegally, such as arms or liquor\\nv cause an animal to move fast\\nv be diffused\\nv sail before the wind\\nv cover by running; run a certain distance\\nv extend or continue for a certain period of time\\nv set animals loose to graze\\nv keep company\\nv run with the ball; in such sports as football\\nv travel rapidly, by any (unspecified) means\\nv travel a route regularly\\nv pursue for food or sport (as of wild animals)\\nv compete in a race\\nv progress by being changed\\nv reduce or cause to be reduced from a solid to a liquid state, usually by heating\\nv come unraveled or undone as if by snagging\\nv become undone",
-    "definition_zh": "n. 顺串；泻肚子；流量（run的复数形式）",
-    "examples": [
-      {
-        "en": "Specialists actively runs practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'runs'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "runs_noun",
+    "id": "runs",
     "word": "runs",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/runs-us.mp3",
+    "phonetic": "/runs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=runs&type=2",
     "definition_en": "n a score in baseball made by a runner touching all four bases safely\\nn the act of testing something\\nn a race run on foot\\nn an unbroken series of events\\nn (American football) a play in which a player attempts to carry the ball through or past the opposing team\\nn a regular trip\\nn the act of running; traveling on foot at a fast pace\\nn the continuous period of time during which something (a machine or a factory) operates or continues in operation\\nn unrestricted freedom to use\\nn the production achieved during a continuous period of operation (of a machine or factory etc.)\\nn a small stream\\nn a race between candidates for elective office\\nn a row of unravelled stitches\\nn the pouring forth of a fluid\\nn an unbroken chronological sequence\\nn a short trip\\nv move fast by using one's feet, with one foot off the ground at any given time\\nv flee; take to one's heels; cut and run\\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\\nv direct or control; projects, businesses, etc.\\nv have a particular form\\nv move along, of liquids\\nv perform as expected when applied\\nv change or be different within limits\\nv run, stand, or compete for an office or a position\\nv cause to emit recorded audio or video\\nv move about freely and without restraint, or act as if running around in an uncontrolled way\\nv have a tendency or disposition to do or be something; be inclined\\nv be operating, running or functioning\\nv change from one state to another\\nv cause to perform\\nv be affected by; be subjected to\\nv continue to exist\\nv occur persistently\\nv carry out a process or program, as on a computer or a machine\\nv include as the content; broadcast or publicize\\nv carry out\\nv pass over, across, or through\\nv cause something to pass or lead somewhere\\nv make without a miss\\nv deal in illegally, such as arms or liquor\\nv cause an animal to move fast\\nv be diffused\\nv sail before the wind\\nv cover by running; run a certain distance\\nv extend or continue for a certain period of time\\nv set animals loose to graze\\nv keep company\\nv run with the ball; in such sports as football\\nv travel rapidly, by any (unspecified) means\\nv travel a route regularly\\nv pursue for food or sport (as of wild animals)\\nv compete in a race\\nv progress by being changed\\nv reduce or cause to be reduced from a solid to a liquid state, usually by heating\\nv come unraveled or undone as if by snagging\\nv become undone",
     "definition_zh": "n. 顺串；泻肚子；流量（run的复数形式）",
     "examples": [
       {
-        "en": "A deep understanding of runs is beneficial in everyday life.",
-        "zh": "在相关语境中，'runs'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of runs is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 顺串具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "satellite_noun",
+    "id": "satellite",
     "word": "satellite",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'sætlait/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/satellite-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=satellite&type=2",
     "definition_en": "n. man-made equipment that orbits around the earth or the moon\\nn. a person who follows or serves another\\nn. any celestial body orbiting around a planet or star\\nv. broadcast or disseminate via satellite",
     "definition_zh": "n. 人造卫星； 伴行静脉, 陪静脉, 陪病部, 随体, 卫星",
     "examples": [
       {
-        "en": "A deep understanding of satellite is beneficial in everyday life.",
-        "zh": "在相关语境中，'satellite'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of satellite is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 人造卫星具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "shoulder_noun",
+    "id": "shoulder",
     "word": "shoulder",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'ʃәuldә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shoulder-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shoulder&type=2",
     "definition_en": "n. the part of the body between the neck and the upper arm\\nn. a cut of meat including the upper joint of the foreleg\\nn. a ball-and-socket joint between the head of the humerus and a cavity of the scapula\\nn. the part of a garment that covers or fits over the shoulder",
     "definition_zh": "n. 肩, 肩膀, 衣肩； vt. 肩负, 负担, 担任； vi. 用肩推挤",
     "examples": [
       {
-        "en": "A deep understanding of shoulder is beneficial in everyday life.",
-        "zh": "在相关语境中，'shoulder'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of shoulder is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肩, 肩膀, 衣肩具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "shoulders_noun",
+    "id": "shoulders",
     "word": "shoulders",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shoulders-us.mp3",
+    "phonetic": "/shoulders/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shoulders&type=2",
     "definition_en": "n the part of the body between the neck and the upper arm\\nn a cut of meat including the upper joint of the foreleg\\nn a ball-and-socket joint between the head of the humerus and a cavity of the scapula\\nn the part of a garment that covers or fits over the shoulder\\nn a narrow edge of land (usually unpaved) along the side of a road\\nv lift onto one's shoulders\\nv push with the shoulders\\nv carry a burden, either real or metaphoric",
     "definition_zh": "n. 肩部；肩膀（shoulder的复数）",
     "examples": [
       {
-        "en": "A deep understanding of shoulders is beneficial in everyday life.",
-        "zh": "在相关语境中，'shoulders'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of shoulders is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 肩部具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "skeleton_noun",
+    "id": "skeleton",
     "word": "skeleton",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'skelәtn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skeleton-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=skeleton&type=2",
     "definition_en": "n. something reduced to its minimal form\\nn. a scandal that is kept secret\\nn. the internal supporting structure that gives an artifact its shape",
     "definition_zh": "n. 骨骼, 骨瘦如柴的人, 梗概, 骨干, 残骸； a. 骨骼的, 概略的, 基层的, 骨干的； 骨架",
     "examples": [
       {
-        "en": "A deep understanding of skeleton is beneficial in everyday life.",
-        "zh": "在相关语境中，'skeleton'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of skeleton is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 骨骼, 骨瘦如柴的人, 梗概, 骨干, 残骸具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "spinal_adjective",
+    "id": "spinal",
     "word": "spinal",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'spainl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spinal-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spinal&type=2",
     "definition_en": "a. of or relating to the spine or spinal cord",
     "definition_zh": "a. 针的, 尖刺的, 尖刺状突起的, 脊骨的； 棘折; 脊柱的",
     "examples": [
       {
-        "en": "They adopted a spinal perspective to address the challenge.",
-        "zh": "在相关语境中，'spinal'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of spinal is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 针的, 尖刺的, 尖刺状突起的, 脊骨的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "spine_noun",
+    "id": "spine",
     "word": "spine",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/spain/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spine-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spine&type=2",
     "definition_en": "n. a small sharp-pointed tip resembling a spike on a stem or leaf\\nn. the part of a book's cover that encloses the inner side of the book's pages and that faces outward when the book is shelved\\nn. a sharp rigid animal process or appendage; as a porcupine quill or a ridge on a bone or a ray of a fish fin",
     "definition_zh": "n. 背骨, 脊柱, 尖刺； 脊柱; 棘, 刺; 马蹄嵴",
     "examples": [
       {
-        "en": "A deep understanding of spine is beneficial in everyday life.",
-        "zh": "在相关语境中，'spine'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of spine is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 背骨, 脊柱, 尖刺具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "spines_noun",
+    "id": "spines",
     "word": "spines",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/spainz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spines-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spines&type=2",
     "definition_en": "n. the series of vertebrae forming the axis of the skeleton and protecting the spinal cord\\nn. any sharply pointed projection\\nn. a small sharp-pointed tip resembling a spike on a stem or leaf",
     "definition_zh": "n. 脊柱( spine的复数形式 ); 脊椎; （动植物的）刺; 书脊",
     "examples": [
       {
-        "en": "A deep understanding of spines is beneficial in everyday life.",
-        "zh": "在相关语境中，'spines'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of spines is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 脊柱( spine的复数形式 ); 脊椎; （动植物的）刺; 书脊具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "stomach_noun",
+    "id": "stomach",
     "word": "stomach",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'stʌmәk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stomach-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stomach&type=2",
     "definition_en": "n. an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion\\nn. an inclination or liking for things involving conflict or difficulty or unpleasantness\\nn. an appetite for food\\nv. bear to eat",
     "definition_zh": "n. 胃, 食欲, 欲望, 肚子； vt. 吃下, 忍受",
     "examples": [
       {
-        "en": "A deep understanding of stomach is beneficial in everyday life.",
-        "zh": "在相关语境中，'stomach'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of stomach is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 胃, 食欲, 欲望, 肚子具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "stomachache_noun",
+    "id": "stomachache",
     "word": "stomachache",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'stʌmәkeik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stomachache-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stomachache&type=2",
     "definition_en": "n. an ache localized in the stomach or abdominal region",
     "definition_zh": "n. 胃痛, 肚子痛",
     "examples": [
       {
-        "en": "A deep understanding of stomachache is beneficial in everyday life.",
-        "zh": "在相关语境中，'stomachache'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of stomachache is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 胃痛, 肚子痛具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "tastebud_noun",
+    "id": "stunt",
+    "word": "stunt",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/stʌnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stunt&type=2",
+    "definition_en": "n. a difficult or unusual or dangerous feat; usually done to gain attention\\nn. a creature (especially a whale) that has been prevented from attaining full growth\\nv. check the growth or development of\\nv. perform a stunt or stunts",
+    "definition_zh": "n. 特技, 绝技, 花招, 噱头, 手腕, 发育不良； vt. 阻碍成长； vi. 表演特技",
+    "examples": [
+      {
+        "en": "A deep understanding of stunt is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 特技, 绝技, 花招, 噱头, 手腕, 发育不良具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "tastebud",
     "word": "tastebud",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tastebud-us.mp3",
+    "phonetic": "/tastebud/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tastebud&type=2",
     "definition_en": "",
     "definition_zh": "na. 味蕾； 味觉器官称味蕾；味觉球",
     "examples": [
       {
-        "en": "A deep understanding of tastebud is beneficial in everyday life.",
-        "zh": "在相关语境中，'tastebud'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of tastebud is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，na. 味蕾具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "teeth_noun",
+    "id": "teeth",
     "word": "teeth",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/ti:θ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teeth-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=teeth&type=2",
     "definition_en": "n the kind and number and arrangement of teeth (collectively) in a person or animal\\nn hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense\\nn something resembling the tooth of an animal\\nn toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell\\nn a means of enforcement\\nn one of a number of uniform projections on a gear",
     "definition_zh": "pl. 牙齿； 牙",
     "examples": [
       {
-        "en": "A deep understanding of teeth is beneficial in everyday life.",
-        "zh": "在相关语境中，'teeth'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of teeth is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，pl. 牙齿具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "thigh_noun",
+    "id": "thigh",
     "word": "thigh",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/θai/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thigh-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=thigh&type=2",
     "definition_en": "n. the part of the leg between the hip and the knee",
     "definition_zh": "n. 大腿, 股； 股, 大腿",
     "examples": [
       {
-        "en": "A deep understanding of thigh is beneficial in everyday life.",
-        "zh": "在相关语境中，'thigh'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of thigh is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 大腿, 股具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "thighs_noun",
+    "id": "thighs",
     "word": "thighs",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/θaiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thighs-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=thighs&type=2",
     "definition_en": "n. the part of the leg between the hip and the knee\\nn. the upper joint of the leg of a fowl",
     "definition_zh": "n. 股, 大腿( thigh的复数形式 ); 食用的鸡（等的）腿",
     "examples": [
       {
-        "en": "A deep understanding of thighs is beneficial in everyday life.",
-        "zh": "在相关语境中，'thighs'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of thighs is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 股, 大腿( thigh的复数形式 ); 食用的鸡（等的）腿具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "throat_noun",
+    "id": "throat",
     "word": "throat",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/θrәut/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/throat-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=throat&type=2",
     "definition_en": "n. the passage to the stomach and lungs; in the front part of the neck below the chin and above the collarbone\\nn. an opening in the vamp of a shoe at the instep\\nn. a passage resembling a throat in shape or function; \\nn. the part of an animal's body that corresponds to a person's throat",
     "definition_zh": "n. 咽喉, 喉咙, 嗓音； vt. 用喉音说, 开沟于",
     "examples": [
       {
-        "en": "A deep understanding of throat is beneficial in everyday life.",
-        "zh": "在相关语境中，'throat'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of throat is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 咽喉, 喉咙, 嗓音具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "thumb_noun",
+    "id": "thumb",
     "word": "thumb",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/θʌm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thumb-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=thumb&type=2",
     "definition_en": "n. the thick short innermost digit of the forelimb\\nn. the part of a glove that provides a covering for the thumb",
     "definition_zh": "n. 拇指； vt. 以拇指拨弄, 笨拙地摆弄, 用拇指翻旧, 迅速翻阅, 作搭车手势",
     "examples": [
       {
-        "en": "A deep understanding of thumb is beneficial in everyday life.",
-        "zh": "在相关语境中，'thumb'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of thumb is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 拇指具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "toe_noun",
+    "id": "toe",
     "word": "toe",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/tәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toe-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=toe&type=2",
     "definition_en": "n. one of the digits of the foot\\nn. the part of footwear that provides a covering for the toes\\nn. forepart of a hoof\\nn. (golf) the part of a clubhead farthest from the shaft",
     "definition_zh": "n. 足趾, 趾部, 脚趾； vt. 以趾踏触, 用脚尖走； vi. 动脚尖",
     "examples": [
       {
-        "en": "A deep understanding of toe is beneficial in everyday life.",
-        "zh": "在相关语境中，'toe'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of toe is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 足趾, 趾部, 脚趾具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "toenail_noun",
+    "id": "toenail",
     "word": "toenail",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'tәuneil/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toenail-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=toenail&type=2",
     "definition_en": "n. the nail at the end of a toe",
     "definition_zh": "n. 脚趾甲, 斜钉； 趾甲",
     "examples": [
       {
-        "en": "A deep understanding of toenail is beneficial in everyday life.",
-        "zh": "在相关语境中，'toenail'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of toenail is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 脚趾甲, 斜钉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "toes_noun",
+    "id": "toes",
     "word": "toes",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/toes-us.mp3",
+    "phonetic": "/toes/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=toes&type=2",
     "definition_en": "n one of the digits of the foot\\nn the part of footwear that provides a covering for the toes\\nn forepart of a hoof\\nn (golf) the part of a clubhead farthest from the shaft\\nv walk so that the toes assume an indicated position or direction\\nv drive obliquely\\nv hit (a golf ball) with the toe of the club\\nv drive (a golf ball) with the toe of the club\\nv touch with the toe",
     "definition_zh": "n. 脚趾（toe的复数）",
     "examples": [
       {
-        "en": "A deep understanding of toes is beneficial in everyday life.",
-        "zh": "在相关语境中，'toes'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of toes is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 脚趾（toe的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "tongues_noun",
+    "id": "tongues",
     "word": "tongues",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/tʌŋz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tongues-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tongues&type=2",
     "definition_en": "n a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity\\nn a human written or spoken language used by a community; opposed to e.g. a computer language\\nn any long thin projection that is transient\\nn a manner of speaking\\nn a narrow strip of land that juts out into the sea\\nn the tongue of certain animals used as meat\\nn the flap of material under the laces of a shoe or boot\\nn metal striker that hangs inside a bell and makes a sound by hitting the side\\nv articulate by tonguing, as when playing wind instruments\\nv lick or explore with the tongue",
     "definition_zh": "n. 语言( tongue的名词复数 ); 舌头; 舌状物; 鞋舌",
     "examples": [
       {
-        "en": "A deep understanding of tongues is beneficial in everyday life.",
-        "zh": "在相关语境中，'tongues'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of tongues is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 语言( tongue的名词复数 ); 舌头; 舌状物; 鞋舌具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "tooth_noun",
+    "id": "tooth",
     "word": "tooth",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/tu:θ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tooth-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tooth&type=2",
     "definition_en": "n. hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense\\nn. something resembling the tooth of an animal\\nn. toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell\\nn. a means of enforcement",
     "definition_zh": "n. 牙齿, 齿状物, 爱好； vt. 装以齿, 将...切成齿状； vi. 啮合",
     "examples": [
       {
-        "en": "A deep understanding of tooth is beneficial in everyday life.",
-        "zh": "在相关语境中，'tooth'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of tooth is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 牙齿, 齿状物, 爱好具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "topography_noun",
+    "id": "topography",
     "word": "topography",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/tә'pɒgrәfi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/topography-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=topography&type=2",
     "definition_en": "n. the configuration of a surface and the relations among its man-made and natural features\\nn. precise detailed study of the surface features of a region",
     "definition_zh": "n. 地志, 地形学, 地势, 局部解剖学； 局部解剖, 局部记载",
     "examples": [
       {
-        "en": "A deep understanding of topography is beneficial in everyday life.",
-        "zh": "在相关语境中，'topography'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of topography is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 地志, 地形学, 地势, 局部解剖学具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "vein_noun",
+    "id": "vein",
     "word": "vein",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/vein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vein-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vein&type=2",
     "definition_en": "n. a blood vessel that carries blood from the capillaries toward the heart\\nn. a distinctive style or manner\\nn. any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ\\nn. a layer of ore between layers of rock",
     "definition_zh": "n. 血管, 静脉, 纹理, 气质, 情绪； vt. 使有脉络, 像脉络般分布于",
     "examples": [
       {
-        "en": "A deep understanding of vein is beneficial in everyday life.",
-        "zh": "在相关语境中，'vein'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of vein is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 血管, 静脉, 纹理, 气质, 情绪具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "veins_noun",
+    "id": "veins",
     "word": "veins",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/veins-us.mp3",
+    "phonetic": "/veins/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=veins&type=2",
     "definition_en": "n a blood vessel that carries blood from the capillaries toward the heart\\nn a distinctive style or manner\\nn any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ\\nn a layer of ore between layers of rock\\nn one of the horny ribs that stiffen and support the wing of an insect\\nv make a veinlike pattern",
     "definition_zh": "n. 纹理；静脉（vein的复数）",
     "examples": [
       {
-        "en": "A deep understanding of veins is beneficial in everyday life.",
-        "zh": "在相关语境中，'veins'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of veins is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 纹理具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "waist_noun",
+    "id": "waist",
     "word": "waist",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/weist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/waist-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=waist&type=2",
     "definition_en": "n. the narrowing of the body between the ribs and hips",
     "definition_zh": "n. 腰部, 腰； 腰",
     "examples": [
       {
-        "en": "A deep understanding of waist is beneficial in everyday life.",
-        "zh": "在相关语境中，'waist'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of waist is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 腰部, 腰具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "well-built_adjective",
+    "id": "well-built",
     "word": "well-built",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'wel'bɪlt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/well-built-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=well-built&type=2",
     "definition_en": "",
     "definition_zh": "adj. 结实的; 坚固的; <口>肌肉发达的; 体格健美的",
     "examples": [
       {
-        "en": "They adopted a well-built perspective to address the challenge.",
-        "zh": "在相关语境中，'well-built'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of well-built is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，adj. 结实的; 坚固的; <口>肌肉发达的; 体格健美的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "wrist_noun",
+    "id": "wrist",
     "word": "wrist",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/rist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wrist-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wrist&type=2",
     "definition_en": "n. a joint between the distal end of the radius and the proximal row of carpal bones",
     "definition_zh": "n. 手腕, 腕关节； 腕",
     "examples": [
       {
-        "en": "A deep understanding of wrist is beneficial in everyday life.",
-        "zh": "在相关语境中，'wrist'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of wrist is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 手腕, 腕关节具有重要的表达意义。"
       }
     ]
   }

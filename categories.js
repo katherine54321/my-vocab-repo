@@ -1,16 +1,8 @@
-// Auto-generated 34-category index
 window.CATEGORIES_INDEX = {
-  "version": "5.0.0",
-  "total_words": 14200,
-  "total_categories": 34,
-  "level_distribution": {
-    "A1": 2128,
-    "A2": 2435,
-    "B1": 3816,
-    "B2": 3676,
-    "C1": 1045,
-    "C2": 1100
-  },
+  "version": "6.2.0",
+  "description": "Authoritative 14,000 Pure Deduplicated English Vocabulary Taxonomy",
+  "total_words": 14000,
+  "categories_count": 34,
   "categories": [
     {
       "id": "psychology",
@@ -19,26 +11,17 @@ window.CATEGORIES_INDEX = {
       "group": "academic",
       "group_name_zh": "人文学科",
       "icon": "🧠",
-      "count": 58,
-      "word_count": 58,
+      "count": 53,
+      "word_count": 53,
       "level_distribution": {
-        "A1": 3,
-        "A2": 9,
+        "A1": 4,
+        "A2": 5,
         "B1": 14,
         "B2": 14,
-        "C1": 12,
-        "C2": 6
+        "C1": 11,
+        "C2": 5
       },
-      "sample_words": [
-        "aberration",
-        "abject",
-        "analyst",
-        "automatic",
-        "automatic",
-        "automatic",
-        "cognitive",
-        "colonization"
-      ]
+      "file": "data/psychology.json"
     },
     {
       "id": "politics",
@@ -47,26 +30,17 @@ window.CATEGORIES_INDEX = {
       "group": "academic",
       "group_name_zh": "人文学科",
       "icon": "🏛️",
-      "count": 94,
-      "word_count": 94,
+      "count": 120,
+      "word_count": 120,
       "level_distribution": {
-        "A1": 10,
-        "A2": 15,
-        "B1": 23,
-        "B2": 38,
-        "C1": 6,
-        "C2": 2
+        "A1": 12,
+        "A2": 16,
+        "B1": 28,
+        "B2": 43,
+        "C1": 16,
+        "C2": 5
       },
-      "sample_words": [
-        "absolute",
-        "absolute",
-        "administration",
-        "agent",
-        "anarchic",
-        "aristocracy",
-        "ballot",
-        "ballots"
-      ]
+      "file": "data/politics.json"
     },
     {
       "id": "philosophy",
@@ -75,26 +49,17 @@ window.CATEGORIES_INDEX = {
       "group": "academic",
       "group_name_zh": "人文学科",
       "icon": "📜",
-      "count": 38,
-      "word_count": 38,
+      "count": 45,
+      "word_count": 45,
       "level_distribution": {
-        "A1": 0,
-        "A2": 5,
-        "B1": 9,
-        "B2": 12,
-        "C1": 4,
-        "C2": 8
+        "A1": 2,
+        "A2": 3,
+        "B1": 12,
+        "B2": 16,
+        "C1": 5,
+        "C2": 7
       },
-      "sample_words": [
-        "axiom",
-        "conscience",
-        "conscientious",
-        "demystification",
-        "depraved",
-        "ethic",
-        "ethical",
-        "ethically"
-      ]
+      "file": "data/philosophy.json"
     },
     {
       "id": "economics",
@@ -103,26 +68,17 @@ window.CATEGORIES_INDEX = {
       "group": "academic",
       "group_name_zh": "人文学科",
       "icon": "📈",
-      "count": 479,
-      "word_count": 479,
+      "count": 440,
+      "word_count": 440,
       "level_distribution": {
-        "A1": 47,
-        "A2": 71,
-        "B1": 147,
-        "B2": 147,
-        "C1": 31,
-        "C2": 36
+        "A1": 39,
+        "A2": 69,
+        "B1": 140,
+        "B2": 96,
+        "C1": 70,
+        "C2": 26
       },
-      "sample_words": [
-        "abandonment",
-        "abolish",
-        "absentee",
-        "abundance",
-        "acceptance",
-        "accepted",
-        "accepted",
-        "accommodation"
-      ]
+      "file": "data/economics.json"
     },
     {
       "id": "law_justice",
@@ -131,26 +87,17 @@ window.CATEGORIES_INDEX = {
       "group": "academic",
       "group_name_zh": "人文学科",
       "icon": "⚖️",
-      "count": 625,
-      "word_count": 625,
+      "count": 580,
+      "word_count": 580,
       "level_distribution": {
-        "A1": 44,
-        "A2": 86,
-        "B1": 174,
-        "B2": 215,
-        "C1": 56,
-        "C2": 50
+        "A1": 43,
+        "A2": 89,
+        "B1": 172,
+        "B2": 139,
+        "C1": 91,
+        "C2": 46
       },
-      "sample_words": [
-        "accusation",
-        "accused",
-        "action",
-        "addicted",
-        "adequate",
-        "administrations",
-        "administrative",
-        "adoption"
-      ]
+      "file": "data/law_justice.json"
     },
     {
       "id": "human_organs",
@@ -159,26 +106,17 @@ window.CATEGORIES_INDEX = {
       "group": "human",
       "group_name_zh": "人类与生理",
       "icon": "🫀",
-      "count": 91,
-      "word_count": 91,
+      "count": 92,
+      "word_count": 92,
       "level_distribution": {
-        "A1": 17,
-        "A2": 14,
-        "B1": 23,
-        "B2": 30,
-        "C1": 3,
-        "C2": 4
+        "A1": 15,
+        "A2": 11,
+        "B1": 21,
+        "B2": 29,
+        "C1": 13,
+        "C2": 3
       },
-      "sample_words": [
-        "ankle",
-        "armed",
-        "armed",
-        "armed",
-        "arterial",
-        "arteries",
-        "artery",
-        "articulate"
-      ]
+      "file": "data/human_organs.json"
     },
     {
       "id": "human_emotions",
@@ -187,26 +125,17 @@ window.CATEGORIES_INDEX = {
       "group": "human",
       "group_name_zh": "人类与生理",
       "icon": "🎭",
-      "count": 257,
-      "word_count": 257,
+      "count": 240,
+      "word_count": 240,
       "level_distribution": {
-        "A1": 26,
-        "A2": 41,
-        "B1": 68,
-        "B2": 63,
+        "A1": 35,
+        "A2": 27,
+        "B1": 61,
+        "B2": 61,
         "C1": 31,
-        "C2": 28
+        "C2": 25
       },
-      "sample_words": [
-        "affection",
-        "afraid",
-        "alone",
-        "alone",
-        "angrily",
-        "angry",
-        "angst",
-        "animate"
-      ]
+      "file": "data/human_emotions.json"
     },
     {
       "id": "personality_traits",
@@ -215,26 +144,17 @@ window.CATEGORIES_INDEX = {
       "group": "human",
       "group_name_zh": "人类与生理",
       "icon": "🌟",
-      "count": 266,
-      "word_count": 266,
+      "count": 271,
+      "word_count": 271,
       "level_distribution": {
-        "A1": 28,
-        "A2": 30,
-        "B1": 61,
-        "B2": 74,
-        "C1": 40,
-        "C2": 33
+        "A1": 30,
+        "A2": 20,
+        "B1": 72,
+        "B2": 67,
+        "C1": 59,
+        "C2": 23
       },
-      "sample_words": [
-        "abilities",
-        "ability",
-        "ambitious",
-        "antics",
-        "arch",
-        "arrogant",
-        "assuming",
-        "attributed"
-      ]
+      "file": "data/personality_traits.json"
     },
     {
       "id": "interpersonal_relations",
@@ -243,26 +163,17 @@ window.CATEGORIES_INDEX = {
       "group": "human",
       "group_name_zh": "人类与生理",
       "icon": "👥",
-      "count": 175,
-      "word_count": 175,
+      "count": 163,
+      "word_count": 163,
       "level_distribution": {
-        "A1": 59,
-        "A2": 26,
+        "A1": 55,
+        "A2": 19,
         "B1": 39,
-        "B2": 38,
-        "C1": 7,
+        "B2": 29,
+        "C1": 15,
         "C2": 6
       },
-      "sample_words": [
-        "accomplished",
-        "argues",
-        "arguing",
-        "aunt",
-        "babies",
-        "baby",
-        "boy",
-        "boyfriend"
-      ]
+      "file": "data/interpersonal_relations.json"
     },
     {
       "id": "food_beverages",
@@ -274,23 +185,14 @@ window.CATEGORIES_INDEX = {
       "count": 158,
       "word_count": 158,
       "level_distribution": {
-        "A1": 15,
-        "A2": 25,
-        "B1": 54,
-        "B2": 38,
-        "C1": 18,
-        "C2": 8
+        "A1": 18,
+        "A2": 17,
+        "B1": 42,
+        "B2": 44,
+        "C1": 30,
+        "C2": 7
       },
-      "sample_words": [
-        "alcohol",
-        "ammonia",
-        "aqua",
-        "aquarium",
-        "armor",
-        "aspirin",
-        "attaining",
-        "average"
-      ]
+      "file": "data/food_beverages.json"
     },
     {
       "id": "food_fruits",
@@ -302,23 +204,14 @@ window.CATEGORIES_INDEX = {
       "count": 33,
       "word_count": 33,
       "level_distribution": {
-        "A1": 11,
-        "A2": 6,
-        "B1": 4,
-        "B2": 9,
-        "C1": 1,
-        "C2": 2
+        "A1": 6,
+        "A2": 2,
+        "B1": 12,
+        "B2": 10,
+        "C1": 3,
+        "C2": 0
       },
-      "sample_words": [
-        "apple",
-        "apples",
-        "banana",
-        "berries",
-        "berry",
-        "cherry",
-        "coconut",
-        "fool"
-      ]
+      "file": "data/food_fruits.json"
     },
     {
       "id": "food_vegetables",
@@ -327,26 +220,17 @@ window.CATEGORIES_INDEX = {
       "group": "food",
       "group_name_zh": "食品与餐饮",
       "icon": "🥦",
-      "count": 38,
-      "word_count": 38,
+      "count": 39,
+      "word_count": 39,
       "level_distribution": {
         "A1": 7,
-        "A2": 13,
-        "B1": 7,
+        "A2": 10,
+        "B1": 9,
         "B2": 7,
-        "C1": 3,
+        "C1": 5,
         "C2": 1
       },
-      "sample_words": [
-        "aubergine",
-        "broccoli",
-        "carrot",
-        "chili",
-        "chips",
-        "crop",
-        "cucumber",
-        "foodstuffs"
-      ]
+      "file": "data/food_vegetables.json"
     },
     {
       "id": "food_meat_seafood",
@@ -355,26 +239,17 @@ window.CATEGORIES_INDEX = {
       "group": "food",
       "group_name_zh": "食品与餐饮",
       "icon": "🥩",
-      "count": 51,
-      "word_count": 51,
+      "count": 54,
+      "word_count": 54,
       "level_distribution": {
-        "A1": 12,
-        "A2": 11,
-        "B1": 13,
-        "B2": 11,
-        "C1": 4,
-        "C2": 0
+        "A1": 11,
+        "A2": 4,
+        "B1": 20,
+        "B2": 12,
+        "C1": 5,
+        "C2": 2
       },
-      "sample_words": [
-        "angle",
-        "angle",
-        "bacon",
-        "barbecue",
-        "barbecue",
-        "beef",
-        "blocks",
-        "butcher"
-      ]
+      "file": "data/food_meat_seafood.json"
     },
     {
       "id": "food_dining",
@@ -383,26 +258,17 @@ window.CATEGORIES_INDEX = {
       "group": "food",
       "group_name_zh": "食品与餐饮",
       "icon": "🍽️",
-      "count": 109,
-      "word_count": 109,
+      "count": 110,
+      "word_count": 110,
       "level_distribution": {
-        "A1": 20,
-        "A2": 32,
-        "B1": 24,
-        "B2": 24,
-        "C1": 4,
-        "C2": 5
+        "A1": 17,
+        "A2": 22,
+        "B1": 33,
+        "B2": 18,
+        "C1": 17,
+        "C2": 3
       },
-      "sample_words": [
-        "bake",
-        "baker",
-        "bakery",
-        "baking",
-        "batch",
-        "bikini",
-        "biscuit",
-        "blast"
-      ]
+      "file": "data/food_dining.json"
     },
     {
       "id": "housing_architecture",
@@ -411,26 +277,17 @@ window.CATEGORIES_INDEX = {
       "group": "living",
       "group_name_zh": "生活与空间",
       "icon": "🏠",
-      "count": 211,
-      "word_count": 211,
+      "count": 204,
+      "word_count": 204,
       "level_distribution": {
-        "A1": 45,
-        "A2": 41,
-        "B1": 52,
-        "B2": 48,
-        "C1": 18,
-        "C2": 7
+        "A1": 39,
+        "A2": 31,
+        "B1": 51,
+        "B2": 47,
+        "C1": 28,
+        "C2": 8
       },
-      "sample_words": [
-        "aisle",
-        "alterations",
-        "annex",
-        "annex",
-        "apartment",
-        "apartments",
-        "approach",
-        "approach"
-      ]
+      "file": "data/housing_architecture.json"
     },
     {
       "id": "fashion_apparel",
@@ -439,26 +296,17 @@ window.CATEGORIES_INDEX = {
       "group": "living",
       "group_name_zh": "生活与空间",
       "icon": "👗",
-      "count": 110,
-      "word_count": 110,
+      "count": 106,
+      "word_count": 106,
       "level_distribution": {
-        "A1": 27,
-        "A2": 26,
-        "B1": 30,
-        "B2": 19,
-        "C1": 8,
-        "C2": 0
+        "A1": 24,
+        "A2": 12,
+        "B1": 29,
+        "B2": 17,
+        "C1": 17,
+        "C2": 7
       },
-      "sample_words": [
-        "backpack",
-        "backpacker",
-        "belt",
-        "belts",
-        "boots",
-        "bracelet",
-        "buttons",
-        "cassette"
-      ]
+      "file": "data/fashion_apparel.json"
     },
     {
       "id": "tools_materials",
@@ -467,26 +315,17 @@ window.CATEGORIES_INDEX = {
       "group": "living",
       "group_name_zh": "生活与空间",
       "icon": "🔧",
-      "count": 193,
-      "word_count": 193,
+      "count": 184,
+      "word_count": 184,
       "level_distribution": {
-        "A1": 32,
-        "A2": 41,
-        "B1": 58,
-        "B2": 46,
-        "C1": 9,
-        "C2": 7
+        "A1": 35,
+        "A2": 32,
+        "B1": 55,
+        "B2": 42,
+        "C1": 14,
+        "C2": 6
       },
-      "sample_words": [
-        "accessory",
-        "acquire",
-        "airline",
-        "appliance",
-        "apt",
-        "artifacts",
-        "assemblies",
-        "ate"
-      ]
+      "file": "data/tools_materials.json"
     },
     {
       "id": "daily_actions",
@@ -495,26 +334,17 @@ window.CATEGORIES_INDEX = {
       "group": "living",
       "group_name_zh": "生活与空间",
       "icon": "⏰",
-      "count": 50,
-      "word_count": 50,
+      "count": 41,
+      "word_count": 41,
       "level_distribution": {
         "A1": 12,
-        "A2": 7,
-        "B1": 13,
-        "B2": 9,
-        "C1": 3,
-        "C2": 6
+        "A2": 3,
+        "B1": 11,
+        "B2": 7,
+        "C1": 4,
+        "C2": 4
       },
-      "sample_words": [
-        "arouse",
-        "arrangements",
-        "awake",
-        "bathe",
-        "caffeinate",
-        "clean",
-        "clean",
-        "clean"
-      ]
+      "file": "data/daily_actions.json"
     },
     {
       "id": "geography_places",
@@ -523,26 +353,17 @@ window.CATEGORIES_INDEX = {
       "group": "nature_geo",
       "group_name_zh": "地理与自然",
       "icon": "🗺️",
-      "count": 193,
-      "word_count": 193,
+      "count": 345,
+      "word_count": 345,
       "level_distribution": {
-        "A1": 40,
-        "A2": 46,
-        "B1": 51,
-        "B2": 36,
-        "C1": 5,
-        "C2": 15
+        "A1": 37,
+        "A2": 205,
+        "B1": 33,
+        "B2": 32,
+        "C1": 25,
+        "C2": 13
       },
-      "sample_words": [
-        "adds",
-        "aids",
-        "alliances",
-        "allies",
-        "americans",
-        "angeles",
-        "animals",
-        "arm"
-      ]
+      "file": "data/geography_places.json"
     },
     {
       "id": "animals_wildlife",
@@ -551,26 +372,17 @@ window.CATEGORIES_INDEX = {
       "group": "nature_geo",
       "group_name_zh": "地理与自然",
       "icon": "🦁",
-      "count": 145,
-      "word_count": 145,
+      "count": 161,
+      "word_count": 161,
       "level_distribution": {
-        "A1": 35,
-        "A2": 24,
-        "B1": 37,
-        "B2": 29,
-        "C1": 3,
-        "C2": 17
+        "A1": 17,
+        "A2": 21,
+        "B1": 53,
+        "B2": 32,
+        "C1": 23,
+        "C2": 15
       },
-      "sample_words": [
-        "ancestors",
-        "animal",
-        "ant",
-        "anticlimactic",
-        "ants",
-        "avian",
-        "beak",
-        "bear"
-      ]
+      "file": "data/animals_wildlife.json"
     },
     {
       "id": "nature_weather",
@@ -579,26 +391,17 @@ window.CATEGORIES_INDEX = {
       "group": "nature_geo",
       "group_name_zh": "地理与自然",
       "icon": "🌿",
-      "count": 151,
-      "word_count": 151,
+      "count": 148,
+      "word_count": 148,
       "level_distribution": {
-        "A1": 23,
-        "A2": 33,
-        "B1": 32,
-        "B2": 36,
-        "C1": 12,
-        "C2": 15
+        "A1": 22,
+        "A2": 13,
+        "B1": 42,
+        "B2": 30,
+        "C1": 28,
+        "C2": 13
       },
-      "sample_words": [
-        "accrue",
-        "antediluvian",
-        "aptitude",
-        "artificially",
-        "blitz",
-        "blitz",
-        "bolt",
-        "bolt"
-      ]
+      "file": "data/nature_weather.json"
     },
     {
       "id": "time_calendar",
@@ -607,26 +410,17 @@ window.CATEGORIES_INDEX = {
       "group": "nature_geo",
       "group_name_zh": "地理与自然",
       "icon": "📅",
-      "count": 223,
-      "word_count": 223,
+      "count": 178,
+      "word_count": 178,
       "level_distribution": {
-        "A1": 85,
-        "A2": 33,
-        "B1": 58,
-        "B2": 36,
-        "C1": 2,
-        "C2": 9
+        "A1": 65,
+        "A2": 20,
+        "B1": 44,
+        "B2": 33,
+        "C1": 12,
+        "C2": 4
       },
-      "sample_words": [
-        "about",
-        "about",
-        "about",
-        "afternoon",
-        "age",
-        "age",
-        "agenda",
-        "anniversary"
-      ]
+      "file": "data/time_calendar.json"
     },
     {
       "id": "travel_transport",
@@ -635,26 +429,17 @@ window.CATEGORIES_INDEX = {
       "group": "leisure_transport",
       "group_name_zh": "出行与文体",
       "icon": "✈️",
-      "count": 147,
-      "word_count": 147,
+      "count": 140,
+      "word_count": 140,
       "level_distribution": {
-        "A1": 33,
-        "A2": 36,
-        "B1": 32,
-        "B2": 31,
-        "C1": 9,
-        "C2": 6
+        "A1": 40,
+        "A2": 13,
+        "B1": 40,
+        "B2": 24,
+        "C1": 15,
+        "C2": 8
       },
-      "sample_words": [
-        "aboard",
-        "aboard",
-        "aircraft",
-        "airplane",
-        "airplanes",
-        "airport",
-        "airports",
-        "autopilot"
-      ]
+      "file": "data/travel_transport.json"
     },
     {
       "id": "sports_fitness",
@@ -663,26 +448,17 @@ window.CATEGORIES_INDEX = {
       "group": "leisure_transport",
       "group_name_zh": "出行与文体",
       "icon": "⚽",
-      "count": 133,
-      "word_count": 133,
+      "count": 121,
+      "word_count": 121,
       "level_distribution": {
-        "A1": 32,
-        "A2": 34,
-        "B1": 40,
-        "B2": 20,
-        "C1": 4,
+        "A1": 26,
+        "A2": 17,
+        "B1": 45,
+        "B2": 15,
+        "C1": 15,
         "C2": 3
       },
-      "sample_words": [
-        "aerobics",
-        "anchorman",
-        "archer",
-        "athlete",
-        "athletes",
-        "athletic",
-        "athleticism",
-        "athletics"
-      ]
+      "file": "data/sports_fitness.json"
     },
     {
       "id": "arts_literature",
@@ -691,26 +467,17 @@ window.CATEGORIES_INDEX = {
       "group": "leisure_transport",
       "group_name_zh": "出行与文体",
       "icon": "🎨",
-      "count": 222,
-      "word_count": 222,
+      "count": 207,
+      "word_count": 207,
       "level_distribution": {
-        "A1": 43,
-        "A2": 35,
-        "B1": 57,
-        "B2": 52,
-        "C1": 18,
-        "C2": 17
+        "A1": 36,
+        "A2": 26,
+        "B1": 60,
+        "B2": 35,
+        "C1": 34,
+        "C2": 16
       },
-      "sample_words": [
-        "'re",
-        "'s",
-        "abstracts",
-        "air",
-        "alternatives",
-        "applause",
-        "art",
-        "artist"
-      ]
+      "file": "data/arts_literature.json"
     },
     {
       "id": "entertainment_media",
@@ -719,26 +486,17 @@ window.CATEGORIES_INDEX = {
       "group": "leisure_transport",
       "group_name_zh": "出行与文体",
       "icon": "🎬",
-      "count": 150,
-      "word_count": 150,
+      "count": 142,
+      "word_count": 142,
       "level_distribution": {
-        "A1": 32,
-        "A2": 34,
-        "B1": 38,
-        "B2": 33,
-        "C1": 6,
-        "C2": 7
+        "A1": 31,
+        "A2": 27,
+        "B1": 35,
+        "B2": 24,
+        "C1": 16,
+        "C2": 9
       },
-      "sample_words": [
-        "actors",
-        "ad",
-        "advert",
-        "advertise",
-        "advertised",
-        "advertisement",
-        "advertisements",
-        "advertising"
-      ]
+      "file": "data/entertainment_media.json"
     },
     {
       "id": "medicine_healthcare",
@@ -747,26 +505,17 @@ window.CATEGORIES_INDEX = {
       "group": "leisure_transport",
       "group_name_zh": "出行与文体",
       "icon": "🏥",
-      "count": 695,
-      "word_count": 695,
+      "count": 665,
+      "word_count": 665,
       "level_distribution": {
-        "A1": 54,
-        "A2": 92,
-        "B1": 203,
-        "B2": 183,
-        "C1": 69,
-        "C2": 94
+        "A1": 62,
+        "A2": 85,
+        "B1": 177,
+        "B2": 149,
+        "C1": 112,
+        "C2": 80
       },
-      "sample_words": [
-        "absence",
-        "absorb",
-        "acoustic",
-        "acquired",
-        "actor",
-        "actual",
-        "acute",
-        "addiction"
-      ]
+      "file": "data/medicine_healthcare.json"
     },
     {
       "id": "education_learning",
@@ -775,26 +524,17 @@ window.CATEGORIES_INDEX = {
       "group": "education_work",
       "group_name_zh": "教育与职场",
       "icon": "🎓",
-      "count": 166,
-      "word_count": 166,
+      "count": 156,
+      "word_count": 156,
       "level_distribution": {
-        "A1": 35,
-        "A2": 32,
-        "B1": 58,
-        "B2": 32,
-        "C1": 5,
-        "C2": 4
+        "A1": 38,
+        "A2": 12,
+        "B1": 57,
+        "B2": 25,
+        "C1": 21,
+        "C2": 3
       },
-      "sample_words": [
-        "'m",
-        "academic",
-        "academic",
-        "academy",
-        "account",
-        "account",
-        "acquisitions",
-        "adviser"
-      ]
+      "file": "data/education_learning.json"
     },
     {
       "id": "work_career",
@@ -803,26 +543,17 @@ window.CATEGORIES_INDEX = {
       "group": "education_work",
       "group_name_zh": "教育与职场",
       "icon": "💼",
-      "count": 320,
-      "word_count": 320,
+      "count": 286,
+      "word_count": 286,
       "level_distribution": {
-        "A1": 50,
-        "A2": 44,
-        "B1": 97,
-        "B2": 96,
-        "C1": 10,
-        "C2": 23
+        "A1": 45,
+        "A2": 43,
+        "B1": 78,
+        "B2": 58,
+        "C1": 44,
+        "C2": 18
       },
-      "sample_words": [
-        "achievements",
-        "admission",
-        "agreed",
-        "agreement",
-        "agreements",
-        "airlines",
-        "analyzing",
-        "appointment"
-      ]
+      "file": "data/work_career.json"
     },
     {
       "id": "science_tech",
@@ -831,26 +562,17 @@ window.CATEGORIES_INDEX = {
       "group": "science_tech",
       "group_name_zh": "科技与数理",
       "icon": "💻",
-      "count": 62,
-      "word_count": 62,
+      "count": 57,
+      "word_count": 57,
       "level_distribution": {
-        "A1": 14,
-        "A2": 8,
-        "B1": 14,
-        "B2": 15,
-        "C1": 4,
+        "A1": 16,
+        "A2": 7,
+        "B1": 12,
+        "B2": 9,
+        "C1": 6,
         "C2": 7
       },
-      "sample_words": [
-        "acquires",
-        "act",
-        "act",
-        "ai",
-        "aim",
-        "aim",
-        "angsty",
-        "applications"
-      ]
+      "file": "data/science_tech.json"
     },
     {
       "id": "math_physics_chem",
@@ -859,26 +581,17 @@ window.CATEGORIES_INDEX = {
       "group": "science_tech",
       "group_name_zh": "科技与数理",
       "icon": "🔬",
-      "count": 449,
-      "word_count": 449,
+      "count": 428,
+      "word_count": 428,
       "level_distribution": {
         "A1": 28,
-        "A2": 57,
-        "B1": 138,
-        "B2": 149,
-        "C1": 36,
-        "C2": 41
+        "A2": 50,
+        "B1": 142,
+        "B2": 114,
+        "C1": 59,
+        "C2": 35
       },
-      "sample_words": [
-        "abstraction",
-        "accessibility",
-        "accident",
-        "acidity",
-        "acoustics",
-        "active",
-        "active",
-        "adhesion"
-      ]
+      "file": "data/math_physics_chem.json"
     },
     {
       "id": "communication_language",
@@ -887,26 +600,17 @@ window.CATEGORIES_INDEX = {
       "group": "core_language",
       "group_name_zh": "语言与核心表达",
       "icon": "💬",
-      "count": 3505,
-      "word_count": 3505,
+      "count": 3445,
+      "word_count": 3445,
       "level_distribution": {
-        "A1": 581,
-        "A2": 635,
-        "B1": 935,
-        "B2": 936,
-        "C1": 199,
-        "C2": 219
+        "A1": 663,
+        "A2": 540,
+        "B1": 1067,
+        "B2": 602,
+        "C1": 360,
+        "C2": 213
       },
-      "sample_words": [
-        "abbreviations",
-        "abnormalities",
-        "aborigine",
-        "abstract",
-        "abuse",
-        "abuses",
-        "accent",
-        "access"
-      ]
+      "file": "data/communication_language.json"
     },
     {
       "id": "core_verbs_actions",
@@ -915,54 +619,36 @@ window.CATEGORIES_INDEX = {
       "group": "core_language",
       "group_name_zh": "语言与核心表达",
       "icon": "⚡",
-      "count": 2355,
-      "word_count": 2355,
+      "count": 1828,
+      "word_count": 1828,
       "level_distribution": {
-        "A1": 295,
-        "A2": 439,
-        "B1": 690,
-        "B2": 610,
-        "C1": 146,
-        "C2": 175
+        "A1": 259,
+        "A2": 353,
+        "B1": 576,
+        "B2": 367,
+        "C1": 151,
+        "C2": 122
       },
-      "sample_words": [
-        "abandon",
-        "abandoned",
-        "abhor",
-        "abolished",
-        "abound",
-        "absorbed",
-        "absorbing",
-        "abused"
-      ]
+      "file": "data/core_verbs_actions.json"
     },
     {
       "id": "core_descriptors",
-      "name_en": "Core Descriptors & Logic",
-      "name_zh": "核心性状特征与程度逻辑",
+      "name_en": "Core Modifiers & Descriptors",
+      "name_zh": "通用高频性质状态修饰",
       "group": "core_language",
       "group_name_zh": "语言与核心表达",
       "icon": "✨",
-      "count": 2248,
-      "word_count": 2248,
+      "count": 2760,
+      "word_count": 2760,
       "level_distribution": {
-        "A1": 333,
-        "A2": 354,
-        "B1": 523,
-        "B2": 540,
-        "C1": 259,
-        "C2": 239
+        "A1": 173,
+        "A2": 160,
+        "B1": 525,
+        "B2": 1117,
+        "C1": 559,
+        "C2": 226
       },
-      "sample_words": [
-        "abandoned",
-        "abhorrent",
-        "abhorrently",
-        "able",
-        "abnormal",
-        "abnormally",
-        "aboriginal",
-        "above"
-      ]
+      "file": "data/core_descriptors.json"
     }
   ]
 };

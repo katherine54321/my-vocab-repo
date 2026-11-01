@@ -1,685 +1,703 @@
 [
   {
-    "id": "aubergine_noun",
+    "id": "aubergine",
     "word": "aubergine",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'әubәʒi:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aubergine-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aubergine&type=2",
     "definition_en": "n hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable\\nn egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow",
     "definition_zh": "n. 茄子",
     "examples": [
       {
-        "en": "A deep understanding of aubergine is beneficial in everyday life.",
-        "zh": "在相关语境中，'aubergine'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of aubergine is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 茄子具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "broccoli_noun",
+    "id": "broccoli",
     "word": "broccoli",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'brɒkәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/broccoli-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=broccoli&type=2",
     "definition_en": "n. plant with dense clusters of tight green flower buds\\nn. branched green undeveloped flower heads",
     "definition_zh": "n. 花椰菜",
     "examples": [
       {
-        "en": "A deep understanding of broccoli is beneficial in everyday life.",
-        "zh": "在相关语境中，'broccoli'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of broccoli is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 花椰菜具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "carrot_noun",
+    "id": "by-product",
+    "word": "by-product",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'baiprɔdʌkt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=by-product&type=2",
+    "definition_en": "n. a secondary and sometimes unexpected consequence\\nn. a product made during the manufacture of something else",
+    "definition_zh": "n. 副产品, 额外收获, 意外收获； 副产品",
+    "examples": [
+      {
+        "en": "A deep understanding of by-product is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 副产品, 额外收获, 意外收获具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "carrot",
     "word": "carrot",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'kærәt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carrot-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=carrot&type=2",
     "definition_en": "n. deep orange edible root of the cultivated carrot plant\\nn. perennial plant widely cultivated as an annual in many varieties for its long conical orange edible roots; temperate and tropical regions\\nn. orange root; important source of carotene\\nn. promise of reward as in \"carrot and stick\";",
     "definition_zh": "n. 胡萝卜； 胡萝卜",
     "examples": [
       {
-        "en": "A deep understanding of carrot is beneficial in everyday life.",
-        "zh": "在相关语境中，'carrot'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of carrot is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 胡萝卜具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "chili_noun",
+    "id": "chili",
     "word": "chili",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'tʃili/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chili-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chili&type=2",
     "definition_en": "n. ground beef and chili peppers or chili powder often with tomatoes and kidney beans\\nn. very hot and finely tapering pepper of special pungency",
     "definition_zh": "n. 干辣椒, 辣椒粉",
     "examples": [
       {
-        "en": "A deep understanding of chili is beneficial in everyday life.",
-        "zh": "在相关语境中，'chili'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of chili is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 干辣椒, 辣椒粉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "chips_noun",
-    "word": "chips",
+    "id": "chilli",
+    "word": "chilli",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "/tʃips/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chips-us.mp3",
-    "definition_en": "n strips of potato fried in deep fat\\nn a small fragment of something broken off from the whole\\nn a triangular wooden float attached to the end of a log line\\nn a piece of dried bovine dung\\nn a thin crisp slice of potato fried in deep fat\\nn a mark left after a small piece has been chopped or broken off of something\\nn a small disk-shaped counter used to represent money when gambling\\nn electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of electronic functions in an integrated circuit\\nn (golf) a low running approach shot\\nn the act of chipping something\\nv break off (a piece from a whole)\\nv cut a nick into\\nv play a chip shot\\nv form by chipping\\nv break a small piece off from",
-    "definition_zh": "n. 炸土豆条；小木片；（作赌注用的）圆形筹码；缺口（chip的复数形式）",
+    "phonetic": "/'tʃili/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chilli&type=2",
+    "definition_en": "n very hot and finely tapering pepper of special pungency",
+    "definition_zh": "n. 红辣椒",
     "examples": [
       {
-        "en": "A deep understanding of chips is beneficial in everyday life.",
-        "zh": "在相关语境中，'chips'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of chilli is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 红辣椒具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "crop_noun",
-    "word": "crop",
+    "id": "chips",
+    "word": "chips",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "/krɒp/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crop-us.mp3",
-    "definition_en": "n. the yield from plants in a single growing season\\nn. a cultivated plant that is grown commercially on a large scale\\nn. a collection of people or things appearing together\\nn. the output of something in a season",
-    "definition_zh": "n. 农作物, 产量, 平头； vt. 收割, 修剪, 种植； vi. 收获； 裁剪",
+    "phonetic": "/tʃips/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chips&type=2",
+    "definition_en": "n strips of potato fried in deep fat\\nn a small fragment of something broken off from the whole\\nn a triangular wooden float attached to the end of a log line\\nn a piece of dried bovine dung\\nn a thin crisp slice of potato fried in deep fat\\nn a mark left after a small piece has been chopped or broken off of something\\nn a small disk-shaped counter used to represent money when gambling\\nn electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of electronic functions in an integrated circuit\\nn (golf) a low running approach shot\\nn the act of chipping something\\nv break off (a piece from a whole)\\nv cut a nick into\\nv play a chip shot\\nv form by chipping\\nv break a small piece off from",
+    "definition_zh": "n. 炸土豆条；小木片；（作赌注用的）圆形筹码；缺口（chip的复数形式）",
     "examples": [
       {
-        "en": "A deep understanding of crop is beneficial in everyday life.",
-        "zh": "在相关语境中，'crop'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of chips is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 炸土豆条具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cucumber_noun",
-    "word": "cucumber",
+    "id": "crop",
+    "word": "crop",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "/'kju:kәmbә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cucumber-us.mp3",
-    "definition_en": "n. a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit\\nn. cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons",
-    "definition_zh": "n. 黄瓜； 黄瓜, 胡瓜",
+    "phonetic": "/krɒp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=crop&type=2",
+    "definition_en": "n. the yield from plants in a single growing season\\nn. a cultivated plant that is grown commercially on a large scale\\nn. a collection of people or things appearing together\\nn. the output of something in a season",
+    "definition_zh": "n. 农作物, 产量, 平头； vt. 收割, 修剪, 种植； vi. 收获； 裁剪",
     "examples": [
       {
-        "en": "A deep understanding of cucumber is beneficial in everyday life.",
-        "zh": "在相关语境中，'cucumber'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of crop is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 农作物, 产量, 平头具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "foodstuffs_noun",
+    "id": "cucumber",
+    "word": "cucumber",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'kju:kәmbә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cucumber&type=2",
+    "definition_en": "n. a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit\\nn. cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons",
+    "definition_zh": "n. 黄瓜； 黄瓜, 胡瓜",
+    "examples": [
+      {
+        "en": "A deep understanding of cucumber is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 黄瓜具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "foodstuffs",
     "word": "foodstuffs",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/foodstuffs-us.mp3",
+    "phonetic": "/foodstuffs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=foodstuffs&type=2",
     "definition_en": "n (usually plural) consumer goods sold by a grocer\\nn a substance that can be used or prepared for use as food",
     "definition_zh": "n. 食品；粮食（foodstuff的复数形式）",
     "examples": [
       {
-        "en": "A deep understanding of foodstuffs is beneficial in everyday life.",
-        "zh": "在相关语境中，'foodstuffs'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of foodstuffs is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 食品具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "gain_noun",
+    "id": "gain",
     "word": "gain",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/gein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gain-us.mp3",
-    "definition_en": "n. the amount by which the revenue of a business exceeds its cost of operating\\nv. obtain advantages, such as points, etc.\\nv. increase or develop\\nv. earn on some commercial or business transaction; earn as salary or wages",
-    "definition_zh": "n. 增益, 获得, 利润, 收获, 增加； vt. 得到, 增进, 赚到； vi. 获利, 增加； 增益",
-    "examples": [
-      {
-        "en": "A deep understanding of gain is beneficial in everyday life.",
-        "zh": "在相关语境中，'gain'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "gain_verb",
-    "word": "gain",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/gein/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gain-us.mp3",
-    "definition_en": "n. the amount by which the revenue of a business exceeds its cost of operating\\nv. obtain advantages, such as points, etc.\\nv. increase or develop\\nv. earn on some commercial or business transaction; earn as salary or wages",
-    "definition_zh": "n. 增益, 获得, 利润, 收获, 增加； vt. 得到, 增进, 赚到； vi. 获利, 增加； 增益",
-    "examples": [
-      {
-        "en": "Specialists actively gain practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'gain'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "garlic_noun",
-    "word": "garlic",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
+    "phonetic": "/gein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gain&type=2",
+    "definition_en": "n. the amount by which the revenue of a business exceeds its cost of operating\\nv. obtain advantages, such as points, etc.\\nv. increase or develop\\nv. earn on some commercial or business transaction; earn as salary or wages",
+    "definition_zh": "n. 增益, 获得, 利润, 收获, 增加； vt. 得到, 增进, 赚到； vi. 获利, 增加； 增益",
+    "examples": [
+      {
+        "en": "A deep understanding of gain is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 增益, 获得, 利润, 收获, 增加具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "garlic",
+    "word": "garlic",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
     "phonetic": "/'gɑ:lik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/garlic-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=garlic&type=2",
     "definition_en": "n. bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves\\nn. aromatic bulb used as seasoning",
     "definition_zh": "n. 大蒜； 大蒜",
     "examples": [
       {
-        "en": "A deep understanding of garlic is beneficial in everyday life.",
-        "zh": "在相关语境中，'garlic'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of garlic is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 大蒜具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "get_verb",
+    "id": "get",
     "word": "get",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "A1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/get/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/get-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=get&type=2",
     "definition_en": "n. a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\\nv. come into the possession of something concrete or abstract\\nv. cause to move; cause to be in a certain position or condition\\nv. succeed in catching or seizing, especially after a chase",
     "definition_zh": "vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上； vi. 到达, 成为, 变得； n. (网球等)救球, 生殖, 幼兽； 取得指令, 获取文件",
     "examples": [
       {
-        "en": "Specialists actively get practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'get'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of get is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "harvest_noun",
+    "id": "harvest",
     "word": "harvest",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'hɑ:vist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/harvest-us.mp3",
-    "definition_en": "n. the consequence of an effort or activity\\nn. the gathering of a ripened crop\\nn. the season for gathering crops\\nv. remove from a culture or a living or dead body, as for the purposes of transplantation",
-    "definition_zh": "n. 收获, 成果, 收获物, 收获期； v. 收割, 收获",
-    "examples": [
-      {
-        "en": "A deep understanding of harvest is beneficial in everyday life.",
-        "zh": "在相关语境中，'harvest'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "harvest_verb",
-    "word": "harvest",
-    "part_of_speech": "verb",
-    "level": "C1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'hɑ:vist/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/harvest-us.mp3",
-    "definition_en": "n. the consequence of an effort or activity\\nn. the gathering of a ripened crop\\nn. the season for gathering crops\\nv. remove from a culture or a living or dead body, as for the purposes of transplantation",
-    "definition_zh": "n. 收获, 成果, 收获物, 收获期； v. 收割, 收获",
-    "examples": [
-      {
-        "en": "Specialists actively harvest practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'harvest'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "harvested_verb",
-    "word": "harvested",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/ˈhɑ:vistid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/harvested-us.mp3",
-    "definition_en": "v gather, as of natural products\\nv remove from a culture or a living or dead body, as for the purposes of transplantation",
-    "definition_zh": "v. 收割, 收成( harvest的过去式和过去分词 ); 收到; 收割（庄稼）, 捕猎（动物、鱼）",
-    "examples": [
-      {
-        "en": "Specialists actively harvested practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'harvested'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "harvesting_verb",
-    "word": "harvesting",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'hɑ:vistiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/harvesting-us.mp3",
-    "definition_en": "n the gathering of a ripened crop\\nv gather, as of natural products\\nv remove from a culture or a living or dead body, as for the purposes of transplantation",
-    "definition_zh": "v. 收割；收获（harvest的ing形式）",
-    "examples": [
-      {
-        "en": "Specialists actively harvesting practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'harvesting'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "lettuce_noun",
-    "word": "lettuce",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "/'letis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lettuce-us.mp3",
-    "definition_en": "n. any of various plants of the genus Lactuca\\nn. leaves of any of various plants of Lactuca sativa",
-    "definition_zh": "n. 莴苣, 生菜, 纸币； 莴苣",
+    "phonetic": "/'hɑ:vist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=harvest&type=2",
+    "definition_en": "n. the consequence of an effort or activity\\nn. the gathering of a ripened crop\\nn. the season for gathering crops\\nv. remove from a culture or a living or dead body, as for the purposes of transplantation",
+    "definition_zh": "n. 收获, 成果, 收获物, 收获期； v. 收割, 收获",
     "examples": [
       {
-        "en": "A deep understanding of lettuce is beneficial in everyday life.",
-        "zh": "在相关语境中，'lettuce'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of harvest is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 收获, 成果, 收获物, 收获期具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "mushroom_noun",
-    "word": "mushroom",
+    "id": "harvested",
+    "word": "harvested",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "/'mʌʃrum/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mushroom-us.mp3",
-    "definition_en": "n. common name for an edible agaric (contrasting with the inedible toadstool)\\nn. mushrooms and related fleshy fungi (including toadstools, puffballs, morels, coral fungi, etc.)\\nn. any of various fleshy fungi of the subdivision Basidiomycota consisting of a cap at the end of a stem arising from an underground mycelium\\nn. a large cloud of rubble and dust shaped like a mushroom and rising into the sky after an explosion (especially of a nuclear bomb)",
-    "definition_zh": "n. 蘑菇形物, 蘑菇, 暴发户； vi. 迅速生长, 迅速增加, 采蘑菇； a. 蘑菇形的, 迅速生长的",
+    "phonetic": "/ˈhɑ:vistid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=harvested&type=2",
+    "definition_en": "v gather, as of natural products\\nv remove from a culture or a living or dead body, as for the purposes of transplantation",
+    "definition_zh": "v. 收割, 收成( harvest的过去式和过去分词 ); 收到; 收割（庄稼）, 捕猎（动物、鱼）",
     "examples": [
       {
-        "en": "A deep understanding of mushroom is beneficial in everyday life.",
-        "zh": "在相关语境中，'mushroom'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of harvested is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 收割, 收成( harvest的过去式和过去分词 ); 收到; 收割（庄稼）, 捕猎（动物、鱼）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "onion_noun",
+    "id": "harvesting",
+    "word": "harvesting",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'hɑ:vistiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=harvesting&type=2",
+    "definition_en": "n the gathering of a ripened crop\\nv gather, as of natural products\\nv remove from a culture or a living or dead body, as for the purposes of transplantation",
+    "definition_zh": "v. 收割；收获（harvest的ing形式）",
+    "examples": [
+      {
+        "en": "A deep understanding of harvesting is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 收割具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "lettuce",
+    "word": "lettuce",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'letis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lettuce&type=2",
+    "definition_en": "n. any of various plants of the genus Lactuca\\nn. leaves of any of various plants of Lactuca sativa",
+    "definition_zh": "n. 莴苣, 生菜, 纸币； 莴苣",
+    "examples": [
+      {
+        "en": "A deep understanding of lettuce is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 莴苣, 生菜, 纸币具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "mushroom",
+    "word": "mushroom",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'mʌʃrum/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mushroom&type=2",
+    "definition_en": "n. common name for an edible agaric (contrasting with the inedible toadstool)\\nn. mushrooms and related fleshy fungi (including toadstools, puffballs, morels, coral fungi, etc.)\\nn. any of various fleshy fungi of the subdivision Basidiomycota consisting of a cap at the end of a stem arising from an underground mycelium\\nn. a large cloud of rubble and dust shaped like a mushroom and rising into the sky after an explosion (especially of a nuclear bomb)",
+    "definition_zh": "n. 蘑菇形物, 蘑菇, 暴发户； vi. 迅速生长, 迅速增加, 采蘑菇； a. 蘑菇形的, 迅速生长的",
+    "examples": [
+      {
+        "en": "A deep understanding of mushroom is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 蘑菇形物, 蘑菇, 暴发户具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "onion",
     "word": "onion",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'ʌnjәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/onion-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=onion&type=2",
     "definition_en": "n. the bulb of an onion plant\\nn. bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb\\nn. an aromatic flavorful vegetable",
     "definition_zh": "n. 洋葱； vt. 因洋葱使掉泪",
     "examples": [
       {
-        "en": "A deep understanding of onion is beneficial in everyday life.",
-        "zh": "在相关语境中，'onion'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of onion is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 洋葱具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "pea_noun",
+    "id": "pea",
     "word": "pea",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/pi:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pea-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pea&type=2",
     "definition_en": "n. seed of a pea plant used for food\\nn. the fruit or seed of a pea plant\\nn. a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds",
     "definition_zh": "n. 豌豆, 似豌豆的东西",
     "examples": [
       {
-        "en": "A deep understanding of pea is beneficial in everyday life.",
-        "zh": "在相关语境中，'pea'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of pea is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 豌豆, 似豌豆的东西具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "peas_noun",
+    "id": "peas",
     "word": "peas",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peas-us.mp3",
+    "phonetic": "/peas/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=peas&type=2",
     "definition_en": "n seed of a pea plant used for food\\nn the fruit or seed of a pea plant\\nn a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds",
     "definition_zh": "n. 豌豆（pea的复数）",
     "examples": [
       {
-        "en": "A deep understanding of peas is beneficial in everyday life.",
-        "zh": "在相关语境中，'peas'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of peas is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 豌豆（pea的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "pepper_noun",
+    "id": "pepper",
     "word": "pepper",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'pepә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pepper-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pepper&type=2",
     "definition_en": "n. climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern Burma and Assam\\nn. pungent seasoning from the berry of the common pepper plant of East India; use whole or ground\\nn. sweet and hot varieties of fruits of plants of the genus Capsicum\\nv. add pepper to",
     "definition_zh": "n. 胡椒粉, 胡椒, 辣椒； 胡椒; 辣椒; 花椒",
     "examples": [
       {
-        "en": "A deep understanding of pepper is beneficial in everyday life.",
-        "zh": "在相关语境中，'pepper'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of pepper is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 胡椒粉, 胡椒, 辣椒具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "picked_verb",
+    "id": "picked",
     "word": "picked",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "A2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/pikt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/picked-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=picked&type=2",
     "definition_en": "v select carefully from a group\\nv look for and gather\\nv harass with constant criticism\\nv provoke\\nv remove in small bits\\nv remove unwanted substances from, such as feathers or pits\\nv pilfer or rob\\nv pay for something\\nv pull lightly but sharply with a plucking motion\\nv attack with or as if with a pickaxe of ice or rocky ground, for example\\nv hit lightly with a picking motion\\nv eat intermittently; take small bites of",
     "definition_zh": "a. 精选的, 采摘的, 已收获的, 截出的, 已清除的, 有尖头的, 多刺的",
     "examples": [
       {
-        "en": "Specialists actively picked practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'picked'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of picked is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 精选的, 采摘的, 已收获的, 截出的, 已清除的, 有尖头的, 多刺的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "potato_noun",
+    "id": "potato",
     "word": "potato",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/pә'teitәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/potato-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=potato&type=2",
     "definition_en": "n. an edible tuber native to South America; a staple food of Ireland\\nn. annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous",
     "definition_zh": "n. 马铃薯",
     "examples": [
       {
-        "en": "A deep understanding of potato is beneficial in everyday life.",
-        "zh": "在相关语境中，'potato'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of potato is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 马铃薯具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "potatoes_noun",
+    "id": "potatoes",
     "word": "potatoes",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/potatoes-us.mp3",
+    "phonetic": "/potatoes/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=potatoes&type=2",
     "definition_en": "n an edible tuber native to South America; a staple food of Ireland\\nn annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous",
     "definition_zh": "n. 马铃薯；土豆（potato的复数形式）",
     "examples": [
       {
-        "en": "A deep understanding of potatoes is beneficial in everyday life.",
-        "zh": "在相关语境中，'potatoes'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of potatoes is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 马铃薯具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "provisions_noun",
+    "id": "provisions",
     "word": "provisions",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/provisions-us.mp3",
+    "phonetic": "/provisions/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=provisions&type=2",
     "definition_en": "n a stock or supply of foods\\nn a stipulated condition\\nn the activity of supplying or providing something\\nn the cognitive process of thinking about what you will do in the event of something happening\\nn a store or supply of something (especially of food or clothing or arms)\\nv supply with provisions",
     "definition_zh": "n. 存粮, 给养, 口粮, 食物, 粮食； 食品, 粮食",
     "examples": [
       {
-        "en": "A deep understanding of provisions is beneficial in everyday life.",
-        "zh": "在相关语境中，'provisions'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of provisions is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 存粮, 给养, 口粮, 食物, 粮食具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "pumpkin_noun",
+    "id": "pumpkin",
     "word": "pumpkin",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'pʌmpkin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pumpkin-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pumpkin&type=2",
     "definition_en": "n. a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes\\nn. usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn",
     "definition_zh": "n. 南瓜",
     "examples": [
       {
-        "en": "A deep understanding of pumpkin is beneficial in everyday life.",
-        "zh": "在相关语境中，'pumpkin'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of pumpkin is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 南瓜具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "reap_verb",
+    "id": "radish",
+    "word": "radish",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'rædiʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=radish&type=2",
+    "definition_en": "n. pungent fleshy edible root\\nn. radish of Japan with a long hard durable root eaten raw or cooked\\nn. pungent edible root of any of various cultivated radish plants",
+    "definition_zh": "n. 小萝卜",
+    "examples": [
+      {
+        "en": "A deep understanding of radish is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 小萝卜具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "reap",
     "word": "reap",
-    "part_of_speech": "verb",
-    "level": "C1",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/ri:p/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reap-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=reap&type=2",
     "definition_en": "v. gather, as of natural products\\nv. get or derive",
     "definition_zh": "vt. 收割, 收获, 获得； vi. 收割, 得到报应",
     "examples": [
       {
-        "en": "Specialists actively reap practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'reap'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of reap is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 收割, 收获, 获得具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "salsa_noun",
+    "id": "salsa",
     "word": "salsa",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'sɑ:lsә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salsa-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=salsa&type=2",
     "definition_en": "n. spicy sauce of tomatoes and onions and chili peppers to accompany Mexican foods",
     "definition_zh": "n. 洋葱做的辣调味汁；萨尔萨舞曲",
     "examples": [
       {
-        "en": "A deep understanding of salsa is beneficial in everyday life.",
-        "zh": "在相关语境中，'salsa'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of salsa is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 洋葱做的辣调味汁具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "skins_noun",
+    "id": "skins",
     "word": "skins",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/skinz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skins-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=skins&type=2",
     "definition_en": "n a natural protective body covering and site of the sense of touch\\nn an outer surface (usually thin)\\nn body covering of a living animal\\nn a person's skin regarded as their life\\nn the rind of a fruit or vegetable\\nn a bag serving as a container for liquids; it is made from the hide of an animal\\nv climb awkwardly, as if by scrambling\\nv bruise, cut, or injure the skin or the surface of\\nv remove the bark of a tree\\nv strip the skin off",
     "definition_zh": "n. （美）连皮烤土豆；面板；皮囊；皮肤（skin的复数）",
     "examples": [
       {
-        "en": "A deep understanding of skins is beneficial in everyday life.",
-        "zh": "在相关语境中，'skins'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of skins is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. （美）连皮烤土豆具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "soybean_noun",
+    "id": "soybean",
     "word": "soybean",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'sɒibi:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soybean-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=soybean&type=2",
     "definition_en": "n a source of oil; used for forage and soil improvement and as food\\nn erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia\\nn the most highly proteinaceous vegetable known; the fruit of the soybean plant is used in a variety of foods and as fodder (especially as a replacement for animal protein)",
     "definition_zh": "n. 大豆； 大豆",
     "examples": [
       {
-        "en": "A deep understanding of soybean is beneficial in everyday life.",
-        "zh": "在相关语境中，'soybean'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of soybean is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 大豆具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "spinach_noun",
+    "id": "spinach",
     "word": "spinach",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'spinitʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spinach-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spinach&type=2",
     "definition_en": "n. southwestern Asian plant widely cultivated for its succulent edible dark green leaves\\nn. dark green leaves; eaten cooked or raw in salads",
     "definition_zh": "n. 菠菜, 货币, 胡说八道",
     "examples": [
       {
-        "en": "A deep understanding of spinach is beneficial in everyday life.",
-        "zh": "在相关语境中，'spinach'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of spinach is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 菠菜, 货币, 胡说八道具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "squash_noun",
+    "id": "squash",
     "word": "squash",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/skwɒʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/squash-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=squash&type=2",
     "definition_en": "n. any of numerous annual trailing plants of the genus Cucurbita grown for their fleshy edible fruits\\nn. edible fruit of a squash plant; eaten as a vegetable\\nn. a game played in an enclosed court by two or four players who strike the ball with long-handled rackets\\nv. to compress with violence, out of natural shape or condition",
     "definition_zh": "n. 挤压, 压碎的东西, 南瓜属植物, 拥挤的人群； vt. 压扁, 镇压, 压制； vi. 被压扁, 发溅泼声, 挤入",
     "examples": [
       {
-        "en": "A deep understanding of squash is beneficial in everyday life.",
-        "zh": "在相关语境中，'squash'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of squash is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 挤压, 压碎的东西, 南瓜属植物, 拥挤的人群具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "squash_verb",
-    "word": "squash",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/skwɒʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/squash-us.mp3",
-    "definition_en": "n. any of numerous annual trailing plants of the genus Cucurbita grown for their fleshy edible fruits\\nn. edible fruit of a squash plant; eaten as a vegetable\\nn. a game played in an enclosed court by two or four players who strike the ball with long-handled rackets\\nv. to compress with violence, out of natural shape or condition",
-    "definition_zh": "n. 挤压, 压碎的东西, 南瓜属植物, 拥挤的人群； vt. 压扁, 镇压, 压制； vi. 被压扁, 发溅泼声, 挤入",
-    "examples": [
-      {
-        "en": "Specialists actively squash practical solutions to ensure optimal results.",
-        "zh": "在相关语境中，'squash'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "tomato_noun",
+    "id": "tomato",
     "word": "tomato",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/tә'mɑ:tәu/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomato-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tomato&type=2",
     "definition_en": "n. mildly acid red or yellow pulpy fruit eaten as a vegetable\\nn. native to South America; widely cultivated in many varieties",
     "definition_zh": "n. 番茄, 西红柿",
     "examples": [
       {
-        "en": "A deep understanding of tomato is beneficial in everyday life.",
-        "zh": "在相关语境中，'tomato'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of tomato is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 番茄, 西红柿具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "truck_noun",
+    "id": "truck",
     "word": "truck",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/trʌk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/truck-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=truck&type=2",
     "definition_en": "n. an automotive vehicle suitable for hauling\\nv. convey (goods etc.) by truck",
     "definition_zh": "n. 卡车, 货车, 对...进行交易, 来往, 实物工资, (供应市场的)蔬菜, 废物, 废话； vt. 对...进行交易, 交往, 以卡车运输； vi. 驾驶卡车, 以物易物",
     "examples": [
       {
-        "en": "A deep understanding of truck is beneficial in everyday life.",
-        "zh": "在相关语境中，'truck'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of truck is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 卡车, 货车, 对...进行交易, 来往, 实物工资, (供应市场的)蔬菜, 废物, 废话具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "vegetable_noun",
+    "id": "turnip",
+    "word": "turnip",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'tә:nip/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=turnip&type=2",
+    "definition_en": "n. widely cultivated plant having a large fleshy edible white or yellow root\\nn. root of any of several members of the mustard family",
+    "definition_zh": "n. 芜菁, 芜菁甘蓝； 芜菁, 萝卜",
+    "examples": [
+      {
+        "en": "A deep understanding of turnip is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 芜菁, 芜菁甘蓝具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "vegetable",
     "word": "vegetable",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
     "phonetic": "/'vedʒәtәbl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetable-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vegetable&type=2",
     "definition_en": "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\\nn. any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
     "definition_zh": "n. 蔬菜, 植物, 无精打采之人； a. 蔬菜的, 植物的",
     "examples": [
       {
-        "en": "A deep understanding of vegetable is beneficial in everyday life.",
-        "zh": "在相关语境中，'vegetable'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of vegetable is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 蔬菜, 植物, 无精打采之人具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "vegetables_noun",
+    "id": "vegetables",
     "word": "vegetables",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vegetables-us.mp3",
+    "phonetic": "/vegetables/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vegetables&type=2",
     "definition_en": "n edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\\nn any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
     "definition_zh": "n. 菜类；蔬菜（vegetable的复数形式）",
     "examples": [
       {
-        "en": "A deep understanding of vegetables is beneficial in everyday life.",
-        "zh": "在相关语境中，'vegetables'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of vegetables is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 菜类具有重要的表达意义。"
       }
     ]
   }

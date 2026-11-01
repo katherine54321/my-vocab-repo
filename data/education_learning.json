@@ -1,2989 +1,2809 @@
 [
   {
-    "id": "'m_noun",
+    "id": "'m",
     "word": "'m",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/'m-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio='m&type=2",
     "definition_en": "Denoting 'm; widely used in Education & Academia.",
     "definition_zh": "'m（学术教育与学习研究相关词汇）",
     "examples": [
       {
-        "en": "Mastering this academic 'm is essential for future research.",
-        "zh": "在相关语境中，''m'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of 'm is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，'m（学术教育与学习研究相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "academic_adjective",
-    "word": "academic",
-    "part_of_speech": "adjective",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/.ækә'demik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/academic-us.mp3",
-    "definition_en": "a. associated with academia or an academy\\ns. hypothetical or theoretical and not expected to produce an immediate or practical result\\ns. marked by a narrow focus on or display of learning especially its trivial aspects",
-    "definition_zh": "a. 学院的, 学术的, 不切实际的； n. 大学生, 大学教师, 学者, 学会会员",
-    "examples": [
-      {
-        "en": "Professors encourage students to academic foundational concepts thoroughly.",
-        "zh": "在相关语境中，'academic'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "academic_noun",
+    "id": "academic",
     "word": "academic",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/.ækә'demik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/academic-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=academic&type=2",
     "definition_en": "a. associated with academia or an academy\\ns. hypothetical or theoretical and not expected to produce an immediate or practical result\\ns. marked by a narrow focus on or display of learning especially its trivial aspects",
     "definition_zh": "a. 学院的, 学术的, 不切实际的； n. 大学生, 大学教师, 学者, 学会会员",
     "examples": [
       {
-        "en": "Mastering this academic academic is essential for future research.",
-        "zh": "在相关语境中，'academic'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of academic is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 学院的, 学术的, 不切实际的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "academy_noun",
+    "id": "academy",
     "word": "academy",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ә'kædәmi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/academy-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=academy&type=2",
     "definition_en": "n. a secondary school (usually private)\\nn. an institution for the advancement of art or science or literature\\nn. a school for special training\\nn. a learned establishment for the advancement of knowledge",
     "definition_zh": "n. 学院, 院校, 学会",
     "examples": [
       {
-        "en": "Mastering this academic academy is essential for future research.",
-        "zh": "在相关语境中，'academy'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of academy is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学院, 院校, 学会具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "account_noun",
+    "id": "account",
     "word": "account",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ә'kaunt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/account-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=account&type=2",
     "definition_en": "n. a formal contractual relationship established to provide for regular banking or brokerage or business services\\nn. importance or value\\nn. a statement of recent transactions and the resulting balance\\nn. the quality of taking advantage",
     "definition_zh": "n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目； vi. 报帐, 解释, 导致, 报偿, 占, 杀死； vt. 认为； 帐户, 帐号",
     "examples": [
       {
-        "en": "Mastering this academic account is essential for future research.",
-        "zh": "在相关语境中，'account'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of account is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "account_verb",
-    "word": "account",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/ә'kaunt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/account-us.mp3",
-    "definition_en": "n. a formal contractual relationship established to provide for regular banking or brokerage or business services\\nn. importance or value\\nn. a statement of recent transactions and the resulting balance\\nn. the quality of taking advantage",
-    "definition_zh": "n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目； vi. 报帐, 解释, 导致, 报偿, 占, 杀死； vt. 认为； 帐户, 帐号",
-    "examples": [
-      {
-        "en": "Professors encourage students to account foundational concepts thoroughly.",
-        "zh": "在相关语境中，'account'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "acquisitions_noun",
+    "id": "acquisitions",
     "word": "acquisitions",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ˌækwiˈziʃənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acquisitions-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=acquisitions&type=2",
     "definition_en": "n. the act of contracting or assuming or acquiring possession of something\\nn. something acquired\\nn. the cognitive process of acquiring skill or knowledge",
     "definition_zh": "n. 获得( acquisition的复数形式 ); 获得者; （企业的）合并; （图书馆通过采购、交换赠阅等）图书资料的获得",
     "examples": [
       {
-        "en": "Mastering this academic acquisitions is essential for future research.",
-        "zh": "在相关语境中，'acquisitions'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of acquisitions is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 获得( acquisition的复数形式 ); 获得者; （企业的）合并; （图书馆通过采购、交换赠阅等）图书资料的获得具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "adviser_noun",
+    "id": "adviser",
     "word": "adviser",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/әd'vaizә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adviser-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=adviser&type=2",
     "definition_en": "n. an expert who gives advice",
     "definition_zh": "n. 顾问, 劝告者, 指导教师； 顾问, 劝告者",
     "examples": [
       {
-        "en": "Mastering this academic adviser is essential for future research.",
-        "zh": "在相关语境中，'adviser'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of adviser is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 顾问, 劝告者, 指导教师具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "advisers_noun",
+    "id": "advisers",
     "word": "advisers",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/əd'vaɪzəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/advisers-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=advisers&type=2",
     "definition_en": "n. an expert who gives advice",
     "definition_zh": "n. 顾问, 劝告者( adviser的复数形式 ); <美>（指导大学新生学科问题等的）指导教授",
     "examples": [
       {
-        "en": "Mastering this academic advisers is essential for future research.",
-        "zh": "在相关语境中，'advisers'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of advisers is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 顾问, 劝告者( adviser的复数形式 ); <美>（指导大学新生学科问题等的）指导教授具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "advisor_noun",
+    "id": "advisor",
     "word": "advisor",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/әd'vaizә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/advisor-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=advisor&type=2",
     "definition_en": "n an expert who gives advice",
     "definition_zh": "n. 顾问, 劝告者, 指导教师",
     "examples": [
       {
-        "en": "Mastering this academic advisor is essential for future research.",
-        "zh": "在相关语境中，'advisor'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of advisor is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 顾问, 劝告者, 指导教师具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "alumni_noun",
+    "id": "alumni",
     "word": "alumni",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ә'lʌmni/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alumni-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=alumni&type=2",
     "definition_en": "n a person who has received a degree from a school (high school or college or university)",
     "definition_zh": "pl. 男毕业生, 男校友",
     "examples": [
       {
-        "en": "Mastering this academic alumni is essential for future research.",
-        "zh": "在相关语境中，'alumni'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of alumni is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，pl. 男毕业生, 男校友具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "assignment_noun",
+    "id": "announcer",
+    "word": "announcer",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/ә'naunsә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=announcer&type=2",
+    "definition_en": "n. someone who proclaims a message publicly\\nn. reads news, commercials on radio or television",
+    "definition_zh": "n. 节目报告员, 宣告者",
+    "examples": [
+      {
+        "en": "A deep understanding of announcer is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 节目报告员, 宣告者具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "assignment",
     "word": "assignment",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ә'sainmәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assignment-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=assignment&type=2",
     "definition_en": "n. a duty that you are assigned to perform (especially in the armed forces)\\nn. the instrument by which a claim or right or interest or property is transferred from one person to another\\nn. the act of distributing something to designated places or persons\\nn. an undertaking that you have been assigned to do (as by an instructor)",
     "definition_zh": "n. 分配, 功课, 任务, 转让, 归因, 陈述； 赋值",
     "examples": [
       {
-        "en": "Mastering this academic assignment is essential for future research.",
-        "zh": "在相关语境中，'assignment'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of assignment is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 分配, 功课, 任务, 转让, 归因, 陈述具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "assignments_noun",
+    "id": "assignments",
     "word": "assignments",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assignments-us.mp3",
+    "phonetic": "/assignments/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=assignments&type=2",
     "definition_en": "n a duty that you are assigned to perform (especially in the armed forces)\\nn the instrument by which a claim or right or interest or property is transferred from one person to another\\nn the act of distributing something to designated places or persons\\nn (law) a transfer of property by deed of conveyance\\nn an undertaking that you have been assigned to do (as by an instructor)\\nn the act of putting a person into a non-elective position",
     "definition_zh": "n. 分配；作业（assignment的复数形式）",
     "examples": [
       {
-        "en": "Mastering this academic assignments is essential for future research.",
-        "zh": "在相关语境中，'assignments'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of assignments is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 分配具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "auditors_noun",
+    "id": "auditors",
     "word": "auditors",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'ɔ:dɪtəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/auditors-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=auditors&type=2",
     "definition_en": "n. someone who listens attentively\\nn. a student who attends a course but does not take it for credit\\nn. a qualified accountant who inspects the accounting records and practices of a business or other organization",
     "definition_zh": "n. 审计员, 稽核员( auditor的复数形式 ); （大学课程的）旁听生",
     "examples": [
       {
-        "en": "Mastering this academic auditors is essential for future research.",
-        "zh": "在相关语境中，'auditors'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of auditors is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 审计员, 稽核员( auditor的复数形式 ); （大学课程的）旁听生具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "beginner_noun",
+    "id": "bachelor",
+    "word": "bachelor",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'bætʃәlә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bachelor&type=2",
+    "definition_en": "n. a man who has never been married\\nv. lead a bachelor's existence",
+    "definition_zh": "n. 单身汉, 学士； 学士, 单身汉",
+    "examples": [
+      {
+        "en": "A deep understanding of bachelor is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 单身汉, 学士具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "beginner",
     "word": "beginner",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/bi'ginә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beginner-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=beginner&type=2",
     "definition_en": "n someone new to a field or activity\\nn a person who founds or establishes some institution",
     "definition_zh": "n. 初学者",
     "examples": [
       {
-        "en": "Mastering this academic beginner is essential for future research.",
-        "zh": "在相关语境中，'beginner'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of beginner is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 初学者具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "campus_noun",
+    "id": "campus",
     "word": "campus",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'kæmpәs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/campus-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=campus&type=2",
     "definition_en": "n. a field on which the buildings of a university are situated",
     "definition_zh": "n. 校园, 大学生活",
     "examples": [
       {
-        "en": "Mastering this academic campus is essential for future research.",
-        "zh": "在相关语境中，'campus'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of campus is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 校园, 大学生活具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "candidates_noun",
+    "id": "candidates",
     "word": "candidates",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'kændɪdeɪts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/candidates-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=candidates&type=2",
     "definition_en": "n. a politician who is running for public office\\nn. someone who is considered for something (for an office or prize or honor etc.)",
     "definition_zh": "n. 报考者( candidate的复数形式 ); 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者",
     "examples": [
       {
-        "en": "Mastering this academic candidates is essential for future research.",
-        "zh": "在相关语境中，'candidates'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of candidates is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 报考者( candidate的复数形式 ); 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "catalog_noun",
+    "id": "catalog",
     "word": "catalog",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'kætәlɒg/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/catalog-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=catalog&type=2",
     "definition_en": "n. a book or pamphlet containing an enumeration of things\\nn. a complete list of things; usually arranged systematically",
     "definition_zh": "n. 目录, 大学概况手册； vt. 编目录； 目录; 编目",
     "examples": [
       {
-        "en": "Mastering this academic catalog is essential for future research.",
-        "zh": "在相关语境中，'catalog'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of catalog is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 目录, 大学概况手册具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "catalogue_noun",
+    "id": "catalogue",
     "word": "catalogue",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'kætәlɒg/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/catalogue-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=catalogue&type=2",
     "definition_en": "v. make an itemized list or catalog of; classify\\nv. make a catalogue, compile a catalogue",
     "definition_zh": "n. 目录, 大学情况一览； vt. 编入目录",
     "examples": [
       {
-        "en": "Mastering this academic catalogue is essential for future research.",
-        "zh": "在相关语境中，'catalogue'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of catalogue is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 目录, 大学情况一览具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "chancellor_noun",
+    "id": "chancellor",
     "word": "chancellor",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'tʃɑ:nsәlә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chancellor-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chancellor&type=2",
     "definition_en": "n. the person who is head of state (in several countries)\\nn. the honorary or titular head of a university",
     "definition_zh": "n. 大臣, 总理, 首相, 大使馆/领事馆的一等秘书, 司法官, 大学校长",
     "examples": [
       {
-        "en": "Mastering this academic chancellor is essential for future research.",
-        "zh": "在相关语境中，'chancellor'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of chancellor is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 大臣, 总理, 首相, 大使馆/领事馆的一等秘书, 司法官, 大学校长具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "classroom_noun",
+    "id": "classroom",
     "word": "classroom",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'klɑ:sru:m/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/classroom-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=classroom&type=2",
     "definition_en": "n. a room in a school where lessons take place",
     "definition_zh": "n. 教室",
     "examples": [
       {
-        "en": "Mastering this academic classroom is essential for future research.",
-        "zh": "在相关语境中，'classroom'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of classroom is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教室具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "classrooms_noun",
+    "id": "classrooms",
     "word": "classrooms",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/k'læsru:mz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/classrooms-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=classrooms&type=2",
     "definition_en": "n. a room in a school where lessons take place",
     "definition_zh": "n. 教室, 课堂( classroom的复数形式 )",
     "examples": [
       {
-        "en": "Mastering this academic classrooms is essential for future research.",
-        "zh": "在相关语境中，'classrooms'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of classrooms is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教室, 课堂( classroom的复数形式 )具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "college_noun",
+    "id": "college",
     "word": "college",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'kɒlidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/college-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=college&type=2",
     "definition_en": "n. the body of faculty and students of a college\\nn. an institution of higher education created to educate and grant degrees; often a part of a university\\nn. a complex of buildings in which an institution of higher education is housed",
     "definition_zh": "n. 学院, 大学, 学会",
     "examples": [
       {
-        "en": "Mastering this academic college is essential for future research.",
-        "zh": "在相关语境中，'college'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of college is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学院, 大学, 学会具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "colleges_noun",
+    "id": "colleges",
     "word": "colleges",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/colleges-us.mp3",
+    "phonetic": "/colleges/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=colleges&type=2",
     "definition_en": "n the body of faculty and students of a college\\nn an institution of higher education created to educate and grant degrees; often a part of a university\\nn a complex of buildings in which an institution of higher education is housed",
     "definition_zh": "n. 专科学院（college复数形式）",
     "examples": [
       {
-        "en": "Mastering this academic colleges is essential for future research.",
-        "zh": "在相关语境中，'colleges'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of colleges is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 专科学院（college复数形式）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "criticisms_noun",
+    "id": "commence",
+    "word": "commence",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/kә'mens/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=commence&type=2",
+    "definition_en": "v take the first step or steps in carrying out an action\\nv set in motion, cause to start\\nv get off the ground",
+    "definition_zh": "v. (使)开始, 得学位",
+    "examples": [
+      {
+        "en": "A deep understanding of commence is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. (使)开始, 得学位具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "criticisms",
     "word": "criticisms",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/k'rɪtɪsɪzəmz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/criticisms-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=criticisms&type=2",
     "definition_en": "n. disapproval expressed by pointing out faults or shortcomings\\nn. a serious examination and judgment of something\\nn. a written evaluation of a work of literature",
     "definition_zh": "n. 批评( criticism的复数形式 ); 批判; 评论; 评论文章",
     "examples": [
       {
-        "en": "Mastering this academic criticisms is essential for future research.",
-        "zh": "在相关语境中，'criticisms'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of criticisms is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 批评( criticism的复数形式 ); 批判; 评论; 评论文章具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "curricula_noun",
+    "id": "critique",
+    "word": "critique",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/kri'ti:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=critique&type=2",
+    "definition_en": "n an essay or article that gives a critical evaluation (as of a book or play)\\nn a serious examination and judgment of something\\nv appraise critically",
+    "definition_zh": "n. 评论文章, 评论",
+    "examples": [
+      {
+        "en": "A deep understanding of critique is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 评论文章, 评论具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "curricula",
     "word": "curricula",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/kә'rikjulә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/curricula-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=curricula&type=2",
     "definition_en": "n an integrated course of academic studies",
     "definition_zh": "n. 课程",
     "examples": [
       {
-        "en": "Mastering this academic curricula is essential for future research.",
-        "zh": "在相关语境中，'curricula'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of curricula is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 课程具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "curriculum_noun",
+    "id": "curriculum",
     "word": "curriculum",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/kә'rikjulәm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/curriculum-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=curriculum&type=2",
     "definition_en": "n an integrated course of academic studies",
     "definition_zh": "n. 课程； 课程, 学程",
     "examples": [
       {
-        "en": "Mastering this academic curriculum is essential for future research.",
-        "zh": "在相关语境中，'curriculum'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of curriculum is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 课程具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cyberschool_noun",
+    "id": "cyberschool",
     "word": "cyberschool",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/cyberschool/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cyberschool-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cyberschool&type=2",
     "definition_en": "Denoting cyberschool; widely used in Education & Academia.",
     "definition_zh": "cyberschool（学术教育与学习研究相关词汇）",
     "examples": [
       {
-        "en": "Mastering this academic cyberschool is essential for future research.",
-        "zh": "在相关语境中，'cyberschool'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cyberschool is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，cyberschool（学术教育与学习研究相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "degree_noun",
+    "id": "dean",
+    "word": "dean",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/di:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dean&type=2",
+    "definition_en": "n. an administrator in charge of a division of a university or college\\nn. United States film actor whose moody rebellious roles made him a cult figure (1931-1955)\\nn. a man who is the senior member of a group\\nn. (Roman Catholic Church) the head of the College of Cardinals",
+    "definition_zh": "n. 院长, 主持牧师； 外交团长, 学院院长, 教务长",
+    "examples": [
+      {
+        "en": "A deep understanding of dean is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 院长, 主持牧师具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "degree",
     "word": "degree",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/di'gri:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/degree-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=degree&type=2",
     "definition_en": "n. a position on a scale of intensity or amount or quality\\nn. a specific identifiable position in a continuum or series or especially in a process\\nn. a measure for arcs and angles\\nn. the highest power of a term or variable",
     "definition_zh": "n. 程度, 度数, 学位, 度； 度, 程度",
     "examples": [
       {
-        "en": "Mastering this academic degree is essential for future research.",
-        "zh": "在相关语境中，'degree'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of degree is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 程度, 度数, 学位, 度具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "degree_adjective",
-    "word": "degree",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/di'gri:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/degree-us.mp3",
-    "definition_en": "n. a position on a scale of intensity or amount or quality\\nn. a specific identifiable position in a continuum or series or especially in a process\\nn. a measure for arcs and angles\\nn. the highest power of a term or variable",
-    "definition_zh": "n. 程度, 度数, 学位, 度； 度, 程度",
-    "examples": [
-      {
-        "en": "Professors encourage students to degree foundational concepts thoroughly.",
-        "zh": "在相关语境中，'degree'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "demonstration_noun",
+    "id": "demonstration",
     "word": "demonstration",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/.demәn'streiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/demonstration-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=demonstration&type=2",
     "definition_en": "n. a show of military force or preparedness\\nn. a public display of group feelings (usually of a political nature)\\nn. proof by a process of argument or a series of proposition proving an asserted conclusion\\nn. a visual presentation showing how something works",
     "definition_zh": "n. 示范, 实证； 示教, 实物教授",
     "examples": [
       {
-        "en": "Mastering this academic demonstration is essential for future research.",
-        "zh": "在相关语境中，'demonstration'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of demonstration is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 示范, 实证具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "departments_noun",
+    "id": "departments",
     "word": "departments",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/dɪ'pɑ:tmənts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/departments-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=departments&type=2",
     "definition_en": "n. a specialized division of a large organization\\nn. the territorial and administrative division of some countries (such as France)\\nn. a specialized sphere of knowledge",
     "definition_zh": "n. 部( department的复数形式 ); （任何事物的）部分; （企业单位负责特定活动的、零售商店中专售某类商品的）部门; （学校、学术机构等的）系",
     "examples": [
       {
-        "en": "Mastering this academic departments is essential for future research.",
-        "zh": "在相关语境中，'departments'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of departments is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 部( department的复数形式 ); （任何事物的）部分; （企业单位负责特定活动的、零售商店中专售某类商品的）部门; （学校、学术机构等的）系具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "diploma_noun",
+    "id": "diploma",
     "word": "diploma",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/di'plәumә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diploma-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=diploma&type=2",
     "definition_en": "n. a document certifying the successful completion of a course of study",
     "definition_zh": "n. 文凭, 毕业证书； 文凭",
     "examples": [
       {
-        "en": "Mastering this academic diploma is essential for future research.",
-        "zh": "在相关语境中，'diploma'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of diploma is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 文凭, 毕业证书具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "doctor_noun",
+    "id": "dissertation",
+    "word": "dissertation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/.disә'teiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dissertation&type=2",
+    "definition_en": "n. a treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree",
+    "definition_zh": "n. 论文",
+    "examples": [
+      {
+        "en": "A deep understanding of dissertation is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 论文具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "doctor",
     "word": "doctor",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'dɒktә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctor-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=doctor&type=2",
     "definition_en": "n. a licensed medical practitioner\\nn. children take the roles of physician or patient or nurse and pretend they are at the physician's office\\nn. a person who holds Ph.D. degree (or the equivalent) from an academic institution\\nv. give medical treatment to",
     "definition_zh": "n. 医生, 博士； vt. 授以博士学位, 诊断, 修改； vi. 行医",
     "examples": [
       {
-        "en": "Mastering this academic doctor is essential for future research.",
-        "zh": "在相关语境中，'doctor'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of doctor is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 医生, 博士具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "doctoral_adjective",
+    "id": "doctoral",
     "word": "doctoral",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'dɒktәrәl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctoral-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=doctoral&type=2",
     "definition_en": "a. of or relating to a doctor or doctorate",
     "definition_zh": "a. 博士的",
     "examples": [
       {
-        "en": "Professors encourage students to doctoral foundational concepts thoroughly.",
-        "zh": "在相关语境中，'doctoral'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of doctoral is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 博士的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "dropout_noun",
+    "id": "dropout",
     "word": "dropout",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'drɒpaut/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dropout-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dropout&type=2",
     "definition_en": "n. someone who quits school before graduation\\nn. someone who withdraws from a social group or environment",
     "definition_zh": "n. 退学学生, 中途退学； 离去",
     "examples": [
       {
-        "en": "Mastering this academic dropout is essential for future research.",
-        "zh": "在相关语境中，'dropout'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of dropout is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 退学学生, 中途退学具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "elective_adjective",
+    "id": "elective",
     "word": "elective",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/i'lektiv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elective-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=elective&type=2",
     "definition_en": "a. subject to popular election\\ns. not compulsory",
     "definition_zh": "a. 选举的, 根据选举的, 选修的； n. 选修课程",
     "examples": [
       {
-        "en": "Professors encourage students to elective foundational concepts thoroughly.",
-        "zh": "在相关语境中，'elective'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of elective is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 选举的, 根据选举的, 选修的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "essays_noun",
+    "id": "essays",
     "word": "essays",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ˈeseiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/essays-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=essays&type=2",
     "definition_en": "pl.  of Essay",
     "definition_zh": "n. 散文( essay的名词复数 ); （作为课程作业, 学生写的）文章; 企图; （用来刊登的）论说文",
     "examples": [
       {
-        "en": "Mastering this academic essays is essential for future research.",
-        "zh": "在相关语境中，'essays'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of essays is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 散文( essay的名词复数 ); （作为课程作业, 学生写的）文章; 企图; （用来刊登的）论说文具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "exam_noun",
+    "id": "exam",
     "word": "exam",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ig'zæm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/exam-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=exam&type=2",
     "definition_en": "n a set of questions or exercises evaluating skill or knowledge",
     "definition_zh": "n. 考试, 测验",
     "examples": [
       {
-        "en": "Mastering this academic exam is essential for future research.",
-        "zh": "在相关语境中，'exam'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of exam is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 考试, 测验具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "examination_noun",
+    "id": "examination",
     "word": "examination",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ig.zæmi'neiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/examination-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=examination&type=2",
     "definition_en": "n. the act of examining something closely (as for mistakes)\\nn. a set of questions or exercises evaluating skill or knowledge\\nn. the act of giving students or candidates a test (as by questions) to determine what they know or have learned",
     "definition_zh": "n. 考试, 测验, 审查； 检查, 诊察",
     "examples": [
       {
-        "en": "Mastering this academic examination is essential for future research.",
-        "zh": "在相关语境中，'examination'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of examination is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 考试, 测验, 审查具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "examinations_noun",
+    "id": "examinations",
     "word": "examinations",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/iɡˌzæmiˈneiʃənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/examinations-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=examinations&type=2",
     "definition_en": "n. the act of examining something closely (as for mistakes)\\nn. a set of questions or exercises evaluating skill or knowledge\\nn. formal systematic questioning",
     "definition_zh": "n. 检查( examination的复数形式 ); 考试; 考查; 试题",
     "examples": [
       {
-        "en": "Mastering this academic examinations is essential for future research.",
-        "zh": "在相关语境中，'examinations'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of examinations is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 检查( examination的复数形式 ); 考试; 考查; 试题具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "examine_verb",
+    "id": "examine",
     "word": "examine",
-    "part_of_speech": "verb",
-    "level": "B1",
+    "part_of_speech": "noun",
+    "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ig'zæmin/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/examine-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=examine&type=2",
     "definition_en": "v. observe, check out, and look over carefully or inspect\\nv. question closely",
     "definition_zh": "v. 检查, 调查, 考试",
     "examples": [
       {
-        "en": "Professors encourage students to examine foundational concepts thoroughly.",
-        "zh": "在相关语境中，'examine'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of examine is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 检查, 调查, 考试具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "examinee_noun",
+    "id": "examinee",
     "word": "examinee",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ig.zæmi'ni:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/examinee-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=examinee&type=2",
     "definition_en": "n someone who is tested (as by an intelligence test or an academic examination)",
     "definition_zh": "n. 受试人, 应试者； 受审人, 接受讯问者, 接受考试者",
     "examples": [
       {
-        "en": "Mastering this academic examinee is essential for future research.",
-        "zh": "在相关语境中，'examinee'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of examinee is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 受试人, 应试者具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "examines_verb",
+    "id": "examines",
     "word": "examines",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/iɡˈzæminz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/examines-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=examines&type=2",
     "definition_en": "v consider in detail and subject to an analysis in order to discover essential features or meaning\\nv observe, check out, and look over carefully or inspect\\nv question or examine thoroughly and closely\\nv question closely\\nv put to the test, as for its quality, or give experimental use to",
     "definition_zh": "v. 仔细检查( examine的第三人称单数 ); 考试; 审查",
     "examples": [
       {
-        "en": "Professors encourage students to examines foundational concepts thoroughly.",
-        "zh": "在相关语境中，'examines'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of examines is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 仔细检查( examine的第三人称单数 ); 考试; 审查具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "examining_verb",
+    "id": "examining",
     "word": "examining",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/examining-us.mp3",
+    "phonetic": "/examining/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=examining&type=2",
     "definition_en": "v consider in detail and subject to an analysis in order to discover essential features or meaning\\nv observe, check out, and look over carefully or inspect\\nv question or examine thoroughly and closely\\nv question closely\\nv put to the test, as for its quality, or give experimental use to",
     "definition_zh": "审查的, 审讯的, 考试的",
     "examples": [
       {
-        "en": "Professors encourage students to examining foundational concepts thoroughly.",
-        "zh": "在相关语境中，'examining'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of examining is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，审查的, 审讯的, 考试的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "faculty_noun",
+    "id": "faculty",
     "word": "faculty",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'fækәlti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/faculty-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=faculty&type=2",
     "definition_en": "n. one of the inherent cognitive or perceptual powers of the mind",
     "definition_zh": "n. 才能, 能力, 全体教员, (大学的)系； 能力, 院系",
     "examples": [
       {
-        "en": "Mastering this academic faculty is essential for future research.",
-        "zh": "在相关语境中，'faculty'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of faculty is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 才能, 能力, 全体教员, (大学的)系具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "final_adjective",
-    "word": "final",
-    "part_of_speech": "adjective",
-    "level": "A2",
+    "id": "fellowship",
+    "word": "fellowship",
+    "part_of_speech": "noun",
+    "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'fainl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/final-us.mp3",
-    "definition_en": "n. the final match between the winners of all previous matches in an elimination tournament\\ns. conclusive in a process or progression\\ns. not to be altered or undone",
-    "definition_zh": "n. 期末考试, 结局, 决赛； a. 最后的, 终极的, 决定性的",
+    "phonetic": "/'felәuʃip/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fellowship&type=2",
+    "definition_en": "n. money granted (by a university or foundation or other agency) for advanced study or research",
+    "definition_zh": "n. 伙伴关系, 共同参与, 团体, 奖学金, 友谊； 合伙关系, 研究员薪金, 研究员基金",
     "examples": [
       {
-        "en": "Professors encourage students to final foundational concepts thoroughly.",
-        "zh": "在相关语境中，'final'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of fellowship is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 伙伴关系, 共同参与, 团体, 奖学金, 友谊具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "final_noun",
+    "id": "final",
     "word": "final",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'fainl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/final-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=final&type=2",
     "definition_en": "n. the final match between the winners of all previous matches in an elimination tournament\\ns. conclusive in a process or progression\\ns. not to be altered or undone",
     "definition_zh": "n. 期末考试, 结局, 决赛； a. 最后的, 终极的, 决定性的",
     "examples": [
       {
-        "en": "Mastering this academic final is essential for future research.",
-        "zh": "在相关语境中，'final'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of final is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 期末考试, 结局, 决赛具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "flunk_verb",
+    "id": "flunk",
     "word": "flunk",
-    "part_of_speech": "verb",
-    "level": "B1",
+    "part_of_speech": "noun",
+    "level": "C2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/flʌŋk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flunk-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=flunk&type=2",
     "definition_en": "n failure to reach a minimum required performance\\nv fail to get a passing grade",
     "definition_zh": "n. 失败, 不及格； vi. 失败, 考试不及格, 放弃； vt. 使不及格",
     "examples": [
       {
-        "en": "Professors encourage students to flunk foundational concepts thoroughly.",
-        "zh": "在相关语境中，'flunk'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of flunk is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 失败, 不及格具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "fraction_noun",
+    "id": "fraction",
     "word": "fraction",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'frækʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fraction-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fraction&type=2",
     "definition_en": "n. a component of a mixture that has been separated by a fractional process\\nn. a small part or item forming a piece of a whole\\nn. the quotient of two rational numbers",
     "definition_zh": "n. 小部分, 破片, 分数； 部分, 成分, 分散",
     "examples": [
       {
-        "en": "Mastering this academic fraction is essential for future research.",
-        "zh": "在相关语境中，'fraction'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of fraction is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 小部分, 破片, 分数具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "freshman_noun",
+    "id": "freshman",
     "word": "freshman",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/freshman-us.mp3",
+    "phonetic": "/freshman/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=freshman&type=2",
     "definition_en": "n. a first-year undergraduate\\ns. used of a person in the first year of an experience (especially in United States high school or college)",
     "definition_zh": "n. 新手, 生手, 大学一年级学生, (美)中学一年级学生",
     "examples": [
       {
-        "en": "Mastering this academic freshman is essential for future research.",
-        "zh": "在相关语境中，'freshman'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of freshman is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 新手, 生手, 大学一年级学生, (美)中学一年级学生具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "governors_noun",
+    "id": "governors",
     "word": "governors",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ˈɡʌvənəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/governors-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=governors&type=2",
     "definition_en": "n. the head of a state government\\nn. a control that maintains a steady speed in a machine (as by controlling the supply of fuel)",
     "definition_zh": "n. 主管( governor的复数形式 ); 理事; （美国的）州长; （学校、学院、医院等机构的）董事",
     "examples": [
       {
-        "en": "Mastering this academic governors is essential for future research.",
-        "zh": "在相关语境中，'governors'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of governors is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 主管( governor的复数形式 ); 理事; （美国的）州长; （学校、学院、医院等机构的）董事具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "gown_noun",
+    "id": "gown",
     "word": "gown",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/gaun/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gown-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gown&type=2",
     "definition_en": "n. a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions\\nn. the members of a university as distinguished from the other residents of the town in which the university is located\\nn. protective garment worn by surgeons during operations\\nn. outerwear consisting of a long flowing garment used for official or ceremonial occasions",
     "definition_zh": "n. 睡衣, 法衣, 大学全体师生； vt. 使穿睡衣",
     "examples": [
       {
-        "en": "Mastering this academic gown is essential for future research.",
-        "zh": "在相关语境中，'gown'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of gown is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 睡衣, 法衣, 大学全体师生具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "grade_noun",
+    "id": "grade",
     "word": "grade",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/greid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grade-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=grade&type=2",
     "definition_en": "n. a relative position or degree of value in a graded group\\nn. the gradient of a slope or road or other surface\\nn. a degree of ablaut\\nn. the height of the ground on which something stands",
     "definition_zh": "n. 等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡； vt. 分等, 分级, 评分； vi. 属于某等级, 逐渐变化",
     "examples": [
       {
-        "en": "Mastering this academic grade is essential for future research.",
-        "zh": "在相关语境中，'grade'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of grade is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "grade_verb",
-    "word": "grade",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/greid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grade-us.mp3",
-    "definition_en": "n. a relative position or degree of value in a graded group\\nn. the gradient of a slope or road or other surface\\nn. a degree of ablaut\\nn. the height of the ground on which something stands",
-    "definition_zh": "n. 等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡； vt. 分等, 分级, 评分； vi. 属于某等级, 逐渐变化",
-    "examples": [
-      {
-        "en": "Professors encourage students to grade foundational concepts thoroughly.",
-        "zh": "在相关语境中，'grade'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "graduate_noun",
+    "id": "graduate",
     "word": "graduate",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'grædʒueit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/graduate-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=graduate&type=2",
     "definition_en": "n. a measuring instrument for measuring fluid volume; a glass container (cup or cylinder or flask) whose sides are marked with or divided into amounts\\nv. receive an academic degree upon completion of one's studies\\nv. confer an academic degree upon\\ns. of or relating to studies beyond a bachelor's degree",
     "definition_zh": "n. 毕业生, 量杯； a. 已得学位的, 研究生的, 毕业的； vi. 毕业, 得学位, 逐渐变为； vt. 准予...毕业, 授予...学位, 分等级, 刻刻度",
     "examples": [
       {
-        "en": "Mastering this academic graduate is essential for future research.",
-        "zh": "在相关语境中，'graduate'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of graduate is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 毕业生, 量杯具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "graduate_verb",
-    "word": "graduate",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'grædʒueit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/graduate-us.mp3",
-    "definition_en": "n. a measuring instrument for measuring fluid volume; a glass container (cup or cylinder or flask) whose sides are marked with or divided into amounts\\nv. receive an academic degree upon completion of one's studies\\nv. confer an academic degree upon\\ns. of or relating to studies beyond a bachelor's degree",
-    "definition_zh": "n. 毕业生, 量杯； a. 已得学位的, 研究生的, 毕业的； vi. 毕业, 得学位, 逐渐变为； vt. 准予...毕业, 授予...学位, 分等级, 刻刻度",
-    "examples": [
-      {
-        "en": "Professors encourage students to graduate foundational concepts thoroughly.",
-        "zh": "在相关语境中，'graduate'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "graduation_noun",
+    "id": "graduation",
     "word": "graduation",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/.grædʒu'eiʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/graduation-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=graduation&type=2",
     "definition_en": "n. the successful completion of a program of study\\nn. a line (as on a vessel or ruler) that marks a measurement",
     "definition_zh": "n. 毕业, 得学位, 分划, 刻度, 分等级； 刻度, 分度, 毕业",
     "examples": [
       {
-        "en": "Mastering this academic graduation is essential for future research.",
-        "zh": "在相关语境中，'graduation'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of graduation is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 毕业, 得学位, 分划, 刻度, 分等级具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "headmistress_noun",
+    "id": "grind",
+    "word": "grind",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/graind/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=grind&type=2",
+    "definition_en": "n. the grade of particle fineness to which a substance is ground\\nn. the act of grinding to a powder or dust\\nv. dance by rotating the pelvis in an erotically suggestive way, often while in contact with one's partner such that the dancers' legs are interlaced\\nv. reduce to small pieces or particles by pounding or abrading",
+    "definition_zh": "n. 磨, 碾, 苦差, 摩擦声, 用功的学生； vt. 磨擦, 磨碎, 磨光, 折磨, 压榨； vi. 磨, 磨碎, 苦干",
+    "examples": [
+      {
+        "en": "A deep understanding of grind is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 磨, 碾, 苦差, 摩擦声, 用功的学生具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "headmaster",
+    "word": "headmaster",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'hed'mɑ:stә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=headmaster&type=2",
+    "definition_en": "n. presiding officer of a school",
+    "definition_zh": "n. (中小学)校长, 监工",
+    "examples": [
+      {
+        "en": "A deep understanding of headmaster is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. (中小学)校长, 监工具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "headmistress",
     "word": "headmistress",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'hed'mistris/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/headmistress-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=headmistress&type=2",
     "definition_en": "n. a woman headmaster",
     "definition_zh": "n. (中小学)女校长",
     "examples": [
       {
-        "en": "Mastering this academic headmistress is essential for future research.",
-        "zh": "在相关语境中，'headmistress'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of headmistress is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. (中小学)女校长具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "headteacher_noun",
+    "id": "headteacher",
     "word": "headteacher",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/hed'ti:tʃər/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/headteacher-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=headteacher&type=2",
     "definition_en": "",
     "definition_zh": "n. 中小学的校长",
     "examples": [
       {
-        "en": "Mastering this academic headteacher is essential for future research.",
-        "zh": "在相关语境中，'headteacher'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of headteacher is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 中小学的校长具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "homework_noun",
+    "id": "homework",
     "word": "homework",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'hәumwә:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/homework-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=homework&type=2",
     "definition_en": "n. preparatory school work done outside school (especially at home)",
     "definition_zh": "n. 家庭作业, 家里做的工作； 家庭作业",
     "examples": [
       {
-        "en": "Mastering this academic homework is essential for future research.",
-        "zh": "在相关语境中，'homework'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of homework is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 家庭作业, 家里做的工作具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "honors_noun",
+    "id": "honors",
     "word": "honors",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/honors-us.mp3",
+    "phonetic": "/honors/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=honors&type=2",
     "definition_en": "n a tangible symbol signifying approval or distinction\\nn the state of being honored\\nn the quality of being honorable and having a good name\\nn a woman's virtue or chastity\\nv bestow honor or rewards upon\\nv show respect towards\\nv accept as pay",
     "definition_zh": "n. 优等成绩, (英)优等成绩奖金, 给予优等生的荣誉, 荣誉标志",
     "examples": [
       {
-        "en": "Mastering this academic honors is essential for future research.",
-        "zh": "在相关语境中，'honors'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of honors is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 优等成绩, (英)优等成绩奖金, 给予优等生的荣誉, 荣誉标志具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "honours_noun",
+    "id": "honours",
     "word": "honours",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/honours-us.mp3",
+    "phonetic": "/honours/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=honours&type=2",
     "definition_en": "n. a university degree with honors",
     "definition_zh": "n. 优等成绩, (英)优等成绩奖金, 给予优等生的荣誉, 荣誉标志",
     "examples": [
       {
-        "en": "Mastering this academic honours is essential for future research.",
-        "zh": "在相关语境中，'honours'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of honours is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 优等成绩, (英)优等成绩奖金, 给予优等生的荣誉, 荣誉标志具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "institute_noun",
+    "id": "institute",
     "word": "institute",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'institju:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/institute-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=institute&type=2",
     "definition_en": "n. an association organized to promote art or science or education\\nv. advance or set forth in court",
     "definition_zh": "n. 学会, 学院, 协会； vt. 创立, 开始, 制定, 任命",
     "examples": [
       {
-        "en": "Mastering this academic institute is essential for future research.",
-        "zh": "在相关语境中，'institute'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of institute is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学会, 学院, 协会具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "institute_verb",
-    "word": "institute",
-    "part_of_speech": "verb",
+    "id": "institutes",
+    "word": "institutes",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'institju:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/institute-us.mp3",
-    "definition_en": "n. an association organized to promote art or science or education\\nv. advance or set forth in court",
-    "definition_zh": "n. 学会, 学院, 协会； vt. 创立, 开始, 制定, 任命",
-    "examples": [
-      {
-        "en": "Professors encourage students to institute foundational concepts thoroughly.",
-        "zh": "在相关语境中，'institute'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "institutes_noun",
-    "word": "institutes",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/institutes-us.mp3",
+    "phonetic": "/institutes/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=institutes&type=2",
     "definition_en": "n an association organized to promote art or science or education\\nv set up or lay the groundwork for\\nv advance or set forth in court",
     "definition_zh": "n. 学院（institute的复数）",
     "examples": [
       {
-        "en": "Mastering this academic institutes is essential for future research.",
-        "zh": "在相关语境中，'institutes'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of institutes is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学院（institute的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "instructor_noun",
+    "id": "instructor",
     "word": "instructor",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/in'strʌktә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instructor-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=instructor&type=2",
     "definition_en": "n a person whose occupation is teaching",
     "definition_zh": "n. 教员, 讲师； 指导者, 教员, 讲师",
     "examples": [
       {
-        "en": "Mastering this academic instructor is essential for future research.",
-        "zh": "在相关语境中，'instructor'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of instructor is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教员, 讲师具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "instructors_noun",
+    "id": "instructors",
     "word": "instructors",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ɪnst'rʌktəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instructors-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=instructors&type=2",
     "definition_en": "n a person whose occupation is teaching",
     "definition_zh": "n. 指导者, 教师( instructor的名词复数 )",
     "examples": [
       {
-        "en": "Mastering this academic instructors is essential for future research.",
-        "zh": "在相关语境中，'instructors'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of instructors is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 指导者, 教师( instructor的名词复数 )具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "investigations_noun",
+    "id": "investigations",
     "word": "investigations",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ɪnvestɪ'ɡeɪʃnz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investigations-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=investigations&type=2",
     "definition_en": "n. an inquiry into unfamiliar or questionable activities\\nn. the work of inquiring into something thoroughly and systematically",
     "definition_zh": "n. （正式的）调查( investigation的复数形式 ); 侦查; 科学研究; 学术研究",
     "examples": [
       {
-        "en": "Mastering this academic investigations is essential for future research.",
-        "zh": "在相关语境中，'investigations'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of investigations is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. （正式的）调查( investigation的复数形式 ); 侦查; 科学研究; 学术研究具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "junior_adjective",
-    "word": "junior",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'dʒu:njә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/junior-us.mp3",
-    "definition_en": "n. term of address for a disrespectful and annoying male\\nn. a third-year undergraduate\\nn. the younger of two persons\\nn. a son who has the same first name as his father",
-    "definition_zh": "n. 年少者, 地位较低者, 大学三年级学生； a. 年少的, 下级的, 后进的",
-    "examples": [
-      {
-        "en": "Professors encourage students to junior foundational concepts thoroughly.",
-        "zh": "在相关语境中，'junior'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "junior_noun",
+    "id": "junior",
     "word": "junior",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'dʒu:njә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/junior-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=junior&type=2",
     "definition_en": "n. term of address for a disrespectful and annoying male\\nn. a third-year undergraduate\\nn. the younger of two persons\\nn. a son who has the same first name as his father",
     "definition_zh": "n. 年少者, 地位较低者, 大学三年级学生； a. 年少的, 下级的, 后进的",
     "examples": [
       {
-        "en": "Mastering this academic junior is essential for future research.",
-        "zh": "在相关语境中，'junior'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of junior is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 年少者, 地位较低者, 大学三年级学生具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "learn_verb",
+    "id": "learn",
     "word": "learn",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/lә:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learn-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=learn&type=2",
     "definition_en": "v. gain knowledge or skills\\nv. get to know or become aware of, usually accidentally\\nv. be a student of a certain subject",
     "definition_zh": "vt. 学习；认识到；得知",
     "examples": [
       {
-        "en": "Professors encourage students to learn foundational concepts thoroughly.",
-        "zh": "在相关语境中，'learn'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of learn is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 学习具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "learned_verb",
+    "id": "learned",
     "word": "learned",
-    "part_of_speech": "verb",
-    "level": "A1",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'lә:nid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learned-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=learned&type=2",
     "definition_en": "v gain knowledge or skills\\nv get to know or become aware of, usually accidentally\\nv commit to memory; learn by heart\\nv be a student of a certain subject\\nv impart skills or knowledge to\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort\\ns having or showing profound knowledge\\ns highly educated; having extensive information or understanding\\na established by conditioning or learning",
     "definition_zh": "a. 有学问的, 学术上的； learn的过去式和过去分词",
     "examples": [
       {
-        "en": "Professors encourage students to learned foundational concepts thoroughly.",
-        "zh": "在相关语境中，'learned'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of learned is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 有学问的, 学术上的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "learned_adjective",
-    "word": "learned",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'lә:nid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learned-us.mp3",
-    "definition_en": "v gain knowledge or skills\\nv get to know or become aware of, usually accidentally\\nv commit to memory; learn by heart\\nv be a student of a certain subject\\nv impart skills or knowledge to\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort\\ns having or showing profound knowledge\\ns highly educated; having extensive information or understanding\\na established by conditioning or learning",
-    "definition_zh": "a. 有学问的, 学术上的； learn的过去式和过去分词",
-    "examples": [
-      {
-        "en": "Professors encourage students to learned foundational concepts thoroughly.",
-        "zh": "在相关语境中，'learned'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "learner_noun",
+    "id": "learner",
     "word": "learner",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'lә:nә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learner-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=learner&type=2",
     "definition_en": "n. someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs",
     "definition_zh": "n. 学习者, 初学者",
     "examples": [
       {
-        "en": "Mastering this academic learner is essential for future research.",
-        "zh": "在相关语境中，'learner'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of learner is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学习者, 初学者具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "learners_noun",
+    "id": "learners",
     "word": "learners",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'lɜ:nəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learners-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=learners&type=2",
     "definition_en": "n. someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs\\nn. works for an expert to learn a trade",
     "definition_zh": "n. 学习者, 初学者, 见习驾驶员( learner的复数形式 )",
     "examples": [
       {
-        "en": "Mastering this academic learners is essential for future research.",
-        "zh": "在相关语境中，'learners'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of learners is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学习者, 初学者, 见习驾驶员( learner的复数形式 )具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "learning_noun",
+    "id": "learning",
     "word": "learning",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'lә:niŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learning-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=learning&type=2",
     "definition_en": "n. the cognitive process of acquiring skill or knowledge",
     "definition_zh": "n. 学问, 学识, 学习； 学习",
     "examples": [
       {
-        "en": "Mastering this academic learning is essential for future research.",
-        "zh": "在相关语境中，'learning'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of learning is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学问, 学识, 学习具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "learning_verb",
-    "word": "learning",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'lә:niŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learning-us.mp3",
-    "definition_en": "n. the cognitive process of acquiring skill or knowledge",
-    "definition_zh": "n. 学问, 学识, 学习； 学习",
-    "examples": [
-      {
-        "en": "Professors encourage students to learning foundational concepts thoroughly.",
-        "zh": "在相关语境中，'learning'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "learns_verb",
+    "id": "learns",
     "word": "learns",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/lə:nz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learns-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=learns&type=2",
     "definition_en": "v gain knowledge or skills\\nv get to know or become aware of, usually accidentally\\nv commit to memory; learn by heart\\nv be a student of a certain subject\\nv impart skills or knowledge to\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort",
     "definition_zh": "v. 学习( learn的第三人称单数 ); 学会; 得知; 记住",
     "examples": [
       {
-        "en": "Professors encourage students to learns foundational concepts thoroughly.",
-        "zh": "在相关语境中，'learns'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of learns is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 学习( learn的第三人称单数 ); 学会; 得知; 记住具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "lecturer_noun",
+    "id": "lecturer",
     "word": "lecturer",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'lektʃәrә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lecturer-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lecturer&type=2",
     "definition_en": "n. someone who lectures professionally",
     "definition_zh": "n. 演讲者, 讲师； 讲演人, 讲课人, 讲师",
     "examples": [
       {
-        "en": "Mastering this academic lecturer is essential for future research.",
-        "zh": "在相关语境中，'lecturer'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of lecturer is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 演讲者, 讲师具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "lessons_noun",
+    "id": "lessons",
     "word": "lessons",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ˈlesənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lessons-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lessons&type=2",
     "definition_en": "n a unit of instruction\\nn punishment intended as a warning to others\\nn the significance of a story or event\\nn a task assigned for individual study",
     "definition_zh": "n. 功课( lesson的名词复数 ); 课程; 教训; 一堂课",
     "examples": [
       {
-        "en": "Mastering this academic lessons is essential for future research.",
-        "zh": "在相关语境中，'lessons'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of lessons is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 功课( lesson的名词复数 ); 课程; 教训; 一堂课具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "librarian_noun",
+    "id": "librarian",
     "word": "librarian",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/lai'brєәriәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/librarian-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=librarian&type=2",
     "definition_en": "n. a professional person trained in library science and engaged in library services",
     "definition_zh": "n. 图书馆员, 图书管理员； 程序库管理程序; 程序库生成程序",
     "examples": [
       {
-        "en": "Mastering this academic librarian is essential for future research.",
-        "zh": "在相关语境中，'librarian'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of librarian is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 图书馆员, 图书管理员具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "librarians_noun",
+    "id": "librarians",
     "word": "librarians",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/laɪb'reərɪənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/librarians-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=librarians&type=2",
     "definition_en": "n. a professional person trained in library science and engaged in library services",
     "definition_zh": "n. 图书馆馆长, 图书馆管理员( librarian的复数形式 )",
     "examples": [
       {
-        "en": "Mastering this academic librarians is essential for future research.",
-        "zh": "在相关语境中，'librarians'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of librarians is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 图书馆馆长, 图书馆管理员( librarian的复数形式 )具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "libraries_noun",
+    "id": "libraries",
     "word": "libraries",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/libraries-us.mp3",
+    "phonetic": "/libraries/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=libraries&type=2",
     "definition_en": "n a room where books are kept\\nn a collection of literary documents or records kept for reference or borrowing\\nn a depository built to contain books and other materials for reading and study\\nn (computing) a collection of standard programs and subroutines that are stored and available for immediate use\\nn a building that houses a collection of books and other materials",
     "definition_zh": "n. 图书馆查询系统；函数库；图书馆（library的复数）",
     "examples": [
       {
-        "en": "Mastering this academic libraries is essential for future research.",
-        "zh": "在相关语境中，'libraries'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of libraries is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 图书馆查询系统具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "library_noun",
+    "id": "library",
     "word": "library",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'laibrәri/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/library-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=library&type=2",
     "definition_en": "n. a room where books are kept\\nn. a collection of literary documents or records kept for reference or borrowing\\nn. a depository built to contain books and other materials for reading and study\\nn. (computing) a collection of standard programs and subroutines that are stored and available for immediate use",
     "definition_zh": "n. 图书馆, 藏书, 库； 库",
     "examples": [
       {
-        "en": "Mastering this academic library is essential for future research.",
-        "zh": "在相关语境中，'library'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of library is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 图书馆, 藏书, 库具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "marks_noun",
+    "id": "marks",
     "word": "marks",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marks-us.mp3",
+    "phonetic": "/marks/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=marks&type=2",
     "definition_en": "n. English businessman who created a retail chain (1888-1964)",
     "definition_zh": "n. 标记, 记号；唛头, 分数；台面标志",
     "examples": [
       {
-        "en": "Mastering this academic marks is essential for future research.",
-        "zh": "在相关语境中，'marks'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of marks is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 标记, 记号具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "marks_verb",
-    "word": "marks",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/marks-us.mp3",
-    "definition_en": "n. English businessman who created a retail chain (1888-1964)",
-    "definition_zh": "n. 标记, 记号；唛头, 分数；台面标志",
-    "examples": [
-      {
-        "en": "Professors encourage students to marks foundational concepts thoroughly.",
-        "zh": "在相关语境中，'marks'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "master_noun",
+    "id": "master",
     "word": "master",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'mɑ:stә. 'mæstә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/master-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=master&type=2",
     "definition_en": "n. directs the work of others\\nn. an original creation (i.e., an audio recording) from which copies can be made\\nn. an officer who is licensed to command a merchant ship\\nn. someone who holds a master's degree from academic institution",
     "definition_zh": "n. 主人, 硕士, 大师, 母机； a. 主人的, 主要的； vt. 征服, 控制, 精通",
     "examples": [
       {
-        "en": "Mastering this academic master is essential for future research.",
-        "zh": "在相关语境中，'master'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of master is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 主人, 硕士, 大师, 母机具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "masters_noun",
+    "id": "masters",
     "word": "masters",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/masters-us.mp3",
+    "phonetic": "/masters/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=masters&type=2",
     "definition_en": "n. United States poet (1869-1950)",
     "definition_zh": "n. 主人；硕士；大师赛（master的复数形式）",
     "examples": [
       {
-        "en": "Mastering this academic masters is essential for future research.",
-        "zh": "在相关语境中，'masters'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of masters is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 主人具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "med_noun",
+    "id": "med",
     "word": "med",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/med/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/med-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=med&type=2",
     "definition_en": "n a master's degree in education",
     "definition_zh": "教育学硕士",
     "examples": [
       {
-        "en": "Mastering this academic med is essential for future research.",
-        "zh": "在相关语境中，'med'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of med is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，教育学硕士具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "motivate_verb",
+    "id": "motivate",
     "word": "motivate",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'mәutiveit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/motivate-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=motivate&type=2",
     "definition_en": "v. give an incentive for action",
     "definition_zh": "vt. 给与动机, 刺激, 提高...的学习欲望, 促动； 促动, 激发, 激励",
     "examples": [
       {
-        "en": "Professors encourage students to motivate foundational concepts thoroughly.",
-        "zh": "在相关语境中，'motivate'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of motivate is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 给与动机, 刺激, 提高...的学习欲望, 促动具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "notified_verb",
+    "id": "notified",
     "word": "notified",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ˈnəutifaid/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/notified-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=notified&type=2",
     "definition_en": "v inform (somebody) of something",
     "definition_zh": "v. 通知, 告知, 报告( notify的过去式和过去分词 )",
     "examples": [
       {
-        "en": "Professors encourage students to notified foundational concepts thoroughly.",
-        "zh": "在相关语境中，'notified'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of notified is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 通知, 告知, 报告( notify的过去式和过去分词 )具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "notify_verb",
+    "id": "notify",
     "word": "notify",
-    "part_of_speech": "verb",
-    "level": "A1",
+    "part_of_speech": "noun",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'nәutifai/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/notify-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=notify&type=2",
     "definition_en": "v inform (somebody) of something",
     "definition_zh": "vt. 通知, 通告, 报告； 通知",
     "examples": [
       {
-        "en": "Professors encourage students to notify foundational concepts thoroughly.",
-        "zh": "在相关语境中，'notify'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of notify is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 通知, 通告, 报告具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "pedantic_adjective",
+    "id": "novice",
+    "word": "novice",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'nɒvis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=novice&type=2",
+    "definition_en": "n. someone new to a field or activity",
+    "definition_zh": "n. 新手, 初学者",
+    "examples": [
+      {
+        "en": "A deep understanding of novice is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 新手, 初学者具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "pedantic",
     "word": "pedantic",
-    "part_of_speech": "adjective",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/pi'dæntik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pedantic-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pedantic&type=2",
     "definition_en": "s marked by a narrow focus on or display of learning especially its trivial aspects",
     "definition_zh": "a. 卖弄学问的, 学究式的, 假装学者的",
     "examples": [
       {
-        "en": "Professors encourage students to pedantic foundational concepts thoroughly.",
-        "zh": "在相关语境中，'pedantic'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of pedantic is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 卖弄学问的, 学究式的, 假装学者的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "penn_noun",
+    "id": "penn",
     "word": "penn",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/pen/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/penn-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=penn&type=2",
     "definition_en": "n. Englishman and Quaker who founded the colony of Pennsylvania (1644-1718)",
     "definition_zh": "abbr. 宾夕法尼亚大学（Pennsylvania）",
     "examples": [
       {
-        "en": "Mastering this academic penn is essential for future research.",
-        "zh": "在相关语境中，'penn'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of penn is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，abbr. 宾夕法尼亚大学（Pennsylvania）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "pension_noun",
+    "id": "pension",
     "word": "pension",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'penʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pension-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pension&type=2",
     "definition_en": "n. a regular payment to a person that is intended to allow them to subsist without working\\nv. grant a pension to",
     "definition_zh": "n. 养老金, 退休金, 津贴, 年金, 抚恤金, 膳宿学校, 膳宿费； vt. 发给退休金, 用津贴拉拢",
     "examples": [
       {
-        "en": "Mastering this academic pension is essential for future research.",
-        "zh": "在相关语境中，'pension'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of pension is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 养老金, 退休金, 津贴, 年金, 抚恤金, 膳宿学校, 膳宿费具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "percent_noun",
+    "id": "percent",
     "word": "percent",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/pә'sent/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/percent-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=percent&type=2",
     "definition_en": "n a proportion in relation to a whole (which is usually the amount per hundred)",
     "definition_zh": "n. 百分比, 百分数, 部分； 百分率",
     "examples": [
       {
-        "en": "Mastering this academic percent is essential for future research.",
-        "zh": "在相关语境中，'percent'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of percent is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 百分比, 百分数, 部分具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "presentations_noun",
+    "id": "presentations",
     "word": "presentations",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ˌprezənˈteiʃənz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/presentations-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=presentations&type=2",
     "definition_en": "n. the activity of formally presenting something (as a prize or reward)\\nn. a show or display; the act of presenting something to sight or view\\nn. the act of making something publicly available; presenting news or other information by broadcasting or printing it",
     "definition_zh": "n. 介绍( presentation的复数形式 ); 报告; 提供; 展示会",
     "examples": [
       {
-        "en": "Mastering this academic presentations is essential for future research.",
-        "zh": "在相关语境中，'presentations'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of presentations is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 介绍( presentation的复数形式 ); 报告; 提供; 展示会具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "presidents_noun",
+    "id": "presidents",
     "word": "presidents",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/p'rezɪdənts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/presidents-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=presidents&type=2",
     "definition_en": "n. an executive officer of a firm or corporation\\nn. the person who holds the office of head of state of the United States government\\nn. the chief executive of a republic",
     "definition_zh": "n. 总统; （大学）校长( president的复数形式 ); 会长; 总统; 银行行长",
     "examples": [
       {
-        "en": "Mastering this academic presidents is essential for future research.",
-        "zh": "在相关语境中，'presidents'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of presidents is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 总统; （大学）校长( president的复数形式 ); 会长; 总统; 银行行长具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "primitively_adverb",
+    "id": "primitively",
     "word": "primitively",
-    "part_of_speech": "adverb",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'primitivli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/primitively-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=primitively&type=2",
     "definition_en": "r. with reference to the origin or beginning\\nr. in a primitive style or manner",
     "definition_zh": "adv. 最初地, 自学而成地",
     "examples": [
       {
-        "en": "Professors encourage students to primitively foundational concepts thoroughly.",
-        "zh": "在相关语境中，'primitively'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of primitively is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，adv. 最初地, 自学而成地具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "proceeding_verb",
+    "id": "proceeding",
     "word": "proceeding",
-    "part_of_speech": "verb",
-    "level": "B1",
+    "part_of_speech": "noun",
+    "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/prәu'si:diŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/proceeding-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=proceeding&type=2",
     "definition_en": "n. (law) the institution of a sequence of steps by which legal judgments are invoked",
     "definition_zh": "n. 进行, 程序, 行动, 诉讼程序, 事项； 会议论文集",
     "examples": [
       {
-        "en": "Professors encourage students to proceeding foundational concepts thoroughly.",
-        "zh": "在相关语境中，'proceeding'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of proceeding is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 进行, 程序, 行动, 诉讼程序, 事项具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "profess_verb",
+    "id": "profess",
     "word": "profess",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/prә'fes/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profess-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=profess&type=2",
     "definition_en": "v. practice as a profession, teach, or claim to be knowledgeable about\\nv. confess one's faith in, or allegiance to\\nv. state freely\\nv. receive into a religious order or congregation",
     "definition_zh": "vt. 声称, 以...为业, 伪称, 讲授； vi. 表白, 承认, 当教授",
     "examples": [
       {
-        "en": "Professors encourage students to profess foundational concepts thoroughly.",
-        "zh": "在相关语境中，'profess'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of profess is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 声称, 以...为业, 伪称, 讲授具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "professor_noun",
+    "id": "professor",
     "word": "professor",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/prә'fesә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/professor-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=professor&type=2",
     "definition_en": "n. someone who is a member of the faculty at a college or university",
     "definition_zh": "n. 教授",
     "examples": [
       {
-        "en": "Mastering this academic professor is essential for future research.",
-        "zh": "在相关语境中，'professor'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of professor is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教授具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "professors_noun",
+    "id": "professors",
     "word": "professors",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/prə'fesəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/professors-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=professors&type=2",
     "definition_en": "n. someone who is a member of the faculty at a college or university",
     "definition_zh": "n. 教授( professor的复数形式 ); （大学的）讲师, 教员",
     "examples": [
       {
-        "en": "Mastering this academic professors is essential for future research.",
-        "zh": "在相关语境中，'professors'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of professors is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教授( professor的复数形式 ); （大学的）讲师, 教员具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "promotes_verb",
+    "id": "promotes",
     "word": "promotes",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/prəˈməuts/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/promotes-us.mp3",
-    "definition_en": "v contribute to the progress or growth of\\nv give a promotion to or assign to a higher position\\nv make publicity for; try to sell (a product)\\nv be changed for a superior chess or checker piece\\nv change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent",
-    "definition_zh": "v. <正>促进( promote的第三人称单数 ); 提升; 推销; 使 （学生）升级",
-    "examples": [
-      {
-        "en": "Professors encourage students to promotes foundational concepts thoroughly.",
-        "zh": "在相关语境中，'promotes'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "promoting_verb",
-    "word": "promoting",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/prəˈməutɪŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/promoting-us.mp3",
-    "definition_en": "v contribute to the progress or growth of\\nv give a promotion to or assign to a higher position\\nv make publicity for; try to sell (a product)\\nv be changed for a superior chess or checker piece\\nv change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent",
-    "definition_zh": "v. <正>促进( promote的现在分词 ); 提升; 推销; 使 （学生）升级",
-    "examples": [
-      {
-        "en": "Professors encourage students to promoting foundational concepts thoroughly.",
-        "zh": "在相关语境中，'promoting'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "pupil_noun",
-    "word": "pupil",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'pju:pl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pupil-us.mp3",
-    "definition_en": "n. the contractile aperture in the center of the iris of the eye; resembles a large black dot",
-    "definition_zh": "n. 学生, 门生, 未成年人, 瞳孔； 瞳孔",
+    "phonetic": "/prəˈməuts/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=promotes&type=2",
+    "definition_en": "v contribute to the progress or growth of\\nv give a promotion to or assign to a higher position\\nv make publicity for; try to sell (a product)\\nv be changed for a superior chess or checker piece\\nv change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent",
+    "definition_zh": "v. <正>促进( promote的第三人称单数 ); 提升; 推销; 使 （学生）升级",
     "examples": [
       {
-        "en": "Mastering this academic pupil is essential for future research.",
-        "zh": "在相关语境中，'pupil'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of promotes is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. <正>促进( promote的第三人称单数 ); 提升; 推销; 使 （学生）升级具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "pupils_noun",
+    "id": "promoting",
+    "word": "promoting",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/prəˈməutɪŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=promoting&type=2",
+    "definition_en": "v contribute to the progress or growth of\\nv give a promotion to or assign to a higher position\\nv make publicity for; try to sell (a product)\\nv be changed for a superior chess or checker piece\\nv change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent",
+    "definition_zh": "v. <正>促进( promote的现在分词 ); 提升; 推销; 使 （学生）升级",
+    "examples": [
+      {
+        "en": "A deep understanding of promoting is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. <正>促进( promote的现在分词 ); 提升; 推销; 使 （学生）升级具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "pupil",
+    "word": "pupil",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'pju:pl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pupil&type=2",
+    "definition_en": "n. the contractile aperture in the center of the iris of the eye; resembles a large black dot",
+    "definition_zh": "n. 学生, 门生, 未成年人, 瞳孔； 瞳孔",
+    "examples": [
+      {
+        "en": "A deep understanding of pupil is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学生, 门生, 未成年人, 瞳孔具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "pupils",
     "word": "pupils",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'pju:plz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pupils-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pupils&type=2",
     "definition_en": "n. a learner who is enrolled in an educational institution\\nn. the contractile aperture in the center of the iris of the eye; resembles a large black dot\\nn. a young person attending school (up through senior high school)",
     "definition_zh": "n. 学生( pupil的复数形式 ); 瞳孔; 弟子; 门生",
     "examples": [
       {
-        "en": "Mastering this academic pupils is essential for future research.",
-        "zh": "在相关语境中，'pupils'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of pupils is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学生( pupil的复数形式 ); 瞳孔; 弟子; 门生具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "quiz_noun",
+    "id": "quiz",
     "word": "quiz",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/kwiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quiz-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=quiz&type=2",
     "definition_en": "n. an examination consisting of a few short questions\\nv. examine someone's knowledge of something",
     "definition_zh": "n. 考查, 课堂测验, 恶作剧, 智力测验； vt. 戏弄, 考查, 恶作剧",
     "examples": [
       {
-        "en": "Mastering this academic quiz is essential for future research.",
-        "zh": "在相关语境中，'quiz'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of quiz is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 考查, 课堂测验, 恶作剧, 智力测验具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "reader_noun",
+    "id": "reader",
     "word": "reader",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'ri:dә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reader-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=reader&type=2",
     "definition_en": "n. a person who enjoys reading\\nn. a person who can read; a literate person\\nn. one of a series of texts for students learning to read",
     "definition_zh": "n. 读者, 读物, 文选, 校对人, 讲师； 阅读程序; 阅读器",
     "examples": [
       {
-        "en": "Mastering this academic reader is essential for future research.",
-        "zh": "在相关语境中，'reader'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of reader is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 读者, 读物, 文选, 校对人, 讲师具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "report_noun",
+    "id": "report",
     "word": "report",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ri'pɒ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/report-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=report&type=2",
     "definition_en": "n. a written document describing the findings of some individual or group\\nn. the act of informing by verbal report\\nn. a short account of the news\\nn. a sharp explosive sound (especially the sound of a gun firing)",
     "definition_zh": "n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单； vt. 报告, 汇报, 转述, 报道, 揭发, 使报到； vi. 报告, 写报道, 报到； 报告",
     "examples": [
       {
-        "en": "Mastering this academic report is essential for future research.",
-        "zh": "在相关语境中，'report'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of report is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "report_verb",
-    "word": "report",
-    "part_of_speech": "verb",
+    "id": "reporting",
+    "word": "reporting",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/ri'pɒ:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/report-us.mp3",
-    "definition_en": "n. a written document describing the findings of some individual or group\\nn. the act of informing by verbal report\\nn. a short account of the news\\nn. a sharp explosive sound (especially the sound of a gun firing)",
-    "definition_zh": "n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单； vt. 报告, 汇报, 转述, 报道, 揭发, 使报到； vi. 报告, 写报道, 报到； 报告",
+    "phonetic": "/ri'pɒ:tiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=reporting&type=2",
+    "definition_en": "n the news as presented by reporters for newspapers or radio or television\\nv to give an account or representation of in words\\nv announce as the result of an investigation or experience or finding\\nv announce one's presence\\nv make known to the authorities\\nv be responsible for reporting the details of, as in journalism\\nv complain about; make a charge against",
+    "definition_zh": "n. 报道； 报告, 汇报",
     "examples": [
       {
-        "en": "Professors encourage students to report foundational concepts thoroughly.",
-        "zh": "在相关语境中，'report'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of reporting is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 报道具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "researches_noun",
+    "id": "researches",
     "word": "researches",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/researches-us.mp3",
+    "phonetic": "/researches/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=researches&type=2",
     "definition_en": "n systematic investigation to establish facts\\nn a search for knowledge\\nv attempt to find out in a systematically and scientific manner\\nv inquire into",
     "definition_zh": "n. 研究报告（research的复数）",
     "examples": [
       {
-        "en": "Mastering this academic researches is essential for future research.",
-        "zh": "在相关语境中，'researches'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of researches is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 研究报告（research的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "result_noun",
+    "id": "result",
     "word": "result",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ri'zʌlt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/result-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=result&type=2",
     "definition_en": "n. something that results\\nv. issue or terminate (in a specified way, state, etc.); end\\nv. come about or follow as a consequence",
     "definition_zh": "n. 结果, 成绩, 答案； vi. 产生, 结果, 致使； 结果",
     "examples": [
       {
-        "en": "Mastering this academic result is essential for future research.",
-        "zh": "在相关语境中，'result'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of result is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 结果, 成绩, 答案具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "result_verb",
-    "word": "result",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/ri'zʌlt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/result-us.mp3",
-    "definition_en": "n. something that results\\nv. issue or terminate (in a specified way, state, etc.); end\\nv. come about or follow as a consequence",
-    "definition_zh": "n. 结果, 成绩, 答案； vi. 产生, 结果, 致使； 结果",
-    "examples": [
-      {
-        "en": "Professors encourage students to result foundational concepts thoroughly.",
-        "zh": "在相关语境中，'result'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "results_noun",
+    "id": "results",
     "word": "results",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/results-us.mp3",
+    "phonetic": "/results/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=results&type=2",
     "definition_en": "n a phenomenon that follows and is caused by some previous phenomenon\\nn a statement that solves a problem or explains how to solve the problem\\nn something that results\\nn the semantic role of the noun phrase whose referent exists only by virtue of the activity denoted by the verb in the clause\\nv issue or terminate (in a specified way, state, etc.); end\\nv have as a result or residue\\nv come about or follow as a consequence",
     "definition_zh": "n. 结果；成绩（result的复数）",
     "examples": [
       {
-        "en": "Mastering this academic results is essential for future research.",
-        "zh": "在相关语境中，'results'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of results is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 结果具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "results_verb",
-    "word": "results",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/results-us.mp3",
-    "definition_en": "n a phenomenon that follows and is caused by some previous phenomenon\\nn a statement that solves a problem or explains how to solve the problem\\nn something that results\\nn the semantic role of the noun phrase whose referent exists only by virtue of the activity denoted by the verb in the clause\\nv issue or terminate (in a specified way, state, etc.); end\\nv have as a result or residue\\nv come about or follow as a consequence",
-    "definition_zh": "n. 结果；成绩（result的复数）",
-    "examples": [
-      {
-        "en": "Professors encourage students to results foundational concepts thoroughly.",
-        "zh": "在相关语境中，'results'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "return_noun",
+    "id": "return",
     "word": "return",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ri'tә:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/return-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=return&type=2",
     "definition_en": "n. a coming to or returning home\\nn. the occurrence of a change in direction back in the opposite direction\\nn. the act of going back to a prior location\\nn. the income or profit arising from such transactions as the sale of land or other property",
     "definition_zh": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书； a. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的； vi. 返回, 归还, 回来； vt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回； 返回",
     "examples": [
       {
-        "en": "Mastering this academic return is essential for future research.",
-        "zh": "在相关语境中，'return'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of return is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "return_verb",
-    "word": "return",
-    "part_of_speech": "verb",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/ri'tә:n/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/return-us.mp3",
-    "definition_en": "n. a coming to or returning home\\nn. the occurrence of a change in direction back in the opposite direction\\nn. the act of going back to a prior location\\nn. the income or profit arising from such transactions as the sale of land or other property",
-    "definition_zh": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书； a. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的； vi. 返回, 归还, 回来； vt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回； 返回",
-    "examples": [
-      {
-        "en": "Professors encourage students to return foundational concepts thoroughly.",
-        "zh": "在相关语境中，'return'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "review_noun",
+    "id": "review",
     "word": "review",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ri'vju:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/review-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=review&type=2",
     "definition_en": "n. an essay or article that gives a critical evaluation (as of a book or play)\\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\\nn. a periodical that publishes critical essays on current affairs or literature or art\\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
     "definition_zh": "n. 检讨, 复习, 回顾, 检阅, 评论； vt. 温习, 检讨, 评论, 再检察, 复审； vi. 复习功课, 写评论",
     "examples": [
       {
-        "en": "Mastering this academic review is essential for future research.",
-        "zh": "在相关语境中，'review'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of review is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 检讨, 复习, 回顾, 检阅, 评论具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "review_verb",
-    "word": "review",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/ri'vju:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/review-us.mp3",
-    "definition_en": "n. an essay or article that gives a critical evaluation (as of a book or play)\\nn. (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data\\nn. a periodical that publishes critical essays on current affairs or literature or art\\nn. (law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
-    "definition_zh": "n. 检讨, 复习, 回顾, 检阅, 评论； vt. 温习, 检讨, 评论, 再检察, 复审； vi. 复习功课, 写评论",
-    "examples": [
-      {
-        "en": "Professors encourage students to review foundational concepts thoroughly.",
-        "zh": "在相关语境中，'review'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "scholar_noun",
+    "id": "scholar",
     "word": "scholar",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'skɒlә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scholar-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scholar&type=2",
     "definition_en": "n. a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines\\nn. a student who holds a scholarship",
     "definition_zh": "n. 学者, 奖学金获得者, 有文化者, 学习者",
     "examples": [
       {
-        "en": "Mastering this academic scholar is essential for future research.",
-        "zh": "在相关语境中，'scholar'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of scholar is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学者, 奖学金获得者, 有文化者, 学习者具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "scholarly_adjective",
+    "id": "scholarly",
     "word": "scholarly",
-    "part_of_speech": "adjective",
-    "level": "C2",
+    "part_of_speech": "noun",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'skɔlәli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scholarly-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scholarly&type=2",
     "definition_en": "a. characteristic of scholars or scholarship",
     "definition_zh": "a. 学者派头的, 学者风度的, 有学问的, 博学的, 好学的",
     "examples": [
       {
-        "en": "Professors encourage students to scholarly foundational concepts thoroughly.",
-        "zh": "在相关语境中，'scholarly'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of scholarly is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 学者派头的, 学者风度的, 有学问的, 博学的, 好学的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "scholars_noun",
+    "id": "scholars",
     "word": "scholars",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/s'kɒləz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scholars-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scholars&type=2",
     "definition_en": "n. a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines\\nn. someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs\\nn. a student who holds a scholarship",
     "definition_zh": "n. 奖学金获得者( scholar的复数形式 ); 学者; 聪颖勤奋的学生; 文人学士",
     "examples": [
       {
-        "en": "Mastering this academic scholars is essential for future research.",
-        "zh": "在相关语境中，'scholars'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of scholars is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 奖学金获得者( scholar的复数形式 ); 学者; 聪颖勤奋的学生; 文人学士具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "scholarship_noun",
+    "id": "scholarship",
     "word": "scholarship",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'skɒlәʃip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scholarship-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scholarship&type=2",
     "definition_en": "n. financial aid provided to a student on the basis of academic merit",
     "definition_zh": "n. 学问, 学术成就, 奖学金",
     "examples": [
       {
-        "en": "Mastering this academic scholarship is essential for future research.",
-        "zh": "在相关语境中，'scholarship'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of scholarship is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学问, 学术成就, 奖学金具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "scholarships_noun",
+    "id": "scholarships",
     "word": "scholarships",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ˈskɔləʃips/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scholarships-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scholarships&type=2",
     "definition_en": "n. financial aid provided to a student on the basis of academic merit\\nn. profound scholarly knowledge",
     "definition_zh": "n. 学问, 学识( scholarship的复数形式 ); 奖学金",
     "examples": [
       {
-        "en": "Mastering this academic scholarships is essential for future research.",
-        "zh": "在相关语境中，'scholarships'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of scholarships is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学问, 学识( scholarship的复数形式 ); 奖学金具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "school_noun",
+    "id": "school",
     "word": "school",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/sku:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/school-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=school&type=2",
     "definition_en": "n. an educational institution\\nn. a building where young people receive education\\nn. the process of being formally educated at a school\\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
     "definition_zh": "n. 学校, 鱼群, 门派, 学派； vt. 教育, 训练, 培养； vi. 成群地游",
     "examples": [
       {
-        "en": "Mastering this academic school is essential for future research.",
-        "zh": "在相关语境中，'school'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of school is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学校, 鱼群, 门派, 学派具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "school_adjective",
-    "word": "school",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/sku:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/school-us.mp3",
-    "definition_en": "n. an educational institution\\nn. a building where young people receive education\\nn. the process of being formally educated at a school\\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
-    "definition_zh": "n. 学校, 鱼群, 门派, 学派； vt. 教育, 训练, 培养； vi. 成群地游",
-    "examples": [
-      {
-        "en": "Professors encourage students to school foundational concepts thoroughly.",
-        "zh": "在相关语境中，'school'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "schoolgirl_noun",
+    "id": "schoolgirl",
     "word": "schoolgirl",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'sku:lgә:l/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/schoolgirl-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=schoolgirl&type=2",
     "definition_en": "n. a girl attending school",
     "definition_zh": "n. 女学生",
     "examples": [
       {
-        "en": "Mastering this academic schoolgirl is essential for future research.",
-        "zh": "在相关语境中，'schoolgirl'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of schoolgirl is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 女学生具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "schooling_noun",
+    "id": "schooling",
     "word": "schooling",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'sku:liŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/schooling-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=schooling&type=2",
     "definition_en": "n. the act of teaching at school\\nn. the training of an animal (especially the training of a horse for dressage)",
     "definition_zh": "n. 学校教育, 学费",
     "examples": [
       {
-        "en": "Mastering this academic schooling is essential for future research.",
-        "zh": "在相关语境中，'schooling'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of schooling is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学校教育, 学费具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "schools_noun",
+    "id": "schools",
     "word": "schools",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/schools-us.mp3",
+    "phonetic": "/schools/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=schools&type=2",
     "definition_en": "n an educational institution\\nn a building where young people receive education\\nn the process of being formally educated at a school\\nn a body of creative artists or writers or thinkers linked by a similar style or by similar teachers\\nn the period of instruction in a school; the time period when school is in session\\nn an educational institution's faculty and students\\nn a large group of fish\\nv educate in or as if in a school\\nv teach or refine to be discriminative in taste or judgment\\nv swim in or form a large group of fish",
     "definition_zh": "n. 学校（school的复数形式）",
     "examples": [
       {
-        "en": "Mastering this academic schools is essential for future research.",
-        "zh": "在相关语境中，'schools'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of schools is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学校（school的复数形式）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "schoolteacher_noun",
+    "id": "schoolteacher",
     "word": "schoolteacher",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'sku:lti:tʃә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/schoolteacher-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=schoolteacher&type=2",
     "definition_en": "n. a teacher in a school below the college level",
     "definition_zh": "n. 教师",
     "examples": [
       {
-        "en": "Mastering this academic schoolteacher is essential for future research.",
-        "zh": "在相关语境中，'schoolteacher'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of schoolteacher is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教师具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "schoolwork_noun",
+    "id": "schoolwork",
     "word": "schoolwork",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'sku:lw\\\\\\\\:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/schoolwork-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=schoolwork&type=2",
     "definition_en": "n a school task performed by a student to satisfy the teacher",
     "definition_zh": "n. 学校作业, 家庭作业",
     "examples": [
       {
-        "en": "Mastering this academic schoolwork is essential for future research.",
-        "zh": "在相关语境中，'schoolwork'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of schoolwork is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学校作业, 家庭作业具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "senior_adjective",
-    "word": "senior",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'si:njә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/senior-us.mp3",
-    "definition_en": "n. an undergraduate student during the year preceding graduation\\na. older; higher in rank; longer in length of tenure or service\\ns. used of the fourth and final year in United States high school or college",
-    "definition_zh": "n. 年长者, 资深者, 毕业班学生； a. 年长的, 高级的, 资深的",
-    "examples": [
-      {
-        "en": "Professors encourage students to senior foundational concepts thoroughly.",
-        "zh": "在相关语境中，'senior'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "senior_noun",
+    "id": "senior",
     "word": "senior",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'si:njә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/senior-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=senior&type=2",
     "definition_en": "n. an undergraduate student during the year preceding graduation\\na. older; higher in rank; longer in length of tenure or service\\ns. used of the fourth and final year in United States high school or college",
     "definition_zh": "n. 年长者, 资深者, 毕业班学生； a. 年长的, 高级的, 资深的",
     "examples": [
       {
-        "en": "Mastering this academic senior is essential for future research.",
-        "zh": "在相关语境中，'senior'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of senior is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 年长者, 资深者, 毕业班学生具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "sophomore_noun",
+    "id": "skull",
+    "word": "skull",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/skʌl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=skull&type=2",
+    "definition_en": "n. the bony skeleton of the head of vertebrates",
+    "definition_zh": "n. 头盖骨, 头脑, 好学生； 头颅",
+    "examples": [
+      {
+        "en": "A deep understanding of skull is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 头盖骨, 头脑, 好学生具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "sophomore",
     "word": "sophomore",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'sɒfәmɒ:/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sophomore-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sophomore&type=2",
     "definition_en": "n. a second-year undergraduate\\ns. used of the second year in United States high school or college",
     "definition_zh": "n. (大学)二年级生； a. 二年级学生的, 二年级的",
     "examples": [
       {
-        "en": "Mastering this academic sophomore is essential for future research.",
-        "zh": "在相关语境中，'sophomore'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of sophomore is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. (大学)二年级生具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "stretching_noun",
+    "id": "stretching",
     "word": "stretching",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'stretʃiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stretching-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stretching&type=2",
     "definition_en": "n. act of expanding by lengthening or widening",
     "definition_zh": "伸展作业, 锻伸作业",
     "examples": [
       {
-        "en": "Mastering this academic stretching is essential for future research.",
-        "zh": "在相关语境中，'stretching'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of stretching is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，伸展作业, 锻伸作业具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "stretching_verb",
-    "word": "stretching",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'stretʃiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stretching-us.mp3",
-    "definition_en": "n. act of expanding by lengthening or widening",
-    "definition_zh": "伸展作业, 锻伸作业",
-    "examples": [
-      {
-        "en": "Professors encourage students to stretching foundational concepts thoroughly.",
-        "zh": "在相关语境中，'stretching'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "student_noun",
+    "id": "student",
     "word": "student",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'stju:dnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/student-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=student&type=2",
     "definition_en": "n. a learner who is enrolled in an educational institution",
     "definition_zh": "n. 学生, 研究者, 学者",
     "examples": [
       {
-        "en": "Mastering this academic student is essential for future research.",
-        "zh": "在相关语境中，'student'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of student is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学生, 研究者, 学者具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "students_noun",
+    "id": "students",
     "word": "students",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/students-us.mp3",
+    "phonetic": "/students/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=students&type=2",
     "definition_en": "n a learner who is enrolled in an educational institution\\nn a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines",
     "definition_zh": "n. （尤指大专院校的）学生（student的复数）",
     "examples": [
       {
-        "en": "Mastering this academic students is essential for future research.",
-        "zh": "在相关语境中，'students'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of students is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. （尤指大专院校的）学生（student的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "study_noun",
+    "id": "study",
     "word": "study",
     "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'stʌdi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/study-us.mp3",
-    "definition_en": "n. applying the mind to learning and understanding a subject (especially by reading)\\nn. a state of deep mental absorption\\nn. a room used for reading and writing and studying\\nn. someone who memorizes quickly and easily (as the lines for a part in a play)",
-    "definition_zh": "n. 学习, 研究, 学科, 论文, 求学, 书房, 试作； vt. 学习, 读书, 研究, 考虑, 计划； vi. 学习, 思索",
-    "examples": [
-      {
-        "en": "Mastering this academic study is essential for future research.",
-        "zh": "在相关语境中，'study'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "study_verb",
-    "word": "study",
-    "part_of_speech": "verb",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'stʌdi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/study-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=study&type=2",
     "definition_en": "n. applying the mind to learning and understanding a subject (especially by reading)\\nn. a state of deep mental absorption\\nn. a room used for reading and writing and studying\\nn. someone who memorizes quickly and easily (as the lines for a part in a play)",
     "definition_zh": "n. 学习, 研究, 学科, 论文, 求学, 书房, 试作； vt. 学习, 读书, 研究, 考虑, 计划； vi. 学习, 思索",
     "examples": [
       {
-        "en": "Professors encourage students to study foundational concepts thoroughly.",
-        "zh": "在相关语境中，'study'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of study is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学习, 研究, 学科, 论文, 求学, 书房, 试作具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "superintendent_noun",
+    "id": "superintendent",
     "word": "superintendent",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/,sju:pәrin'tendәnt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/superintendent-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=superintendent&type=2",
     "definition_en": "n. a caretaker for an apartment house; represents the owner as janitor and rent collector",
     "definition_zh": "n. 监督人, 主管人, 主日学校校长； 监督人, 主管人(部门)",
     "examples": [
       {
-        "en": "Mastering this academic superintendent is essential for future research.",
-        "zh": "在相关语境中，'superintendent'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of superintendent is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 监督人, 主管人, 主日学校校长具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "task_noun",
+    "id": "symposium",
+    "word": "symposium",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/sim'pәuziәm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=symposium&type=2",
+    "definition_en": "n. a meeting or conference for the public discussion of some topic especially one in which the participants form an audience and make presentations",
+    "definition_zh": "n. 讨论会, 座谈会, 专题报告会, 专题论文集",
+    "examples": [
+      {
+        "en": "A deep understanding of symposium is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 讨论会, 座谈会, 专题报告会, 专题论文集具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "task",
     "word": "task",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/tɑ:sk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/task-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=task&type=2",
     "definition_en": "v. assign a task to",
     "definition_zh": "n. 工作, 任务, 作业, 困难的工作； vt. 派给...工作, 使辛劳； 任务",
     "examples": [
       {
-        "en": "Mastering this academic task is essential for future research.",
-        "zh": "在相关语境中，'task'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of task is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 工作, 任务, 作业, 困难的工作具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "teach_verb",
+    "id": "teach",
     "word": "teach",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ti:tʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teach-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=teach&type=2",
     "definition_en": "n. an English pirate who operated in the Caribbean and off the Atlantic coast of North America (died in 1718)\\nv. impart skills or knowledge to\\nv. accustom gradually to some action or attitude",
     "definition_zh": "vt. 教, 讲授, 教导, 教育； vi. 教书, 教学, 可以教",
     "examples": [
       {
-        "en": "Dedicated educators teach students how to think critically and analytically.",
-        "zh": "在相关语境中，'teach'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of teach is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 教, 讲授, 教导, 教育具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "teacher_noun",
+    "id": "teacher",
     "word": "teacher",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'ti:tʃә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teacher-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=teacher&type=2",
     "definition_en": "n. a person whose occupation is teaching\\nn. a personified abstraction that teaches",
     "definition_zh": "n. 教师, 老师, 导师",
     "examples": [
       {
-        "en": "Mastering this academic teacher is essential for future research.",
-        "zh": "在相关语境中，'teacher'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of teacher is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教师, 老师, 导师具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "teachers_noun",
+    "id": "teachers",
     "word": "teachers",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teachers-us.mp3",
+    "phonetic": "/teachers/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=teachers&type=2",
     "definition_en": "n a person whose occupation is teaching\\nn a personified abstraction that teaches",
     "definition_zh": "n. 教师（teacher的复数形式）",
     "examples": [
       {
-        "en": "Mastering this academic teachers is essential for future research.",
-        "zh": "在相关语境中，'teachers'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of teachers is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教师（teacher的复数形式）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "teaches_verb",
+    "id": "teaches",
     "word": "teaches",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'ti:tʃɪz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teaches-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=teaches&type=2",
     "definition_en": "n an English pirate who operated in the Caribbean and off the Atlantic coast of North America (died in 1718)\\nv impart skills or knowledge to\\nv accustom gradually to some action or attitude",
     "definition_zh": "v. 教( teach的第三人称单数 ); 教书; 训练; 教育",
     "examples": [
       {
-        "en": "Dedicated educators teach students how to think critically and analytically.",
-        "zh": "在相关语境中，'teaches'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of teaches is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 教( teach的第三人称单数 ); 教书; 训练; 教育具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "teaching_noun",
+    "id": "teaching",
     "word": "teaching",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'ti:tʃiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teaching-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=teaching&type=2",
     "definition_en": "n. the profession of a teacher\\nn. a doctrine that is taught",
     "definition_zh": "n. 教学, 学说, 教导",
     "examples": [
       {
-        "en": "Dedicated educators teach students how to think critically and analytically.",
-        "zh": "在相关语境中，'teaching'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of teaching is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教学, 学说, 教导具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "teaching_verb",
-    "word": "teaching",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'ti:tʃiŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teaching-us.mp3",
-    "definition_en": "n. the profession of a teacher\\nn. a doctrine that is taught",
-    "definition_zh": "n. 教学, 学说, 教导",
-    "examples": [
-      {
-        "en": "Dedicated educators teach students how to think critically and analytically.",
-        "zh": "在相关语境中，'teaching'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "teamwork_noun",
+    "id": "teamwork",
     "word": "teamwork",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'ti:mwә:k/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teamwork-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=teamwork&type=2",
     "definition_en": "n. cooperative work done by a team (especially when it is effective)",
     "definition_zh": "n. 协同作业, 协力； 联合工作, 联合行动, 协调工作",
     "examples": [
       {
-        "en": "Mastering this academic teamwork is essential for future research.",
-        "zh": "在相关语境中，'teamwork'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of teamwork is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 协同作业, 协力具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "technically_adverb",
+    "id": "technically",
     "word": "technically",
-    "part_of_speech": "adverb",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'teknikli/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/technically-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=technically&type=2",
     "definition_en": "r. with regard to technique\\nr. with regard to technical skill and the technology available\\nr. according to the exact meaning; according to the facts",
     "definition_zh": "adv. 技术上, 学术上, 专门地",
     "examples": [
       {
-        "en": "Professors encourage students to technically foundational concepts thoroughly.",
-        "zh": "在相关语境中，'technically'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of technically is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，adv. 技术上, 学术上, 专门地具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "test_noun",
+    "id": "test",
     "word": "test",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/test/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/test-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=test&type=2",
     "definition_en": "n. any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\\nn. the act of undergoing testing\\nn. the act of testing something\\nn. a hard outer covering as of some amoebas and sea urchins",
     "definition_zh": "n. 测试, 试验, 化验, 检验, 考验, 甲壳； vt. 测试, 试验, 化验； vi. 接受测验, 进行测试",
     "examples": [
       {
-        "en": "Mastering this academic test is essential for future research.",
-        "zh": "在相关语境中，'test'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of test is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 测试, 试验, 化验, 检验, 考验, 甲壳具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "test_verb",
-    "word": "test",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/test/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/test-us.mp3",
-    "definition_en": "n. any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\\nn. the act of undergoing testing\\nn. the act of testing something\\nn. a hard outer covering as of some amoebas and sea urchins",
-    "definition_zh": "n. 测试, 试验, 化验, 检验, 考验, 甲壳； vt. 测试, 试验, 化验； vi. 接受测验, 进行测试",
-    "examples": [
-      {
-        "en": "Professors encourage students to test foundational concepts thoroughly.",
-        "zh": "在相关语境中，'test'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "textbook_noun",
+    "id": "textbook",
     "word": "textbook",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'tekstbuk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/textbook-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=textbook&type=2",
     "definition_en": "n. a book prepared for use in schools or colleges",
     "definition_zh": "n. 教科书",
     "examples": [
       {
-        "en": "Mastering this academic textbook is essential for future research.",
-        "zh": "在相关语境中，'textbook'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of textbook is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教科书具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "textbooks_noun",
+    "id": "textbooks",
     "word": "textbooks",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'teksbʊks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/textbooks-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=textbooks&type=2",
     "definition_en": "n. a book prepared for use in schools or colleges",
     "definition_zh": "n. 教科书, 课本( textbook的复数形式 )",
     "examples": [
       {
-        "en": "Mastering this academic textbooks is essential for future research.",
-        "zh": "在相关语境中，'textbooks'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of textbooks is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 教科书, 课本( textbook的复数形式 )具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "thesis_noun",
+    "id": "thesis",
     "word": "thesis",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'θi:sis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thesis-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=thesis&type=2",
     "definition_en": "n. an unproved statement put forward as a premise in an argument",
     "definition_zh": "n. 论题, 论文",
     "examples": [
       {
-        "en": "Mastering this academic thesis is essential for future research.",
-        "zh": "在相关语境中，'thesis'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of thesis is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 论题, 论文具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "transcript_noun",
+    "id": "transcript",
     "word": "transcript",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'trænskript/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transcript-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=transcript&type=2",
     "definition_en": "n. something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech\\nn. a reproduction of a written record (e.g. of a legal or school record)",
     "definition_zh": "n. 抄本, 副本, 成绩单； 法院文本, 官方记录, 记录的副本",
     "examples": [
       {
-        "en": "Mastering this academic transcript is essential for future research.",
-        "zh": "在相关语境中，'transcript'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of transcript is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 抄本, 副本, 成绩单具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "trustees_noun",
+    "id": "trustees",
     "word": "trustees",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/trʌsˈti:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/trustees-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=trustees&type=2",
     "definition_en": "n. a person (or institution) to whom legal title to property is entrusted to use for another's benefit\\nn. members of a governing board",
     "definition_zh": "n. 受托人( trustee的复数形式 ); 信托公司; （公司、学院）理事; （慈善事业或其他机构的）受托人",
     "examples": [
       {
-        "en": "Mastering this academic trustees is essential for future research.",
-        "zh": "在相关语境中，'trustees'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of trustees is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 受托人( trustee的复数形式 ); 信托公司; （公司、学院）理事; （慈善事业或其他机构的）受托人具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "tuition_noun",
+    "id": "tuition",
     "word": "tuition",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/tju:'iʃәn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tuition-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tuition&type=2",
     "definition_en": "n. a fee paid for instruction (especially for higher education)",
     "definition_zh": "n. 学费, 讲授",
     "examples": [
       {
-        "en": "Mastering this academic tuition is essential for future research.",
-        "zh": "在相关语境中，'tuition'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of tuition is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 学费, 讲授具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "tutor_noun",
+    "id": "tutor",
     "word": "tutor",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'tju:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tutor-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tutor&type=2",
     "definition_en": "v. be a tutor to someone; give individual instruction\\nv. act as a guardian to someone",
     "definition_zh": "n. 家庭教师, 导师, 助教, 监护人； vt. 当...的教师, 教, 指导, 约束, 克制； vi. 当家庭教师, 受家庭教师的指导",
     "examples": [
       {
-        "en": "Mastering this academic tutor is essential for future research.",
-        "zh": "在相关语境中，'tutor'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of tutor is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 家庭教师, 导师, 助教, 监护人具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "undergraduate_noun",
+    "id": "undergraduate",
     "word": "undergraduate",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/.ʌndә'grædjuit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/undergraduate-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=undergraduate&type=2",
     "definition_en": "n. a university student who has not yet received a first degree",
     "definition_zh": "n. 大学本科生, 大学肄业生； a. 大学生的",
     "examples": [
       {
-        "en": "Mastering this academic undergraduate is essential for future research.",
-        "zh": "在相关语境中，'undergraduate'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of undergraduate is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 大学本科生, 大学肄业生具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "undergraduate_adjective",
-    "word": "undergraduate",
-    "part_of_speech": "adjective",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/.ʌndә'grædjuit/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/undergraduate-us.mp3",
-    "definition_en": "n. a university student who has not yet received a first degree",
-    "definition_zh": "n. 大学本科生, 大学肄业生； a. 大学生的",
-    "examples": [
-      {
-        "en": "Professors encourage students to undergraduate foundational concepts thoroughly.",
-        "zh": "在相关语境中，'undergraduate'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "undiminishing_adjective",
+    "id": "undiminishing",
     "word": "undiminishing",
     "part_of_speech": "adjective",
     "level": "C2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/undiminishing/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/undiminishing-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=undiminishing&type=2",
     "definition_en": "Denoting undiminishing; widely used in Education & Academia.",
     "definition_zh": "undiminishing（学术教育与学习研究相关词汇）",
     "examples": [
       {
-        "en": "Professors encourage students to undiminishing foundational concepts thoroughly.",
-        "zh": "在相关语境中，'undiminishing'的实际运用体现了明确的语义搭配。"
+        "en": "The team presented a undiminishing solution that met all specified requirements.",
+        "zh": "在日常与专业场景中，undiminishing（学术教育与学习研究相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "universities_noun",
+    "id": "universities",
     "word": "universities",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/ˌjuːnɪˈvɜː(r)sətiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/universities-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=universities&type=2",
     "definition_en": "n the body of faculty and students at a university\\nn establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching\\nn a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees",
     "definition_zh": "n. 大学( university的名词复数 )",
     "examples": [
       {
-        "en": "Mastering this academic universities is essential for future research.",
-        "zh": "在相关语境中，'universities'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of universities is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 大学( university的名词复数 )具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "university_noun",
+    "id": "university",
     "word": "university",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/.ju:ni'vә:siti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/university-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=university&type=2",
     "definition_en": "n. the body of faculty and students at a university\\nn. establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching\\nn. a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees",
     "definition_zh": "n. 大学",
     "examples": [
       {
-        "en": "Mastering this academic university is essential for future research.",
-        "zh": "在相关语境中，'university'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of university is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 大学具有重要的表达意义。"
       }
     ]
   }

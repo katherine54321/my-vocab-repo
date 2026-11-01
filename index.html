@@ -16,78 +16,56 @@
   <link rel="icon" type="image/svg+xml" href="icons/favicon.svg">
   <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
 
-  <link rel="stylesheet" href="style.css?v=9.1">
+  <link rel="stylesheet" href="style.css?v=9.2">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <!-- Top Navigation Bar -->
-  <header class="navbar">
-    <div class="nav-container">
-      <div class="brand">
-        <div class="brand-logo">
-          <span class="logo-icon">🗂️</span>
-        </div>
-        <div class="brand-text">
-          <h1>VocabMatrix <span>词界矩阵</span></h1>
-          <p class="tagline">EVP 权威难度骨架 × Wiktionary 详尽释义血肉</p>
-        </div>
-      </div>
+  
 
-      <!-- Total Vocabulary Stat Badge -->
-      <div class="nav-stat-pill" title="词库已收录全量词汇">
-        <span class="pulse-dot"></span>
-        <span class="stat-text">词库总量：<strong id="navTotalCount">0</strong> 词</span>
-      </div>
-
-      <!-- Mode Switcher (Desktop) -->
-      <nav class="nav-modes">
-        <button class="nav-btn active" data-view="browse" id="btnViewBrowse">
-          <span class="icon">🔍</span> 交叉探索
-        </button>
-        <button class="nav-btn" data-view="matrix" id="btnViewMatrix">
-          <span class="icon">📊</span> 难度矩阵
-        </button>
-        <button class="nav-btn" data-view="flashcards" id="btnViewFlashcards">
-          <span class="icon">🃏</span> 抽认卡刷词
-        </button>
-        <button class="nav-btn" data-view="quiz" id="btnViewQuiz">
-          <span class="icon">⚡</span> 词汇自测
-        </button>
-      </nav>
-
-      <!-- Search & Bookmarks -->
-      <div class="nav-actions">
-        <div class="search-box">
-          <span class="search-icon">🔎</span>
-          <input type="text" id="searchInput" placeholder="搜索单词、释义或例句..." />
-          <button id="clearSearch" class="clear-btn" style="display:none;">×</button>
-        </div>
-        <button class="action-badge-btn pwa-install-btn" id="pwaInstallBtn" title="添加到手机主屏幕使用">
-          📲 <span id="pwaInstallText">添加到主屏幕</span>
-        </button>
-        <button class="action-badge-btn cdn-badge-btn" id="cdnSettingsBtn" title="GitHub + CDN 边缘分发与本地缓存配置">
-          🌐 <span id="cdnStatusText">云端 CDN / 缓存</span>
-        </button>
-        <button class="action-badge-btn" id="favFilterBtn" title="查看收藏词汇">
-          ⭐ <span id="favCount">0</span>
-        </button>
-      </div>
-    </div>
-  </header>
-
-  <!-- Main Application Container -->
+    <!-- Main Application Container -->
   <main class="main-content">
+
+    <!-- Desktop View Switcher Bar (Hidden on Mobile) -->
+    <nav class="desktop-tab-bar" id="desktopTabBar">
+      <button class="nav-btn active" data-view="browse" id="btnViewBrowse">
+        <span class="icon">🔍</span> 场景探索
+      </button>
+      <button class="nav-btn" data-view="matrix" id="btnViewMatrix">
+        <span class="icon">📊</span> 难度矩阵
+      </button>
+      <button class="nav-btn" data-view="flashcards" id="btnViewFlashcards">
+        <span class="icon">🃏</span> 抽认卡刷词
+      </button>
+      <button class="nav-btn" data-view="quiz" id="btnViewQuiz">
+        <span class="icon">⚡</span> 词汇自测
+      </button>
+    </nav>
     
-    <!-- VIEW 1: BROWSE & CROSS-FILTER -->
+        <!-- VIEW 1: BROWSE & CROSS-FILTER -->
     <section id="viewBrowse" class="app-view active">
       
+      <!-- Home Top Functional Bar: Search & Favorites -->
+      <div class="home-top-bar">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" placeholder="搜索单词、中文释义或例句..." autocomplete="off">
+          <button id="clearSearch" class="clear-btn" style="display:none;">×</button>
+        </div>
+        <button class="fav-action-btn" id="favFilterBtn" title="查看收藏词汇">
+          <span class="fav-icon">⭐</span>
+          <span class="fav-text">收藏</span>
+          <span class="badge-count" id="favCount">0</span>
+        </button>
+      </div>
+
       <!-- App-Style Compact Multi-Tier Category Navigation -->
       <div class="app-filter-panel">
-        <!-- Tier 1: Domain Group Pills (Horizontal Scroll) -->
+        <!-- Tier 1: Domain Group Pills (Flat Grid) -->
         <div class="filter-tier tier-domain-groups">
-          <div class="app-scroll-pills" id="domainGroupPills">
+          <div class="domain-grid-pills" id="domainGroupPills">
             <!-- Dynamically populated by renderDomainGroups() -->
           </div>
         </div>
@@ -294,150 +272,7 @@
         <button class="action-btn" id="mPronounceBtn">🗣️ 慢速发音</button>
       </div>
     </div>
-  </div>
 
-  <!-- CDN & Local Cache Settings Modal -->
-  <div class="modal-backdrop" id="cdnModal" style="display:none;">
-    <div class="modal-card cdn-modal-card">
-      <button class="modal-close-btn" id="cdnModalCloseBtn">✕</button>
-      <div class="modal-header">
-        <div class="modal-word-title">
-          <h2>🌐 GitHub + CDN 边缘分发与双层缓存</h2>
-        </div>
-        <p class="tagline">零成本、高可用、免维护的云端只读词库托管架构</p>
-      </div>
-
-      <div class="modal-body">
-        <div class="cdn-status-alert">
-          <div class="alert-icon">⚡</div>
-          <div class="alert-content">
-            <h4>三级高效分发管道：</h4>
-            <p><strong>GitHub 仓库发布源</strong> → <strong>jsDelivr 全球边缘 CDN</strong> → <strong>客户端双层缓存 (Memory + IndexedDB)</strong></p>
-          </div>
-        </div>
-
-        <div class="detail-section">
-          <label>当前词库存储与缓存状态：</label>
-          <div class="cache-stat-grid">
-            <div class="cache-stat-box">
-              <span class="cs-num" id="csTotalWords">14,200</span>
-              <span class="cs-label">词库总词汇量</span>
-            </div>
-            <div class="cache-stat-box">
-              <span class="cs-num" id="csCachedSlices">0 / 34</span>
-              <span class="cs-label">已缓存场景切片</span>
-            </div>
-            <div class="cache-stat-box">
-              <span class="cs-num" id="csCachedWords">0</span>
-              <span class="cs-label">本地离线常驻词汇</span>
-            </div>
-          </div>
-        </div>
-
-        <div class="detail-section">
-          <label>配置你的 GitHub 仓库（按需切换）：</label>
-          <div class="cdn-form-row">
-            <div class="form-group">
-              <label>GitHub 用户名：</label>
-              <input type="text" id="cfgGithubUser" class="styled-input" value="katherine54321" />
-            </div>
-            <div class="form-group">
-              <label>仓库名称：</label>
-              <input type="text" id="cfgGithubRepo" class="styled-input" value="my-vocab-repo" />
-            </div>
-            <div class="form-group">
-              <label>分支 (Branch)：</label>
-              <input type="text" id="cfgGithubBranch" class="styled-input" value="v5.0.0" />
-            </div>
-          </div>
-        </div>
-
-        <div class="detail-section">
-          <label>生成的 jsDelivr CDN 加速访问样例：</label>
-          <div class="cdn-preview-box">
-            <code id="cdnPreviewUrl">https://cdn.jsdelivr.net/gh/katherine54321/my-vocab-repo@v5.0.0/data/food_beverages.json</code>
-          </div>
-        </div>
-
-        <div class="detail-section">
-          <label>数据源加载策略：</label>
-          <div class="mode-toggles">
-            <button class="toggle-pill active" id="btnSourceLocal">🏠 本地极速模式 (直接使用本地切片)</button>
-            <button class="toggle-pill" id="btnSourceCDN">☁️ 强制云端 CDN 模式 (jsDelivr 加速)</button>
-          </div>
-        </div>
-      </div>
-
-      <div class="modal-footer">
-        <button class="primary-btn" id="btnPrefetchAll">🚀 一键离线预加载全部 14,200 词</button>
-        <button class="action-btn" id="btnClearCache" style="color: #ef4444;">🗑️ 清空 IndexedDB 缓存</button>
-      </div>
-    </div>
-  </div>
-
-  <!-- PWA Install & Add to Home Screen Modal -->
-  <div class="modal-backdrop" id="pwaModal" style="display:none;">
-    <div class="modal-card pwa-modal-card">
-      <button class="modal-close-btn" id="pwaModalCloseBtn">✕</button>
-      
-      <div class="pwa-hero">
-        <img src="icons/icon-192.png" alt="VocabMatrix Icon" class="pwa-icon-large" />
-        <div class="pwa-hero-text">
-          <h3>安装 VocabMatrix 手机应用</h3>
-          <p class="tagline">添加到主屏幕，享受原生 App 般的流畅体验</p>
-        </div>
-      </div>
-
-      <div class="pwa-perks">
-        <div class="perk-item">
-          <span class="perk-icon">⚡</span>
-          <div>
-            <strong>秒开无等待</strong>
-            <p>免去在浏览器中输入网址，桌面图标一触即开</p>
-          </div>
-        </div>
-        <div class="perk-item">
-          <span class="perk-icon">📦</span>
-          <div>
-            <strong>全量离线可用</strong>
-            <p>依托 Service Worker 与本地缓存，无网络也可刷词</p>
-          </div>
-        </div>
-        <div class="perk-item">
-          <span class="perk-icon">📱</span>
-          <div>
-            <strong>沉浸式全屏学习</strong>
-            <p>去除浏览器地址栏与底部按钮，全心专注词汇记忆</p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Installation Guide for Android / iOS -->
-      <div class="pwa-guide-box">
-        <div class="guide-title">💡 手机端添加方式：</div>
-        <div class="guide-steps">
-          <div class="step-card ios-step">
-            <span class="step-badge">iOS (Safari)</span>
-            <p>1. 点击浏览器底部菜单中间的 <strong>分享按钮 (⎋)</strong></p>
-            <p>2. 向上滑动列表，轻点 <strong>『添加到主屏幕 ➕』</strong></p>
-            <p>3. 右上角点击『添加』即可完成！</p>
-          </div>
-          <div class="step-card android-step">
-            <span class="step-badge">Android (Chrome / 浏览器)</span>
-            <p>1. 点击浏览器右上角菜单 <strong>⋮</strong></p>
-            <p>2. 选择 <strong>『添加到主屏幕』</strong> 或 <strong>『安装应用』</strong></p>
-            <button class="primary-btn pwa-native-install-btn" id="btnDoInstallPwa">📲 立即添加到桌面</button>
-          </div>
-        </div>
-      </div>
-
-      <div class="modal-footer" style="justify-content: flex-end;">
-        <button class="action-btn" id="btnPwaDismiss">我知道了</button>
-      </div>
-    </div>
-  </div>
-
-  <!-- Mobile Bottom Tab Bar (Native App Style) -->
   <nav class="mobile-bottom-nav" id="mobileBottomNav">
     <button class="bottom-nav-item active" data-view="browse">
       <span class="b-icon">🔍</span>
@@ -461,8 +296,8 @@
   <div class="toast" id="toast"></div>
 
   <!-- Scripts -->
-  <script src="categories.js?v=9.1"></script>
-  <script src="data.js?v=9.1"></script>
-  <script src="app.js?v=9.1"></script>
+  <script src="categories.js?v=9.2"></script>
+  <script src="data.js?v=9.2"></script>
+  <script src="app.js?v=9.2"></script>
 </body>
 </html>

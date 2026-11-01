@@ -1,1117 +1,1027 @@
 [
   {
-    "id": "acquires_verb",
+    "id": "acquires",
     "word": "acquires",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/əˈkwaiəz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acquires-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=acquires&type=2",
     "definition_en": "v come into the possession of something concrete or abstract\\nv take on a certain form, attribute, or aspect\\nv come to have or undergo a change of (physical features and attributes)\\nv locate (a moving entity) by means of a tracking system such as radar\\nv win something through one's efforts\\nv gain knowledge or skills\\nv gain through experience",
     "definition_zh": "v. 获得( acquire的第三人称单数 ); （使用探测器）捕获（目标）; 取得; （计算机、机器人等）捕捉",
     "examples": [
       {
-        "en": "Modern digital systems continuously acquires real-time server telemetry.",
-        "zh": "在相关语境中，'acquires'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of acquires is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 获得( acquire的第三人称单数 ); （使用探测器）捕获（目标）; 取得; （计算机、机器人等）捕捉具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "act_noun",
+    "id": "act",
     "word": "act",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/ækt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/act-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=act&type=2",
     "definition_en": "n. a legal document codifying the result of deliberations of a committee or society or legislative body\\nn. something that people do or cause to happen\\nn. a subdivision of a play or opera or ballet\\nn. a short theatrical performance that is part of a longer program",
     "definition_zh": "n. 行动, 行为, 幕, 法案； vi. 行动, 表演, 假装, 见效, 表现, 担当； vt. 扮演, 装作； 先进通信技术, 先进计算机工艺, 自动代码翻译技术",
     "examples": [
       {
-        "en": "Engineers implemented a secure act to optimize data transmission.",
-        "zh": "在相关语境中，'act'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of act is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 行动, 行为, 幕, 法案具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "act_verb",
-    "word": "act",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/ækt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/act-us.mp3",
-    "definition_en": "n. a legal document codifying the result of deliberations of a committee or society or legislative body\\nn. something that people do or cause to happen\\nn. a subdivision of a play or opera or ballet\\nn. a short theatrical performance that is part of a longer program",
-    "definition_zh": "n. 行动, 行为, 幕, 法案； vi. 行动, 表演, 假装, 见效, 表现, 担当； vt. 扮演, 装作； 先进通信技术, 先进计算机工艺, 自动代码翻译技术",
-    "examples": [
-      {
-        "en": "Modern digital systems continuously act real-time server telemetry.",
-        "zh": "在相关语境中，'act'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "ai_noun",
+    "id": "ai",
     "word": "ai",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/ai/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ai-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ai&type=2",
     "definition_en": "n an agency of the United States Army responsible for providing timely and relevant and accurate and synchronized intelligence to tactical and operational and strategic level commanders\\nn the branch of computer science that deal with writing computer programs that can solve problems creatively\\nn a sloth that has three long claws on each forefoot and each hindfoot\\nn the introduction of semen into the oviduct or uterus by some means other than sexual intercourse",
     "definition_zh": "附加信息, 人工智能； 人工智能",
     "examples": [
       {
-        "en": "Engineers implemented a secure ai to optimize data transmission.",
-        "zh": "在相关语境中，'ai'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of ai is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，附加信息, 人工智能具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "aim_noun",
+    "id": "aim",
     "word": "aim",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/eim/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aim-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aim&type=2",
     "definition_en": "n. the goal intended to be attained (and which is believed to be attainable)\\nn. the action of directing something at an object\\nv. point or cause to go (blows, weapons, or objects such as photographic equipment) towards\\nv. propose or intend",
     "definition_zh": "n. 目标, 瞄准, 击中目标的能力； vi. 对准目标, 致力, 打算； vt. 瞄准； 医学文摘索引, 存取隔离机构, 高级信息管理程序, 先进接口模块； 应用接口模块, 医学人工智能, 相联索引法, 异步接口模块； 自动化信息管理, 自动化综合制造, 自动化库存管理",
     "examples": [
       {
-        "en": "Engineers implemented a secure aim to optimize data transmission.",
-        "zh": "在相关语境中，'aim'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of aim is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 目标, 瞄准, 击中目标的能力具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "aim_verb",
-    "word": "aim",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/eim/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aim-us.mp3",
-    "definition_en": "n. the goal intended to be attained (and which is believed to be attainable)\\nn. the action of directing something at an object\\nv. point or cause to go (blows, weapons, or objects such as photographic equipment) towards\\nv. propose or intend",
-    "definition_zh": "n. 目标, 瞄准, 击中目标的能力； vi. 对准目标, 致力, 打算； vt. 瞄准； 医学文摘索引, 存取隔离机构, 高级信息管理程序, 先进接口模块； 应用接口模块, 医学人工智能, 相联索引法, 异步接口模块； 自动化信息管理, 自动化综合制造, 自动化库存管理",
-    "examples": [
-      {
-        "en": "Modern digital systems continuously aim real-time server telemetry.",
-        "zh": "在相关语境中，'aim'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "angsty_adjective",
+    "id": "angsty",
     "word": "angsty",
     "part_of_speech": "adjective",
     "level": "C2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/angsty/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angsty-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=angsty&type=2",
     "definition_en": "Denoting angsty; widely used in Science & Technology.",
     "definition_zh": "angsty（计算机、AI与前沿科技相关词汇）",
     "examples": [
       {
-        "en": "Modern digital systems continuously angsty real-time server telemetry.",
-        "zh": "在相关语境中，'angsty'的实际运用体现了明确的语义搭配。"
+        "en": "The team presented a angsty solution that met all specified requirements.",
+        "zh": "在日常与专业场景中，angsty（计算机、AI与前沿科技相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "applications_noun",
+    "id": "applications",
     "word": "applications",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/applications-us.mp3",
+    "phonetic": "/applications/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=applications&type=2",
     "definition_en": "n the act of bringing something to bear; using it for a particular purpose\\nn a verbal or written request for assistance or employment or admission to a school\\nn the work of applying something; \\nn a program that gives a computer instructions that provide the user with tools to accomplish a task\\nn liquid preparation having a soothing or antiseptic or medicinal action when applied to the skin\\nn a diligent effort\\nn the action of putting something into operation",
     "definition_zh": "n. 应用；应用程序；应用软件（application的复数）",
     "examples": [
       {
-        "en": "Engineers implemented a secure applications to optimize data transmission.",
-        "zh": "在相关语境中，'applications'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of applications is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 应用具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "arcanely_adverb",
+    "id": "arcanely",
     "word": "arcanely",
     "part_of_speech": "adverb",
     "level": "C2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/arcanely/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arcanely-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=arcanely&type=2",
     "definition_en": "Denoting arcanely; widely used in Science & Technology.",
     "definition_zh": "arcanely（计算机、AI与前沿科技相关词汇）",
     "examples": [
       {
-        "en": "Modern digital systems continuously arcanely real-time server telemetry.",
-        "zh": "在相关语境中，'arcanely'的实际运用体现了明确的语义搭配。"
+        "en": "They adopted a arcanely approach to address the challenge.",
+        "zh": "在日常与专业场景中，arcanely（计算机、AI与前沿科技相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "attach_verb",
+    "id": "attach",
     "word": "attach",
-    "part_of_speech": "verb",
-    "level": "B1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/ә'tætʃ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attach-us.mp3",
-    "definition_en": "v. cause to be attached\\nv. be attached; be in contact with\\nv. become attached",
-    "definition_zh": "vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚； vi. 附属, 归属, 联系在一起； 挂接服务器命令, 关联, 挂接, 附加",
-    "examples": [
-      {
-        "en": "Modern digital systems continuously attach real-time server telemetry.",
-        "zh": "在相关语境中，'attach'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "basic_adjective",
-    "word": "basic",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/'beisik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/basic-us.mp3",
-    "definition_en": "n. a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use\\nn. (usually plural) a necessary commodity for which demand is constant\\na. pertaining to or constituting a base or basis\\ns. reduced to the simplest and most significant form possible without loss of generality",
-    "definition_zh": "n. 基本原理, 要素, 基本规律； a. 基本的, 碱性的； (计算机)BASIC语言",
-    "examples": [
-      {
-        "en": "Modern digital systems continuously basic real-time server telemetry.",
-        "zh": "在相关语境中，'basic'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "basic_noun",
-    "word": "basic",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/'beisik/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/basic-us.mp3",
-    "definition_en": "n. a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use\\nn. (usually plural) a necessary commodity for which demand is constant\\na. pertaining to or constituting a base or basis\\ns. reduced to the simplest and most significant form possible without loss of generality",
-    "definition_zh": "n. 基本原理, 要素, 基本规律； a. 基本的, 碱性的； (计算机)BASIC语言",
+    "phonetic": "/ә'tætʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=attach&type=2",
+    "definition_en": "v. cause to be attached\\nv. be attached; be in contact with\\nv. become attached",
+    "definition_zh": "vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚； vi. 附属, 归属, 联系在一起； 挂接服务器命令, 关联, 挂接, 附加",
     "examples": [
       {
-        "en": "Engineers implemented a secure basic to optimize data transmission.",
-        "zh": "在相关语境中，'basic'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of attach is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "bliss_noun",
+    "id": "basic",
+    "word": "basic",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'beisik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=basic&type=2",
+    "definition_en": "n. a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use\\nn. (usually plural) a necessary commodity for which demand is constant\\na. pertaining to or constituting a base or basis\\ns. reduced to the simplest and most significant form possible without loss of generality",
+    "definition_zh": "n. 基本原理, 要素, 基本规律； a. 基本的, 碱性的； (计算机)BASIC语言",
+    "examples": [
+      {
+        "en": "A deep understanding of basic is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 基本原理, 要素, 基本规律具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "bliss",
     "word": "bliss",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/blis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bliss-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bliss&type=2",
     "definition_en": "n. a state of extreme happiness",
     "definition_zh": "n. 福佑, 天赐的福； 实现系统软件的基本语言",
     "examples": [
       {
-        "en": "Engineers implemented a secure bliss to optimize data transmission.",
-        "zh": "在相关语境中，'bliss'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of bliss is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 福佑, 天赐的福具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "blog_noun",
+    "id": "blog",
     "word": "blog",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blog-us.mp3",
+    "phonetic": "/blog/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blog&type=2",
     "definition_en": "v. read, write, or edit a shared on-line journal",
     "definition_zh": "n. 博客；部落格；网络日志",
     "examples": [
       {
-        "en": "Engineers implemented a secure blog to optimize data transmission.",
-        "zh": "在相关语境中，'blog'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of blog is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 博客具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cap_noun",
+    "id": "cap",
     "word": "cap",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/kæp/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cap-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cap&type=2",
     "definition_en": "n. a tight-fitting headdress\\nn. a top (as for a bottle)\\nn. something serving as a cover or protection\\nn. a fruiting structure resembling an umbrella or a cone that forms the top of a stalked fleshy fungus such as a mushroom",
     "definition_zh": "n. 盖子, 帽子； vt. 戴帽子, 覆盖, 胜过； vi. 脱帽致意； 调用程序分析, 容量, 代码分析程序, 计算机辅助生产, 计算机辅助印刷",
     "examples": [
       {
-        "en": "Engineers implemented a secure cap to optimize data transmission.",
-        "zh": "在相关语境中，'cap'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cap is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 盖子, 帽子具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "caps_noun",
+    "id": "caps",
     "word": "caps",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caps-us.mp3",
+    "phonetic": "/caps/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=caps&type=2",
     "definition_en": "n a tight-fitting headdress\\nn a top (as for a bottle)\\nn a mechanical or electrical explosive device or a small amount of explosive; can be used to initiate the reaction of a disrupting explosive\\nn something serving as a cover or protection\\nn a fruiting structure resembling an umbrella or a cone that forms the top of a stalked fleshy fungus such as a mushroom\\nn a protective covering that is part of a plant\\nn an upper limit on what is allowed\\nn (dentistry) dental appliance consisting of an artificial crown for a broken or decayed tooth\\nn the upper part of a column that supports the entablature\\nv lie at the top of\\nv restrict the number or amount of",
     "definition_zh": "abbr. 盒式磁带程序设计系统（Cassette Programming System）；计算机辅助产品检索（Computer Assisted Product Search）",
     "examples": [
       {
-        "en": "Engineers implemented a secure caps to optimize data transmission.",
-        "zh": "在相关语境中，'caps'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of caps is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，abbr. 盒式磁带程序设计系统（Cassette Programming System）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cars_noun",
+    "id": "cars",
     "word": "cars",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cars-us.mp3",
+    "phonetic": "/cars/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cars&type=2",
     "definition_en": "n a motor vehicle with four wheels; usually propelled by an internal combustion engine\\nn a wheeled vehicle adapted to the rails of railroad\\nn the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\\nn where passengers ride up and down\\nn a conveyance for passengers or freight on a cable railway",
     "definition_zh": "abbr. 中美洲研究站（Central America Research Station）；计算机化自动额定值系统（computerized automatic rating system）；汽车收据结账证书（Certificates for Automobile Receivables）",
     "examples": [
       {
-        "en": "Engineers implemented a secure cars to optimize data transmission.",
-        "zh": "在相关语境中，'cars'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cars is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，abbr. 中美洲研究站（Central America Research Station）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cashpoint_noun",
+    "id": "cashpoint",
     "word": "cashpoint",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cashpoint-us.mp3",
+    "phonetic": "/cashpoint/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cashpoint&type=2",
     "definition_en": "",
     "definition_zh": "一种电脑化的付现机",
     "examples": [
       {
-        "en": "Engineers implemented a secure cashpoint to optimize data transmission.",
-        "zh": "在相关语境中，'cashpoint'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cashpoint is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，一种电脑化的付现机具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cat_noun",
+    "id": "cat",
     "word": "cat",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/kæt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cat-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cat&type=2",
     "definition_en": "n. feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\\nn. a spiteful woman gossip\\nv. beat with a cat-o'-nine-tails",
     "definition_zh": "n. 猫, 恶妇； vi. 呕吐； 计算机辅助教育, 计算机辅助测试, 计算机辅助翻译, 计算机辅助排版； 计算机辅助教学, 计算机辅助翻译, 计算机辅助排字, 计算机辅助测试",
     "examples": [
       {
-        "en": "Engineers implemented a secure cat to optimize data transmission.",
-        "zh": "在相关语境中，'cat'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cat is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 猫, 恶妇具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cats_noun",
+    "id": "cats",
     "word": "cats",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cats-us.mp3",
+    "phonetic": "/cats/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cats&type=2",
     "definition_en": "n feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\\nn an informal term for a youth or man\\nn a spiteful woman gossip\\nn the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant\\nn a whip with nine knotted cords\\nn a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work\\nn any of several large cats typically able to roar and living in the wild\\nn a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis\\nv beat with a cat-o'-nine-tails\\nv eject the contents of the stomach through the mouth",
     "definition_zh": "abbr. 高级电视研究中心（Centre for Advanced Television Studies）；计算机自动测试系统（Computer Automated Test System）；通信和跟踪系统（Communications and Tracking System）；综合分析试验系统（Comprehensive Analytical Test System）",
     "examples": [
       {
-        "en": "Engineers implemented a secure cats to optimize data transmission.",
-        "zh": "在相关语境中，'cats'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cats is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，abbr. 高级电视研究中心（Centre for Advanced Television Studies）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "chip_noun",
+    "id": "chip",
     "word": "chip",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/tʃip/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chip-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chip&type=2",
     "definition_en": "n. a triangular wooden float attached to the end of a log line\\nn. a piece of dried bovine dung\\nn. a thin crisp slice of potato fried in deep fat\\nn. a small disk-shaped counter used to represent money when gambling",
     "definition_zh": "n. 屑片, 薄片, 碎片； vt. 削, 切, 削成碎片, 使摔倒, 凿； vi. 削下屑片； 孔屑; 组件; 晶片; 芯片",
     "examples": [
       {
-        "en": "Engineers implemented a secure chip to optimize data transmission.",
-        "zh": "在相关语境中，'chip'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of chip is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 屑片, 薄片, 碎片具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "computer_noun",
+    "id": "computer",
     "word": "computer",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/kәm'pju:tә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/computer-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=computer&type=2",
     "definition_en": "n. a machine for performing calculations automatically",
     "definition_zh": "n. 电脑, 电子计算机； 计算机",
     "examples": [
       {
-        "en": "Engineers implemented a secure computer to optimize data transmission.",
-        "zh": "在相关语境中，'computer'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of computer is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 电脑, 电子计算机具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "computerize_verb",
+    "id": "computerize",
     "word": "computerize",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "C2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/kәm'pju:tәraiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/computerize-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=computerize&type=2",
     "definition_en": "v. provide with computers\\nv. store in a computer",
     "definition_zh": "vt. 用电脑处理, 使电脑化； 给...装备电脑, 用电脑计算",
     "examples": [
       {
-        "en": "Modern digital systems continuously computerize real-time server telemetry.",
-        "zh": "在相关语境中，'computerize'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of computerize is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vt. 用电脑处理, 使电脑化具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "computerized_adjective",
+    "id": "computerized",
     "word": "computerized",
-    "part_of_speech": "adjective",
-    "level": "A1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/kәm'pju:tәraizd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/computerized-us.mp3",
-    "definition_en": "v provide with computers\\nv store in a computer\\nv control a function, process, or creation by a computer",
-    "definition_zh": "a. 电脑的；用电脑处理的；电脑化的",
-    "examples": [
-      {
-        "en": "Modern digital systems continuously computerized real-time server telemetry.",
-        "zh": "在相关语境中，'computerized'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "computers_noun",
-    "word": "computers",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/computers-us.mp3",
-    "definition_en": "n a machine for performing calculations automatically\\nn an expert at calculation (or at operating calculating machines)",
-    "definition_zh": "n. 计算机, 电脑（computer的复数）",
+    "phonetic": "/kәm'pju:tәraizd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=computerized&type=2",
+    "definition_en": "v provide with computers\\nv store in a computer\\nv control a function, process, or creation by a computer",
+    "definition_zh": "a. 电脑的；用电脑处理的；电脑化的",
     "examples": [
       {
-        "en": "Engineers implemented a secure computers to optimize data transmission.",
-        "zh": "在相关语境中，'computers'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of computerized is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 电脑的具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cs_noun",
+    "id": "computers",
+    "word": "computers",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/computers/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=computers&type=2",
+    "definition_en": "n a machine for performing calculations automatically\\nn an expert at calculation (or at operating calculating machines)",
+    "definition_zh": "n. 计算机, 电脑（computer的复数）",
+    "examples": [
+      {
+        "en": "A deep understanding of computers is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 计算机, 电脑（computer的复数）具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "cs",
     "word": "cs",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'si:,es/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cs-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cs&type=2",
     "definition_en": "n a soft silver-white ductile metallic element (liquid at normal temperatures); the most electropositive and alkaline metal\\nn a degree on the centigrade scale of temperature\\nn the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second\\nn a vitamin found in fresh fruits (especially citrus fruits) and vegetables; prevents scurvy\\nn one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)\\nn a base found in DNA and RNA and derived from pyrimidine; pairs with guanine\\nn an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds\\nn ten 10s\\nn a unit of electrical charge equal to the amount of charge transferred by a current of 1 ampere in 1 second\\nn a general-purpose programing language closely associated with the UNIX operating system\\nn (music) the keynote of the scale of C major\\nn the 3rd letter of the Roman alphabet\\nn street names for cocaine",
     "definition_zh": "文职人员, 行政机构； 通道状态, 通信仿真器, 公用源, 计算机软件",
     "examples": [
       {
-        "en": "Engineers implemented a secure cs to optimize data transmission.",
-        "zh": "在相关语境中，'cs'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cs is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，文职人员, 行政机构具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cyberaddict_noun",
+    "id": "ct",
+    "word": "CT",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/ct/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ct&type=2",
+    "definition_en": "n a New England state; one of the original 13 colonies\\nn a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis",
+    "definition_zh": "计算机断层扫描； 通信终端, 计算机终端, 计算机断层造影, 计数器",
+    "examples": [
+      {
+        "en": "A deep understanding of CT is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，计算机断层扫描具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "cyberaddict",
     "word": "cyberaddict",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/cyberaddict/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cyberaddict-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cyberaddict&type=2",
     "definition_en": "Denoting cyberaddict; widely used in Science & Technology.",
     "definition_zh": "cyberaddict（计算机、AI与前沿科技相关词汇）",
     "examples": [
       {
-        "en": "Engineers implemented a secure cyberaddict to optimize data transmission.",
-        "zh": "在相关语境中，'cyberaddict'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cyberaddict is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，cyberaddict（计算机、AI与前沿科技相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cybercrime_noun",
+    "id": "cybercrime",
     "word": "cybercrime",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cybercrime-us.mp3",
+    "phonetic": "/cybercrime/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cybercrime&type=2",
     "definition_en": "n. crime committed using a computer and the internet to steal a person's identity or sell contraband or stalk victims or disrupt operations with malevolent programs",
     "definition_zh": "n. 网络犯罪",
     "examples": [
       {
-        "en": "Engineers implemented a secure cybercrime to optimize data transmission.",
-        "zh": "在相关语境中，'cybercrime'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cybercrime is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 网络犯罪具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "cyberpet_noun",
+    "id": "cyberpet",
     "word": "cyberpet",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/cyberpet/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cyberpet-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cyberpet&type=2",
     "definition_en": "Denoting cyberpet; widely used in Science & Technology.",
     "definition_zh": "cyberpet（计算机、AI与前沿科技相关词汇）",
     "examples": [
       {
-        "en": "Engineers implemented a secure cyberpet to optimize data transmission.",
-        "zh": "在相关语境中，'cyberpet'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of cyberpet is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，cyberpet（计算机、AI与前沿科技相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "database_noun",
+    "id": "database",
     "word": "database",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'deitәbeis/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/database-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=database&type=2",
     "definition_en": "n. an organized body of related information",
     "definition_zh": "n. 数据库； 数据库",
     "examples": [
       {
-        "en": "Engineers implemented a secure database to optimize data transmission.",
-        "zh": "在相关语境中，'database'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of database is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 数据库具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "databases_noun",
+    "id": "databases",
     "word": "databases",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/databases-us.mp3",
+    "phonetic": "/databases/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=databases&type=2",
     "definition_en": "n an organized body of related information",
     "definition_zh": "n. 数据库；资料库（database的复数）",
     "examples": [
       {
-        "en": "Engineers implemented a secure databases to optimize data transmission.",
-        "zh": "在相关语境中，'databases'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of databases is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 数据库具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "dna_noun",
+    "id": "dna",
     "word": "dna",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dna-us.mp3",
+    "phonetic": "/dna/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dna&type=2",
     "definition_en": "n (biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information",
     "definition_zh": "脱氧核糖核酸； 无效数据, 数字网络体系结构, 分布式网络体系结构",
     "examples": [
       {
-        "en": "Engineers implemented a secure dna to optimize data transmission.",
-        "zh": "在相关语境中，'dna'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of dna is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，脱氧核糖核酸具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "dos_noun",
+    "id": "dos",
     "word": "dos",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/du:z/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dos-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dos&type=2",
     "definition_en": "n. an operating system that is on a disk",
     "definition_zh": "磁盘操作系统； 磁盘操作系统; DOS内部命令:该命令用于将DOS核心部分装入高内存区； 且允许其设备驱动程序或常驻程序装入上层内存块",
     "examples": [
       {
-        "en": "Engineers implemented a secure dos to optimize data transmission.",
-        "zh": "在相关语境中，'dos'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of dos is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，磁盘操作系统具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "enhancing_verb",
+    "id": "enhancing",
     "word": "enhancing",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/inˈhɑ:nsɪŋ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enhancing-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=enhancing&type=2",
     "definition_en": "v increase\\nv make better or more attractive",
     "definition_zh": "v. 提高( enhance的现在分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）; 探溯语源, 指示语源( etymologize的过去式和过去分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）",
     "examples": [
       {
-        "en": "Modern digital systems continuously enhancing real-time server telemetry.",
-        "zh": "在相关语境中，'enhancing'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of enhancing is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 提高( enhance的现在分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）; 探溯语源, 指示语源( etymologize的过去式和过去分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "environments_noun",
+    "id": "environments",
     "word": "environments",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environments-us.mp3",
+    "phonetic": "/environments/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=environments&type=2",
     "definition_en": "n the totality of surrounding conditions\\nn the area in which something exists or lives",
     "definition_zh": "n. 环境；生态环境；（计算机系统运行的）环境（environment的复数）",
     "examples": [
       {
-        "en": "Engineers implemented a secure environments to optimize data transmission.",
-        "zh": "在相关语境中，'environments'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of environments is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 环境具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "flatout_adverb",
+    "id": "flatout",
     "word": "flatout",
     "part_of_speech": "adverb",
     "level": "C2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/flatout/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flatout-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=flatout&type=2",
     "definition_en": "Denoting flatout; widely used in Science & Technology.",
     "definition_zh": "flatout（计算机、AI与前沿科技相关词汇）",
     "examples": [
       {
-        "en": "Modern digital systems continuously flatout real-time server telemetry.",
-        "zh": "在相关语境中，'flatout'的实际运用体现了明确的语义搭配。"
+        "en": "They adopted a flatout approach to address the challenge.",
+        "zh": "在日常与专业场景中，flatout（计算机、AI与前沿科技相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "genomically_adverb",
+    "id": "genomically",
     "word": "genomically",
     "part_of_speech": "adverb",
     "level": "C2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/genomically/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/genomically-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=genomically&type=2",
     "definition_en": "Denoting genomically; widely used in Science & Technology.",
     "definition_zh": "genomically（计算机、AI与前沿科技相关词汇）",
     "examples": [
       {
-        "en": "Modern digital systems continuously genomically real-time server telemetry.",
-        "zh": "在相关语境中，'genomically'的实际运用体现了明确的语义搭配。"
+        "en": "They adopted a genomically approach to address the challenge.",
+        "zh": "在日常与专业场景中，genomically（计算机、AI与前沿科技相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "graphics_noun",
+    "id": "graphics",
     "word": "graphics",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'græfiks/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/graphics-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=graphics&type=2",
     "definition_en": "n. the drawings and photographs in the layout of a book",
     "definition_zh": "n. 制图法, 制图学, 图解算法, 图形显示； 图形; DOS外部命令:打印图形方式下的屏幕内容",
     "examples": [
       {
-        "en": "Engineers implemented a secure graphics to optimize data transmission.",
-        "zh": "在相关语境中，'graphics'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of graphics is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 制图法, 制图学, 图解算法, 图形显示具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "internet_noun",
+    "id": "internet",
     "word": "internet",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'intәnet/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/internet-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=internet&type=2",
     "definition_en": "n. a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange",
     "definition_zh": "因特网, 国际互连网, 网际网络, 互连网络, 广域网",
     "examples": [
       {
-        "en": "Engineers implemented a secure internet to optimize data transmission.",
-        "zh": "在相关语境中，'internet'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of internet is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，因特网, 国际互连网, 网际网络, 互连网络, 广域网具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "microcomputer_noun",
+    "id": "microcomputer",
     "word": "microcomputer",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/.maikrәu'kɒmpjutә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/microcomputer-us.mp3",
-    "definition_en": "n a small digital computer based on a microprocessor and designed to be used by one person at a time",
-    "definition_zh": "n. 微电脑, 微机； 微型计算机; 微计算机",
-    "examples": [
-      {
-        "en": "Engineers implemented a secure microcomputer to optimize data transmission.",
-        "zh": "在相关语境中，'microcomputer'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "net_adjective",
-    "word": "net",
-    "part_of_speech": "adjective",
-    "level": "A2",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/net/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/net-us.mp3",
-    "definition_en": "n. a trap made of netting to catch fish or birds or insects\\nn. a goal lined with netting (as in soccer or hockey)\\nn. game equipment consisting of a strip of netting dividing the playing area in tennis or badminton\\nn. an open fabric of string or rope or wire woven together at regular intervals",
-    "definition_zh": "n. 网, 网状物, 罗网, 净利, 净价； a. 净的, 最终的； vt. 用网捕, 撒网, 净赚, 得到； vi. 编网； 网络, 网络分析程序",
-    "examples": [
-      {
-        "en": "Modern digital systems continuously net real-time server telemetry.",
-        "zh": "在相关语境中，'net'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "net_noun",
-    "word": "net",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/net/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/net-us.mp3",
-    "definition_en": "n. a trap made of netting to catch fish or birds or insects\\nn. a goal lined with netting (as in soccer or hockey)\\nn. game equipment consisting of a strip of netting dividing the playing area in tennis or badminton\\nn. an open fabric of string or rope or wire woven together at regular intervals",
-    "definition_zh": "n. 网, 网状物, 罗网, 净利, 净价； a. 净的, 最终的； vt. 用网捕, 撒网, 净赚, 得到； vi. 编网； 网络, 网络分析程序",
+    "phonetic": "/.maikrәu'kɒmpjutә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=microcomputer&type=2",
+    "definition_en": "n a small digital computer based on a microprocessor and designed to be used by one person at a time",
+    "definition_zh": "n. 微电脑, 微机； 微型计算机; 微计算机",
     "examples": [
       {
-        "en": "Engineers implemented a secure net to optimize data transmission.",
-        "zh": "在相关语境中，'net'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of microcomputer is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 微电脑, 微机具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "nos_noun",
+    "id": "net",
+    "word": "net",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/net/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=net&type=2",
+    "definition_en": "n. a trap made of netting to catch fish or birds or insects\\nn. a goal lined with netting (as in soccer or hockey)\\nn. game equipment consisting of a strip of netting dividing the playing area in tennis or badminton\\nn. an open fabric of string or rope or wire woven together at regular intervals",
+    "definition_zh": "n. 网, 网状物, 罗网, 净利, 净价； a. 净的, 最终的； vt. 用网捕, 撒网, 净赚, 得到； vi. 编网； 网络, 网络分析程序",
+    "examples": [
+      {
+        "en": "A deep understanding of net is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 网, 网状物, 罗网, 净利, 净价具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "nos",
     "word": "nos",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nos-us.mp3",
+    "phonetic": "/nos/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nos&type=2",
     "definition_en": "n a negative\\nn a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known",
     "definition_zh": "网络操作系统",
     "examples": [
       {
-        "en": "Engineers implemented a secure nos to optimize data transmission.",
-        "zh": "在相关语境中，'nos'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of nos is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，网络操作系统具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "nut_noun",
+    "id": "nut",
     "word": "nut",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/nʌt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nut-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nut&type=2",
     "definition_en": "n. usually large hard-shelled seed\\nn. Egyptian goddess of the sky\\nn. a small (usually square or hexagonal) metal block with internal screw thread to be fitted onto a bolt\\nv. gather nuts",
     "definition_zh": "n. 坚果, 核心, 螺帽； Novell NetWare服务器实用程序",
     "examples": [
       {
-        "en": "Engineers implemented a secure nut to optimize data transmission.",
-        "zh": "在相关语境中，'nut'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of nut is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 坚果, 核心, 螺帽具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "package_noun",
+    "id": "package",
     "word": "package",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'pækidʒ/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/package-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=package&type=2",
     "definition_en": "n. a collection of things wrapped or boxed together\\nn. a wrapped container",
     "definition_zh": "n. 包裹, 套装软件, 包, 包装用物, 程序包； vt. 包装, 打包； a. 一揽子的； 包, 软件包, 包装",
     "examples": [
       {
-        "en": "Engineers implemented a secure package to optimize data transmission.",
-        "zh": "在相关语境中，'package'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of package is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 包裹, 套装软件, 包, 包装用物, 程序包具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "pc_noun",
+    "id": "pc",
     "word": "pc",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pc-us.mp3",
+    "phonetic": "/pc/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pc&type=2",
     "definition_en": "n a small digital computer based on a microprocessor and designed to be used by one person at a time",
     "definition_zh": "个人计算机； 外部控制, 个人计算机, 光电导体, 伪码",
     "examples": [
       {
-        "en": "Engineers implemented a secure pc to optimize data transmission.",
-        "zh": "在相关语境中，'pc'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of pc is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，个人计算机具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "power_noun",
+    "id": "power",
     "word": "power",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'pauә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/power-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=power&type=2",
     "definition_en": "n. possession of controlling influence\\nn. (physics) the rate of doing work; measured in watts (= joules/second)\\nn. one possessing or exercising power or influence or authority\\nv. supply the force or power for the functioning of",
     "definition_zh": "n. 力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率； vt. 使...有力量, 供以动力, 激励； 乘幂; DOS外部命令:能控制许多电池电源计算机上的电源管理特性",
     "examples": [
       {
-        "en": "Engineers implemented a secure power to optimize data transmission.",
-        "zh": "在相关语境中，'power'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of power is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "programmer_noun",
+    "id": "programmer",
     "word": "programmer",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'prәugræmә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/programmer-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=programmer&type=2",
     "definition_en": "n. a person who designs and writes and tests computer programs",
     "definition_zh": "n. 程序员； 程序设计员; 程序员",
     "examples": [
       {
-        "en": "Engineers implemented a secure programmer to optimize data transmission.",
-        "zh": "在相关语境中，'programmer'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of programmer is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 程序员具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "publishes_verb",
+    "id": "publishes",
     "word": "publishes",
-    "part_of_speech": "verb",
+    "part_of_speech": "noun",
     "level": "A2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/ˈpʌbliʃiz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/publishes-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=publishes&type=2",
     "definition_en": "v put into print\\nv prepare and issue for public distribution or sale\\nv have (one's written work) issued for publication",
     "definition_zh": "v. 出版( publish的第三人称单数 ); （在互联网上）发表; 公布; 在报刊)发表",
     "examples": [
       {
-        "en": "Modern digital systems continuously publishes real-time server telemetry.",
-        "zh": "在相关语境中，'publishes'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of publishes is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，v. 出版( publish的第三人称单数 ); （在互联网上）发表; 公布; 在报刊)发表具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "sap_noun",
+    "id": "sap",
     "word": "sap",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/sæp/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sap-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sap&type=2",
     "definition_en": "n. a watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant\\nv. excavate the earth beneath",
     "definition_zh": "n. 树液, 体液, 活力, 坑道, 消弱, 警棍； vt. 使排出体液, 使伤元气, 使衰竭, 挖坑道逼近, 逐渐侵蚀； vi. 挖坑道, 消弱； 共享汇编程序, 结构分析程序, 符号汇编程序, 服务器广告协议",
     "examples": [
       {
-        "en": "Engineers implemented a secure sap to optimize data transmission.",
-        "zh": "在相关语境中，'sap'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of sap is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 树液, 体液, 活力, 坑道, 消弱, 警棍具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "scan_noun",
+    "id": "scan",
     "word": "scan",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/skæn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scan-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scan&type=2",
     "definition_en": "n. the act of scanning; systematic examination of a prescribed region\\nn. an image produced by scanning\\nv. examine minutely or intensely\\nv. examine hastily",
     "definition_zh": "n. 审视, 浏览, 扫描, 细查； vt. 细看, 浏览, 扫描, 详细调查, 标出格律； vi. 押韵, 扫描； 网络软件目录, 编码与分析系统",
     "examples": [
       {
-        "en": "Engineers implemented a secure scan to optimize data transmission.",
-        "zh": "在相关语境中，'scan'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of scan is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 审视, 浏览, 扫描, 细查具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "scan_verb",
-    "word": "scan",
-    "part_of_speech": "verb",
-    "level": "B2",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/skæn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scan-us.mp3",
-    "definition_en": "n. the act of scanning; systematic examination of a prescribed region\\nn. an image produced by scanning\\nv. examine minutely or intensely\\nv. examine hastily",
-    "definition_zh": "n. 审视, 浏览, 扫描, 细查； vt. 细看, 浏览, 扫描, 详细调查, 标出格律； vi. 押韵, 扫描； 网络软件目录, 编码与分析系统",
-    "examples": [
-      {
-        "en": "Modern digital systems continuously scan real-time server telemetry.",
-        "zh": "在相关语境中，'scan'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "server_noun",
+    "id": "server",
     "word": "server",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'sә:vә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/server-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=server&type=2",
     "definition_en": "n. (court games) the player who serves to start a point\\nn. (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network\\nn. utensil used in serving food or drink",
     "definition_zh": "n. 服伺者, 上菜用具, 发球员； n. 服务器； 服务器, 服务器启动程序, 服务台程序",
     "examples": [
       {
-        "en": "Engineers implemented a secure server to optimize data transmission.",
-        "zh": "在相关语境中，'server'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of server is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 服伺者, 上菜用具, 发球员具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "servers_noun",
+    "id": "servers",
     "word": "servers",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/servers-us.mp3",
+    "phonetic": "/servers/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=servers&type=2",
     "definition_en": "n a person whose occupation is to serve at table (as in a restaurant)\\nn (court games) the player who serves to start a point\\nn (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network\\nn utensil used in serving food or drink",
     "definition_zh": "n. 服务器（server的复数）",
     "examples": [
       {
-        "en": "Engineers implemented a secure servers to optimize data transmission.",
-        "zh": "在相关语境中，'servers'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of servers is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 服务器（server的复数）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "share_noun",
+    "id": "share",
     "word": "share",
     "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/ʃєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/share-us.mp3",
-    "definition_en": "n. assets belonging to or due to or contributed by an individual person or group\\nn. any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate\\nv. have in common\\nv. use jointly or in common",
-    "definition_zh": "n. 部分, 参与, 一份, 参股, 份额； vt. 均分, 分担, 分享, 分配, 共有； vi. 分享； 共享; DOS外部命令:在网络或多工系统中提供文件共享； 文件锁定及检测磁盘更动和对超过32MB硬盘分区的支持",
-    "examples": [
-      {
-        "en": "Engineers implemented a secure share to optimize data transmission.",
-        "zh": "在相关语境中，'share'的实际运用体现了明确的语义搭配。"
-      }
-    ]
-  },
-  {
-    "id": "share_verb",
-    "word": "share",
-    "part_of_speech": "verb",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/ʃєә/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/share-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=share&type=2",
     "definition_en": "n. assets belonging to or due to or contributed by an individual person or group\\nn. any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate\\nv. have in common\\nv. use jointly or in common",
     "definition_zh": "n. 部分, 参与, 一份, 参股, 份额； vt. 均分, 分担, 分享, 分配, 共有； vi. 分享； 共享; DOS外部命令:在网络或多工系统中提供文件共享； 文件锁定及检测磁盘更动和对超过32MB硬盘分区的支持",
     "examples": [
       {
-        "en": "Modern digital systems continuously share real-time server telemetry.",
-        "zh": "在相关语境中，'share'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of share is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 部分, 参与, 一份, 参股, 份额具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "spreadsheet_noun",
+    "id": "spreadsheet",
     "word": "spreadsheet",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'spredʃi:t/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spreadsheet-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spreadsheet&type=2",
     "definition_en": "n. a screen-oriented interactive program enabling a user to lay out financial data on the screen",
     "definition_zh": "n. 空白表格程序, 电子制表软件, 电子数据表； 电子表格",
     "examples": [
       {
-        "en": "Engineers implemented a secure spreadsheet to optimize data transmission.",
-        "zh": "在相关语境中，'spreadsheet'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of spreadsheet is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 空白表格程序, 电子制表软件, 电子数据表具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "stressfully_adverb",
+    "id": "stressfully",
     "word": "stressfully",
     "part_of_speech": "adverb",
     "level": "C1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/stressfully/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stressfully-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stressfully&type=2",
     "definition_en": "Denoting stressfully; widely used in Science & Technology.",
     "definition_zh": "stressfully（计算机、AI与前沿科技相关词汇）",
     "examples": [
       {
-        "en": "Modern digital systems continuously stressfully real-time server telemetry.",
-        "zh": "在相关语境中，'stressfully'的实际运用体现了明确的语义搭配。"
+        "en": "They adopted a stressfully approach to address the challenge.",
+        "zh": "在日常与专业场景中，stressfully（计算机、AI与前沿科技相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "unharried_adjective",
+    "id": "unharried",
     "word": "unharried",
     "part_of_speech": "adjective",
     "level": "C2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/unharried/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unharried-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=unharried&type=2",
     "definition_en": "Denoting unharried; widely used in Science & Technology.",
     "definition_zh": "unharried（计算机、AI与前沿科技相关词汇）",
     "examples": [
       {
-        "en": "Modern digital systems continuously unharried real-time server telemetry.",
-        "zh": "在相关语境中，'unharried'的实际运用体现了明确的语义搭配。"
+        "en": "The team presented a unharried solution that met all specified requirements.",
+        "zh": "在日常与专业场景中，unharried（计算机、AI与前沿科技相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "unsustainably_adverb",
+    "id": "unsustainably",
     "word": "unsustainably",
     "part_of_speech": "adverb",
     "level": "C1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/unsustainably/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unsustainably-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=unsustainably&type=2",
     "definition_en": "Denoting unsustainably; widely used in Science & Technology.",
     "definition_zh": "unsustainably（计算机、AI与前沿科技相关词汇）",
     "examples": [
       {
-        "en": "Modern digital systems continuously unsustainably real-time server telemetry.",
-        "zh": "在相关语境中，'unsustainably'的实际运用体现了明确的语义搭配。"
+        "en": "They adopted a unsustainably approach to address the challenge.",
+        "zh": "在日常与专业场景中，unsustainably（计算机、AI与前沿科技相关词汇）具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "webcam_noun",
+    "id": "webcam",
     "word": "webcam",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'webkæm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/webcam-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=webcam&type=2",
     "definition_en": "n. a digital camera designed to take digital photographs and transmit them over the internet",
     "definition_zh": "n. 网络摄像头",
     "examples": [
       {
-        "en": "Engineers implemented a secure webcam to optimize data transmission.",
-        "zh": "在相关语境中，'webcam'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of webcam is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 网络摄像头具有重要的表达意义。"
       }
     ]
   },
   {
-    "id": "windows_noun",
+    "id": "windows",
     "word": "windows",
     "part_of_speech": "noun",
     "level": "A1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'windәjz/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/windows-us.mp3",
+    "audio": "https://dict.youdao.com/dictvoice?audio=windows&type=2",
     "definition_en": "n. (trademark) an operating system with a graphical user interface",
     "definition_zh": "n. 微软公司生产的“视窗”操作系统",
     "examples": [
       {
-        "en": "Engineers implemented a secure windows to optimize data transmission.",
-        "zh": "在相关语境中，'windows'的实际运用体现了明确的语义搭配。"
+        "en": "A deep understanding of windows is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 微软公司生产的“视窗”操作系统具有重要的表达意义。"
       }
     ]
   }

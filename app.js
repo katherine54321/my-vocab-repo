@@ -6,7 +6,7 @@
 
 // Native IndexedDB Configuration
 const DB_NAME = 'VocabMatrixCacheDB';
-const DB_VERSION = 6; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
+const DB_VERSION = 7; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
 const STORE_NAME = 'slices';
 
 // Application State
@@ -495,8 +495,8 @@ function initEventListeners() {
   document.getElementById('favFilterBtn').addEventListener('click', () => {
     state.showOnlyFavorites = !state.showOnlyFavorites;
     const btn = document.getElementById('favFilterBtn');
-    btn.style.background = state.showOnlyFavorites ? '#fef08a' : '';
-    btn.style.borderColor = state.showOnlyFavorites ? '#eab308' : '';
+    btn.classList.toggle('active', state.showOnlyFavorites);
+    
     showToast(state.showOnlyFavorites ? '仅查看已收藏词汇' : '查看全部词汇');
     renderWordCards();
   });
