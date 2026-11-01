@@ -6,7 +6,7 @@
 
 // Native IndexedDB Configuration
 const DB_NAME = 'VocabMatrixCacheDB';
-const DB_VERSION = 8; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
+const DB_VERSION = 9; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
 const STORE_NAME = 'slices';
 
 // Application State
@@ -32,9 +32,9 @@ const state = {
   githubRepo: localStorage.getItem('vm_gh_repo') || 'my-vocab-repo',
   githubBranch: (() => {
     const saved = localStorage.getItem('vm_gh_branch');
-    if (!saved || saved === 'v4.0.0' || saved === 'v3.0.0' || saved === 'v2.0.0' || saved === 'v1.0.0') {
-      localStorage.setItem('vm_gh_branch', 'v5.0.0');
-      return 'v5.0.0';
+    if (!saved || saved.startsWith('v1.') || saved.startsWith('v2.') || saved.startsWith('v3.') || saved.startsWith('v4.') || saved.startsWith('v5.') || saved.startsWith('v6.')) {
+      localStorage.setItem('vm_gh_branch', 'main');
+      return 'main';
     }
     return saved;
   })(),
@@ -267,19 +267,32 @@ async function loadCategoriesManifest() {
 
 // Construct CDN / Local URL for slice
 function getSliceUrl(sliceId) {
-  if (state.cdnMode === 'cloud' && state.githubUser && state.githubRepo) {
-    return `https://cdn.jsdelivr.net/gh/${state.githubUser}/${state.githubRepo}@${state.githubBranch}/data/${sliceId}.json`;
+  // Always use local static files when on localhost, 127.0.0.1 or LAN IP (192.168.x.x, 10.x.x.x)
+  const host = window.location.hostname || '';
+  const isLocalHost = host === 'localhost' ||
+                      host === '127.0.0.1' ||
+                      host.startsWith('192.168.') ||
+                      host.startsWith('10.') ||
+                      window.location.protocol === 'file:';
+
+  if (!isLocalHost && state.cdnMode === 'cloud' && state.githubUser && state.githubRepo) {
+    const branch = state.githubBranch || 'main';
+    return `https://cdn.jsdelivr.net/gh/${state.githubUser}/${state.githubRepo}@${branch}/data/${sliceId}.json`;
   }
   return `data/${sliceId}.json`;
 }
 
 // Detect if a cached slice contains obsolete placeholder text
-function isStaleSlice(data) {
+function isStaleSlice(sliceId, data) {
   if (!Array.isArray(data) || data.length === 0) return true;
+  if (sliceId === 'food_beverages' && data.some(it => it.word === 'duck' || it.word === 'divide' || String(it.id).includes('_'))) {
+    return true;
+  }
   return data.some(it => {
     const zh = it.definition_zh || '';
     const en = it.definition_en || '';
-    return zh.includes('相关词汇') || en.startsWith('Denoting ');
+    const sid = String(it.id || '');
+    return zh.includes('相关词汇') || en.startsWith('Denoting ') || sid.includes('_noun') || sid.includes('_verb');
   });
 }
 
@@ -288,7 +301,7 @@ async function loadSlice(sliceId) {
   // 1. Memory Cache
   if (state.memoryCache.has(sliceId)) {
     const memData = state.memoryCache.get(sliceId);
-    if (!isStaleSlice(memData)) {
+    if (!isStaleSlice(sliceId, memData)) {
       return memData;
     }
     state.memoryCache.delete(sliceId);
@@ -297,7 +310,7 @@ async function loadSlice(sliceId) {
   // 2. IndexedDB Cache
   const dbData = await getFromIndexedDB(sliceId);
   if (dbData && Array.isArray(dbData) && dbData.length > 0) {
-    if (!isStaleSlice(dbData)) {
+    if (!isStaleSlice(sliceId, dbData)) {
       state.memoryCache.set(sliceId, dbData);
       updateCacheStatusUI();
       return dbData;
