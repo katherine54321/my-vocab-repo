@@ -486,6 +486,60 @@
     ]
   },
   {
+    "id": "dive",
+    "word": "dive",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "体育运动、健身竞技与球类",
+    "category": "sports_fitness",
+    "phonetic": "/daiv/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dive&type=2",
+    "definition_en": "n. a headlong plunge into water\\nn. a steep nose-down descent by an aircraft\\nv. drop steeply\\nv. plunge into water",
+    "definition_zh": "n. 潜水, 跳水； vi. 跳水, 俯冲, 猛冲； vt. 把...突然伸入",
+    "examples": [
+      {
+        "en": "A deep understanding of dive is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 潜水, 跳水具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "diver",
+    "word": "diver",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "体育运动、健身竞技与球类",
+    "category": "sports_fitness",
+    "phonetic": "/'daivә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=diver&type=2",
+    "definition_en": "n. someone who works underwater\\nn. someone who dives (into water)",
+    "definition_zh": "n. 潜水者",
+    "examples": [
+      {
+        "en": "A deep understanding of diver is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 潜水者具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "diving",
+    "word": "diving",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "体育运动、健身竞技与球类",
+    "category": "sports_fitness",
+    "phonetic": "/'daiviŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=diving&type=2",
+    "definition_en": "n. an athletic competition that involves diving into water",
+    "definition_zh": "n. 潜水, 跳水",
+    "examples": [
+      {
+        "en": "A deep understanding of diving is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 潜水, 跳水具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "exercise",
     "word": "exercise",
     "part_of_speech": "noun",
@@ -687,7 +741,7 @@
     "id": "gymnasium",
     "word": "gymnasium",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "体育运动、健身竞技与球类",
     "category": "sports_fitness",
     "phonetic": "/dʒim'neiziәm/",
@@ -1242,6 +1296,42 @@
     ]
   },
   {
+    "id": "polo",
+    "word": "polo",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "体育运动、健身竞技与球类",
+    "category": "sports_fitness",
+    "phonetic": "/'pәulәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=polo&type=2",
+    "definition_en": "n. Venetian traveler who explored Asia in the 13th century and served Kublai Khan (1254-1324)\\nn. a game similar to field hockey but played on horseback using long-handled mallets and a wooden ball",
+    "definition_zh": "n. 马球, 水球",
+    "examples": [
+      {
+        "en": "A deep understanding of polo is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 马球, 水球具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "pool",
+    "word": "pool",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "体育运动、健身竞技与球类",
+    "category": "sports_fitness",
+    "phonetic": "/pu:l/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pool&type=2",
+    "definition_en": "n. an excavation that is (usually) filled with water\\nn. an organization of people or resources that can be shared\\nn. any communal combination of funds\\nn. a small body of standing water (rainwater) or other liquid",
+    "definition_zh": "n. 池, 水塘, 石油层, 联营； vt. 合伙经营, 共享, 采掘, 汇聚成； vi. 汇合成塘, 淤积, 联营",
+    "examples": [
+      {
+        "en": "A deep understanding of pool is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 池, 水塘, 石油层, 联营具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "pools",
     "word": "pools",
     "part_of_speech": "noun",
@@ -1418,6 +1508,24 @@
       {
         "en": "A deep understanding of scores is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 大量, 众多; 二十( score的名词复数 ); （游戏或比赛中的）得分; 大量; 百分数具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "scuba",
+    "word": "scuba",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "体育运动、健身竞技与球类",
+    "category": "sports_fitness",
+    "phonetic": "/'skju:bә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scuba&type=2",
+    "definition_en": "n a device (trade name Aqua-Lung) that lets divers breathe under water; scuba is an acronym for self-contained underwater breathing apparatus",
+    "definition_zh": "n. 自携式水中呼吸器",
+    "examples": [
+      {
+        "en": "A deep understanding of scuba is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 自携式水中呼吸器具有重要的表达意义。"
       }
     ]
   },
@@ -1695,7 +1803,7 @@
     "id": "sportsman",
     "word": "sportsman",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "体育运动、健身竞技与球类",
     "category": "sports_fitness",
     "phonetic": "/'spɒ:tsmәn/",
@@ -2163,7 +2271,7 @@
     "id": "wrestle",
     "word": "wrestle",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "体育运动、健身竞技与球类",
     "category": "sports_fitness",
     "phonetic": "/'resl/",

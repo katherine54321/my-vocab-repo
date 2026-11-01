@@ -273,7 +273,7 @@
     "id": "bosom",
     "word": "bosom",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'buzәm/",
@@ -327,7 +327,7 @@
     "id": "brow",
     "word": "brow",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/brau/",
@@ -392,24 +392,6 @@
       {
         "en": "A deep understanding of chin is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 下巴, 颏具有重要的表达意义。"
-      }
-    ]
-  },
-  {
-    "id": "cola",
-    "word": "cola",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/'kәulә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cola&type=2",
-    "definition_en": "n. large genus of African trees bearing kola nuts\\nn. carbonated drink flavored with extract from kola nuts (`dope' is a southernism in the United States)",
-    "definition_zh": "结肠, 冒号, 科朗； 可乐果; 可乐果属; 可乐果干子叶",
-    "examples": [
-      {
-        "en": "A deep understanding of cola is beneficial in everyday learning.",
-        "zh": "在日常与专业场景中，结肠, 冒号, 科朗具有重要的表达意义。"
       }
     ]
   },
@@ -615,7 +597,7 @@
     "id": "framework",
     "word": "framework",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'freimwә:k/",
@@ -1346,6 +1328,24 @@
       {
         "en": "A deep understanding of stunt is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 特技, 绝技, 花招, 噱头, 手腕, 发育不良具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "sweat",
+    "word": "sweat",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/swet/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sweat&type=2",
+    "definition_en": "n. condensation of moisture on a cold surface\\nv. excrete perspiration through the pores in the skin",
+    "definition_zh": "n. 汗, 汗水, 水珠, 焦急； vi. 出汗, 渗出, 冒出水气, 结水珠, 烦恼, 懊恼； vt. 使出汗, 流出, 榨出, 使汗流浃背",
+    "examples": [
+      {
+        "en": "A deep understanding of sweat is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 汗, 汗水, 水珠, 焦急具有重要的表达意义。"
       }
     ]
   },

@@ -6,7 +6,7 @@
 
 // Native IndexedDB Configuration
 const DB_NAME = 'VocabMatrixCacheDB';
-const DB_VERSION = 7; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
+const DB_VERSION = 8; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
 const STORE_NAME = 'slices';
 
 // Application State

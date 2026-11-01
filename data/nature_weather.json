@@ -147,7 +147,7 @@
     "id": "botanical",
     "word": "botanical",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
     "phonetic": "/bә'tænikәl/",
@@ -273,7 +273,7 @@
     "id": "clay",
     "word": "clay",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
     "phonetic": "/klei/",
@@ -446,6 +446,24 @@
       {
         "en": "A deep understanding of deforestation is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 采伐森林, 森林开伐具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "dew",
+    "word": "dew",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/dju:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dew&type=2",
+    "definition_en": "n. water that has condensed on a cool surface overnight from water vapor in the air",
+    "definition_zh": "n. 露珠, 露水； vt. (用露水)沾湿； vi. 结露水",
+    "examples": [
+      {
+        "en": "A deep understanding of dew is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 露珠, 露水具有重要的表达意义。"
       }
     ]
   },
@@ -1029,7 +1047,7 @@
     "id": "hurricane",
     "word": "hurricane",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
     "phonetic": "/'hә:rikәn/",
@@ -1101,7 +1119,7 @@
     "id": "meadow",
     "word": "meadow",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
     "phonetic": "/'medәu/",
@@ -1602,6 +1620,24 @@
     ]
   },
   {
+    "id": "puddle",
+    "word": "puddle",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'pʌdl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=puddle&type=2",
+    "definition_en": "n. a mixture of wet clay and sand that can be used to line a pond and that is impervious to water when dry\\nv. wade or dabble in a puddle\\nv. subject to puddling or form by puddling\\nv. dip into mud before planting",
+    "definition_zh": "n. 小池, 水坑, 胶土； vt. 搅浊, 搅炼； vi. 在泥污中打滚, (把黏土等)捣制成胶土",
+    "examples": [
+      {
+        "en": "A deep understanding of puddle is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 小池, 水坑, 胶土具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "quake",
     "word": "quake",
     "part_of_speech": "noun",
@@ -1782,6 +1818,42 @@
     ]
   },
   {
+    "id": "seawater",
+    "word": "seawater",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'si:.wɒtә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=seawater&type=2",
+    "definition_en": "n. water containing salts",
+    "definition_zh": "n. 海水； 海水",
+    "examples": [
+      {
+        "en": "A deep understanding of seawater is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 海水具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "seep",
+    "word": "seep",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/si:p/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=seep&type=2",
+    "definition_en": "v. pass gradually or leak through or as if through small openings",
+    "definition_zh": "vi. 渗出, 渗流, 漏； n. 小泉, 水陆两用吉普车",
+    "examples": [
+      {
+        "en": "A deep understanding of seep is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，vi. 渗出, 渗流, 漏具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "seismic",
     "word": "seismic",
     "part_of_speech": "noun",
@@ -1814,6 +1886,24 @@
       {
         "en": "A deep understanding of shine is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 光泽, 阳光具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "shoal",
+    "word": "shoal",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/ʃәul/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shoal&type=2",
+    "definition_en": "n. a sandbank in a stretch of water that is visible at low tide\\nn. a stretch of shallow water",
+    "definition_zh": "n. 浅水, 浅滩, 沙洲, 鱼群, 暗礁, 潜在危险； a. 浅的； vi. 鱼成群而游, 变浅； vt. 使变浅",
+    "examples": [
+      {
+        "en": "A deep understanding of shoal is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 浅水, 浅滩, 沙洲, 鱼群, 暗礁, 潜在危险具有重要的表达意义。"
       }
     ]
   },
@@ -2106,6 +2196,24 @@
     ]
   },
   {
+    "id": "stream",
+    "word": "stream",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/stri:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stream&type=2",
+    "definition_en": "n. a natural body of running water flowing on or under the earth\\nn. dominant course (suggestive of running water) of successive events or ideas\\nn. something that resembles a flowing stream in moving continuously\\nv. to extend, wave or float outward, as if in the wind",
+    "definition_zh": "n. 水流, 小河, 流出, 趋势, 人潮； vt. 流出, 流动, 展开； vi. 流, 涌, 飘扬； 流",
+    "examples": [
+      {
+        "en": "A deep understanding of stream is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 水流, 小河, 流出, 趋势, 人潮具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "succulent",
     "word": "succulent",
     "part_of_speech": "noun",
@@ -2379,7 +2487,7 @@
     "id": "typhoon",
     "word": "typhoon",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
     "phonetic": "/tai'fu:n/",
@@ -2408,6 +2516,24 @@
       {
         "en": "A deep understanding of unaffected is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，a. 不矫揉造作的, 自然的, 未受影响的, 未被感动的具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "underwater",
+    "word": "underwater",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'ʌndә'wɒ:tә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=underwater&type=2",
+    "definition_en": "s beneath the surface of the water\\ns growing or remaining under water",
+    "definition_zh": "a. 在水中的； adv. 在水下",
+    "examples": [
+      {
+        "en": "A deep understanding of underwater is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 在水中的具有重要的表达意义。"
       }
     ]
   },
@@ -2552,6 +2678,24 @@
       {
         "en": "A deep understanding of weird is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，a. 怪异的, 超自然的, 不可思议的具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "wet",
+    "word": "wet",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/wet/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wet&type=2",
+    "definition_en": "v. cause to become wet\\nv. make one's bed or clothes wet by urinating\\na. covered or soaked with a liquid such as water\\na. containing moisture or volatile components",
+    "definition_zh": "n. 湿气, 潮湿, 水分, 雨天； a. 湿的, 潮的, 搞错的, 下雨的, 反对禁酒的； vi. 变湿； vt. 使...湿",
+    "examples": [
+      {
+        "en": "A deep understanding of wet is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 湿气, 潮湿, 水分, 雨天具有重要的表达意义。"
       }
     ]
   },

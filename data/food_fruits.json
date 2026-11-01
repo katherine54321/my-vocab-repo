@@ -270,24 +270,6 @@
     ]
   },
   {
-    "id": "lemonade",
-    "word": "lemonade",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "水果浆果与坚果",
-    "category": "food_fruits",
-    "phonetic": "/.lemә'neid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=lemonade&type=2",
-    "definition_en": "n. sweetened beverage of diluted lemon juice",
-    "definition_zh": "n. 柠檬水； 柠檬水",
-    "examples": [
-      {
-        "en": "A deep understanding of lemonade is beneficial in everyday learning.",
-        "zh": "在日常与专业场景中，n. 柠檬水具有重要的表达意义。"
-      }
-    ]
-  },
-  {
     "id": "mango",
     "word": "mango",
     "part_of_speech": "noun",
@@ -453,7 +435,7 @@
     "id": "portuguese",
     "word": "Portuguese",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
     "phonetic": "/.pɒ:tju'gi:z/",
@@ -543,7 +525,7 @@
     "id": "vine",
     "word": "vine",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
     "phonetic": "/vain/",
@@ -572,24 +554,6 @@
       {
         "en": "A deep understanding of watermelon is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 西瓜具有重要的表达意义。"
-      }
-    ]
-  },
-  {
-    "id": "wines",
-    "word": "wines",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "水果浆果与坚果",
-    "category": "food_fruits",
-    "phonetic": "/wines/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wines&type=2",
-    "definition_en": "n fermented juice (of grapes especially)\\nn a red as dark as red wine\\nv drink wine\\nv treat to wine\\nv be the winner in a contest or competition; be victorious\\nv win something through one's efforts\\nv obtain advantages, such as points, etc.\\nv attain success or reach a desired goal",
-    "definition_zh": "n. 葡萄酒；令人沉醉的东西（wine的复数）",
-    "examples": [
-      {
-        "en": "A deep understanding of wines is beneficial in everyday learning.",
-        "zh": "在日常与专业场景中，n. 葡萄酒具有重要的表达意义。"
       }
     ]
   }

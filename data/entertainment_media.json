@@ -306,6 +306,24 @@
     ]
   },
   {
+    "id": "bingo",
+    "word": "bingo",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'biŋgәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bingo&type=2",
+    "definition_en": "n a game in which numbered balls are drawn at random and players cover the corresponding numbers on their cards",
+    "definition_zh": "n. 宾戈(一种赌博游戏), 烈酒",
+    "examples": [
+      {
+        "en": "A deep understanding of bingo is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 宾戈(一种赌博游戏), 烈酒具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "blurb",
     "word": "blurb",
     "part_of_speech": "noun",
@@ -1137,7 +1155,7 @@
     "id": "lens",
     "word": "lens",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
     "phonetic": "/lenz/",
@@ -1497,7 +1515,7 @@
     "id": "pastime",
     "word": "pastime",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
     "phonetic": "/'pæstaim/",
@@ -2487,7 +2505,7 @@
     "id": "videotape",
     "word": "videotape",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
     "phonetic": "/videotape/",

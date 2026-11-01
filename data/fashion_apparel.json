@@ -777,7 +777,7 @@
     "id": "jewellery",
     "word": "jewellery",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
     "phonetic": "/'dʒu:әlri/",
@@ -813,7 +813,7 @@
     "id": "lace",
     "word": "lace",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
     "phonetic": "/leis/",
@@ -1116,6 +1116,24 @@
     ]
   },
   {
+    "id": "perfume",
+    "word": "perfume",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'pә:fju:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=perfume&type=2",
+    "definition_en": "n. a toiletry that emits and diffuses a fragrant odor\\nv. fill or impregnate with an odor\\nv. apply perfume to",
+    "definition_zh": "n. 香水, 香气, (悦人的)气氛, 美名； vt. 洒香水于, 薰香, 使充满香气",
+    "examples": [
+      {
+        "en": "A deep understanding of perfume is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 香水, 香气, (悦人的)气氛, 美名具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "piping",
     "word": "piping",
     "part_of_speech": "noun",
@@ -1371,7 +1389,7 @@
     "id": "slipper",
     "word": "slipper",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
     "phonetic": "/'slipә/",
@@ -1443,7 +1461,7 @@
     "id": "sole",
     "word": "sole",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
     "phonetic": "/sәul/",
@@ -1472,6 +1490,24 @@
       {
         "en": "A deep understanding of spike is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 长钉, 鞋钉, 钉状物, 尖峰状物, 穗具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "stocking",
+    "word": "stocking",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'stɒkiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stocking&type=2",
+    "definition_en": "n. close-fitting hosiery to cover the foot and leg; come in matched pairs (usually used in the plural)\\nn. the activity of supplying a stock of something",
+    "definition_zh": "n. 长袜； 马足水肿; 长袜",
+    "examples": [
+      {
+        "en": "A deep understanding of stocking is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 长袜具有重要的表达意义。"
       }
     ]
   },
@@ -1767,7 +1803,7 @@
     "id": "vest",
     "word": "vest",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
     "phonetic": "/vest/",

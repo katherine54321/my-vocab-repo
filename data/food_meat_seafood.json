@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "aquarium",
+    "word": "aquarium",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/ә'kwєәriәm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aquarium&type=2",
+    "definition_en": "n. a tank or pool or bowl filled with water for keeping live fish and underwater animals",
+    "definition_zh": "n. 水族馆, 养鱼池, 水草缸； 培养缸",
+    "examples": [
+      {
+        "en": "A deep understanding of aquarium is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 水族馆, 养鱼池, 水草缸具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "bacon",
     "word": "bacon",
     "part_of_speech": "noun",
@@ -392,6 +410,24 @@
       {
         "en": "A deep understanding of goose is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 鹅, 雌鹅, 鹅肉, 弯把熨斗具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "grains",
+    "word": "grains",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/^reinz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=grains&type=2",
+    "definition_en": "n a relatively small granular particle of a substance\\nn foodstuff prepared from the starchy grains of cereal grasses\\nn the side of leather from which the hair has been removed\\nn a weight unit used for pearls or diamonds: 50 mg or 1/4 carat\\nn 1/60 dram; equals an avoirdupois grain or 64.799 milligrams\\nn 1/7000 pound; equals a troy grain or 64.799 milligrams\\nn dry seed-like fruit produced by the cereal grasses: e.g. wheat, barley, Indian corn\\nn a cereal grass\\nn the smallest possible unit of anything\\nn the direction, texture, or pattern of fibers found in wood or leather or stone or in a woven fabric\\nn the physical composition of something (especially with respect to the size and shape of the small constituents of a substance)\\nv thoroughly work in\\nv paint (a surface) to make it look like stone or wood\\nv form into grains\\nv become granular",
+    "definition_zh": "n. 双齿/多齿鱼叉； 糟; 酒糟",
+    "examples": [
+      {
+        "en": "A deep understanding of grains is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 双齿/多齿鱼叉具有重要的表达意义。"
       }
     ]
   },

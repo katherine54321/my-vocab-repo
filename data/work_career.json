@@ -813,7 +813,7 @@
     "id": "congress",
     "word": "congress",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "职场商务、职业发展与管理",
     "category": "work_career",
     "phonetic": "/'kɒŋgres/",
@@ -2094,7 +2094,7 @@
     "level": "B1",
     "topic": "职场商务、职业发展与管理",
     "category": "work_career",
-    "phonetic": "/gm/",
+    "phonetic": "/GM/",
     "audio": "https://dict.youdao.com/dictvoice?audio=gm&type=2",
     "definition_en": "n a metric unit of weight equal to one thousandth of a kilogram",
     "definition_zh": "通用汽车公司, 总经理, 导弹； 通用汽车公司",
@@ -3027,7 +3027,7 @@
     "id": "mop",
     "word": "mop",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "职场商务、职业发展与管理",
     "category": "work_career",
     "phonetic": "/mɒp/",
@@ -3384,6 +3384,24 @@
     ]
   },
   {
+    "id": "plumber",
+    "word": "plumber",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "职场商务、职业发展与管理",
+    "category": "work_career",
+    "phonetic": "/'plʌmә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=plumber&type=2",
+    "definition_en": "n. a craftsman who installs and repairs pipes and fixtures and appliances",
+    "definition_zh": "n. 水管工人； 堵漏防漏人员",
+    "examples": [
+      {
+        "en": "A deep understanding of plumber is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 水管工人具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "pollutants",
     "word": "pollutants",
     "part_of_speech": "noun",
@@ -3459,7 +3477,7 @@
     "id": "practise",
     "word": "practise",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "A1",
     "topic": "职场商务、职业发展与管理",
     "category": "work_career",
     "phonetic": "/'præktis/",
@@ -4068,6 +4086,24 @@
     ]
   },
   {
+    "id": "sailor",
+    "word": "sailor",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "职场商务、职业发展与管理",
+    "category": "work_career",
+    "phonetic": "/'seilә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sailor&type=2",
+    "definition_en": "n. any member of a ship's crew",
+    "definition_zh": "n. 水手, 船员, 海员； 水手, 船员, 海员",
+    "examples": [
+      {
+        "en": "A deep understanding of sailor is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 水手, 船员, 海员具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "salaries",
     "word": "salaries",
     "part_of_speech": "noun",
@@ -4100,6 +4136,24 @@
       {
         "en": "A deep understanding of salary is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 薪水具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "seaman",
+    "word": "seaman",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "职场商务、职业发展与管理",
+    "category": "work_career",
+    "phonetic": "/'si:mәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=seaman&type=2",
+    "definition_en": "n. muckraking United States journalist who exposed bad conditions in mental institutions (1867-1922)",
+    "definition_zh": "n. 船员, 海员, 水兵； 海员, 水手, 精通海事者",
+    "examples": [
+      {
+        "en": "A deep understanding of seaman is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 船员, 海员, 水兵具有重要的表达意义。"
       }
     ]
   },

@@ -108,6 +108,42 @@
     ]
   },
   {
+    "id": "armor",
+    "word": "armor",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/'ɑ:mә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=armor&type=2",
+    "definition_en": "n. protective covering made of metal and used in combat\\nn. a military unit consisting of armored fighting vehicles\\nn. tough more-or-less rigid protective covering of an animal or plant",
+    "definition_zh": "n. 盔甲, 潜水服, 装甲； vt. 为...装甲",
+    "examples": [
+      {
+        "en": "The committee discussed international security and political matters concerning armor.",
+        "zh": "在日常与专业场景中，n. 盔甲, 潜水服, 装甲具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "armour",
+    "word": "armour",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/'ɑ:mә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=armour&type=2",
+    "definition_en": "n a military unit consisting of armored fighting vehicles\\nn protective covering made of metal and used in combat\\nn tough more-or-less rigid protective covering of an animal or plant\\nv equip with armor",
+    "definition_zh": "n. 甲胄, 装甲, 潜水服",
+    "examples": [
+      {
+        "en": "The committee discussed international security and political matters concerning armour.",
+        "zh": "在日常与专业场景中，n. 甲胄, 装甲, 潜水服具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "army",
     "word": "army",
     "part_of_speech": "noun",
@@ -1011,7 +1047,7 @@
     "id": "lord",
     "word": "lord",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "category": "politics",
     "phonetic": "/lɒ:d/",
@@ -1389,7 +1425,7 @@
     "id": "poll",
     "word": "poll",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "category": "politics",
     "phonetic": "/pәul/",
@@ -1461,7 +1497,7 @@
     "id": "reign",
     "word": "reign",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "category": "politics",
     "phonetic": "/rein/",
@@ -1479,7 +1515,7 @@
     "id": "rein",
     "word": "rein",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "category": "politics",
     "phonetic": "/rein/",
@@ -1551,7 +1587,7 @@
     "id": "republican",
     "word": "republican",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "category": "politics",
     "phonetic": "/ri'pʌblikәn/",
@@ -1713,7 +1749,7 @@
     "id": "senate",
     "word": "senate",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "category": "politics",
     "phonetic": "/'senit/",
@@ -1854,10 +1890,28 @@
     ]
   },
   {
+    "id": "submarine",
+    "word": "submarine",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/'sʌbmәri:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=submarine&type=2",
+    "definition_en": "n. a submersible warship usually armed with torpedoes\\nv. move forward or under in a sliding motion\\nv. throw with an underhand motion\\nv. bring down with a blow to the legs",
+    "definition_zh": "n. 潜水艇, 海底生物； a. 海中的, 生长在海中的； vt. 用潜水艇攻击； vi. 在下疾行, 在下滑动",
+    "examples": [
+      {
+        "en": "The committee discussed international security and political matters concerning submarine.",
+        "zh": "在日常与专业场景中，n. 潜水艇, 海底生物具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "supreme",
     "word": "supreme",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "category": "politics",
     "phonetic": "/sju'pri:m/",
@@ -1875,7 +1929,7 @@
     "id": "sway",
     "word": "sway",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "category": "politics",
     "phonetic": "/swei/",
@@ -1886,6 +1940,24 @@
       {
         "en": "The committee discussed international security and political matters concerning sway.",
         "zh": "在日常与专业场景中，n. 摇摆, 影响力, 支配具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "tank",
+    "word": "tank",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/tæŋk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tank&type=2",
+    "definition_en": "n. an enclosed armored military vehicle; has a cannon and moves on caterpillar treads\\nn. a large (usually metallic) vessel for holding gases or liquids\\nn. as much as a tank will hold\\nv. store in a tank by causing (something) to flow into it",
+    "definition_zh": "n. 槽, 箱, 柜, 罐, 池塘, 储水池, 坦克； vt. 储于箱中",
+    "examples": [
+      {
+        "en": "The committee discussed international security and political matters concerning tank.",
+        "zh": "在日常与专业场景中，n. 槽, 箱, 柜, 罐, 池塘, 储水池, 坦克具有重要的表达意义。"
       }
     ]
   },
@@ -1911,7 +1983,7 @@
     "id": "throne",
     "word": "throne",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "政治学与公共治理",
     "category": "politics",
     "phonetic": "/'θrәun/",
@@ -1922,6 +1994,24 @@
       {
         "en": "The committee discussed international security and political matters concerning throne.",
         "zh": "在日常与专业场景中，n. 王座, 君主具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "torpedo",
+    "word": "torpedo",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/tɒ:'pi:dәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=torpedo&type=2",
+    "definition_en": "n. an explosive device that is set off in an oil well (or a gas well) to start or to increase the flow of oil (or gas)\\nn. a small firework that consists of a percussion cap and some gravel wrapped in paper; explodes when thrown forcefully against a hard surface\\nn. a small explosive device that is placed on a railroad track and fires when a train runs over it; the sound of the explosion warns the engineer of danger ahead\\nn. armament consisting of a long cylindrical self-propelled underwater projectile that detonates on contact with a target",
+    "definition_zh": "n. 鱼雷, 水雷, 地雷； vt. 用鱼雷袭击, 破坏",
+    "examples": [
+      {
+        "en": "The committee discussed international security and political matters concerning torpedo.",
+        "zh": "在日常与专业场景中，n. 鱼雷, 水雷, 地雷具有重要的表达意义。"
       }
     ]
   },

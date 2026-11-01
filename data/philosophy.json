@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "bishops",
+    "word": "bishops",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'bɪʃəp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bishops&type=2",
+    "definition_en": "n a senior member of the Christian clergy having spiritual and administrative authority; appointed in Christian churches to oversee priests or ministers; considered in some churches to be successors of the twelve Apostles of Christ\\nn port wine mulled with oranges and cloves\\nn (chess) a piece that can be moved diagonally over unoccupied squares of the same color",
+    "definition_zh": "n. ；主教； vt. 任命…为主教(或大祭司、会督等)；烧糊, 煮焦(牛奶等)； vi. 当主教(或大祭司、会督等)；走象",
+    "examples": [
+      {
+        "en": "Philosophers explore the deeper significance of bishops in human ethics.",
+        "zh": "在日常与专业场景中，n.具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "conscience",
     "word": "conscience",
     "part_of_speech": "noun",
@@ -615,7 +633,7 @@
     "id": "sceptical",
     "word": "sceptical",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
     "phonetic": "/'skeptikl/",

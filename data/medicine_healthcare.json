@@ -666,6 +666,24 @@
     ]
   },
   {
+    "id": "aspirin",
+    "word": "aspirin",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "医药健康、临床医疗与防治",
+    "category": "medicine_healthcare",
+    "phonetic": "/'æspәrin/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aspirin&type=2",
+    "definition_en": "n. the acetylated derivative of salicylic acid; used as an analgesic anti-inflammatory drug (trade names Bayer, Empirin, and St. Joseph) usually taken in tablet form; used as an antipyretic; slows clotting of the blood by poisoning platelets",
+    "definition_zh": "n. 阿斯匹林； 乙酰水杨酸; 阿司匹灵; 邻乙酸基苯甲酸",
+    "examples": [
+      {
+        "en": "A deep understanding of aspirin is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 阿斯匹林具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "atmosphere",
     "word": "atmosphere",
     "part_of_speech": "noun",
@@ -813,7 +831,7 @@
     "id": "bacterium",
     "word": "bacterium",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "医药健康、临床医疗与防治",
     "category": "medicine_healthcare",
     "phonetic": "/bæk'tiәriәm/",
@@ -1004,6 +1022,24 @@
       {
         "en": "A deep understanding of blindness is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 盲目, 失明, 愚昧具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "blister",
+    "word": "blister",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "医药健康、临床医疗与防治",
+    "category": "medicine_healthcare",
+    "phonetic": "/'blistә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blister&type=2",
+    "definition_en": "n. a flaw on a surface resulting when an applied substance does not adhere (as an air bubble in a coat of paint)\\nn. (botany) a swelling on a plant similar to that on the skin\\nn. (pathology) an elevation of the skin filled with serous fluid\\nv. get blistered",
+    "definition_zh": "n. 水疱； 砂眼",
+    "examples": [
+      {
+        "en": "A deep understanding of blister is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 水疱具有重要的表达意义。"
       }
     ]
   },
@@ -3963,7 +3999,7 @@
     "id": "flush",
     "word": "flush",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "医药健康、临床医疗与防治",
     "category": "medicine_healthcare",
     "phonetic": "/flʌʃ/",
@@ -4071,7 +4107,7 @@
     "id": "friction",
     "word": "friction",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "医药健康、临床医疗与防治",
     "category": "medicine_healthcare",
     "phonetic": "/'frikʃәn/",
@@ -4413,7 +4449,7 @@
     "id": "hawk",
     "word": "hawk",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "医药健康、临床医疗与防治",
     "category": "medicine_healthcare",
     "phonetic": "/hɒ:k/",
@@ -5508,6 +5544,24 @@
     ]
   },
   {
+    "id": "injected",
+    "word": "injected",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "医药健康、临床医疗与防治",
+    "category": "medicine_healthcare",
+    "phonetic": "/inˈdʒektid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=injected&type=2",
+    "definition_en": "v give an injection to\\nv to introduce (a new aspect or element)\\nv force or drive (a fluid or gas) into by piercing\\nv take by injection\\nv feed intravenously\\nv to insert between other elements",
+    "definition_zh": "a. 注入的, 充血的； v. （给…）注射（药物等）（ inject的过去式和过去分词 ）; （给…）注射（液体）; （给…）添加; （给…）投入（资金）",
+    "examples": [
+      {
+        "en": "A deep understanding of injected is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 注入的, 充血的具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "injure",
     "word": "injure",
     "part_of_speech": "noun",
@@ -5799,7 +5853,7 @@
     "id": "intern",
     "word": "intern",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B1",
     "topic": "医药健康、临床医疗与防治",
     "category": "medicine_healthcare",
     "phonetic": "/in'tә:n/",
@@ -6015,7 +6069,7 @@
     "id": "irrigate",
     "word": "irrigate",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "医药健康、临床医疗与防治",
     "category": "medicine_healthcare",
     "phonetic": "/'irigeit/",
@@ -10026,6 +10080,24 @@
     ]
   },
   {
+    "id": "stimulant",
+    "word": "stimulant",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "医药健康、临床医疗与防治",
+    "category": "medicine_healthcare",
+    "phonetic": "/'stimjulәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stimulant&type=2",
+    "definition_en": "n. a drug that temporarily quickens some vital process\\ns. that stimulates",
+    "definition_zh": "a. 兴奋性的, 激励的, 鼓舞的； n. 兴奋剂, 酒精饮料",
+    "examples": [
+      {
+        "en": "A deep understanding of stimulant is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，a. 兴奋性的, 激励的, 鼓舞的具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "stimuli",
     "word": "stimuli",
     "part_of_speech": "noun",
@@ -11930,24 +12002,6 @@
       {
         "en": "A deep understanding of writing is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 书写, 著作, 笔迹, 作品具有重要的表达意义。"
-      }
-    ]
-  },
-  {
-    "id": "yogurt",
-    "word": "yogurt",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "医药健康、临床医疗与防治",
-    "category": "medicine_healthcare",
-    "phonetic": "/'jɔ^әt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=yogurt&type=2",
-    "definition_en": "n. a custard-like food made from curdled milk",
-    "definition_zh": "n. 酸乳酪； 酸乳",
-    "examples": [
-      {
-        "en": "A deep understanding of yogurt is beneficial in everyday learning.",
-        "zh": "在日常与专业场景中，n. 酸乳酪具有重要的表达意义。"
       }
     ]
   },

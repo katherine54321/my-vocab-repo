@@ -234,6 +234,24 @@
     ]
   },
   {
+    "id": "bars",
+    "word": "bars",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "建筑结构与居住设施",
+    "category": "housing_architecture",
+    "phonetic": "/bɑ:z/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bars&type=2",
+    "definition_en": "n gymnastic apparatus consisting of two parallel wooden rods supported on uprights\\nn a room or establishment where alcoholic drinks are served over a counter\\nn a counter where you can obtain food or drink\\nn a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon\\nn musical notation for a repeating pattern of musical beats\\nn an obstruction (usually metal) placed at the top of a goal\\nn the act of preventing\\nn (meteorology) a unit of pressure equal to a million dynes per square centimeter\\nn a submerged (or partly submerged) ridge in a river or along a shore\\nn the body of individuals qualified to practice law in a particular jurisdiction\\nn a narrow marking of a different color or texture from the background\\nn a block of solid substance (such as soap or wax)\\nn a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War\\nn a horizontal rod that serves as a support for gymnasts as they perform exercises\\nn a heating element in an electric fire\\nn (law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried\\nv prevent from entering; keep out\\nv render unsuitable for passage\\nv expel, as if by official decree\\nv secure with, or as if with, bars",
+    "definition_zh": "n. 马齿龈；（木、金属等的）条；栅栏；酒吧（bar的复数形式）",
+    "examples": [
+      {
+        "en": "A deep understanding of bars is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 马齿龈具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "basement",
     "word": "basement",
     "part_of_speech": "noun",
@@ -597,7 +615,7 @@
     "id": "cement",
     "word": "cement",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "建筑结构与居住设施",
     "category": "housing_architecture",
     "phonetic": "/si'ment/",
@@ -651,7 +669,7 @@
     "id": "chamber",
     "word": "chamber",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "建筑结构与居住设施",
     "category": "housing_architecture",
     "phonetic": "/'tʃeimbә/",
@@ -990,6 +1008,24 @@
     ]
   },
   {
+    "id": "conduit",
+    "word": "conduit",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "建筑结构与居住设施",
+    "category": "housing_architecture",
+    "phonetic": "/'kɒndit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=conduit&type=2",
+    "definition_en": "n. a passage (a pipe or tunnel) through which water or electric wires can pass",
+    "definition_zh": "n. 导管, 水管, 沟渠； 导管",
+    "examples": [
+      {
+        "en": "A deep understanding of conduit is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 导管, 水管, 沟渠具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "constitute",
     "word": "constitute",
     "part_of_speech": "noun",
@@ -1155,7 +1191,7 @@
     "id": "courtyard",
     "word": "courtyard",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "建筑结构与居住设施",
     "category": "housing_architecture",
     "phonetic": "/'kɒ:tjɑ:d/",
@@ -1256,6 +1292,24 @@
       {
         "en": "A deep understanding of curtains is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 灾难具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "dam",
+    "word": "dam",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "建筑结构与居住设施",
+    "category": "housing_architecture",
+    "phonetic": "/dæm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dam&type=2",
+    "definition_en": "n. a barrier constructed to contain the flow of water or to keep out the sea\\nn. female parent of an animal especially domestic livestock\\nv. obstruct with, or as if with, a dam",
+    "definition_zh": "n. 水坝, 障碍； v. 控制, 筑坝； 直接存取法",
+    "examples": [
+      {
+        "en": "A deep understanding of dam is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 水坝, 障碍具有重要的表达意义。"
       }
     ]
   },
@@ -1472,6 +1526,42 @@
       {
         "en": "A deep understanding of doorway is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 门口, 途径具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "drain",
+    "word": "drain",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "建筑结构与居住设施",
+    "category": "housing_architecture",
+    "phonetic": "/drein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=drain&type=2",
+    "definition_en": "n. emptying something accomplished by allowing liquid to run out of it\\nn. tube inserted into a body cavity (as during surgery) to remove unwanted material\\nn. a pipe through which liquid is carried away\\nn. a gradual depletion of energy or resources",
+    "definition_zh": "n. 排水沟, 消耗, 排水； vt. 排出, 喝光, 耗尽； vi. 排水, 流干",
+    "examples": [
+      {
+        "en": "A deep understanding of drain is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 排水沟, 消耗, 排水具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "drainage",
+    "word": "drainage",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "建筑结构与居住设施",
+    "category": "housing_architecture",
+    "phonetic": "/'dreinidʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=drainage&type=2",
+    "definition_en": "n emptying something accomplished by allowing liquid to run out of it",
+    "definition_zh": "n. 排水； 引流, 导液, 排水",
+    "examples": [
+      {
+        "en": "A deep understanding of drainage is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 排水具有重要的表达意义。"
       }
     ]
   },
@@ -2343,7 +2433,7 @@
     "id": "lounge",
     "word": "lounge",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "建筑结构与居住设施",
     "category": "housing_architecture",
     "phonetic": "/laundʒ/",
@@ -2433,7 +2523,7 @@
     "id": "overhead",
     "word": "overhead",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "建筑结构与居住设施",
     "category": "housing_architecture",
     "phonetic": "/'әuvәhed/",
@@ -2595,7 +2685,7 @@
     "id": "pillar",
     "word": "pillar",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "建筑结构与居住设施",
     "category": "housing_architecture",
     "phonetic": "/'pilә/",
@@ -3006,6 +3096,42 @@
     ]
   },
   {
+    "id": "sewers",
+    "word": "sewers",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "建筑结构与居住设施",
+    "category": "housing_architecture",
+    "phonetic": "/s'ju:əz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sewers&type=2",
+    "definition_en": "n. a waste pipe that carries away sewage or surface water\\nn. someone who sews\\nn. misfortune resulting in lost effort or money",
+    "definition_zh": "n. 阴沟, 污水管, 下水道( sewer的复数形式 )",
+    "examples": [
+      {
+        "en": "A deep understanding of sewers is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 阴沟, 污水管, 下水道( sewer的复数形式 )具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "shed",
+    "word": "shed",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "建筑结构与居住设施",
+    "category": "housing_architecture",
+    "phonetic": "/ʃed/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shed&type=2",
+    "definition_en": "n. an outbuilding with a single story; used for shelter or storage\\nv. get rid of\\nv. cast off hair, skin, horn, or feathers",
+    "definition_zh": "n. 车棚, 小屋, 脱落之物, 分水岭； vt. 使流出, 放射, 脱落, 散发, 摆脱； vi. 流出, 散布, 脱落",
+    "examples": [
+      {
+        "en": "A deep understanding of shed is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 车棚, 小屋, 脱落之物, 分水岭具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "shot",
     "word": "shot",
     "part_of_speech": "noun",
@@ -3207,7 +3333,7 @@
     "id": "staircase",
     "word": "staircase",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "建筑结构与居住设施",
     "category": "housing_architecture",
     "phonetic": "/'stєәkeis/",

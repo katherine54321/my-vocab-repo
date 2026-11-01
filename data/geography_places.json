@@ -936,6 +936,24 @@
     ]
   },
   {
+    "id": "caves",
+    "word": "caves",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/keivz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=caves&type=2",
+    "definition_en": "n a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea\\nv hollow out as if making a cave or opening\\nv explore natural caves",
+    "definition_zh": "n. 咖啡馆, 小餐厅( cafe的名词复数 ); 洞穴( cave的名词复数 )",
+    "examples": [
+      {
+        "en": "Caves is a world-renowned destination with unique cultural and geographical significance.",
+        "zh": "在日常与专业场景中，n. 咖啡馆, 小餐厅( cafe的名词复数 ); 洞穴( cave的名词复数 )具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "cay",
     "word": "cay",
     "part_of_speech": "noun",
@@ -1695,7 +1713,7 @@
     "id": "egyptian",
     "word": "Egyptian",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/i'dʒipʃәn/",
@@ -2325,7 +2343,7 @@
     "id": "gulf",
     "word": "gulf",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/gʌlf/",
@@ -2451,7 +2469,7 @@
     "id": "hilly",
     "word": "hilly",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/'hili/",
@@ -3225,7 +3243,7 @@
     "id": "mainland",
     "word": "mainland",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/'meinlәnd/",
@@ -3909,7 +3927,7 @@
     "id": "oriental",
     "word": "oriental",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/.ɒ:ri'entl/",
@@ -4323,12 +4341,12 @@
     "id": "port",
     "word": "port",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/pɒ:t/",
     "audio": "https://dict.youdao.com/dictvoice?audio=port&type=2",
-    "definition_en": "Proper noun / Geography: n. 港口, 埠, 舱门, 避风港, 左舷, 炮眼, 姿势, 意义",
+    "definition_en": "n. a place (seaport or airport) where people and merchandise can enter or leave a country\\nn. sweet dark-red dessert wine originally from Portugal\\nn. an opening (in a wall or ship or armored vehicle) for firing through\\nv. put or turn on the left side, of a ship",
     "definition_zh": "n. 港口, 埠, 舱门, 避风港, 左舷, 炮眼, 姿势, 意义； vt. 左转舵, 持(枪)； vi. 左转舵； 端口, 移植",
     "examples": [
       {
@@ -4431,7 +4449,7 @@
     "id": "pyramid",
     "word": "pyramid",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/'pirәmid/",
@@ -4485,7 +4503,7 @@
     "id": "realm",
     "word": "realm",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/relm/",
@@ -4611,7 +4629,7 @@
     "id": "roman",
     "word": "Roman",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/'rәumәn/",
@@ -4845,7 +4863,7 @@
     "id": "seaport",
     "word": "seaport",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/'si:pɒ:t/",
@@ -6048,6 +6066,24 @@
     ]
   },
   {
+    "id": "waterfront",
+    "word": "waterfront",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'wɔ:tәfrʌnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=waterfront&type=2",
+    "definition_en": "n. the area of a city (such as a harbor or dockyard) alongside a body of water",
+    "definition_zh": "n. 水边, 滨水区, 滩, 海滨, 江边",
+    "examples": [
+      {
+        "en": "Waterfront is a world-renowned destination with unique cultural and geographical significance.",
+        "zh": "在日常与专业场景中，n. 水边, 滨水区, 滩, 海滨, 江边具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "webb",
     "word": "webb",
     "part_of_speech": "noun",
@@ -6123,7 +6159,7 @@
     "id": "world-wide",
     "word": "world-wide",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/world-wide/",

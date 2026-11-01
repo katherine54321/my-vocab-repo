@@ -1,7 +1,7 @@
 window.CATEGORIES_INDEX = {
-  "version": "6.2.0",
-  "description": "Authoritative 14,000 Pure Deduplicated English Vocabulary Taxonomy",
-  "total_words": 14000,
+  "version": "6.3.0",
+  "description": "Authoritative 14,000 Pure Deduplicated English Vocabulary Taxonomy with Curated Beverages & Cocktails",
+  "total_words": 14086,
   "categories_count": 34,
   "categories": [
     {
@@ -16,8 +16,8 @@ window.CATEGORIES_INDEX = {
       "level_distribution": {
         "A1": 4,
         "A2": 5,
-        "B1": 14,
-        "B2": 14,
+        "B1": 15,
+        "B2": 13,
         "C1": 11,
         "C2": 5
       },
@@ -30,14 +30,14 @@ window.CATEGORIES_INDEX = {
       "group": "academic",
       "group_name_zh": "人文学科",
       "icon": "🏛️",
-      "count": 120,
-      "word_count": 120,
+      "count": 125,
+      "word_count": 125,
       "level_distribution": {
         "A1": 12,
-        "A2": 16,
-        "B1": 28,
-        "B2": 43,
-        "C1": 16,
+        "A2": 17,
+        "B1": 38,
+        "B2": 35,
+        "C1": 18,
         "C2": 5
       },
       "file": "data/politics.json"
@@ -49,13 +49,13 @@ window.CATEGORIES_INDEX = {
       "group": "academic",
       "group_name_zh": "人文学科",
       "icon": "📜",
-      "count": 45,
-      "word_count": 45,
+      "count": 46,
+      "word_count": 46,
       "level_distribution": {
         "A1": 2,
         "A2": 3,
-        "B1": 12,
-        "B2": 16,
+        "B1": 14,
+        "B2": 15,
         "C1": 5,
         "C2": 7
       },
@@ -92,9 +92,9 @@ window.CATEGORIES_INDEX = {
       "level_distribution": {
         "A1": 43,
         "A2": 89,
-        "B1": 172,
-        "B2": 139,
-        "C1": 91,
+        "B1": 177,
+        "B2": 135,
+        "C1": 90,
         "C2": 46
       },
       "file": "data/law_justice.json"
@@ -110,10 +110,10 @@ window.CATEGORIES_INDEX = {
       "word_count": 92,
       "level_distribution": {
         "A1": 15,
-        "A2": 11,
-        "B1": 21,
-        "B2": 29,
-        "C1": 13,
+        "A2": 12,
+        "B1": 24,
+        "B2": 26,
+        "C1": 12,
         "C2": 3
       },
       "file": "data/human_organs.json"
@@ -125,13 +125,13 @@ window.CATEGORIES_INDEX = {
       "group": "human",
       "group_name_zh": "人类与生理",
       "icon": "🎭",
-      "count": 240,
-      "word_count": 240,
+      "count": 238,
+      "word_count": 238,
       "level_distribution": {
-        "A1": 35,
+        "A1": 34,
         "A2": 27,
-        "B1": 61,
-        "B2": 61,
+        "B1": 72,
+        "B2": 49,
         "C1": 31,
         "C2": 25
       },
@@ -149,8 +149,8 @@ window.CATEGORIES_INDEX = {
       "level_distribution": {
         "A1": 30,
         "A2": 20,
-        "B1": 72,
-        "B2": 67,
+        "B1": 80,
+        "B2": 59,
         "C1": 59,
         "C2": 23
       },
@@ -168,8 +168,8 @@ window.CATEGORIES_INDEX = {
       "level_distribution": {
         "A1": 55,
         "A2": 19,
-        "B1": 39,
-        "B2": 29,
+        "B1": 43,
+        "B2": 25,
         "C1": 15,
         "C2": 6
       },
@@ -182,15 +182,15 @@ window.CATEGORIES_INDEX = {
       "group": "food",
       "group_name_zh": "食品与餐饮",
       "icon": "☕",
-      "count": 158,
-      "word_count": 158,
+      "count": 146,
+      "word_count": 146,
       "level_distribution": {
-        "A1": 18,
-        "A2": 17,
-        "B1": 42,
-        "B2": 44,
-        "C1": 30,
-        "C2": 7
+        "A1": 4,
+        "A2": 10,
+        "B1": 130,
+        "B2": 1,
+        "C1": 1,
+        "C2": 0
       },
       "file": "data/food_beverages.json"
     },
@@ -201,13 +201,13 @@ window.CATEGORIES_INDEX = {
       "group": "food",
       "group_name_zh": "食品与餐饮",
       "icon": "🍎",
-      "count": 33,
-      "word_count": 33,
+      "count": 31,
+      "word_count": 31,
       "level_distribution": {
         "A1": 6,
-        "A2": 2,
-        "B1": 12,
-        "B2": 10,
+        "A2": 1,
+        "B1": 13,
+        "B2": 8,
         "C1": 3,
         "C2": 0
       },
@@ -225,8 +225,8 @@ window.CATEGORIES_INDEX = {
       "level_distribution": {
         "A1": 7,
         "A2": 10,
-        "B1": 9,
-        "B2": 7,
+        "B1": 11,
+        "B2": 5,
         "C1": 5,
         "C2": 1
       },
@@ -239,14 +239,14 @@ window.CATEGORIES_INDEX = {
       "group": "food",
       "group_name_zh": "食品与餐饮",
       "icon": "🥩",
-      "count": 54,
-      "word_count": 54,
+      "count": 56,
+      "word_count": 56,
       "level_distribution": {
         "A1": 11,
         "A2": 4,
         "B1": 20,
-        "B2": 12,
-        "C1": 5,
+        "B2": 13,
+        "C1": 6,
         "C2": 2
       },
       "file": "data/food_meat_seafood.json"
@@ -258,14 +258,14 @@ window.CATEGORIES_INDEX = {
       "group": "food",
       "group_name_zh": "食品与餐饮",
       "icon": "🍽️",
-      "count": 110,
-      "word_count": 110,
+      "count": 113,
+      "word_count": 113,
       "level_distribution": {
-        "A1": 17,
+        "A1": 18,
         "A2": 22,
-        "B1": 33,
-        "B2": 18,
-        "C1": 17,
+        "B1": 38,
+        "B2": 16,
+        "C1": 16,
         "C2": 3
       },
       "file": "data/food_dining.json"
@@ -277,15 +277,15 @@ window.CATEGORIES_INDEX = {
       "group": "living",
       "group_name_zh": "生活与空间",
       "icon": "🏠",
-      "count": 204,
-      "word_count": 204,
+      "count": 211,
+      "word_count": 211,
       "level_distribution": {
         "A1": 39,
-        "A2": 31,
-        "B1": 51,
-        "B2": 47,
+        "A2": 33,
+        "B1": 61,
+        "B2": 41,
         "C1": 28,
-        "C2": 8
+        "C2": 9
       },
       "file": "data/housing_architecture.json"
     },
@@ -296,13 +296,13 @@ window.CATEGORIES_INDEX = {
       "group": "living",
       "group_name_zh": "生活与空间",
       "icon": "👗",
-      "count": 106,
-      "word_count": 106,
+      "count": 108,
+      "word_count": 108,
       "level_distribution": {
         "A1": 24,
         "A2": 12,
-        "B1": 29,
-        "B2": 17,
+        "B1": 36,
+        "B2": 12,
         "C1": 17,
         "C2": 7
       },
@@ -315,13 +315,13 @@ window.CATEGORIES_INDEX = {
       "group": "living",
       "group_name_zh": "生活与空间",
       "icon": "🔧",
-      "count": 184,
-      "word_count": 184,
+      "count": 185,
+      "word_count": 185,
       "level_distribution": {
-        "A1": 35,
+        "A1": 36,
         "A2": 32,
-        "B1": 55,
-        "B2": 42,
+        "B1": 67,
+        "B2": 30,
         "C1": 14,
         "C2": 6
       },
@@ -339,8 +339,8 @@ window.CATEGORIES_INDEX = {
       "level_distribution": {
         "A1": 12,
         "A2": 3,
-        "B1": 11,
-        "B2": 7,
+        "B1": 15,
+        "B2": 3,
         "C1": 4,
         "C2": 4
       },
@@ -353,14 +353,14 @@ window.CATEGORIES_INDEX = {
       "group": "nature_geo",
       "group_name_zh": "地理与自然",
       "icon": "🗺️",
-      "count": 345,
-      "word_count": 345,
+      "count": 347,
+      "word_count": 347,
       "level_distribution": {
         "A1": 37,
-        "A2": 205,
-        "B1": 33,
-        "B2": 32,
-        "C1": 25,
+        "A2": 204,
+        "B1": 44,
+        "B2": 23,
+        "C1": 26,
         "C2": 13
       },
       "file": "data/geography_places.json"
@@ -372,14 +372,14 @@ window.CATEGORIES_INDEX = {
       "group": "nature_geo",
       "group_name_zh": "地理与自然",
       "icon": "🦁",
-      "count": 161,
-      "word_count": 161,
+      "count": 165,
+      "word_count": 165,
       "level_distribution": {
         "A1": 17,
         "A2": 21,
-        "B1": 53,
-        "B2": 32,
-        "C1": 23,
+        "B1": 69,
+        "B2": 22,
+        "C1": 21,
         "C2": 15
       },
       "file": "data/animals_wildlife.json"
@@ -391,14 +391,14 @@ window.CATEGORIES_INDEX = {
       "group": "nature_geo",
       "group_name_zh": "地理与自然",
       "icon": "🌿",
-      "count": 148,
-      "word_count": 148,
+      "count": 156,
+      "word_count": 156,
       "level_distribution": {
-        "A1": 22,
+        "A1": 24,
         "A2": 13,
-        "B1": 42,
-        "B2": 30,
-        "C1": 28,
+        "B1": 50,
+        "B2": 26,
+        "C1": 30,
         "C2": 13
       },
       "file": "data/nature_weather.json"
@@ -415,8 +415,8 @@ window.CATEGORIES_INDEX = {
       "level_distribution": {
         "A1": 65,
         "A2": 20,
-        "B1": 44,
-        "B2": 33,
+        "B1": 50,
+        "B2": 27,
         "C1": 12,
         "C2": 4
       },
@@ -434,9 +434,9 @@ window.CATEGORIES_INDEX = {
       "level_distribution": {
         "A1": 40,
         "A2": 13,
-        "B1": 40,
-        "B2": 24,
-        "C1": 15,
+        "B1": 48,
+        "B2": 17,
+        "C1": 14,
         "C2": 8
       },
       "file": "data/travel_transport.json"
@@ -448,14 +448,14 @@ window.CATEGORIES_INDEX = {
       "group": "leisure_transport",
       "group_name_zh": "出行与文体",
       "icon": "⚽",
-      "count": 121,
-      "word_count": 121,
+      "count": 127,
+      "word_count": 127,
       "level_distribution": {
-        "A1": 26,
+        "A1": 27,
         "A2": 17,
-        "B1": 45,
-        "B2": 15,
-        "C1": 15,
+        "B1": 50,
+        "B2": 13,
+        "C1": 17,
         "C2": 3
       },
       "file": "data/sports_fitness.json"
@@ -472,9 +472,9 @@ window.CATEGORIES_INDEX = {
       "level_distribution": {
         "A1": 36,
         "A2": 26,
-        "B1": 60,
-        "B2": 35,
-        "C1": 34,
+        "B1": 64,
+        "B2": 32,
+        "C1": 33,
         "C2": 16
       },
       "file": "data/arts_literature.json"
@@ -486,14 +486,14 @@ window.CATEGORIES_INDEX = {
       "group": "leisure_transport",
       "group_name_zh": "出行与文体",
       "icon": "🎬",
-      "count": 142,
-      "word_count": 142,
+      "count": 143,
+      "word_count": 143,
       "level_distribution": {
         "A1": 31,
         "A2": 27,
-        "B1": 35,
-        "B2": 24,
-        "C1": 16,
+        "B1": 39,
+        "B2": 22,
+        "C1": 15,
         "C2": 9
       },
       "file": "data/entertainment_media.json"
@@ -505,15 +505,15 @@ window.CATEGORIES_INDEX = {
       "group": "leisure_transport",
       "group_name_zh": "出行与文体",
       "icon": "🏥",
-      "count": 665,
-      "word_count": 665,
+      "count": 668,
+      "word_count": 668,
       "level_distribution": {
-        "A1": 62,
+        "A1": 61,
         "A2": 85,
-        "B1": 177,
-        "B2": 149,
-        "C1": 112,
-        "C2": 80
+        "B1": 184,
+        "B2": 144,
+        "C1": 115,
+        "C2": 79
       },
       "file": "data/medicine_healthcare.json"
     },
@@ -529,9 +529,9 @@ window.CATEGORIES_INDEX = {
       "level_distribution": {
         "A1": 38,
         "A2": 12,
-        "B1": 57,
-        "B2": 25,
-        "C1": 21,
+        "B1": 61,
+        "B2": 22,
+        "C1": 20,
         "C2": 3
       },
       "file": "data/education_learning.json"
@@ -543,13 +543,13 @@ window.CATEGORIES_INDEX = {
       "group": "education_work",
       "group_name_zh": "教育与职场",
       "icon": "💼",
-      "count": 286,
-      "word_count": 286,
+      "count": 289,
+      "word_count": 289,
       "level_distribution": {
-        "A1": 45,
+        "A1": 46,
         "A2": 43,
-        "B1": 78,
-        "B2": 58,
+        "B1": 81,
+        "B2": 57,
         "C1": 44,
         "C2": 18
       },
@@ -581,14 +581,14 @@ window.CATEGORIES_INDEX = {
       "group": "science_tech",
       "group_name_zh": "科技与数理",
       "icon": "🔬",
-      "count": 428,
-      "word_count": 428,
+      "count": 433,
+      "word_count": 433,
       "level_distribution": {
-        "A1": 28,
-        "A2": 50,
-        "B1": 142,
-        "B2": 114,
-        "C1": 59,
+        "A1": 29,
+        "A2": 51,
+        "B1": 156,
+        "B2": 104,
+        "C1": 58,
         "C2": 35
       },
       "file": "data/math_physics_chem.json"
@@ -600,15 +600,15 @@ window.CATEGORIES_INDEX = {
       "group": "core_language",
       "group_name_zh": "语言与核心表达",
       "icon": "💬",
-      "count": 3445,
-      "word_count": 3445,
+      "count": 3492,
+      "word_count": 3492,
       "level_distribution": {
-        "A1": 663,
-        "A2": 540,
-        "B1": 1067,
-        "B2": 602,
-        "C1": 360,
-        "C2": 213
+        "A1": 665,
+        "A2": 545,
+        "B1": 1084,
+        "B2": 612,
+        "C1": 368,
+        "C2": 218
       },
       "file": "data/communication_language.json"
     },
@@ -619,13 +619,13 @@ window.CATEGORIES_INDEX = {
       "group": "core_language",
       "group_name_zh": "语言与核心表达",
       "icon": "⚡",
-      "count": 1828,
-      "word_count": 1828,
+      "count": 1833,
+      "word_count": 1833,
       "level_distribution": {
         "A1": 259,
-        "A2": 353,
-        "B1": 576,
-        "B2": 367,
+        "A2": 354,
+        "B1": 579,
+        "B2": 368,
         "C1": 151,
         "C2": 122
       },
@@ -638,15 +638,15 @@ window.CATEGORIES_INDEX = {
       "group": "core_language",
       "group_name_zh": "语言与核心表达",
       "icon": "✨",
-      "count": 2760,
-      "word_count": 2760,
+      "count": 2757,
+      "word_count": 2757,
       "level_distribution": {
-        "A1": 173,
-        "A2": 160,
-        "B1": 525,
-        "B2": 1117,
-        "C1": 559,
-        "C2": 226
+        "A1": 178,
+        "A2": 155,
+        "B1": 894,
+        "B2": 782,
+        "C1": 525,
+        "C2": 223
       },
       "file": "data/core_descriptors.json"
     }

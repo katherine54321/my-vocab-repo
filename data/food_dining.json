@@ -270,6 +270,24 @@
     ]
   },
   {
+    "id": "bowl",
+    "word": "bowl",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "餐饮烹饪、菜单与调味",
+    "category": "food_dining",
+    "phonetic": "/bәul/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bowl&type=2",
+    "definition_en": "n. a round vessel that is open at the top; used chiefly for holding food or liquids; \\nn. a concave shape with an open top\\nn. a dish that is round and open at the top for serving foods\\nn. the quantity contained in a bowl",
+    "definition_zh": "n. 碗, 木球, 大酒杯； v. 滚木球, 快而稳地行驶",
+    "examples": [
+      {
+        "en": "A deep understanding of bowl is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 碗, 木球, 大酒杯具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "bread",
     "word": "bread",
     "part_of_speech": "noun",
@@ -410,6 +428,24 @@
       {
         "en": "A deep understanding of candy is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 糖果, 冰糖具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "canteen",
+    "word": "canteen",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "餐饮烹饪、菜单与调味",
+    "category": "food_dining",
+    "phonetic": "/kæn'ti:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=canteen&type=2",
+    "definition_en": "n. a flask for carrying water; used by soldiers or travelers\\nn. sells food and personal items to personnel at an institution or school or camp etc.\\nn. a restaurant outside; often for soldiers or policemen\\nn. a recreation room in an institution",
+    "definition_zh": "n. 水壶, 军中俱乐部, 临时流动餐馆, 小卖部",
+    "examples": [
+      {
+        "en": "A deep understanding of canteen is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 水壶, 军中俱乐部, 临时流动餐馆, 小卖部具有重要的表达意义。"
       }
     ]
   },
@@ -561,7 +597,7 @@
     "id": "crust",
     "word": "crust",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "餐饮烹饪、菜单与调味",
     "category": "food_dining",
     "phonetic": "/krʌst/",
@@ -579,7 +615,7 @@
     "id": "cuisine",
     "word": "cuisine",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "餐饮烹饪、菜单与调味",
     "category": "food_dining",
     "phonetic": "/kwi:'zi:n/",
@@ -939,7 +975,7 @@
     "id": "flavour",
     "word": "flavour",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "餐饮烹饪、菜单与调味",
     "category": "food_dining",
     "phonetic": "/'fleivә/",
@@ -1022,6 +1058,24 @@
       {
         "en": "A deep understanding of grilled is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，a. 烤的, 炙过的, 有格子的具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "jug",
+    "word": "jug",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "餐饮烹饪、菜单与调味",
+    "category": "food_dining",
+    "phonetic": "/dʒʌg/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jug&type=2",
+    "definition_en": "n. a large bottle with a narrow mouth\\nn. the quantity contained in a jug\\nv. stew in an earthenware jug",
+    "definition_zh": "n. 水壶, 监牢, 模仿夜莺的叫声； vt. 放入壶中, 炖, 关押； vi. 模仿夜莺叫",
+    "examples": [
+      {
+        "en": "A deep understanding of jug is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 水壶, 监牢, 模仿夜莺的叫声具有重要的表达意义。"
       }
     ]
   },
@@ -1911,7 +1965,7 @@
     "id": "vapour",
     "word": "vapour",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "餐饮烹饪、菜单与调味",
     "category": "food_dining",
     "phonetic": "/'veipә/",

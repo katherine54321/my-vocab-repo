@@ -345,7 +345,7 @@
     "id": "bristle",
     "word": "bristle",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/'brisl/",
@@ -489,7 +489,7 @@
     "id": "cart",
     "word": "cart",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/kɑ:t/",
@@ -669,7 +669,7 @@
     "id": "curb",
     "word": "curb",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/kә:b/",
@@ -806,6 +806,24 @@
       {
         "en": "A deep understanding of dove is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 鸽子具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "duck",
+    "word": "duck",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "动物世界、鸟类与陆海生物",
+    "category": "animals_wildlife",
+    "phonetic": "/dʌk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=duck&type=2",
+    "definition_en": "n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs\\nn. (cricket) a score of nothing by a batsman\\nn. flesh of a duck (domestic or wild)\\nn. a heavy cotton fabric of plain weave; used for clothing and tents",
+    "definition_zh": "n. 鸭子； vi. 没入水中, 闪避； vt. 猛按...入水, 躲避",
+    "examples": [
+      {
+        "en": "A deep understanding of duck is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 鸭子具有重要的表达意义。"
       }
     ]
   },
@@ -1119,7 +1137,7 @@
     "id": "hive",
     "word": "hive",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/haiv/",
@@ -1173,7 +1191,7 @@
     "id": "horsepower",
     "word": "horsepower",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/'hɒ:spauә/",
@@ -1227,7 +1245,7 @@
     "id": "infamous",
     "word": "infamous",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/'infәmәs/",
@@ -1425,7 +1443,7 @@
     "id": "lime",
     "word": "lime",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/laim/",
@@ -1569,7 +1587,7 @@
     "id": "marxist",
     "word": "Marxist",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/'mɑ:ksist/",
@@ -1839,7 +1857,7 @@
     "id": "panda",
     "word": "panda",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/'pændә/",
@@ -1850,6 +1868,24 @@
       {
         "en": "A deep understanding of panda is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 大熊猫, 小熊猫具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "pebble",
+    "word": "pebble",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "动物世界、鸟类与陆海生物",
+    "category": "animals_wildlife",
+    "phonetic": "/'pebl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pebble&type=2",
+    "definition_en": "n. a small smooth rounded rock",
+    "definition_zh": "n. 小圆石, 小鹅卵石, 水晶透镜, 碎石花纹； 小石",
+    "examples": [
+      {
+        "en": "A deep understanding of pebble is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 小圆石, 小鹅卵石, 水晶透镜, 碎石花纹具有重要的表达意义。"
       }
     ]
   },
@@ -2271,7 +2307,7 @@
     "id": "rooster",
     "word": "rooster",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/'ru:stә/",
@@ -2307,7 +2343,7 @@
     "id": "saddle",
     "word": "saddle",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/'sædl/",
@@ -2361,7 +2397,7 @@
     "id": "shark",
     "word": "shark",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/ʃɑ:k/",
@@ -2412,6 +2448,24 @@
     ]
   },
   {
+    "id": "slack",
+    "word": "slack",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "动物世界、鸟类与陆海生物",
+    "category": "animals_wildlife",
+    "phonetic": "/slæk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=slack&type=2",
+    "definition_en": "n. dust consisting of a mixture of small coal fragments and coal dust and dirt that sifts out when coal is passed over a sieve\\nn. a stretch of water without current or movement\\nn. the quality of being loose (not taut)\\nn. a cord or rope or cable that is hanging loosely",
+    "definition_zh": "n. 松弛, 松懈, 淡季, 闲散, 家常裤； a. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水的； adv. 马虎地, 缓慢地； vt. 放松, 使缓慢； vi. 松懈, 减弱, 松弛",
+    "examples": [
+      {
+        "en": "A deep understanding of slack is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 松弛, 松懈, 淡季, 闲散, 家常裤具有重要的表达意义。"
+      }
+    ]
+  },
+  {
     "id": "snake",
     "word": "snake",
     "part_of_speech": "noun",
@@ -2451,7 +2505,7 @@
     "id": "sow",
     "word": "sow",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "动物世界、鸟类与陆海生物",
     "category": "animals_wildlife",
     "phonetic": "/sau. sәu/",
@@ -2480,6 +2534,24 @@
       {
         "en": "A deep understanding of sparrow is beneficial in everyday learning.",
         "zh": "在日常与专业场景中，n. 麻雀具有重要的表达意义。"
+      }
+    ]
+  },
+  {
+    "id": "species",
+    "word": "species",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "动物世界、鸟类与陆海生物",
+    "category": "animals_wildlife",
+    "phonetic": "/'spi:ʃiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=species&type=2",
+    "definition_en": "n. (biology) taxonomic group whose members can interbreed\\nn. a specific kind of something",
+    "definition_zh": "n. 种, 类, 外形； 茶剂; 种",
+    "examples": [
+      {
+        "en": "A deep understanding of species is beneficial in everyday learning.",
+        "zh": "在日常与专业场景中，n. 种, 类, 外形具有重要的表达意义。"
       }
     ]
   },
