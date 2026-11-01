@@ -157,15 +157,15 @@ document.addEventListener('DOMContentLoaded', async () => {
 // Dynamic 9 Domain Groups Definition
 const DOMAIN_GROUPS = [
   { id: 'all', name_zh: '全部大类', icon: '🌐' },
-  { id: 'academic', name_zh: '人文学科 (心理/政治/哲学/经济/法律)', icon: '🎓' },
-  { id: 'human', name_zh: '人类与生理 (器官/情绪/性格/社交)', icon: '🫀' },
-  { id: 'food', name_zh: '食品与餐饮 (水饮/水果/蔬菜/肉类/烹饪)', icon: '🍽️' },
-  { id: 'living', name_zh: '生活与空间 (建筑/服饰/工具/作息)', icon: '🏠' },
-  { id: 'nature_geo', name_zh: '地理与自然 (名胜/动物/气候/时间)', icon: '🗺️' },
-  { id: 'leisure_transport', name_zh: '出行与文体 (交通/体育/艺术/娱乐/医疗)', icon: '✈️' },
-  { id: 'education_work', name_zh: '教育与职场 (学术/商务/职业)', icon: '💼' },
-  { id: 'science_tech', name_zh: '科技与数理 (计算机AI/数理化)', icon: '💻' },
-  { id: 'core_language', name_zh: '语言与核心表达 (交流/动作/性状)', icon: '💬' }
+  { id: 'academic', name_zh: '人文学科', icon: '🎓' },
+  { id: 'human', name_zh: '人类与生理', icon: '🫀' },
+  { id: 'food', name_zh: '食品与餐饮', icon: '🍽️' },
+  { id: 'living', name_zh: '生活与空间', icon: '🏠' },
+  { id: 'nature_geo', name_zh: '地理与自然', icon: '🗺️' },
+  { id: 'leisure_transport', name_zh: '出行与文体', icon: '✈️' },
+  { id: 'education_work', name_zh: '教育与职场', icon: '💼' },
+  { id: 'science_tech', name_zh: '科技与数理', icon: '💻' },
+  { id: 'core_language', name_zh: '核心语言', icon: '💬' }
 ];
 
 function renderDomainGroups() {
@@ -470,9 +470,11 @@ function initEventListeners() {
     });
   }
 
-  // Cross explore mode toggles
-  document.getElementById('modeTopicFirst').addEventListener('click', () => setExploreMode('topicFirst'));
-  document.getElementById('modeLevelFirst').addEventListener('click', () => setExploreMode('levelFirst'));
+  // Cross explore mode toggles (if present)
+  const btnModeT = document.getElementById('modeTopicFirst');
+  const btnModeL = document.getElementById('modeLevelFirst');
+  if (btnModeT) btnModeT.addEventListener('click', () => setExploreMode('topicFirst'));
+  if (btnModeL) btnModeL.addEventListener('click', () => setExploreMode('levelFirst'));
 
   // Search input
   const searchInput = document.getElementById('searchInput');
@@ -617,8 +619,10 @@ function switchView(viewName) {
 
 function setExploreMode(mode) {
   state.exploreMode = mode;
-  document.getElementById('modeTopicFirst').classList.toggle('active', mode === 'topicFirst');
-  document.getElementById('modeLevelFirst').classList.toggle('active', mode === 'levelFirst');
+  const btnT = document.getElementById('modeTopicFirst');
+  const btnL = document.getElementById('modeLevelFirst');
+  if (btnT) btnT.classList.toggle('active', mode === 'topicFirst');
+  if (btnL) btnL.classList.toggle('active', mode === 'levelFirst');
   renderFilters();
   renderWordCards();
 }
@@ -646,8 +650,8 @@ function renderFilters() {
   });
 
   if (state.exploreMode === 'topicFirst') {
-    primaryLabel.textContent = `场景切片 (${visibleCategories.length} 类)：`;
-    secondaryLabel.textContent = '交叉难度 (CEFR)：';
+    if (primaryLabel) primaryLabel.textContent = `场景切片 (${visibleCategories.length} 类)：`;
+    if (secondaryLabel) secondaryLabel.textContent = '交叉难度 (CEFR)：';
 
     // Topic Pills
     visibleCategories.forEach(cat => {
@@ -690,8 +694,8 @@ function renderFilters() {
 
   } else {
     // Mode 2: Level First
-    primaryLabel.textContent = '选择难度 (CEFR)：';
-    secondaryLabel.textContent = `交叉场景切片 (${visibleCategories.length} 类)：`;
+    if (primaryLabel) primaryLabel.textContent = '选择难度 (CEFR)：';
+    if (secondaryLabel) secondaryLabel.textContent = `交叉场景切片 (${visibleCategories.length} 类)：`;
 
     // Level Pills Primary
     const allLevelBtn = createPill('全部难度', 'All', state.selectedLevel === 'All', groupTotal, (val) => {
@@ -836,9 +840,6 @@ function renderWordCards() {
               <button class="audio-btn" onclick="event.stopPropagation(); playPronunciation('${safeWord}', '${item.audio || ''}')" title="发音">🔊</button>
             </div>
             <div class="word-def-zh">${item.definition_zh || item.definition_en || ''}</div>
-            <p class="word-def-en">${item.definition_en || ''}</p>
-
-            ${highlightedEg ? `<div class="card-example-preview">"${highlightedEg}"</div>` : ''}
           </div>
 
           <div class="card-footer">

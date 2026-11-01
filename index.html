@@ -16,7 +16,7 @@
   <link rel="icon" type="image/svg+xml" href="icons/favicon.svg">
   <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
 
-  <link rel="stylesheet" href="style.css?v=6.0">
+  <link rel="stylesheet" href="style.css?v=9.1">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -83,57 +83,41 @@
     <!-- VIEW 1: BROWSE & CROSS-FILTER -->
     <section id="viewBrowse" class="app-view active">
       
-      <!-- Cross Navigation Control Panel -->
-      <div class="filter-panel">
-        <div class="filter-mode-header">
-          <span class="filter-title">交叉筛选模式：</span>
-          <div class="mode-toggles">
-            <button class="toggle-pill active" id="modeTopicFirst">
-              🎯 按主题探索 (单主题 × 全难度)
-            </button>
-            <button class="toggle-pill" id="modeLevelFirst">
-              📈 按水平探索 (同水平 × 全主题)
-            </button>
-          </div>
-        </div>
-
-        <!-- Domain Group Fast Filter -->
-        <div class="filter-group group-filter">
-          <div class="filter-label">分类集群：</div>
-          <div class="filter-pills-scroll" id="domainGroupPills">
+      <!-- App-Style Compact Multi-Tier Category Navigation -->
+      <div class="app-filter-panel">
+        <!-- Tier 1: Domain Group Pills (Horizontal Scroll) -->
+        <div class="filter-tier tier-domain-groups">
+          <div class="app-scroll-pills" id="domainGroupPills">
             <!-- Dynamically populated by renderDomainGroups() -->
           </div>
         </div>
 
-        <!-- Primary Filter Row (Topic or Level depending on mode) -->
-        <div class="filter-group primary-filter">
-          <div class="filter-label" id="primaryFilterLabel">选择主题：</div>
-          <div class="filter-pills-scroll" id="primaryPills">
-            <!-- Dynamically populated -->
+        <!-- Tier 2: Sub-categories of selected Domain Group (Horizontal Scroll) -->
+        <div class="filter-tier tier-subcategories" id="subcategoriesRow">
+          <div class="app-scroll-pills" id="primaryPills">
+            <!-- Dynamically populated by renderFilters() -->
           </div>
         </div>
 
-        <!-- Secondary Filter Row (Level or Topic) -->
-        <div class="filter-group secondary-filter">
-          <div class="filter-label" id="secondaryFilterLabel">CEFR 等级：</div>
-          <div class="filter-pills-scroll" id="secondaryPills">
-            <!-- Dynamically populated -->
+        <!-- Tier 3: CEFR Level Pills (Horizontal Scroll) -->
+        <div class="filter-tier tier-levels" id="levelsRow">
+          <div class="app-scroll-pills" id="secondaryPills">
+            <!-- Dynamically populated by renderFilters() -->
           </div>
         </div>
 
         <!-- Filter Stats & Quick Sort -->
         <div class="filter-status-bar">
           <div class="results-count">
-            词库总收录 <span class="badge-total" id="filterTotalCount">0</span> 词 · 交叉筛选出 <strong id="matchedCount">0</strong> 个词汇
+            收录 <span class="badge-total" id="filterTotalCount">0</span> 词 · 筛选出 <strong id="matchedCount">0</strong> 词
             <span class="current-selection-desc" id="selectionDesc"></span>
           </div>
           <div class="filter-controls">
-            <label class="sort-label">排序方式：</label>
-            <select id="sortSelect" class="styled-select">
-              <option value="level-asc">按难度 (A1 → C2)</option>
-              <option value="level-desc">按难度 (C2 → A1)</option>
-              <option value="alpha-asc">字母顺序 (A → Z)</option>
-              <option value="alpha-desc">字母顺序 (Z → A)</option>
+            <select id="sortSelect" class="styled-select compact-select">
+              <option value="level-asc">难度 A1→C2</option>
+              <option value="level-desc">难度 C2→A1</option>
+              <option value="alpha-asc">字母 A→Z</option>
+              <option value="alpha-desc">字母 Z→A</option>
             </select>
           </div>
         </div>
@@ -477,8 +461,8 @@
   <div class="toast" id="toast"></div>
 
   <!-- Scripts -->
-  <script src="categories.js?v=9.0"></script>
-  <script src="data.js?v=9.0"></script>
-  <script src="app.js?v=9.0"></script>
+  <script src="categories.js?v=9.1"></script>
+  <script src="data.js?v=9.1"></script>
+  <script src="app.js?v=9.1"></script>
 </body>
 </html>
