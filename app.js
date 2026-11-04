@@ -6,7 +6,7 @@
 
 // Native IndexedDB Configuration
 const DB_NAME = 'VocabMatrixCacheDB';
-const DB_VERSION = 9; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
+const DB_VERSION = 10; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
 const STORE_NAME = 'slices';
 
 // Application State
@@ -292,7 +292,8 @@ function isStaleSlice(sliceId, data) {
     const zh = it.definition_zh || '';
     const en = it.definition_en || '';
     const sid = String(it.id || '');
-    return zh.includes('相关词汇') || en.startsWith('Denoting ') || sid.includes('_noun') || sid.includes('_verb');
+    const egZh = it.examples && it.examples[0] && it.examples[0].zh ? it.examples[0].zh : '';
+    return zh.includes('相关词汇') || en.startsWith('Denoting ') || sid.includes('_noun') || sid.includes('_verb') || egZh.includes('在日常与专业场景中') || egZh.includes('具有重要的表达意义');
   });
 }
 
@@ -947,7 +948,11 @@ function openWordModal(id) {
   if (item.examples && item.examples.length > 0) {
     egList.innerHTML = item.examples.map(eg => {
       const en = typeof eg === 'object' ? (eg.en || '') : String(eg);
-      const zh = typeof eg === 'object' ? (eg.zh || '') : '';
+      let zh = typeof eg === 'object' ? (eg.zh || '') : '';
+      if (zh && (zh.includes('在日常与专业场景中') || zh.includes('具有重要的表达意义'))) {
+        zh = zh.replace(/在日常与专业场景中[，,]?\s*/g, '').replace(/[，,]?\s*具有重要的表达意义[。.]?\s*/g, '。').trim();
+        if (zh.endsWith('。')) zh = zh.slice(0, -1);
+      }
       return `<li>
         <div class="eg-en">${highlightWord(en, item.word)}</div>
         ${zh ? `<div class="eg-zh" style="color:var(--text-muted);font-size:0.9rem;margin-top:2px;">${zh}</div>` : ''}
@@ -1091,7 +1096,11 @@ function updateFlashcard() {
 
   const egObj = item.examples && item.examples.length > 0 ? item.examples[0] : null;
   const egEn = egObj ? (typeof egObj === 'object' ? (egObj.en || '') : String(egObj)) : '';
-  const egZh = egObj && typeof egObj === 'object' ? (egObj.zh || '') : '';
+  let egZh = egObj && typeof egObj === 'object' ? (egObj.zh || '') : '';
+  if (egZh && (egZh.includes('在日常与专业场景中') || egZh.includes('具有重要的表达意义'))) {
+    egZh = egZh.replace(/在日常与专业场景中[，,]?\s*/g, '').replace(/[，,]?\s*具有重要的表达意义[。.]?\s*/g, '。').trim();
+    if (egZh.endsWith('。')) egZh = egZh.slice(0, -1);
+  }
   const egBox = document.getElementById('fcExampleBox');
   if (egEn) {
     document.getElementById('fcEgText').innerHTML = `
