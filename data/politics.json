@@ -242,6 +242,116 @@
     ]
   },
   {
+    "id": "blast",
+    "word": "blast",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/blæst/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blast&type=2",
+    "definition_en": "n. a very long fly ball\\nn. an explosion (as of dynamite)\\nv. make a strident sound\\nv. use explosives on",
+    "definition_zh": "n. 一阵风, 爆炸, 枯萎病； vt. 炸, 使枯萎； vi. 炸, 猛攻, 猛烈抨击, 枯萎",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning blast.",
+        "zh": "国际代表们齐聚一堂，就涉及一阵风的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on blast reflects the community's civic engagement.",
+        "zh": "公众围绕一阵风的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "bomb",
+    "word": "bomb",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/bɒm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bomb&type=2",
+    "definition_en": "n. an explosive device fused to explode under specific conditions",
+    "definition_zh": "n. 炸弹； vt. 轰炸, 投弹于； vi. 失败",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning bomb.",
+        "zh": "国际代表们齐聚一堂，就涉及炸弹的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on bomb reflects the community's civic engagement.",
+        "zh": "公众围绕炸弹的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "bomber",
+    "word": "bomber",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/'bɒmә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bomber&type=2",
+    "definition_en": "n. a military aircraft that drops bombs during flight\\nn. a person who plants bombs\\nn. a large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the United States",
+    "definition_zh": "n. 轰炸机, 投弹手",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning bomber.",
+        "zh": "国际代表们齐聚一堂，就涉及轰炸机的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on bomber reflects the community's civic engagement.",
+        "zh": "公众围绕轰炸机的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "bombing",
+    "word": "bombing",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/'bɔmiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bombing&type=2",
+    "definition_en": "n. an attack by dropping bombs\\nn. the use of bombs for sabotage; a tactic frequently used by terrorists",
+    "definition_zh": "n. 轰炸, 投弹",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning bombing.",
+        "zh": "国际代表们齐聚一堂，就涉及轰炸的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on bombing reflects the community's civic engagement.",
+        "zh": "公众围绕轰炸的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "bombs",
+    "word": "bombs",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/bombs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bombs&type=2",
+    "definition_en": "n an explosive device fused to explode under specific conditions\\nn strong sealed vessel for measuring heat of combustion\\nn an event that fails badly or is totally ineffectual\\nv throw bombs at or attack with bombs\\nv fail to get a passing grade",
+    "definition_zh": "n. 炸弹（bomb的复数）",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning bombs.",
+        "zh": "国际代表们齐聚一堂，就涉及炸弹的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on bombs reflects the community's civic engagement.",
+        "zh": "公众围绕炸弹的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
     "id": "bureaucracy",
     "word": "bureaucracy",
     "part_of_speech": "noun",
@@ -392,6 +502,28 @@
       {
         "en": "Public debate on commissioners reflects the community's civic engagement.",
         "zh": "公众围绕专员的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "commons",
+    "word": "commons",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/'kɒmәns/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=commons&type=2",
+    "definition_en": "n. a pasture subject to common use",
+    "definition_zh": "n. 平民, 下议院, 公共食堂； 平民, 下议院议员, 下院",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning commons.",
+        "zh": "国际代表们齐聚一堂，就涉及平民的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on commons reflects the community's civic engagement.",
+        "zh": "公众围绕平民的辩论反映了社群的公共参与热忱。"
       }
     ]
   },
@@ -964,6 +1096,138 @@
       {
         "en": "Public debate on envoy reflects the community's civic engagement.",
         "zh": "公众围绕外交使节的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "explode",
+    "word": "explode",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/ik'splәud/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=explode&type=2",
+    "definition_en": "v. cause to burst with a violent release of energy\\nv. burst outward, usually with noise\\nv. show a violent emotional reaction\\nv. be unleashed; emerge with violence or noise",
+    "definition_zh": "vi. 爆炸, 爆发, 激增； vt. 使爆炸",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning explode.",
+        "zh": "国际代表们齐聚一堂，就涉及爆炸的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on explode reflects the community's civic engagement.",
+        "zh": "公众围绕爆炸的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "exploded",
+    "word": "exploded",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/iks'plәudid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=exploded&type=2",
+    "definition_en": "s. showing the parts of something separated but in positions that show their correct relation to one another",
+    "definition_zh": "a. 爆炸了的, 分解的, 被破除的, 被戳穿的",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning exploded.",
+        "zh": "国际代表们齐聚一堂，就涉及爆炸了的的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on exploded reflects the community's civic engagement.",
+        "zh": "公众围绕爆炸了的的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "explosion",
+    "word": "explosion",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/ik'splәuʒәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=explosion&type=2",
+    "definition_en": "n. a violent release of energy caused by a chemical or nuclear reaction\\nn. the act of exploding or bursting\\nn. a sudden great increase\\nn. the noise caused by an explosion",
+    "definition_zh": "n. 爆发, 激增, 爆炸(声)； 爆炸",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning explosion.",
+        "zh": "国际代表们齐聚一堂，就涉及爆发的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on explosion reflects the community's civic engagement.",
+        "zh": "公众围绕爆发的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "explosive",
+    "word": "explosive",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/ik'splәusiv/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=explosive&type=2",
+    "definition_en": "n. a chemical substance that undergoes a rapid chemical change (with the production of gas) on being heated or struck\\na. serving to explode or characterized by explosion or sudden outburst\\ns. liable to lead to sudden change or violence\\ns. sudden and loud",
+    "definition_zh": "n. 炸药, 爆破音； a. 易爆发的, 爆炸的, 暴躁的",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning explosive.",
+        "zh": "国际代表们齐聚一堂，就涉及炸药的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on explosive reflects the community's civic engagement.",
+        "zh": "公众围绕炸药的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "explosively",
+    "word": "explosively",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/explosively/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=explosively&type=2",
+    "definition_en": "r. suddenly and rapidly\\nr. in an explosive manner",
+    "definition_zh": "adv. 爆发地, 引起爆炸地",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning explosively.",
+        "zh": "国际代表们齐聚一堂，就涉及爆发地的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on explosively reflects the community's civic engagement.",
+        "zh": "公众围绕爆发地的辩论反映了社群的公共参与热忱。"
+      }
+    ]
+  },
+  {
+    "id": "explosives",
+    "word": "explosives",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "政治学与公共治理",
+    "category": "politics",
+    "phonetic": "/explosives/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=explosives&type=2",
+    "definition_en": "n a chemical substance that undergoes a rapid chemical change (with the production of gas) on being heated or struck",
+    "definition_zh": "n. 爆炸物, 炸药；爆炸品（explosive的复数）",
+    "examples": [
+      {
+        "en": "International delegates convened to negotiate policies concerning explosives.",
+        "zh": "国际代表们齐聚一堂，就涉及爆炸物的政策展开磋商。"
+      },
+      {
+        "en": "Public debate on explosives reflects the community's civic engagement.",
+        "zh": "公众围绕爆炸物的辩论反映了社群的公共参与热忱。"
       }
     ]
   },

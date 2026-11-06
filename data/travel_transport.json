@@ -638,28 +638,6 @@
     ]
   },
   {
-    "id": "course",
-    "word": "course",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/kɒ:s/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=course&type=2",
-    "definition_en": "n. education imparted in a series of lessons or meetings\\nn. a connected series of events or actions or developments\\nn. general line of orientation\\nn. a mode of action",
-    "definition_zh": "n. 课程, 路线, 过程, 一道菜, 道路； v. 追, (使)跑",
-    "examples": [
-      {
-        "en": "Modern course provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的课程为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional course significantly reduces travel times for commuters.",
-        "zh": "升级区域内的课程大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
     "id": "deck",
     "word": "deck",
     "part_of_speech": "noun",
@@ -2262,6 +2240,28 @@
       {
         "en": "Upgrading regional stations significantly reduces travel times for commuters.",
         "zh": "升级区域内的车站大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "steamer",
+    "word": "steamer",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'sti:mә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=steamer&type=2",
+    "definition_en": "n. a cooking utensil that can be used to cook food by steaming it\\nn. a ship powered by one or more steam engines\\nv. travel by means of steam power",
+    "definition_zh": "n. 汽船, 蒸汽机； 蒸汽发生器; 蒸汽机",
+    "examples": [
+      {
+        "en": "Modern steamer provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的汽船为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional steamer significantly reduces travel times for commuters.",
+        "zh": "升级区域内的汽船大幅缩短了通勤者的出行时间。"
       }
     ]
   },

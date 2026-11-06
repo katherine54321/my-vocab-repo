@@ -352,28 +352,6 @@
     ]
   },
   {
-    "id": "bill",
-    "word": "bill",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/bil/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bill&type=2",
-    "definition_en": "n. a statute in draft before it becomes law\\nn. an itemized statement of money owed for goods shipped or services rendered\\nn. a piece of paper money (especially one issued by a central bank)\\nn. the entertainment offered at a public presentation",
-    "definition_zh": "n. 帐单, 清单, 钞票, 鸟嘴, 广告, 法案, 票据； vt. 开帐单, (用招贴)宣布",
-    "examples": [
-      {
-        "en": "The studio produced engaging bill that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的帐单，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new bill sparked vibrant discussions on social channels.",
-        "zh": "新版帐单的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
     "id": "bingo",
     "word": "bingo",
     "part_of_speech": "noun",
@@ -392,6 +370,28 @@
       {
         "en": "The online release of new bingo sparked vibrant discussions on social channels.",
         "zh": "新版宾戈的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "blockbuster",
+    "word": "blockbuster",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'blɒkbʌstә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blockbuster&type=2",
+    "definition_en": "n. a large bomb used to demolish extensive areas (as a city block)\\nn. an unusually successful hit with widespread popularity and huge sales (especially a movie or play or recording or novel)",
+    "definition_zh": "n. 巨型炸弹",
+    "examples": [
+      {
+        "en": "The studio produced engaging blockbuster that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的巨型炸弹，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new blockbuster sparked vibrant discussions on social channels.",
+        "zh": "新版巨型炸弹的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },

@@ -638,6 +638,94 @@
     ]
   },
   {
+    "id": "distil",
+    "word": "distil",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/distil/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=distil&type=2",
+    "definition_en": "v undergo condensation; change from a gaseous to a liquid state and fall in drops\\nv extract by the process of distillation\\nv undergo the process of distillation\\nv give off (a liquid)",
+    "definition_zh": "vt.vi. 蒸馏, 提取...的精华, 用蒸馏法提取； vi. 滴下, 渗出",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize distil to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用蒸馏来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in distil pave the way for next-generation innovations.",
+        "zh": "蒸馏领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "distill",
+    "word": "distill",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/dis'til/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=distill&type=2",
+    "definition_en": "v. undergo the process of distillation\\nv. extract by the process of distillation\\nv. give off (a liquid)",
+    "definition_zh": "vt. 蒸馏； vi. 滴下",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize distill to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用蒸馏来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in distill pave the way for next-generation innovations.",
+        "zh": "蒸馏领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "distillation",
+    "word": "distillation",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/.disti'leiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=distillation&type=2",
+    "definition_en": "n. the process of purifying a liquid by boiling it and condensing its vapors",
+    "definition_zh": "n. 蒸馏； 蒸馏; 蒸馏法",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize distillation to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用蒸馏来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in distillation pave the way for next-generation innovations.",
+        "zh": "蒸馏领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "distilled",
+    "word": "distilled",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/dis'tild/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=distilled&type=2",
+    "definition_en": "v undergo condensation; change from a gaseous to a liquid state and fall in drops\\nv extract by the process of distillation\\nv undergo the process of distillation\\nv give off (a liquid)\\nv remove impurities from, increase the concentration of, and separate through the process of distillation\\nv undergo the process of distillation\\nv extract by the process of distillation\\nv undergo condensation; change from a gaseous to a liquid state and fall in drops\\nv give off (a liquid)",
+    "definition_zh": "a. 由蒸馏得来的；净化的",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize distilled to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用由蒸馏得来的来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in distilled pave the way for next-generation innovations.",
+        "zh": "由蒸馏得来的领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
     "id": "dna",
     "word": "dna",
     "part_of_speech": "noun",
@@ -1052,50 +1140,6 @@
       {
         "en": "Cutting-edge developments in scan pave the way for next-generation innovations.",
         "zh": "审视领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
-    "id": "server",
-    "word": "server",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/'sә:vә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=server&type=2",
-    "definition_en": "n. (court games) the player who serves to start a point\\nn. (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network\\nn. utensil used in serving food or drink",
-    "definition_zh": "n. 服伺者, 上菜用具, 发球员； n. 服务器； 服务器, 服务器启动程序, 服务台程序",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize server to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用服务器来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in server pave the way for next-generation innovations.",
-        "zh": "服务器领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
-    "id": "servers",
-    "word": "servers",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/servers/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=servers&type=2",
-    "definition_en": "n a person whose occupation is to serve at table (as in a restaurant)\\nn (court games) the player who serves to start a point\\nn (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network\\nn utensil used in serving food or drink",
-    "definition_zh": "n. 服务器（server的复数）",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize servers to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用服务器来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in servers pave the way for next-generation innovations.",
-        "zh": "服务器领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },

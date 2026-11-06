@@ -132,6 +132,28 @@
     ]
   },
   {
+    "id": "bikini",
+    "word": "bikini",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/bi'ki:ni/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bikini&type=2",
+    "definition_en": "n. an atoll in the Marshall Islands; formerly used by the United States as a site for testing nuclear weapons\\nn. a woman's very brief bathing suit",
+    "definition_zh": "n. 大爆炸, 比基尼泳装",
+    "examples": [
+      {
+        "en": "She selected an elegant bikini that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的大爆炸，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile bikini pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的大爆炸无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
     "id": "boots",
     "word": "boots",
     "part_of_speech": "noun",
@@ -2108,6 +2130,28 @@
       {
         "en": "This versatile undress pairs effortlessly with both casual and professional outfits.",
         "zh": "这款百搭的使脱衣服无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "undressed",
+    "word": "undressed",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'ʌn'drest/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=undressed&type=2",
+    "definition_en": "s. of lumber or stone or hides; not finished or dressed",
+    "definition_zh": "a. 不穿衣服的, 便服的, 没加调味品的, 未梳理的, 未修剪的, 未加工的, 粗糙的； 未经处理的",
+    "examples": [
+      {
+        "en": "She selected an elegant undressed that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的不穿衣服的，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile undressed pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的不穿衣服的无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },

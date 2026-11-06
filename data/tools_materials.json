@@ -1606,28 +1606,6 @@
     ]
   },
   {
-    "id": "ingredients",
-    "word": "ingredients",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/ingredients/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ingredients&type=2",
-    "definition_en": "n a component of a mixture or compound\\nn an abstract part of something\\nn food that is a component of a mixture in cooking",
-    "definition_zh": "材料；作料",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable ingredients to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的材料以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the ingredients operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的材料平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "instrument",
     "word": "instrument",
     "part_of_speech": "noun",
@@ -3190,28 +3168,6 @@
     ]
   },
   {
-    "id": "spoon",
-    "word": "spoon",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/spu:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spoon&type=2",
-    "definition_en": "n. a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food\\nn. as much as a spoon will hold\\nn. formerly a golfing wood with an elevated face\\nv. scoop up or take up with a spoon",
-    "definition_zh": "n. 匙, 调羹, 匙形工具； vt. 以匙舀起, 调情, 使成匙状",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable spoon to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的匙以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the spoon operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的匙平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "standby",
     "word": "standby",
     "part_of_speech": "noun",
@@ -3625,6 +3581,28 @@
       },
       {
         "en": "Regular maintenance keeps the tool operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的工具平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "tools",
+    "word": "tools",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/tu:lz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tools&type=2",
+    "definition_en": "n an implement used in the practice of a vocation\\nn the means whereby some act is accomplished\\nn a person who is controlled by others and is used to perform unpleasant or dishonest tasks for someone else\\nn obscene terms for penis\\nv drive\\nv ride in a car with no particular goal and just for the pleasure of it\\nv furnish with tools\\nv work with a tool",
+    "definition_zh": "n. 工具, 工具菜单；工具箱（tool的复数形式）",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable tools to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的工具以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the tools operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的工具平稳顺畅运作。"
       }
     ]

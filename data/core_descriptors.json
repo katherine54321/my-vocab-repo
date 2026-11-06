@@ -5390,28 +5390,6 @@
     ]
   },
   {
-    "id": "banquet",
-    "word": "banquet",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/'bæŋkwit/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=banquet&type=2",
-    "definition_en": "n. a ceremonial dinner party for many people\\nn. a meal that is well prepared and greatly enjoyed",
-    "definition_zh": "n. 宴会",
-    "examples": [
-      {
-        "en": "They developed a banquet solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套宴会的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a banquet perspective enables steady progress in tough times.",
-        "zh": "保持宴会的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
     "id": "barely",
     "word": "barely",
     "part_of_speech": "noun",
@@ -5584,6 +5562,28 @@
       {
         "en": "Maintaining a basically perspective enables steady progress in tough times.",
         "zh": "保持基本上的视角能在艰难时期实现稳步前行。"
+      }
+    ]
+  },
+  {
+    "id": "batch",
+    "word": "batch",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "通用高频性质状态修饰",
+    "category": "core_descriptors",
+    "phonetic": "/bætʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=batch&type=2",
+    "definition_en": "n. all the loaves of bread baked at the same time\\nn. (often followed by `of') a large number or amount or extent\\nn. a collection of things or persons to be handled together\\nv. batch together; assemble or process as a batch",
+    "definition_zh": "n. 一次所烘的面包, 一次所制之量, 一组, 批, 成批, 分批； v. 成批, 分批处理； 一批",
+    "examples": [
+      {
+        "en": "They developed a batch solution that effectively resolved the challenge.",
+        "zh": "他们制定了一套一次所烘的面包的解决方案，有效化解了这一难题。"
+      },
+      {
+        "en": "Maintaining a batch perspective enables steady progress in tough times.",
+        "zh": "保持一次所烘的面包的视角能在艰难时期实现稳步前行。"
       }
     ]
   },
@@ -7370,28 +7370,6 @@
     ]
   },
   {
-    "id": "buffet",
-    "word": "buffet",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/'bʌfit/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=buffet&type=2",
-    "definition_en": "n. a piece of furniture that stands at the side of a dining room; has shelves and drawers\\nn. a meal set out on a buffet at which guests help themselves\\nv. strike against forcefully\\nv. strike, beat repeatedly",
-    "definition_zh": "n. 自助餐, 小卖部, 碗橱, 殴打, 冲击； vt. 连续打, 冲击, 搏斗； vi. 奋斗",
-    "examples": [
-      {
-        "en": "They developed a buffet solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套自助餐的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a buffet perspective enables steady progress in tough times.",
-        "zh": "保持自助餐的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
     "id": "bulge",
     "word": "bulge",
     "part_of_speech": "noun",
@@ -8642,28 +8620,6 @@
       {
         "en": "Maintaining a chiselled perspective enables steady progress in tough times.",
         "zh": "保持凿过的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
-    "id": "chopsticks",
-    "word": "chopsticks",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/'tʃɒpstiks/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chopsticks&type=2",
-    "definition_en": "n one of a pair of slender sticks used as oriental tableware to eat food with",
-    "definition_zh": "n. 筷子",
-    "examples": [
-      {
-        "en": "They developed a chopsticks solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套筷子的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a chopsticks perspective enables steady progress in tough times.",
-        "zh": "保持筷子的视角能在艰难时期实现稳步前行。"
       }
     ]
   },
@@ -15906,28 +15862,6 @@
     ]
   },
   {
-    "id": "dumpling",
-    "word": "dumpling",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/'dʌmpliŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dumpling&type=2",
-    "definition_en": "n. small balls or strips of boiled or steamed dough\\nn. dessert made by baking fruit wrapped in pastry",
-    "definition_zh": "n. 面团布丁, 团子",
-    "examples": [
-      {
-        "en": "They developed a dumpling solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套面团布丁的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a dumpling perspective enables steady progress in tough times.",
-        "zh": "保持面团布丁的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
     "id": "during",
     "word": "during",
     "part_of_speech": "noun",
@@ -22590,28 +22524,6 @@
       {
         "en": "Maintaining a gamble perspective enables steady progress in tough times.",
         "zh": "保持赌博的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
-    "id": "garnish",
-    "word": "garnish",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/'gɑ:niʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=garnish&type=2",
-    "definition_en": "n. something (such as parsley) added to a dish for flavor or decoration\\nn. any decoration added as a trimming or adornment",
-    "definition_zh": "n. 装饰, 装饰品； vt. 装饰",
-    "examples": [
-      {
-        "en": "They developed a garnish solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套装饰的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a garnish perspective enables steady progress in tough times.",
-        "zh": "保持装饰的视角能在艰难时期实现稳步前行。"
       }
     ]
   },
@@ -33726,28 +33638,6 @@
     ]
   },
   {
-    "id": "mince",
-    "word": "mince",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/mins/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mince&type=2",
-    "definition_en": "n. food chopped into small bits\\nv. make less severe or harsh\\nv. walk daintily\\nv. cut into small pieces",
-    "definition_zh": "n. 切碎物； vt. 切碎, 矫揉做作地说； vi. 碎步走, 装腔作势",
-    "examples": [
-      {
-        "en": "They developed a mince solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套切碎物的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a mince perspective enables steady progress in tough times.",
-        "zh": "保持切碎物的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
     "id": "miner",
     "word": "miner",
     "part_of_speech": "noun",
@@ -35988,28 +35878,6 @@
       {
         "en": "Maintaining a nonetheless perspective enables steady progress in tough times.",
         "zh": "保持然而的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
-    "id": "noodle",
-    "word": "noodle",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/'nu:dl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=noodle&type=2",
-    "definition_en": "n. a ribbonlike strip of pasta",
-    "definition_zh": "n. 面条, 笨蛋",
-    "examples": [
-      {
-        "en": "They developed a noodle solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套面条的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a noodle perspective enables steady progress in tough times.",
-        "zh": "保持面条的视角能在艰难时期实现稳步前行。"
       }
     ]
   },
@@ -38738,28 +38606,6 @@
       {
         "en": "Maintaining a pastoral perspective enables steady progress in tough times.",
         "zh": "保持牧歌的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
-    "id": "pastry",
-    "word": "pastry",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/'peistri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pastry&type=2",
-    "definition_en": "n. a dough of flour and water and shortening\\nn. any of various baked foods made of dough or batter",
-    "definition_zh": "n. 油酥点心, 面粉糕饼",
-    "examples": [
-      {
-        "en": "They developed a pastry solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套油酥点心的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a pastry perspective enables steady progress in tough times.",
-        "zh": "保持油酥点心的视角能在艰难时期实现稳步前行。"
       }
     ]
   },
@@ -45804,28 +45650,6 @@
     ]
   },
   {
-    "id": "salty",
-    "word": "salty",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/'sɒ:lti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=salty&type=2",
-    "definition_en": "a. containing or filled with salt\\ns. one of the four basic taste sensations; like the taste of sea water",
-    "definition_zh": "a. 有盐分的, 咸味浓的, 海洋的, 辛辣的, 有经验的",
-    "examples": [
-      {
-        "en": "They developed a salty solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套有盐分的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a salty perspective enables steady progress in tough times.",
-        "zh": "保持有盐分的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
     "id": "same",
     "word": "same",
     "part_of_speech": "noun",
@@ -52514,28 +52338,6 @@
     ]
   },
   {
-    "id": "tasty",
-    "word": "tasty",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/'teisti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tasty&type=2",
-    "definition_en": "a. pleasing to the sense of taste",
-    "definition_zh": "a. 好吃的, 可口的",
-    "examples": [
-      {
-        "en": "They developed a tasty solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套好吃的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a tasty perspective enables steady progress in tough times.",
-        "zh": "保持好吃的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
     "id": "taut",
     "word": "taut",
     "part_of_speech": "noun",
@@ -57768,28 +57570,6 @@
       {
         "en": "Maintaining a validate perspective enables steady progress in tough times.",
         "zh": "保持使有效的视角能在艰难时期实现稳步前行。"
-      }
-    ]
-  },
-  {
-    "id": "vanilla",
-    "word": "vanilla",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "通用高频性质状态修饰",
-    "category": "core_descriptors",
-    "phonetic": "/vә'nilә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=vanilla&type=2",
-    "definition_en": "n. any of numerous climbing plants of the genus Vanilla having fleshy leaves and clusters of large waxy highly fragrant white or green or topaz flowers\\nn. a flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans)\\nn. a distinctive fragrant flavor characteristic of vanilla beans",
-    "definition_zh": "n. 香草, 香子兰",
-    "examples": [
-      {
-        "en": "They developed a vanilla solution that effectively resolved the challenge.",
-        "zh": "他们制定了一套香草的解决方案，有效化解了这一难题。"
-      },
-      {
-        "en": "Maintaining a vanilla perspective enables steady progress in tough times.",
-        "zh": "保持香草的视角能在艰难时期实现稳步前行。"
       }
     ]
   },

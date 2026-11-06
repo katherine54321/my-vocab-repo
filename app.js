@@ -6,7 +6,7 @@
 
 // Native IndexedDB Configuration
 const DB_NAME = 'VocabMatrixCacheDB';
-const DB_VERSION = 11; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
+const DB_VERSION = 12; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
 const STORE_NAME = 'slices';
 
 // Application State
@@ -286,6 +286,9 @@ function getSliceUrl(sliceId) {
 function isStaleSlice(sliceId, data) {
   if (!Array.isArray(data) || data.length === 0) return true;
   if (sliceId === 'food_beverages' && data.some(it => it.word === 'duck' || it.word === 'divide' || String(it.id).includes('_'))) {
+    return true;
+  }
+  if (sliceId === 'food_dining' && (!data.some(it => it.word === 'steak') || data.some(it => it.word === 'bomb'))) {
     return true;
   }
   return data.some(it => {

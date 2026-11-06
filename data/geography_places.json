@@ -4994,28 +4994,6 @@
     ]
   },
   {
-    "id": "pasta",
-    "word": "pasta",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'pæstә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pasta&type=2",
-    "definition_en": "n. a dish that contains pasta as its main ingredient\\nn. shaped and dried dough made from flour and water and sometimes egg",
-    "definition_zh": "n. 意大利面食； 糊剂, 泥膏剂",
-    "examples": [
-      {
-        "en": "Pasta is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "意大利面食是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Pasta to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访意大利面食，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "pays",
     "word": "pays",
     "part_of_speech": "noun",
@@ -5720,6 +5698,28 @@
     ]
   },
   {
+    "id": "rural",
+    "word": "rural",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'ruәrәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rural&type=2",
+    "definition_en": "a. living in or characteristic of farming or country life\\na. of or relating to the countryside as opposed to the city",
+    "definition_zh": "a. 乡下的, 田园的, 乡村风味的； 农村的, 乡村的, 有关农业的",
+    "examples": [
+      {
+        "en": "Rural is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "乡下的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Rural to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访乡下的，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "russia",
     "word": "Russia",
     "part_of_speech": "noun",
@@ -6266,28 +6266,6 @@
       {
         "en": "Travelers from across the globe visit South america to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访南美，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "spaghetti",
-    "word": "spaghetti",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/spә'geti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spaghetti&type=2",
-    "definition_en": "n. spaghetti served with a tomato sauce\\nn. pasta in the form of long strings",
-    "definition_zh": "n. 意大利面条",
-    "examples": [
-      {
-        "en": "Spaghetti is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "意大利面条是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Spaghetti to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访意大利面条，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -6948,6 +6926,28 @@
       {
         "en": "Travelers from across the globe visit Town to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访城镇，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "towns",
+    "word": "towns",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/towns/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=towns&type=2",
+    "definition_en": "n an urban area with a fixed boundary that is smaller than a city\\nn the people living in a municipality smaller than a city\\nn an administrative division of a county\\nn United States architect who was noted for his design and construction of truss bridges (1784-1844)",
+    "definition_zh": "n. 汤斯",
+    "examples": [
+      {
+        "en": "Towns is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "汤斯是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Towns to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访汤斯，亲身体验其秀丽名胜。"
       }
     ]
   },

@@ -1232,28 +1232,6 @@
     ]
   },
   {
-    "id": "herbs",
-    "word": "herbs",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/herbs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=herbs&type=2",
-    "definition_en": "n a plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests\\nn aromatic potherb used in cookery for its savory qualities",
-    "definition_zh": "n. 药草；草本植物（herb的复数）",
-    "examples": [
-      {
-        "en": "A remarkable shift in herbs brought noticeable changes to the ecosystem.",
-        "zh": "药草的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of herbs throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪药草的变化规律。"
-      }
-    ]
-  },
-  {
     "id": "hosts",
     "word": "hosts",
     "part_of_speech": "noun",
@@ -1580,28 +1558,6 @@
       {
         "en": "Meteorologists closely track the patterns of mundane throughout the season.",
         "zh": "气象学家在整个季节中密切跟踪现世的的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "mustard",
-    "word": "mustard",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'mʌstәd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mustard&type=2",
-    "definition_en": "n. any of several cruciferous plants of the genus Brassica\\nn. pungent powder or paste prepared from ground mustard seeds\\nn. leaves eaten as cooked greens",
-    "definition_zh": "n. 芥末, 芥菜, 强烈的兴趣； 芥子; 芥属植物",
-    "examples": [
-      {
-        "en": "A remarkable shift in mustard brought noticeable changes to the ecosystem.",
-        "zh": "芥末的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of mustard throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪芥末的变化规律。"
       }
     ]
   },
@@ -2618,6 +2574,28 @@
     ]
   },
   {
+    "id": "steam",
+    "word": "steam",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/sti:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=steam&type=2",
+    "definition_en": "n. water at boiling temperature diffused in the atmosphere\\nv. emit steam\\nv. rise as vapor\\nv. get very angry",
+    "definition_zh": "n. 蒸汽, 精力； a. 蒸汽的； vi. 蒸发, 行驶, 发怒； vt. 蒸, 煮, 散发",
+    "examples": [
+      {
+        "en": "A remarkable shift in steam brought noticeable changes to the ecosystem.",
+        "zh": "蒸汽的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of steam throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪蒸汽的变化规律。"
+      }
+    ]
+  },
+  {
     "id": "storm",
     "word": "storm",
     "part_of_speech": "noun",
@@ -3164,6 +3142,28 @@
       {
         "en": "Meteorologists closely track the patterns of unworldly throughout the season.",
         "zh": "气象学家在整个季节中密切跟踪非现世的的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "vapour",
+    "word": "vapour",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'veipә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vapour&type=2",
+    "definition_en": "n a visible suspension in the air of particles of some substance\\nn the process of becoming a vapor",
+    "definition_zh": "n. 汽, 蒸气； vi. 蒸发, 吹牛； vt. 使蒸发, 使汽化",
+    "examples": [
+      {
+        "en": "A remarkable shift in vapour brought noticeable changes to the ecosystem.",
+        "zh": "汽的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of vapour throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪汽的变化规律。"
       }
     ]
   },

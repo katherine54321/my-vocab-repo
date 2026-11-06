@@ -550,6 +550,28 @@
     ]
   },
   {
+    "id": "digestion",
+    "word": "digestion",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/di'dʒestʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=digestion&type=2",
+    "definition_en": "n. the process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat\\nn. the organic process by which food is converted into substances that can be absorbed into the body\\nn. learning and coming to understand ideas and information",
+    "definition_zh": "n. 消化力, 领悟； 消化; 消化作用; 蒸煮; 蒸煮作用; 煮解; 浸提; 陈化",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the digestion.",
+        "zh": "保持健康的生活方式能保护人体消化力的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the digestion is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，消化力功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
     "id": "donated",
     "word": "donated",
     "part_of_speech": "noun",
@@ -1359,28 +1381,6 @@
       },
       {
         "en": "Medical scans confirmed that the rib is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，肋骨功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "ribs",
-    "word": "ribs",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/ribs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ribs&type=2",
-    "definition_en": "n support resembling the rib of an animal\\nn any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates)\\nn cut of meat including one or more ribs\\nn a teasing remark\\nn a riblike supporting or strengthening part of an animal or plant\\nn a projecting molding on the underside of a vault or ceiling; may be ornamental or structural\\nv form vertical ribs by knitting\\nv subject to laughter or ridicule",
-    "definition_zh": "n. 肋骨；排骨（rib的复数）",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the ribs.",
-        "zh": "保持健康的生活方式能保护人体肋骨的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the ribs is functioning normally and healthily.",
         "zh": "医学扫描检查证实，肋骨功能运转完全正常健康。"
       }
     ]

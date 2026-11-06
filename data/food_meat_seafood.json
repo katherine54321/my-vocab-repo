@@ -44,50 +44,6 @@
     ]
   },
   {
-    "id": "bacon",
-    "word": "bacon",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'beikәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bacon&type=2",
-    "definition_en": "n. back and sides of a hog salted and dried or smoked; usually sliced thin and fried\\nn. English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)\\nn. English statesman and philosopher; precursor of British empiricism; advocated inductive reasoning (1561-1626)",
-    "definition_zh": "n. 熏猪肉； 腌肉",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender bacon seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的熏猪肉而闻名。"
-      },
-      {
-        "en": "They grilled the fresh bacon over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的熏猪肉在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
-    "id": "barbecue",
-    "word": "barbecue",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'bɑ:bikju:/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=barbecue&type=2",
-    "definition_en": "n. meat that has been barbecued or grilled in a highly seasoned sauce\\nn. a cookout in which food is cooked over an open fire; especially a whole animal carcass roasted on a spit\\nn. a rack to hold meat for cooking over hot charcoal usually out of doors",
-    "definition_zh": "n. 烤肉； vt. 烤肉, 烧烤",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender barbecue seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的烤肉而闻名。"
-      },
-      {
-        "en": "They grilled the fresh barbecue over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的烤肉在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
     "id": "beef",
     "word": "beef",
     "part_of_speech": "noun",
@@ -194,28 +150,6 @@
       {
         "en": "They grilled the fresh chickens over charcoal for an authentic rustic flavor.",
         "zh": "他们将新鲜的鸡在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
-    "id": "chop",
-    "word": "chop",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/tʃɒp/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chop&type=2",
-    "definition_en": "n. the irregular motion of waves (usually caused by wind blowing in a direction opposite to the tide)\\nn. a small cut of meat including part of a rib\\nn. a jaw\\nn. a tennis return made with a downward motion that puts backspin on the ball",
-    "definition_zh": "n. 肋条肉, 排骨, 砍, 戳记, 商标； vt. 剁碎, 砍, 切击, 割断； vi. 砍, 突然转向",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender chop seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的肋条肉而闻名。"
-      },
-      {
-        "en": "They grilled the fresh chop over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的肋条肉在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
@@ -524,50 +458,6 @@
       {
         "en": "They grilled the fresh grains over charcoal for an authentic rustic flavor.",
         "zh": "他们将新鲜的双齿在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
-    "id": "gravy",
-    "word": "gravy",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'greivi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gravy&type=2",
-    "definition_en": "n. a sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats\\nn. the seasoned but not thickened juices that drip from cooking meats; often a little water is added",
-    "definition_zh": "n. 肉汁, 外快",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender gravy seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的肉汁而闻名。"
-      },
-      {
-        "en": "They grilled the fresh gravy over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的肉汁在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
-    "id": "hamburger",
-    "word": "hamburger",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'hæmbә:gә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hamburger&type=2",
-    "definition_en": "n. a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients",
-    "definition_zh": "n. 汉堡(德国港口), 肉饼, 汉堡包, 纯精牛肉, 汉堡牛排",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender hamburger seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的汉堡而闻名。"
-      },
-      {
-        "en": "They grilled the fresh hamburger over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的汉堡在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
@@ -990,28 +880,6 @@
     ]
   },
   {
-    "id": "sausage",
-    "word": "sausage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'sɒsidʒ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sausage&type=2",
-    "definition_en": "n. highly seasoned minced meat stuffed in casings",
-    "definition_zh": "n. 香肠, 腊肠",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender sausage seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的香肠而闻名。"
-      },
-      {
-        "en": "They grilled the fresh sausage over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的香肠在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
     "id": "scaling",
     "word": "scaling",
     "part_of_speech": "noun",
@@ -1162,28 +1030,6 @@
       {
         "en": "They grilled the fresh squid over charcoal for an authentic rustic flavor.",
         "zh": "他们将新鲜的枪乌贼在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
-    "id": "steak",
-    "word": "steak",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/steik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=steak&type=2",
-    "definition_en": "n. a slice of meat cut from the fleshy part of an animal or large fish",
-    "definition_zh": "n. 牛排, 鱼排, 肉排",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender steak seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的牛排而闻名。"
-      },
-      {
-        "en": "They grilled the fresh steak over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的牛排在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },

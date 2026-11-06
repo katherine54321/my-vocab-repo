@@ -4334,28 +4334,6 @@
     ]
   },
   {
-    "id": "boiling",
-    "word": "boiling",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "通用高频交互与行为动作",
-    "category": "core_verbs_actions",
-    "phonetic": "/'bɒiliŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=boiling&type=2",
-    "definition_en": "n. the application of heat to change something from a liquid to a gas\\nn. cooking in a liquid that has been brought to a boil\\nr. extremely",
-    "definition_zh": "a. 沸腾的, 激昂的； adv. 沸腾",
-    "examples": [
-      {
-        "en": "Timely coordination ensured that the boiling proceeded without unnecessary delay.",
-        "zh": "及时的协调确保了该沸腾的得以毫无延误地稳步推进。"
-      },
-      {
-        "en": "Direct involvement in the boiling helped resolve pending bottlenecks.",
-        "zh": "直接参与该项沸腾的有效化解了当前存在的瓶颈。"
-      }
-    ]
-  },
-  {
     "id": "bore",
     "word": "bore",
     "part_of_speech": "noun",
@@ -34294,6 +34272,28 @@
       {
         "en": "Direct involvement in the slow helped resolve pending bottlenecks.",
         "zh": "直接参与该项慢的有效化解了当前存在的瓶颈。"
+      }
+    ]
+  },
+  {
+    "id": "smack",
+    "word": "smack",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "通用高频交互与行为动作",
+    "category": "core_verbs_actions",
+    "phonetic": "/smæk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=smack&type=2",
+    "definition_en": "n. a sailing ship (usually rigged like a sloop or cutter) used in fishing and sailing along the coast\\nn. an enthusiastic kiss\\nn. the act of smacking something; a blow delivered with an open hand\\nv. deliver a hard blow to",
+    "definition_zh": "n. 风味, 滋味, 少量, 拍击声, 咂嘴声, 小渔船, 海洛因； vi. 有味道, 咂嘴, 发出拍击声； vt. 拍, 打, 掴, 咂, 出声地吻； adv. 啪地一声, 猛然",
+    "examples": [
+      {
+        "en": "Timely coordination ensured that the smack proceeded without unnecessary delay.",
+        "zh": "及时的协调确保了该风味得以毫无延误地稳步推进。"
+      },
+      {
+        "en": "Direct involvement in the smack helped resolve pending bottlenecks.",
+        "zh": "直接参与该项风味有效化解了当前存在的瓶颈。"
       }
     ]
   },

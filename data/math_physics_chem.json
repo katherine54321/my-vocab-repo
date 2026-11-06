@@ -1628,28 +1628,6 @@
     ]
   },
   {
-    "id": "cheese",
-    "word": "cheese",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "数理化基础科学与工程规律",
-    "category": "math_physics_chem",
-    "phonetic": "/tʃi:z/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cheese&type=2",
-    "definition_en": "n. a solid food prepared from the pressed curd of milk\\nv. used in the imperative (get away, or stop it)\\nv. wind onto a cheese",
-    "definition_zh": "n. 乳酪； 干酪",
-    "examples": [
-      {
-        "en": "Researchers formulated a theoretical model to systematically analyze cheese.",
-        "zh": "科研人员构建了一个理论模型，以系统性分析乳酪。"
-      },
-      {
-        "en": "Experimental results confirmed key principles associated with cheese.",
-        "zh": "实验结果证实了与乳酪相关的核心物理化学定律。"
-      }
-    ]
-  },
-  {
     "id": "chemical",
     "word": "chemical",
     "part_of_speech": "noun",
@@ -4880,28 +4858,6 @@
       {
         "en": "Experimental results confirmed key principles associated with inducement.",
         "zh": "实验结果证实了与诱因相关的核心物理化学定律。"
-      }
-    ]
-  },
-  {
-    "id": "ingredient",
-    "word": "ingredient",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "数理化基础科学与工程规律",
-    "category": "math_physics_chem",
-    "phonetic": "/in'gri:diәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ingredient&type=2",
-    "definition_en": "n. a component of a mixture or compound\\nn. food that is a component of a mixture in cooking",
-    "definition_zh": "n. 成分, 因素； 配合剂; 拼料; 成分; 组分",
-    "examples": [
-      {
-        "en": "Researchers formulated a theoretical model to systematically analyze ingredient.",
-        "zh": "科研人员构建了一个理论模型，以系统性分析成分。"
-      },
-      {
-        "en": "Experimental results confirmed key principles associated with ingredient.",
-        "zh": "实验结果证实了与成分相关的核心物理化学定律。"
       }
     ]
   },
@@ -9016,28 +8972,6 @@
       {
         "en": "Experimental results confirmed key principles associated with transition.",
         "zh": "实验结果证实了与转变相关的核心物理化学定律。"
-      }
-    ]
-  },
-  {
-    "id": "tray",
-    "word": "tray",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "数理化基础科学与工程规律",
-    "category": "math_physics_chem",
-    "phonetic": "/trei/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tray&type=2",
-    "definition_en": "n. an open receptacle for holding or displaying or serving articles or food",
-    "definition_zh": "n. 托盘, 公文盘, 满盘, 发射箱； 淋盘",
-    "examples": [
-      {
-        "en": "Researchers formulated a theoretical model to systematically analyze tray.",
-        "zh": "科研人员构建了一个理论模型，以系统性分析托盘。"
-      },
-      {
-        "en": "Experimental results confirmed key principles associated with tray.",
-        "zh": "实验结果证实了与托盘相关的核心物理化学定律。"
       }
     ]
   },

@@ -1518,28 +1518,6 @@
     ]
   },
   {
-    "id": "culinary",
-    "word": "culinary",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "建筑结构与居住设施",
-    "category": "housing_architecture",
-    "phonetic": "/'kʌlinәri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=culinary&type=2",
-    "definition_en": "a. of or relating to or used in cooking",
-    "definition_zh": "a. 厨房的, 烹调用的",
-    "examples": [
-      {
-        "en": "The modern design of the culinary blends aesthetic elegance with structural durability.",
-        "zh": "厨房的的现代设计将优雅美感与稳固结构完美融合。"
-      },
-      {
-        "en": "Architects renovated the culinary to maximize natural lighting and energy efficiency.",
-        "zh": "建筑师们改造了厨房的，以最大化自然采光和能源利用效率。"
-      }
-    ]
-  },
-  {
     "id": "curtain",
     "word": "curtain",
     "part_of_speech": "noun",
@@ -2530,28 +2508,6 @@
     ]
   },
   {
-    "id": "grill",
-    "word": "grill",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "建筑结构与居住设施",
-    "category": "housing_architecture",
-    "phonetic": "/gril/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=grill&type=2",
-    "definition_en": "n. a framework of metal bars used as a partition or a grate\\nv. cook over a grill\\nv. examine thoroughly",
-    "definition_zh": "n. 烤架, 铁格子, 烤肉； v. 烧, 烤, 严加盘问, 给...装栅栏",
-    "examples": [
-      {
-        "en": "The modern design of the grill blends aesthetic elegance with structural durability.",
-        "zh": "烤架的现代设计将优雅美感与稳固结构完美融合。"
-      },
-      {
-        "en": "Architects renovated the grill to maximize natural lighting and energy efficiency.",
-        "zh": "建筑师们改造了烤架，以最大化自然采光和能源利用效率。"
-      }
-    ]
-  },
-  {
     "id": "grounds",
     "word": "grounds",
     "part_of_speech": "noun",
@@ -2768,6 +2724,28 @@
       {
         "en": "Architects renovated the jargon to maximize natural lighting and energy efficiency.",
         "zh": "建筑师们改造了专门术语，以最大化自然采光和能源利用效率。"
+      }
+    ]
+  },
+  {
+    "id": "jug",
+    "word": "jug",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "建筑结构与居住设施",
+    "category": "housing_architecture",
+    "phonetic": "/dʒʌg/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jug&type=2",
+    "definition_en": "n. a large bottle with a narrow mouth\\nn. the quantity contained in a jug\\nv. stew in an earthenware jug",
+    "definition_zh": "n. 水壶, 监牢, 模仿夜莺的叫声； vt. 放入壶中, 炖, 关押； vi. 模仿夜莺叫",
+    "examples": [
+      {
+        "en": "The modern design of the jug blends aesthetic elegance with structural durability.",
+        "zh": "水壶的现代设计将优雅美感与稳固结构完美融合。"
+      },
+      {
+        "en": "Architects renovated the jug to maximize natural lighting and energy efficiency.",
+        "zh": "建筑师们改造了水壶，以最大化自然采光和能源利用效率。"
       }
     ]
   },
@@ -3784,6 +3762,28 @@
     ]
   },
   {
+    "id": "setting",
+    "word": "setting",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "建筑结构与居住设施",
+    "category": "housing_architecture",
+    "phonetic": "/'setiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=setting&type=2",
+    "definition_en": "n. the context and environment in which something is set\\nn. the state of the environment in which a situation exists\\nn. the physical position of something",
+    "definition_zh": "n. 环境, 背景, 布景, 镶嵌, 调整, 沉落, 一副餐具； 设置",
+    "examples": [
+      {
+        "en": "The modern design of the setting blends aesthetic elegance with structural durability.",
+        "zh": "环境的现代设计将优雅美感与稳固结构完美融合。"
+      },
+      {
+        "en": "Architects renovated the setting to maximize natural lighting and energy efficiency.",
+        "zh": "建筑师们改造了环境，以最大化自然采光和能源利用效率。"
+      }
+    ]
+  },
+  {
     "id": "sewers",
     "word": "sewers",
     "part_of_speech": "noun",
@@ -4000,28 +4000,6 @@
       {
         "en": "Architects renovated the specially to maximize natural lighting and energy efficiency.",
         "zh": "建筑师们改造了特别地，以最大化自然采光和能源利用效率。"
-      }
-    ]
-  },
-  {
-    "id": "specialty",
-    "word": "specialty",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "建筑结构与居住设施",
-    "category": "housing_architecture",
-    "phonetic": "/'speʃәlti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=specialty&type=2",
-    "definition_en": "n an asset of special worth or utility\\nn a distinguishing trait\\nn the special line of work you have adopted as your career",
-    "definition_zh": "n. 专业, 专长, 特产, 特制品, 特性, 特点； a. 专门的, 独立的",
-    "examples": [
-      {
-        "en": "The modern design of the specialty blends aesthetic elegance with structural durability.",
-        "zh": "专业的现代设计将优雅美感与稳固结构完美融合。"
-      },
-      {
-        "en": "Architects renovated the specialty to maximize natural lighting and energy efficiency.",
-        "zh": "建筑师们改造了专业，以最大化自然采光和能源利用效率。"
       }
     ]
   },
