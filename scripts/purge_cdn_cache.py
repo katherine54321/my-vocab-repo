@@ -4,7 +4,10 @@ import sys
 import os
 
 if sys.platform == "win32":
-    sys.stdout.reconfigure(encoding="utf-8")
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 repo_user = "katherine54321"
 repo_name = "my-vocab-repo"
@@ -16,8 +19,9 @@ with open(cat_path, "r", encoding="utf-8") as f:
     cat_data = json.load(f)
 
 urls_to_purge = []
-for tag in ["v5.0.0", "main"]:
+for tag in ["main", "v10.0.0", "v5.0.0", "v6.4.0"]:
     urls_to_purge.append(f"https://purge.jsdelivr.net/gh/{repo_user}/{repo_name}@{tag}/categories.json")
+    urls_to_purge.append(f"https://purge.jsdelivr.net/gh/{repo_user}/{repo_name}@{tag}/app.js")
     for c in cat_data["categories"]:
         urls_to_purge.append(f"https://purge.jsdelivr.net/gh/{repo_user}/{repo_name}@{tag}/data/{c['id']}.json")
 
