@@ -1303,10 +1303,22 @@ function initPwaInstall() {
       navigator.serviceWorker.register('./sw.js')
         .then(reg => {
           console.log('[PWA] Service Worker registered successfully, scope:', reg.scope);
+          // Check for worker updates immediately on page load
+          reg.update();
         })
         .catch(err => {
           console.warn('[PWA] Service Worker registration failed:', err);
         });
+    });
+
+    // Detect when new SW activates and auto-reload to display freshest code
+    let refreshing = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (!refreshing) {
+        refreshing = true;
+        console.log('[PWA] New service worker activated, reloading for latest updates...');
+        window.location.reload();
+      }
     });
   }
 

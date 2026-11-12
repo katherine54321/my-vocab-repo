@@ -1,14 +1,13 @@
 // VocabMatrix Service Worker (PWA Offline Support)
-const CACHE_NAME = 'vocab-matrix-pwa-v1.9';
+const CACHE_NAME = 'vocab-matrix-pwa-v2.0';
 
 const PRECACHE_ASSETS = [
   './',
   './index.html',
-  './style.css',
-  './app.js',
-  './categories.js',
+  './style.css?v=13.1',
+  './app.js?v=13.1',
+  './categories.js?v=13.1',
   './categories.json',
-  './data.js',
   './manifest.json',
   './icons/favicon.svg',
   './icons/icon-192.png',
@@ -16,7 +15,7 @@ const PRECACHE_ASSETS = [
   './icons/apple-touch-icon.png'
 ];
 
-// Install: Pre-cache app shell
+// Install: Pre-cache app shell and skip waiting immediately
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
@@ -27,7 +26,7 @@ self.addEventListener('install', (event) => {
   );
 });
 
-// Activate: Clean old caches
+// Activate: Clean all obsolete caches and take control immediately
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys().then((keys) => {
@@ -43,7 +42,7 @@ self.addEventListener('activate', (event) => {
   );
 });
 
-// Fetch: Stale-While-Revalidate for app shell & static assets
+// Fetch: Network-First for navigation & HTML, Stale-While-Revalidate for others
 self.addEventListener('fetch', (event) => {
   const req = event.request;
   const url = new URL(req.url);
@@ -67,7 +66,25 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // App shell and local static files: Stale-While-Revalidate
+  // 1. Navigation requests & index.html: ALWAYS NETWORK-FIRST
+  // This guarantees mobile users always see the latest UI without being stuck in old cached HTML!
+  if (req.mode === 'navigate' || url.pathname.endsWith('/index.html') || url.pathname.endsWith('/')) {
+    event.respondWith(
+      fetch(req).then((networkResponse) => {
+        if (networkResponse && networkResponse.status === 200) {
+          const toCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(req, toCache));
+        }
+        return networkResponse;
+      }).catch(() => {
+        // Offline fallback
+        return caches.match('./index.html') || caches.match('./');
+      })
+    );
+    return;
+  }
+
+  // 2. Static assets & sliced data: Stale-While-Revalidate
   event.respondWith(
     caches.match(req).then((cachedResponse) => {
       const fetchPromise = fetch(req).then((networkResponse) => {
@@ -76,12 +93,8 @@ self.addEventListener('fetch', (event) => {
           caches.open(CACHE_NAME).then((cache) => cache.put(req, toCache));
         }
         return networkResponse;
-      }).catch((err) => {
-        // Offline fallback
+      }).catch(() => {
         if (cachedResponse) return cachedResponse;
-        if (req.mode === 'navigate') {
-          return caches.match('./index.html');
-        }
         return new Response(JSON.stringify({ error: 'offline' }), {
           headers: { 'Content-Type': 'application/json' }
         });
