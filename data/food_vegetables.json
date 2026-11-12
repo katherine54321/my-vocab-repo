@@ -1,203 +1,5 @@
 [
   {
-    "id": "aubergine",
-    "word": "aubergine",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'әubәʒi:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=aubergine&type=2",
-    "definition_en": "n hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable\\nn egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow",
-    "definition_zh": "n. 茄子",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested aubergine into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的茄子融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic aubergine in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机茄子有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "broccoli",
-    "word": "broccoli",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'brɒkәli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=broccoli&type=2",
-    "definition_en": "n. plant with dense clusters of tight green flower buds\\nn. branched green undeveloped flower heads",
-    "definition_zh": "n. 花椰菜",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested broccoli into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的花椰菜融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic broccoli in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机花椰菜有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "by-product",
-    "word": "by-product",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'baiprɔdʌkt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=by-product&type=2",
-    "definition_en": "n. a secondary and sometimes unexpected consequence\\nn. a product made during the manufacture of something else",
-    "definition_zh": "n. 副产品, 额外收获, 意外收获； 副产品",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested by-product into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的副产品融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic by-product in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机副产品有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "carrot",
-    "word": "carrot",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'kærәt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=carrot&type=2",
-    "definition_en": "n. deep orange edible root of the cultivated carrot plant\\nn. perennial plant widely cultivated as an annual in many varieties for its long conical orange edible roots; temperate and tropical regions\\nn. orange root; important source of carotene\\nn. promise of reward as in \"carrot and stick\";",
-    "definition_zh": "n. 胡萝卜； 胡萝卜",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested carrot into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的胡萝卜融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic carrot in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机胡萝卜有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "chilli",
-    "word": "chilli",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'tʃili/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chilli&type=2",
-    "definition_en": "n very hot and finely tapering pepper of special pungency",
-    "definition_zh": "n. 红辣椒",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested chilli into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的红辣椒融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic chilli in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机红辣椒有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "crop",
-    "word": "crop",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/krɒp/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=crop&type=2",
-    "definition_en": "n. the yield from plants in a single growing season\\nn. a cultivated plant that is grown commercially on a large scale\\nn. a collection of people or things appearing together\\nn. the output of something in a season",
-    "definition_zh": "n. 农作物, 产量, 平头； vt. 收割, 修剪, 种植； vi. 收获； 裁剪",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested crop into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的农作物融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic crop in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机农作物有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "cucumber",
-    "word": "cucumber",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'kju:kәmbә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cucumber&type=2",
-    "definition_en": "n. a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit\\nn. cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons",
-    "definition_zh": "n. 黄瓜； 黄瓜, 胡瓜",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested cucumber into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的黄瓜融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic cucumber in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机黄瓜有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "foodstuffs",
-    "word": "foodstuffs",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/foodstuffs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=foodstuffs&type=2",
-    "definition_en": "n (usually plural) consumer goods sold by a grocer\\nn a substance that can be used or prepared for use as food",
-    "definition_zh": "n. 食品；粮食（foodstuff的复数形式）",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested foodstuffs into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的食品融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic foodstuffs in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机食品有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "gain",
-    "word": "gain",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/gein/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gain&type=2",
-    "definition_en": "n. the amount by which the revenue of a business exceeds its cost of operating\\nv. obtain advantages, such as points, etc.\\nv. increase or develop\\nv. earn on some commercial or business transaction; earn as salary or wages",
-    "definition_zh": "n. 增益, 获得, 利润, 收获, 增加； vt. 得到, 增进, 赚到； vi. 获利, 增加； 增益",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested gain into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的增益融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic gain in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机增益有助于促进长久活力。"
-      }
-    ]
-  },
-  {
     "id": "get",
     "word": "get",
     "part_of_speech": "noun",
@@ -208,6 +10,9 @@
     "audio": "https://dict.youdao.com/dictvoice?audio=get&type=2",
     "definition_en": "n. a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\\nv. come into the possession of something concrete or abstract\\nv. cause to move; cause to be in a certain position or condition\\nv. succeed in catching or seizing, especially after a chase",
     "definition_zh": "vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上； vi. 到达, 成为, 变得； n. (网球等)救球, 生殖, 幼兽； 取得指令, 获取文件",
+    "frq": 39,
+    "composite_rank": 11,
+    "badge": "core",
     "examples": [
       {
         "en": "The chef incorporates locally harvested get into nutritious seasonal dishes.",
@@ -216,424 +21,6 @@
       {
         "en": "Including organic get in daily meals promotes long-term vitality.",
         "zh": "在日常膳食中加入有机救球有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "harvest",
-    "word": "harvest",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'hɑ:vist/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=harvest&type=2",
-    "definition_en": "n. the consequence of an effort or activity\\nn. the gathering of a ripened crop\\nn. the season for gathering crops\\nv. remove from a culture or a living or dead body, as for the purposes of transplantation",
-    "definition_zh": "n. 收获, 成果, 收获物, 收获期； v. 收割, 收获",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested harvest into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的收获融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic harvest in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机收获有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "harvested",
-    "word": "harvested",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/ˈhɑ:vistid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=harvested&type=2",
-    "definition_en": "v gather, as of natural products\\nv remove from a culture or a living or dead body, as for the purposes of transplantation",
-    "definition_zh": "v. 收割, 收成( harvest的过去式和过去分词 ); 收到; 收割（庄稼）, 捕猎（动物、鱼）",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested harvested into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的收割融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic harvested in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机收割有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "harvesting",
-    "word": "harvesting",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'hɑ:vistiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=harvesting&type=2",
-    "definition_en": "n the gathering of a ripened crop\\nv gather, as of natural products\\nv remove from a culture or a living or dead body, as for the purposes of transplantation",
-    "definition_zh": "v. 收割；收获（harvest的ing形式）",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested harvesting into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的收割融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic harvesting in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机收割有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "lettuce",
-    "word": "lettuce",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'letis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=lettuce&type=2",
-    "definition_en": "n. any of various plants of the genus Lactuca\\nn. leaves of any of various plants of Lactuca sativa",
-    "definition_zh": "n. 莴苣, 生菜, 纸币； 莴苣",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested lettuce into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的莴苣融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic lettuce in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机莴苣有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "mushroom",
-    "word": "mushroom",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'mʌʃrum/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mushroom&type=2",
-    "definition_en": "n. common name for an edible agaric (contrasting with the inedible toadstool)\\nn. mushrooms and related fleshy fungi (including toadstools, puffballs, morels, coral fungi, etc.)\\nn. any of various fleshy fungi of the subdivision Basidiomycota consisting of a cap at the end of a stem arising from an underground mycelium\\nn. a large cloud of rubble and dust shaped like a mushroom and rising into the sky after an explosion (especially of a nuclear bomb)",
-    "definition_zh": "n. 蘑菇形物, 蘑菇, 暴发户； vi. 迅速生长, 迅速增加, 采蘑菇； a. 蘑菇形的, 迅速生长的",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested mushroom into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的蘑菇形物融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic mushroom in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机蘑菇形物有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "pea",
-    "word": "pea",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/pi:/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pea&type=2",
-    "definition_en": "n. seed of a pea plant used for food\\nn. the fruit or seed of a pea plant\\nn. a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds",
-    "definition_zh": "n. 豌豆, 似豌豆的东西",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested pea into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的豌豆融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic pea in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机豌豆有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "peas",
-    "word": "peas",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/peas/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=peas&type=2",
-    "definition_en": "n seed of a pea plant used for food\\nn the fruit or seed of a pea plant\\nn a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds",
-    "definition_zh": "n. 豌豆（pea的复数）",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested peas into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的豌豆融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic peas in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机豌豆有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "picked",
-    "word": "picked",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/pikt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=picked&type=2",
-    "definition_en": "v select carefully from a group\\nv look for and gather\\nv harass with constant criticism\\nv provoke\\nv remove in small bits\\nv remove unwanted substances from, such as feathers or pits\\nv pilfer or rob\\nv pay for something\\nv pull lightly but sharply with a plucking motion\\nv attack with or as if with a pickaxe of ice or rocky ground, for example\\nv hit lightly with a picking motion\\nv eat intermittently; take small bites of",
-    "definition_zh": "a. 精选的, 采摘的, 已收获的, 截出的, 已清除的, 有尖头的, 多刺的",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested picked into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的精选的融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic picked in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机精选的有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "potato",
-    "word": "potato",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/pә'teitәu/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=potato&type=2",
-    "definition_en": "n. an edible tuber native to South America; a staple food of Ireland\\nn. annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous",
-    "definition_zh": "n. 马铃薯",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested potato into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的马铃薯融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic potato in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机马铃薯有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "potatoes",
-    "word": "potatoes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/potatoes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=potatoes&type=2",
-    "definition_en": "n an edible tuber native to South America; a staple food of Ireland\\nn annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous",
-    "definition_zh": "n. 马铃薯；土豆（potato的复数形式）",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested potatoes into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的马铃薯融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic potatoes in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机马铃薯有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "provisions",
-    "word": "provisions",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/provisions/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=provisions&type=2",
-    "definition_en": "n a stock or supply of foods\\nn a stipulated condition\\nn the activity of supplying or providing something\\nn the cognitive process of thinking about what you will do in the event of something happening\\nn a store or supply of something (especially of food or clothing or arms)\\nv supply with provisions",
-    "definition_zh": "n. 存粮, 给养, 口粮, 食物, 粮食； 食品, 粮食",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested provisions into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的存粮融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic provisions in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机存粮有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "pumpkin",
-    "word": "pumpkin",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'pʌmpkin/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pumpkin&type=2",
-    "definition_en": "n. a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes\\nn. usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn",
-    "definition_zh": "n. 南瓜",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested pumpkin into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的南瓜融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic pumpkin in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机南瓜有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "radish",
-    "word": "radish",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'rædiʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=radish&type=2",
-    "definition_en": "n. pungent fleshy edible root\\nn. radish of Japan with a long hard durable root eaten raw or cooked\\nn. pungent edible root of any of various cultivated radish plants",
-    "definition_zh": "n. 小萝卜",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested radish into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的小萝卜融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic radish in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机小萝卜有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "reap",
-    "word": "reap",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/ri:p/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=reap&type=2",
-    "definition_en": "v. gather, as of natural products\\nv. get or derive",
-    "definition_zh": "vt. 收割, 收获, 获得； vi. 收割, 得到报应",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested reap into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的收割融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic reap in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机收割有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "skins",
-    "word": "skins",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/skinz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=skins&type=2",
-    "definition_en": "n a natural protective body covering and site of the sense of touch\\nn an outer surface (usually thin)\\nn body covering of a living animal\\nn a person's skin regarded as their life\\nn the rind of a fruit or vegetable\\nn a bag serving as a container for liquids; it is made from the hide of an animal\\nv climb awkwardly, as if by scrambling\\nv bruise, cut, or injure the skin or the surface of\\nv remove the bark of a tree\\nv strip the skin off",
-    "definition_zh": "n. （美）连皮烤土豆；面板；皮囊；皮肤（skin的复数）",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested skins into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的连皮烤土豆融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic skins in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机连皮烤土豆有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "soybean",
-    "word": "soybean",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'sɒibi:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=soybean&type=2",
-    "definition_en": "n a source of oil; used for forage and soil improvement and as food\\nn erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia\\nn the most highly proteinaceous vegetable known; the fruit of the soybean plant is used in a variety of foods and as fodder (especially as a replacement for animal protein)",
-    "definition_zh": "n. 大豆； 大豆",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested soybean into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的大豆融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic soybean in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机大豆有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "spinach",
-    "word": "spinach",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/'spinitʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spinach&type=2",
-    "definition_en": "n. southwestern Asian plant widely cultivated for its succulent edible dark green leaves\\nn. dark green leaves; eaten cooked or raw in salads",
-    "definition_zh": "n. 菠菜, 货币, 胡说八道",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested spinach into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的菠菜融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic spinach in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机菠菜有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "squash",
-    "word": "squash",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/skwɒʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=squash&type=2",
-    "definition_en": "n. any of numerous annual trailing plants of the genus Cucurbita grown for their fleshy edible fruits\\nn. edible fruit of a squash plant; eaten as a vegetable\\nn. a game played in an enclosed court by two or four players who strike the ball with long-handled rackets\\nv. to compress with violence, out of natural shape or condition",
-    "definition_zh": "n. 挤压, 压碎的东西, 南瓜属植物, 拥挤的人群； vt. 压扁, 镇压, 压制； vi. 被压扁, 发溅泼声, 挤入",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested squash into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的挤压融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic squash in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机挤压有助于促进长久活力。"
-      }
-    ]
-  },
-  {
-    "id": "tomato",
-    "word": "tomato",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "蔬菜菌菇与农作物",
-    "category": "food_vegetables",
-    "phonetic": "/tә'mɑ:tәu/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tomato&type=2",
-    "definition_en": "n. mildly acid red or yellow pulpy fruit eaten as a vegetable\\nn. native to South America; widely cultivated in many varieties",
-    "definition_zh": "n. 番茄, 西红柿",
-    "examples": [
-      {
-        "en": "The chef incorporates locally harvested tomato into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的番茄融入营养丰富的时令菜肴中。"
-      },
-      {
-        "en": "Including organic tomato in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机番茄有助于促进长久活力。"
       }
     ]
   },
@@ -648,6 +35,9 @@
     "audio": "https://dict.youdao.com/dictvoice?audio=truck&type=2",
     "definition_en": "n. an automotive vehicle suitable for hauling\\nv. convey (goods etc.) by truck",
     "definition_zh": "n. 卡车, 货车, 对...进行交易, 来往, 实物工资, (供应市场的)蔬菜, 废物, 废话； vt. 对...进行交易, 交往, 以卡车运输； vi. 驾驶卡车, 以物易物",
+    "frq": 1237,
+    "composite_rank": 428,
+    "badge": "core",
     "examples": [
       {
         "en": "The chef incorporates locally harvested truck into nutritious seasonal dishes.",
@@ -660,24 +50,27 @@
     ]
   },
   {
-    "id": "turnip",
-    "word": "turnip",
+    "id": "gain",
+    "word": "gain",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "蔬菜菌菇与农作物",
     "category": "food_vegetables",
-    "phonetic": "/'tә:nip/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=turnip&type=2",
-    "definition_en": "n. widely cultivated plant having a large fleshy edible white or yellow root\\nn. root of any of several members of the mustard family",
-    "definition_zh": "n. 芜菁, 芜菁甘蓝； 芜菁, 萝卜",
+    "phonetic": "/gein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gain&type=2",
+    "definition_en": "n. the amount by which the revenue of a business exceeds its cost of operating\\nv. obtain advantages, such as points, etc.\\nv. increase or develop\\nv. earn on some commercial or business transaction; earn as salary or wages",
+    "definition_zh": "n. 增益, 获得, 利润, 收获, 增加； vt. 得到, 增进, 赚到； vi. 获利, 增加； 增益",
+    "frq": 1253,
+    "composite_rank": 477,
+    "badge": "core",
     "examples": [
       {
-        "en": "The chef incorporates locally harvested turnip into nutritious seasonal dishes.",
-        "zh": "主厨将当地收获的芜菁融入营养丰富的时令菜肴中。"
+        "en": "The chef incorporates locally harvested gain into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的增益融入营养丰富的时令菜肴中。"
       },
       {
-        "en": "Including organic turnip in daily meals promotes long-term vitality.",
-        "zh": "在日常膳食中加入有机芜菁有助于促进长久活力。"
+        "en": "Including organic gain in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机增益有助于促进长久活力。"
       }
     ]
   },
@@ -692,6 +85,9 @@
     "audio": "https://dict.youdao.com/dictvoice?audio=vegetable&type=2",
     "definition_en": "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\\nn. any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
     "definition_zh": "n. 蔬菜, 植物, 无精打采之人； a. 蔬菜的, 植物的",
+    "frq": 1934,
+    "composite_rank": 669,
+    "badge": "core",
     "examples": [
       {
         "en": "The chef incorporates locally harvested vegetable into nutritious seasonal dishes.",
@@ -700,6 +96,531 @@
       {
         "en": "Including organic vegetable in daily meals promotes long-term vitality.",
         "zh": "在日常膳食中加入有机蔬菜有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "potato",
+    "word": "potato",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/pә'teitәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=potato&type=2",
+    "definition_en": "n. an edible tuber native to South America; a staple food of Ireland\\nn. annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous",
+    "definition_zh": "n. 马铃薯",
+    "frq": 2253,
+    "composite_rank": 779,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested potato into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的马铃薯融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic potato in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机马铃薯有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "tomato",
+    "word": "tomato",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/tә'mɑ:tәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tomato&type=2",
+    "definition_en": "n. mildly acid red or yellow pulpy fruit eaten as a vegetable\\nn. native to South America; widely cultivated in many varieties",
+    "definition_zh": "n. 番茄, 西红柿",
+    "frq": 2400,
+    "composite_rank": 917,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested tomato into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的番茄融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic tomato in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机番茄有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "crop",
+    "word": "crop",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/krɒp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=crop&type=2",
+    "definition_en": "n. the yield from plants in a single growing season\\nn. a cultivated plant that is grown commercially on a large scale\\nn. a collection of people or things appearing together\\nn. the output of something in a season",
+    "definition_zh": "n. 农作物, 产量, 平头； vt. 收割, 修剪, 种植； vi. 收获； 裁剪",
+    "frq": 2461,
+    "composite_rank": 1047,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested crop into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的农作物融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic crop in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机农作物有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "carrot",
+    "word": "carrot",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'kærәt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=carrot&type=2",
+    "definition_en": "n. deep orange edible root of the cultivated carrot plant\\nn. perennial plant widely cultivated as an annual in many varieties for its long conical orange edible roots; temperate and tropical regions\\nn. orange root; important source of carotene\\nn. promise of reward as in \"carrot and stick\";",
+    "definition_zh": "n. 胡萝卜； 胡萝卜",
+    "frq": 4597,
+    "composite_rank": 2162,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested carrot into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的胡萝卜融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic carrot in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机胡萝卜有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "mushroom",
+    "word": "mushroom",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'mʌʃrum/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mushroom&type=2",
+    "definition_en": "n. common name for an edible agaric (contrasting with the inedible toadstool)\\nn. mushrooms and related fleshy fungi (including toadstools, puffballs, morels, coral fungi, etc.)\\nn. any of various fleshy fungi of the subdivision Basidiomycota consisting of a cap at the end of a stem arising from an underground mycelium\\nn. a large cloud of rubble and dust shaped like a mushroom and rising into the sky after an explosion (especially of a nuclear bomb)",
+    "definition_zh": "n. 蘑菇形物, 蘑菇, 暴发户； vi. 迅速生长, 迅速增加, 采蘑菇； a. 蘑菇形的, 迅速生长的",
+    "frq": 4256,
+    "composite_rank": 3575,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested mushroom into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的蘑菇形物融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic mushroom in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机蘑菇形物有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "harvest",
+    "word": "harvest",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'hɑ:vist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=harvest&type=2",
+    "definition_en": "n. the consequence of an effort or activity\\nn. the gathering of a ripened crop\\nn. the season for gathering crops\\nv. remove from a culture or a living or dead body, as for the purposes of transplantation",
+    "definition_zh": "n. 收获, 成果, 收获物, 收获期； v. 收割, 收获",
+    "frq": 4839,
+    "composite_rank": 4065,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested harvest into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的收获融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic harvest in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机收获有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "pea",
+    "word": "pea",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/pi:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pea&type=2",
+    "definition_en": "n. seed of a pea plant used for food\\nn. the fruit or seed of a pea plant\\nn. a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds",
+    "definition_zh": "n. 豌豆, 似豌豆的东西",
+    "frq": 5226,
+    "composite_rank": 4390,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested pea into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的豌豆融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic pea in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机豌豆有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "reap",
+    "word": "reap",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/ri:p/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=reap&type=2",
+    "definition_en": "v. gather, as of natural products\\nv. get or derive",
+    "definition_zh": "vt. 收割, 收获, 获得； vi. 收割, 得到报应",
+    "frq": 7589,
+    "composite_rank": 6982,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested reap into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的收割融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic reap in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机收割有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "broccoli",
+    "word": "broccoli",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'brɒkәli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=broccoli&type=2",
+    "definition_en": "n. plant with dense clusters of tight green flower buds\\nn. branched green undeveloped flower heads",
+    "definition_zh": "n. 花椰菜",
+    "frq": 7853,
+    "composite_rank": 7225,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested broccoli into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的花椰菜融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic broccoli in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机花椰菜有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "pumpkin",
+    "word": "pumpkin",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'pʌmpkin/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pumpkin&type=2",
+    "definition_en": "n. a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer squashes and a few autumn squashes\\nn. usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn",
+    "definition_zh": "n. 南瓜",
+    "frq": 6149,
+    "composite_rank": 7354,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested pumpkin into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的南瓜融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic pumpkin in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机南瓜有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "squash",
+    "word": "squash",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/skwɒʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=squash&type=2",
+    "definition_en": "n. any of numerous annual trailing plants of the genus Cucurbita grown for their fleshy edible fruits\\nn. edible fruit of a squash plant; eaten as a vegetable\\nn. a game played in an enclosed court by two or four players who strike the ball with long-handled rackets\\nv. to compress with violence, out of natural shape or condition",
+    "definition_zh": "n. 挤压, 压碎的东西, 南瓜属植物, 拥挤的人群； vt. 压扁, 镇压, 压制； vi. 被压扁, 发溅泼声, 挤入",
+    "frq": 6923,
+    "composite_rank": 7560,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested squash into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的挤压融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic squash in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机挤压有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "cucumber",
+    "word": "cucumber",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'kju:kәmbә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cucumber&type=2",
+    "definition_en": "n. a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit\\nn. cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons",
+    "definition_zh": "n. 黄瓜； 黄瓜, 胡瓜",
+    "frq": 8294,
+    "composite_rank": 7630,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested cucumber into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的黄瓜融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic cucumber in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机黄瓜有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "lettuce",
+    "word": "lettuce",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'letis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lettuce&type=2",
+    "definition_en": "n. any of various plants of the genus Lactuca\\nn. leaves of any of various plants of Lactuca sativa",
+    "definition_zh": "n. 莴苣, 生菜, 纸币； 莴苣",
+    "frq": 6589,
+    "composite_rank": 10305,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested lettuce into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的莴苣融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic lettuce in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机莴苣有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "spinach",
+    "word": "spinach",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'spinitʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spinach&type=2",
+    "definition_en": "n. southwestern Asian plant widely cultivated for its succulent edible dark green leaves\\nn. dark green leaves; eaten cooked or raw in salads",
+    "definition_zh": "n. 菠菜, 货币, 胡说八道",
+    "frq": 7185,
+    "composite_rank": 11237,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested spinach into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的菠菜融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic spinach in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机菠菜有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "turnip",
+    "word": "turnip",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'tә:nip/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=turnip&type=2",
+    "definition_en": "n. widely cultivated plant having a large fleshy edible white or yellow root\\nn. root of any of several members of the mustard family",
+    "definition_zh": "n. 芜菁, 芜菁甘蓝； 芜菁, 萝卜",
+    "frq": 15232,
+    "composite_rank": 14013,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested turnip into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的芜菁融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic turnip in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机芜菁有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "harvesting",
+    "word": "harvesting",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'hɑ:vistiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=harvesting&type=2",
+    "definition_en": "n the gathering of a ripened crop\\nv gather, as of natural products\\nv remove from a culture or a living or dead body, as for the purposes of transplantation",
+    "definition_zh": "v. 收割；收获（harvest的ing形式）",
+    "frq": 18340,
+    "composite_rank": 14672,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested harvesting into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的收割融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic harvesting in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机收割有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "radish",
+    "word": "radish",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'rædiʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=radish&type=2",
+    "definition_en": "n. pungent fleshy edible root\\nn. radish of Japan with a long hard durable root eaten raw or cooked\\nn. pungent edible root of any of various cultivated radish plants",
+    "definition_zh": "n. 小萝卜",
+    "frq": 14920,
+    "composite_rank": 14920,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested radish into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的小萝卜融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic radish in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机小萝卜有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "soybean",
+    "word": "soybean",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'sɒibi:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=soybean&type=2",
+    "definition_en": "n a source of oil; used for forage and soil improvement and as food\\nn erect bushy hairy annual herb having trifoliate leaves and purple to pink flowers; extensively cultivated for food and forage and soil improvement but especially for its nutritious oil-rich seeds; native to Asia\\nn the most highly proteinaceous vegetable known; the fruit of the soybean plant is used in a variety of foods and as fodder (especially as a replacement for animal protein)",
+    "definition_zh": "n. 大豆； 大豆",
+    "frq": 8928,
+    "composite_rank": 15178,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested soybean into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的大豆融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic soybean in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机大豆有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "harvested",
+    "word": "harvested",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/ˈhɑ:vistid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=harvested&type=2",
+    "definition_en": "v gather, as of natural products\\nv remove from a culture or a living or dead body, as for the purposes of transplantation",
+    "definition_zh": "v. 收割, 收成( harvest的过去式和过去分词 ); 收到; 收割（庄稼）, 捕猎（动物、鱼）",
+    "frq": 29022,
+    "composite_rank": 23218,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested harvested into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的收割融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic harvested in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机收割有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "picked",
+    "word": "picked",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/pikt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=picked&type=2",
+    "definition_en": "v select carefully from a group\\nv look for and gather\\nv harass with constant criticism\\nv provoke\\nv remove in small bits\\nv remove unwanted substances from, such as feathers or pits\\nv pilfer or rob\\nv pay for something\\nv pull lightly but sharply with a plucking motion\\nv attack with or as if with a pickaxe of ice or rocky ground, for example\\nv hit lightly with a picking motion\\nv eat intermittently; take small bites of",
+    "definition_zh": "a. 精选的, 采摘的, 已收获的, 截出的, 已清除的, 有尖头的, 多刺的",
+    "frq": 30653,
+    "composite_rank": 24522,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested picked into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的精选的融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic picked in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机精选的有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "potatoes",
+    "word": "potatoes",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/potatoes/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=potatoes&type=2",
+    "definition_en": "n an edible tuber native to South America; a staple food of Ireland\\nn annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous",
+    "definition_zh": "n. 马铃薯；土豆（potato的复数形式）",
+    "frq": 50000,
+    "composite_rank": 32500,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested potatoes into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的马铃薯融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic potatoes in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机马铃薯有助于促进长久活力。"
       }
     ]
   },
@@ -714,6 +635,9 @@
     "audio": "https://dict.youdao.com/dictvoice?audio=vegetables&type=2",
     "definition_en": "n edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant\\nn any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
     "definition_zh": "n. 菜类；蔬菜（vegetable的复数形式）",
+    "frq": 50000,
+    "composite_rank": 32500,
+    "badge": "core",
     "examples": [
       {
         "en": "The chef incorporates locally harvested vegetables into nutritious seasonal dishes.",
@@ -722,6 +646,181 @@
       {
         "en": "Including organic vegetables in daily meals promotes long-term vitality.",
         "zh": "在日常膳食中加入有机菜类有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "peas",
+    "word": "peas",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/peas/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=peas&type=2",
+    "definition_en": "n seed of a pea plant used for food\\nn the fruit or seed of a pea plant\\nn a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds",
+    "definition_zh": "n. 豌豆（pea的复数）",
+    "frq": 50000,
+    "composite_rank": 40000,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested peas into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的豌豆融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic peas in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机豌豆有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "aubergine",
+    "word": "aubergine",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'әubәʒi:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aubergine&type=2",
+    "definition_en": "n hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable\\nn egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow",
+    "definition_zh": "n. 茄子",
+    "frq": 37328,
+    "composite_rank": 44644,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested aubergine into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的茄子融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic aubergine in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机茄子有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "skins",
+    "word": "skins",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/skinz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=skins&type=2",
+    "definition_en": "n a natural protective body covering and site of the sense of touch\\nn an outer surface (usually thin)\\nn body covering of a living animal\\nn a person's skin regarded as their life\\nn the rind of a fruit or vegetable\\nn a bag serving as a container for liquids; it is made from the hide of an animal\\nv climb awkwardly, as if by scrambling\\nv bruise, cut, or injure the skin or the surface of\\nv remove the bark of a tree\\nv strip the skin off",
+    "definition_zh": "n. （美）连皮烤土豆；面板；皮囊；皮肤（skin的复数）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested skins into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的连皮烤土豆融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic skins in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机连皮烤土豆有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "chilli",
+    "word": "chilli",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'tʃili/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chilli&type=2",
+    "definition_en": "n very hot and finely tapering pepper of special pungency",
+    "definition_zh": "n. 红辣椒",
+    "frq": 38267,
+    "composite_rank": 54645,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested chilli into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的红辣椒融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic chilli in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机红辣椒有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "by-product",
+    "word": "by-product",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/'baiprɔdʌkt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=by-product&type=2",
+    "definition_en": "n. a secondary and sometimes unexpected consequence\\nn. a product made during the manufacture of something else",
+    "definition_zh": "n. 副产品, 额外收获, 意外收获； 副产品",
+    "frq": 50000,
+    "composite_rank": 59800,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested by-product into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的副产品融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic by-product in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机副产品有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "provisions",
+    "word": "provisions",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/provisions/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=provisions&type=2",
+    "definition_en": "n a stock or supply of foods\\nn a stipulated condition\\nn the activity of supplying or providing something\\nn the cognitive process of thinking about what you will do in the event of something happening\\nn a store or supply of something (especially of food or clothing or arms)\\nv supply with provisions",
+    "definition_zh": "n. 存粮, 给养, 口粮, 食物, 粮食； 食品, 粮食",
+    "frq": 50000,
+    "composite_rank": 85000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested provisions into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的存粮融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic provisions in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机存粮有助于促进长久活力。"
+      }
+    ]
+  },
+  {
+    "id": "foodstuffs",
+    "word": "foodstuffs",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "蔬菜菌菇与农作物",
+    "category": "food_vegetables",
+    "phonetic": "/foodstuffs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=foodstuffs&type=2",
+    "definition_en": "n (usually plural) consumer goods sold by a grocer\\nn a substance that can be used or prepared for use as food",
+    "definition_zh": "n. 食品；粮食（foodstuff的复数形式）",
+    "frq": 50000,
+    "composite_rank": 110000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The chef incorporates locally harvested foodstuffs into nutritious seasonal dishes.",
+        "zh": "主厨将当地收获的食品融入营养丰富的时令菜肴中。"
+      },
+      {
+        "en": "Including organic foodstuffs in daily meals promotes long-term vitality.",
+        "zh": "在日常膳食中加入有机食品有助于促进长久活力。"
       }
     ]
   }

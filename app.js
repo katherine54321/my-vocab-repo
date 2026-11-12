@@ -6,7 +6,7 @@
 
 // Native IndexedDB Configuration
 const DB_NAME = 'VocabMatrixCacheDB';
-const DB_VERSION = 12; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
+const DB_VERSION = 13; // Version 6 loads 34 curated scene categories across 14,200 words with purified tech and expanded beverages
 const STORE_NAME = 'slices';
 
 // Application State
@@ -23,7 +23,7 @@ const state = {
   selectedTopic: 'All',
   selectedLevel: 'All',
   searchQuery: '',
-  sortBy: 'level-asc',
+  sortBy: 'freq-asc',
   showOnlyFavorites: false,
   favorites: new Set(),
   // CDN Config
@@ -289,6 +289,9 @@ function isStaleSlice(sliceId, data) {
     return true;
   }
   if (sliceId === 'food_dining' && (!data.some(it => it.word === 'steak') || data.some(it => it.word === 'bomb'))) {
+    return true;
+  }
+  if (!data[0] || !('composite_rank' in data[0])) {
     return true;
   }
   return data.some(it => {
@@ -792,10 +795,12 @@ function getFilteredWords() {
     }
     return true;
   }).sort((a, b) => {
-    if (state.sortBy === 'level-asc') {
-      return (LEVEL_WEIGHT[a.level] || 0) - (LEVEL_WEIGHT[b.level] || 0) || a.word.localeCompare(b.word);
+    if (state.sortBy === 'freq-asc') {
+      return (a.composite_rank || a.frq || 999999) - (b.composite_rank || b.frq || 999999) || a.word.localeCompare(b.word);
+    } else if (state.sortBy === 'level-asc') {
+      return (LEVEL_WEIGHT[a.level] || 0) - (LEVEL_WEIGHT[b.level] || 0) || (a.composite_rank || 999999) - (b.composite_rank || 999999);
     } else if (state.sortBy === 'level-desc') {
-      return (LEVEL_WEIGHT[b.level] || 0) - (LEVEL_WEIGHT[a.level] || 0) || a.word.localeCompare(b.word);
+      return (LEVEL_WEIGHT[b.level] || 0) - (LEVEL_WEIGHT[a.level] || 0) || (a.composite_rank || 999999) - (b.composite_rank || 999999);
     } else if (state.sortBy === 'alpha-asc') {
       return a.word.localeCompare(b.word);
     } else if (state.sortBy === 'alpha-desc') {
@@ -844,7 +849,10 @@ function renderWordCards() {
       return `
         <div class="word-card" data-id="${item.id}">
           <div class="card-top">
-            <span class="level-badge ${item.level}">${item.level}</span>
+            <div class="card-badges-left">
+              <span class="level-badge ${item.level}">${item.level}</span>
+              ${item.badge === 'core' ? '<span class="freq-badge core" title="高频核心词汇">🔥 核心</span>' : (item.badge === 'high' ? '<span class="freq-badge high" title="常用实用词汇">⭐ 常用</span>' : '')}
+            </div>
             <div class="card-tags">
               <span class="topic-tag">${item.topic || ''}</span>
               <span class="pos-badge">${item.part_of_speech || ''}</span>
@@ -929,6 +937,21 @@ function openWordModal(id) {
   document.getElementById('mPhonetic').textContent = item.phonetic || '';
   document.getElementById('mLevel').textContent = item.level;
   document.getElementById('mLevel').className = `level-badge ${item.level}`;
+
+  const mFreqBadge = document.getElementById('mFreqBadge');
+  if (mFreqBadge) {
+    if (item.badge === 'core') {
+      mFreqBadge.className = 'freq-badge core';
+      mFreqBadge.textContent = '🔥 核心必背';
+      mFreqBadge.style.display = 'inline-flex';
+    } else if (item.badge === 'high') {
+      mFreqBadge.className = 'freq-badge high';
+      mFreqBadge.textContent = '⭐ 常用实用';
+      mFreqBadge.style.display = 'inline-flex';
+    } else {
+      mFreqBadge.style.display = 'none';
+    }
+  }
   document.getElementById('mPos').textContent = item.part_of_speech;
   document.getElementById('mTopic').textContent = item.topic;
   document.getElementById('mDefZh').textContent = item.definition_zh || item.definition_en;

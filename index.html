@@ -16,7 +16,7 @@
   <link rel="icon" type="image/svg+xml" href="icons/favicon.svg">
   <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
 
-  <link rel="stylesheet" href="style.css?v=12.0">
+  <link rel="stylesheet" href="style.css?v=13.0">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -92,6 +92,7 @@
           </div>
           <div class="filter-controls">
             <select id="sortSelect" class="styled-select compact-select">
+              <option value="freq-asc" selected>🔥 常用度优先</option>
               <option value="level-asc">难度 A1→C2</option>
               <option value="level-desc">难度 C2→A1</option>
               <option value="alpha-asc">字母 A→Z</option>
@@ -247,6 +248,7 @@
         </div>
         <div class="modal-badges">
           <span class="level-badge" id="mLevel">B1</span>
+          <span class="freq-badge" id="mFreqBadge" style="display:none;"></span>
           <span class="pos-badge" id="mPos">noun</span>
           <span class="topic-tag" id="mTopic">Travel & Transport</span>
         </div>
@@ -296,6 +298,6 @@
   <!-- Scripts -->
   <script src="categories.js?v=9.5"></script>
   <script src="data.js?v=9.5"></script>
-  <script src="app.js?v=12.0"></script>
+  <script src="app.js?v=13.0"></script>
 </body>
 </html>

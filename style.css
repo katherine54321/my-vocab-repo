@@ -2263,3 +2263,33 @@ html, body {
     display: none !important;
   }
 }
+
+.card-badges-left {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.freq-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 999px;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+}
+
+.freq-badge.core {
+  background: #fef2f2;
+  color: #dc2626;
+  border: 1px solid #fecaca;
+}
+
+.freq-badge.high {
+  background: #fffbeb;
+  color: #d97706;
+  border: 1px solid #fde68a;
+}
