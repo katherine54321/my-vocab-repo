@@ -625,6 +625,31 @@
     ]
   },
   {
+    "id": "ms",
+    "word": "ms",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/miz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ms&type=2",
+    "definition_en": "n. a form of address for a woman",
+    "definition_zh": "美国微软公司； 主存储器, 制造系统, 毫秒, 微软公司",
+    "frq": 1145,
+    "composite_rank": 385,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Ms is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "美国微软公司是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Ms to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访美国微软公司，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "ocean",
     "word": "ocean",
     "part_of_speech": "noun",
@@ -696,31 +721,6 @@
       {
         "en": "Travelers from across the globe visit Village to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访村庄，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "ms",
-    "word": "ms",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/miz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ms&type=2",
-    "definition_en": "n. a form of address for a woman",
-    "definition_zh": "美国微软公司； 主存储器, 制造系统, 毫秒, 微软公司",
-    "frq": 1145,
-    "composite_rank": 481,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Ms is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "美国微软公司是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Ms to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访美国微软公司，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -1150,6 +1150,56 @@
     ]
   },
   {
+    "id": "rural",
+    "word": "rural",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'ruәrәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rural&type=2",
+    "definition_en": "a. living in or characteristic of farming or country life\\na. of or relating to the countryside as opposed to the city",
+    "definition_zh": "a. 乡下的, 田园的, 乡村风味的； 农村的, 乡村的, 有关农业的",
+    "frq": 2006,
+    "composite_rank": 854,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Rural is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "乡下的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Rural to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访乡下的，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "personality",
+    "word": "personality",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/.pә:sә'næliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=personality&type=2",
+    "definition_en": "n. the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual\\nn. a person of considerable prominence",
+    "definition_zh": "n. 个性, 人格, (团体、地方、国家)特有特性, 名人； 人格; 个性",
+    "frq": 2076,
+    "composite_rank": 884,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Personality is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "个性是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Personality to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访个性，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "desert",
     "word": "desert",
     "part_of_speech": "noun",
@@ -1375,56 +1425,6 @@
     ]
   },
   {
-    "id": "pan",
-    "word": "pan",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/pæn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pan&type=2",
-    "definition_en": "n. cooking utensil consisting of a wide metal vessel\\nn. (Greek mythology) god of fields and woods and shepherds and flocks; represented as a man with goat's legs and horns and ears; identified with Roman Sylvanus or Faunus\\nn. shallow container made of metal\\nn. chimpanzees; more closely related to Australopithecus than to other pongids",
-    "definition_zh": "n. 平锅, 浅盘, 盆地, 硬土层, 拍摄全景； v. 上下左右移动, 摇镜头, 淘洗, 淘金",
-    "frq": 2479,
-    "composite_rank": 1055,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Pan is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "平锅是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Pan to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访平锅，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "rural",
-    "word": "rural",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'ruәrәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=rural&type=2",
-    "definition_en": "a. living in or characteristic of farming or country life\\na. of or relating to the countryside as opposed to the city",
-    "definition_zh": "a. 乡下的, 田园的, 乡村风味的； 农村的, 乡村的, 有关农业的",
-    "frq": 2006,
-    "composite_rank": 1067,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Rural is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "乡下的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Rural to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访乡下的，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "french",
     "word": "French",
     "part_of_speech": "noun",
@@ -1446,31 +1446,6 @@
       {
         "en": "Travelers from across the globe visit French to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访法国人，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "personality",
-    "word": "personality",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/.pә:sә'næliti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=personality&type=2",
-    "definition_en": "n. the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual\\nn. a person of considerable prominence",
-    "definition_zh": "n. 个性, 人格, (团体、地方、国家)特有特性, 名人； 人格; 个性",
-    "frq": 2076,
-    "composite_rank": 1104,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Personality is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "个性是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Personality to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访个性，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -1950,6 +1925,31 @@
     ]
   },
   {
+    "id": "universal",
+    "word": "universal",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/.ju:ni'vә:sl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=universal&type=2",
+    "definition_en": "n. (linguistics) a grammatical rule (or other linguistic feature) that is found in all languages\\nn. (logic) a proposition that asserts something of all members of a class\\nn. a behavioral convention or pattern characteristic of all members of a particular culture or of all human beings\\ns. applicable to or common to all members of a group or set",
+    "definition_zh": "a. 全世界的, 普遍的, 宇宙的, 通用的； n. 一般概念",
+    "frq": 2642,
+    "composite_rank": 1775,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Universal is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "一般概念是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Universal to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访一般概念，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "boundary",
     "word": "boundary",
     "part_of_speech": "noun",
@@ -2300,6 +2300,31 @@
     ]
   },
   {
+    "id": "temple",
+    "word": "temple",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/templ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=temple&type=2",
+    "definition_en": "n. place of worship consisting of an edifice for the worship of a deity\\nn. the flat area on either side of the forehead\\nn. an edifice devoted to special or exalted purposes",
+    "definition_zh": "n. 圣堂, 庙宇, 教堂, 礼拜堂, 太阳穴, 鬓角； 颞颥, 颞部",
+    "frq": 3616,
+    "composite_rank": 2199,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Temple is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "圣堂是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Temple to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访圣堂，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "canada",
     "word": "Canada",
     "part_of_speech": "noun",
@@ -2325,27 +2350,27 @@
     ]
   },
   {
-    "id": "universal",
-    "word": "universal",
+    "id": "civilization",
+    "word": "civilization",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/.ju:ni'vә:sl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=universal&type=2",
-    "definition_en": "n. (linguistics) a grammatical rule (or other linguistic feature) that is found in all languages\\nn. (logic) a proposition that asserts something of all members of a class\\nn. a behavioral convention or pattern characteristic of all members of a particular culture or of all human beings\\ns. applicable to or common to all members of a group or set",
-    "definition_zh": "a. 全世界的, 普遍的, 宇宙的, 通用的； n. 一般概念",
-    "frq": 2642,
-    "composite_rank": 2219,
+    "phonetic": "/si.vilai'zeiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=civilization&type=2",
+    "definition_en": "n. a society in an advanced state of social development (e.g., with complex legal and political and religious organizations)\\nn. the social process whereby societies achieve an advanced stage of development and organization",
+    "definition_zh": "n. 文明, 教化； 文明, 文化, 文明国家的总称",
+    "frq": 3459,
+    "composite_rank": 2324,
     "badge": "core",
     "examples": [
       {
-        "en": "Universal is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "一般概念是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Civilization is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "文明是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Universal to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访一般概念，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Civilization to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访文明，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -2371,6 +2396,31 @@
       {
         "en": "Travelers from across the globe visit Berlin to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访柏林，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "hispanic",
+    "word": "Hispanic",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/his'pænik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hispanic&type=2",
+    "definition_en": "a. related to a Spanish-speaking people or culture",
+    "definition_zh": "a. 西班牙的",
+    "frq": 3515,
+    "composite_rank": 2362,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Hispanic is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "西班牙的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Hispanic to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访西班牙的，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -2575,6 +2625,31 @@
     ]
   },
   {
+    "id": "worldwide",
+    "word": "worldwide",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'wә:ldwaid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=worldwide&type=2",
+    "definition_en": "s. spanning or extending throughout the entire world",
+    "definition_zh": "a. 全世界的",
+    "frq": 4457,
+    "composite_rank": 2710,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Worldwide is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "全世界的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Worldwide to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访全世界的，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "monument",
     "word": "monument",
     "part_of_speech": "noun",
@@ -2596,31 +2671,6 @@
       {
         "en": "Travelers from across the globe visit Monument to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访纪念碑，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "temple",
-    "word": "temple",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/templ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=temple&type=2",
-    "definition_en": "n. place of worship consisting of an edifice for the worship of a deity\\nn. the flat area on either side of the forehead\\nn. an edifice devoted to special or exalted purposes",
-    "definition_zh": "n. 圣堂, 庙宇, 教堂, 礼拜堂, 太阳穴, 鬓角； 颞颥, 颞部",
-    "frq": 3616,
-    "composite_rank": 2748,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Temple is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "圣堂是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Temple to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访圣堂，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -2700,27 +2750,27 @@
     ]
   },
   {
-    "id": "civilization",
-    "word": "civilization",
+    "id": "frontier",
+    "word": "frontier",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/si.vilai'zeiʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=civilization&type=2",
-    "definition_en": "n. a society in an advanced state of social development (e.g., with complex legal and political and religious organizations)\\nn. the social process whereby societies achieve an advanced stage of development and organization",
-    "definition_zh": "n. 文明, 教化； 文明, 文化, 文明国家的总称",
-    "frq": 3459,
-    "composite_rank": 2906,
+    "phonetic": "/'frʌntjә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=frontier&type=2",
+    "definition_en": "n. a wilderness at the edge of a settled area of a country\\nn. an international boundary or the area (often fortified) immediately inside the boundary\\nn. an undeveloped field of study; a topic inviting research and development",
+    "definition_zh": "n. 边界, 边境； 国境, 边境, 边界",
+    "frq": 4415,
+    "composite_rank": 2967,
     "badge": "high",
     "examples": [
       {
-        "en": "Civilization is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "文明是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Frontier is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "边界是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Civilization to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访文明，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Frontier to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访边界，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -2746,6 +2796,31 @@
       {
         "en": "Travelers from across the globe visit Korea to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访朝鲜，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "raf",
+    "word": "raf",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/raf/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=raf&type=2",
+    "definition_en": "n the airforce of Great Britain\\nn a Marxist and Maoist terrorist organization in Germany; a network of underground guerillas who committed acts of violence in the service of the class struggle; a successor to the Baader-Meinhof Gang; became one of Europe's most feared terrorist groups; disbanded in 1998",
+    "definition_zh": "abbr. 英国皇家空军（Royal Air Force）",
+    "frq": 3603,
+    "composite_rank": 3027,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Raf is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "英国皇家空军是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Raf to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访英国皇家空军，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -3000,6 +3075,31 @@
     ]
   },
   {
+    "id": "domain",
+    "word": "domain",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/dәu'mein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=domain&type=2",
+    "definition_en": "n. territory over which rule or control is exercised\\nn. (mathematics) the set of values of the independent variable for which a function is defined",
+    "definition_zh": "n. 领域, 领土, 产业, 范围； 域, 区域, 支配命令",
+    "frq": 3627,
+    "composite_rank": 3337,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Domain is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "领域是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Domain to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访领域，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "mexico",
     "word": "Mexico",
     "part_of_speech": "noun",
@@ -3046,31 +3146,6 @@
       {
         "en": "Travelers from across the globe visit Fleet to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访舰队，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "worldwide",
-    "word": "worldwide",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'wә:ldwaid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=worldwide&type=2",
-    "definition_en": "s. spanning or extending throughout the entire world",
-    "definition_zh": "a. 全世界的",
-    "frq": 4457,
-    "composite_rank": 3387,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Worldwide is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "全世界的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Worldwide to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访全世界的，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -3250,31 +3325,6 @@
     ]
   },
   {
-    "id": "marker",
-    "word": "marker",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'mɑ:kә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=marker&type=2",
-    "definition_en": "n. some conspicuous object used to distinguish or mark something\\nn. a distinguishing symbol\\nn. a writing implement for making a mark",
-    "definition_zh": "n. 作记号的人, 记分员, 书签, 纪念碑, 里程碑, 标识物, 标记； 标记",
-    "frq": 4811,
-    "composite_rank": 3541,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Marker is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "作记号的人是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Marker to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访作记号的人，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "belgium",
     "word": "Belgium",
     "part_of_speech": "noun",
@@ -3321,31 +3371,6 @@
       {
         "en": "Travelers from across the globe visit Canal to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访运河，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "frontier",
-    "word": "frontier",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'frʌntjә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=frontier&type=2",
-    "definition_en": "n. a wilderness at the edge of a settled area of a country\\nn. an international boundary or the area (often fortified) immediately inside the boundary\\nn. an undeveloped field of study; a topic inviting research and development",
-    "definition_zh": "n. 边界, 边境； 国境, 边境, 边界",
-    "frq": 4415,
-    "composite_rank": 3709,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Frontier is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "边界是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Frontier to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访边界，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -3450,27 +3475,27 @@
     ]
   },
   {
-    "id": "developed",
-    "word": "developed",
+    "id": "forum",
+    "word": "forum",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/di'velәpid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=developed&type=2",
-    "definition_en": "a. being changed over time so as to be e.g. stronger or more complete or more useful\\ns. (used of societies) having high industrial development\\ns. (of real estate) made more useful and profitable as by building or laying out roads",
-    "definition_zh": "a. 发达的（国家或地区）；成熟的",
-    "frq": 4979,
-    "composite_rank": 3983,
+    "phonetic": "/'fɒ:rәm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=forum&type=2",
+    "definition_en": "n. a public meeting or assembly for open discussion\\nn. a public facility to meet for open discussion",
+    "definition_zh": "n. 论坛, 公开讨论的广场, 法庭, 讨论会； 讨论会, 专题讨论, 公共论坛",
+    "frq": 4705,
+    "composite_rank": 3952,
     "badge": "high",
     "examples": [
       {
-        "en": "Developed is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "发达的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Forum is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "论坛是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Developed to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访发达的，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Forum to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访论坛，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -3500,6 +3525,31 @@
     ]
   },
   {
+    "id": "terrain",
+    "word": "terrain",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'terein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=terrain&type=2",
+    "definition_en": "n. a piece of ground having specific characteristics or military potential",
+    "definition_zh": "n. 地带, 地区, 地形, 领域, 范围",
+    "frq": 4492,
+    "composite_rank": 4133,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Terrain is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "地带是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Terrain to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访地带，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "australian",
     "word": "Australian",
     "part_of_speech": "noun",
@@ -3521,6 +3571,31 @@
       {
         "en": "Travelers from across the globe visit Australian to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访澳大利亚人，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "basin",
+    "word": "basin",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'beisn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=basin&type=2",
+    "definition_en": "n. a bowl-shaped vessel; usually used for holding food or liquids\\nn. the quantity that a basin will hold\\nn. a natural depression in the surface of the land often with a lake at the bottom of it",
+    "definition_zh": "n. 盆, 盆地； 第三脑室, 骨盆",
+    "frq": 6174,
+    "composite_rank": 4149,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Basin is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "盆是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Basin to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访盆，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -3600,31 +3675,6 @@
     ]
   },
   {
-    "id": "angeles",
-    "word": "angeles",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/angeles/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=angeles&type=2",
-    "definition_en": "",
-    "definition_zh": "n. 安杰利斯（姓氏）；天使城（菲律宾地名）",
-    "frq": 5397,
-    "composite_rank": 4318,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Angeles is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "安杰利斯是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Angeles to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访安杰利斯，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "chicago",
     "word": "Chicago",
     "part_of_speech": "noun",
@@ -3646,56 +3696,6 @@
       {
         "en": "Travelers from across the globe visit Chicago to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访芝加哥，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "domain",
-    "word": "domain",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/dәu'mein/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=domain&type=2",
-    "definition_en": "n. territory over which rule or control is exercised\\nn. (mathematics) the set of values of the independent variable for which a function is defined",
-    "definition_zh": "n. 领域, 领土, 产业, 范围； 域, 区域, 支配命令",
-    "frq": 3627,
-    "composite_rank": 4338,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Domain is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "领域是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Domain to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访领域，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "chester",
-    "word": "chester",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'tʃestә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chester&type=2",
-    "definition_en": "n. a city of southeastern Pennsylvania on the Delaware river (an industrial suburb of Philadelphia)",
-    "definition_zh": "n. 切斯特（美国港口城市）；切斯特（英国一城市）",
-    "frq": 5471,
-    "composite_rank": 4377,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Chester is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "切斯特是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Chester to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访切斯特，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -3746,6 +3746,31 @@
       {
         "en": "Travelers from across the globe visit Lebanon to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访黎巴嫩，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "marker",
+    "word": "marker",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'mɑ:kә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=marker&type=2",
+    "definition_en": "n. some conspicuous object used to distinguish or mark something\\nn. a distinguishing symbol\\nn. a writing implement for making a mark",
+    "definition_zh": "n. 作记号的人, 记分员, 书签, 纪念碑, 里程碑, 标识物, 标记； 标记",
+    "frq": 4811,
+    "composite_rank": 4426,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Marker is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "作记号的人是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Marker to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访作记号的人，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -4075,6 +4100,31 @@
     ]
   },
   {
+    "id": "cathedral",
+    "word": "cathedral",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/kә'θi:drәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cathedral&type=2",
+    "definition_en": "n. any large and important church\\nn. the principal Christian church building of a bishop's diocese\\na. relating to or containing or issuing from a bishop's office or throne",
+    "definition_zh": "n. 大教堂",
+    "frq": 7382,
+    "composite_rank": 4961,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Cathedral is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "大教堂是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Cathedral to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访大教堂，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "madrid",
     "word": "Madrid",
     "part_of_speech": "noun",
@@ -4096,6 +4146,31 @@
       {
         "en": "Travelers from across the globe visit Madrid to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访马德里，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "developed",
+    "word": "developed",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/di'velәpid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=developed&type=2",
+    "definition_en": "a. being changed over time so as to be e.g. stronger or more complete or more useful\\ns. (used of societies) having high industrial development\\ns. (of real estate) made more useful and profitable as by building or laying out roads",
+    "definition_zh": "a. 发达的（国家或地区）；成熟的",
+    "frq": 4979,
+    "composite_rank": 4979,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Developed is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "发达的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Developed to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访发达的，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -4125,31 +4200,6 @@
     ]
   },
   {
-    "id": "hispanic",
-    "word": "Hispanic",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/his'pænik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hispanic&type=2",
-    "definition_en": "a. related to a Spanish-speaking people or culture",
-    "definition_zh": "a. 西班牙的",
-    "frq": 3515,
-    "composite_rank": 5019,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Hispanic is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "西班牙的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Hispanic to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访西班牙的，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "indonesia",
     "word": "Indonesia",
     "part_of_speech": "noun",
@@ -4171,6 +4221,31 @@
       {
         "en": "Travelers from across the globe visit Indonesia to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访印尼，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "sanctuary",
+    "word": "sanctuary",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'sæŋktʃuәri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sanctuary&type=2",
+    "definition_en": "n. a consecrated place where sacred objects are kept",
+    "definition_zh": "n. 圣所(指教堂、寺院等), 耶路撒冷的神殿, 避难所； 庇护所, 避难所, 教堂",
+    "frq": 5985,
+    "composite_rank": 5027,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Sanctuary is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "圣所是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Sanctuary to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访圣所，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -4250,52 +4325,102 @@
     ]
   },
   {
-    "id": "forum",
-    "word": "forum",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'fɒ:rәm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=forum&type=2",
-    "definition_en": "n. a public meeting or assembly for open discussion\\nn. a public facility to meet for open discussion",
-    "definition_zh": "n. 论坛, 公开讨论的广场, 法庭, 讨论会； 讨论会, 专题讨论, 公共论坛",
-    "frq": 4705,
-    "composite_rank": 5138,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Forum is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "论坛是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Forum to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访论坛，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "basin",
-    "word": "basin",
+    "id": "whitehall",
+    "word": "Whitehall",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'beisn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=basin&type=2",
-    "definition_en": "n. a bowl-shaped vessel; usually used for holding food or liquids\\nn. the quantity that a basin will hold\\nn. a natural depression in the surface of the land often with a lake at the bottom of it",
-    "definition_zh": "n. 盆, 盆地； 第三脑室, 骨盆",
-    "frq": 6174,
-    "composite_rank": 5186,
+    "phonetic": "/'waithɔ:l/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=whitehall&type=2",
+    "definition_en": "n. a wide street in London stretching from Trafalgar Square to the Houses of Parliament; site of many government offices\\nn. the British civil service",
+    "definition_zh": "n. 白厅, 英国政府",
+    "frq": 6175,
+    "composite_rank": 5187,
     "badge": "high",
     "examples": [
       {
-        "en": "Basin is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "盆是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Whitehall is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "白厅是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Basin to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访盆，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Whitehall to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访白厅，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "nationality",
+    "word": "nationality",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/.næʃә'nælәti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nationality&type=2",
+    "definition_en": "n. people having common origins or traditions and often comprising a nation\\nn. the status of belonging to a particular nation by birth or naturalization",
+    "definition_zh": "n. 国籍, 国家, 民族性； 国家, 民族, 国民",
+    "frq": 7751,
+    "composite_rank": 5209,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Nationality is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "国籍是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Nationality to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访国籍，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "victorian",
+    "word": "Victorian",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/vik'tɔ:riәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=victorian&type=2",
+    "definition_en": "n. a person who lived during the reign of Victoria\\na. of or relating to Queen Victoria of Great Britain or to the age in which she ruled\\ns. typical of the moral standards or conduct of the age of Queen Victoria",
+    "definition_zh": "a. 英国维多利亚女王时代的, 笃信宗教的, 讲究体面的； n. 维多利亚女王时代的英国人",
+    "frq": 6250,
+    "composite_rank": 5250,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Victorian is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "维多利亚女王时代的英国人是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Victorian to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访维多利亚女王时代的英国人，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "embargo",
+    "word": "embargo",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/im'bɑ:gәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=embargo&type=2",
+    "definition_en": "n. a government order imposing a trade barrier\\nv. ban the publication of (documents), as for security or copyright reasons\\nv. prevent commerce",
+    "definition_zh": "n. 封港令, 禁运； vt. 禁止出入港口, 禁运",
+    "frq": 6354,
+    "composite_rank": 5337,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Embargo is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "封港令是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Embargo to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访封港令，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -4325,27 +4450,52 @@
     ]
   },
   {
-    "id": "terrain",
-    "word": "terrain",
+    "id": "communal",
+    "word": "communal",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'terein/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=terrain&type=2",
-    "definition_en": "n. a piece of ground having specific characteristics or military potential",
-    "definition_zh": "n. 地带, 地区, 地形, 领域, 范围",
-    "frq": 4492,
-    "composite_rank": 5372,
+    "phonetic": "/'kɒmjunәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=communal&type=2",
+    "definition_en": "s. for or by a group rather than individuals\\na. relating to a small administrative district or community",
+    "definition_zh": "a. 公有的, 公社的； 公共的, 自治体的, 巴黎公社的",
+    "frq": 6398,
+    "composite_rank": 5374,
     "badge": "high",
     "examples": [
       {
-        "en": "Terrain is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "地带是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Communal is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "公有的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Terrain to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访地带，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Communal to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访公有的，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "angeles",
+    "word": "angeles",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/angeles/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=angeles&type=2",
+    "definition_en": "",
+    "definition_zh": "n. 安杰利斯（姓氏）；天使城（菲律宾地名）",
+    "frq": 5397,
+    "composite_rank": 5397,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Angeles is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "安杰利斯是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Angeles to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访安杰利斯，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -4400,6 +4550,31 @@
     ]
   },
   {
+    "id": "geographic",
+    "word": "geographic",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/,dʒiә'^ræfik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=geographic&type=2",
+    "definition_en": "a. of or relating to the science of geography\\na. determined by geography",
+    "definition_zh": "a. 地理(学)的, 地区(性)的",
+    "frq": 5436,
+    "composite_rank": 5436,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Geographic is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "地理的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Geographic to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访地理的，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "croatia",
     "word": "Croatia",
     "part_of_speech": "noun",
@@ -4421,6 +4596,31 @@
       {
         "en": "Travelers from across the globe visit Croatia to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访克罗地亚，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "chester",
+    "word": "chester",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'tʃestә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chester&type=2",
+    "definition_en": "n. a city of southeastern Pennsylvania on the Delaware river (an industrial suburb of Philadelphia)",
+    "definition_zh": "n. 切斯特（美国港口城市）；切斯特（英国一城市）",
+    "frq": 5471,
+    "composite_rank": 5471,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Chester is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "切斯特是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Chester to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访切斯特，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -4475,6 +4675,31 @@
     ]
   },
   {
+    "id": "territorial",
+    "word": "territorial",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/.teri'tɒ:riәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=territorial&type=2",
+    "definition_en": "n. nonprofessional soldier member of a territorial military unit\\nn. a territorial military unit\\na. of or relating to a territory\\na. displaying territoriality; defending a territory from intruders",
+    "definition_zh": "a. 领土的, 土地的, 地方的, 区域性的； n. 本土自卫队队员",
+    "frq": 6790,
+    "composite_rank": 5704,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Territorial is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "本土自卫队队员是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Territorial to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访本土自卫队队员，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "glacier",
     "word": "glacier",
     "part_of_speech": "noun",
@@ -4521,31 +4746,6 @@
       {
         "en": "Travelers from across the globe visit Finland to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访芬兰，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "webb",
-    "word": "webb",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/webb/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=webb&type=2",
-    "definition_en": "n. English writer and a central member of the Fabian Society (1858-1943)\\nn. English sociologist and economist and a central member of the Fabian Society (1859-1947)",
-    "definition_zh": "n. 韦勃（人名）；威布市（美国密苏里州的城市名）",
-    "frq": 7326,
-    "composite_rank": 5861,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Webb is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "韦勃是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Webb to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访韦勃，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -4646,31 +4846,6 @@
       {
         "en": "Travelers from across the globe visit Malaysia to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访马来西亚，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "mann",
-    "word": "mann",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/mæn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mann&type=2",
-    "definition_en": "n. United States educator who introduced reforms that significantly altered the system of public education (1796-1859)\\nn. German writer concerned about the role of the artist in bourgeois society (1875-1955)",
-    "definition_zh": "n. 曼（姓氏）；曼恩法案（美国国会1910年6月通过的一项法案, 禁止州与州之间贩运妇女）",
-    "frq": 9089,
-    "composite_rank": 5908,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Mann is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "曼是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Mann to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访曼，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -4825,6 +5000,31 @@
     ]
   },
   {
+    "id": "chapel",
+    "word": "chapel",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'tʃæpәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chapel&type=2",
+    "definition_en": "n. a place of worship that has its own altar",
+    "definition_zh": "n. 小教堂, 礼拜式",
+    "frq": 7252,
+    "composite_rank": 6092,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Chapel is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "小教堂是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Chapel to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访小教堂，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "chile",
     "word": "Chile",
     "part_of_speech": "noun",
@@ -4875,27 +5075,27 @@
     ]
   },
   {
-    "id": "cathedral",
-    "word": "cathedral",
+    "id": "indies",
+    "word": "indies",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/kә'θi:drәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cathedral&type=2",
-    "definition_en": "n. any large and important church\\nn. the principal Christian church building of a bishop's diocese\\na. relating to or containing or issuing from a bishop's office or throne",
-    "definition_zh": "n. 大教堂",
-    "frq": 7382,
-    "composite_rank": 6201,
+    "phonetic": "/'indiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=indies&type=2",
+    "definition_en": "n a pop group not affiliated with a major record company\\nn an independent film company not associated with an established studio",
+    "definition_zh": "n. 印度地方, 西印度群岛",
+    "frq": 6196,
+    "composite_rank": 6196,
     "badge": "high",
     "examples": [
       {
-        "en": "Cathedral is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "大教堂是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Indies is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "印度地方是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Cathedral to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访大教堂，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Indies to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访印度地方，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -5075,27 +5275,52 @@
     ]
   },
   {
-    "id": "nationality",
-    "word": "nationality",
+    "id": "midlands",
+    "word": "Midlands",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/.næʃә'nælәti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nationality&type=2",
-    "definition_en": "n. people having common origins or traditions and often comprising a nation\\nn. the status of belonging to a particular nation by birth or naturalization",
-    "definition_zh": "n. 国籍, 国家, 民族性； 国家, 民族, 国民",
-    "frq": 7751,
-    "composite_rank": 6511,
+    "phonetic": "/midlands/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=midlands&type=2",
+    "definition_en": "n a town in west central Texas\\nn the interior part of a country",
+    "definition_zh": "n. 英国中部",
+    "frq": 7715,
+    "composite_rank": 6481,
     "badge": "high",
     "examples": [
       {
-        "en": "Nationality is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "国籍是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Midlands is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "英国中部是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Nationality to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访国籍，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Midlands to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访英国中部，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "plaza",
+    "word": "plaza",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'plɑ:zә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=plaza&type=2",
+    "definition_en": "n. a public square with room for pedestrians\\nn. mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace",
+    "definition_zh": "n. 广场, 市场, 购物区",
+    "frq": 7095,
+    "composite_rank": 6527,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Plaza is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "广场是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Plaza to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访广场，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -5171,6 +5396,31 @@
       {
         "en": "Travelers from across the globe visit Serbia to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访塞尔维亚，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "gi",
+    "word": "gi",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/dʒi: 'ai/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gi&type=2",
+    "definition_en": "n a unit of magnetomotive force equal to 0.7958 ampere-turns\\ni clean in preparation for inspection\\na of or relating to the stomach and intestines",
+    "definition_zh": "a. 军用的；美国军人的",
+    "frq": 7476,
+    "composite_rank": 6878,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Gi is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "军用的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Gi to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访军用的，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -5275,6 +5525,31 @@
     ]
   },
   {
+    "id": "webb",
+    "word": "webb",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/webb/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=webb&type=2",
+    "definition_en": "n. English writer and a central member of the Fabian Society (1858-1943)\\nn. English sociologist and economist and a central member of the Fabian Society (1859-1947)",
+    "definition_zh": "n. 韦勃（人名）；威布市（美国密苏里州的城市名）",
+    "frq": 7326,
+    "composite_rank": 7326,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Webb is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "韦勃是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Webb to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访韦勃，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "geographical",
     "word": "geographical",
     "part_of_speech": "noun",
@@ -5325,31 +5600,6 @@
     ]
   },
   {
-    "id": "bs",
-    "word": "bs",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/bs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bs&type=2",
-    "definition_en": "n a bachelor's degree in science\\nn aerobic rod-shaped spore-producing bacterium; often occurring in chainlike formations; found primarily in soil\\nn originally thought to be a single vitamin but now separated into several B vitamins\\nn a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder\\nn a logarithmic unit of sound intensity equal to 10 decibels\\nn (physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter\\nn the 2nd letter of the Roman alphabet\\nn the blood group whose red cells carry the B antigen",
-    "definition_zh": "理学士； 退格, 退位, 英国标准, 商用系统",
-    "frq": 12517,
-    "composite_rank": 7485,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Bs is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "理学士是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Bs to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访理学士，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "coastline",
     "word": "coastline",
     "part_of_speech": "noun",
@@ -5396,31 +5646,6 @@
       {
         "en": "Travelers from across the globe visit Oriental to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访东方人，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "dude",
-    "word": "dude",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/dju:d/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dude&type=2",
-    "definition_en": "n an informal form of address for a man\\nn a man who is much concerned with his dress and appearance",
-    "definition_zh": "n.<美国、加拿大>纨绔子弟，花花公子； <俚>男人，家伙； vt.<俚>打扮得讲究或花哨",
-    "frq": 8373,
-    "composite_rank": 7703,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Dude is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "美国是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Dude to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访美国，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -5525,31 +5750,6 @@
     ]
   },
   {
-    "id": "sanctuary",
-    "word": "sanctuary",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'sæŋktʃuәri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sanctuary&type=2",
-    "definition_en": "n. a consecrated place where sacred objects are kept",
-    "definition_zh": "n. 圣所(指教堂、寺院等), 耶路撒冷的神殿, 避难所； 庇护所, 避难所, 教堂",
-    "frq": 5985,
-    "composite_rank": 8547,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Sanctuary is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "圣所是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Sanctuary to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访圣所，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "bangkok",
     "word": "Bangkok",
     "part_of_speech": "noun",
@@ -5596,6 +5796,56 @@
       {
         "en": "Travelers from across the globe visit Nepal to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访尼泊尔，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "hindu",
+    "word": "Hindu",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'hindu:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hindu&type=2",
+    "definition_en": "n. a native or inhabitant of Hindustan or India\\nn. a person who adheres to Hinduism\\na. of or relating to or supporting Hinduism",
+    "definition_zh": "a. 印度教教徒的； n. 印度教教徒",
+    "frq": 8019,
+    "composite_rank": 8757,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Hindu is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "印度教教徒是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Hindu to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访印度教教徒，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "vatican",
+    "word": "Vatican",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'vætikәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vatican&type=2",
+    "definition_en": "n. the residence of the Catholic Pope in the Vatican City",
+    "definition_zh": "n. 梵蒂冈, 罗马教廷； 梵蒂冈, 罗马教廷",
+    "frq": 10517,
+    "composite_rank": 8834,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Vatican is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "梵蒂冈是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Vatican to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访梵蒂冈，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -5650,77 +5900,52 @@
     ]
   },
   {
-    "id": "embargo",
-    "word": "embargo",
+    "id": "mann",
+    "word": "mann",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/im'bɑ:gәu/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=embargo&type=2",
-    "definition_en": "n. a government order imposing a trade barrier\\nv. ban the publication of (documents), as for security or copyright reasons\\nv. prevent commerce",
-    "definition_zh": "n. 封港令, 禁运； vt. 禁止出入港口, 禁运",
-    "frq": 6354,
-    "composite_rank": 9074,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Embargo is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "封港令是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Embargo to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访封港令，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "communal",
-    "word": "communal",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'kɒmjunәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=communal&type=2",
-    "definition_en": "s. for or by a group rather than individuals\\na. relating to a small administrative district or community",
-    "definition_zh": "a. 公有的, 公社的； 公共的, 自治体的, 巴黎公社的",
-    "frq": 6398,
-    "composite_rank": 9136,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Communal is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "公有的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Communal to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访公有的，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "geographic",
-    "word": "geographic",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/,dʒiә'^ræfik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=geographic&type=2",
-    "definition_en": "a. of or relating to the science of geography\\na. determined by geography",
-    "definition_zh": "a. 地理(学)的, 地区(性)的",
-    "frq": 5436,
-    "composite_rank": 9241,
+    "phonetic": "/mæn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mann&type=2",
+    "definition_en": "n. United States educator who introduced reforms that significantly altered the system of public education (1796-1859)\\nn. German writer concerned about the role of the artist in bourgeois society (1875-1955)",
+    "definition_zh": "n. 曼（姓氏）；曼恩法案（美国国会1910年6月通过的一项法案, 禁止州与州之间贩运妇女）",
+    "frq": 9089,
+    "composite_rank": 9089,
     "badge": "normal",
     "examples": [
       {
-        "en": "Geographic is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "地理的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Mann is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "曼是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Geographic to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访地理的，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Mann to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访曼，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "opec",
+    "word": "OPEC",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'әjpek/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=opec&type=2",
+    "definition_en": "n an organization of countries formed in 1961 to agree on a common policy for the production and sale of petroleum",
+    "definition_zh": "欧佩克(石油输出国家组织)",
+    "frq": 10945,
+    "composite_rank": 9194,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Opec is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "欧佩克是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Opec to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访欧佩克，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -5775,52 +6000,27 @@
     ]
   },
   {
-    "id": "territorial",
-    "word": "territorial",
+    "id": "scenic",
+    "word": "scenic",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/.teri'tɒ:riәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=territorial&type=2",
-    "definition_en": "n. nonprofessional soldier member of a territorial military unit\\nn. a territorial military unit\\na. of or relating to a territory\\na. displaying territoriality; defending a territory from intruders",
-    "definition_zh": "a. 领土的, 土地的, 地方的, 区域性的； n. 本土自卫队队员",
-    "frq": 6790,
-    "composite_rank": 9696,
-    "badge": "high",
+    "phonetic": "/'si:nik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scenic&type=2",
+    "definition_en": "s. used of locations; having beautiful natural scenery\\na. of or relating to the stage or stage scenery",
+    "definition_zh": "a. 风景好的, 戏剧性的, 舞台的, 布景的； n. 风光影片, 风景照片",
+    "frq": 8163,
+    "composite_rank": 9763,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Territorial is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "本土自卫队队员是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Scenic is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "风光影片是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Territorial to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访本土自卫队队员，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "harding",
-    "word": "harding",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'hɑ:diŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=harding&type=2",
-    "definition_en": "n. 29th President of the United States; two of his appointees were involved in the Teapot Dome scandal (1865-1823)",
-    "definition_zh": "n. 哈丁（姓氏）；哈丁（美国前总统）",
-    "frq": 14979,
-    "composite_rank": 9736,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Harding is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "哈丁是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Harding to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访哈丁，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Scenic to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访风光影片，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -5875,6 +6075,31 @@
     ]
   },
   {
+    "id": "dude",
+    "word": "dude",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/dju:d/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dude&type=2",
+    "definition_en": "n an informal form of address for a man\\nn a man who is much concerned with his dress and appearance",
+    "definition_zh": "n.<美国、加拿大>纨绔子弟，花花公子； <俚>男人，家伙； vt.<俚>打扮得讲究或花哨",
+    "frq": 8373,
+    "composite_rank": 10014,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Dude is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "美国是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Dude to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访美国，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "vancouver",
     "word": "Vancouver",
     "part_of_speech": "noun",
@@ -5925,27 +6150,27 @@
     ]
   },
   {
-    "id": "chapel",
-    "word": "chapel",
+    "id": "yen",
+    "word": "yen",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'tʃæpәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chapel&type=2",
-    "definition_en": "n. a place of worship that has its own altar",
-    "definition_zh": "n. 小教堂, 礼拜式",
-    "frq": 7252,
-    "composite_rank": 10356,
-    "badge": "high",
+    "phonetic": "/jen/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=yen&type=2",
+    "definition_en": "n. the basic unit of money in Japan; equal to 100 sen",
+    "definition_zh": "n. 日元(日本货币单位), 渴望, 嗜好； vi. 渴望",
+    "frq": 10461,
+    "composite_rank": 10335,
+    "badge": "core",
     "examples": [
       {
-        "en": "Chapel is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "小教堂是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Yen is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "日元是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Chapel to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访小教堂，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Yen to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访日元，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -6025,6 +6250,81 @@
     ]
   },
   {
+    "id": "fbi",
+    "word": "FBI",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/fbi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fbi&type=2",
+    "definition_en": "n a federal law enforcement agency that is the principal investigative arm of the Department of Justice",
+    "definition_zh": "美国联邦调查局； 美国联邦调查局",
+    "frq": 12777,
+    "composite_rank": 10733,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Fbi is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "美国联邦调查局是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Fbi to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访美国联邦调查局，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "peking",
+    "word": "peking",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'pi:kiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=peking&type=2",
+    "definition_en": "n capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city",
+    "definition_zh": "n. 北京",
+    "frq": 10739,
+    "composite_rank": 10739,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Peking is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "北京是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Peking to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访北京，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "abc",
+    "word": "ABC",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'eibi:'si:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=abc&type=2",
+    "definition_en": "n the elementary stages of any subject (usually plural)",
+    "definition_zh": "预定章程, 美国广播公司, 澳大利亚广播公司, 字母表, 基础知识； 记帐预算计价系统, 通用插件板计算机, 美国广播公司, 自动编码系统",
+    "frq": 12798,
+    "composite_rank": 10750,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Abc is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "预定章程是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Abc to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访预定章程，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "fortress",
     "word": "fortress",
     "part_of_speech": "noun",
@@ -6050,77 +6350,202 @@
     ]
   },
   {
-    "id": "plaza",
-    "word": "plaza",
+    "id": "nasa",
+    "word": "NASA",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'plɑ:zә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=plaza&type=2",
-    "definition_en": "n. a public square with room for pedestrians\\nn. mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace",
-    "definition_zh": "n. 广场, 市场, 购物区",
-    "frq": 7095,
-    "composite_rank": 11097,
-    "badge": "normal",
+    "phonetic": "/'næsә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nasa&type=2",
+    "definition_en": "n an independent agency of the United States government responsible for aviation and spaceflight",
+    "definition_zh": "国家航空和宇宙航行局(美国)； 国际航空和太空总署的同义字",
+    "frq": 13017,
+    "composite_rank": 10934,
+    "badge": "high",
     "examples": [
       {
-        "en": "Plaza is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "广场是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Nasa is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "国家航空和宇宙航行局是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Plaza to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访广场，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Nasa to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访国家航空和宇宙航行局，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "augusta",
-    "word": "augusta",
+    "id": "notch",
+    "word": "notch",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/ɔ:'^ʌstә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=augusta&type=2",
-    "definition_en": "n. the capital of the state of Maine\\nn. a city in eastern Georgia north-northwest of Savannah; noted for golf tournaments",
-    "definition_zh": "n. 奥古斯塔（美国一城市名）",
-    "frq": 17712,
-    "composite_rank": 11513,
-    "badge": "core",
+    "phonetic": "/nɒtʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=notch&type=2",
+    "definition_en": "n. a V-shaped indentation\\nn. a V-shaped or U-shaped indentation carved or scratched into a surface\\nn. a small cut\\nv. cut or make a notch into",
+    "definition_zh": "n. 刻痕, 等级, 峡谷； vt. 刻凹痕, 用刻痕计算, 赢得",
+    "frq": 9472,
+    "composite_rank": 11329,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Augusta is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "奥古斯塔是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Notch is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "刻痕是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Augusta to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访奥古斯塔，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Notch to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访刻痕，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "scenic",
-    "word": "scenic",
+    "id": "caste",
+    "word": "caste",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'si:nik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scenic&type=2",
-    "definition_en": "s. used of locations; having beautiful natural scenery\\na. of or relating to the stage or stage scenery",
-    "definition_zh": "a. 风景好的, 戏剧性的, 舞台的, 布景的； n. 风光影片, 风景照片",
-    "frq": 8163,
-    "composite_rank": 12767,
+    "phonetic": "/kæst. kɑ:st/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=caste&type=2",
+    "definition_en": "n. social status or position conferred by a system based on class\\nn. (Hinduism) a hereditary social class among Hindus; stratified according to ritual purity\\nn. a social class separated from others by distinctions of hereditary rank or profession or wealth\\nn. in some social insects (such as ants) a physically distinct individual or group of individuals specialized to perform certain functions in the colony",
+    "definition_zh": "n. 印度的种姓制度, (排他的)社会团体",
+    "frq": 10508,
+    "composite_rank": 11475,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Caste is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "印度的种姓制度是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Caste to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访印度的种姓制度，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "bs",
+    "word": "bs",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/bs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bs&type=2",
+    "definition_en": "n a bachelor's degree in science\\nn aerobic rod-shaped spore-producing bacterium; often occurring in chainlike formations; found primarily in soil\\nn originally thought to be a single vitamin but now separated into several B vitamins\\nn a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder\\nn a logarithmic unit of sound intensity equal to 10 decibels\\nn (physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter\\nn the 2nd letter of the Roman alphabet\\nn the blood group whose red cells carry the B antigen",
+    "definition_zh": "理学士； 退格, 退位, 英国标准, 商用系统",
+    "frq": 12517,
+    "composite_rank": 11516,
     "badge": "normal",
     "examples": [
       {
-        "en": "Scenic is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "风光影片是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Bs is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "理学士是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Scenic to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访风光影片，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Bs to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访理学士，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "frenchman",
+    "word": "Frenchman",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'frentʃmәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=frenchman&type=2",
+    "definition_en": "n. a person of French nationality",
+    "definition_zh": "n. 法国人",
+    "frq": 11653,
+    "composite_rank": 11653,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Frenchman is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "法国人是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Frenchman to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访法国人，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "waterfront",
+    "word": "waterfront",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'wɔ:tәfrʌnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=waterfront&type=2",
+    "definition_en": "n. the area of a city (such as a harbor or dockyard) alongside a body of water",
+    "definition_zh": "n. 水边, 滨水区, 滩, 海滨, 江边",
+    "frq": 9915,
+    "composite_rank": 11858,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Waterfront is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "水边是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Waterfront to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访水边，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "oasis",
+    "word": "oasis",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/әu'eisis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=oasis&type=2",
+    "definition_en": "n. a fertile tract in a desert (where the water table approaches the surface)",
+    "definition_zh": "n. 绿洲, 舒适的地方； 绿洲(沙漠中), 健岛(病变区中的健康组织)",
+    "frq": 10318,
+    "composite_rank": 12340,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Oasis is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "绿洲是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Oasis to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访绿洲，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "delta",
+    "word": "delta",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'deltә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=delta&type=2",
+    "definition_en": "n. a low triangular area of alluvial deposits where a river divides before entering a larger body of water\\nn. an object shaped like an equilateral triangle\\nn. the 4th letter of the Greek alphabet",
+    "definition_zh": "n. 三角洲, 希腊字母的第四个字； δ(希腊文的第四个字母), 丁种, 三角, 三角形区",
+    "frq": 10451,
+    "composite_rank": 12499,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Delta is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "三角洲是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Delta to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访三角洲，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -6146,31 +6571,6 @@
       {
         "en": "Travelers from across the globe visit Oslo to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访奥斯陆，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "borders",
-    "word": "borders",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'bɔ:dәz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=borders&type=2",
-    "definition_en": "n a line that indicates a boundary\\nn the boundary line or the area immediately inside the boundary\\nn the boundary of a surface\\nn a decorative recessed or relieved surface on an edge\\nn a strip forming the outer edge of something\\nv extend on all sides of simultaneously; encircle\\nv form the boundary of; be contiguous to\\nv enclose in or as if in a frame\\nv provide with a border or edge\\nv lie adjacent to another or share a boundary",
-    "definition_zh": "n. 边界；边缘地区（border的复数）",
-    "frq": 13025,
-    "composite_rank": 13025,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Borders is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "边界是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Borders to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访边界，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -6225,31 +6625,6 @@
     ]
   },
   {
-    "id": "yen",
-    "word": "yen",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/jen/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=yen&type=2",
-    "definition_en": "n. the basic unit of money in Japan; equal to 100 sen",
-    "definition_zh": "n. 日元(日本货币单位), 渴望, 嗜好； vi. 渴望",
-    "frq": 10461,
-    "composite_rank": 13516,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Yen is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "日元是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Yen to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访日元，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "mongolia",
     "word": "Mongolia",
     "part_of_speech": "noun",
@@ -6275,27 +6650,77 @@
     ]
   },
   {
-    "id": "indies",
-    "word": "indies",
+    "id": "wi",
+    "word": "wi",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'indiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=indies&type=2",
-    "definition_en": "n a pop group not affiliated with a major record company\\nn an independent film company not associated with an established studio",
-    "definition_zh": "n. 印度地方, 西印度群岛",
-    "frq": 6196,
-    "composite_rank": 13631,
+    "phonetic": "/wi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wi&type=2",
+    "definition_en": "n a midwestern state in north central United States",
+    "definition_zh": "abbr. 熟铁（Wrought Iron）；妇女协会（Women 's Institute）；西印度群岛（West Indies）",
+    "frq": 13607,
+    "composite_rank": 13607,
     "badge": "normal",
     "examples": [
       {
-        "en": "Indies is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "印度地方是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Wi is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "熟铁是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Indies to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访印度地方，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Wi to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访熟铁，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "ravine",
+    "word": "ravine",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/rә'vi:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ravine&type=2",
+    "definition_en": "n. a deep narrow steep-sided valley (especially one formed by running water)",
+    "definition_zh": "n. 峡谷, 冲沟, 溪谷",
+    "frq": 11413,
+    "composite_rank": 13650,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Ravine is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "峡谷是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Ravine to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访峡谷，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "cascade",
+    "word": "cascade",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/kæ'skeid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cascade&type=2",
+    "definition_en": "n. a small waterfall or series of small waterfalls\\nn. a succession of stages or operations or processes or units\\nv. rush down in big quantities, like a cascade\\nv. arrange (open windows) on a computer desktop so that they overlap each other, with the title bars visible",
+    "definition_zh": "n. 小瀑布, 瀑布状物； vi. 成瀑布落下； 层叠, 级联",
+    "frq": 11599,
+    "composite_rank": 13872,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cascade is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "小瀑布是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Cascade to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访小瀑布，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -6400,127 +6825,352 @@
     ]
   },
   {
-    "id": "notch",
-    "word": "notch",
+    "id": "gorge",
+    "word": "gorge",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/nɒtʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=notch&type=2",
-    "definition_en": "n. a V-shaped indentation\\nn. a V-shaped or U-shaped indentation carved or scratched into a surface\\nn. a small cut\\nv. cut or make a notch into",
-    "definition_zh": "n. 刻痕, 等级, 峡谷； vt. 刻凹痕, 用刻痕计算, 赢得",
-    "frq": 9472,
-    "composite_rank": 14814,
+    "phonetic": "/gɒ:dʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gorge&type=2",
+    "definition_en": "n. a deep ravine (usually with a river running through it)\\nv. overeat or eat immodestly; make a pig of oneself",
+    "definition_zh": "n. 峡谷, 凹槽, 塞饱, 咽喉； vi. 狼吞虎咽； vt. 塞饱, 狼吞虎咽地吃",
+    "frq": 12154,
+    "composite_rank": 14536,
     "badge": "normal",
     "examples": [
       {
-        "en": "Notch is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "刻痕是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Gorge is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "峡谷是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Notch to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访刻痕，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Gorge to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访峡谷，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "caste",
-    "word": "caste",
+    "id": "fascism",
+    "word": "fascism",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/kæst. kɑ:st/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=caste&type=2",
-    "definition_en": "n. social status or position conferred by a system based on class\\nn. (Hinduism) a hereditary social class among Hindus; stratified according to ritual purity\\nn. a social class separated from others by distinctions of hereditary rank or profession or wealth\\nn. in some social insects (such as ants) a physically distinct individual or group of individuals specialized to perform certain functions in the colony",
-    "definition_zh": "n. 印度的种姓制度, (排他的)社会团体",
-    "frq": 10508,
-    "composite_rank": 15005,
+    "phonetic": "/'fæʃizm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fascism&type=2",
+    "definition_en": "n. a political theory advocating an authoritarian hierarchical government (as opposed to democracy or liberalism)",
+    "definition_zh": "n. 法西斯主义, 极端国家主义",
+    "frq": 13360,
+    "composite_rank": 14589,
     "badge": "high",
     "examples": [
       {
-        "en": "Caste is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "印度的种姓制度是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Fascism is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "法西斯主义是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Caste to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访印度的种姓制度，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Fascism to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访法西斯主义，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "gi",
-    "word": "gi",
+    "id": "briton",
+    "word": "Briton",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'britәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=briton&type=2",
+    "definition_en": "n. an inhabitant of southern Britain prior to the Anglo-Saxon invasions\\na. characteristic of or associated with the Britons",
+    "definition_zh": "n. 大不列颠人, 英国人",
+    "frq": 13551,
+    "composite_rank": 14798,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Briton is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "大不列颠人是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Briton to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访大不列颠人，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "harding",
+    "word": "harding",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'hɑ:diŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=harding&type=2",
+    "definition_en": "n. 29th President of the United States; two of his appointees were involved in the Teapot Dome scandal (1865-1823)",
+    "definition_zh": "n. 哈丁（姓氏）；哈丁（美国前总统）",
+    "frq": 14979,
+    "composite_rank": 14979,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Harding is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "哈丁是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Harding to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访哈丁，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "transatlantic",
+    "word": "transatlantic",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/.trænsәt'læntik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=transatlantic&type=2",
+    "definition_en": "a. crossing the Atlantic Ocean",
+    "definition_zh": "a. 横渡大西洋的, 大西洋彼岸的, 美国的",
+    "frq": 12565,
+    "composite_rank": 15028,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Transatlantic is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "横渡大西洋的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Transatlantic to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访横渡大西洋的，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "parmesan",
+    "word": "Parmesan",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'pɑ:mizæn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=parmesan&type=2",
+    "definition_en": "n. hard dry sharp-flavored Italian cheese; often grated",
+    "definition_zh": "n. 帕尔马干酪(意大利产)",
+    "frq": 12650,
+    "composite_rank": 15129,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Parmesan is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "帕尔马干酪是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Parmesan to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访帕尔马干酪，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "orleans",
+    "word": "orleans",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/ɔ:'liәnz, 'ɔ:l-/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=orleans&type=2",
+    "definition_en": "n. a city on the Loire river in north central France; site of the siege of Orleans by the English (1428-1429)\\nn. a long siege of Orleans by the English was relieved by Joan of Arc in 1429",
+    "definition_zh": "n. 奥尔良（法国城市）",
+    "frq": 15204,
+    "composite_rank": 15204,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Orleans is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "奥尔良是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Orleans to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访奥尔良，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "meander",
+    "word": "meander",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/mi'ændә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=meander&type=2",
+    "definition_en": "n. a bend or curve, as in a stream or river",
+    "definition_zh": "n. (河流的)蜿蜒, 漫步, 迂回旅行； vi. 蜿蜒流动, 漫步； vt. 使蜿蜒曲折",
+    "frq": 12806,
+    "composite_rank": 15316,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Meander is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "蜿蜒是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Meander to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访蜿蜒，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "upland",
+    "word": "upland",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'ʌplәnd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=upland&type=2",
+    "definition_en": "a. used of high or hilly country",
+    "definition_zh": "n. 山地, 高地, 高原； a. 高地的, 山地的",
+    "frq": 13478,
+    "composite_rank": 16120,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Upland is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "山地是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Upland to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访山地，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "guru",
+    "word": "guru",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/dʒi: 'ai/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gi&type=2",
-    "definition_en": "n a unit of magnetomotive force equal to 0.7958 ampere-turns\\ni clean in preparation for inspection\\na of or relating to the stomach and intestines",
-    "definition_zh": "a. 军用的；美国军人的",
-    "frq": 7476,
-    "composite_rank": 15131,
+    "phonetic": "/'guru:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=guru&type=2",
+    "definition_en": "n. a Hindu or Buddhist religious leader and spiritual teacher\\nn. each of the first ten leaders of the Sikh religion\\nn. a recognized leader in some field or of some movement",
+    "definition_zh": "n. 古鲁(印度教导师)； 柯拉子",
+    "frq": 8024,
+    "composite_rank": 16241,
     "badge": "normal",
     "examples": [
       {
-        "en": "Gi is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "军用的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Guru is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "古鲁是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Gi to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访军用的，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Guru to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访古鲁，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "waterfront",
-    "word": "waterfront",
+    "id": "jupiter",
+    "word": "Jupiter",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'wɔ:tәfrʌnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=waterfront&type=2",
-    "definition_en": "n. the area of a city (such as a harbor or dockyard) alongside a body of water",
-    "definition_zh": "n. 水边, 滨水区, 滩, 海滨, 江边",
-    "frq": 9915,
-    "composite_rank": 15507,
+    "phonetic": "/'dʒu:pitә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jupiter&type=2",
+    "definition_en": "n. the largest planet and the 5th from the sun; has many satellites and is one of the brightest objects in the night sky\\nn. (Roman mythology) supreme god of Romans; counterpart of Greek Zeus",
+    "definition_zh": "n. 朱庇物(罗马神话中的主神), 木星",
+    "frq": 12719,
+    "composite_rank": 16535,
     "badge": "normal",
     "examples": [
       {
-        "en": "Waterfront is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "水边是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Jupiter is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "朱庇物是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Waterfront to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访水边，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Jupiter to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访朱庇物，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "oasis",
-    "word": "oasis",
+    "id": "urbanization",
+    "word": "urbanization",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/әu'eisis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=oasis&type=2",
-    "definition_en": "n. a fertile tract in a desert (where the water table approaches the surface)",
-    "definition_zh": "n. 绿洲, 舒适的地方； 绿洲(沙漠中), 健岛(病变区中的健康组织)",
-    "frq": 10318,
-    "composite_rank": 16137,
+    "phonetic": "/.ә:bәnai'zeiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=urbanization&type=2",
+    "definition_en": "n. the condition of being urbanized\\nn. the social process whereby cities grow and societies become more urban",
+    "definition_zh": "n. 都市化； 都市化, 人口城市集中",
+    "frq": 13960,
+    "composite_rank": 16696,
     "badge": "normal",
     "examples": [
       {
-        "en": "Oasis is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "绿洲是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Urbanization is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "都市化是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Oasis to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访绿洲，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Urbanization to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访都市化，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "monumental",
+    "word": "monumental",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/.mɒnju'mentәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=monumental&type=2",
+    "definition_en": "a. relating or belonging to or serving as a monument\\ns. of outstanding significance",
+    "definition_zh": "a. 纪念碑的, 做为纪念的, 不朽的",
+    "frq": 8275,
+    "composite_rank": 16749,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Monumental is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "纪念碑的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Monumental to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访纪念碑的，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "glacial",
+    "word": "glacial",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'gleiʃәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=glacial&type=2",
+    "definition_en": "a. relating to or derived from a glacier",
+    "definition_zh": "a. 冰的, 冰川的, 冰川时代的, 冰冷的； 冰的, 冰样的",
+    "frq": 14042,
+    "composite_rank": 16794,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Glacial is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "冰的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Glacial to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访冰的，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -6575,27 +7225,27 @@
     ]
   },
   {
-    "id": "winters",
-    "word": "winters",
+    "id": "augusta",
+    "word": "augusta",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/winters/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=winters&type=2",
-    "definition_en": "n the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox\\nv spend the winter",
-    "definition_zh": "n. 温特斯（加利福尼亚州城市）；温特斯（美国警察剧系列）",
-    "frq": 27323,
-    "composite_rank": 17760,
-    "badge": "core",
+    "phonetic": "/ɔ:'^ʌstә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=augusta&type=2",
+    "definition_en": "n. the capital of the state of Maine\\nn. a city in eastern Georgia north-northwest of Savannah; noted for golf tournaments",
+    "definition_zh": "n. 奥古斯塔（美国一城市名）",
+    "frq": 17712,
+    "composite_rank": 17712,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Winters is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "温特斯是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Augusta is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "奥古斯塔是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Winters to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访温特斯，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Augusta to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访奥古斯塔，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -6625,102 +7275,52 @@
     ]
   },
   {
-    "id": "cascade",
-    "word": "cascade",
+    "id": "mozzarella",
+    "word": "mozzarella",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/kæ'skeid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cascade&type=2",
-    "definition_en": "n. a small waterfall or series of small waterfalls\\nn. a succession of stages or operations or processes or units\\nv. rush down in big quantities, like a cascade\\nv. arrange (open windows) on a computer desktop so that they overlap each other, with the title bars visible",
-    "definition_zh": "n. 小瀑布, 瀑布状物； vi. 成瀑布落下； 层叠, 级联",
-    "frq": 11599,
-    "composite_rank": 18141,
+    "phonetic": "/.mɒtsә'relә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mozzarella&type=2",
+    "definition_en": "n. mild white Italian cheese",
+    "definition_zh": "n. 莫泽雷勒干酪(意大利产)",
+    "frq": 14518,
+    "composite_rank": 18873,
     "badge": "normal",
     "examples": [
       {
-        "en": "Cascade is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "小瀑布是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Mozzarella is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "莫泽雷勒干酪是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Cascade to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访小瀑布，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Mozzarella to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访莫泽雷勒干酪，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "gorge",
-    "word": "gorge",
+    "id": "pundit",
+    "word": "pundit",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "C2",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/gɒ:dʒ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gorge&type=2",
-    "definition_en": "n. a deep ravine (usually with a river running through it)\\nv. overeat or eat immodestly; make a pig of oneself",
-    "definition_zh": "n. 峡谷, 凹槽, 塞饱, 咽喉； vi. 狼吞虎咽； vt. 塞饱, 狼吞虎咽地吃",
-    "frq": 12154,
-    "composite_rank": 19009,
+    "phonetic": "/'pʌndit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pundit&type=2",
+    "definition_en": "n someone who has been admitted to membership in a scholarly field",
+    "definition_zh": "n. 学者, 梵文学者, 博学的印度人, 权威",
+    "frq": 9705,
+    "composite_rank": 19643,
     "badge": "normal",
     "examples": [
       {
-        "en": "Gorge is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "峡谷是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Pundit is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "学者是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Gorge to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访峡谷，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "midwest",
-    "word": "midwest",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/midwest/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=midwest&type=2",
-    "definition_en": "n. the north central region of the United States (sometimes called the heartland or the breadbasket of America)",
-    "definition_zh": "n. (美国的)中西部； 中西部",
-    "frq": 26642,
-    "composite_rank": 19609,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Midwest is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "中西部是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Midwest to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访中西部，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "transatlantic",
-    "word": "transatlantic",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/.trænsәt'læntik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=transatlantic&type=2",
-    "definition_en": "a. crossing the Atlantic Ocean",
-    "definition_zh": "a. 横渡大西洋的, 大西洋彼岸的, 美国的",
-    "frq": 12565,
-    "composite_rank": 19652,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Transatlantic is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "横渡大西洋的是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Transatlantic to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访横渡大西洋的，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Pundit to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访学者，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -6825,77 +7425,102 @@
     ]
   },
   {
-    "id": "rivers",
-    "word": "rivers",
+    "id": "cheddar",
+    "word": "cheddar",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/rivers/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=rivers&type=2",
-    "definition_en": "n a large natural stream of water (larger than a creek)",
-    "definition_zh": "n. 里弗斯（人名）；河流州（尼日利亚州名）；河水钻",
-    "frq": 12622,
-    "composite_rank": 21457,
+    "phonetic": "/'tʃedә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cheddar&type=2",
+    "definition_en": "n. a village in southwestern England where cheddar cheese was first made\\nn. hard smooth-textured cheese; originally made in Cheddar in southwestern England",
+    "definition_zh": "n. 坚实细腻的黄色干酪； 赛达酪(英国产的一种干酪)",
+    "frq": 17212,
+    "composite_rank": 26920,
     "badge": "normal",
     "examples": [
       {
-        "en": "Rivers is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "里弗斯是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Cheddar is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "坚实细腻的黄色干酪是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Rivers to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访里弗斯，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Cheddar to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访坚实细腻的黄色干酪，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "hills",
-    "word": "hills",
+    "id": "chateau",
+    "word": "chateau",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/hills/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hills&type=2",
-    "definition_en": "n a local and well-defined elevation of the land\\nn structure consisting of an artificial heap or bank usually of earth or stones\\nn United States railroad tycoon (1838-1916)\\nn risque English comedian (1925-1992)\\nn (baseball) the slight elevation on which the pitcher stands\\nv form into a hill",
-    "definition_zh": "n. 丘陵（hill的复数形式）",
-    "frq": 36229,
-    "composite_rank": 23549,
-    "badge": "core",
+    "phonetic": "/ʃæ'tәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chateau&type=2",
+    "definition_en": "n. an impressive country house (or castle) in France",
+    "definition_zh": "n. 城堡",
+    "frq": 17389,
+    "composite_rank": 27196,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Hills is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "丘陵是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Chateau is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "城堡是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Hills to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访丘陵，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Chateau to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访城堡，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "peking",
-    "word": "peking",
+    "id": "winters",
+    "word": "winters",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'pi:kiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=peking&type=2",
-    "definition_en": "n capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city",
-    "definition_zh": "n. 北京",
-    "frq": 10739,
-    "composite_rank": 23626,
+    "phonetic": "/winters/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=winters&type=2",
+    "definition_en": "n the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox\\nv spend the winter",
+    "definition_zh": "n. 温特斯（加利福尼亚州城市）；温特斯（美国警察剧系列）",
+    "frq": 27323,
+    "composite_rank": 27323,
     "badge": "normal",
     "examples": [
       {
-        "en": "Peking is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "北京是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Winters is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "温特斯是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Peking to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访北京，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Winters to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访温特斯，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "mete",
+    "word": "mete",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/mi:t/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mete&type=2",
+    "definition_en": "n a line that indicates a boundary",
+    "definition_zh": "vt. 量, 测量, 分配； n. 边界, 界石",
+    "frq": 18736,
+    "composite_rank": 29303,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Mete is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "边界是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Mete to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访边界，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -6903,7 +7528,7 @@
     "id": "vanished",
     "word": "vanished",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/vanished/",
@@ -6911,7 +7536,7 @@
     "definition_en": "s. having passed out of existence",
     "definition_zh": "n. 销声匿迹, 无影无踪（美国电视连续剧剧名）",
     "frq": 18181,
-    "composite_rank": 23635,
+    "composite_rank": 30908,
     "badge": "normal",
     "examples": [
       {
@@ -6925,102 +7550,52 @@
     ]
   },
   {
-    "id": "subcontinent",
-    "word": "subcontinent",
+    "id": "pensioner",
+    "word": "pensioner",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/sʌb'kɒntinәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=subcontinent&type=2",
-    "definition_en": "n. a large and distinctive landmass (as India or Greenland) that is a distinct part of some continent",
-    "definition_zh": "n. 次大陆",
-    "frq": 19733,
-    "composite_rank": 25653,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Subcontinent is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "次大陆是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Subcontinent to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访次大陆，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "delaware",
-    "word": "delaware",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'delәweә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=delaware&type=2",
-    "definition_en": "n. a river that rises in the Catskills in southeastern New York and flows southward along the border of Pennsylvania with New York and New Jersey to northern Delaware where it empties into Delaware Bay\\nn. a member of an Algonquian people formerly living in New Jersey and New York and parts of Delaware and Pennsylvania\\nn. one of the British colonies that formed the United States",
-    "definition_zh": "n. 特拉华(美国州名)",
-    "frq": 33287,
-    "composite_rank": 26630,
+    "phonetic": "/'penʃәnә(r)/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pensioner&type=2",
+    "definition_en": "n. the beneficiary of a pension fund",
+    "definition_zh": "n. 领取抚恤金者, (英国剑桥大学的)自费生, 为金钱所收买的人, 帮佣； 领取退休金者, 领取抚恤金者",
+    "frq": 21916,
+    "composite_rank": 31296,
     "badge": "high",
     "examples": [
       {
-        "en": "Delaware is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "特拉华是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Pensioner is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "领取抚恤金者是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Delaware to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访特拉华，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Pensioner to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访领取抚恤金者，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "judo",
-    "word": "judo",
+    "id": "citadel",
+    "word": "citadel",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'dʒu:dәu/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=judo&type=2",
-    "definition_en": "n. a sport adapted from jujitsu (using principles of not resisting) and similar to wrestling; developed in Japan",
-    "definition_zh": "n. 柔道； 揉术, 柔道(日本的一种武术)",
-    "frq": 22628,
-    "composite_rank": 27063,
+    "phonetic": "/'sitәdәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=citadel&type=2",
+    "definition_en": "n a stronghold into which people could go for shelter during a battle",
+    "definition_zh": "n. 城堡, 避难处",
+    "frq": 20138,
+    "composite_rank": 31496,
     "badge": "normal",
     "examples": [
       {
-        "en": "Judo is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "柔道是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Citadel is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "城堡是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Judo to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访柔道，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "wi",
-    "word": "wi",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/wi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wi&type=2",
-    "definition_en": "n a midwestern state in north central United States",
-    "definition_zh": "abbr. 熟铁（Wrought Iron）；妇女协会（Women 's Institute）；西印度群岛（West Indies）",
-    "frq": 13607,
-    "composite_rank": 29935,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Wi is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "熟铁是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Wi to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访熟铁，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Citadel to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访城堡，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -7050,302 +7625,52 @@
     ]
   },
   {
-    "id": "americans",
-    "word": "americans",
+    "id": "delaware",
+    "word": "delaware",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/americans/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=americans&type=2",
-    "definition_en": "n a native or inhabitant of the United States\\nn the English language as used in the United States\\nn a native or inhabitant of a North American or Central American or South American country",
-    "definition_zh": "n. 美国人（American的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Americans is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "美国人是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Americans to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访美国人，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "churches",
-    "word": "churches",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/tʃə:tʃiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=churches&type=2",
-    "definition_en": "n one of the groups of Christians who have their own beliefs and forms of worship\\nn a place for public (especially Christian) worship\\nn a service conducted in a house of worship\\nn the body of people who attend or belong to a particular local church\\nv perform a special church rite or service for",
-    "definition_zh": "n. （基督教的）教堂( church的名词复数 ); 礼拜仪式; 教派; 基督教牧师",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Churches is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "教堂是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Churches to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访教堂，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "gets",
-    "word": "gets",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/gets/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gets&type=2",
-    "definition_en": "n a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\\nv come into the possession of something concrete or abstract\\nv enter or assume a certain state or condition\\nv cause to move; cause to be in a certain position or condition\\nv receive a specified treatment (abstract)\\nv reach a destination; arrive by movement or progress\\nv go or come after and bring or take back\\nv go through (mental or physical states or experiences)\\nv take vengeance on or get even\\nv achieve a point or goal\\nv cause to do; cause to act in a specified manner\\nv succeed in catching or seizing, especially after a chase\\nv come to have or undergo a change of (physical features and attributes)\\nv be stricken by an illness, fall victim to an illness\\nv communicate with a place or person; establish communication with, as if by telephone\\nv give certain properties to something\\nv move into a desired direction of discourse\\nv grasp with the mind or develop an understanding of\\nv attract and fix\\nv reach with a blow or hit in a particular spot\\nv reach by calculation\\nv acquire as a result of some effort or action\\nv purchase\\nv perceive by hearing\\nv suffer from the receipt of\\nv receive as a retribution or punishment\\nv leave immediately; used usually in the imperative form\\nv reach and board\\nv irritate\\nv evoke an emotional response\\nv apprehend and reproduce accurately\\nv earn or achieve a base by being walked by the pitcher\\nv overcome or destroy\\nv be a mystery or bewildering to\\nv take the first step or steps in carrying out an action\\nv undergo (as of injuries and illnesses)\\nv make children",
-    "definition_zh": "abbr. 政府电子贸易服务（Government Electronic Tendering Service）；美国政府应急电信服务（Government Emergency Telecommunications Service）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Gets is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "政府电子贸易服务是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Gets to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访政府电子贸易服务，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "islands",
-    "word": "islands",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/islands/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=islands&type=2",
-    "definition_en": "n a land mass (smaller than a continent) that is surrounded by water\\nn a zone or area resembling an island",
-    "definition_zh": "n. 岛屿；群岛（island的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Islands is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "岛屿是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Islands to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访岛屿，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "mountains",
-    "word": "mountains",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/mountains/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mountains&type=2",
-    "definition_en": "n a land mass that projects well above its surroundings; higher than a hill\\nn (often followed by `of') a large number or amount or extent",
-    "definition_zh": "n. 山脉；山区；山岳（mountain的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Mountains is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "山脉是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Mountains to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访山脉，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "pays",
-    "word": "pays",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/pays/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pays&type=2",
-    "definition_en": "n something that remunerates\\nv give money, usually in exchange for goods or services\\nv convey, as of a compliment, regards, attention, etc.; bestow\\nv cancel or discharge a debt\\nv bring in\\nv do or give something to somebody in return\\nv dedicate\\nv be worth it\\nv render\\nv bear (a cost or penalty), in recompense for some action\\nv make a compensation for\\nv discharge or settle",
-    "definition_zh": "n. 报酬（pay的复数）；（法）国家",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Pays is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "报酬是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Pays to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访报酬，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "sights",
-    "word": "sights",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/sights/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sights&type=2",
-    "definition_en": "n. an optical instrument for aiding the eye in aiming, as on a firearm or surveying instrument",
-    "definition_zh": "n. 风景, 名胜；视野（sight的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Sights is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "风景是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Sights to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访风景，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "springs",
-    "word": "springs",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/springs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=springs&type=2",
-    "definition_en": "n the season of growth\\nn a metal elastic device that returns to its shape or position when pushed or pulled or pressed\\nn a natural flow of ground water\\nn a point at which water issues forth\\nn the elasticity of something that can be stretched and returns to its original length\\nn a light, self-propelled movement upwards or forwards\\nv move forward by leaps and bounds\\nv develop into a distinctive entity\\nv spring back; spring away from an impact\\nv develop suddenly\\nv produce or disclose suddenly or unexpectedly",
-    "definition_zh": "n. 斯普林斯（南非东部城市名）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Springs is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "斯普林斯是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Springs to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访斯普林斯，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "streets",
-    "word": "streets",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/stri:ts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=streets&type=2",
-    "definition_en": "n a thoroughfare (usually including sidewalks) that is lined with buildings\\nn the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel\\nn the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction\\nn a situation offering opportunities\\nn people living or working on the same street",
-    "definition_zh": "n. 街道；市区；城市道路（street的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Streets is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "街道是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Streets to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访街道，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "towns",
-    "word": "towns",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/towns/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=towns&type=2",
-    "definition_en": "n an urban area with a fixed boundary that is smaller than a city\\nn the people living in a municipality smaller than a city\\nn an administrative division of a county\\nn United States architect who was noted for his design and construction of truss bridges (1784-1844)",
-    "definition_zh": "n. 汤斯",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Towns is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "汤斯是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Towns to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访汤斯，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "worlds",
-    "word": "worlds",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/wɜː(r)ldz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=worlds&type=2",
-    "definition_en": "n. everything that exists anywhere\\nn. people in general; especially a distinctive group of people with some shared interest\\nn. all of your experiences that determine how things appear to you",
-    "definition_zh": "n. 世界( world的复数形式 ); 人世; 世间; 尘世",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Worlds is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "世界是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Worlds to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访世界，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "orleans",
-    "word": "orleans",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/ɔ:'liәnz, 'ɔ:l-/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=orleans&type=2",
-    "definition_en": "n. a city on the Loire river in north central France; site of the siege of Orleans by the English (1428-1429)\\nn. a long siege of Orleans by the English was relieved by Joan of Arc in 1429",
-    "definition_zh": "n. 奥尔良（法国城市）",
-    "frq": 15204,
-    "composite_rank": 33449,
+    "phonetic": "/'delәweә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=delaware&type=2",
+    "definition_en": "n. a river that rises in the Catskills in southeastern New York and flows southward along the border of Pennsylvania with New York and New Jersey to northern Delaware where it empties into Delaware Bay\\nn. a member of an Algonquian people formerly living in New Jersey and New York and parts of Delaware and Pennsylvania\\nn. one of the British colonies that formed the United States",
+    "definition_zh": "n. 特拉华(美国州名)",
+    "frq": 33287,
+    "composite_rank": 33287,
     "badge": "normal",
     "examples": [
       {
-        "en": "Orleans is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "奥尔良是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Delaware is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "特拉华是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Orleans to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访奥尔良，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Delaware to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访特拉华，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "subcontinent",
+    "word": "subcontinent",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/sʌb'kɒntinәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=subcontinent&type=2",
+    "definition_en": "n. a large and distinctive landmass (as India or Greenland) that is a distinct part of some continent",
+    "definition_zh": "n. 次大陆",
+    "frq": 19733,
+    "composite_rank": 33546,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Subcontinent is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "次大陆是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Subcontinent to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访次大陆，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -7371,6 +7696,31 @@
       {
         "en": "Travelers from across the globe visit Oceania to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访大洋洲，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "judo",
+    "word": "judo",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'dʒu:dәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=judo&type=2",
+    "definition_en": "n. a sport adapted from jujitsu (using principles of not resisting) and similar to wrestling; developed in Japan",
+    "definition_zh": "n. 柔道； 揉术, 柔道(日本的一种武术)",
+    "frq": 22628,
+    "composite_rank": 35390,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Judo is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "柔道是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Judo to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访柔道，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -7425,6 +7775,31 @@
     ]
   },
   {
+    "id": "vicar",
+    "word": "vicar",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'vikә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vicar&type=2",
+    "definition_en": "n. a Roman Catholic priest who acts for another higher-ranking clergyman\\nn. (Episcopal Church) a clergyman in charge of a chapel\\nn. (Church of England) a clergyman appointed to act as priest of a parish",
+    "definition_zh": "n. 教区牧师, 教堂主持, 代理人； 代表, 代理牧师, 代理主教",
+    "frq": 21524,
+    "composite_rank": 39776,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Vicar is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "教区牧师是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Vicar to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访教区牧师，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "hong kong",
     "word": "Hong Kong",
     "part_of_speech": "noun",
@@ -7450,56 +7825,6 @@
     ]
   },
   {
-    "id": "landscapes",
-    "word": "landscapes",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/ˈlændskeips/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=landscapes&type=2",
-    "definition_en": "n an expanse of scenery that can be seen in a single view\\nn painting depicting an expanse of natural scenery\\nn a genre of art dealing with the depiction of natural scenery\\nn an extensive mental viewpoint\\nv embellish with plants\\nv do landscape gardening",
-    "definition_zh": "n. 风景( landscape的名词复数 ); 风景画; 乡村风景画; 地形",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Landscapes is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "风景是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Landscapes to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访风景，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "makers",
-    "word": "makers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/makers/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=makers&type=2",
-    "definition_en": "n a person who makes things\\nn terms referring to the Judeo-Christian God\\nn a business engaged in manufacturing some product",
-    "definition_zh": "n. 迈克（美国一家公司）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Makers is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "迈克是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Makers to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访迈克，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "middle east",
     "word": "Middle East",
     "part_of_speech": "noun",
@@ -7521,31 +7846,6 @@
       {
         "en": "Travelers from across the globe visit Middle east to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访中东，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "nations",
-    "word": "nations",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/nations/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nations&type=2",
-    "definition_en": "n a politically organized body of people under a single government\\nn the people who live in a nation or country\\nn United States prohibitionist who raided saloons and destroyed bottles of liquor with a hatchet (1846-1911)\\nn a federation of tribes (especially Native American tribes)",
-    "definition_zh": "n. 国家（nation的复数）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Nations is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "国家是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Nations to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访国家，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -7625,31 +7925,6 @@
     ]
   },
   {
-    "id": "shores",
-    "word": "shores",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/ʃɔ:z/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=shores&type=2",
-    "definition_en": "n the land along the edge of a body of water\\nn a beam or timber that is propped against a structure to provide support\\nv serve as a shore to\\nv arrive on shore\\nv support by placing against something solid or rigid",
-    "definition_zh": "n. 岸, 滨( shore的名词复数 ); 国家（尤指濒海国家）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Shores is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "岸是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Shores to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访岸，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "south africa",
     "word": "South Africa",
     "part_of_speech": "noun",
@@ -7700,127 +7975,127 @@
     ]
   },
   {
-    "id": "squares",
-    "word": "squares",
+    "id": "midwest",
+    "word": "midwest",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/squares/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=squares&type=2",
-    "definition_en": "n (geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon\\nn the product of two equal terms\\nn an open area at the meeting of two or more streets\\nn something approximating the shape of a square\\nn someone who doesn't understand what is going on\\nn a formal and conservative person with old-fashioned views\\nn any artifact having a shape similar to a plane geometric figure with four equal sides and four right angles\\nn a hand tool consisting of two straight arms at right angles; used to construct or test right angles\\nv make square\\nv raise to the second power\\nv cause to match, as of ideas or acts\\nv position so as to be square\\nv be compatible with\\nv pay someone and settle a debt\\nv turn the paddle; in canoeing\\nv turn the oar, while rowing",
-    "definition_zh": "n. 广场；方钢；直角尺；正方形（square的复数形式）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Squares is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "广场是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Squares to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访广场，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "villages",
-    "word": "villages",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'vɪlɪdʒəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=villages&type=2",
-    "definition_en": "n. a community of people smaller than a town\\nn. a settlement smaller than a town\\nn. a mainly residential district of Manhattan; `the Village' became a home for many writers and artists in the 20th century",
-    "definition_zh": "n. 村( village的复数形式 ); 乡村; 村庄; 村镇",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Villages is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "村是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Villages to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访村，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "gook",
-    "word": "gook",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'guk/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gook&type=2",
-    "definition_en": "n. (slang) a disparaging term for an Asian person (especially for North Vietnamese soldiers in the Vietnam War)",
-    "definition_zh": "n. 污物, 粘性物质, 畸形人, 亚洲佬(对韩、日等国人的轻蔑称呼)",
-    "frq": 31247,
-    "composite_rank": 40621,
+    "phonetic": "/midwest/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=midwest&type=2",
+    "definition_en": "n. the north central region of the United States (sometimes called the heartland or the breadbasket of America)",
+    "definition_zh": "n. (美国的)中西部； 中西部",
+    "frq": 26642,
+    "composite_rank": 41668,
     "badge": "normal",
     "examples": [
       {
-        "en": "Gook is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "污物是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Midwest is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "中西部是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Gook to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访污物，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Midwest to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访中西部，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "basins",
-    "word": "basins",
+    "id": "pizzeria",
+    "word": "pizzeria",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/pi:tsә'ri:ә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pizzeria&type=2",
+    "definition_en": "n. a shop where pizzas are made and sold",
+    "definition_zh": "n. 匹萨饼店, 意大利肉饼店",
+    "frq": 25512,
+    "composite_rank": 43370,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Pizzeria is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "匹萨饼店是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Pizzeria to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访匹萨饼店，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "cay",
+    "word": "cay",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/kei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cay&type=2",
+    "definition_en": "n a coral reef off the southern coast of Florida",
+    "definition_zh": "n. 沙礁, 珊瑚礁, 沙洲",
+    "frq": 25895,
+    "composite_rank": 44022,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cay is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "沙礁是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Cay to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访沙礁，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "alliances",
+    "word": "alliances",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'beɪsnz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=basins&type=2",
-    "definition_en": "n. a bowl-shaped vessel; usually used for holding food or liquids\\nn. the quantity that a basin will hold\\nn. a natural depression in the surface of the land often with a lake at the bottom of it",
-    "definition_zh": "n. 盆( basin的复数形式 ); 盆地; 流域; 港池",
+    "phonetic": "/əˈlaiənsiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=alliances&type=2",
+    "definition_en": "n. the state of being allied or confederated\\nn. a connection based on kinship or marriage or common interest\\nn. an organization of people (or countries) involved in a pact or treaty",
+    "definition_zh": "n. （国家、政党等的）结盟( alliance的复数形式 ); 同盟国; 结盟的社会; 联姻",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Basins is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "盆是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Alliances is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "结盟是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Basins to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访盆，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Alliances to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访结盟，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "boundaries",
-    "word": "boundaries",
+    "id": "allies",
+    "word": "allies",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/'baʊndri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=boundaries&type=2",
-    "definition_en": "pl.  of Boundary",
-    "definition_zh": "n. 分界线( boundary的名词复数 ); 范围; 使球越过边界线的击球（得加分）; 疆界",
+    "phonetic": "/'ælaiz, ә'laiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=allies&type=2",
+    "definition_en": "n. the alliance of nations that fought the Axis in World War II and which (with subsequent additions) signed the charter of the United Nations in 1945\\nn. in World War I the alliance of Great Britain and France and Russia and all the other nations that became allied with them in opposing the Central Powers\\nn. an alliance of nations joining together to fight a common enemy",
+    "definition_zh": "n. （第一次世界大战时的）协约国；（第二次世界大战时的）同盟国",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Boundaries is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "分界线是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Allies is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "协约国是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Boundaries to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访分界线，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Allies to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访协约国，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -7850,27 +8125,52 @@
     ]
   },
   {
-    "id": "districts",
-    "word": "districts",
+    "id": "crores",
+    "word": "crores",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/ˈdistrikts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=districts&type=2",
-    "definition_en": "n a region marked off for administrative or other purposes\\nv regulate housing in; of certain areas of towns",
-    "definition_zh": "n. 地区( district的名词复数 ); （为行政、司法、选举、教育等目的而划分的国家、州或县的）区; 选区; 英国教区的分区",
+    "phonetic": "/krɔː/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=crores&type=2",
+    "definition_en": "n. the number that is represented as a one followed by 7 zeros; ten million",
+    "definition_zh": "n. 一千万卢比（印度英语）",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Districts is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "地区是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Crores is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "一千万卢比是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Districts to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访地区，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Crores to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访一千万卢比，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "deputies",
+    "word": "deputies",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/ˈdepjutiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=deputies&type=2",
+    "definition_en": "pl.  of Deputy",
+    "definition_zh": "n. 副手( deputy的名词复数 ); 代理人; （某些国家的）议员; （美国协助地方治安官办案的）警官",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Deputies is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "副手是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Deputies to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访副手，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -7900,6 +8200,106 @@
     ]
   },
   {
+    "id": "floodgates",
+    "word": "floodgates",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/f'lʌdɡeɪts/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=floodgates&type=2",
+    "definition_en": "n. something that restrains a flood or outpouring\\nn. regulator consisting of a valve or gate that controls the rate of water flow through a sluice",
+    "definition_zh": "n. （江河或湖泊的）防洪闸（门）, （泄）水闸门( floodgate的复数形式 )",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Floodgates is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "防洪闸是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Floodgates to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访防洪闸，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "gets",
+    "word": "gets",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/gets/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gets&type=2",
+    "definition_en": "n a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\\nv come into the possession of something concrete or abstract\\nv enter or assume a certain state or condition\\nv cause to move; cause to be in a certain position or condition\\nv receive a specified treatment (abstract)\\nv reach a destination; arrive by movement or progress\\nv go or come after and bring or take back\\nv go through (mental or physical states or experiences)\\nv take vengeance on or get even\\nv achieve a point or goal\\nv cause to do; cause to act in a specified manner\\nv succeed in catching or seizing, especially after a chase\\nv come to have or undergo a change of (physical features and attributes)\\nv be stricken by an illness, fall victim to an illness\\nv communicate with a place or person; establish communication with, as if by telephone\\nv give certain properties to something\\nv move into a desired direction of discourse\\nv grasp with the mind or develop an understanding of\\nv attract and fix\\nv reach with a blow or hit in a particular spot\\nv reach by calculation\\nv acquire as a result of some effort or action\\nv purchase\\nv perceive by hearing\\nv suffer from the receipt of\\nv receive as a retribution or punishment\\nv leave immediately; used usually in the imperative form\\nv reach and board\\nv irritate\\nv evoke an emotional response\\nv apprehend and reproduce accurately\\nv earn or achieve a base by being walked by the pitcher\\nv overcome or destroy\\nv be a mystery or bewildering to\\nv take the first step or steps in carrying out an action\\nv undergo (as of injuries and illnesses)\\nv make children",
+    "definition_zh": "abbr. 政府电子贸易服务（Government Electronic Tendering Service）；美国政府应急电信服务（Government Emergency Telecommunications Service）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Gets is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "政府电子贸易服务是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Gets to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访政府电子贸易服务，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "lansing",
+    "word": "lansing",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'lænsiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lansing&type=2",
+    "definition_en": "n. capital of the state of Michigan; located in southern Michigan on the Grand River",
+    "definition_zh": "n. 兰辛（美国密执根州首府）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Lansing is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "兰辛是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Lansing to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访兰辛，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "liberals",
+    "word": "liberals",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/ˈlibərəlz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=liberals&type=2",
+    "definition_en": "n. a person who favors a political philosophy of progress and reform and the protection of civil liberties\\nn. a person who favors an economic theory of laissez-faire and self-regulating markets",
+    "definition_zh": "n. 自由主义者( liberal的复数形式 ); 宽容大度的人; 支持（社会、政治或宗教）变革的人; （旧时）英国自由党成员",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Liberals is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "自由主义者是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Liberals to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访自由主义者，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
     "id": "limitations",
     "word": "limitations",
     "part_of_speech": "noun",
@@ -7925,52 +8325,52 @@
     ]
   },
   {
-    "id": "limits",
-    "word": "limits",
+    "id": "makers",
+    "word": "makers",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/limits/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=limits&type=2",
-    "definition_en": "n the greatest possible degree of something\\nn final or latest limiting point\\nn as far as something can go\\nn the boundary of a specific area\\nn the mathematical value toward which a function goes as the independent variable approaches infinity\\nn the greatest amount of something that is possible or allowed\\nv place limits on (extent or access)\\nv restrict or confine, \"I limit you to two visits to the pub a day\"\\nv decide upon or fix definitely",
-    "definition_zh": "n. 范围；领土；极限（limit的复数）",
+    "phonetic": "/makers/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=makers&type=2",
+    "definition_en": "n a person who makes things\\nn terms referring to the Judeo-Christian God\\nn a business engaged in manufacturing some product",
+    "definition_zh": "n. 迈克（美国一家公司）",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Limits is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "范围是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Makers is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "迈克是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Limits to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访范围，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Makers to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访迈克，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "monuments",
-    "word": "monuments",
+    "id": "nobles",
+    "word": "nobles",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/ˈmɔnjumənts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=monuments&type=2",
-    "definition_en": "n. a structure erected to commemorate persons or events\\nn. an important site that is marked and preserved as public property\\nn. a burial vault (usually for some famous person)",
-    "definition_zh": "n. 纪念碑( monument的复数形式 ); 遗迹; 遗址; 丰碑",
+    "phonetic": "/ˈnəublz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nobles&type=2",
+    "definition_en": "n. a titled peer of the realm",
+    "definition_zh": "n. 尊贵的人( noble的复数形式 ); （中世纪后期的）英国金币（约合英国旧币六先令八便士或半马克）; （英国）爵士",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Monuments is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "纪念碑是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Nobles is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "尊贵的人是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Monuments to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访纪念碑，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Nobles to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访尊贵的人，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -8000,52 +8400,27 @@
     ]
   },
   {
-    "id": "plains",
-    "word": "plains",
+    "id": "pays",
+    "word": "pays",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/pleinz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=plains&type=2",
-    "definition_en": "n extensive tract of level open land\\nn a basic knitting stitch\\nv express complaints, discontent, displeasure, or unhappiness",
-    "definition_zh": "n. 平地, 平原（plain的复数）",
+    "phonetic": "/pays/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pays&type=2",
+    "definition_en": "n something that remunerates\\nv give money, usually in exchange for goods or services\\nv convey, as of a compliment, regards, attention, etc.; bestow\\nv cancel or discharge a debt\\nv bring in\\nv do or give something to somebody in return\\nv dedicate\\nv be worth it\\nv render\\nv bear (a cost or penalty), in recompense for some action\\nv make a compensation for\\nv discharge or settle",
+    "definition_zh": "n. 报酬（pay的复数）；（法）国家",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Plains is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "平地是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Pays is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "报酬是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Plains to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访平地，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "ports",
-    "word": "ports",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/ports/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ports&type=2",
-    "definition_en": "n a place (seaport or airport) where people and merchandise can enter or leave a country\\nn sweet dark-red dessert wine originally from Portugal\\nn an opening (in a wall or ship or armored vehicle) for firing through\\nn the left side of a ship or aircraft to someone who is aboard and facing the bow or nose\\nn (computer science) computer circuit consisting of the hardware and associated circuitry that links one device with another (especially a computer and a hard disk drive or other peripherals)\\nv put or turn on the left side, of a ship\\nv bring to port\\nv land at or reach a port\\nv turn or go to the port or left side, of a ship\\nv carry, bear, convey, or bring\\nv carry or hold with both hands diagonally across the body, especially of weapons\\nv drink port\\nv modify (software) for use on a different machine or platform",
-    "definition_zh": "n. 港口, 端口（port的复数）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Ports is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "港口是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Ports to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访港口，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Pays to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访报酬，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -8075,31 +8450,6 @@
     ]
   },
   {
-    "id": "ranges",
-    "word": "ranges",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/ranges/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ranges&type=2",
-    "definition_en": "n an area in which something acts or operates or has power or control: \"the range of a supersonic jet\"\\nn the limits within which something can be effective\\nn a large tract of grassy open land on which livestock can graze\\nn a series of hills or mountains\\nn a place for shooting (firing or driving) projectiles of various kinds\\nn a variety of different things or activities\\nn (mathematics) the set of values of the dependent variable for which a function is defined\\nn the limit of capability\\nn a kitchen appliance used for cooking food\\nv change or be different within limits\\nv move about aimlessly or without any destination, often in search of food or employment\\nv have a range; be capable of projecting over a certain distance, as of a gun\\nv range or extend over; occupy a certain area\\nv lay out orderly or logically in a line or as if in a line\\nv feed as in a meadow or pasture\\nv let eat\\nv assign a rank or rating to",
-    "definition_zh": "n. 量程, 范围；山脉（range的复数）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Ranges is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "量程是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Ranges to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访量程，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "relationships",
     "word": "relationships",
     "part_of_speech": "noun",
@@ -8121,6 +8471,131 @@
       {
         "en": "Travelers from across the globe visit Relationships to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访关系，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "shillings",
+    "word": "shillings",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/'ʃɪlɪŋz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shillings&type=2",
+    "definition_en": "n. the basic unit of money in Uganda; equal to 100 cents\\nn. the basic unit of money in Tanzania; equal to 100 cents\\nn. the basic unit of money in Somalia; equal to 100 cents",
+    "definition_zh": "n. 先令（英国1971年以前的货币单位, 为一镑的二十分之一）( shilling的复数形式 )",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Shillings is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "先令是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Shillings to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访先令，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "shores",
+    "word": "shores",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/ʃɔ:z/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shores&type=2",
+    "definition_en": "n the land along the edge of a body of water\\nn a beam or timber that is propped against a structure to provide support\\nv serve as a shore to\\nv arrive on shore\\nv support by placing against something solid or rigid",
+    "definition_zh": "n. 岸, 滨( shore的名词复数 ); 国家（尤指濒海国家）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Shores is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "岸是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Shores to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访岸，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "spaniards",
+    "word": "spaniards",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/ˈspænjədz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spaniards&type=2",
+    "definition_en": "n. a native or inhabitant of Spain",
+    "definition_zh": "n. 西班牙人, 西班牙居民( Spaniard的复数形式 )",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Spaniards is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "西班牙人是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Spaniards to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访西班牙人，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "springs",
+    "word": "springs",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/springs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=springs&type=2",
+    "definition_en": "n the season of growth\\nn a metal elastic device that returns to its shape or position when pushed or pulled or pressed\\nn a natural flow of ground water\\nn a point at which water issues forth\\nn the elasticity of something that can be stretched and returns to its original length\\nn a light, self-propelled movement upwards or forwards\\nv move forward by leaps and bounds\\nv develop into a distinctive entity\\nv spring back; spring away from an impact\\nv develop suddenly\\nv produce or disclose suddenly or unexpectedly",
+    "definition_zh": "n. 斯普林斯（南非东部城市名）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Springs is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "斯普林斯是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Springs to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访斯普林斯，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "streets",
+    "word": "streets",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/stri:ts/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=streets&type=2",
+    "definition_en": "n a thoroughfare (usually including sidewalks) that is lined with buildings\\nn the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel\\nn the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction\\nn a situation offering opportunities\\nn people living or working on the same street",
+    "definition_zh": "n. 街道；市区；城市道路（street的复数形式）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Streets is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "街道是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Streets to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访街道，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -8150,202 +8625,52 @@
     ]
   },
   {
-    "id": "frontiers",
-    "word": "frontiers",
+    "id": "worlds",
+    "word": "worlds",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/ˈfrʌnˌtiəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=frontiers&type=2",
-    "definition_en": "n a wilderness at the edge of a settled area of a country\\nn an international boundary or the area (often fortified) immediately inside the boundary\\nn an undeveloped field of study; a topic inviting research and development",
-    "definition_zh": "n. 边界( frontier的名词复数 ); 边境; 开发地区的边缘; 尚待开发的领域",
+    "phonetic": "/wɜː(r)ldz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=worlds&type=2",
+    "definition_en": "n. everything that exists anywhere\\nn. people in general; especially a distinctive group of people with some shared interest\\nn. all of your experiences that determine how things appear to you",
+    "definition_zh": "n. 世界( world的复数形式 ); 人世; 世间; 尘世",
     "frq": 50000,
-    "composite_rank": 54600,
-    "badge": "high",
+    "composite_rank": 50000,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Frontiers is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "边界是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Worlds is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "世界是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Frontiers to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访边界，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Worlds to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访世界，亲身体验其秀丽名胜。"
       }
     ]
   },
   {
-    "id": "cay",
-    "word": "cay",
+    "id": "gook",
+    "word": "gook",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
-    "phonetic": "/kei/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cay&type=2",
-    "definition_en": "n a coral reef off the southern coast of Florida",
-    "definition_zh": "n. 沙礁, 珊瑚礁, 沙洲",
-    "frq": 25895,
-    "composite_rank": 56969,
+    "phonetic": "/'guk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gook&type=2",
+    "definition_en": "n. (slang) a disparaging term for an Asian person (especially for North Vietnamese soldiers in the Vietnam War)",
+    "definition_zh": "n. 污物, 粘性物质, 畸形人, 亚洲佬(对韩、日等国人的轻蔑称呼)",
+    "frq": 31247,
+    "composite_rank": 53120,
     "badge": "normal",
     "examples": [
       {
-        "en": "Cay is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "沙礁是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+        "en": "Gook is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "污物是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
       },
       {
-        "en": "Travelers from across the globe visit Cay to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访沙礁，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "alliances",
-    "word": "alliances",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/əˈlaiənsiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=alliances&type=2",
-    "definition_en": "n. the state of being allied or confederated\\nn. a connection based on kinship or marriage or common interest\\nn. an organization of people (or countries) involved in a pact or treaty",
-    "definition_zh": "n. （国家、政党等的）结盟( alliance的复数形式 ); 同盟国; 结盟的社会; 联姻",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Alliances is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "结盟是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Alliances to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访结盟，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "allies",
-    "word": "allies",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'ælaiz, ә'laiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=allies&type=2",
-    "definition_en": "n. the alliance of nations that fought the Axis in World War II and which (with subsequent additions) signed the charter of the United Nations in 1945\\nn. in World War I the alliance of Great Britain and France and Russia and all the other nations that became allied with them in opposing the Central Powers\\nn. an alliance of nations joining together to fight a common enemy",
-    "definition_zh": "n. （第一次世界大战时的）协约国；（第二次世界大战时的）同盟国",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Allies is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "协约国是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Allies to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访协约国，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "deputies",
-    "word": "deputies",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/ˈdepjutiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=deputies&type=2",
-    "definition_en": "pl.  of Deputy",
-    "definition_zh": "n. 副手( deputy的名词复数 ); 代理人; （某些国家的）议员; （美国协助地方治安官办案的）警官",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Deputies is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "副手是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Deputies to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访副手，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "liberals",
-    "word": "liberals",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/ˈlibərəlz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=liberals&type=2",
-    "definition_en": "n. a person who favors a political philosophy of progress and reform and the protection of civil liberties\\nn. a person who favors an economic theory of laissez-faire and self-regulating markets",
-    "definition_zh": "n. 自由主义者( liberal的复数形式 ); 宽容大度的人; 支持（社会、政治或宗教）变革的人; （旧时）英国自由党成员",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Liberals is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "自由主义者是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Liberals to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访自由主义者，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "nobles",
-    "word": "nobles",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/ˈnəublz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nobles&type=2",
-    "definition_en": "n. a titled peer of the realm",
-    "definition_zh": "n. 尊贵的人( noble的复数形式 ); （中世纪后期的）英国金币（约合英国旧币六先令八便士或半马克）; （英国）爵士",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Nobles is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "尊贵的人是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Nobles to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访尊贵的人，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "territories",
-    "word": "territories",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/ˈteritəriz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=territories&type=2",
-    "definition_en": "pl.  of Territory",
-    "definition_zh": "n. 领土( territory的名词复数 ); （某人负责的）地区; （个人、群体、动物等占据的）领域; 地盘",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Territories is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "领土是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Territories to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访领土，亲身体验其秀丽名胜。"
+        "en": "Travelers from across the globe visit Gook to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访污物，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -8353,7 +8678,7 @@
     "id": "minster",
     "word": "minster",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "地理地名、国家城市与名胜景点",
     "category": "geography_places",
     "phonetic": "/'minstә/",
@@ -8361,7 +8686,7 @@
     "definition_en": "n. any of certain cathedrals and large churches; originally connected to a monastery",
     "definition_zh": "n. 修道院附属的教堂, 大教堂",
     "frq": 35415,
-    "composite_rank": 77913,
+    "composite_rank": 60206,
     "badge": "normal",
     "examples": [
       {
@@ -8371,6 +8696,31 @@
       {
         "en": "Travelers from across the globe visit Minster to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访修道院附属的教堂，亲身体验其秀丽名胜。"
+      }
+    ]
+  },
+  {
+    "id": "topographically",
+    "word": "topographically",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "地理地名、国家城市与名胜景点",
+    "category": "geography_places",
+    "phonetic": "/topographically/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=topographically&type=2",
+    "definition_en": "r. with regard to topography",
+    "definition_zh": "adv. 从地形上；在地形构造方面",
+    "frq": 39887,
+    "composite_rank": 67808,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Topographically is a world-renowned destination with unique cultural and natural appeal.",
+        "zh": "从地形上是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
+      },
+      {
+        "en": "Travelers from across the globe visit Topographically to experience its scenic landmarks.",
+        "zh": "来自世界各地的旅行者到访从地形上，亲身体验其秀丽名胜。"
       }
     ]
   },
@@ -8400,81 +8750,6 @@
     ]
   },
   {
-    "id": "cities",
-    "word": "cities",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/cities/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cities&type=2",
-    "definition_en": "n a large and densely populated urban area; may include several independent administrative districts\\nn an incorporated administrative district established by state charter\\nn people living in a large densely populated municipality",
-    "definition_zh": "n. 城市（city的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Cities is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "城市是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Cities to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访城市，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "countries",
-    "word": "countries",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/countries/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=countries&type=2",
-    "definition_en": "n a politically organized body of people under a single government\\nn the territory occupied by a nation\\nn the people who live in a nation or country\\nn an area outside of cities and towns\\nn a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)",
-    "definition_zh": "国家（country的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Countries is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "国家是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Countries to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访国家，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "lakes",
-    "word": "lakes",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/lakes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=lakes&type=2",
-    "definition_en": "n a body of (usually fresh) water surrounded by land\\nn a purplish red pigment prepared from lac or cochineal\\nn any of numerous bright translucent organic pigments",
-    "definition_zh": "n. 色淀；湖泊, 湖畔",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Lakes is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "色淀是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Lakes to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访色淀，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
     "id": "sites",
     "word": "sites",
     "part_of_speech": "noun",
@@ -8496,181 +8771,6 @@
       {
         "en": "Travelers from across the globe visit Sites to experience its scenic landmarks.",
         "zh": "来自世界各地的旅行者到访遗址，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "temples",
-    "word": "temples",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/temples/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=temples&type=2",
-    "definition_en": "n place of worship consisting of an edifice for the worship of a deity\\nn the flat area on either side of the forehead\\nn an edifice devoted to special or exalted purposes\\nn (Judaism) the place of worship for a Jewish congregation",
-    "definition_zh": "n. 边撑, 伸幅器；寺庙（temple的复数形式）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Temples is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "边撑是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Temples to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访边撑，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "topographically",
-    "word": "topographically",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/topographically/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=topographically&type=2",
-    "definition_en": "r. with regard to topography",
-    "definition_zh": "adv. 从地形上；在地形构造方面",
-    "frq": 39887,
-    "composite_rank": 87751,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Topographically is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "从地形上是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Topographically to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访从地形上，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "crores",
-    "word": "crores",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/krɔː/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=crores&type=2",
-    "definition_en": "n. the number that is represented as a one followed by 7 zeros; ten million",
-    "definition_zh": "n. 一千万卢比（印度英语）",
-    "frq": 50000,
-    "composite_rank": 110000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Crores is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "一千万卢比是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Crores to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访一千万卢比，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "floodgates",
-    "word": "floodgates",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/f'lʌdɡeɪts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=floodgates&type=2",
-    "definition_en": "n. something that restrains a flood or outpouring\\nn. regulator consisting of a valve or gate that controls the rate of water flow through a sluice",
-    "definition_zh": "n. （江河或湖泊的）防洪闸（门）, （泄）水闸门( floodgate的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 110000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Floodgates is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "防洪闸是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Floodgates to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访防洪闸，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "lansing",
-    "word": "lansing",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'lænsiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=lansing&type=2",
-    "definition_en": "n. capital of the state of Michigan; located in southern Michigan on the Grand River",
-    "definition_zh": "n. 兰辛（美国密执根州首府）",
-    "frq": 50000,
-    "composite_rank": 110000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Lansing is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "兰辛是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Lansing to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访兰辛，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "shillings",
-    "word": "shillings",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/'ʃɪlɪŋz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=shillings&type=2",
-    "definition_en": "n. the basic unit of money in Uganda; equal to 100 cents\\nn. the basic unit of money in Tanzania; equal to 100 cents\\nn. the basic unit of money in Somalia; equal to 100 cents",
-    "definition_zh": "n. 先令（英国1971年以前的货币单位, 为一镑的二十分之一）( shilling的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 110000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Shillings is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "先令是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Shillings to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访先令，亲身体验其秀丽名胜。"
-      }
-    ]
-  },
-  {
-    "id": "spaniards",
-    "word": "spaniards",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "地理地名、国家城市与名胜景点",
-    "category": "geography_places",
-    "phonetic": "/ˈspænjədz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spaniards&type=2",
-    "definition_en": "n. a native or inhabitant of Spain",
-    "definition_zh": "n. 西班牙人, 西班牙居民( Spaniard的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 110000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Spaniards is a world-renowned destination with unique cultural and natural appeal.",
-        "zh": "西班牙人是享誉世界的著名胜地，拥有独特的文化与自然魅力。"
-      },
-      {
-        "en": "Travelers from across the globe visit Spaniards to experience its scenic landmarks.",
-        "zh": "来自世界各地的旅行者到访西班牙人，亲身体验其秀丽名胜。"
       }
     ]
   }

@@ -525,6 +525,56 @@
     ]
   },
   {
+    "id": "confidence",
+    "word": "confidence",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'kɒnfidәns/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=confidence&type=2",
+    "definition_en": "n. a feeling of trust (in someone or something)\\nn. a state of confident hopefulness that events will be favorable\\nn. a trustful relationship\\nn. a secret that is confided or entrusted to another",
+    "definition_zh": "n. 信心； 可靠",
+    "frq": 1870,
+    "composite_rank": 712,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable confidence is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的信心被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine confidence inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的信心赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "capacity",
+    "word": "capacity",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/kә'pæsiti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=capacity&type=2",
+    "definition_en": "n. capability to perform or produce\\nn. the amount that can be contained\\nn. the maximum production possible\\nn. a specified function",
+    "definition_zh": "n. 容量, 能力, 才能, 资格； 容量",
+    "frq": 1777,
+    "composite_rank": 756,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable capacity is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的容量被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine capacity inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的容量赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "manner",
     "word": "manner",
     "part_of_speech": "noun",
@@ -625,31 +675,6 @@
     ]
   },
   {
-    "id": "confidence",
-    "word": "confidence",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'kɒnfidәns/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=confidence&type=2",
-    "definition_en": "n. a feeling of trust (in someone or something)\\nn. a state of confident hopefulness that events will be favorable\\nn. a trustful relationship\\nn. a secret that is confided or entrusted to another",
-    "definition_zh": "n. 信心； 可靠",
-    "frq": 1870,
-    "composite_rank": 890,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable confidence is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的信心被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine confidence inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的信心赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
     "id": "spiritual",
     "word": "spiritual",
     "part_of_speech": "noun",
@@ -675,6 +700,31 @@
     ]
   },
   {
+    "id": "carefully",
+    "word": "carefully",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'kєәfuli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=carefully&type=2",
+    "definition_en": "r. taking care or paying attention",
+    "definition_zh": "adv. 小心地, 谨慎地",
+    "frq": 1603,
+    "composite_rank": 898,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable carefully is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的小心地被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine carefully inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的小心地赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "stupid",
     "word": "stupid",
     "part_of_speech": "noun",
@@ -696,31 +746,6 @@
       {
         "en": "Her genuine stupid inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的愚蠢的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "capacity",
-    "word": "capacity",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/kә'pæsiti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=capacity&type=2",
-    "definition_en": "n. capability to perform or produce\\nn. the amount that can be contained\\nn. the maximum production possible\\nn. a specified function",
-    "definition_zh": "n. 容量, 能力, 才能, 资格； 容量",
-    "frq": 1777,
-    "composite_rank": 945,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable capacity is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的容量被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine capacity inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的容量赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -800,6 +825,56 @@
     ]
   },
   {
+    "id": "liberal",
+    "word": "liberal",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'libәrәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=liberal&type=2",
+    "definition_en": "n. a person who favors a political philosophy of progress and reform and the protection of civil liberties\\nn. a person who favors an economic theory of laissez-faire and self-regulating markets\\ns. having political or social views favoring reform and progress\\na. tolerant of change; not bound by authoritarianism, orthodoxy, or tradition",
+    "definition_zh": "n. 自由主义者； a. 慷慨的, 不拘泥的, 宽大的, 自由主义的",
+    "frq": 1993,
+    "composite_rank": 1084,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable liberal is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的自由主义者被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine liberal inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的自由主义者赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "talent",
+    "word": "talent",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'tælәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=talent&type=2",
+    "definition_en": "n. a person who possesses unusual innate ability in some field or activity",
+    "definition_zh": "n. 天才, 才能, 有才干的人, 天资",
+    "frq": 2030,
+    "composite_rank": 1104,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable talent is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的天才被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine talent inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的天才赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "wise",
     "word": "wise",
     "part_of_speech": "noun",
@@ -821,31 +896,6 @@
       {
         "en": "Her genuine wise inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的方法赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "carefully",
-    "word": "carefully",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'kєәfuli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=carefully&type=2",
-    "definition_en": "r. taking care or paying attention",
-    "definition_zh": "adv. 小心地, 谨慎地",
-    "frq": 1603,
-    "composite_rank": 1122,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable carefully is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的小心地被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine carefully inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的小心地赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -946,56 +996,6 @@
       {
         "en": "Her genuine curious inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的好奇的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "liberal",
-    "word": "liberal",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'libәrәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=liberal&type=2",
-    "definition_en": "n. a person who favors a political philosophy of progress and reform and the protection of civil liberties\\nn. a person who favors an economic theory of laissez-faire and self-regulating markets\\ns. having political or social views favoring reform and progress\\na. tolerant of change; not bound by authoritarianism, orthodoxy, or tradition",
-    "definition_zh": "n. 自由主义者； a. 慷慨的, 不拘泥的, 宽大的, 自由主义的",
-    "frq": 1993,
-    "composite_rank": 1355,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable liberal is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的自由主义者被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine liberal inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的自由主义者赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "talent",
-    "word": "talent",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'tælәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=talent&type=2",
-    "definition_en": "n. a person who possesses unusual innate ability in some field or activity",
-    "definition_zh": "n. 天才, 才能, 有才干的人, 天资",
-    "frq": 2030,
-    "composite_rank": 1380,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable talent is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的天才被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine talent inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的天才赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -1225,6 +1225,56 @@
     ]
   },
   {
+    "id": "modest",
+    "word": "modest",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'mɒdist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=modest&type=2",
+    "definition_en": "a. marked by simplicity; having a humble opinion of yourself\\ns. not large but sufficient in size or amount\\ns. free from pomp or affectation\\na. not offensive to sexual mores in conduct or appearance",
+    "definition_zh": "a. 谦逊的, 羞怯的, 端庄的, 适度的； 适当的",
+    "frq": 3101,
+    "composite_rank": 1885,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable modest is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的谦逊的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine modest inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的谦逊的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "characterize",
+    "word": "characterize",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'kærәktәraiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=characterize&type=2",
+    "definition_en": "v. be characteristic of",
+    "definition_zh": "vt. 描绘...的特性, 刻划...的性格",
+    "frq": 2859,
+    "composite_rank": 1921,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable characterize is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的描绘的特性被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine characterize inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的描绘的特性赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "gently",
     "word": "gently",
     "part_of_speech": "noun",
@@ -1300,6 +1350,31 @@
     ]
   },
   {
+    "id": "reliable",
+    "word": "reliable",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ri'laiәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=reliable&type=2",
+    "definition_en": "a. worthy of reliance or trust",
+    "definition_zh": "a. 可靠的, 可信赖的； 可靠的, 可信赖的, 确实的",
+    "frq": 3504,
+    "composite_rank": 2130,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable reliable is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的可靠的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine reliable inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的可靠的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "frozen",
     "word": "frozen",
     "part_of_speech": "noun",
@@ -1321,31 +1396,6 @@
       {
         "en": "Her genuine frozen inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的冻结的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "modest",
-    "word": "modest",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'mɒdist/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=modest&type=2",
-    "definition_en": "a. marked by simplicity; having a humble opinion of yourself\\ns. not large but sufficient in size or amount\\ns. free from pomp or affectation\\na. not offensive to sexual mores in conduct or appearance",
-    "definition_zh": "a. 谦逊的, 羞怯的, 端庄的, 适度的； 适当的",
-    "frq": 3101,
-    "composite_rank": 2357,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable modest is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的谦逊的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine modest inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的谦逊的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -1375,52 +1425,27 @@
     ]
   },
   {
-    "id": "characterize",
-    "word": "characterize",
+    "id": "handsome",
+    "word": "handsome",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'kærәktәraiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=characterize&type=2",
-    "definition_en": "v. be characteristic of",
-    "definition_zh": "vt. 描绘...的特性, 刻划...的性格",
-    "frq": 2859,
-    "composite_rank": 2402,
-    "badge": "core",
+    "phonetic": "/'hænsәm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=handsome&type=2",
+    "definition_en": "s pleasing in appearance especially by reason of conformity to ideals of form and proportion\\ns given or giving freely",
+    "definition_zh": "a. 英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏的",
+    "frq": 3838,
+    "composite_rank": 2579,
+    "badge": "high",
     "examples": [
       {
-        "en": "Demonstrating remarkable characterize is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的描绘的特性被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable handsome is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的英俊的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine characterize inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的描绘的特性赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "reliable",
-    "word": "reliable",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/ri'laiәbl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=reliable&type=2",
-    "definition_en": "a. worthy of reliance or trust",
-    "definition_zh": "a. 可靠的, 可信赖的； 可靠的, 可信赖的, 确实的",
-    "frq": 3504,
-    "composite_rank": 2663,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable reliable is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的可靠的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine reliable inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的可靠的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine handsome inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的英俊的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -1471,31 +1496,6 @@
       {
         "en": "Her genuine freely inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的自由地赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "loving",
-    "word": "loving",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'lʌviŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=loving&type=2",
-    "definition_en": "a. feeling or showing love and affection",
-    "definition_zh": "a. 亲爱的, 钟情的, 忠诚的",
-    "frq": 5168,
-    "composite_rank": 2822,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable loving is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的亲爱的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine loving inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的亲爱的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -1575,6 +1575,56 @@
     ]
   },
   {
+    "id": "optimistic",
+    "word": "optimistic",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/.ɒpti'mistik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=optimistic&type=2",
+    "definition_en": "a. expecting the best in this best of all possible worlds",
+    "definition_zh": "a. 乐观的, 乐观主义的, 乐天的",
+    "frq": 4141,
+    "composite_rank": 3048,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable optimistic is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的乐观的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine optimistic inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的乐观的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "wolf",
+    "word": "wolf",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/wulf/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wolf&type=2",
+    "definition_en": "n. any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs\\nn. Austrian composer (1860-1903)\\nn. German classical scholar who claimed that the Iliad and Odyssey were composed by several authors (1759-1824)\\nn. a man who is aggressive in making amorous advances to women",
+    "definition_zh": "n. 狼, 残忍贪婪之人, 极度穷困； vt. 狼吞虎咽, 大吃",
+    "frq": 4150,
+    "composite_rank": 3054,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable wolf is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的狼被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine wolf inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的狼赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "uncertainty",
     "word": "uncertainty",
     "part_of_speech": "noun",
@@ -1600,27 +1650,27 @@
     ]
   },
   {
-    "id": "handsome",
-    "word": "handsome",
+    "id": "cautious",
+    "word": "cautious",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'hænsәm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=handsome&type=2",
-    "definition_en": "s pleasing in appearance especially by reason of conformity to ideals of form and proportion\\ns given or giving freely",
-    "definition_zh": "a. 英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏的",
-    "frq": 3838,
-    "composite_rank": 3224,
-    "badge": "high",
+    "phonetic": "/'kɒ:ʃәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cautious&type=2",
+    "definition_en": "a. showing careful forethought; never making swift decisions\"\\ns. avoiding excess",
+    "definition_zh": "a. 谨慎的, 小心的",
+    "frq": 5231,
+    "composite_rank": 3180,
+    "badge": "core",
     "examples": [
       {
-        "en": "Demonstrating remarkable handsome is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的英俊的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable cautious is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的谨慎的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine handsome inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的英俊的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine cautious inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的谨慎的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -1675,6 +1725,56 @@
     ]
   },
   {
+    "id": "authentic",
+    "word": "authentic",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ɒ:'θentik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=authentic&type=2",
+    "definition_en": "s. conforming to fact and therefore worthy of belief\\ns. not counterfeit or copied",
+    "definition_zh": "a. 可靠的, 可信的, 真正的； 被认证的, 确认的, 可信的",
+    "frq": 5000,
+    "composite_rank": 3360,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable authentic is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的可靠的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine authentic inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的可靠的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "makeup",
+    "word": "makeup",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'meikʌp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=makeup&type=2",
+    "definition_en": "n. cosmetics applied to the face to improve or change your appearance\\nn. an event that is substituted for a previously cancelled event",
+    "definition_zh": "n. 组成, 性格, 化妆品, 化装(术), 虚构, 补考",
+    "frq": 3366,
+    "composite_rank": 3366,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable makeup is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的组成被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine makeup inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的组成赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "loyalty",
     "word": "loyalty",
     "part_of_speech": "noun",
@@ -1700,6 +1800,56 @@
     ]
   },
   {
+    "id": "hopeful",
+    "word": "hopeful",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'hәupful/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hopeful&type=2",
+    "definition_en": "a. having or manifesting hope",
+    "definition_zh": "n. 有希望之人, 有前途之人； a. 有希望的, 怀抱希望的, 保持乐观的",
+    "frq": 5116,
+    "composite_rank": 3438,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable hopeful is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的有希望之人被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine hopeful inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的有希望之人赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "goodness",
+    "word": "goodness",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'gudnis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=goodness&type=2",
+    "definition_en": "n that which is pleasing or valuable or useful\\nn moral excellence or admirableness",
+    "definition_zh": "n. 仁慈, 善良",
+    "frq": 5155,
+    "composite_rank": 3464,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable goodness is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的仁慈被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine goodness inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的仁慈赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "nicely",
     "word": "nicely",
     "part_of_speech": "noun",
@@ -1721,6 +1871,56 @@
       {
         "en": "Her genuine nicely inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的漂亮地赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "caution",
+    "word": "caution",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'kɒ:ʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=caution&type=2",
+    "definition_en": "n. the trait of being cautious; being attentive to possible danger\\nn. a warning against certain acts\\nn. judiciousness in avoiding harm or danger\\nv. warn strongly; put on guard",
+    "definition_zh": "n. 小心, 慎重, 警示； vt. 警告； 警告",
+    "frq": 5286,
+    "composite_rank": 3552,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable caution is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的小心被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine caution inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的小心赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "ambitious",
+    "word": "ambitious",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/æm'biʃәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ambitious&type=2",
+    "definition_en": "a. having a strong desire for success or achievement\\ns. requiring full use of your abilities or resources",
+    "definition_zh": "a. 有野心的, 抱负不凡的, 雄心勃勃的",
+    "frq": 4287,
+    "composite_rank": 3601,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable ambitious is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的有野心的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine ambitious inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的有野心的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -1800,77 +2000,102 @@
     ]
   },
   {
-    "id": "optimistic",
-    "word": "optimistic",
+    "id": "noble",
+    "word": "noble",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/.ɒpti'mistik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=optimistic&type=2",
-    "definition_en": "a. expecting the best in this best of all possible worlds",
-    "definition_zh": "a. 乐观的, 乐观主义的, 乐天的",
-    "frq": 4141,
-    "composite_rank": 3810,
+    "phonetic": "/'nәubl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=noble&type=2",
+    "definition_en": "a. of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times\\na. having or showing or indicative of high or elevated character\\ns. inert especially toward oxygen",
+    "definition_zh": "n. 贵族； a. 高贵的, 高尚的, 贵族的, 辉煌的",
+    "frq": 5553,
+    "composite_rank": 3732,
     "badge": "high",
     "examples": [
       {
-        "en": "Demonstrating remarkable optimistic is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的乐观的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable noble is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的贵族被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine optimistic inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的乐观的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine noble inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的贵族赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "wolf",
-    "word": "wolf",
+    "id": "foolish",
+    "word": "foolish",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/wulf/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wolf&type=2",
-    "definition_en": "n. any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs\\nn. Austrian composer (1860-1903)\\nn. German classical scholar who claimed that the Iliad and Odyssey were composed by several authors (1759-1824)\\nn. a man who is aggressive in making amorous advances to women",
-    "definition_zh": "n. 狼, 残忍贪婪之人, 极度穷困； vt. 狼吞虎咽, 大吃",
-    "frq": 4150,
-    "composite_rank": 3818,
+    "phonetic": "/'fu:liʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=foolish&type=2",
+    "definition_en": "a. devoid of good sense or judgment",
+    "definition_zh": "a. 愚蠢的, 傻的",
+    "frq": 5783,
+    "composite_rank": 3886,
     "badge": "high",
     "examples": [
       {
-        "en": "Demonstrating remarkable wolf is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的狼被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable foolish is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的愚蠢的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine wolf inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的狼赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine foolish inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的愚蠢的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "cautious",
-    "word": "cautious",
+    "id": "brutal",
+    "word": "brutal",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'kɒ:ʃәs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cautious&type=2",
-    "definition_en": "a. showing careful forethought; never making swift decisions\"\\ns. avoiding excess",
-    "definition_zh": "a. 谨慎的, 小心的",
-    "frq": 5231,
-    "composite_rank": 3976,
-    "badge": "core",
+    "phonetic": "/'bru:tәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=brutal&type=2",
+    "definition_en": "s. harsh\\ns. disagreeably direct and precise",
+    "definition_zh": "a. 残忍的, 野蛮的, 不讲理的",
+    "frq": 4697,
+    "composite_rank": 3945,
+    "badge": "high",
     "examples": [
       {
-        "en": "Demonstrating remarkable cautious is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的谨慎的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable brutal is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的残忍的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine cautious inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的谨慎的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine brutal inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的残忍的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "cute",
+    "word": "cute",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/kju:t/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cute&type=2",
+    "definition_en": "s. obviously contrived to charm",
+    "definition_zh": "a. 可爱的, 聪明的, 伶俐的； 品他病",
+    "frq": 4345,
+    "composite_rank": 3997,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable cute is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的可爱的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine cute inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的可爱的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -1900,27 +2125,77 @@
     ]
   },
   {
-    "id": "authentic",
-    "word": "authentic",
+    "id": "credibility",
+    "word": "credibility",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/ɒ:'θentik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=authentic&type=2",
-    "definition_en": "s. conforming to fact and therefore worthy of belief\\ns. not counterfeit or copied",
-    "definition_zh": "a. 可靠的, 可信的, 真正的； 被认证的, 确认的, 可信的",
-    "frq": 5000,
-    "composite_rank": 4200,
+    "phonetic": "/.kredi'biliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=credibility&type=2",
+    "definition_en": "n. the quality of being believable or trustworthy",
+    "definition_zh": "n. 可信用, 确实性, 可靠； 证据能力, 可信程度, 确实性",
+    "frq": 4048,
+    "composite_rank": 4048,
     "badge": "high",
     "examples": [
       {
-        "en": "Demonstrating remarkable authentic is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的可靠的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable credibility is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的可信用被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine authentic inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的可靠的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine credibility inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的可信用赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "talented",
+    "word": "talented",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'tælәntid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=talented&type=2",
+    "definition_en": "a. endowed with talent or talents",
+    "definition_zh": "a. 天资高的, 有才能的",
+    "frq": 4080,
+    "composite_rank": 4080,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable talented is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的天资高的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine talented inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的天资高的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "fond",
+    "word": "fond",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/fɒnd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fond&type=2",
+    "definition_en": "s. (followed by `of' or `to') having a strong preference or liking for\\ns. absurd or silly because unlikely",
+    "definition_zh": "a. 喜欢的, 宠爱的, 温柔的",
+    "frq": 6241,
+    "composite_rank": 4194,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable fond is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的喜欢的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine fond inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的喜欢的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -1975,6 +2250,31 @@
     ]
   },
   {
+    "id": "arch",
+    "word": "arch",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ɑ:tʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=arch&type=2",
+    "definition_en": "n. a curved shape in the vertical plane that spans an opening\\nn. a curved bony structure supporting or enclosing organs (especially the inner sides of the feet)\\nn. a passageway under a curved masonry construction\\nn. (architecture) a masonry construction (usually curved) for spanning an opening and supporting the weight above it",
+    "definition_zh": "n. 拱门, 拱形, 足弓； vt. 使成弓形； vi. 拱起, 成弓形； a. 主要的, 调皮的, 傲慢无礼的, 狡猾的",
+    "frq": 6326,
+    "composite_rank": 4251,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable arch is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的拱门被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine arch inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的拱门赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "proudly",
     "word": "proudly",
     "part_of_speech": "noun",
@@ -2000,77 +2300,27 @@
     ]
   },
   {
-    "id": "hopeful",
-    "word": "hopeful",
+    "id": "loving",
+    "word": "loving",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'hәupful/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hopeful&type=2",
-    "definition_en": "a. having or manifesting hope",
-    "definition_zh": "n. 有希望之人, 有前途之人； a. 有希望的, 怀抱希望的, 保持乐观的",
-    "frq": 5116,
-    "composite_rank": 4297,
+    "phonetic": "/'lʌviŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=loving&type=2",
+    "definition_en": "a. feeling or showing love and affection",
+    "definition_zh": "a. 亲爱的, 钟情的, 忠诚的",
+    "frq": 5168,
+    "composite_rank": 4341,
     "badge": "high",
     "examples": [
       {
-        "en": "Demonstrating remarkable hopeful is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的有希望之人被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable loving is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的亲爱的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine hopeful inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的有希望之人赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "goodness",
-    "word": "goodness",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'gudnis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=goodness&type=2",
-    "definition_en": "n that which is pleasing or valuable or useful\\nn moral excellence or admirableness",
-    "definition_zh": "n. 仁慈, 善良",
-    "frq": 5155,
-    "composite_rank": 4330,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable goodness is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的仁慈被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine goodness inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的仁慈赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "caution",
-    "word": "caution",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'kɒ:ʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=caution&type=2",
-    "definition_en": "n. the trait of being cautious; being attentive to possible danger\\nn. a warning against certain acts\\nn. judiciousness in avoiding harm or danger\\nv. warn strongly; put on guard",
-    "definition_zh": "n. 小心, 慎重, 警示； vt. 警告； 警告",
-    "frq": 5286,
-    "composite_rank": 4440,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable caution is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的小心被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine caution inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的小心赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine loving inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的亲爱的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -2125,81 +2375,6 @@
     ]
   },
   {
-    "id": "noble",
-    "word": "noble",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'nәubl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=noble&type=2",
-    "definition_en": "a. of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times\\na. having or showing or indicative of high or elevated character\\ns. inert especially toward oxygen",
-    "definition_zh": "n. 贵族； a. 高贵的, 高尚的, 贵族的, 辉煌的",
-    "frq": 5553,
-    "composite_rank": 4665,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable noble is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的贵族被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine noble inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的贵族赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "ambitious",
-    "word": "ambitious",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/æm'biʃәs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ambitious&type=2",
-    "definition_en": "a. having a strong desire for success or achievement\\ns. requiring full use of your abilities or resources",
-    "definition_zh": "a. 有野心的, 抱负不凡的, 雄心勃勃的",
-    "frq": 4287,
-    "composite_rank": 4681,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable ambitious is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的有野心的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine ambitious inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的有野心的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "foolish",
-    "word": "foolish",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'fu:liʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=foolish&type=2",
-    "definition_en": "a. devoid of good sense or judgment",
-    "definition_zh": "a. 愚蠢的, 傻的",
-    "frq": 5783,
-    "composite_rank": 4858,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable foolish is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的愚蠢的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine foolish inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的愚蠢的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
     "id": "indirectly",
     "word": "indirectly",
     "part_of_speech": "noun",
@@ -2221,6 +2396,31 @@
       {
         "en": "Her genuine indirectly inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的间接赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "selfish",
+    "word": "selfish",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'selfiʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=selfish&type=2",
+    "definition_en": "a. concerned chiefly or only with yourself and your advantage to the exclusion of others",
+    "definition_zh": "a. 自私的, 利己主义的, 自我中心的",
+    "frq": 7386,
+    "composite_rank": 4963,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable selfish is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的自私的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine selfish inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的自私的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -2250,27 +2450,52 @@
     ]
   },
   {
-    "id": "brutal",
-    "word": "brutal",
+    "id": "credible",
+    "word": "credible",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'bru:tәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=brutal&type=2",
-    "definition_en": "s. harsh\\ns. disagreeably direct and precise",
-    "definition_zh": "a. 残忍的, 野蛮的, 不讲理的",
-    "frq": 4697,
-    "composite_rank": 5129,
+    "phonetic": "/'kredәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=credible&type=2",
+    "definition_en": "a. capable of being believed\\ns. (a common but incorrect usage where `credulous' would be appropriate) credulous\\ns. appearing to merit belief or acceptance",
+    "definition_zh": "a. 可信的, 可靠的； 可信的, 可靠的",
+    "frq": 5991,
+    "composite_rank": 5032,
     "badge": "high",
     "examples": [
       {
-        "en": "Demonstrating remarkable brutal is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的残忍的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable credible is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的可信的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine brutal inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的残忍的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine credible inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的可信的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "wary",
+    "word": "wary",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'wєәri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wary&type=2",
+    "definition_en": "a. marked by keen caution and watchful prudence",
+    "definition_zh": "a. 谨慎的, 小心的, 机警的, 周到的, 唯恐的",
+    "frq": 6004,
+    "composite_rank": 5043,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable wary is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的谨慎的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine wary inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的谨慎的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -2325,31 +2550,6 @@
     ]
   },
   {
-    "id": "fond",
-    "word": "fond",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/fɒnd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=fond&type=2",
-    "definition_en": "s. (followed by `of' or `to') having a strong preference or liking for\\ns. absurd or silly because unlikely",
-    "definition_zh": "a. 喜欢的, 宠爱的, 温柔的",
-    "frq": 6241,
-    "composite_rank": 5242,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable fond is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的喜欢的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine fond inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的喜欢的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
     "id": "sincerely",
     "word": "sincerely",
     "part_of_speech": "noun",
@@ -2375,31 +2575,6 @@
     ]
   },
   {
-    "id": "arch",
-    "word": "arch",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/ɑ:tʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=arch&type=2",
-    "definition_en": "n. a curved shape in the vertical plane that spans an opening\\nn. a curved bony structure supporting or enclosing organs (especially the inner sides of the feet)\\nn. a passageway under a curved masonry construction\\nn. (architecture) a masonry construction (usually curved) for spanning an opening and supporting the weight above it",
-    "definition_zh": "n. 拱门, 拱形, 足弓； vt. 使成弓形； vi. 拱起, 成弓形； a. 主要的, 调皮的, 傲慢无礼的, 狡猾的",
-    "frq": 6326,
-    "composite_rank": 5314,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable arch is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的拱门被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine arch inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的拱门赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
     "id": "politely",
     "word": "politely",
     "part_of_speech": "noun",
@@ -2421,6 +2596,31 @@
       {
         "en": "Her genuine politely inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的有礼貌地赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "charitable",
+    "word": "charitable",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'tʃæritәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=charitable&type=2",
+    "definition_en": "a. relating to or characterized by charity\\na. full of love and generosity\\ns. showing or motivated by sympathy and understanding and generosity",
+    "definition_zh": "a. 大慈大悲的, 宽厚的, 慈善的； 慈善的, 慷慨的, 宽恕的",
+    "frq": 6772,
+    "composite_rank": 5688,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable charitable is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的大慈大悲的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine charitable inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的大慈大悲的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -2525,6 +2725,31 @@
     ]
   },
   {
+    "id": "relentless",
+    "word": "relentless",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ri'lentlis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=relentless&type=2",
+    "definition_en": "s not to be placated or appeased or moved by entreaty\\ns never-ceasing",
+    "definition_zh": "a. 无情的, 冷酷的, 残酷的",
+    "frq": 7035,
+    "composite_rank": 5909,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable relentless is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的无情的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine relentless inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的无情的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "mule",
     "word": "mule",
     "part_of_speech": "noun",
@@ -2546,31 +2771,6 @@
       {
         "en": "Her genuine mule inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的骡赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "selfish",
-    "word": "selfish",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'selfiʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=selfish&type=2",
-    "definition_en": "a. concerned chiefly or only with yourself and your advantage to the exclusion of others",
-    "definition_zh": "a. 自私的, 利己主义的, 自我中心的",
-    "frq": 7386,
-    "composite_rank": 6204,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable selfish is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的自私的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine selfish inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的自私的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -2625,6 +2825,31 @@
     ]
   },
   {
+    "id": "madness",
+    "word": "madness",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'mædnis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=madness&type=2",
+    "definition_en": "n. unrestrained excitement or enthusiasm",
+    "definition_zh": "n. 疯狂, 愚蠢的行为； 狂, 疯狂",
+    "frq": 6563,
+    "composite_rank": 6563,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable madness is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的疯狂被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine madness inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的疯狂赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "kidney",
     "word": "kidney",
     "part_of_speech": "noun",
@@ -2650,52 +2875,77 @@
     ]
   },
   {
-    "id": "cute",
-    "word": "cute",
+    "id": "savage",
+    "word": "savage",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "A2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/kju:t/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cute&type=2",
-    "definition_en": "s. obviously contrived to charm",
-    "definition_zh": "a. 可爱的, 聪明的, 伶俐的； 品他病",
-    "frq": 4345,
-    "composite_rank": 6796,
-    "badge": "normal",
+    "phonetic": "/'sævidʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=savage&type=2",
+    "definition_en": "n. a member of an uncivilized people\\nv. attack brutally and fiercely\\nv. criticize harshly or violently",
+    "definition_zh": "a. 未开化的, 野蛮的, 无礼的, 残酷的, 原始的, 粗鲁的, 未开发的； vt. 用暴力对付, 凶猛攻击； n. 原始人, 粗鲁人",
+    "frq": 10011,
+    "composite_rank": 6727,
+    "badge": "high",
     "examples": [
       {
-        "en": "Demonstrating remarkable cute is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的可爱的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable savage is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的原始人被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine cute inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的可爱的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine savage inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的原始人赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "credibility",
-    "word": "credibility",
+    "id": "knowledgeable",
+    "word": "knowledgeable",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/.kredi'biliti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=credibility&type=2",
-    "definition_en": "n. the quality of being believable or trustworthy",
-    "definition_zh": "n. 可信用, 确实性, 可靠； 证据能力, 可信程度, 确实性",
-    "frq": 4048,
-    "composite_rank": 6882,
+    "phonetic": "/'nɒlidʒәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=knowledgeable&type=2",
+    "definition_en": "s. alert and fully informed",
+    "definition_zh": "a. 聪明的, 有知识的",
+    "frq": 7342,
+    "composite_rank": 6755,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable credibility is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的可信用被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable knowledgeable is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的聪明的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine credibility inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的可信用赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine knowledgeable inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的聪明的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "vain",
+    "word": "vain",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/vein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vain&type=2",
+    "definition_en": "s characteristic of false pride; having an exaggerated sense of self-importance\\ns unproductive of success",
+    "definition_zh": "a. 无价值的, 徒然的, 空虚的, 自负的, 愚蠢的",
+    "frq": 10144,
+    "composite_rank": 6817,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable vain is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的无价值的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine vain inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的无价值的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -2750,27 +3000,27 @@
     ]
   },
   {
-    "id": "talented",
-    "word": "talented",
+    "id": "pragmatic",
+    "word": "pragmatic",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'tælәntid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=talented&type=2",
-    "definition_en": "a. endowed with talent or talents",
-    "definition_zh": "a. 天资高的, 有才能的",
-    "frq": 4080,
-    "composite_rank": 6936,
+    "phonetic": "/præ^'mætik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pragmatic&type=2",
+    "definition_en": "a. of or concerning the theory of pragmatism",
+    "definition_zh": "a. 忙碌的, 爱管闲事的, 自负的, 固执己见的, 实际的, 务实的, 国事的, 国务的； 闲断的, 固执己见的, 实用主义的",
+    "frq": 7519,
+    "composite_rank": 6917,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable talented is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的天资高的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable pragmatic is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的忙碌的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine talented inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的天资高的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine pragmatic inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的忙碌的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -2800,27 +3050,27 @@
     ]
   },
   {
-    "id": "wisely",
-    "word": "wisely",
+    "id": "irresponsible",
+    "word": "irresponsible",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'waizli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wisely&type=2",
-    "definition_en": "r. in a wise manner",
-    "definition_zh": "adv. 聪明地, 精明地",
-    "frq": 9108,
-    "composite_rank": 7286,
-    "badge": "high",
+    "phonetic": "/.iri'spɔnsәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=irresponsible&type=2",
+    "definition_en": "a. showing lack of care for consequences",
+    "definition_zh": "a. 不负责任的；不可靠的",
+    "frq": 7972,
+    "composite_rank": 7334,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable wisely is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的聪明地被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable irresponsible is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的不负责任的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine wisely inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的聪明地赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine irresponsible inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的不负责任的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -2975,6 +3225,31 @@
     ]
   },
   {
+    "id": "greed",
+    "word": "greed",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/gri:d/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=greed&type=2",
+    "definition_en": "n. excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves",
+    "definition_zh": "n. 贪欲, 贪婪",
+    "frq": 6753,
+    "composite_rank": 8077,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable greed is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的贪欲被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine greed inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的贪欲赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "gloomy",
     "word": "gloomy",
     "part_of_speech": "noun",
@@ -3050,131 +3325,6 @@
     ]
   },
   {
-    "id": "savage",
-    "word": "savage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'sævidʒ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=savage&type=2",
-    "definition_en": "n. a member of an uncivilized people\\nv. attack brutally and fiercely\\nv. criticize harshly or violently",
-    "definition_zh": "a. 未开化的, 野蛮的, 无礼的, 残酷的, 原始的, 粗鲁的, 未开发的； vt. 用暴力对付, 凶猛攻击； n. 原始人, 粗鲁人",
-    "frq": 10011,
-    "composite_rank": 8409,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable savage is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的原始人被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine savage inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的原始人赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "vain",
-    "word": "vain",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/vein/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=vain&type=2",
-    "definition_en": "s characteristic of false pride; having an exaggerated sense of self-importance\\ns unproductive of success",
-    "definition_zh": "a. 无价值的, 徒然的, 空虚的, 自负的, 愚蠢的",
-    "frq": 10144,
-    "composite_rank": 8521,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable vain is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的无价值的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine vain inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的无价值的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "madness",
-    "word": "madness",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'mædnis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=madness&type=2",
-    "definition_en": "n. unrestrained excitement or enthusiasm",
-    "definition_zh": "n. 疯狂, 愚蠢的行为； 狂, 疯狂",
-    "frq": 6563,
-    "composite_rank": 8532,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable madness is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的疯狂被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine madness inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的疯狂赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "credible",
-    "word": "credible",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'kredәbl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=credible&type=2",
-    "definition_en": "a. capable of being believed\\ns. (a common but incorrect usage where `credulous' would be appropriate) credulous\\ns. appearing to merit belief or acceptance",
-    "definition_zh": "a. 可信的, 可靠的； 可信的, 可靠的",
-    "frq": 5991,
-    "composite_rank": 8555,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable credible is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的可信的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine credible inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的可信的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "wary",
-    "word": "wary",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'wєәri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wary&type=2",
-    "definition_en": "a. marked by keen caution and watchful prudence",
-    "definition_zh": "a. 谨慎的, 小心的, 机警的, 周到的, 唯恐的",
-    "frq": 6004,
-    "composite_rank": 8574,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable wary is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的谨慎的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine wary inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的谨慎的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
     "id": "greedy",
     "word": "greedy",
     "part_of_speech": "noun",
@@ -3200,6 +3350,31 @@
     ]
   },
   {
+    "id": "lightweight",
+    "word": "lightweight",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'laitweit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lightweight&type=2",
+    "definition_en": "n. a professional boxer who weighs between 131 and 135 pounds\\nn. an amateur boxer who weighs no more than 132 pounds\\nn. a wrestler who weighs 139-154 pounds\\ns. weighing relatively little compared with another item or object of similar use",
+    "definition_zh": "n. 不到平均重量的人/物, 轻量级, 无足轻重的人, 性格不够强的人； a. 平均重量以下的, 重量轻的； 轻便的, 轻量的",
+    "frq": 8396,
+    "composite_rank": 9168,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable lightweight is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的不到平均重量的人被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine lightweight inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的不到平均重量的人赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "eccentric",
     "word": "eccentric",
     "part_of_speech": "noun",
@@ -3221,31 +3396,6 @@
       {
         "en": "Her genuine eccentric inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的怪人赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "charitable",
-    "word": "charitable",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'tʃæritәbl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=charitable&type=2",
-    "definition_en": "a. relating to or characterized by charity\\na. full of love and generosity\\ns. showing or motivated by sympathy and understanding and generosity",
-    "definition_zh": "a. 大慈大悲的, 宽厚的, 慈善的； 慈善的, 慷慨的, 宽恕的",
-    "frq": 6772,
-    "composite_rank": 9670,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable charitable is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的大慈大悲的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine charitable inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的大慈大悲的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -3325,27 +3475,52 @@
     ]
   },
   {
-    "id": "relentless",
-    "word": "relentless",
+    "id": "lavish",
+    "word": "lavish",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/ri'lentlis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=relentless&type=2",
-    "definition_en": "s not to be placated or appeased or moved by entreaty\\ns never-ceasing",
-    "definition_zh": "a. 无情的, 冷酷的, 残酷的",
-    "frq": 7035,
-    "composite_rank": 10046,
+    "phonetic": "/'læviʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lavish&type=2",
+    "definition_en": "v. expend profusely; also used with abstract nouns\\ns. very generous\\ns. characterized by extravagance and profusion",
+    "definition_zh": "a. 大方的, 丰富的, 浪费的； vt. 浪费, 滥用, 慷慨给予",
+    "frq": 9031,
+    "composite_rank": 9862,
     "badge": "high",
     "examples": [
       {
-        "en": "Demonstrating remarkable relentless is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的无情的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable lavish is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的大方的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine relentless inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的无情的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine lavish inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的大方的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "hallmark",
+    "word": "hallmark",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'hɑ:lmɑ:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hallmark&type=2",
+    "definition_en": "n. a distinctive characteristic or attribute",
+    "definition_zh": "n. 纯度检验证明, 品质证明； vt. 加盖纯度检验证明",
+    "frq": 8292,
+    "composite_rank": 9917,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable hallmark is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的纯度检验证明被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine hallmark inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的纯度检验证明赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -3396,6 +3571,31 @@
       {
         "en": "Her genuine ruthless inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的无情的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "coax",
+    "word": "coax",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/kәuks/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=coax&type=2",
+    "definition_en": "n a transmission line for high-frequency signals\\nv influence or urge by gentle urging, caressing, or flattering",
+    "definition_zh": "vt. 哄, 诱骗, 耐心地摆弄； vi. 哄骗； 同轴电缆",
+    "frq": 8609,
+    "composite_rank": 10296,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable coax is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的哄被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine coax inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的哄赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -3475,31 +3675,6 @@
     ]
   },
   {
-    "id": "melting",
-    "word": "melting",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'meltiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=melting&type=2",
-    "definition_en": "n the process whereby heat changes something from a solid to a liquid\\nv reduce or cause to be reduced from a solid to a liquid state, usually by heating\\nv become or cause to become soft or liquid\\nv become more relaxed, easygoing, or genial\\nv lose its distinct outline or shape; blend gradually\\nv become less clearly visible or distinguishable; disappear gradually or seemingly\\nv become less intense and fade away gradually\\ns becoming liquid",
-    "definition_zh": "a. 熔化的, 温柔的, 令人感动的, 甜美的； 熔化",
-    "frq": 10465,
-    "composite_rank": 10465,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable melting is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的熔化的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine melting inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的熔化的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
     "id": "coward",
     "word": "coward",
     "part_of_speech": "noun",
@@ -3525,6 +3700,31 @@
     ]
   },
   {
+    "id": "arrogance",
+    "word": "arrogance",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'ærәgәns/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=arrogance&type=2",
+    "definition_en": "n. overbearing pride evidenced by a superior manner toward inferiors",
+    "definition_zh": "n. 傲慢态度, 自大",
+    "frq": 8202,
+    "composite_rank": 10663,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable arrogance is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的傲慢态度被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine arrogance inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的傲慢态度赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "patiently",
     "word": "patiently",
     "part_of_speech": "noun",
@@ -3546,6 +3746,31 @@
       {
         "en": "Her genuine patiently inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的耐心地赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "mitigate",
+    "word": "mitigate",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'mitigeit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mitigate&type=2",
+    "definition_en": "v. make less severe or harsh",
+    "definition_zh": "vt. 温和, 缓和, 减轻； 缓和, 减轻",
+    "frq": 8991,
+    "composite_rank": 10753,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable mitigate is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的温和被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine mitigate inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的温和赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -3600,6 +3825,31 @@
     ]
   },
   {
+    "id": "bounty",
+    "word": "bounty",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'baunti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bounty&type=2",
+    "definition_en": "n. payment or reward (especially from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military\\nn. generosity evidenced by a willingness to give freely\\nn. a ship of the British navy; in 1789 part of the crew mutinied against their commander William Bligh and set him afloat in an open boat",
+    "definition_zh": "n. 慷慨, 宽大, 礼物； 奖励金, 补贴",
+    "frq": 9150,
+    "composite_rank": 10943,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable bounty is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的慷慨被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine bounty inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的慷慨赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "brute",
     "word": "brute",
     "part_of_speech": "noun",
@@ -3621,6 +3871,31 @@
       {
         "en": "Her genuine brute inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的畜生赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "folly",
+    "word": "folly",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'fɒli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=folly&type=2",
+    "definition_en": "n. the trait of acting stupidly or rashly\\nn. the quality of being rash and foolish\\nn. foolish or senseless behavior",
+    "definition_zh": "n. 愚蠢, 荒唐事, 讽刺剧",
+    "frq": 9254,
+    "composite_rank": 11068,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable folly is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的愚蠢被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine folly inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的愚蠢赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -3675,6 +3950,56 @@
     ]
   },
   {
+    "id": "humility",
+    "word": "humility",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/hju:'militi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=humility&type=2",
+    "definition_en": "n. a disposition to be humble; a lack of false pride\\nn. a humble feeling",
+    "definition_zh": "n. 谦逊, 谦虚, 谦卑",
+    "frq": 9485,
+    "composite_rank": 11344,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable humility is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的谦逊被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine humility inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的谦逊赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "endowment",
+    "word": "endowment",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/in'daumәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=endowment&type=2",
+    "definition_en": "n. natural abilities or qualities\\nn. the capital that provides income for an institution\\nn. the act of endowing with a permanent source of income",
+    "definition_zh": "n. 捐助, 天赋, 才能； 捐赠, 捐款, 养老金",
+    "frq": 10430,
+    "composite_rank": 11390,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable endowment is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的捐助被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine endowment inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的捐助赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "lofty",
     "word": "lofty",
     "part_of_speech": "noun",
@@ -3696,31 +4021,6 @@
       {
         "en": "Her genuine lofty inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的高的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "knowledgeable",
-    "word": "knowledgeable",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'nɒlidʒәbl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=knowledgeable&type=2",
-    "definition_en": "s. alert and fully informed",
-    "definition_zh": "a. 聪明的, 有知识的",
-    "frq": 7342,
-    "composite_rank": 11483,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable knowledgeable is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的聪明的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine knowledgeable inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的聪明的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -3775,27 +4075,102 @@
     ]
   },
   {
-    "id": "pragmatic",
-    "word": "pragmatic",
+    "id": "beware",
+    "word": "beware",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/præ^'mætik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pragmatic&type=2",
-    "definition_en": "a. of or concerning the theory of pragmatism",
-    "definition_zh": "a. 忙碌的, 爱管闲事的, 自负的, 固执己见的, 实际的, 务实的, 国事的, 国务的； 闲断的, 固执己见的, 实用主义的",
-    "frq": 7519,
-    "composite_rank": 11760,
+    "phonetic": "/bi'wєә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=beware&type=2",
+    "definition_en": "v. be on one's guard; be cautious or wary about; be alert to",
+    "definition_zh": "v. 小心, 谨防",
+    "frq": 9885,
+    "composite_rank": 11822,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable pragmatic is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的忙碌的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable beware is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的小心被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine pragmatic inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的忙碌的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine beware inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的小心赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "wisely",
+    "word": "wisely",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'waizli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wisely&type=2",
+    "definition_en": "r. in a wise manner",
+    "definition_zh": "adv. 聪明地, 精明地",
+    "frq": 9108,
+    "composite_rank": 11840,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable wisely is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的聪明地被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine wisely inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的聪明地赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "sluggish",
+    "word": "sluggish",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'slʌgiʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sluggish&type=2",
+    "definition_en": "s. moving slowly",
+    "definition_zh": "a. 偷懒的, 懒惰的, 迟钝的； 萧条的, 呆滞的",
+    "frq": 10122,
+    "composite_rank": 12106,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable sluggish is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的偷懒的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine sluggish inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的偷懒的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "fidelity",
+    "word": "fidelity",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/fi'deliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fidelity&type=2",
+    "definition_en": "n. accuracy with which an electronic system reproduces the sound or image of its input signal\\nn. the quality of being faithful",
+    "definition_zh": "n. 忠实, 诚实, 忠诚, 保真度； 逼真度",
+    "frq": 10174,
+    "composite_rank": 12168,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable fidelity is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的忠实被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine fidelity inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的忠实赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -3825,27 +4200,102 @@
     ]
   },
   {
-    "id": "irresponsible",
-    "word": "irresponsible",
+    "id": "dignified",
+    "word": "dignified",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/.iri'spɔnsәbl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=irresponsible&type=2",
-    "definition_en": "a. showing lack of care for consequences",
-    "definition_zh": "a. 不负责任的；不可靠的",
-    "frq": 7972,
-    "composite_rank": 12468,
+    "phonetic": "/'dignifaid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dignified&type=2",
+    "definition_en": "a. having or expressing dignity; especially formality or stateliness in bearing or appearance\\ns. having or showing self-esteem",
+    "definition_zh": "a. 有尊严的, 高尚的",
+    "frq": 10506,
+    "composite_rank": 12565,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable irresponsible is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的不负责任的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable dignified is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的有尊严的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine irresponsible inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的不负责任的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine dignified inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的有尊严的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "individuality",
+    "word": "individuality",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'indi.vidʒu'æliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=individuality&type=2",
+    "definition_en": "n. the quality of being individual",
+    "definition_zh": "n. 个性, 个人, 特征",
+    "frq": 10589,
+    "composite_rank": 12664,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable individuality is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的个性被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine individuality inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的个性赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "erratic",
+    "word": "erratic",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/i'rætik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=erratic&type=2",
+    "definition_en": "s. liable to sudden unpredictable change\\ns. having no fixed course\\ns. likely to perform unpredictably; sometimes it would start and sometimes it wouldn't\"",
+    "definition_zh": "n. 古怪的人, 漂泊无定的人； a. 不稳定的, 奇怪的",
+    "frq": 10635,
+    "composite_rank": 12719,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable erratic is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的古怪的人被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine erratic inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的古怪的人赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "refinement",
+    "word": "refinement",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ri'fainmәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=refinement&type=2",
+    "definition_en": "n. the result of improving something\\nn. the quality of excellence in thought and manners and taste",
+    "definition_zh": "n. 精致, 高尚, 精巧； 精制, 精练",
+    "frq": 10637,
+    "composite_rank": 12722,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable refinement is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的精致被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine refinement inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的精致赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -3875,52 +4325,52 @@
     ]
   },
   {
-    "id": "lavish",
-    "word": "lavish",
+    "id": "treacherous",
+    "word": "treacherous",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'læviʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=lavish&type=2",
-    "definition_en": "v. expend profusely; also used with abstract nouns\\ns. very generous\\ns. characterized by extravagance and profusion",
-    "definition_zh": "a. 大方的, 丰富的, 浪费的； vt. 浪费, 滥用, 慷慨给予",
-    "frq": 9031,
-    "composite_rank": 12896,
-    "badge": "high",
+    "phonetic": "/'tretʃәrәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=treacherous&type=2",
+    "definition_en": "s. dangerously unstable and unpredictable",
+    "definition_zh": "a. 不可信任的, 危险的, 背叛的, 不可靠的； 奸诈的, 背叛的, 背信弃义的",
+    "frq": 10946,
+    "composite_rank": 13091,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable lavish is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的大方的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable treacherous is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的不可信任的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine lavish inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的大方的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine treacherous inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的不可信任的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "hallmark",
-    "word": "hallmark",
+    "id": "quirky",
+    "word": "quirky",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'hɑ:lmɑ:k/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hallmark&type=2",
-    "definition_en": "n. a distinctive characteristic or attribute",
-    "definition_zh": "n. 纯度检验证明, 品质证明； vt. 加盖纯度检验证明",
-    "frq": 8292,
-    "composite_rank": 12969,
+    "phonetic": "/'kw\\\\\\\\:ki/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=quirky&type=2",
+    "definition_en": "s informal terms; strikingly unconventional",
+    "definition_zh": "a. 诡诈的, 突兀的, 古怪的, 离奇的； 诡诈的, 颇为曲折的",
+    "frq": 10948,
+    "composite_rank": 13094,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable hallmark is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的纯度检验证明被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable quirky is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的诡诈的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine hallmark inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的纯度检验证明赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine quirky inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的诡诈的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -3975,27 +4425,127 @@
     ]
   },
   {
-    "id": "coax",
-    "word": "coax",
+    "id": "fraudulent",
+    "word": "fraudulent",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/kәuks/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=coax&type=2",
-    "definition_en": "n a transmission line for high-frequency signals\\nv influence or urge by gentle urging, caressing, or flattering",
-    "definition_zh": "vt. 哄, 诱骗, 耐心地摆弄； vi. 哄骗； 同轴电缆",
-    "frq": 8609,
-    "composite_rank": 13464,
+    "phonetic": "/'frɒ:djulәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fraudulent&type=2",
+    "definition_en": "s intended to deceive",
+    "definition_zh": "a. 欺诈的, 不正的, 不诚实的； 欺诈的, 欺骗的, 骗取的",
+    "frq": 11131,
+    "composite_rank": 13313,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable coax is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的哄被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable fraudulent is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的欺诈的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine coax inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的哄赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine fraudulent inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的欺诈的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "hindsight",
+    "word": "hindsight",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'haindsait/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hindsight&type=2",
+    "definition_en": "n. understanding the nature of an event after it has happened",
+    "definition_zh": "n. 枪的表尺, 事后聪明",
+    "frq": 11154,
+    "composite_rank": 13340,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable hindsight is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的枪的表尺被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine hindsight inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的枪的表尺赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "ferocious",
+    "word": "ferocious",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/fә'rәuʃәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ferocious&type=2",
+    "definition_en": "s. marked by extreme and violent energy",
+    "definition_zh": "a. 残忍的, 凶猛的, 可怕的",
+    "frq": 11205,
+    "composite_rank": 13401,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable ferocious is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的残忍的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine ferocious inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的残忍的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "flair",
+    "word": "flair",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/fleә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=flair&type=2",
+    "definition_en": "n. a natural talent",
+    "definition_zh": "n. 鉴别力, 才能, 天资, 资质, 眼光",
+    "frq": 11212,
+    "composite_rank": 13410,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable flair is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的鉴别力被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine flair inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的鉴别力赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "adamant",
+    "word": "adamant",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'ædәmәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=adamant&type=2",
+    "definition_en": "s. impervious to pleas, persuasion, requests, reason; she would have none of him\"- W.Churchill",
+    "definition_zh": "n. 坚硬的东西； a. 非常坚硬的, 坚强的, 固执的",
+    "frq": 11251,
+    "composite_rank": 13456,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable adamant is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的坚硬的东西被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine adamant inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的坚硬的东西赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4025,6 +4575,56 @@
     ]
   },
   {
+    "id": "melting",
+    "word": "melting",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'meltiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=melting&type=2",
+    "definition_en": "n the process whereby heat changes something from a solid to a liquid\\nv reduce or cause to be reduced from a solid to a liquid state, usually by heating\\nv become or cause to become soft or liquid\\nv become more relaxed, easygoing, or genial\\nv lose its distinct outline or shape; blend gradually\\nv become less clearly visible or distinguishable; disappear gradually or seemingly\\nv become less intense and fade away gradually\\ns becoming liquid",
+    "definition_zh": "a. 熔化的, 温柔的, 令人感动的, 甜美的； 熔化",
+    "frq": 10465,
+    "composite_rank": 13604,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable melting is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的熔化的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine melting inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的熔化的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "fearless",
+    "word": "fearless",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'fiәlis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fearless&type=2",
+    "definition_en": "a oblivious of dangers or perils or calmly resolute in facing them\\ns invulnerable to fear or intimidation",
+    "definition_zh": "a. 大胆的, 勇敢的, 无畏的",
+    "frq": 11481,
+    "composite_rank": 13731,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable fearless is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的大胆的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine fearless inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的大胆的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "ingenious",
     "word": "ingenious",
     "part_of_speech": "noun",
@@ -4050,52 +4650,52 @@
     ]
   },
   {
-    "id": "mitigate",
-    "word": "mitigate",
+    "id": "heroism",
+    "word": "heroism",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'mitigeit/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mitigate&type=2",
-    "definition_en": "v. make less severe or harsh",
-    "definition_zh": "vt. 温和, 缓和, 减轻； 缓和, 减轻",
-    "frq": 8991,
-    "composite_rank": 14062,
+    "phonetic": "/'herәuizm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=heroism&type=2",
+    "definition_en": "n. the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)",
+    "definition_zh": "n. 英勇, 勇敢事迹, 豪侠行为",
+    "frq": 11794,
+    "composite_rank": 14106,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable mitigate is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的温和被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable heroism is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的英勇被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine mitigate inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的温和赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine heroism inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的英勇赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "bravely",
-    "word": "bravely",
+    "id": "modesty",
+    "word": "modesty",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'breivli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bravely&type=2",
-    "definition_en": "r. in a courageous manner",
-    "definition_zh": "adv. 勇敢地",
-    "frq": 14070,
-    "composite_rank": 14070,
+    "phonetic": "/'mɒdisti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=modesty&type=2",
+    "definition_en": "n. freedom from vanity or conceit\\nn. formality and propriety of manner",
+    "definition_zh": "n. 谦逊, 质朴, 羞怯",
+    "frq": 11845,
+    "composite_rank": 14167,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable bravely is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的勇敢地被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable modesty is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的谦逊被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine bravely inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的勇敢地赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine modesty inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的谦逊赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4125,52 +4725,27 @@
     ]
   },
   {
-    "id": "bland",
-    "word": "bland",
+    "id": "nobility",
+    "word": "nobility",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/blænd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bland&type=2",
-    "definition_en": "s. lacking taste or flavor or tang\\ns. lacking stimulating characteristics; uninteresting",
-    "definition_zh": "a. 温和的, 乏味的, 冷漠的； 温和的, 淡的",
-    "frq": 10017,
-    "composite_rank": 14304,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable bland is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的温和的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine bland inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的温和的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "folly",
-    "word": "folly",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'fɒli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=folly&type=2",
-    "definition_en": "n. the trait of acting stupidly or rashly\\nn. the quality of being rash and foolish\\nn. foolish or senseless behavior",
-    "definition_zh": "n. 愚蠢, 荒唐事, 讽刺剧",
-    "frq": 9254,
-    "composite_rank": 14473,
+    "phonetic": "/nәu'biliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nobility&type=2",
+    "definition_en": "n. a privileged class holding hereditary titles\\nn. the quality of elevation of mind and exaltation of character or ideals or conduct\\nn. the state of being of noble birth",
+    "definition_zh": "n. 贵族, 高尚, 贵族阶级",
+    "frq": 12102,
+    "composite_rank": 14474,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable folly is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的愚蠢被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable nobility is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的贵族被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine folly inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的愚蠢赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine nobility inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的贵族赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4200,27 +4775,27 @@
     ]
   },
   {
-    "id": "humility",
-    "word": "humility",
+    "id": "virtuous",
+    "word": "virtuous",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/hju:'militi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=humility&type=2",
-    "definition_en": "n. a disposition to be humble; a lack of false pride\\nn. a humble feeling",
-    "definition_zh": "n. 谦逊, 谦虚, 谦卑",
-    "frq": 9485,
-    "composite_rank": 14835,
+    "phonetic": "/'vә:tʃuәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=virtuous&type=2",
+    "definition_en": "a. morally excellent",
+    "definition_zh": "a. 品德高尚的, 公正的, 贞洁的, 有效力的",
+    "frq": 12389,
+    "composite_rank": 14817,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable humility is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的谦逊被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable virtuous is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的品德高尚的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine humility inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的谦逊赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine virtuous inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的品德高尚的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4250,27 +4825,177 @@
     ]
   },
   {
-    "id": "endowment",
-    "word": "endowment",
+    "id": "temperate",
+    "word": "temperate",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/in'daumәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=endowment&type=2",
-    "definition_en": "n. natural abilities or qualities\\nn. the capital that provides income for an institution\\nn. the act of endowing with a permanent source of income",
-    "definition_zh": "n. 捐助, 天赋, 才能； 捐赠, 捐款, 养老金",
-    "frq": 10430,
-    "composite_rank": 14894,
-    "badge": "high",
+    "phonetic": "/'tempәrәt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=temperate&type=2",
+    "definition_en": "a. (of weather or climate) free from extremes; mild; or characteristic of such weather or climate\\na. not extreme in behavior",
+    "definition_zh": "a. 温和的, 适度的, 有节制的, 温带的",
+    "frq": 12446,
+    "composite_rank": 14885,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable endowment is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的捐助被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable temperate is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的温和的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine endowment inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的捐助赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine temperate inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的温和的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "unnerve",
+    "word": "unnerve",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/.ʌn'nә:v/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=unnerve&type=2",
+    "definition_en": "v disturb the composure of",
+    "definition_zh": "vt. 使失去勇气, 使胆怯, 使不能自制； 除神经",
+    "frq": 12595,
+    "composite_rank": 15064,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable unnerve is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的使失去勇气被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine unnerve inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的使失去勇气赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "antics",
+    "word": "antics",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'æntiks/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=antics&type=2",
+    "definition_en": "n a ludicrous or grotesque act done for fun and amusement\\nv act as or like a clown",
+    "definition_zh": "n. 滑稽动作, 古怪姿态",
+    "frq": 12653,
+    "composite_rank": 15133,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable antics is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的滑稽动作被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine antics inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的滑稽动作赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "optimist",
+    "word": "optimist",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'ɔptimist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=optimist&type=2",
+    "definition_en": "n. a person disposed to take a favorable view of things",
+    "definition_zh": "n. 乐观者, 乐观主义者",
+    "frq": 11811,
+    "composite_rank": 15354,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable optimist is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的乐观者被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine optimist inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的乐观者赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "dependable",
+    "word": "dependable",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/di'pendәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dependable&type=2",
+    "definition_en": "s. worthy of being depended on\\ns. consistent in performance or behavior\\ns. financially sound",
+    "definition_zh": "a. 可信任的, 可靠的, 可信赖的",
+    "frq": 12873,
+    "composite_rank": 15396,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable dependable is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的可信任的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine dependable inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的可信任的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "trustworthy",
+    "word": "trustworthy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'trʌst.wә:ði/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=trustworthy&type=2",
+    "definition_en": "a. worthy of trust or belief\\ns. taking responsibility for one's conduct and obligations",
+    "definition_zh": "a. 可信赖的； 可信任的, 可靠的, 可信赖的",
+    "frq": 13072,
+    "composite_rank": 15634,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable trustworthy is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的可信赖的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine trustworthy inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的可信赖的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "civility",
+    "word": "civility",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/si'viliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=civility&type=2",
+    "definition_en": "n. formal or perfunctory politeness",
+    "definition_zh": "n. 礼貌, 礼仪",
+    "frq": 12195,
+    "composite_rank": 15854,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable civility is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的礼貌被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine civility inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的礼貌赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4300,27 +5025,27 @@
     ]
   },
   {
-    "id": "individuality",
-    "word": "individuality",
+    "id": "idiosyncratic",
+    "word": "idiosyncratic",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'indi.vidʒu'æliti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=individuality&type=2",
-    "definition_en": "n. the quality of being individual",
-    "definition_zh": "n. 个性, 个人, 特征",
-    "frq": 10589,
-    "composite_rank": 16561,
+    "phonetic": "/.idiәsiŋ'krætik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=idiosyncratic&type=2",
+    "definition_en": "s. peculiar to the individual",
+    "definition_zh": "a. 特质的, 异质的, 特殊的； 特应性的, 特异体质的",
+    "frq": 12906,
+    "composite_rank": 16778,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable individuality is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的个性被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable idiosyncratic is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的特质的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine individuality inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的个性赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine idiosyncratic inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的特质的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4350,52 +5075,52 @@
     ]
   },
   {
-    "id": "treacherous",
-    "word": "treacherous",
+    "id": "nimble",
+    "word": "nimble",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'tretʃәrәs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=treacherous&type=2",
-    "definition_en": "s. dangerously unstable and unpredictable",
-    "definition_zh": "a. 不可信任的, 危险的, 背叛的, 不可靠的； 奸诈的, 背叛的, 背信弃义的",
-    "frq": 10946,
-    "composite_rank": 17120,
+    "phonetic": "/'nimbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nimble&type=2",
+    "definition_en": "s moving quickly and lightly\\ns mentally quick",
+    "definition_zh": "a. 敏捷的, 伶俐的, 聪明的",
+    "frq": 14327,
+    "composite_rank": 17135,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable treacherous is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的不可信任的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable nimble is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的敏捷的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine treacherous inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的不可信任的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine nimble inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的敏捷的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "quirky",
-    "word": "quirky",
+    "id": "painstaking",
+    "word": "painstaking",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'kw\\\\\\\\:ki/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=quirky&type=2",
-    "definition_en": "s informal terms; strikingly unconventional",
-    "definition_zh": "a. 诡诈的, 突兀的, 古怪的, 离奇的； 诡诈的, 颇为曲折的",
-    "frq": 10948,
-    "composite_rank": 17123,
+    "phonetic": "/'peinzteikiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=painstaking&type=2",
+    "definition_en": "s characterized by extreme care and great effort",
+    "definition_zh": "n. 辛苦, 苦心, 工夫； a. 辛苦的, 勤勉的, 小心的",
+    "frq": 14458,
+    "composite_rank": 17292,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable quirky is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的诡诈的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable painstaking is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的辛苦被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine quirky inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的诡诈的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine painstaking inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的辛苦赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4450,52 +5175,52 @@
     ]
   },
   {
-    "id": "fraudulent",
-    "word": "fraudulent",
+    "id": "tenacious",
+    "word": "tenacious",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'frɒ:djulәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=fraudulent&type=2",
-    "definition_en": "s intended to deceive",
-    "definition_zh": "a. 欺诈的, 不正的, 不诚实的； 欺诈的, 欺骗的, 骗取的",
-    "frq": 11131,
-    "composite_rank": 17409,
+    "phonetic": "/ti'neiʃәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tenacious&type=2",
+    "definition_en": "a good at remembering\\ns stubbornly unyielding\\ns sticking together",
+    "definition_zh": "a. 紧握的, 固执的, 不屈不挠的, 黏着力强的； 坚韧的",
+    "frq": 14637,
+    "composite_rank": 17506,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable fraudulent is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的欺诈的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable tenacious is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的紧握的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine fraudulent inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的欺诈的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine tenacious inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的紧握的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "ferocious",
-    "word": "ferocious",
+    "id": "sweeten",
+    "word": "sweeten",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/fә'rәuʃәs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ferocious&type=2",
-    "definition_en": "s. marked by extreme and violent energy",
-    "definition_zh": "a. 残忍的, 凶猛的, 可怕的",
-    "frq": 11205,
-    "composite_rank": 17525,
+    "phonetic": "/'swi:tn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sweeten&type=2",
+    "definition_en": "v. make sweeter in taste\\nv. make sweeter, more pleasant, or more agreeable",
+    "definition_zh": "vt. 使变甜, 加糖于, 使悦耳, 使温和, 减轻； vi. 变甜",
+    "frq": 14697,
+    "composite_rank": 17578,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable ferocious is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的残忍的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable sweeten is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的使变甜被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine ferocious inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的残忍的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine sweeten inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的使变甜赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4550,27 +5275,52 @@
     ]
   },
   {
-    "id": "nobility",
-    "word": "nobility",
+    "id": "diligently",
+    "word": "diligently",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/nәu'biliti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nobility&type=2",
-    "definition_en": "n. a privileged class holding hereditary titles\\nn. the quality of elevation of mind and exaltation of character or ideals or conduct\\nn. the state of being of noble birth",
-    "definition_zh": "n. 贵族, 高尚, 贵族阶级",
-    "frq": 12102,
-    "composite_rank": 18928,
+    "phonetic": "/diligently/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=diligently&type=2",
+    "definition_en": "r. with diligence; in a diligent manner",
+    "definition_zh": "adv. 勤奋地；勤勉地",
+    "frq": 13952,
+    "composite_rank": 18138,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable nobility is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的贵族被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable diligently is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的勤奋地被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine nobility inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的贵族赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine diligently inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的勤奋地赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "bravely",
+    "word": "bravely",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'breivli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bravely&type=2",
+    "definition_en": "r. in a courageous manner",
+    "definition_zh": "adv. 勇敢地",
+    "frq": 14070,
+    "composite_rank": 18291,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable bravely is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的勇敢地被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine bravely inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的勇敢地赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4600,31 +5350,6 @@
     ]
   },
   {
-    "id": "temperate",
-    "word": "temperate",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'tempәrәt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=temperate&type=2",
-    "definition_en": "a. (of weather or climate) free from extremes; mild; or characteristic of such weather or climate\\na. not extreme in behavior",
-    "definition_zh": "a. 温和的, 适度的, 有节制的, 温带的",
-    "frq": 12446,
-    "composite_rank": 19466,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable temperate is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的温和的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine temperate inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的温和的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
     "id": "tenderly",
     "word": "tenderly",
     "part_of_speech": "noun",
@@ -4646,31 +5371,6 @@
       {
         "en": "Her genuine tenderly inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的温和地赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "antics",
-    "word": "antics",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'æntiks/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=antics&type=2",
-    "definition_en": "n a ludicrous or grotesque act done for fun and amusement\\nv act as or like a clown",
-    "definition_zh": "n. 滑稽动作, 古怪姿态",
-    "frq": 12653,
-    "composite_rank": 19789,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable antics is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的滑稽动作被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine antics inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的滑稽动作赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4700,252 +5400,177 @@
     ]
   },
   {
-    "id": "optimist",
-    "word": "optimist",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'ɔptimist/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=optimist&type=2",
-    "definition_en": "n. a person disposed to take a favorable view of things",
-    "definition_zh": "n. 乐观者, 乐观主义者",
-    "frq": 11811,
-    "composite_rank": 20079,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable optimist is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的乐观者被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine optimist inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的乐观者赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "dependable",
-    "word": "dependable",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/di'pendәbl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dependable&type=2",
-    "definition_en": "s. worthy of being depended on\\ns. consistent in performance or behavior\\ns. financially sound",
-    "definition_zh": "a. 可信任的, 可靠的, 可信赖的",
-    "frq": 12873,
-    "composite_rank": 20133,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable dependable is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的可信任的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine dependable inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的可信任的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "trustworthy",
-    "word": "trustworthy",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'trʌst.wә:ði/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=trustworthy&type=2",
-    "definition_en": "a. worthy of trust or belief\\ns. taking responsibility for one's conduct and obligations",
-    "definition_zh": "a. 可信赖的； 可信任的, 可靠的, 可信赖的",
-    "frq": 13072,
-    "composite_rank": 20445,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable trustworthy is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的可信赖的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine trustworthy inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的可信赖的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "dishonesty",
-    "word": "dishonesty",
+    "id": "inexorably",
+    "word": "inexorably",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/dis'ɒnisti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dishonesty&type=2",
-    "definition_en": "n. the quality of being dishonest\\nn. lack of honesty; acts of lying or cheating or stealing",
-    "definition_zh": "n. 不诚实； 不诚实, 诈欺, 不正",
-    "frq": 17519,
-    "composite_rank": 20953,
+    "phonetic": "/inexorably/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=inexorably&type=2",
+    "definition_en": "r. in an inexorable manner",
+    "definition_zh": "adv. 冷酷地；无情地",
+    "frq": 15492,
+    "composite_rank": 20140,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable dishonesty is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的不诚实被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable inexorably is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的冷酷地被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine dishonesty inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的不诚实赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine inexorably inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的冷酷地赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "manners",
-    "word": "manners",
+    "id": "eccentricity",
+    "word": "eccentricity",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'mænәs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=manners&type=2",
-    "definition_en": "n. social deportment",
-    "definition_zh": "n. 礼貌",
-    "frq": 27358,
-    "composite_rank": 21886,
-    "badge": "high",
+    "phonetic": "/.eksen'trisiti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=eccentricity&type=2",
+    "definition_en": "n. strange and unconventional behavior\\nn. (geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis\\nn. a circularity that has a different center or deviates from a circular path",
+    "definition_zh": "n. 古怪, 古怪行为, 怪癖； 偏心度; 偏心距; 偏心率",
+    "frq": 15942,
+    "composite_rank": 20725,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable manners is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的礼貌被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable eccentricity is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的古怪被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine manners inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的礼貌赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine eccentricity inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的古怪赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "hindsight",
-    "word": "hindsight",
+    "id": "sublime",
+    "word": "sublime",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'haindsait/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hindsight&type=2",
-    "definition_en": "n. understanding the nature of an event after it has happened",
-    "definition_zh": "n. 枪的表尺, 事后聪明",
-    "frq": 11154,
-    "composite_rank": 22576,
+    "phonetic": "/sә'blaim/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sublime&type=2",
+    "definition_en": "v. vaporize and then condense right back again\\nv. change or cause to change directly from a solid into a vapor without first melting\\ns. lifted up or set high",
+    "definition_zh": "a. 高尚的, 壮观的, 卓越的； v. 提高, (使)变高尚, (使)纯化, (使)升华； n. 庄严, 崇高, 顶点",
+    "frq": 10377,
+    "composite_rank": 21003,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable hindsight is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的枪的表尺被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable sublime is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的庄严被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine hindsight inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的枪的表尺赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine sublime inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的庄严赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "painstaking",
-    "word": "painstaking",
+    "id": "decency",
+    "word": "decency",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "C2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'peinzteikiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=painstaking&type=2",
-    "definition_en": "s characterized by extreme care and great effort",
-    "definition_zh": "n. 辛苦, 苦心, 工夫； a. 辛苦的, 勤勉的, 小心的",
-    "frq": 14458,
-    "composite_rank": 22612,
+    "phonetic": "/'di:sәnsi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=decency&type=2",
+    "definition_en": "n. the quality of conforming to standards of propriety and morality\\nn. the quality of being polite and respectable",
+    "definition_zh": "n. 得体, 礼貌, 正派； 正当, 正派, 合乎礼仪",
+    "frq": 10391,
+    "composite_rank": 21031,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable painstaking is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的辛苦被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable decency is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的得体被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine painstaking inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的辛苦赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine decency inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的得体赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "tenacious",
-    "word": "tenacious",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/ti'neiʃәs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tenacious&type=2",
-    "definition_en": "a good at remembering\\ns stubbornly unyielding\\ns sticking together",
-    "definition_zh": "a. 紧握的, 固执的, 不屈不挠的, 黏着力强的； 坚韧的",
-    "frq": 14637,
-    "composite_rank": 22892,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable tenacious is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的紧握的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine tenacious inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的紧握的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "foolishly",
-    "word": "foolishly",
+    "id": "peculiarity",
+    "word": "peculiarity",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'fu:liʃli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=foolishly&type=2",
-    "definition_en": "r. without good sense or judgment",
-    "definition_zh": "adv. 愚笨地, 无聊地",
-    "frq": 17742,
-    "composite_rank": 23065,
+    "phonetic": "/pi.kju:li'æriti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=peculiarity&type=2",
+    "definition_en": "n. an odd or unusual characteristic\\nn. a distinguishing trait",
+    "definition_zh": "n. 特质, 特性, 怪癖",
+    "frq": 16495,
+    "composite_rank": 21444,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable foolishly is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的愚笨地被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable peculiarity is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的特质被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine foolishly inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的愚笨地赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine peculiarity inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的特质赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "cruelly",
-    "word": "cruelly",
+    "id": "prowess",
+    "word": "prowess",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'kru:әli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cruelly&type=2",
-    "definition_en": "r. excessively\\nr. with cruelty",
-    "definition_zh": "adv. 残忍地, 残酷地, 极",
-    "frq": 17835,
-    "composite_rank": 23186,
+    "phonetic": "/'prauis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=prowess&type=2",
+    "definition_en": "n a superior skill that you can learn by study and practice and observation",
+    "definition_zh": "n. 英勇, 勇敢, 超凡技术",
+    "frq": 11047,
+    "composite_rank": 22359,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable cruelly is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的残忍地被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable prowess is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的英勇被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine cruelly inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的残忍地赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine prowess inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的英勇赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "bloated",
+    "word": "bloated",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'blәutid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bloated&type=2",
+    "definition_en": "v become bloated or swollen or puff up\\nv make bloated or swollen",
+    "definition_zh": "a. 发胀的, 浮肿的, 傲慢的",
+    "frq": 11214,
+    "composite_rank": 22697,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable bloated is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的发胀的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine bloated inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的发胀的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -4975,52 +5600,27 @@
     ]
   },
   {
-    "id": "pessimist",
-    "word": "pessimist",
+    "id": "gingerly",
+    "word": "gingerly",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C2",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'pesimist/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pessimist&type=2",
-    "definition_en": "n. a person who expects the worst",
-    "definition_zh": "n. 悲观者, 厌世者, 悲观主义者",
-    "frq": 18238,
-    "composite_rank": 23709,
+    "phonetic": "/'dʒindʒәli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gingerly&type=2",
+    "definition_en": "s. with extreme care or delicacy\\nr. in a gingerly manner",
+    "definition_zh": "adv. 小心翼翼地, 慎重地； a. 慎重的, 谨慎的",
+    "frq": 11787,
+    "composite_rank": 23857,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable pessimist is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的悲观者被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable gingerly is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的小心翼翼地被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine pessimist inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的悲观者赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "diligently",
-    "word": "diligently",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/diligently/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=diligently&type=2",
-    "definition_en": "r. with diligence; in a diligent manner",
-    "definition_zh": "adv. 勤奋地；勤勉地",
-    "frq": 13952,
-    "composite_rank": 23718,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable diligently is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的勤奋地被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine diligently inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的勤奋地赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine gingerly inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的小心翼翼地赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -5075,52 +5675,77 @@
     ]
   },
   {
-    "id": "trusty",
-    "word": "trusty",
+    "id": "lenient",
+    "word": "lenient",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'trʌsti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=trusty&type=2",
-    "definition_en": "n. a convict who is considered trustworthy and granted special privileges",
-    "definition_zh": "a. 可信任的, 可信赖的, 可靠的； n. 可信任的人, 模范犯人",
-    "frq": 19081,
-    "composite_rank": 24805,
+    "phonetic": "/'li:njәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lenient&type=2",
+    "definition_en": "s. not strict\\ns. characterized by tolerance and mercy",
+    "definition_zh": "a. 宽大的, 温和的, 慈悲为怀的； 宽大的, 仁慈的",
+    "frq": 16056,
+    "composite_rank": 25112,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable trusty is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的可信任的人被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable lenient is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的宽大的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine trusty inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的可信任的人赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine lenient inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的宽大的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "unnerve",
-    "word": "unnerve",
+    "id": "indecent",
+    "word": "indecent",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/.ʌn'nә:v/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=unnerve&type=2",
-    "definition_en": "v disturb the composure of",
-    "definition_zh": "vt. 使失去勇气, 使胆怯, 使不能自制； 除神经",
-    "frq": 12595,
-    "composite_rank": 25492,
+    "phonetic": "/in'di:sәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=indecent&type=2",
+    "definition_en": "s. not in keeping with accepted standards of what is right or proper in polite society\\na. offensive to good taste especially in sexual matters\\ns. offending against sexual mores in conduct or appearance",
+    "definition_zh": "a. 下流的, 不礼貌的； 猥亵的",
+    "frq": 16264,
+    "composite_rank": 25437,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable unnerve is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的使失去勇气被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable indecent is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的下流的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine unnerve inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的使失去勇气赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine indecent inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的下流的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "valiant",
+    "word": "valiant",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'væljәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=valiant&type=2",
+    "definition_en": "s. having or showing valor",
+    "definition_zh": "a. 英勇的； n. 勇敢的人",
+    "frq": 16441,
+    "composite_rank": 25714,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable valiant is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的勇敢的人被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine valiant inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的勇敢的人赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -5175,27 +5800,102 @@
     ]
   },
   {
-    "id": "eccentricity",
-    "word": "eccentricity",
+    "id": "merciless",
+    "word": "merciless",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/.eksen'trisiti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=eccentricity&type=2",
-    "definition_en": "n. strange and unconventional behavior\\nn. (geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis\\nn. a circularity that has a different center or deviates from a circular path",
-    "definition_zh": "n. 古怪, 古怪行为, 怪癖； 偏心度; 偏心距; 偏心率",
-    "frq": 15942,
-    "composite_rank": 27101,
+    "phonetic": "/'mә:silis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=merciless&type=2",
+    "definition_en": "a. having or showing no mercy",
+    "definition_zh": "a. 无慈悲心的, 残忍的",
+    "frq": 16892,
+    "composite_rank": 26419,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable eccentricity is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的古怪被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable merciless is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的无慈悲心的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine eccentricity inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的古怪赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine merciless inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的无慈悲心的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "gallant",
+    "word": "gallant",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'gælәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gallant&type=2",
+    "definition_en": "s. unflinching in battle or action\\ns. having or displaying great dignity or nobility",
+    "definition_zh": "a. 英勇的, 壮丽的, 华丽的",
+    "frq": 17058,
+    "composite_rank": 26679,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable gallant is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的英勇的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine gallant inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的英勇的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "dishonesty",
+    "word": "dishonesty",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/dis'ɒnisti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dishonesty&type=2",
+    "definition_en": "n. the quality of being dishonest\\nn. lack of honesty; acts of lying or cheating or stealing",
+    "definition_zh": "n. 不诚实； 不诚实, 诈欺, 不正",
+    "frq": 17519,
+    "composite_rank": 27400,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable dishonesty is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的不诚实被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine dishonesty inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的不诚实赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "gloat",
+    "word": "gloat",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/glәut/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gloat&type=2",
+    "definition_en": "n. malicious satisfaction\\nv. dwell on with satisfaction\\nv. gaze at or think about something with great self-satisfaction, gratification, or joy",
+    "definition_zh": "vi. 满足地看, 幸灾乐祸, 贪婪地盯视； n. 贪婪的盯视, 满足的注视, 幸灾乐祸",
+    "frq": 17861,
+    "composite_rank": 27935,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable gloat is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的贪婪的盯视被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine gloat inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的贪婪的盯视赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -5221,31 +5921,6 @@
       {
         "en": "Her genuine voracious inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的贪吃的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "idiosyncratic",
-    "word": "idiosyncratic",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/.idiәsiŋ'krætik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=idiosyncratic&type=2",
-    "definition_en": "s. peculiar to the individual",
-    "definition_zh": "a. 特质的, 异质的, 特殊的； 特应性的, 特异体质的",
-    "frq": 12906,
-    "composite_rank": 28393,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable idiosyncratic is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的特质的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine idiosyncratic inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的特质的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -5325,6 +6000,81 @@
     ]
   },
   {
+    "id": "canny",
+    "word": "canny",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'kæni/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=canny&type=2",
+    "definition_en": "s showing self-interest and shrewdness in dealing with others",
+    "definition_zh": "a. 精明的, 谨慎的, 节约的",
+    "frq": 19263,
+    "composite_rank": 30127,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable canny is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的精明的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine canny inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的精明的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "foolishly",
+    "word": "foolishly",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'fu:liʃli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=foolishly&type=2",
+    "definition_en": "r. without good sense or judgment",
+    "definition_zh": "adv. 愚笨地, 无聊地",
+    "frq": 17742,
+    "composite_rank": 30161,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable foolishly is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的愚笨地被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine foolishly inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的愚笨地赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "cruelly",
+    "word": "cruelly",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'kru:әli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cruelly&type=2",
+    "definition_en": "r. excessively\\nr. with cruelty",
+    "definition_zh": "adv. 残忍地, 残酷地, 极",
+    "frq": 17835,
+    "composite_rank": 30320,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable cruelly is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的残忍地被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine cruelly inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的残忍地赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "infallible",
     "word": "infallible",
     "part_of_speech": "noun",
@@ -5346,6 +6096,56 @@
       {
         "en": "Her genuine infallible inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的一贯正确的人赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "scrupulous",
+    "word": "scrupulous",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'skru:pjulәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scrupulous&type=2",
+    "definition_en": "a. having scruples; arising from a sense of right and wrong; principled",
+    "definition_zh": "a. 小心谨慎的, 细心的",
+    "frq": 19556,
+    "composite_rank": 30586,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable scrupulous is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的小心谨慎的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine scrupulous inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的小心谨慎的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "pessimist",
+    "word": "pessimist",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'pesimist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pessimist&type=2",
+    "definition_en": "n. a person who expects the worst",
+    "definition_zh": "n. 悲观者, 厌世者, 悲观主义者",
+    "frq": 18238,
+    "composite_rank": 31005,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable pessimist is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的悲观者被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine pessimist inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的悲观者赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -5375,27 +6175,27 @@
     ]
   },
   {
-    "id": "impolite",
-    "word": "impolite",
+    "id": "trusty",
+    "word": "trusty",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/.impә'lait/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=impolite&type=2",
-    "definition_en": "a. not polite",
-    "definition_zh": "a. 无礼的, 粗鲁的",
-    "frq": 24132,
-    "composite_rank": 31372,
+    "phonetic": "/'trʌsti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=trusty&type=2",
+    "definition_en": "n. a convict who is considered trustworthy and granted special privileges",
+    "definition_zh": "a. 可信任的, 可信赖的, 可靠的； n. 可信任的人, 模范犯人",
+    "frq": 19081,
+    "composite_rank": 32438,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable impolite is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的无礼的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable trusty is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的可信任的人被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine impolite inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的无礼的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine trusty inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的可信任的人赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -5425,6 +6225,31 @@
     ]
   },
   {
+    "id": "amicable",
+    "word": "amicable",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'æmikәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=amicable&type=2",
+    "definition_en": "a. characterized by friendship and good will",
+    "definition_zh": "a. 友善的, 友好的； 友好的, 和睦的, 温和的",
+    "frq": 21684,
+    "composite_rank": 33914,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable amicable is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的友善的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine amicable inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的友善的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "cynic",
     "word": "cynic",
     "part_of_speech": "noun",
@@ -5450,27 +6275,27 @@
     ]
   },
   {
-    "id": "inexorably",
-    "word": "inexorably",
+    "id": "buzzard",
+    "word": "buzzard",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/inexorably/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=inexorably&type=2",
-    "definition_en": "r. in an inexorable manner",
-    "definition_zh": "adv. 冷酷地；无情地",
-    "frq": 15492,
-    "composite_rank": 34082,
+    "phonetic": "/'bʌzәd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=buzzard&type=2",
+    "definition_en": "n. a New World vulture that is common in South America and Central America and the southern United States\\nn. the common European short-winged hawk",
+    "definition_zh": "n. 贪婪的人, 做营营声的小虫",
+    "frq": 20057,
+    "composite_rank": 34097,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable inexorably is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的冷酷地被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable buzzard is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的贪婪的人被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine inexorably inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的冷酷地赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine buzzard inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的贪婪的人赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -5675,52 +6500,27 @@
     ]
   },
   {
-    "id": "abilities",
-    "word": "abilities",
+    "id": "perversity",
+    "word": "perversity",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/abilities/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=abilities&type=2",
-    "definition_en": "n the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment\\nn possession of the qualities (especially mental qualities) required to do something or get something done",
-    "definition_zh": "n. 能力, 才能（ability的复数形式）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
+    "phonetic": "/pә'vә:sәti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=perversity&type=2",
+    "definition_en": "n. deliberately deviating from what is good",
+    "definition_zh": "n. 乖僻, 倔强, 任性, 反常, 性变态",
+    "frq": 23279,
+    "composite_rank": 39574,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable abilities is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的能力被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable perversity is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的乖僻被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine abilities inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的能力赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "talents",
-    "word": "talents",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/talents/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=talents&type=2",
-    "definition_en": "n natural abilities or qualities\\nn a person who possesses unusual innate ability in some field or activity",
-    "definition_zh": "n. 人才；才能, 天赋（talent的复数）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable talents is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的人才被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine talents inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的人才赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine perversity inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的乖僻赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -5750,6 +6550,31 @@
     ]
   },
   {
+    "id": "obliging",
+    "word": "obliging",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ә'blaidʒiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=obliging&type=2",
+    "definition_en": "v force somebody to do something\\nv bind by an obligation; cause to be indebted\\nv provide a service or favor for someone\\ns showing a cheerful willingness to do favors for others",
+    "definition_zh": "a. 乐于施惠的, 体贴的, 有礼貌的",
+    "frq": 25935,
+    "composite_rank": 40562,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable obliging is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的乐于施惠的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine obliging inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的乐于施惠的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "unobtrusive",
     "word": "unobtrusive",
     "part_of_speech": "noun",
@@ -5775,27 +6600,27 @@
     ]
   },
   {
-    "id": "respectably",
-    "word": "respectably",
+    "id": "impolite",
+    "word": "impolite",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/ri'spektәbli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=respectably&type=2",
-    "definition_en": "r. to a tolerably worthy extent\\nr. in a decent and morally reputable manner",
-    "definition_zh": "adv. 高尚地, 可观地, 相当地",
-    "frq": 31869,
-    "composite_rank": 41430,
+    "phonetic": "/.impә'lait/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=impolite&type=2",
+    "definition_en": "a. not polite",
+    "definition_zh": "a. 无礼的, 粗鲁的",
+    "frq": 24132,
+    "composite_rank": 41024,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable respectably is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的高尚地被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable impolite is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的无礼的被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine respectably inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的高尚地赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine impolite inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的无礼的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -5850,6 +6675,31 @@
     ]
   },
   {
+    "id": "self-esteem",
+    "word": "self-esteem",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'selfis'ti:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=self-esteem&type=2",
+    "definition_en": "n. a feeling of pride in yourself",
+    "definition_zh": "n. 自尊, 自负, 自大",
+    "frq": 50000,
+    "composite_rank": 42000,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable self-esteem is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的自尊被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine self-esteem inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的自尊赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "conscientiously",
     "word": "conscientiously",
     "part_of_speech": "noun",
@@ -5900,27 +6750,52 @@
     ]
   },
   {
-    "id": "buzzard",
-    "word": "buzzard",
+    "id": "infallibility",
+    "word": "infallibility",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/'bʌzәd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=buzzard&type=2",
-    "definition_en": "n. a New World vulture that is common in South America and Central America and the southern United States\\nn. the common European short-winged hawk",
-    "definition_zh": "n. 贪婪的人, 做营营声的小虫",
-    "frq": 20057,
-    "composite_rank": 44125,
+    "phonetic": "/in,fælә'biliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=infallibility&type=2",
+    "definition_en": "n. the quality of never making an error",
+    "definition_zh": "n. 绝无错误, 绝对可靠性",
+    "frq": 25311,
+    "composite_rank": 43029,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable buzzard is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的贪婪的人被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable infallibility is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的绝无错误被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine buzzard inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的贪婪的人赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine infallibility inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的绝无错误赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "insecurely",
+    "word": "insecurely",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/insecurely/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=insecurely&type=2",
+    "definition_en": "r. in a tentative and self-conscious manner\\nr. in a manner involving risk",
+    "definition_zh": "adv. 不安全地；不可靠地",
+    "frq": 44613,
+    "composite_rank": 44613,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable insecurely is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的不安全地被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine insecurely inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的不安全地赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -5975,31 +6850,6 @@
     ]
   },
   {
-    "id": "untalented",
-    "word": "untalented",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/ʌn'tælәntid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=untalented&type=2",
-    "definition_en": "a. devoid of talent; not gifted",
-    "definition_zh": "a. 缺乏才能的, 没有才干的；没有天赋的；不聪明的",
-    "frq": 34806,
-    "composite_rank": 45248,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable untalented is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的缺乏才能的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine untalented inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的缺乏才能的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
     "id": "daft",
     "word": "daft",
     "part_of_speech": "noun",
@@ -6046,6 +6896,56 @@
       {
         "en": "Her genuine indolent inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的懒惰的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "well-balanced",
+    "word": "well-balanced",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/wel'bælәnst/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=well-balanced&type=2",
+    "definition_en": "s. in an optimal state of balance or equilibrium",
+    "definition_zh": "a. 匀称的, 营养成分均衡的, 神志健全的, 明智的, 通情达理的； 良平衡的",
+    "frq": 50000,
+    "composite_rank": 46000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable well-balanced is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的匀称的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine well-balanced inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的匀称的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "assiduous",
+    "word": "assiduous",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ә'sidjuәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=assiduous&type=2",
+    "definition_en": "s. marked by care and persistent effort",
+    "definition_zh": "a. 勤勉的, 刻苦的",
+    "frq": 30389,
+    "composite_rank": 47528,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable assiduous is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的勤勉的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine assiduous inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的勤勉的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -6100,6 +7000,31 @@
     ]
   },
   {
+    "id": "attributed",
+    "word": "attributed",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ə'trɪbjuːtɪd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=attributed&type=2",
+    "definition_en": "imp. & p. p. of Attribute",
+    "definition_zh": "v. 认为...是( attribute的过去式和过去分词 ); 把...归于; 把...品质归于某人; 认为某事属于某人",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable attributed is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的认为是被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine attributed inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的认为是赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "bricks",
     "word": "bricks",
     "part_of_speech": "noun",
@@ -6121,31 +7046,6 @@
       {
         "en": "Her genuine bricks inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的砖赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "capacities",
-    "word": "capacities",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/kəˈpæsitiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=capacities&type=2",
-    "definition_en": "pl.  of Capacity",
-    "definition_zh": "n. 容量( capacity的名词复数 ); 才能; 性能; 生产能力",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable capacities is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的容量被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine capacities inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的容量赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -6200,6 +7100,156 @@
     ]
   },
   {
+    "id": "grasped",
+    "word": "grasped",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ɡrɑ:spt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=grasped&type=2",
+    "definition_en": "v hold firmly\\nv get the meaning of something",
+    "definition_zh": "v. 抓住( grasp的过去式和过去分词 ); 了解; 急忙抓住; 急切（或贪婪）地抓住",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable grasped is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的抓住被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine grasped inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的抓住赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "inexorability",
+    "word": "inexorability",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/in.eksәrә'biliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=inexorability&type=2",
+    "definition_en": "n mercilessness characterized by an unwillingness to relent or let up",
+    "definition_zh": "n. 无情, 冷酷",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable inexorability is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的无情被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine inexorability inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的无情赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "recommendable",
+    "word": "recommendable",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/,rekә'mendәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=recommendable&type=2",
+    "definition_en": "a. Suitable to be recommended; worthy of praise;\\n   commendable.",
+    "definition_zh": "a. 可推荐的, 值得推荐的, 得当的, 明智的",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable recommendable is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的可推荐的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine recommendable inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的可推荐的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "summoned",
+    "word": "summoned",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ˈsʌmənd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=summoned&type=2",
+    "definition_en": "imp. & p. p. of Summon",
+    "definition_zh": "v. 传唤( summon的过去式和过去分词 ); 召唤; 传讯（出庭）; 鼓起（勇气）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable summoned is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的传唤被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine summoned inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的传唤赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "tenders",
+    "word": "tenders",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ˈtendəz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tenders&type=2",
+    "definition_en": "n something that can be used as an official medium of payment\\nn someone who waits on or tends to or attends to the needs of another\\nn a formal proposal to buy at a specified price\\nn car attached to a locomotive to carry fuel and water\\nn a boat for communication between ship and shore\\nn ship that usually provides supplies to other ships\\nv offer or present for acceptance\\nv propose a payment\\nv make a tender of; in legal settlements\\nv make tender or more tender as by marinating, pounding, or applying a tenderizer",
+    "definition_zh": "n. （正式）提出( tender的名词复数 ); （在大船和海岸之间载运人和货物的）供应船; 投标; 蒸汽机车的)煤水车； v. 提出( tender的第三人称单数 ); 使变温柔; 使变脆弱; 清偿, 偿债",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable tenders is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的提出被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine tenders inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的提出赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "traits",
+    "word": "traits",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/traits/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=traits&type=2",
+    "definition_en": "n a distinguishing feature of your personal nature",
+    "definition_zh": "n. 特性, 特质, 性格（trait的复数）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable traits is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的特性被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine traits inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的特性赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "trusts",
     "word": "trusts",
     "part_of_speech": "noun",
@@ -6225,27 +7275,27 @@
     ]
   },
   {
-    "id": "perversity",
-    "word": "perversity",
+    "id": "wolves",
+    "word": "wolves",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/pә'vә:sәti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=perversity&type=2",
-    "definition_en": "n. deliberately deviating from what is good",
-    "definition_zh": "n. 乖僻, 倔强, 任性, 反常, 性变态",
-    "frq": 23279,
-    "composite_rank": 51214,
+    "phonetic": "/wolves/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wolves&type=2",
+    "definition_en": "n any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs\\nn Austrian composer (1860-1903)\\nn German classical scholar who claimed that the Iliad and Odyssey were composed by several authors (1759-1824)\\nn a man who is aggressive in making amorous advances to women\\nn a cruelly rapacious person",
+    "definition_zh": "狼, 狼皮, 残暴成性的人, 贪婪的人, 阴险狡猾的人, (贬)追逐女性的人, 色狼, 色鬼",
+    "frq": 50000,
+    "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable perversity is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的乖僻被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable wolves is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的狼被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine perversity inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的乖僻赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine wolves inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的狼赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -6300,6 +7350,31 @@
     ]
   },
   {
+    "id": "wilful",
+    "word": "wilful",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/'wilful/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wilful&type=2",
+    "definition_en": "s done by design\\ns habitually disposed to disobedience and opposition",
+    "definition_zh": "a. 任性的, 固执的, 故意的, 存心的； 有意的, 故意的, 任性的",
+    "frq": 44654,
+    "composite_rank": 53406,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable wilful is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的任性的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine wilful inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的任性的赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
     "id": "fiendishly",
     "word": "fiendishly",
     "part_of_speech": "noun",
@@ -6325,52 +7400,77 @@
     ]
   },
   {
-    "id": "infallibility",
-    "word": "infallibility",
+    "id": "respectably",
+    "word": "respectably",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/in,fælә'biliti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=infallibility&type=2",
-    "definition_en": "n. the quality of never making an error",
-    "definition_zh": "n. 绝无错误, 绝对可靠性",
-    "frq": 25311,
-    "composite_rank": 55684,
+    "phonetic": "/ri'spektәbli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=respectably&type=2",
+    "definition_en": "r. to a tolerably worthy extent\\nr. in a decent and morally reputable manner",
+    "definition_zh": "adv. 高尚地, 可观地, 相当地",
+    "frq": 31869,
+    "composite_rank": 54177,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable infallibility is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的绝无错误被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable respectably is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的高尚地被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine infallibility inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的绝无错误赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine respectably inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的高尚地赢得了全体同事的信赖与拥护。"
       }
     ]
   },
   {
-    "id": "well-balanced",
-    "word": "well-balanced",
+    "id": "callously",
+    "word": "callously",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/wel'bælәnst/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=well-balanced&type=2",
-    "definition_en": "s. in an optimal state of balance or equilibrium",
-    "definition_zh": "a. 匀称的, 营养成分均衡的, 神志健全的, 明智的, 通情达理的； 良平衡的",
-    "frq": 50000,
-    "composite_rank": 59800,
+    "phonetic": "/'kæləsli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=callously&type=2",
+    "definition_en": "r. in a callous way",
+    "definition_zh": "adv. 冷酷无情地；麻木不仁地",
+    "frq": 32742,
+    "composite_rank": 55661,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable well-balanced is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的匀称的被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable callously is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的冷酷无情地被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine well-balanced inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的匀称的赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine callously inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的冷酷无情地赢得了全体同事的信赖与拥护。"
+      }
+    ]
+  },
+  {
+    "id": "untalented",
+    "word": "untalented",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "性格品质与人格特质",
+    "category": "personality_traits",
+    "phonetic": "/ʌn'tælәntid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=untalented&type=2",
+    "definition_en": "a. devoid of talent; not gifted",
+    "definition_zh": "a. 缺乏才能的, 没有才干的；没有天赋的；不聪明的",
+    "frq": 34806,
+    "composite_rank": 59170,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Demonstrating remarkable untalented is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的缺乏才能的被视为真正领导力的标志。"
+      },
+      {
+        "en": "Her genuine untalented inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的缺乏才能的赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -6400,152 +7500,27 @@
     ]
   },
   {
-    "id": "attributed",
-    "word": "attributed",
+    "id": "magnanimously",
+    "word": "magnanimously",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "性格品质与人格特质",
     "category": "personality_traits",
-    "phonetic": "/ə'trɪbjuːtɪd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=attributed&type=2",
-    "definition_en": "imp. & p. p. of Attribute",
-    "definition_zh": "v. 认为...是( attribute的过去式和过去分词 ); 把...归于; 把...品质归于某人; 认为某事属于某人",
-    "frq": 50000,
-    "composite_rank": 65000,
+    "phonetic": "/mæg'næniməsli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=magnanimously&type=2",
+    "definition_en": "r. in a magnanimous manner",
+    "definition_zh": "adv. 大度宽宏地, 度量大地；高尚地",
+    "frq": 36453,
+    "composite_rank": 61970,
     "badge": "normal",
     "examples": [
       {
-        "en": "Demonstrating remarkable attributed is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的认为是被视为真正领导力的标志。"
+        "en": "Demonstrating remarkable magnanimously is regarded as a hallmark of true leadership.",
+        "zh": "展现出众的大度宽宏地被视为真正领导力的标志。"
       },
       {
-        "en": "Her genuine attributed inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的认为是赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "grasped",
-    "word": "grasped",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/ɡrɑ:spt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=grasped&type=2",
-    "definition_en": "v hold firmly\\nv get the meaning of something",
-    "definition_zh": "v. 抓住( grasp的过去式和过去分词 ); 了解; 急忙抓住; 急切（或贪婪）地抓住",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable grasped is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的抓住被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine grasped inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的抓住赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "recommendable",
-    "word": "recommendable",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/,rekә'mendәbl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=recommendable&type=2",
-    "definition_en": "a. Suitable to be recommended; worthy of praise;\\n   commendable.",
-    "definition_zh": "a. 可推荐的, 值得推荐的, 得当的, 明智的",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable recommendable is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的可推荐的被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine recommendable inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的可推荐的赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "tenders",
-    "word": "tenders",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/ˈtendəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tenders&type=2",
-    "definition_en": "n something that can be used as an official medium of payment\\nn someone who waits on or tends to or attends to the needs of another\\nn a formal proposal to buy at a specified price\\nn car attached to a locomotive to carry fuel and water\\nn a boat for communication between ship and shore\\nn ship that usually provides supplies to other ships\\nv offer or present for acceptance\\nv propose a payment\\nv make a tender of; in legal settlements\\nv make tender or more tender as by marinating, pounding, or applying a tenderizer",
-    "definition_zh": "n. （正式）提出( tender的名词复数 ); （在大船和海岸之间载运人和货物的）供应船; 投标; 蒸汽机车的)煤水车； v. 提出( tender的第三人称单数 ); 使变温柔; 使变脆弱; 清偿, 偿债",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable tenders is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的提出被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine tenders inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的提出赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "traits",
-    "word": "traits",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/traits/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=traits&type=2",
-    "definition_en": "n a distinguishing feature of your personal nature",
-    "definition_zh": "n. 特性, 特质, 性格（trait的复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable traits is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的特性被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine traits inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的特性赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "wolves",
-    "word": "wolves",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/wolves/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wolves&type=2",
-    "definition_en": "n any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs\\nn Austrian composer (1860-1903)\\nn German classical scholar who claimed that the Iliad and Odyssey were composed by several authors (1759-1824)\\nn a man who is aggressive in making amorous advances to women\\nn a cruelly rapacious person",
-    "definition_zh": "狼, 狼皮, 残暴成性的人, 贪婪的人, 阴险狡猾的人, (贬)追逐女性的人, 色狼, 色鬼",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable wolves is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的狼被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine wolves inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的狼赢得了全体同事的信赖与拥护。"
+        "en": "Her genuine magnanimously inspired trust and loyalty among all colleagues.",
+        "zh": "她真诚的大度宽宏地赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -6571,81 +7546,6 @@
       {
         "en": "Her genuine stultify inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的使显得愚笨赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "callously",
-    "word": "callously",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/'kæləsli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=callously&type=2",
-    "definition_en": "r. in a callous way",
-    "definition_zh": "adv. 冷酷无情地；麻木不仁地",
-    "frq": 32742,
-    "composite_rank": 72032,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable callously is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的冷酷无情地被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine callously inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的冷酷无情地赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "insecurely",
-    "word": "insecurely",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/insecurely/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=insecurely&type=2",
-    "definition_en": "r. in a tentative and self-conscious manner\\nr. in a manner involving risk",
-    "definition_zh": "adv. 不安全地；不可靠地",
-    "frq": 44613,
-    "composite_rank": 75842,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable insecurely is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的不安全地被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine insecurely inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的不安全地赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "magnanimously",
-    "word": "magnanimously",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/mæg'næniməsli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=magnanimously&type=2",
-    "definition_en": "r. in a magnanimous manner",
-    "definition_zh": "adv. 大度宽宏地, 度量大地；高尚地",
-    "frq": 36453,
-    "composite_rank": 80197,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable magnanimously is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的大度宽宏地被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine magnanimously inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的大度宽宏地赢得了全体同事的信赖与拥护。"
       }
     ]
   },
@@ -6721,56 +7621,6 @@
       {
         "en": "Her genuine munificence inspired trust and loyalty among all colleagues.",
         "zh": "她真诚的丰厚赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "inexorability",
-    "word": "inexorability",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/in.eksәrә'biliti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=inexorability&type=2",
-    "definition_en": "n mercilessness characterized by an unwillingness to relent or let up",
-    "definition_zh": "n. 无情, 冷酷",
-    "frq": 50000,
-    "composite_rank": 110000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable inexorability is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的无情被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine inexorability inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的无情赢得了全体同事的信赖与拥护。"
-      }
-    ]
-  },
-  {
-    "id": "summoned",
-    "word": "summoned",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "性格品质与人格特质",
-    "category": "personality_traits",
-    "phonetic": "/ˈsʌmənd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=summoned&type=2",
-    "definition_en": "imp. & p. p. of Summon",
-    "definition_zh": "v. 传唤( summon的过去式和过去分词 ); 召唤; 传讯（出庭）; 鼓起（勇气）",
-    "frq": 50000,
-    "composite_rank": 110000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Demonstrating remarkable summoned is regarded as a hallmark of true leadership.",
-        "zh": "展现出众的传唤被视为真正领导力的标志。"
-      },
-      {
-        "en": "Her genuine summoned inspired trust and loyalty among all colleagues.",
-        "zh": "她真诚的传唤赢得了全体同事的信赖与拥护。"
       }
     ]
   }

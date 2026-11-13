@@ -128,7 +128,7 @@
     "id": "fool",
     "word": "fool",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
     "phonetic": "/fu:l/",
@@ -136,7 +136,7 @@
     "definition_en": "n. a person who lacks good judgment\\nv. make a fool or dupe of",
     "definition_zh": "n. 愚人, 受骗者, 奶油拌水果； vt. 愚弄, 欺骗, 浪费； vi. 干傻事, 开玩笑, 游荡； a. 傻的",
     "frq": 4030,
-    "composite_rank": 3063,
+    "composite_rank": 2450,
     "badge": "core",
     "examples": [
       {
@@ -150,10 +150,35 @@
     ]
   },
   {
+    "id": "banana",
+    "word": "banana",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "水果浆果与坚果",
+    "category": "food_fruits",
+    "phonetic": "/bә'nɑ:nә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=banana&type=2",
+    "definition_en": "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits\\nn. elongated crescent-shaped yellow fruit with soft sweet flesh",
+    "definition_zh": "n. 香蕉",
+    "frq": 4677,
+    "composite_rank": 2554,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Fresh banana is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的香蕉富含天然维生素与有益营养。"
+      },
+      {
+        "en": "He added some sliced banana to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的香蕉。"
+      }
+    ]
+  },
+  {
     "id": "rape",
     "word": "rape",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
     "phonetic": "/reip/",
@@ -161,7 +186,7 @@
     "definition_en": "n. Eurasian plant cultivated for its seed and as a forage crop\\nn. the act of despoiling a country in warfare\\nn. the crime of forcing a woman to submit to sexual intercourse against her will\\nv. force (someone) to have sex against their will",
     "definition_zh": "n. 抢夺, 掠夺, 强奸, 葡萄渣, 芸苔； vt. 掠夺, 抢夺, 强奸",
     "frq": 3416,
-    "composite_rank": 3375,
+    "composite_rank": 2596,
     "badge": "core",
     "examples": [
       {
@@ -175,35 +200,10 @@
     ]
   },
   {
-    "id": "banana",
-    "word": "banana",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "水果浆果与坚果",
-    "category": "food_fruits",
-    "phonetic": "/bә'nɑ:nә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=banana&type=2",
-    "definition_en": "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits\\nn. elongated crescent-shaped yellow fruit with soft sweet flesh",
-    "definition_zh": "n. 香蕉",
-    "frq": 4677,
-    "composite_rank": 3929,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Fresh banana is packed with natural vitamins and wholesome nutrients.",
-        "zh": "新鲜的香蕉富含天然维生素与有益营养。"
-      },
-      {
-        "en": "He added some sliced banana to his morning breakfast bowl.",
-        "zh": "他在早晨的早餐碗里加了一些切好的香蕉。"
-      }
-    ]
-  },
-  {
     "id": "grape",
     "word": "grape",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
     "phonetic": "/greip/",
@@ -211,7 +211,7 @@
     "definition_en": "n. any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters\\nn. any of numerous woody vines of genus Vitis bearing clusters of edible berries",
     "definition_zh": "n. 葡萄, 葡萄树； 葡萄",
     "frq": 4764,
-    "composite_rank": 4002,
+    "composite_rank": 3201,
     "badge": "high",
     "examples": [
       {
@@ -228,7 +228,7 @@
     "id": "strawberry",
     "word": "strawberry",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
     "phonetic": "/'strɒ:bәri/",
@@ -236,7 +236,7 @@
     "definition_en": "n. sweet fleshy red fruit\\nn. any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry\\nn. a soft red birthmark",
     "definition_zh": "n. 草莓",
     "frq": 5437,
-    "composite_rank": 4567,
+    "composite_rank": 3654,
     "badge": "high",
     "examples": [
       {
@@ -253,7 +253,7 @@
     "id": "peach",
     "word": "peach",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
     "phonetic": "/pi:tʃ/",
@@ -261,7 +261,7 @@
     "definition_en": "n. cultivated in temperate regions\\nn. downy juicy fruit with sweet yellowish or whitish flesh",
     "definition_zh": "n. 桃子, 桃树, 桃色, 美人儿, 极好的事物； vt. 告发； vi. 告密, 检举",
     "frq": 5531,
-    "composite_rank": 4646,
+    "composite_rank": 3717,
     "badge": "high",
     "examples": [
       {
@@ -271,6 +271,31 @@
       {
         "en": "He added some sliced peach to his morning breakfast bowl.",
         "zh": "他在早晨的早餐碗里加了一些切好的桃子。"
+      }
+    ]
+  },
+  {
+    "id": "peanut",
+    "word": "peanut",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "水果浆果与坚果",
+    "category": "food_fruits",
+    "phonetic": "/'pi:nʌt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=peanut&type=2",
+    "definition_en": "n. underground pod of the peanut vine\\nn. widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground\\nn. a young child who is small for his age\\nn. pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms",
+    "definition_zh": "n. 花生, 小人物, 极小的数额； a. 渺小的, 微不足道的",
+    "frq": 4627,
+    "composite_rank": 4257,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Fresh peanut is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的花生富含天然维生素与有益营养。"
+      },
+      {
+        "en": "He added some sliced peanut to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的花生。"
       }
     ]
   },
@@ -350,35 +375,10 @@
     ]
   },
   {
-    "id": "peanut",
-    "word": "peanut",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "水果浆果与坚果",
-    "category": "food_fruits",
-    "phonetic": "/'pi:nʌt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=peanut&type=2",
-    "definition_en": "n. underground pod of the peanut vine\\nn. widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground\\nn. a young child who is small for his age\\nn. pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms",
-    "definition_zh": "n. 花生, 小人物, 极小的数额； a. 渺小的, 微不足道的",
-    "frq": 4627,
-    "composite_rank": 5534,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Fresh peanut is packed with natural vitamins and wholesome nutrients.",
-        "zh": "新鲜的花生富含天然维生素与有益营养。"
-      },
-      {
-        "en": "He added some sliced peanut to his morning breakfast bowl.",
-        "zh": "他在早晨的早餐碗里加了一些切好的花生。"
-      }
-    ]
-  },
-  {
     "id": "coconut",
     "word": "coconut",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
     "phonetic": "/'kәukәnәt/",
@@ -386,8 +386,8 @@
     "definition_en": "n. the edible white meat of a coconut; often shredded for use in e.g. cakes and curries\\nn. large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk\\nn. tall palm tree bearing coconuts as fruits; widely planted throughout the tropics",
     "definition_zh": "n. 椰子； 椰子(实)",
     "frq": 6812,
-    "composite_rank": 8147,
-    "badge": "normal",
+    "composite_rank": 6267,
+    "badge": "high",
     "examples": [
       {
         "en": "Fresh coconut is packed with natural vitamins and wholesome nutrients.",
@@ -396,6 +396,31 @@
       {
         "en": "He added some sliced coconut to his morning breakfast bowl.",
         "zh": "他在早晨的早餐碗里加了一些切好的椰子。"
+      }
+    ]
+  },
+  {
+    "id": "plum",
+    "word": "plum",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "水果浆果与坚果",
+    "category": "food_fruits",
+    "phonetic": "/plʌm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=plum&type=2",
+    "definition_en": "n. any of several trees producing edible oval fruit having a smooth skin and a single hard stone\\nn. any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit\\nn. a highly desirable position or assignment",
+    "definition_zh": "n. 李子",
+    "frq": 7666,
+    "composite_rank": 7053,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Fresh plum is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的李子富含天然维生素与有益营养。"
+      },
+      {
+        "en": "He added some sliced plum to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的李子。"
       }
     ]
   },
@@ -425,6 +450,31 @@
     ]
   },
   {
+    "id": "watermelon",
+    "word": "watermelon",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "水果浆果与坚果",
+    "category": "food_fruits",
+    "phonetic": "/'wɒtә.melәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=watermelon&type=2",
+    "definition_en": "n. an African melon\\nn. large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp",
+    "definition_zh": "n. 西瓜",
+    "frq": 10944,
+    "composite_rank": 8755,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Fresh watermelon is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的西瓜富含天然维生素与有益营养。"
+      },
+      {
+        "en": "He added some sliced watermelon to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的西瓜。"
+      }
+    ]
+  },
+  {
     "id": "melon",
     "word": "melon",
     "part_of_speech": "noun",
@@ -446,31 +496,6 @@
       {
         "en": "He added some sliced melon to his morning breakfast bowl.",
         "zh": "他在早晨的早餐碗里加了一些切好的瓜。"
-      }
-    ]
-  },
-  {
-    "id": "plum",
-    "word": "plum",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "水果浆果与坚果",
-    "category": "food_fruits",
-    "phonetic": "/plʌm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=plum&type=2",
-    "definition_en": "n. any of several trees producing edible oval fruit having a smooth skin and a single hard stone\\nn. any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit\\nn. a highly desirable position or assignment",
-    "definition_zh": "n. 李子",
-    "frq": 7666,
-    "composite_rank": 9169,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Fresh plum is packed with natural vitamins and wholesome nutrients.",
-        "zh": "新鲜的李子富含天然维生素与有益营养。"
-      },
-      {
-        "en": "He added some sliced plum to his morning breakfast bowl.",
-        "zh": "他在早晨的早餐碗里加了一些切好的李子。"
       }
     ]
   },
@@ -550,27 +575,27 @@
     ]
   },
   {
-    "id": "watermelon",
-    "word": "watermelon",
+    "id": "vineyard",
+    "word": "vineyard",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
-    "phonetic": "/'wɒtә.melәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=watermelon&type=2",
-    "definition_en": "n. an African melon\\nn. large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp",
-    "definition_zh": "n. 西瓜",
-    "frq": 10944,
-    "composite_rank": 10944,
-    "badge": "normal",
+    "phonetic": "/'vinjәd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vineyard&type=2",
+    "definition_en": "n. a farm of grapevines where wine grapes are produced",
+    "definition_zh": "n. 葡萄园",
+    "frq": 9897,
+    "composite_rank": 10808,
+    "badge": "high",
     "examples": [
       {
-        "en": "Fresh watermelon is packed with natural vitamins and wholesome nutrients.",
-        "zh": "新鲜的西瓜富含天然维生素与有益营养。"
+        "en": "Fresh vineyard is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的葡萄园富含天然维生素与有益营养。"
       },
       {
-        "en": "He added some sliced watermelon to his morning breakfast bowl.",
-        "zh": "他在早晨的早餐碗里加了一些切好的西瓜。"
+        "en": "He added some sliced vineyard to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的葡萄园。"
       }
     ]
   },
@@ -603,7 +628,7 @@
     "id": "grapefruit",
     "word": "grapefruit",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
     "phonetic": "/'greipfru:t/",
@@ -611,7 +636,7 @@
     "definition_en": "n. citrus tree bearing large round edible fruit having a thick yellow rind and juicy somewhat acid pulp\\nn. large yellow fruit with somewhat acid juicy pulp; usual serving consists of a half",
     "definition_zh": "n. 葡萄轴",
     "frq": 12057,
-    "composite_rank": 18857,
+    "composite_rank": 14420,
     "badge": "normal",
     "examples": [
       {
@@ -625,10 +650,60 @@
     ]
   },
   {
+    "id": "almond",
+    "word": "almond",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "水果浆果与坚果",
+    "category": "food_fruits",
+    "phonetic": "/'ɑ:mәnd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=almond&type=2",
+    "definition_en": "n. small bushy deciduous tree native to Asia and North Africa having pretty pink blossoms and highly prized edible nuts enclosed in a hard green hull; cultivated in southern Australia and California\\nn. oval-shaped edible seed of the almond tree",
+    "definition_zh": "n. 杏仁； 杏仁",
+    "frq": 7510,
+    "composite_rank": 15200,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Fresh almond is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的杏仁富含天然维生素与有益营养。"
+      },
+      {
+        "en": "He added some sliced almond to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的杏仁。"
+      }
+    ]
+  },
+  {
+    "id": "fig",
+    "word": "fig",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "水果浆果与坚果",
+    "category": "food_fruits",
+    "phonetic": "/fig/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fig&type=2",
+    "definition_en": "n. Mediterranean tree widely cultivated for its edible fruit\\nn. fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried",
+    "definition_zh": "n. 无花果, 无价值的东西, 少许, 服装； vt. 打扮, 使马跑快",
+    "frq": 7542,
+    "composite_rank": 15265,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Fresh fig is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的无花果富含天然维生素与有益营养。"
+      },
+      {
+        "en": "He added some sliced fig to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的无花果。"
+      }
+    ]
+  },
+  {
     "id": "prune",
     "word": "prune",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
     "phonetic": "/pru:n/",
@@ -636,7 +711,7 @@
     "definition_en": "n. dried plum",
     "definition_zh": "n. 洋李, 李子干, 深紫红色, 傻瓜； vt. 修剪, 砍掉, 删除； vi. 删除, 删节",
     "frq": 14230,
-    "composite_rank": 20320,
+    "composite_rank": 15539,
     "badge": "high",
     "examples": [
       {
@@ -650,27 +725,52 @@
     ]
   },
   {
-    "id": "nutshell",
-    "word": "nutshell",
+    "id": "fruitless",
+    "word": "fruitless",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
-    "phonetic": "/'nʌtʃel/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nutshell&type=2",
-    "definition_en": "n. the shell around the kernel of a nut",
-    "definition_zh": "n. 坚果壳, 极小的东西",
-    "frq": 16204,
-    "composite_rank": 21065,
+    "phonetic": "/'fru:tlis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fruitless&type=2",
+    "definition_en": "s unproductive of success",
+    "definition_zh": "a. 不结果的, 不长果实的, 无子的",
+    "frq": 15518,
+    "composite_rank": 18560,
     "badge": "normal",
     "examples": [
       {
-        "en": "Fresh nutshell is packed with natural vitamins and wholesome nutrients.",
-        "zh": "新鲜的坚果壳富含天然维生素与有益营养。"
+        "en": "Fresh fruitless is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的不结果的富含天然维生素与有益营养。"
       },
       {
-        "en": "He added some sliced nutshell to his morning breakfast bowl.",
-        "zh": "他在早晨的早餐碗里加了一些切好的坚果壳。"
+        "en": "He added some sliced fruitless to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的不结果的。"
+      }
+    ]
+  },
+  {
+    "id": "glucose",
+    "word": "glucose",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "水果浆果与坚果",
+    "category": "food_fruits",
+    "phonetic": "/'glu:kәus/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=glucose&type=2",
+    "definition_en": "n. a monosaccharide sugar that has several forms; an important source of physiological energy",
+    "definition_zh": "n. 葡萄糖； 葡萄糖; 右旋糖; 葡糖(用于复合词中)",
+    "frq": 11666,
+    "composite_rank": 23612,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Fresh glucose is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的葡萄糖富含天然维生素与有益营养。"
+      },
+      {
+        "en": "He added some sliced glucose to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的葡萄糖。"
       }
     ]
   },
@@ -700,77 +800,102 @@
     ]
   },
   {
-    "id": "apples",
-    "word": "apples",
+    "id": "nutshell",
+    "word": "nutshell",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "水果浆果与坚果",
     "category": "food_fruits",
-    "phonetic": "/'æplz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=apples&type=2",
-    "definition_en": "n fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\\nn native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits",
-    "definition_zh": "n. 苹果（复数）；井架小零件",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Fresh apples is packed with natural vitamins and wholesome nutrients.",
-        "zh": "新鲜的苹果富含天然维生素与有益营养。"
-      },
-      {
-        "en": "He added some sliced apples to his morning breakfast bowl.",
-        "zh": "他在早晨的早餐碗里加了一些切好的苹果。"
-      }
-    ]
-  },
-  {
-    "id": "grapes",
-    "word": "grapes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "水果浆果与坚果",
-    "category": "food_fruits",
-    "phonetic": "/grapes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=grapes&type=2",
-    "definition_en": "n any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters\\nn any of numerous woody vines of genus Vitis bearing clusters of edible berries\\nn a cluster of small projectiles fired together from a cannon to produce a hail of shot",
-    "definition_zh": "马体葡萄疮, 牛结核",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Fresh grapes is packed with natural vitamins and wholesome nutrients.",
-        "zh": "新鲜的马体葡萄疮富含天然维生素与有益营养。"
-      },
-      {
-        "en": "He added some sliced grapes to his morning breakfast bowl.",
-        "zh": "他在早晨的早餐碗里加了一些切好的马体葡萄疮。"
-      }
-    ]
-  },
-  {
-    "id": "berries",
-    "word": "berries",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "水果浆果与坚果",
-    "category": "food_fruits",
-    "phonetic": "/berries/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=berries&type=2",
-    "definition_en": "n any of numerous small and pulpy edible fruits; used as desserts or in making jams and jellies and preserves\\nn a small fruit having any of various structures, e.g., simple (grape or blueberry) or aggregate (blackberry or raspberry)\\nn United States rock singer (born in 1931)\\nv pick or gather berries",
-    "definition_zh": "浆果类",
-    "frq": 50000,
-    "composite_rank": 65000,
+    "phonetic": "/'nʌtʃel/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nutshell&type=2",
+    "definition_en": "n. the shell around the kernel of a nut",
+    "definition_zh": "n. 坚果壳, 极小的东西",
+    "frq": 16204,
+    "composite_rank": 27547,
     "badge": "normal",
     "examples": [
       {
-        "en": "Fresh berries is packed with natural vitamins and wholesome nutrients.",
-        "zh": "新鲜的浆果类富含天然维生素与有益营养。"
+        "en": "Fresh nutshell is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的坚果壳富含天然维生素与有益营养。"
       },
       {
-        "en": "He added some sliced berries to his morning breakfast bowl.",
-        "zh": "他在早晨的早餐碗里加了一些切好的浆果类。"
+        "en": "He added some sliced nutshell to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的坚果壳。"
+      }
+    ]
+  },
+  {
+    "id": "infertile",
+    "word": "infertile",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "水果浆果与坚果",
+    "category": "food_fruits",
+    "phonetic": "/in'fә:tail/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=infertile&type=2",
+    "definition_en": "a incapable of reproducing",
+    "definition_zh": "a. 不肥沃的, 不毛的, 不结果实的",
+    "frq": 17816,
+    "composite_rank": 27864,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Fresh infertile is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的不肥沃的富含天然维生素与有益营养。"
+      },
+      {
+        "en": "He added some sliced infertile to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的不肥沃的。"
+      }
+    ]
+  },
+  {
+    "id": "hazel",
+    "word": "hazel",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "水果浆果与坚果",
+    "category": "food_fruits",
+    "phonetic": "/'heizl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hazel&type=2",
+    "definition_en": "n. Australian tree grown especially for ornament and its fine-grained wood and bearing edible nuts\\nn. the fine-grained wood of a hazelnut tree (genus Corylus) and the hazel tree (Australian genus Pomaderris)\\nn. a shade of brown that is yellowish or reddish; it is a greenish shade of brown when used to describe the color of someone's eyes\\ns. of a light brown or yellowish brown color",
+    "definition_zh": "n. 榛子, 榛树, 淡褐色； a. 榛树的, 淡褐色的",
+    "frq": 19936,
+    "composite_rank": 31180,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Fresh hazel is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的榛子富含天然维生素与有益营养。"
+      },
+      {
+        "en": "He added some sliced hazel to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的榛子。"
+      }
+    ]
+  },
+  {
+    "id": "greengrocer",
+    "word": "greengrocer",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "水果浆果与坚果",
+    "category": "food_fruits",
+    "phonetic": "/'gri:ngrәusә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=greengrocer&type=2",
+    "definition_en": "n. a grocer who sells fresh fruits and vegetables",
+    "definition_zh": "n. 蔬菜水果商, 菜贩",
+    "frq": 31343,
+    "composite_rank": 31343,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Fresh greengrocer is packed with natural vitamins and wholesome nutrients.",
+        "zh": "新鲜的蔬菜水果商富含天然维生素与有益营养。"
+      },
+      {
+        "en": "He added some sliced greengrocer to his morning breakfast bowl.",
+        "zh": "他在早晨的早餐碗里加了一些切好的蔬菜水果商。"
       }
     ]
   }

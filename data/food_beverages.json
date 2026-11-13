@@ -1,30 +1,5 @@
 [
   {
-    "id": "cup",
-    "word": "cup",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/kʌp/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cup&type=2",
-    "definition_en": "n. a small open container usually used for drinking; usually has a handle\\nn. the quantity a cup will hold\\nn. any cup-shaped concavity\\nn. a United States liquid unit equal to 8 fluid ounces",
-    "definition_zh": "n. 杯子, 茶杯, 优胜杯； vt. 使成杯状, 为...拔火罐",
-    "frq": 780,
-    "composite_rank": 213,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served cup at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的杯子。"
-      },
-      {
-        "en": "She ordered a chilled glass of cup to pair with her dinner.",
-        "zh": "她点了一杯冰镇杯子来搭配晚餐。"
-      }
-    ]
-  },
-  {
     "id": "wine",
     "word": "wine",
     "part_of_speech": "noun",
@@ -250,31 +225,6 @@
     ]
   },
   {
-    "id": "bottle",
-    "word": "bottle",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/'bɒtl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bottle&type=2",
-    "definition_en": "n. a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped\\nn. the quantity contained in a bottle\\nn. a vessel fitted with a flexible teat and filled with milk or formula; used as a substitute for breast feeding infants and very young children\\nv. store (liquids or gases) in bottles",
-    "definition_zh": "n. 瓶子, 酒瓶； vt. 装瓶, 抑制, 围困",
-    "frq": 1740,
-    "composite_rank": 538,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served bottle at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的瓶子。"
-      },
-      {
-        "en": "She ordered a chilled glass of bottle to pair with her dinner.",
-        "zh": "她点了一杯冰镇瓶子来搭配晚餐。"
-      }
-    ]
-  },
-  {
     "id": "alcohol",
     "word": "alcohol",
     "part_of_speech": "noun",
@@ -296,31 +246,6 @@
       {
         "en": "She ordered a chilled glass of alcohol to pair with her dinner.",
         "zh": "她点了一杯冰镇酒精来搭配晚餐。"
-      }
-    ]
-  },
-  {
-    "id": "sour",
-    "word": "sour",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/'sauә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sour&type=2",
-    "definition_en": "n. a cocktail made of a liquor (especially whiskey or gin) mixed with lemon or lime juice and sugar\\nn. the taste experience when vinegar or lemon juice is taken into the mouth\\nv. go sour or spoil\\nv. make sour or more sour",
-    "definition_zh": "a. 酸的, 酸臭的, 发酵的, 愠怒的, 讨厌的, 拙劣的, 不健全的； vi. 变酸, 发酵, 厌烦, 变坏； vt. 使变酸, 使失望； n. 酸味, 酸饮料",
-    "frq": 5281,
-    "composite_rank": 2018,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served sour at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的酸味。"
-      },
-      {
-        "en": "She ordered a chilled glass of sour to pair with her dinner.",
-        "zh": "她点了一杯冰镇酸味来搭配晚餐。"
       }
     ]
   },
@@ -421,31 +346,6 @@
       {
         "en": "She ordered a chilled glass of punch to pair with her dinner.",
         "zh": "她点了一杯冰镇打洞器来搭配晚餐。"
-      }
-    ]
-  },
-  {
-    "id": "pitcher",
-    "word": "pitcher",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/'pitʃә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pitcher&type=2",
-    "definition_en": "n. (baseball) the person who does the pitching\\nn. an open vessel with a handle and a spout for pouring\\nn. the quantity contained in a pitcher\\nn. (botany) a leaf that that is modified in such a way as to resemble a pitcher or ewer",
-    "definition_zh": "n. 有把的大罐, 瓶状体, 投手, 摊贩",
-    "frq": 3478,
-    "composite_rank": 3200,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served pitcher at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的有把的大罐。"
-      },
-      {
-        "en": "She ordered a chilled glass of pitcher to pair with her dinner.",
-        "zh": "她点了一杯冰镇有把的大罐来搭配晚餐。"
       }
     ]
   },
@@ -1075,6 +975,31 @@
     ]
   },
   {
+    "id": "coke",
+    "word": "coke",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/kәuk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=coke&type=2",
+    "definition_en": "n. carbon fuel produced by distillation of coal\\nn. street names for cocaine\\nv. become coke",
+    "definition_zh": "n. 可口可乐, 焦炭； v. (使)成焦炭",
+    "frq": 12273,
+    "composite_rank": 9033,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Guests enjoyed a freshly served coke at the lounge.",
+        "zh": "客人们在酒廊享用了新鲜供应的可口可乐。"
+      },
+      {
+        "en": "She ordered a chilled glass of coke to pair with her dinner.",
+        "zh": "她点了一杯冰镇可口可乐来搭配晚餐。"
+      }
+    ]
+  },
+  {
     "id": "infusion",
     "word": "infusion",
     "part_of_speech": "noun",
@@ -1146,31 +1071,6 @@
       {
         "en": "She ordered a chilled glass of brandy to pair with her dinner.",
         "zh": "她点了一杯冰镇白兰地酒来搭配晚餐。"
-      }
-    ]
-  },
-  {
-    "id": "kettle",
-    "word": "kettle",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/'ketl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=kettle&type=2",
-    "definition_en": "n. a metal pot for stewing or boiling; usually has a lid\\nn. the quantity a kettle will hold\\nn. a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it",
-    "definition_zh": "n. 茶壶, 罐； 釜体釜; 锅",
-    "frq": 10726,
-    "composite_rank": 9868,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served kettle at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的茶壶。"
-      },
-      {
-        "en": "She ordered a chilled glass of kettle to pair with her dinner.",
-        "zh": "她点了一杯冰镇茶壶来搭配晚餐。"
       }
     ]
   },
@@ -1375,31 +1275,6 @@
     ]
   },
   {
-    "id": "coke",
-    "word": "coke",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/kәuk/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=coke&type=2",
-    "definition_en": "n. carbon fuel produced by distillation of coal\\nn. street names for cocaine\\nv. become coke",
-    "definition_zh": "n. 可口可乐, 焦炭； v. (使)成焦炭",
-    "frq": 12273,
-    "composite_rank": 11291,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served coke at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的可口可乐。"
-      },
-      {
-        "en": "She ordered a chilled glass of coke to pair with her dinner.",
-        "zh": "她点了一杯冰镇可口可乐来搭配晚餐。"
-      }
-    ]
-  },
-  {
     "id": "refresh",
     "word": "refresh",
     "part_of_speech": "noun",
@@ -1475,31 +1350,6 @@
     ]
   },
   {
-    "id": "teapot",
-    "word": "teapot",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/'ti:pɒt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=teapot&type=2",
-    "definition_en": "n. pot for brewing tea; usually has a spout and handle",
-    "definition_zh": "n. 茶壶",
-    "frq": 12851,
-    "composite_rank": 11823,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served teapot at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的茶壶。"
-      },
-      {
-        "en": "She ordered a chilled glass of teapot to pair with her dinner.",
-        "zh": "她点了一杯冰镇茶壶来搭配晚餐。"
-      }
-    ]
-  },
-  {
     "id": "stout",
     "word": "stout",
     "part_of_speech": "noun",
@@ -1521,6 +1371,31 @@
       {
         "en": "She ordered a chilled glass of stout to pair with her dinner.",
         "zh": "她点了一杯冰镇矮胖子来搭配晚餐。"
+      }
+    ]
+  },
+  {
+    "id": "saloon",
+    "word": "saloon",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/sә'lu:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=saloon&type=2",
+    "definition_en": "n a room or establishment where alcoholic drinks are served over a counter\\nn tavern consisting of a building with a bar and public rooms; often provides light meals\\nn a car that is closed and that has front and rear seats and two or four doors",
+    "definition_zh": "n. 大厅, 沙龙, 酒吧, 会客室",
+    "frq": 10447,
+    "composite_rank": 12495,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Guests enjoyed a freshly served saloon at the lounge.",
+        "zh": "客人们在酒廊享用了新鲜供应的大厅。"
+      },
+      {
+        "en": "She ordered a chilled glass of saloon to pair with her dinner.",
+        "zh": "她点了一杯冰镇大厅来搭配晚餐。"
       }
     ]
   },
@@ -1850,31 +1725,6 @@
     ]
   },
   {
-    "id": "saloon",
-    "word": "saloon",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/sә'lu:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=saloon&type=2",
-    "definition_en": "n a room or establishment where alcoholic drinks are served over a counter\\nn tavern consisting of a building with a bar and public rooms; often provides light meals\\nn a car that is closed and that has front and rear seats and two or four doors",
-    "definition_zh": "n. 大厅, 沙龙, 酒吧, 会客室",
-    "frq": 10447,
-    "composite_rank": 16339,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served saloon at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的大厅。"
-      },
-      {
-        "en": "She ordered a chilled glass of saloon to pair with her dinner.",
-        "zh": "她点了一杯冰镇大厅来搭配晚餐。"
-      }
-    ]
-  },
-  {
     "id": "goblet",
     "word": "goblet",
     "part_of_speech": "noun",
@@ -1946,6 +1796,31 @@
       {
         "en": "She ordered a chilled glass of teacup to pair with her dinner.",
         "zh": "她点了一杯冰镇茶杯来搭配晚餐。"
+      }
+    ]
+  },
+  {
+    "id": "potion",
+    "word": "potion",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "饮品、茶酒与水饮",
+    "category": "food_beverages",
+    "phonetic": "/'pәuʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=potion&type=2",
+    "definition_en": "n. a medicinal or magical or poisonous beverage",
+    "definition_zh": "n. 饮剂, 饮料, 一次饮用量, 一服, 一剂； 饮剂",
+    "frq": 15221,
+    "composite_rank": 18204,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Guests enjoyed a freshly served potion at the lounge.",
+        "zh": "客人们在酒廊享用了新鲜供应的饮剂。"
+      },
+      {
+        "en": "She ordered a chilled glass of potion to pair with her dinner.",
+        "zh": "她点了一杯冰镇饮剂来搭配晚餐。"
       }
     ]
   },
@@ -3075,106 +2950,6 @@
     ]
   },
   {
-    "id": "beers",
-    "word": "beers",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/beers/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=beers&type=2",
-    "definition_en": "n a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops",
-    "definition_zh": "n. 比尔斯（姓氏）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served beers at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的比尔斯。"
-      },
-      {
-        "en": "She ordered a chilled glass of beers to pair with her dinner.",
-        "zh": "她点了一杯冰镇比尔斯来搭配晚餐。"
-      }
-    ]
-  },
-  {
-    "id": "beverages",
-    "word": "beverages",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/be'vərɪdʒɪz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=beverages&type=2",
-    "definition_en": "n. any liquid suitable for drinking",
-    "definition_zh": "n. 饮料( beverage的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served beverages at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的饮料。"
-      },
-      {
-        "en": "She ordered a chilled glass of beverages to pair with her dinner.",
-        "zh": "她点了一杯冰镇饮料来搭配晚餐。"
-      }
-    ]
-  },
-  {
-    "id": "cocktails",
-    "word": "cocktails",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/cocktails/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cocktails&type=2",
-    "definition_en": "n a short mixed drink\\nn an appetizer served as a first course at a meal",
-    "definition_zh": "n. 鸡尾酒（cocktail的复数）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served cocktails at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的鸡尾酒。"
-      },
-      {
-        "en": "She ordered a chilled glass of cocktails to pair with her dinner.",
-        "zh": "她点了一杯冰镇鸡尾酒来搭配晚餐。"
-      }
-    ]
-  },
-  {
-    "id": "coffees",
-    "word": "coffees",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/ˈkɔfiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=coffees&type=2",
-    "definition_en": "n. a beverage consisting of an infusion of ground coffee beans\\nn. any of several small trees and shrubs native to the tropical Old World yielding coffee beans\\nn. a seed of the coffee tree; ground to make coffee",
-    "definition_zh": "n. 咖啡豆( coffee的复数形式 ); 咖啡粉; （一杯）咖啡",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served coffees at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的咖啡豆。"
-      },
-      {
-        "en": "She ordered a chilled glass of coffees to pair with her dinner.",
-        "zh": "她点了一杯冰镇咖啡豆来搭配晚餐。"
-      }
-    ]
-  },
-  {
     "id": "curacao",
     "word": "curacao",
     "part_of_speech": "noun",
@@ -3221,31 +2996,6 @@
       {
         "en": "She ordered a chilled glass of digestif to pair with her dinner.",
         "zh": "她点了一杯冰镇法助消化饮料来搭配晚餐。"
-      }
-    ]
-  },
-  {
-    "id": "drinks",
-    "word": "drinks",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/drinks/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=drinks&type=2",
-    "definition_en": "n a single serving of a beverage\\nn the act of drinking alcoholic beverages to excess\\nn any liquid suitable for drinking\\nn any large deep body of water\\nn the act of swallowing\\nv take in liquids\\nv consume alcohol\\nv propose a toast to\\nv be fascinated or spell-bound by; pay close attention to\\nv drink excessive amounts of alcohol; be an alcoholic",
-    "definition_zh": "n. 饮料, 饮品；喝酒（drink复数）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served drinks at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的饮料。"
-      },
-      {
-        "en": "She ordered a chilled glass of drinks to pair with her dinner.",
-        "zh": "她点了一杯冰镇饮料来搭配晚餐。"
       }
     ]
   },
@@ -3546,81 +3296,6 @@
       {
         "en": "She ordered a chilled glass of soju to pair with her dinner.",
         "zh": "她点了一杯冰镇烧酒来搭配晚餐。"
-      }
-    ]
-  },
-  {
-    "id": "spirits",
-    "word": "spirits",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/spirits/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spirits&type=2",
-    "definition_en": "n an alcoholic beverage that is distilled rather than fermented\\nn the vital principle or animating force within living things\\nn the general atmosphere of a place or situation and the effect that it has on people\\nn a fundamental emotional and activating principle determining one's character\\nn any incorporeal supernatural being that can become visible (or audible) to human beings\\nn the state of a person's emotions (especially with regard to pleasure or dejection)\\nn the intended meaning of a communication\\nn animation and energy in action or expression\\nn an inclination or tendency of a certain kind\\nv infuse with spirit",
-    "definition_zh": "n. 情绪, 兴致, 心情, 烈酒, 酒精",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served spirits at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的情绪。"
-      },
-      {
-        "en": "She ordered a chilled glass of spirits to pair with her dinner.",
-        "zh": "她点了一杯冰镇情绪来搭配晚餐。"
-      }
-    ]
-  },
-  {
-    "id": "teas",
-    "word": "teas",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/teas/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=teas&type=2",
-    "definition_en": "n a beverage made by steeping tea leaves in water\\nn a light midafternoon meal of tea and sandwiches or cakes\\nn a tropical evergreen shrub or small tree extensively cultivated in e.g. China and Japan and India; source of tea leaves\\nn a reception or party at which tea is served\\nn dried leaves of the tea shrub; used to make tea",
-    "definition_zh": "abbr. 商标电子化应用系统（Trademark Electronic Application System）；经皮穴位电刺激（Transcutanclus Electrical Acupoint Stimulation）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served teas at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的商标电子化应用系统。"
-      },
-      {
-        "en": "She ordered a chilled glass of teas to pair with her dinner.",
-        "zh": "她点了一杯冰镇商标电子化应用系统来搭配晚餐。"
-      }
-    ]
-  },
-  {
-    "id": "wines",
-    "word": "wines",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "饮品、茶酒与水饮",
-    "category": "food_beverages",
-    "phonetic": "/wines/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wines&type=2",
-    "definition_en": "n fermented juice (of grapes especially)\\nn a red as dark as red wine\\nv drink wine\\nv treat to wine\\nv be the winner in a contest or competition; be victorious\\nv win something through one's efforts\\nv obtain advantages, such as points, etc.\\nv attain success or reach a desired goal",
-    "definition_zh": "n. 葡萄酒；令人沉醉的东西（wine的复数）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Guests enjoyed a freshly served wines at the lounge.",
-        "zh": "客人们在酒廊享用了新鲜供应的葡萄酒。"
-      },
-      {
-        "en": "She ordered a chilled glass of wines to pair with her dinner.",
-        "zh": "她点了一杯冰镇葡萄酒来搭配晚餐。"
       }
     ]
   }

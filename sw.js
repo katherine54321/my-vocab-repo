@@ -1,12 +1,12 @@
 // VocabMatrix Service Worker (PWA Offline Support)
-const CACHE_NAME = 'vocab-matrix-pwa-v2.0';
+const CACHE_NAME = 'vocab-matrix-pwa-v2.1';
 
 const PRECACHE_ASSETS = [
   './',
   './index.html',
-  './style.css?v=13.1',
-  './app.js?v=13.1',
-  './categories.js?v=13.1',
+  './style.css?v=14.0',
+  './app.js?v=14.0',
+  './categories.js?v=14.0',
   './categories.json',
   './manifest.json',
   './icons/favicon.svg',

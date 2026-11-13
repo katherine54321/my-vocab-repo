@@ -575,6 +575,31 @@
     ]
   },
   {
+    "id": "commercial",
+    "word": "commercial",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/kә'mә:ʃәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=commercial&type=2",
+    "definition_en": "n. a commercially sponsored ad on radio or television\\na. connected with or engaged in or sponsored by or used in commerce or commercial enterprises\\na. of or relating to commercialism\\ns. of the kind or quality used in commerce; average or inferior",
+    "definition_zh": "a. 商业的, 商用的, 商品化的； n. 商业广告节目",
+    "frq": 1027,
+    "composite_rank": 391,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The studio produced engaging commercial that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的商业广告节目，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new commercial sparked vibrant discussions on social channels.",
+        "zh": "新版商业广告节目的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
     "id": "press",
     "word": "press",
     "part_of_speech": "noun",
@@ -725,31 +750,6 @@
     ]
   },
   {
-    "id": "commercial",
-    "word": "commercial",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/kә'mә:ʃәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=commercial&type=2",
-    "definition_en": "n. a commercially sponsored ad on radio or television\\na. connected with or engaged in or sponsored by or used in commerce or commercial enterprises\\na. of or relating to commercialism\\ns. of the kind or quality used in commerce; average or inferior",
-    "definition_zh": "a. 商业的, 商用的, 商品化的； n. 商业广告节目",
-    "frq": 1027,
-    "composite_rank": 489,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging commercial that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的商业广告节目，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new commercial sparked vibrant discussions on social channels.",
-        "zh": "新版商业广告节目的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
     "id": "photo",
     "word": "photo",
     "part_of_speech": "noun",
@@ -825,6 +825,31 @@
     ]
   },
   {
+    "id": "reporter",
+    "word": "reporter",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/ri'pɒ:tә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=reporter&type=2",
+    "definition_en": "n. a person who investigates and reports or edits news stories",
+    "definition_zh": "n. 记者, 报告者； 指示器",
+    "frq": 1286,
+    "composite_rank": 700,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The studio produced engaging reporter that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的记者，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new reporter sparked vibrant discussions on social channels.",
+        "zh": "新版记者的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
     "id": "journalist",
     "word": "journalist",
     "part_of_speech": "noun",
@@ -850,27 +875,27 @@
     ]
   },
   {
-    "id": "reporter",
-    "word": "reporter",
+    "id": "ad",
+    "word": "ad",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/ri'pɒ:tә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=reporter&type=2",
-    "definition_en": "n. a person who investigates and reports or edits news stories",
-    "definition_zh": "n. 记者, 报告者； 指示器",
-    "frq": 1286,
-    "composite_rank": 874,
+    "phonetic": "/æd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ad&type=2",
+    "definition_en": "n. a public promotion of some product or service\\nr. in the Christian era; used before dates after the supposed year Christ was born",
+    "definition_zh": "n. 广告； 地址, 模拟-数字",
+    "frq": 1748,
+    "composite_rank": 901,
     "badge": "core",
     "examples": [
       {
-        "en": "The studio produced engaging reporter that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的记者，吸引了全球观众的目光。"
+        "en": "The studio produced engaging ad that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的广告，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new reporter sparked vibrant discussions on social channels.",
-        "zh": "新版记者的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new ad sparked vibrant discussions on social channels.",
+        "zh": "新版广告的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -900,27 +925,27 @@
     ]
   },
   {
-    "id": "ad",
-    "word": "ad",
+    "id": "interpretation",
+    "word": "interpretation",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/æd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ad&type=2",
-    "definition_en": "n. a public promotion of some product or service\\nr. in the Christian era; used before dates after the supposed year Christ was born",
-    "definition_zh": "n. 广告； 地址, 模拟-数字",
-    "frq": 1748,
-    "composite_rank": 1126,
+    "phonetic": "/in.tә:pri'teiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=interpretation&type=2",
+    "definition_en": "n. a mental representation of the meaning or significance of something\\nn. an explanation that results from interpreting something\\nn. an explanation of something that is not immediately obvious",
+    "definition_zh": "n. 解释, 演出, 翻译； 插值; 插值法; 解释",
+    "frq": 2380,
+    "composite_rank": 1120,
     "badge": "core",
     "examples": [
       {
-        "en": "The studio produced engaging ad that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的广告，吸引了全球观众的目光。"
+        "en": "The studio produced engaging interpretation that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的解释，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new ad sparked vibrant discussions on social channels.",
-        "zh": "新版广告的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new interpretation sparked vibrant discussions on social channels.",
+        "zh": "新版解释的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -950,27 +975,77 @@
     ]
   },
   {
-    "id": "interpretation",
-    "word": "interpretation",
+    "id": "coverage",
+    "word": "coverage",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/in.tә:pri'teiʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=interpretation&type=2",
-    "definition_en": "n. a mental representation of the meaning or significance of something\\nn. an explanation that results from interpreting something\\nn. an explanation of something that is not immediately obvious",
-    "definition_zh": "n. 解释, 演出, 翻译； 插值; 插值法; 解释",
-    "frq": 2380,
-    "composite_rank": 1399,
+    "phonetic": "/'kʌvәridʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=coverage&type=2",
+    "definition_en": "n. the total amount and type of insurance carried\\nn. the extent to which something is covered\\nn. the news as presented by reporters for newspapers or radio or television",
+    "definition_zh": "n. 覆盖的范围, 保险总额, 新闻报导； 可达范围; 覆盖度",
+    "frq": 1877,
+    "composite_rank": 1427,
     "badge": "core",
     "examples": [
       {
-        "en": "The studio produced engaging interpretation that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的解释，吸引了全球观众的目光。"
+        "en": "The studio produced engaging coverage that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的覆盖的范围，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new interpretation sparked vibrant discussions on social channels.",
-        "zh": "新版解释的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new coverage sparked vibrant discussions on social channels.",
+        "zh": "新版覆盖的范围的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "journal",
+    "word": "journal",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'dʒә:nәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=journal&type=2",
+    "definition_en": "n. a periodical dedicated to a particular subject\\nn. a record book as a physical object\\nn. the part of the axle contained by a bearing",
+    "definition_zh": "n. 日记, 杂志, 日报； 轴颈",
+    "frq": 2780,
+    "composite_rank": 1512,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The studio produced engaging journal that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的日记，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new journal sparked vibrant discussions on social channels.",
+        "zh": "新版日记的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "theater",
+    "word": "theater",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'θiәtә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=theater&type=2",
+    "definition_en": "n. a building where theatrical performances or motion-picture shows can be presented",
+    "definition_zh": "n. 戏院, 电影院, 剧场, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 场所",
+    "frq": 1535,
+    "composite_rank": 1535,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The studio produced engaging theater that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的戏院，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new theater sparked vibrant discussions on social channels.",
+        "zh": "新版戏院的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1000,6 +1075,31 @@
     ]
   },
   {
+    "id": "correspondent",
+    "word": "correspondent",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/.kɒri'spɒndәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=correspondent&type=2",
+    "definition_en": "n. someone who communicates by means of letters\\nn. a journalist employed to provide news stories for newspapers or broadcast media",
+    "definition_zh": "n. 通讯记者, 通信者； 客户, 代理商行, 代理银行",
+    "frq": 2934,
+    "composite_rank": 1596,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The studio produced engaging correspondent that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的通讯记者，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new correspondent sparked vibrant discussions on social channels.",
+        "zh": "新版通讯记者的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
     "id": "interpret",
     "word": "interpret",
     "part_of_speech": "noun",
@@ -1021,6 +1121,31 @@
       {
         "en": "The online release of new interpret sparked vibrant discussions on social channels.",
         "zh": "新版解释的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "viewer",
+    "word": "viewer",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'vju:ә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=viewer&type=2",
+    "definition_en": "n. an optical device for viewing photographic transparencies",
+    "definition_zh": "n. 观察者, 看电视者, 视察员, 观察器； 指示器",
+    "frq": 2478,
+    "composite_rank": 1665,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The studio produced engaging viewer that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的观察者，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new viewer sparked vibrant discussions on social channels.",
+        "zh": "新版观察者的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1075,127 +1200,27 @@
     ]
   },
   {
-    "id": "coverage",
-    "word": "coverage",
+    "id": "headline",
+    "word": "headline",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/'kʌvәridʒ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=coverage&type=2",
-    "definition_en": "n. the total amount and type of insurance carried\\nn. the extent to which something is covered\\nn. the news as presented by reporters for newspapers or radio or television",
-    "definition_zh": "n. 覆盖的范围, 保险总额, 新闻报导； 可达范围; 覆盖度",
-    "frq": 1877,
-    "composite_rank": 1854,
+    "phonetic": "/'hedlain/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=headline&type=2",
+    "definition_en": "n. the heading or caption of a newspaper article\\nv. publicize widely or highly, as if with a headline\\nv. provide (a newspaper page or a story) with a headline",
+    "definition_zh": "n. 大标题, 新闻摘要； vt. 为...做标题, 写标题",
+    "frq": 3293,
+    "composite_rank": 2002,
     "badge": "core",
     "examples": [
       {
-        "en": "The studio produced engaging coverage that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的覆盖的范围，吸引了全球观众的目光。"
+        "en": "The studio produced engaging headline that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的大标题，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new coverage sparked vibrant discussions on social channels.",
-        "zh": "新版覆盖的范围的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "journal",
-    "word": "journal",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'dʒә:nәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=journal&type=2",
-    "definition_en": "n. a periodical dedicated to a particular subject\\nn. a record book as a physical object\\nn. the part of the axle contained by a bearing",
-    "definition_zh": "n. 日记, 杂志, 日报； 轴颈",
-    "frq": 2780,
-    "composite_rank": 1890,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging journal that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的日记，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new journal sparked vibrant discussions on social channels.",
-        "zh": "新版日记的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "correspondent",
-    "word": "correspondent",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/.kɒri'spɒndәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=correspondent&type=2",
-    "definition_en": "n. someone who communicates by means of letters\\nn. a journalist employed to provide news stories for newspapers or broadcast media",
-    "definition_zh": "n. 通讯记者, 通信者； 客户, 代理商行, 代理银行",
-    "frq": 2934,
-    "composite_rank": 1995,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging correspondent that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的通讯记者，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new correspondent sparked vibrant discussions on social channels.",
-        "zh": "新版通讯记者的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "theater",
-    "word": "theater",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'θiәtә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=theater&type=2",
-    "definition_en": "n. a building where theatrical performances or motion-picture shows can be presented",
-    "definition_zh": "n. 戏院, 电影院, 剧场, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 场所",
-    "frq": 1535,
-    "composite_rank": 1996,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging theater that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的戏院，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new theater sparked vibrant discussions on social channels.",
-        "zh": "新版戏院的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "viewer",
-    "word": "viewer",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'vju:ә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=viewer&type=2",
-    "definition_en": "n. an optical device for viewing photographic transparencies",
-    "definition_zh": "n. 观察者, 看电视者, 视察员, 观察器； 指示器",
-    "frq": 2478,
-    "composite_rank": 2082,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging viewer that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的观察者，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new viewer sparked vibrant discussions on social channels.",
-        "zh": "新版观察者的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new headline sparked vibrant discussions on social channels.",
+        "zh": "新版大标题的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1300,27 +1325,52 @@
     ]
   },
   {
-    "id": "headline",
-    "word": "headline",
+    "id": "celebrity",
+    "word": "celebrity",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/'hedlain/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=headline&type=2",
-    "definition_en": "n. the heading or caption of a newspaper article\\nv. publicize widely or highly, as if with a headline\\nv. provide (a newspaper page or a story) with a headline",
-    "definition_zh": "n. 大标题, 新闻摘要； vt. 为...做标题, 写标题",
-    "frq": 3293,
-    "composite_rank": 2503,
+    "phonetic": "/si'lebrti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=celebrity&type=2",
+    "definition_en": "n. a widely known person",
+    "definition_zh": "n. 名声, 名人",
+    "frq": 2960,
+    "composite_rank": 2486,
     "badge": "core",
     "examples": [
       {
-        "en": "The studio produced engaging headline that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的大标题，吸引了全球观众的目光。"
+        "en": "The studio produced engaging celebrity that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的名声，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new headline sparked vibrant discussions on social channels.",
-        "zh": "新版大标题的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new celebrity sparked vibrant discussions on social channels.",
+        "zh": "新版名声的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "script",
+    "word": "script",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/skript/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=script&type=2",
+    "definition_en": "n. a written version of a play or other dramatic composition; used in preparing for a performance\\nn. a particular orthography or writing system\\nv. write a script for",
+    "definition_zh": "n. 手迹, 手稿, 正本, 手写体； vt. 改编为演出本； 手写体, 小型程序",
+    "frq": 3286,
+    "composite_rank": 2497,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The studio produced engaging script that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的手迹，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new script sparked vibrant discussions on social channels.",
+        "zh": "新版手迹的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1400,52 +1450,27 @@
     ]
   },
   {
-    "id": "celebrity",
-    "word": "celebrity",
+    "id": "scenario",
+    "word": "scenario",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/si'lebrti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=celebrity&type=2",
-    "definition_en": "n. a widely known person",
-    "definition_zh": "n. 名声, 名人",
-    "frq": 2960,
-    "composite_rank": 3232,
+    "phonetic": "/si'nɑ:riәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scenario&type=2",
+    "definition_en": "n. an outline or synopsis of a play (or, by extension, of a literary work)\\nn. a setting for a work of art or literature\\nn. a postulated sequence of possible events",
+    "definition_zh": "n. 剧本提纲, 情节, 剧本, 方案, 事态； 方案",
+    "frq": 2756,
+    "composite_rank": 3010,
     "badge": "high",
     "examples": [
       {
-        "en": "The studio produced engaging celebrity that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的名声，吸引了全球观众的目光。"
+        "en": "The studio produced engaging scenario that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的剧本提纲，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new celebrity sparked vibrant discussions on social channels.",
-        "zh": "新版名声的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "script",
-    "word": "script",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/skript/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=script&type=2",
-    "definition_en": "n. a written version of a play or other dramatic composition; used in preparing for a performance\\nn. a particular orthography or writing system\\nv. write a script for",
-    "definition_zh": "n. 手迹, 手稿, 正本, 手写体； vt. 改编为演出本； 手写体, 小型程序",
-    "frq": 3286,
-    "composite_rank": 3247,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging script that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的手迹，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new script sparked vibrant discussions on social channels.",
-        "zh": "新版手迹的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new scenario sparked vibrant discussions on social channels.",
+        "zh": "新版剧本提纲的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1471,6 +1496,31 @@
       {
         "en": "The online release of new pursuit sparked vibrant discussions on social channels.",
         "zh": "新版追踪的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "journalism",
+    "word": "journalism",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'dʒә:nәlizm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=journalism&type=2",
+    "definition_en": "n. newspapers and magazines collectively\\nn. the profession of reporting or photographing or editing news stories for one of the media",
+    "definition_zh": "n. 新闻业, 报章杂志； 报刊, 新闻业, 新闻出版",
+    "frq": 4524,
+    "composite_rank": 3800,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The studio produced engaging journalism that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的新闻业，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new journalism sparked vibrant discussions on social channels.",
+        "zh": "新版新闻业的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1503,7 +1553,7 @@
     "id": "recreation",
     "word": "recreation",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
     "phonetic": "/.rekri'eiʃәn/",
@@ -1511,7 +1561,7 @@
     "definition_en": "n an activity that diverts or amuses or stimulates\\nn activity that refreshes and recreates; activity that renews your health and spirits by enjoyment and relaxation",
     "definition_zh": "n. 娱乐, 消遣, 休息, 再创造； 娱乐, 休养",
     "frq": 5867,
-    "composite_rank": 4928,
+    "composite_rank": 3943,
     "badge": "high",
     "examples": [
       {
@@ -1521,6 +1571,81 @@
       {
         "en": "The online release of new recreation sparked vibrant discussions on social channels.",
         "zh": "新版娱乐的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "slot",
+    "word": "slot",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/slɒt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=slot&type=2",
+    "definition_en": "n. a position in a grammatical linguistic construction in which a variety of alternative units are interchangeable\\nn. a small slit (as for inserting a coin or depositing mail)\\nn. a position in a hierarchy or organization\\nn. the trail of an animal (especially a deer)",
+    "definition_zh": "n. 水沟, 细长孔, 硬币投币口, 缝, 狭槽, 狭通道, 位置, 一档(广播节目等)； vt. 开槽于, 把...纳入机构； 槽; 存储槽",
+    "frq": 4842,
+    "composite_rank": 4067,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The studio produced engaging slot that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的水沟，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new slot sparked vibrant discussions on social channels.",
+        "zh": "新版水沟的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "commentator",
+    "word": "commentator",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'kɔmenteitә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=commentator&type=2",
+    "definition_en": "n. a writer who reports and analyzes events of the day",
+    "definition_zh": "n. 评论员, 实况广播员, 注释者, 时事评论员",
+    "frq": 5355,
+    "composite_rank": 4070,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The studio produced engaging commentator that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的评论员，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new commentator sparked vibrant discussions on social channels.",
+        "zh": "新版评论员的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "footage",
+    "word": "footage",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'futidʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=footage&type=2",
+    "definition_en": "n. film that has been shot\\nn. a rate of charging by the linear foot of work done",
+    "definition_zh": "n. 英尺长度, 英板尺, (影片的)连续镜头",
+    "frq": 5899,
+    "composite_rank": 4955,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The studio produced engaging footage that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的英尺长度，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new footage sparked vibrant discussions on social channels.",
+        "zh": "新版英尺长度的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1550,56 +1675,6 @@
     ]
   },
   {
-    "id": "scenario",
-    "word": "scenario",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/si'nɑ:riәu/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scenario&type=2",
-    "definition_en": "n. an outline or synopsis of a play (or, by extension, of a literary work)\\nn. a setting for a work of art or literature\\nn. a postulated sequence of possible events",
-    "definition_zh": "n. 剧本提纲, 情节, 剧本, 方案, 事态； 方案",
-    "frq": 2756,
-    "composite_rank": 5093,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging scenario that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的剧本提纲，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new scenario sparked vibrant discussions on social channels.",
-        "zh": "新版剧本提纲的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "superstar",
-    "word": "superstar",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'sju:pәstɑ:/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=superstar&type=2",
-    "definition_en": "n someone who is dazzlingly skilled in any field",
-    "definition_zh": "n. 超级明星",
-    "frq": 7012,
-    "composite_rank": 5161,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging superstar that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的超级明星，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new superstar sparked vibrant discussions on social channels.",
-        "zh": "新版超级明星的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
     "id": "photographic",
     "word": "photographic",
     "part_of_speech": "noun",
@@ -1625,27 +1700,27 @@
     ]
   },
   {
-    "id": "slot",
-    "word": "slot",
+    "id": "itv",
+    "word": "ITV",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/slɒt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=slot&type=2",
-    "definition_en": "n. a position in a grammatical linguistic construction in which a variety of alternative units are interchangeable\\nn. a small slit (as for inserting a coin or depositing mail)\\nn. a position in a hierarchy or organization\\nn. the trail of an animal (especially a deer)",
-    "definition_zh": "n. 水沟, 细长孔, 硬币投币口, 缝, 狭槽, 狭通道, 位置, 一档(广播节目等)； vt. 开槽于, 把...纳入机构； 槽; 存储槽",
-    "frq": 4842,
-    "composite_rank": 5287,
+    "phonetic": "/itv/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=itv&type=2",
+    "definition_en": ": 独立电视, 工业电视, 教学电视",
+    "definition_zh": "独立电视, 工业电视, 教学电视； 交互式电视, 电视点播",
+    "frq": 6284,
+    "composite_rank": 5279,
     "badge": "high",
     "examples": [
       {
-        "en": "The studio produced engaging slot that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的水沟，吸引了全球观众的目光。"
+        "en": "The studio produced engaging ITV that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的独立电视，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new slot sparked vibrant discussions on social channels.",
-        "zh": "新版水沟的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new ITV sparked vibrant discussions on social channels.",
+        "zh": "新版独立电视的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1671,6 +1746,31 @@
       {
         "en": "The online release of new entertainer sparked vibrant discussions on social channels.",
         "zh": "新版表演娱乐节目的人的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "distraction",
+    "word": "distraction",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/dis'trækʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=distraction&type=2",
+    "definition_en": "n. mental turmoil\\nn. an obstacle to attention\\nn. the act of distracting; drawing someone's attention away from something",
+    "definition_zh": "n. 娱乐, 分心的事物, 分心； 注意力分散, 内脱位, 牙弓过宽",
+    "frq": 6171,
+    "composite_rank": 5677,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The studio produced engaging distraction that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的娱乐，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new distraction sparked vibrant discussions on social channels.",
+        "zh": "新版娱乐的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1750,6 +1850,31 @@
     ]
   },
   {
+    "id": "zoom",
+    "word": "zoom",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/zu:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=zoom&type=2",
+    "definition_en": "v. move along very quickly\\nv. move with a low humming noise",
+    "definition_zh": "n. 急速上升, 变焦摄影, 嗡嗡声； vi. 猛增, 急速上升, 摄象机移动； vt. 使摄象机移动； 缩放",
+    "frq": 8608,
+    "composite_rank": 5785,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The studio produced engaging zoom that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的急速上升，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new zoom sparked vibrant discussions on social channels.",
+        "zh": "新版急速上升的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
     "id": "amusement",
     "word": "amusement",
     "part_of_speech": "noun",
@@ -1771,31 +1896,6 @@
       {
         "en": "The online release of new amusement sparked vibrant discussions on social channels.",
         "zh": "新版兴味的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "broadcasting",
-    "word": "broadcasting",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'brɒ:dkæstiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=broadcasting&type=2",
-    "definition_en": "n. taking part in a radio or tv program",
-    "definition_zh": "n. 广播； 广播",
-    "frq": 8315,
-    "composite_rank": 6319,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging broadcasting that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的广播，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new broadcasting sparked vibrant discussions on social channels.",
-        "zh": "新版广播的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1825,52 +1925,27 @@
     ]
   },
   {
-    "id": "journalism",
-    "word": "journalism",
+    "id": "superstar",
+    "word": "superstar",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/'dʒә:nәlizm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=journalism&type=2",
-    "definition_en": "n. newspapers and magazines collectively\\nn. the profession of reporting or photographing or editing news stories for one of the media",
-    "definition_zh": "n. 新闻业, 报章杂志； 报刊, 新闻业, 新闻出版",
-    "frq": 4524,
-    "composite_rank": 6460,
+    "phonetic": "/'sju:pәstɑ:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=superstar&type=2",
+    "definition_en": "n someone who is dazzlingly skilled in any field",
+    "definition_zh": "n. 超级明星",
+    "frq": 7012,
+    "composite_rank": 6451,
     "badge": "high",
     "examples": [
       {
-        "en": "The studio produced engaging journalism that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的新闻业，吸引了全球观众的目光。"
+        "en": "The studio produced engaging superstar that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的超级明星，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new journalism sparked vibrant discussions on social channels.",
-        "zh": "新版新闻业的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "commentator",
-    "word": "commentator",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'kɔmenteitә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=commentator&type=2",
-    "definition_en": "n. a writer who reports and analyzes events of the day",
-    "definition_zh": "n. 评论员, 实况广播员, 注释者, 时事评论员",
-    "frq": 5355,
-    "composite_rank": 6919,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging commentator that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的评论员，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new commentator sparked vibrant discussions on social channels.",
-        "zh": "新版评论员的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new superstar sparked vibrant discussions on social channels.",
+        "zh": "新版超级明星的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -1900,56 +1975,6 @@
     ]
   },
   {
-    "id": "midway",
-    "word": "midway",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'mid'wei/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=midway&type=2",
-    "definition_en": "n. the place at a fair or carnival where sideshows and similar amusements are located\\nn. naval battle of World War II (June 1942); American planes based on land and on carriers decisively defeated a Japanese fleet on its way to invade the Midway Islands",
-    "definition_zh": "n. 中途, 中间, 娱乐场； a. 中途的, 中间的； adv. 中途",
-    "frq": 11957,
-    "composite_rank": 7150,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging midway that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的中途，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new midway sparked vibrant discussions on social channels.",
-        "zh": "新版中途的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "zoom",
-    "word": "zoom",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/zu:m/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=zoom&type=2",
-    "definition_en": "v. move along very quickly\\nv. move with a low humming noise",
-    "definition_zh": "n. 急速上升, 变焦摄影, 嗡嗡声； vi. 猛增, 急速上升, 摄象机移动； vt. 使摄象机移动； 缩放",
-    "frq": 8608,
-    "composite_rank": 7231,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging zoom that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的急速上升，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new zoom sparked vibrant discussions on social channels.",
-        "zh": "新版急速上升的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
     "id": "radiate",
     "word": "radiate",
     "part_of_speech": "noun",
@@ -1971,6 +1996,31 @@
       {
         "en": "The online release of new radiate sparked vibrant discussions on social channels.",
         "zh": "新版放射的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "broadcasting",
+    "word": "broadcasting",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'brɒ:dkæstiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=broadcasting&type=2",
+    "definition_en": "n. taking part in a radio or tv program",
+    "definition_zh": "n. 广播； 广播",
+    "frq": 8315,
+    "composite_rank": 8215,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The studio produced engaging broadcasting that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的广播，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new broadcasting sparked vibrant discussions on social channels.",
+        "zh": "新版广播的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -2025,27 +2075,52 @@
     ]
   },
   {
-    "id": "distraction",
-    "word": "distraction",
+    "id": "acting",
+    "word": "acting",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/dis'trækʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=distraction&type=2",
-    "definition_en": "n. mental turmoil\\nn. an obstacle to attention\\nn. the act of distracting; drawing someone's attention away from something",
-    "definition_zh": "n. 娱乐, 分心的事物, 分心； 注意力分散, 内脱位, 牙弓过宽",
-    "frq": 6171,
-    "composite_rank": 9651,
-    "badge": "normal",
+    "phonetic": "/'æktiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=acting&type=2",
+    "definition_en": "n. the performance of a part or role in a drama\\ns. serving temporarily especially as a substitute",
+    "definition_zh": "n. 演戏, 装腔作势； a. 代理的, 演出用的, 起作用的",
+    "frq": 8387,
+    "composite_rank": 9159,
+    "badge": "high",
     "examples": [
       {
-        "en": "The studio produced engaging distraction that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的娱乐，吸引了全球观众的目光。"
+        "en": "The studio produced engaging acting that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的演戏，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new distraction sparked vibrant discussions on social channels.",
-        "zh": "新版娱乐的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new acting sparked vibrant discussions on social channels.",
+        "zh": "新版演戏的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "hype",
+    "word": "hype",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/haip/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hype&type=2",
+    "definition_en": "v. publicize in an exaggerated and often misleading manner",
+    "definition_zh": "n. 大肆宣传；皮下注射",
+    "frq": 8395,
+    "composite_rank": 9167,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The studio produced engaging hype that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的大肆宣传，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new hype sparked vibrant discussions on social channels.",
+        "zh": "新版大肆宣传的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -2100,6 +2175,56 @@
     ]
   },
   {
+    "id": "blockbuster",
+    "word": "blockbuster",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'blɒkbʌstә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blockbuster&type=2",
+    "definition_en": "n. a large bomb used to demolish extensive areas (as a city block)\\nn. an unusually successful hit with widespread popularity and huge sales (especially a movie or play or recording or novel)",
+    "definition_zh": "n. 巨型炸弹",
+    "frq": 8986,
+    "composite_rank": 10747,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging blockbuster that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的巨型炸弹，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new blockbuster sparked vibrant discussions on social channels.",
+        "zh": "新版巨型炸弹的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "screenplay",
+    "word": "screenplay",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'skri:nplei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=screenplay&type=2",
+    "definition_en": "n. a script for a film including dialogue and descriptions of characters and sets",
+    "definition_zh": "n. 电影剧本",
+    "frq": 9412,
+    "composite_rank": 11257,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging screenplay that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的电影剧本，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new screenplay sparked vibrant discussions on social channels.",
+        "zh": "新版电影剧本的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
     "id": "auditorium",
     "word": "auditorium",
     "part_of_speech": "noun",
@@ -2125,27 +2250,27 @@
     ]
   },
   {
-    "id": "acting",
-    "word": "acting",
+    "id": "disseminate",
+    "word": "disseminate",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/'æktiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=acting&type=2",
-    "definition_en": "n. the performance of a part or role in a drama\\ns. serving temporarily especially as a substitute",
-    "definition_zh": "n. 演戏, 装腔作势； a. 代理的, 演出用的, 起作用的",
-    "frq": 8387,
-    "composite_rank": 11977,
-    "badge": "high",
+    "phonetic": "/di'semineit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=disseminate&type=2",
+    "definition_en": "v cause to become widely known",
+    "definition_zh": "vt. 散播, 传播, 宣传； vi. 广为传播",
+    "frq": 9930,
+    "composite_rank": 11876,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging acting that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的演戏，吸引了全球观众的目光。"
+        "en": "The studio produced engaging disseminate that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的散播，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new acting sparked vibrant discussions on social channels.",
-        "zh": "新版演戏的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new disseminate sparked vibrant discussions on social channels.",
+        "zh": "新版散播的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -2175,6 +2300,31 @@
     ]
   },
   {
+    "id": "troupe",
+    "word": "troupe",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/tru:p/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=troupe&type=2",
+    "definition_en": "n organization of performers and associated personnel (especially theatrical)",
+    "definition_zh": "n. 团, 班, 一伙； vi. 巡回演出",
+    "frq": 11543,
+    "composite_rank": 13805,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging troupe that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的团，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new troupe sparked vibrant discussions on social channels.",
+        "zh": "新版团的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
     "id": "bingo",
     "word": "bingo",
     "part_of_speech": "noun",
@@ -2200,27 +2350,27 @@
     ]
   },
   {
-    "id": "blockbuster",
-    "word": "blockbuster",
+    "id": "midway",
+    "word": "midway",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/'blɒkbʌstә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=blockbuster&type=2",
-    "definition_en": "n. a large bomb used to demolish extensive areas (as a city block)\\nn. an unusually successful hit with widespread popularity and huge sales (especially a movie or play or recording or novel)",
-    "definition_zh": "n. 巨型炸弹",
-    "frq": 8986,
-    "composite_rank": 14054,
+    "phonetic": "/'mid'wei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=midway&type=2",
+    "definition_en": "n. the place at a fair or carnival where sideshows and similar amusements are located\\nn. naval battle of World War II (June 1942); American planes based on land and on carriers decisively defeated a Japanese fleet on its way to invade the Midway Islands",
+    "definition_zh": "n. 中途, 中间, 娱乐场； a. 中途的, 中间的； adv. 中途",
+    "frq": 11957,
+    "composite_rank": 14301,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging blockbuster that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的巨型炸弹，吸引了全球观众的目光。"
+        "en": "The studio produced engaging midway that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的中途，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new blockbuster sparked vibrant discussions on social channels.",
-        "zh": "新版巨型炸弹的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new midway sparked vibrant discussions on social channels.",
+        "zh": "新版中途的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -2250,52 +2400,177 @@
     ]
   },
   {
-    "id": "screenplay",
-    "word": "screenplay",
+    "id": "stardom",
+    "word": "stardom",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/'skri:nplei/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=screenplay&type=2",
-    "definition_en": "n. a script for a film including dialogue and descriptions of characters and sets",
-    "definition_zh": "n. 电影剧本",
-    "frq": 9412,
-    "composite_rank": 14720,
+    "phonetic": "/'stɑ:dәm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stardom&type=2",
+    "definition_en": "n. the status of being acknowledged as a star",
+    "definition_zh": "n. 明星身分, 明星们",
+    "frq": 13036,
+    "composite_rank": 15591,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging screenplay that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的电影剧本，吸引了全球观众的目光。"
+        "en": "The studio produced engaging stardom that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的明星身分，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new screenplay sparked vibrant discussions on social channels.",
-        "zh": "新版电影剧本的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new stardom sparked vibrant discussions on social channels.",
+        "zh": "新版明星身分的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
   {
-    "id": "disseminate",
-    "word": "disseminate",
+    "id": "newscast",
+    "word": "newscast",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/di'semineit/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=disseminate&type=2",
-    "definition_en": "v cause to become widely known",
-    "definition_zh": "vt. 散播, 传播, 宣传； vi. 广为传播",
-    "frq": 9930,
-    "composite_rank": 15531,
+    "phonetic": "/'nju:zkɑ:st/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=newscast&type=2",
+    "definition_en": "n. a broadcast of news or commentary on the news",
+    "definition_zh": "n. 新闻广播",
+    "frq": 13173,
+    "composite_rank": 15755,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging disseminate that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的散播，吸引了全球观众的目光。"
+        "en": "The studio produced engaging newscast that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的新闻广播，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new disseminate sparked vibrant discussions on social channels.",
-        "zh": "新版散播的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new newscast sparked vibrant discussions on social channels.",
+        "zh": "新版新闻广播的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "booking",
+    "word": "booking",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'bukiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=booking&type=2",
+    "definition_en": "n. the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "definition_zh": "n. 预约演出合同； 书型模法",
+    "frq": 14474,
+    "composite_rank": 15806,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The studio produced engaging booking that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的预约演出合同，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new booking sparked vibrant discussions on social channels.",
+        "zh": "新版预约演出合同的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "impromptu",
+    "word": "impromptu",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/im'prɒmptju:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=impromptu&type=2",
+    "definition_en": "n. an extemporaneous speech or remark\\nn. a short musical passage that seems to have been made spontaneously without advance preparation",
+    "definition_zh": "n. 即席演出, 即兴曲； a. 即席的； adv. 即席",
+    "frq": 13281,
+    "composite_rank": 15884,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging impromptu that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的即席演出，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new impromptu sparked vibrant discussions on social channels.",
+        "zh": "新版即席演出的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "screenwriter",
+    "word": "screenwriter",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'skri:nraitә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=screenwriter&type=2",
+    "definition_en": "n. someone who writes screenplays",
+    "definition_zh": "n. 电影剧本作家, 编剧家",
+    "frq": 13565,
+    "composite_rank": 16224,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging screenwriter that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的电影剧本作家，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new screenwriter sparked vibrant discussions on social channels.",
+        "zh": "新版电影剧本作家的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "interviewee",
+    "word": "interviewee",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/.intәvju:'i:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=interviewee&type=2",
+    "definition_en": "n. a person who is interviewed",
+    "definition_zh": "n. 被接见者, 被采访者, 被面试者",
+    "frq": 14615,
+    "composite_rank": 17480,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging interviewee that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的被接见者，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new interviewee sparked vibrant discussions on social channels.",
+        "zh": "新版被接见者的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "aria",
+    "word": "aria",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'ɑ:riә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aria&type=2",
+    "definition_en": "n. an elaborate song for solo voice",
+    "definition_zh": "n. 独唱特写镜头, 咏叹调",
+    "frq": 15746,
+    "composite_rank": 18832,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging aria that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的独唱特写镜头，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new aria sparked vibrant discussions on social channels.",
+        "zh": "新版独唱特写镜头的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -2325,127 +2600,77 @@
     ]
   },
   {
-    "id": "booking",
-    "word": "booking",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'bukiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=booking&type=2",
-    "definition_en": "n. the act of reserving (a place or passage) or engaging the services of (a person or group)",
-    "definition_zh": "n. 预约演出合同； 书型模法",
-    "frq": 14474,
-    "composite_rank": 20669,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging booking that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的预约演出合同，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new booking sparked vibrant discussions on social channels.",
-        "zh": "新版预约演出合同的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "screenwriter",
-    "word": "screenwriter",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'skri:nraitә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=screenwriter&type=2",
-    "definition_en": "n. someone who writes screenplays",
-    "definition_zh": "n. 电影剧本作家, 编剧家",
-    "frq": 13565,
-    "composite_rank": 21216,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The studio produced engaging screenwriter that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的电影剧本作家，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new screenwriter sparked vibrant discussions on social channels.",
-        "zh": "新版电影剧本作家的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "signpost",
-    "word": "signpost",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'sainpәust/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=signpost&type=2",
-    "definition_en": "n. a post bearing a sign that gives directions or shows the way\\nv. mark with a signpost, as of a path",
-    "definition_zh": "n. 招牌柱, 广告柱, 路标",
-    "frq": 21771,
-    "composite_rank": 21771,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The studio produced engaging signpost that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的招牌柱，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new signpost sparked vibrant discussions on social channels.",
-        "zh": "新版招牌柱的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "newscaster",
-    "word": "newscaster",
+    "id": "propagation",
+    "word": "propagation",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/'nju:z.kɑ:stә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=newscaster&type=2",
-    "definition_en": "n. someone who broadcasts the news",
-    "definition_zh": "n. 新闻广播员, 新闻评论广播员",
-    "frq": 17052,
-    "composite_rank": 22168,
+    "phonetic": "/.prɒpә'geiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=propagation&type=2",
+    "definition_en": "n. the spreading of something (a belief or practice) into new regions\\nn. the movement of a wave through a medium",
+    "definition_zh": "n. 增殖, 繁殖, 宣传； 传播, 繁殖, 持续培养",
+    "frq": 15569,
+    "composite_rank": 20240,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging newscaster that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的新闻广播员，吸引了全球观众的目光。"
+        "en": "The studio produced engaging propagation that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的增殖，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new newscaster sparked vibrant discussions on social channels.",
-        "zh": "新版新闻广播员的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new propagation sparked vibrant discussions on social channels.",
+        "zh": "新版增殖的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
   {
-    "id": "interviewee",
-    "word": "interviewee",
+    "id": "playroom",
+    "word": "playroom",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/.intәvju:'i:/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=interviewee&type=2",
-    "definition_en": "n. a person who is interviewed",
-    "definition_zh": "n. 被接见者, 被采访者, 被面试者",
-    "frq": 14615,
-    "composite_rank": 22858,
+    "phonetic": "/'pleiru:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=playroom&type=2",
+    "definition_en": "n a recreation room for noisy activities (parties or children's play etc)",
+    "definition_zh": "n. 游戏室, 娱乐室",
+    "frq": 20588,
+    "composite_rank": 20588,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging interviewee that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的被接见者，吸引了全球观众的目光。"
+        "en": "The studio produced engaging playroom that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的游戏室，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new interviewee sparked vibrant discussions on social channels.",
-        "zh": "新版被接见者的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new playroom sparked vibrant discussions on social channels.",
+        "zh": "新版游戏室的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "pictorial",
+    "word": "pictorial",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/pik'tɒ:riәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pictorial&type=2",
+    "definition_en": "n. a periodical (magazine or newspaper) containing many pictures\\na. pertaining to or consisting of pictures",
+    "definition_zh": "a. 绘画的, 插图的, 用图画表示的, 形象化的, 有象形文字特征的； n. 画报, 画刊, 有图邮票, 插图杂志, 插图报纸",
+    "frq": 10796,
+    "composite_rank": 21851,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging pictorial that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的画报，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new pictorial sparked vibrant discussions on social channels.",
+        "zh": "新版画报的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -2475,27 +2700,127 @@
     ]
   },
   {
-    "id": "advertised",
-    "word": "advertised",
+    "id": "videophone",
+    "word": "videophone",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/advertised/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=advertised&type=2",
-    "definition_en": "s. called to public attention",
-    "definition_zh": "a. 广告的",
-    "frq": 24475,
-    "composite_rank": 24475,
+    "phonetic": "/'vidiәu'fәun/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=videophone&type=2",
+    "definition_en": ": n. 电视电话",
+    "definition_zh": "n. 电视电话",
+    "frq": 27086,
+    "composite_rank": 27086,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging advertised that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的广告的，吸引了全球观众的目光。"
+        "en": "The studio produced engaging videophone that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的电视电话，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new advertised sparked vibrant discussions on social channels.",
-        "zh": "新版广告的的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new videophone sparked vibrant discussions on social channels.",
+        "zh": "新版电视电话的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "newscaster",
+    "word": "newscaster",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'nju:z.kɑ:stә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=newscaster&type=2",
+    "definition_en": "n. someone who broadcasts the news",
+    "definition_zh": "n. 新闻广播员, 新闻评论广播员",
+    "frq": 17052,
+    "composite_rank": 28988,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging newscaster that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的新闻广播员，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new newscaster sparked vibrant discussions on social channels.",
+        "zh": "新版新闻广播员的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "registrar",
+    "word": "registrar",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'redʒistrɑ:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=registrar&type=2",
+    "definition_en": "n. a person employed to keep a record of the owners of stocks and bonds issued by the company\\nn. the administrator responsible for student records\\nn. someone responsible for keeping records",
+    "definition_zh": "n. 记录者, 登记者, 登记官员； 登记员, 挂号员, 专科住院医师",
+    "frq": 18801,
+    "composite_rank": 29405,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging registrar that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的记录者，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new registrar sparked vibrant discussions on social channels.",
+        "zh": "新版记录者的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "newsreel",
+    "word": "newsreel",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'nju:zri:l/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=newsreel&type=2",
+    "definition_en": "n. a short film and commentary about current events",
+    "definition_zh": "n. 新闻影片",
+    "frq": 21486,
+    "composite_rank": 30682,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The studio produced engaging newsreel that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的新闻影片，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new newsreel sparked vibrant discussions on social channels.",
+        "zh": "新版新闻影片的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "sta",
+    "word": "sta",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/sta/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sta&type=2",
+    "definition_en": "",
+    "definition_zh": "abbr. 无线电台临时使用许可证（Special Temporary Authority）；航海训练协会（Sail Training Association）；科学技术局（ScienceandTechnology Agency）",
+    "frq": 30863,
+    "composite_rank": 30863,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging sta that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的无线电台临时使用许可证，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new sta sparked vibrant discussions on social channels.",
+        "zh": "新版无线电台临时使用许可证的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -2503,7 +2828,7 @@
     "id": "showbiz",
     "word": "showbiz",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
     "phonetic": "/.ʃәubiz/",
@@ -2511,7 +2836,7 @@
     "definition_en": "",
     "definition_zh": "n. 娱乐界；娱乐性行业",
     "frq": 19803,
-    "composite_rank": 25744,
+    "composite_rank": 33665,
     "badge": "normal",
     "examples": [
       {
@@ -2525,352 +2850,102 @@
     ]
   },
   {
-    "id": "actors",
-    "word": "actors",
+    "id": "cinematographer",
+    "word": "cinematographer",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/actors/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=actors&type=2",
-    "definition_en": "n a theatrical performer\\nn a person who acts and gets things done",
-    "definition_zh": "n. 演员, 男演员；电影演员（actor的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
+    "phonetic": "/.sinәmә'tɒgrәfә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cinematographer&type=2",
+    "definition_en": "n a photographer who operates a movie camera",
+    "definition_zh": "n. 电影摄影技师, 放映技师",
+    "frq": 21253,
+    "composite_rank": 36130,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging actors that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的演员，吸引了全球观众的目光。"
+        "en": "The studio produced engaging cinematographer that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的电影摄影技师，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new actors sparked vibrant discussions on social channels.",
-        "zh": "新版演员的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new cinematographer sparked vibrant discussions on social channels.",
+        "zh": "新版电影摄影技师的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
   {
-    "id": "cameras",
-    "word": "cameras",
+    "id": "signpost",
+    "word": "signpost",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/cameras/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cameras&type=2",
-    "definition_en": "n equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)\\nn television equipment consisting of a lens system that focuses an image on a photosensitive mosaic that is scanned by an electron beam",
-    "definition_zh": "照相机, 暗箱, 摄像机, 摄影机",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
+    "phonetic": "/'sainpәust/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=signpost&type=2",
+    "definition_en": "n. a post bearing a sign that gives directions or shows the way\\nv. mark with a signpost, as of a path",
+    "definition_zh": "n. 招牌柱, 广告柱, 路标",
+    "frq": 21771,
+    "composite_rank": 37011,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging cameras that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的照相机，吸引了全球观众的目光。"
+        "en": "The studio produced engaging signpost that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的招牌柱，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new cameras sparked vibrant discussions on social channels.",
-        "zh": "新版照相机的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new signpost sparked vibrant discussions on social channels.",
+        "zh": "新版招牌柱的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
   {
-    "id": "fans",
-    "word": "fans",
+    "id": "advertised",
+    "word": "advertised",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/fans/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=fans&type=2",
-    "definition_en": "n a device for creating a current of air by movement of a surface or surfaces\\nn an enthusiastic devotee of sports\\nn an ardent follower and admirer\\nv strike out (a batter), (of a pitcher)\\nv make (an emotion) fiercer\\nv agitate the air\\nv separate the chaff from by using air currents",
-    "definition_zh": "n. 风扇；狂热者, 粉丝（fan的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
+    "phonetic": "/advertised/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=advertised&type=2",
+    "definition_en": "s. called to public attention",
+    "definition_zh": "a. 广告的",
+    "frq": 24475,
+    "composite_rank": 41608,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging fans that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的风扇，吸引了全球观众的目光。"
+        "en": "The studio produced engaging advertised that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的广告的，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new fans sparked vibrant discussions on social channels.",
-        "zh": "新版风扇的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new advertised sparked vibrant discussions on social channels.",
+        "zh": "新版广告的的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
   {
-    "id": "friends",
-    "word": "friends",
+    "id": "cinematography",
+    "word": "cinematography",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/friends/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=friends&type=2",
-    "definition_en": "n a person you know well and regard with affection and trust\\nn an associate who provides cooperation or assistance\\nn a person with whom you are acquainted\\nn a person who backs a politician or a team etc.\\nn a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)",
-    "definition_zh": "n. 老友记（剧集）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
+    "phonetic": "/.sinәmә'tɒgrәfi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cinematography&type=2",
+    "definition_en": "n the act of making a film",
+    "definition_zh": "n. 电影制片术； 电影照相术",
+    "frq": 25548,
+    "composite_rank": 43432,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging friends that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的老友记，吸引了全球观众的目光。"
+        "en": "The studio produced engaging cinematography that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的电影制片术，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new friends sparked vibrant discussions on social channels.",
-        "zh": "新版老友记的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "magazines",
-    "word": "magazines",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/magazines/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=magazines&type=2",
-    "definition_en": "n a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it\\nn product consisting of a paperback periodic publication as a physical object\\nn a business firm that publishes magazines\\nn a light-tight supply chamber holding the film and supplying it for exposure as required\\nn a storehouse (as a compartment on a warship) where weapons and ammunition are stored\\nn a metal frame or container holding cartridges; can be inserted into an automatic gun",
-    "definition_zh": "n. 杂志（magazine的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging magazines that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的杂志，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new magazines sparked vibrant discussions on social channels.",
-        "zh": "新版杂志的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "periodicals",
-    "word": "periodicals",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/periodicals/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=periodicals&type=2",
-    "definition_en": "n a publication that appears at fixed intervals",
-    "definition_zh": "n. 期刊（periodical的名词复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging periodicals that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的期刊，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new periodicals sparked vibrant discussions on social channels.",
-        "zh": "新版期刊的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "reporters",
-    "word": "reporters",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/riˈpɔ:təz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=reporters&type=2",
-    "definition_en": "n. a person who investigates and reports or edits news stories",
-    "definition_zh": "n. 记者( reporter的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The studio produced engaging reporters that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的记者，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new reporters sparked vibrant discussions on social channels.",
-        "zh": "新版记者的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "appearances",
-    "word": "appearances",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/appearances/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=appearances&type=2",
-    "definition_en": "n outward or visible aspect of a person or thing\\nn the event of coming into sight\\nn formal attendance (in court or at a hearing) of a party in an action\\nn a mental representation\\nn the act of appearing in public view\\nn pretending that something is the case in order to make a good impression",
-    "definition_zh": "n. 爱情大不同（电影名）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging appearances that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的爱情大不同，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new appearances sparked vibrant discussions on social channels.",
-        "zh": "新版爱情大不同的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "audiences",
-    "word": "audiences",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'ɔ:dɪənsɪz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=audiences&type=2",
-    "definition_en": "n. a gathering of spectators or listeners at a (usually public) performance\\nn. the part of the general public interested in a source of information or entertainment\\nn. an opportunity to state your case and be heard",
-    "definition_zh": "n. 观众, 听众, 读者( audience的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging audiences that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的观众，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new audiences sparked vibrant discussions on social channels.",
-        "zh": "新版观众的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "crowds",
-    "word": "crowds",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/kraudz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=crowds&type=2",
-    "definition_en": "n a large number of things or people considered together\\nn an informal body of friends\\nv cause to herd, drive, or crowd together\\nv fill or occupy to the point of overflowing\\nv to gather together in large numbers\\nv approach a certain age or speed",
-    "definition_zh": "n. 人群( crowd的名词复数 ); 群众; 一群; 听众",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging crowds that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的人群，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new crowds sparked vibrant discussions on social channels.",
-        "zh": "新版人群的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "performances",
-    "word": "performances",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/pə'fɔ:mənsɪz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=performances&type=2",
-    "definition_en": "n. a dramatic or musical entertainment\\nn. the act of presenting a play or a piece of music or other entertainment\\nn. the act of performing; of doing something successfully; using knowledge as distinguished from merely possessing it",
-    "definition_zh": "n. 履行( performance的复数形式 ); 性能; 表现; 演出",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging performances that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的履行，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new performances sparked vibrant discussions on social channels.",
-        "zh": "新版履行的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "programmes",
-    "word": "programmes",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/p'rəʊɡræmz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=programmes&type=2",
-    "definition_en": "n. an announcement of the events that will occur as part of a theatrical or sporting event\\nn. an integrated course of academic studies\\nn. a radio or television show",
-    "definition_zh": "n. （演出或活动的）程序( programme的复数形式 ); 计划; 节目; 课程； v. 训练( programme的第三人称单数 ); 培养; 预调",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging programmes that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的程序，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new programmes sparked vibrant discussions on social channels.",
-        "zh": "新版程序的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "stars",
-    "word": "stars",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/stars/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=stars&type=2",
-    "definition_en": "n (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior\\nn someone who is dazzlingly skilled in any field\\nn any celestial body visible (as a point of light) from the Earth at night\\nn an actor who plays a principal role\\nn a plane figure with 5 or more points; often used as an emblem\\nn a performer who receives prominent billing\\nn a star-shaped character * used in printing\\nn the topology of a network whose components are connected to a hub\\nv feature as the star\\nv be the star in a performance\\nv mark with an asterisk",
-    "definition_zh": "n. 明星类, 明星（star的复数形式）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging stars that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的明星类，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new stars sparked vibrant discussions on social channels.",
-        "zh": "新版明星类的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "transformers",
-    "word": "transformers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/transformers/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=transformers&type=2",
-    "definition_en": "n an electrical device by which alternating current of one voltage is changed to another voltage",
-    "definition_zh": "n. 变形金刚（电影名）；变形金刚玩具",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The studio produced engaging transformers that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的变形金刚，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new transformers sparked vibrant discussions on social channels.",
-        "zh": "新版变形金刚的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new cinematography sparked vibrant discussions on social channels.",
+        "zh": "新版电影制片术的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -2925,31 +3000,6 @@
     ]
   },
   {
-    "id": "cinematographer",
-    "word": "cinematographer",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/.sinәmә'tɒgrәfә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cinematographer&type=2",
-    "definition_en": "n a photographer who operates a movie camera",
-    "definition_zh": "n. 电影摄影技师, 放映技师",
-    "frq": 21253,
-    "composite_rank": 46757,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The studio produced engaging cinematographer that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的电影摄影技师，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new cinematographer sparked vibrant discussions on social channels.",
-        "zh": "新版电影摄影技师的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
     "id": "exhibitionist",
     "word": "exhibitionist",
     "part_of_speech": "noun",
@@ -2975,27 +3025,77 @@
     ]
   },
   {
-    "id": "endorsed",
-    "word": "endorsed",
+    "id": "actors",
+    "word": "actors",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/enˈdɔ:st/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=endorsed&type=2",
-    "definition_en": "v be behind; approve of\\nv give support or one's approval to\\nv guarantee as meeting a certain standard\\nv sign as evidence of legal transfer",
-    "definition_zh": "vt.& vi. endorse的过去式或过去分词形式； v. 赞同( endorse的过去式和过去分词 ); <商>在（尤指支票的）背面签字; 在（文件的）背面写评论; 在广告上说本人使用并赞同某产品",
-    "frq": 38162,
-    "composite_rank": 49611,
+    "phonetic": "/actors/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=actors&type=2",
+    "definition_en": "n a theatrical performer\\nn a person who acts and gets things done",
+    "definition_zh": "n. 演员, 男演员；电影演员（actor的复数形式）",
+    "frq": 50000,
+    "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging endorsed that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的的过去式或过去分词形式，吸引了全球观众的目光。"
+        "en": "The studio produced engaging actors that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的演员，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new endorsed sparked vibrant discussions on social channels.",
-        "zh": "新版的过去式或过去分词形式的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new actors sparked vibrant discussions on social channels.",
+        "zh": "新版演员的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "anchorperson",
+    "word": "anchorperson",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/'æŋkә,p\\\\\\\\:sən/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=anchorperson&type=2",
+    "definition_en": "n a television reporter who coordinates a broadcast to which several correspondents contribute",
+    "definition_zh": "n. 新闻节目主持人",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging anchorperson that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的新闻节目主持人，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new anchorperson sparked vibrant discussions on social channels.",
+        "zh": "新版新闻节目主持人的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "appearances",
+    "word": "appearances",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/appearances/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=appearances&type=2",
+    "definition_en": "n outward or visible aspect of a person or thing\\nn the event of coming into sight\\nn formal attendance (in court or at a hearing) of a party in an action\\nn a mental representation\\nn the act of appearing in public view\\nn pretending that something is the case in order to make a good impression",
+    "definition_zh": "n. 爱情大不同（电影名）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging appearances that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的爱情大不同，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new appearances sparked vibrant discussions on social channels.",
+        "zh": "新版爱情大不同的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -3021,6 +3121,31 @@
       {
         "en": "The online release of new bulletins sparked vibrant discussions on social channels.",
         "zh": "新版公告的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "crowds",
+    "word": "crowds",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/kraudz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=crowds&type=2",
+    "definition_en": "n a large number of things or people considered together\\nn an informal body of friends\\nv cause to herd, drive, or crowd together\\nv fill or occupy to the point of overflowing\\nv to gather together in large numbers\\nv approach a certain age or speed",
+    "definition_zh": "n. 人群( crowd的名词复数 ); 群众; 一群; 听众",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging crowds that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的人群，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new crowds sparked vibrant discussions on social channels.",
+        "zh": "新版人群的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -3075,77 +3200,77 @@
     ]
   },
   {
-    "id": "journalists",
-    "word": "journalists",
+    "id": "fans",
+    "word": "fans",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/'dʒɜ:nəlɪsts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=journalists&type=2",
-    "definition_en": "n. a writer for newspapers and magazines\\nn. someone who keeps a diary or journal",
-    "definition_zh": "n. 新闻工作者, 新闻记者( journalist的复数形式 )",
+    "phonetic": "/fans/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fans&type=2",
+    "definition_en": "n a device for creating a current of air by movement of a surface or surfaces\\nn an enthusiastic devotee of sports\\nn an ardent follower and admirer\\nv strike out (a batter), (of a pitcher)\\nv make (an emotion) fiercer\\nv agitate the air\\nv separate the chaff from by using air currents",
+    "definition_zh": "n. 风扇；狂热者, 粉丝（fan的复数形式）",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging journalists that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的新闻工作者，吸引了全球观众的目光。"
+        "en": "The studio produced engaging fans that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的风扇，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new journalists sparked vibrant discussions on social channels.",
-        "zh": "新版新闻工作者的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new fans sparked vibrant discussions on social channels.",
+        "zh": "新版风扇的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
   {
-    "id": "journals",
-    "word": "journals",
+    "id": "friends",
+    "word": "friends",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/journals/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=journals&type=2",
-    "definition_en": "n a daily written record of (usually personal) experiences and observations\\nn a periodical dedicated to a particular subject\\nn a ledger in which transactions have been recorded as they occurred\\nn a record book as a physical object\\nn the part of the axle contained by a bearing",
-    "definition_zh": "n. 日记账；日记；学术期刊（journal的复数）",
+    "phonetic": "/friends/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=friends&type=2",
+    "definition_en": "n a person you know well and regard with affection and trust\\nn an associate who provides cooperation or assistance\\nn a person with whom you are acquainted\\nn a person who backs a politician or a team etc.\\nn a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)",
+    "definition_zh": "n. 老友记（剧集）",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging journals that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的日记账，吸引了全球观众的目光。"
+        "en": "The studio produced engaging friends that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的老友记，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new journals sparked vibrant discussions on social channels.",
-        "zh": "新版日记账的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new friends sparked vibrant discussions on social channels.",
+        "zh": "新版老友记的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
   {
-    "id": "networks",
-    "word": "networks",
+    "id": "patrons",
+    "word": "patrons",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/networks/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=networks&type=2",
-    "definition_en": "n an interconnected system of things or people\\nn (broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs\\nn an open fabric of string or rope or wire woven together at regular intervals\\nn a system of intersecting lines or channels\\nn (electronics) a system of interconnected electronic components or circuits\\nv communicate with and within a group",
-    "definition_zh": "n. 网络；广播电视网（network的复数形式）",
+    "phonetic": "/ˈpeitrənz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=patrons&type=2",
+    "definition_en": "n. a regular customer\\nn. the proprietor of an inn\\nn. someone who supports or champions something",
+    "definition_zh": "n. 赞助人( patron的复数形式 ); 资助人; 老主顾; 名义赞助人（支持慈善组织等的名人, 名字常用于有关的广告宣传中）",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging networks that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的网络，吸引了全球观众的目光。"
+        "en": "The studio produced engaging patrons that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的赞助人，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new networks sparked vibrant discussions on social channels.",
-        "zh": "新版网络的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new patrons sparked vibrant discussions on social channels.",
+        "zh": "新版赞助人的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -3175,6 +3300,56 @@
     ]
   },
   {
+    "id": "periodicals",
+    "word": "periodicals",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/periodicals/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=periodicals&type=2",
+    "definition_en": "n a publication that appears at fixed intervals",
+    "definition_zh": "n. 期刊（periodical的名词复数形式）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging periodicals that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的期刊，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new periodicals sparked vibrant discussions on social channels.",
+        "zh": "新版期刊的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "programmes",
+    "word": "programmes",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/p'rəʊɡræmz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=programmes&type=2",
+    "definition_en": "n. an announcement of the events that will occur as part of a theatrical or sporting event\\nn. an integrated course of academic studies\\nn. a radio or television show",
+    "definition_zh": "n. （演出或活动的）程序( programme的复数形式 ); 计划; 节目; 课程； v. 训练( programme的第三人称单数 ); 培养; 预调",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging programmes that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的程序，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new programmes sparked vibrant discussions on social channels.",
+        "zh": "新版程序的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
     "id": "sequences",
     "word": "sequences",
     "part_of_speech": "noun",
@@ -3200,27 +3375,27 @@
     ]
   },
   {
-    "id": "spectators",
-    "word": "spectators",
+    "id": "transformers",
+    "word": "transformers",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/spectators/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spectators&type=2",
-    "definition_en": "n a close observer; someone who looks at something (such as an exhibition of some kind)\\nn a woman's pump with medium heel; usually in contrasting colors for toe and heel",
-    "definition_zh": "n. 观众；旁观者（spectator复数）",
+    "phonetic": "/transformers/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=transformers&type=2",
+    "definition_en": "n an electrical device by which alternating current of one voltage is changed to another voltage",
+    "definition_zh": "n. 变形金刚（电影名）；变形金刚玩具",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging spectators that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的观众，吸引了全球观众的目光。"
+        "en": "The studio produced engaging transformers that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的变形金刚，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new spectators sparked vibrant discussions on social channels.",
-        "zh": "新版观众的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new transformers sparked vibrant discussions on social channels.",
+        "zh": "新版变形金刚的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -3250,152 +3425,77 @@
     ]
   },
   {
-    "id": "cinematography",
-    "word": "cinematography",
+    "id": "gazette",
+    "word": "gazette",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/.sinәmә'tɒgrәfi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cinematography&type=2",
-    "definition_en": "n the act of making a film",
-    "definition_zh": "n. 电影制片术； 电影照相术",
-    "frq": 25548,
-    "composite_rank": 56206,
+    "phonetic": "/gә'zet/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gazette&type=2",
+    "definition_en": "n. a newspaper or official journal\\nv. publish in a gazette",
+    "definition_zh": "n. 报, 公报, 报纸； vt. 在公报上宣布, 刊载于公报",
+    "frq": 39036,
+    "composite_rank": 61052,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging cinematography that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的电影制片术，吸引了全球观众的目光。"
+        "en": "The studio produced engaging gazette that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的报，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new cinematography sparked vibrant discussions on social channels.",
-        "zh": "新版电影制片术的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new gazette sparked vibrant discussions on social channels.",
+        "zh": "新版报的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
   {
-    "id": "anchorperson",
-    "word": "anchorperson",
+    "id": "presentational",
+    "word": "presentational",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/'æŋkә,p\\\\\\\\:sən/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=anchorperson&type=2",
-    "definition_en": "n a television reporter who coordinates a broadcast to which several correspondents contribute",
-    "definition_zh": "n. 新闻节目主持人",
-    "frq": 50000,
-    "composite_rank": 65000,
+    "phonetic": "/,prezən'teiʃənәl,,pri:-/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=presentational&type=2",
+    "definition_en": "a. of or relating to a presentation (especially in psychology or philosophy)",
+    "definition_zh": "a. 表象的, 上演的, 演出的, 本身有意义的, 描述性的",
+    "frq": 38040,
+    "composite_rank": 64668,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging anchorperson that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的新闻节目主持人，吸引了全球观众的目光。"
+        "en": "The studio produced engaging presentational that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的表象的，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new anchorperson sparked vibrant discussions on social channels.",
-        "zh": "新版新闻节目主持人的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new presentational sparked vibrant discussions on social channels.",
+        "zh": "新版表象的的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
   {
-    "id": "correspondents",
-    "word": "correspondents",
+    "id": "endorsed",
+    "word": "endorsed",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/ˌkɔrisˈpɔndənts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=correspondents&type=2",
-    "definition_en": "n. someone who communicates by means of letters\\nn. a journalist employed to provide news stories for newspapers or broadcast media",
-    "definition_zh": "n. 通讯员, 记者( correspondent的复数形式 ); 通信者",
-    "frq": 50000,
-    "composite_rank": 65000,
+    "phonetic": "/enˈdɔ:st/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=endorsed&type=2",
+    "definition_en": "v be behind; approve of\\nv give support or one's approval to\\nv guarantee as meeting a certain standard\\nv sign as evidence of legal transfer",
+    "definition_zh": "vt.& vi. endorse的过去式或过去分词形式； v. 赞同( endorse的过去式和过去分词 ); <商>在（尤指支票的）背面签字; 在（文件的）背面写评论; 在广告上说本人使用并赞同某产品",
+    "frq": 38162,
+    "composite_rank": 64875,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging correspondents that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的通讯员，吸引了全球观众的目光。"
+        "en": "The studio produced engaging endorsed that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的的过去式或过去分词形式，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new correspondents sparked vibrant discussions on social channels.",
-        "zh": "新版通讯员的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "listeners",
-    "word": "listeners",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/listeners/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=listeners&type=2",
-    "definition_en": "n someone who listens attentively",
-    "definition_zh": "n. 听众；监听器（listener的复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The studio produced engaging listeners that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的听众，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new listeners sparked vibrant discussions on social channels.",
-        "zh": "新版听众的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "patrons",
-    "word": "patrons",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/ˈpeitrənz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=patrons&type=2",
-    "definition_en": "n. a regular customer\\nn. the proprietor of an inn\\nn. someone who supports or champions something",
-    "definition_zh": "n. 赞助人( patron的复数形式 ); 资助人; 老主顾; 名义赞助人（支持慈善组织等的名人, 名字常用于有关的广告宣传中）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The studio produced engaging patrons that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的赞助人，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new patrons sparked vibrant discussions on social channels.",
-        "zh": "新版赞助人的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "viewers",
-    "word": "viewers",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'vju:əz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=viewers&type=2",
-    "definition_en": "n. the audience reached by television\\nn. a close observer; someone who looks at something (such as an exhibition of some kind)\\nn. an optical device for viewing photographic transparencies",
-    "definition_zh": "n. 电视观众( viewer的复数形式 ); 观看者; 勘查孔; 看片机（把幻灯片等放大观看的装置）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The studio produced engaging viewers that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的电视观众，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new viewers sparked vibrant discussions on social channels.",
-        "zh": "新版电视观众的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new endorsed sparked vibrant discussions on social channels.",
+        "zh": "新版的过去式或过去分词形式的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -3425,77 +3525,52 @@
     ]
   },
   {
-    "id": "sta",
-    "word": "sta",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/sta/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sta&type=2",
-    "definition_en": "",
-    "definition_zh": "abbr. 无线电台临时使用许可证（Special Temporary Authority）；航海训练协会（Sail Training Association）；科学技术局（ScienceandTechnology Agency）",
-    "frq": 30863,
-    "composite_rank": 67899,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The studio produced engaging sta that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的无线电台临时使用许可证，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new sta sparked vibrant discussions on social channels.",
-        "zh": "新版无线电台临时使用许可证的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "presentational",
-    "word": "presentational",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/,prezən'teiʃənәl,,pri:-/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=presentational&type=2",
-    "definition_en": "a. of or relating to a presentation (especially in psychology or philosophy)",
-    "definition_zh": "a. 表象的, 上演的, 演出的, 本身有意义的, 描述性的",
-    "frq": 38040,
-    "composite_rank": 83688,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The studio produced engaging presentational that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的表象的，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new presentational sparked vibrant discussions on social channels.",
-        "zh": "新版表象的的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "advertisements",
-    "word": "advertisements",
+    "id": "close-up",
+    "word": "close-up",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "影视娱乐、大众传媒与资讯",
     "category": "entertainment_media",
-    "phonetic": "/advertisements/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=advertisements&type=2",
-    "definition_en": "n a public promotion of some product or service",
-    "definition_zh": "n. 广告（advertisement的复数）；宣传",
+    "phonetic": "/'klәuzʌp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=close-up&type=2",
+    "definition_en": ": n. 特写镜头, 仔细的观察, 小传",
+    "definition_zh": "n. 特写镜头, 仔细的观察, 小传； 闭合; 接通",
     "frq": 50000,
-    "composite_rank": 85000,
+    "composite_rank": 78200,
     "badge": "normal",
     "examples": [
       {
-        "en": "The studio produced engaging advertisements that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的广告，吸引了全球观众的目光。"
+        "en": "The studio produced engaging close-up that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的特写镜头，吸引了全球观众的目光。"
       },
       {
-        "en": "The online release of new advertisements sparked vibrant discussions on social channels.",
-        "zh": "新版广告的线上发布在各大社交平台引发了热烈探讨。"
+        "en": "The online release of new close-up sparked vibrant discussions on social channels.",
+        "zh": "新版特写镜头的线上发布在各大社交平台引发了热烈探讨。"
+      }
+    ]
+  },
+  {
+    "id": "phone-in",
+    "word": "phone-in",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "影视娱乐、大众传媒与资讯",
+    "category": "entertainment_media",
+    "phonetic": "/phone-in/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=phone-in&type=2",
+    "definition_en": "n. a program in which the audience participates by telephone",
+    "definition_zh": "n. 观众/听众通过电话参与讨论或提问的电视节目/广播节目",
+    "frq": 50000,
+    "composite_rank": 78200,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The studio produced engaging phone-in that captured the attention of worldwide audiences.",
+        "zh": "制作工作室打造了引人入胜的观众，吸引了全球观众的目光。"
+      },
+      {
+        "en": "The online release of new phone-in sparked vibrant discussions on social channels.",
+        "zh": "新版观众的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   },
@@ -3521,56 +3596,6 @@
       {
         "en": "The online release of new interviews sparked vibrant discussions on social channels.",
         "zh": "新版接见的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "movies",
-    "word": "movies",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/'mu:vis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=movies&type=2",
-    "definition_en": "n a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
-    "definition_zh": "n. 电影",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The studio produced engaging movies that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的电影，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new movies sparked vibrant discussions on social channels.",
-        "zh": "新版电影的线上发布在各大社交平台引发了热烈探讨。"
-      }
-    ]
-  },
-  {
-    "id": "newspapers",
-    "word": "newspapers",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "影视娱乐、大众传媒与资讯",
-    "category": "entertainment_media",
-    "phonetic": "/newspapers/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=newspapers&type=2",
-    "definition_en": "n a daily or weekly publication on folded sheets; contains news and articles and advertisements\\nn a business firm that publishes newspapers\\nn the physical object that is the product of a newspaper publisher\\nn cheap paper made from wood pulp and used for printing newspapers",
-    "definition_zh": "n. 报纸, 报章（newspaper的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The studio produced engaging newspapers that captured the attention of worldwide audiences.",
-        "zh": "制作工作室打造了引人入胜的报纸，吸引了全球观众的目光。"
-      },
-      {
-        "en": "The online release of new newspapers sparked vibrant discussions on social channels.",
-        "zh": "新版报纸的线上发布在各大社交平台引发了热烈探讨。"
       }
     ]
   }

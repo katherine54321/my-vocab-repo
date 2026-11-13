@@ -275,6 +275,56 @@
     ]
   },
   {
+    "id": "muscle",
+    "word": "muscle",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'mʌsl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=muscle&type=2",
+    "definition_en": "n. one of the contractile organs of the body\\nn. animal tissue consisting predominantly of contractile cells\\nn. authority or power or force (especially when used in a coercive way)\\nv. make one's way by force",
+    "definition_zh": "n. 肌肉, 臂力； 肌",
+    "frq": 1713,
+    "composite_rank": 729,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the muscle.",
+        "zh": "保持健康的生活方式能保护人体肌肉的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the muscle is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，肌肉功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "joint",
+    "word": "joint",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/dʒɒint/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=joint&type=2",
+    "definition_en": "n. (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)\\nn. a disreputable place of entertainment\\nn. junction by which parts or objects are joined together\\nn. marijuana leaves rolled into a cigarette for smoking",
+    "definition_zh": "n. 连接处, 接合, 关节； a. 共同的, 联合的, 连接的, 合办的； vt. 连接, 接合, 使有接头； vi. 贴合, 长节",
+    "frq": 2218,
+    "composite_rank": 845,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the joint.",
+        "zh": "保持健康的生活方式能保护人体连接处的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the joint is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，连接处功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
     "id": "stomach",
     "word": "stomach",
     "part_of_speech": "noun",
@@ -300,31 +350,6 @@
     ]
   },
   {
-    "id": "muscle",
-    "word": "muscle",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/'mʌsl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=muscle&type=2",
-    "definition_en": "n. one of the contractile organs of the body\\nn. animal tissue consisting predominantly of contractile cells\\nn. authority or power or force (especially when used in a coercive way)\\nv. make one's way by force",
-    "definition_zh": "n. 肌肉, 臂力； 肌",
-    "frq": 1713,
-    "composite_rank": 911,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the muscle.",
-        "zh": "保持健康的生活方式能保护人体肌肉的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the muscle is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，肌肉功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
     "id": "throat",
     "word": "throat",
     "part_of_speech": "noun",
@@ -346,31 +371,6 @@
       {
         "en": "Medical scans confirmed that the throat is functioning normally and healthily.",
         "zh": "医学扫描检查证实，咽喉功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "joint",
-    "word": "joint",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/dʒɒint/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=joint&type=2",
-    "definition_en": "n. (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)\\nn. a disreputable place of entertainment\\nn. junction by which parts or objects are joined together\\nn. marijuana leaves rolled into a cigarette for smoking",
-    "definition_zh": "n. 连接处, 接合, 关节； a. 共同的, 联合的, 连接的, 合办的； vt. 连接, 接合, 使有接头； vi. 贴合, 长节",
-    "frq": 2218,
-    "composite_rank": 1056,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the joint.",
-        "zh": "保持健康的生活方式能保护人体连接处的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the joint is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，连接处功能运转完全正常健康。"
       }
     ]
   },
@@ -421,6 +421,31 @@
       {
         "en": "Medical scans confirmed that the organ is functioning normally and healthily.",
         "zh": "医学扫描检查证实，风琴功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "satellite",
+    "word": "satellite",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'sætlait/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=satellite&type=2",
+    "definition_en": "n. man-made equipment that orbits around the earth or the moon\\nn. a person who follows or serves another\\nn. any celestial body orbiting around a planet or star\\nv. broadcast or disseminate via satellite",
+    "definition_zh": "n. 人造卫星； 伴行静脉, 陪静脉, 陪病部, 随体, 卫星",
+    "frq": 2632,
+    "composite_rank": 1600,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the satellite.",
+        "zh": "保持健康的生活方式能保护人体人造卫星的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the satellite is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，人造卫星功能运转完全正常健康。"
       }
     ]
   },
@@ -525,27 +550,27 @@
     ]
   },
   {
-    "id": "satellite",
-    "word": "satellite",
+    "id": "framework",
+    "word": "framework",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/'sætlait/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=satellite&type=2",
-    "definition_en": "n. man-made equipment that orbits around the earth or the moon\\nn. a person who follows or serves another\\nn. any celestial body orbiting around a planet or star\\nv. broadcast or disseminate via satellite",
-    "definition_zh": "n. 人造卫星； 伴行静脉, 陪静脉, 陪病部, 随体, 卫星",
-    "frq": 2632,
-    "composite_rank": 2000,
+    "phonetic": "/'freimwә:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=framework&type=2",
+    "definition_en": "n. the underlying structure\\nn. a structure supporting or containing something",
+    "definition_zh": "n. 结构, 骨架, 参照标准, 准则, 观点； 构架组织",
+    "frq": 2968,
+    "composite_rank": 1994,
     "badge": "core",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the satellite.",
-        "zh": "保持健康的生活方式能保护人体人造卫星的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the framework.",
+        "zh": "保持健康的生活方式能保护人体结构的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the satellite is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，人造卫星功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the framework is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，结构功能运转完全正常健康。"
       }
     ]
   },
@@ -571,6 +596,31 @@
       {
         "en": "Medical scans confirmed that the waist is functioning normally and healthily.",
         "zh": "医学扫描检查证实，腰部功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "lap",
+    "word": "lap",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/læp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lap&type=2",
+    "definition_en": "n. the upper side of the thighs of a seated person\\nn. an area of control or responsibility\\nn. the part of a piece of clothing that covers the thighs\\nn. a flap that lies over another part",
+    "definition_zh": "n. 膝盖, 舔, 一圈, 下摆, 衣兜, 山坳； vi. 重叠, 围住, 轻拍, 舔； vt. 包围, 抱...在膝上, 使重叠, 舔, 拍打, 泼溅； 链接访问程序",
+    "frq": 3359,
+    "composite_rank": 2042,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the lap.",
+        "zh": "保持健康的生活方式能保护人体膝盖的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the lap is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，膝盖功能运转完全正常健康。"
       }
     ]
   },
@@ -675,52 +725,27 @@
     ]
   },
   {
-    "id": "framework",
-    "word": "framework",
+    "id": "belly",
+    "word": "belly",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/'freimwә:k/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=framework&type=2",
-    "definition_en": "n. the underlying structure\\nn. a structure supporting or containing something",
-    "definition_zh": "n. 结构, 骨架, 参照标准, 准则, 观点； 构架组织",
-    "frq": 2968,
-    "composite_rank": 2493,
-    "badge": "core",
+    "phonetic": "/'beli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=belly&type=2",
+    "definition_en": "n. a protruding abdomen\\nn. a part that bulges deeply\\nn. the hollow inside of something\\nn. the underpart of the body of certain vertebrates such as snakes or fish",
+    "definition_zh": "n. 腹部, 食欲； vt. 使鼓起； vi. 鼓起, 匍匐前进",
+    "frq": 3805,
+    "composite_rank": 2557,
+    "badge": "high",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the framework.",
-        "zh": "保持健康的生活方式能保护人体结构的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the belly.",
+        "zh": "保持健康的生活方式能保护人体腹部的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the framework is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，结构功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "lap",
-    "word": "lap",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/læp/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=lap&type=2",
-    "definition_en": "n. the upper side of the thighs of a seated person\\nn. an area of control or responsibility\\nn. the part of a piece of clothing that covers the thighs\\nn. a flap that lies over another part",
-    "definition_zh": "n. 膝盖, 舔, 一圈, 下摆, 衣兜, 山坳； vi. 重叠, 围住, 轻拍, 舔； vt. 包围, 抱...在膝上, 使重叠, 舔, 拍打, 泼溅； 链接访问程序",
-    "frq": 3359,
-    "composite_rank": 2553,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the lap.",
-        "zh": "保持健康的生活方式能保护人体膝盖的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the lap is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，膝盖功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the belly is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，腹部功能运转完全正常健康。"
       }
     ]
   },
@@ -775,52 +800,77 @@
     ]
   },
   {
-    "id": "belly",
-    "word": "belly",
+    "id": "thigh",
+    "word": "thigh",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/'beli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=belly&type=2",
-    "definition_en": "n. a protruding abdomen\\nn. a part that bulges deeply\\nn. the hollow inside of something\\nn. the underpart of the body of certain vertebrates such as snakes or fish",
-    "definition_zh": "n. 腹部, 食欲； vt. 使鼓起； vi. 鼓起, 匍匐前进",
-    "frq": 3805,
-    "composite_rank": 3196,
+    "phonetic": "/θai/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=thigh&type=2",
+    "definition_en": "n. the part of the leg between the hip and the knee",
+    "definition_zh": "n. 大腿, 股； 股, 大腿",
+    "frq": 4209,
+    "composite_rank": 3536,
     "badge": "high",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the belly.",
-        "zh": "保持健康的生活方式能保护人体腹部的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the thigh.",
+        "zh": "保持健康的生活方式能保护人体大腿的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the belly is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，腹部功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the thigh is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，大腿功能运转完全正常健康。"
       }
     ]
   },
   {
-    "id": "rib",
-    "word": "rib",
+    "id": "gut",
+    "word": "gut",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/rib/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=rib&type=2",
-    "definition_en": "n. support resembling the rib of an animal\\nn. any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates)\\nn. cut of meat including one or more ribs\\nn. a teasing remark",
-    "definition_zh": "n. 肋骨, 肋状物, 笑话； vt. 装肋状物于, 戏弄",
-    "frq": 4568,
-    "composite_rank": 3837,
+    "phonetic": "/gʌt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gut&type=2",
+    "definition_en": "n. a narrow channel or strait\\nv. empty completely; destroy the inside of\\nv. remove the guts of",
+    "definition_zh": "n. 剧情, 内容, 内脏, 肚子, 海峡, 勇气； vt. 取出内脏, 毁坏...的内部",
+    "frq": 4297,
+    "composite_rank": 3609,
     "badge": "high",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the rib.",
-        "zh": "保持健康的生活方式能保护人体肋骨的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the gut.",
+        "zh": "保持健康的生活方式能保护人体剧情的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the rib is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，肋骨功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the gut is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，剧情功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "eyebrow",
+    "word": "eyebrow",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'aibrau/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=eyebrow&type=2",
+    "definition_en": "n. the arch of hair above each eye",
+    "definition_zh": "n. 眉毛； 眉",
+    "frq": 4465,
+    "composite_rank": 3751,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the eyebrow.",
+        "zh": "保持健康的生活方式能保护人体眉毛的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the eyebrow is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，眉毛功能运转完全正常健康。"
       }
     ]
   },
@@ -850,77 +900,52 @@
     ]
   },
   {
-    "id": "median",
-    "word": "median",
+    "id": "articulate",
+    "word": "articulate",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/'mi:diәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=median&type=2",
-    "definition_en": "n. the value below which 50% of the cases fall\\ns. relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)\\ns. relating to or situated in or extending toward the middle",
-    "definition_zh": "a. 中央的, 中间的, 正中的； n. 正中动脉, 中位数, 中线",
-    "frq": 6806,
-    "composite_rank": 4070,
-    "badge": "core",
+    "phonetic": "/ɑ:'tikjulit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=articulate&type=2",
+    "definition_en": "v. unite by forming a joint or joints\\nv. express or state clearly\\na. expressing yourself easily or characterized by clear expressive language",
+    "definition_zh": "a. 发音清晰的, 口才好的； vt. 明白地说, 以关节连接, 使成为系统的整体",
+    "frq": 4865,
+    "composite_rank": 4087,
+    "badge": "high",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the median.",
-        "zh": "保持健康的生活方式能保护人体正中动脉的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the articulate.",
+        "zh": "保持健康的生活方式能保护人体发音清晰的的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the median is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，正中动脉功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the articulate is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，发音清晰的功能运转完全正常健康。"
       }
     ]
   },
   {
-    "id": "thigh",
-    "word": "thigh",
+    "id": "spine",
+    "word": "spine",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/θai/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=thigh&type=2",
-    "definition_en": "n. the part of the leg between the hip and the knee",
-    "definition_zh": "n. 大腿, 股； 股, 大腿",
-    "frq": 4209,
-    "composite_rank": 4596,
+    "phonetic": "/spain/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spine&type=2",
+    "definition_en": "n. a small sharp-pointed tip resembling a spike on a stem or leaf\\nn. the part of a book's cover that encloses the inner side of the book's pages and that faces outward when the book is shelved\\nn. a sharp rigid animal process or appendage; as a porcupine quill or a ridge on a bone or a ray of a fish fin",
+    "definition_zh": "n. 背骨, 脊柱, 尖刺； 脊柱; 棘, 刺; 马蹄嵴",
+    "frq": 4904,
+    "composite_rank": 4119,
     "badge": "high",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the thigh.",
-        "zh": "保持健康的生活方式能保护人体大腿的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the spine.",
+        "zh": "保持健康的生活方式能保护人体背骨的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the thigh is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，大腿功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "eyebrow",
-    "word": "eyebrow",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/'aibrau/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=eyebrow&type=2",
-    "definition_en": "n. the arch of hair above each eye",
-    "definition_zh": "n. 眉毛； 眉",
-    "frq": 4465,
-    "composite_rank": 4876,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the eyebrow.",
-        "zh": "保持健康的生活方式能保护人体眉毛的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the eyebrow is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，眉毛功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the spine is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，背骨功能运转完全正常健康。"
       }
     ]
   },
@@ -950,31 +975,6 @@
     ]
   },
   {
-    "id": "articulate",
-    "word": "articulate",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/ɑ:'tikjulit/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=articulate&type=2",
-    "definition_en": "v. unite by forming a joint or joints\\nv. express or state clearly\\na. expressing yourself easily or characterized by clear expressive language",
-    "definition_zh": "a. 发音清晰的, 口才好的； vt. 明白地说, 以关节连接, 使成为系统的整体",
-    "frq": 4865,
-    "composite_rank": 5313,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the articulate.",
-        "zh": "保持健康的生活方式能保护人体发音清晰的的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the articulate is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，发音清晰的功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
     "id": "brow",
     "word": "brow",
     "part_of_speech": "noun",
@@ -996,31 +996,6 @@
       {
         "en": "Medical scans confirmed that the brow is functioning normally and healthily.",
         "zh": "医学扫描检查证实，眉毛功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "spine",
-    "word": "spine",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/spain/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spine&type=2",
-    "definition_en": "n. a small sharp-pointed tip resembling a spike on a stem or leaf\\nn. the part of a book's cover that encloses the inner side of the book's pages and that faces outward when the book is shelved\\nn. a sharp rigid animal process or appendage; as a porcupine quill or a ridge on a bone or a ray of a fish fin",
-    "definition_zh": "n. 背骨, 脊柱, 尖刺； 脊柱; 棘, 刺; 马蹄嵴",
-    "frq": 4904,
-    "composite_rank": 5355,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the spine.",
-        "zh": "保持健康的生活方式能保护人体背骨的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the spine is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，背骨功能运转完全正常健康。"
       }
     ]
   },
@@ -1050,6 +1025,56 @@
     ]
   },
   {
+    "id": "arthritis",
+    "word": "arthritis",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/ɑ:'θraitis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=arthritis&type=2",
+    "definition_en": "n. inflammation of a joint or joints",
+    "definition_zh": "n. 关节炎； 关节炎",
+    "frq": 7377,
+    "composite_rank": 6197,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the arthritis.",
+        "zh": "保持健康的生活方式能保护人体关节炎的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the arthritis is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，关节炎功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "median",
+    "word": "median",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'mi:diәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=median&type=2",
+    "definition_en": "n. the value below which 50% of the cases fall\\ns. relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)\\ns. relating to or situated in or extending toward the middle",
+    "definition_zh": "a. 中央的, 中间的, 正中的； n. 正中动脉, 中位数, 中线",
+    "frq": 6806,
+    "composite_rank": 6262,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the median.",
+        "zh": "保持健康的生活方式能保护人体正中动脉的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the median is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，正中动脉功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
     "id": "artery",
     "word": "artery",
     "part_of_speech": "noun",
@@ -1071,31 +1096,6 @@
       {
         "en": "Medical scans confirmed that the artery is functioning normally and healthily.",
         "zh": "医学扫描检查证实，动脉功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "costa",
-    "word": "costa",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/'kɒstә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=costa&type=2",
-    "definition_en": "n. a riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing)",
-    "definition_zh": "n. 肋骨, 肋脉, 叶的中脉； 肋",
-    "frq": 8150,
-    "composite_rank": 6520,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the costa.",
-        "zh": "保持健康的生活方式能保护人体肋骨的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the costa is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，肋骨功能运转完全正常健康。"
       }
     ]
   },
@@ -1200,6 +1200,31 @@
     ]
   },
   {
+    "id": "costa",
+    "word": "costa",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'kɒstә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=costa&type=2",
+    "definition_en": "n. a riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing)",
+    "definition_zh": "n. 肋骨, 肋脉, 叶的中脉； 肋",
+    "frq": 8150,
+    "composite_rank": 8150,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the costa.",
+        "zh": "保持健康的生活方式能保护人体肋骨的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the costa is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，肋骨功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
     "id": "spinal",
     "word": "spinal",
     "part_of_speech": "noun",
@@ -1221,6 +1246,31 @@
       {
         "en": "Medical scans confirmed that the spinal is functioning normally and healthily.",
         "zh": "医学扫描检查证实，针的功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "anatomy",
+    "word": "anatomy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/ә'nætәmi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=anatomy&type=2",
+    "definition_en": "n. the branch of morphology that deals with the structure of animals\\nn. a detailed analysis",
+    "definition_zh": "n. 剖析, 解剖学, 骨骼, 结构； 解剖学, 解剖",
+    "frq": 8160,
+    "composite_rank": 9759,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the anatomy.",
+        "zh": "保持健康的生活方式能保护人体剖析的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the anatomy is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，剖析功能运转完全正常健康。"
       }
     ]
   },
@@ -1275,52 +1325,52 @@
     ]
   },
   {
-    "id": "arthritis",
-    "word": "arthritis",
+    "id": "stunt",
+    "word": "stunt",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/ɑ:'θraitis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=arthritis&type=2",
-    "definition_en": "n. inflammation of a joint or joints",
-    "definition_zh": "n. 关节炎； 关节炎",
-    "frq": 7377,
-    "composite_rank": 10534,
-    "badge": "high",
+    "phonetic": "/stʌnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stunt&type=2",
+    "definition_en": "n. a difficult or unusual or dangerous feat; usually done to gain attention\\nn. a creature (especially a whale) that has been prevented from attaining full growth\\nv. check the growth or development of\\nv. perform a stunt or stunts",
+    "definition_zh": "n. 特技, 绝技, 花招, 噱头, 手腕, 发育不良； vt. 阻碍成长； vi. 表演特技",
+    "frq": 9106,
+    "composite_rank": 10891,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the arthritis.",
-        "zh": "保持健康的生活方式能保护人体关节炎的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the stunt.",
+        "zh": "保持健康的生活方式能保护人体特技的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the arthritis is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，关节炎功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the stunt is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，特技功能运转完全正常健康。"
       }
     ]
   },
   {
-    "id": "arterial",
-    "word": "arterial",
+    "id": "nausea",
+    "word": "nausea",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/ɑ:'tiәriәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=arterial&type=2",
-    "definition_en": "a. of or involving or contained in the arteries",
-    "definition_zh": "a. 动脉的, 脉络状的, 干线的； 动脉的",
-    "frq": 16760,
-    "composite_rank": 10894,
-    "badge": "core",
+    "phonetic": "/'nɒ:ʃjә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nausea&type=2",
+    "definition_en": "n. the state that precedes vomiting\\nn. disgust so strong it makes you feel sick",
+    "definition_zh": "n. 反胃, 晕船, 恶心, 厌恶； 恶心",
+    "frq": 9312,
+    "composite_rank": 11137,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the arterial.",
-        "zh": "保持健康的生活方式能保护人体动脉的的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the nausea.",
+        "zh": "保持健康的生活方式能保护人体反胃的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the arterial is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，动脉的功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the nausea is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，反胃功能运转完全正常健康。"
       }
     ]
   },
@@ -1375,60 +1425,10 @@
     ]
   },
   {
-    "id": "stunt",
-    "word": "stunt",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/stʌnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=stunt&type=2",
-    "definition_en": "n. a difficult or unusual or dangerous feat; usually done to gain attention\\nn. a creature (especially a whale) that has been prevented from attaining full growth\\nv. check the growth or development of\\nv. perform a stunt or stunts",
-    "definition_zh": "n. 特技, 绝技, 花招, 噱头, 手腕, 发育不良； vt. 阻碍成长； vi. 表演特技",
-    "frq": 9106,
-    "composite_rank": 14242,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the stunt.",
-        "zh": "保持健康的生活方式能保护人体特技的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the stunt is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，特技功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "nausea",
-    "word": "nausea",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/'nɒ:ʃjә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nausea&type=2",
-    "definition_en": "n. the state that precedes vomiting\\nn. disgust so strong it makes you feel sick",
-    "definition_zh": "n. 反胃, 晕船, 恶心, 厌恶； 恶心",
-    "frq": 9312,
-    "composite_rank": 14564,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the nausea.",
-        "zh": "保持健康的生活方式能保护人体反胃的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the nausea is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，反胃功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
     "id": "marrow",
     "word": "marrow",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'mærәu/",
@@ -1436,7 +1436,7 @@
     "definition_en": "n. the fatty network of connective tissue that fills the cavities of bones\\nn. any of various squash plants grown for their elongated fruit with smooth dark green skin and whitish flesh\\nn. very tender and very nutritious tissue from marrowbones\\nn. large elongated squash with creamy to deep green skins",
     "definition_zh": "n. 髓, 骨髓, 精华, 活力, 配偶； 髓(尤指骨髓)",
     "frq": 9735,
-    "composite_rank": 15226,
+    "composite_rank": 11643,
     "badge": "normal",
     "examples": [
       {
@@ -1446,6 +1446,156 @@
       {
         "en": "Medical scans confirmed that the marrow is functioning normally and healthily.",
         "zh": "医学扫描检查证实，髓功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "receptor",
+    "word": "receptor",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/ri'septә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=receptor&type=2",
+    "definition_en": "n. a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response",
+    "definition_zh": "n. 受体, 感觉器官； 接受器; 受体",
+    "frq": 9755,
+    "composite_rank": 11667,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the receptor.",
+        "zh": "保持健康的生活方式能保护人体受体的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the receptor is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，受体功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "throttle",
+    "word": "throttle",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'θrɒtl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=throttle&type=2",
+    "definition_en": "n a valve that regulates the supply of fuel to the engine\\nn a pedal that controls the throttle valve\\nv place limits on (extent or access)\\nv kill by squeezing the throat of so as to cut off the air\\nv reduce the air supply",
+    "definition_zh": "n. 节流阀, 节气阀, 喉咙； vt. 扼喉咙, 使窒息, 压制, 使节流； vi. 窒息, 节流, 减速",
+    "frq": 11179,
+    "composite_rank": 13370,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the throttle.",
+        "zh": "保持健康的生活方式能保护人体节流阀的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the throttle is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，节流阀功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "intestine",
+    "word": "intestine",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/in'testin/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=intestine&type=2",
+    "definition_en": "n. the part of the alimentary canal between the stomach and the anus",
+    "definition_zh": "a. 内部的, 国内的； n. 肠",
+    "frq": 11678,
+    "composite_rank": 13967,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the intestine.",
+        "zh": "保持健康的生活方式能保护人体肠的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the intestine is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，肠功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "lug",
+    "word": "lug",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/lʌg/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lug&type=2",
+    "definition_en": "n. ancient Celtic god\\nn. a projecting piece that is used to lift or support or turn something\\nv. carry with difficulty",
+    "definition_zh": "v. 拖, 拉； n. 一拖, 一拉, 耳朵, 耳状物, 装腔作势, 勒索",
+    "frq": 11771,
+    "composite_rank": 14078,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the lug.",
+        "zh": "保持健康的生活方式能保护人体一拖的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the lug is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，一拖功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "auditory",
+    "word": "auditory",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'ɒ:ditәri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=auditory&type=2",
+    "definition_en": "a. of or relating to the process of hearing",
+    "definition_zh": "a. 听觉的, 听觉器官的； 听的, 听觉的",
+    "frq": 10885,
+    "composite_rank": 14150,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the auditory.",
+        "zh": "保持健康的生活方式能保护人体听觉的的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the auditory is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，听觉的功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "articulation",
+    "word": "articulation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/ɑ:.tikju'leiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=articulation&type=2",
+    "definition_en": "n. the aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech\\nn. the shape or manner in which things come together and a connection is made\\nn. expressing in coherent verbal form",
+    "definition_zh": "n. 关节, 接合, 连贯, 发音, 表达； 清晰度",
+    "frq": 11023,
+    "composite_rank": 14330,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the articulation.",
+        "zh": "保持健康的生活方式能保护人体关节的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the articulation is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，关节功能运转完全正常健康。"
       }
     ]
   },
@@ -1475,6 +1625,56 @@
     ]
   },
   {
+    "id": "vestige",
+    "word": "vestige",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'vestidʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vestige&type=2",
+    "definition_en": "n an indication that something has been present",
+    "definition_zh": "n. 遗迹, 痕迹, 残余, 丝毫, 退化的器官； 遗迹, 剩件, 剩余",
+    "frq": 13119,
+    "composite_rank": 15690,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the vestige.",
+        "zh": "保持健康的生活方式能保护人体遗迹的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the vestige is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，遗迹功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "whisker",
+    "word": "whisker",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'hwiskә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=whisker&type=2",
+    "definition_en": "n. a long stiff hair growing from the snout or brow of most mammals as e.g. a cat",
+    "definition_zh": "n. 腮须, 胡须, 一丝儿； 晶须",
+    "frq": 13794,
+    "composite_rank": 16498,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the whisker.",
+        "zh": "保持健康的生活方式能保护人体腮须的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the whisker is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，腮须功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
     "id": "colon",
     "word": "colon",
     "part_of_speech": "noun",
@@ -1500,27 +1700,102 @@
     ]
   },
   {
-    "id": "auditory",
-    "word": "auditory",
+    "id": "digestion",
+    "word": "digestion",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/'ɒ:ditәri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=auditory&type=2",
-    "definition_en": "a. of or relating to the process of hearing",
-    "definition_zh": "a. 听觉的, 听觉器官的； 听的, 听觉的",
-    "frq": 10885,
-    "composite_rank": 18504,
+    "phonetic": "/di'dʒestʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=digestion&type=2",
+    "definition_en": "n. the process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat\\nn. the organic process by which food is converted into substances that can be absorbed into the body\\nn. learning and coming to understand ideas and information",
+    "definition_zh": "n. 消化力, 领悟； 消化; 消化作用; 蒸煮; 蒸煮作用; 煮解; 浸提; 陈化",
+    "frq": 13954,
+    "composite_rank": 16689,
     "badge": "normal",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the auditory.",
-        "zh": "保持健康的生活方式能保护人体听觉的的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the digestion.",
+        "zh": "保持健康的生活方式能保护人体消化力的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the auditory is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，听觉的功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the digestion is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，消化力功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "topography",
+    "word": "topography",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/tә'pɒgrәfi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=topography&type=2",
+    "definition_en": "n. the configuration of a surface and the relations among its man-made and natural features\\nn. precise detailed study of the surface features of a region",
+    "definition_zh": "n. 地志, 地形学, 地势, 局部解剖学； 局部解剖, 局部记载",
+    "frq": 13053,
+    "composite_rank": 16969,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the topography.",
+        "zh": "保持健康的生活方式能保护人体地志的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the topography is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，地志功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "retina",
+    "word": "retina",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'retinә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=retina&type=2",
+    "definition_en": "n. the innermost light-sensitive membrane covering the back wall of the eyeball; it is continuous with the optic nerve",
+    "definition_zh": "n. 视网膜； 视网膜",
+    "frq": 14778,
+    "composite_rank": 17674,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the retina.",
+        "zh": "保持健康的生活方式能保护人体视网膜的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the retina is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，视网膜功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "undercut",
+    "word": "undercut",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'ʌndәkʌt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=undercut&type=2",
+    "definition_en": "n. the material removed by a cut made underneath\\nn. a notch cut in the trunk of tree in order to determine the direction of its fall\\nn. a cut made underneath to remove material\\nv. cut away material from the underside of (an object) so as to leave an overhanging portion in relief",
+    "definition_zh": "n. 底切, 牛腰部下侧嫩肉, 下口, 下旋削球； vt. 廉价出售, 底切, 雕出, 下旋削球； vi. 切除底部",
+    "frq": 9112,
+    "composite_rank": 18443,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the undercut.",
+        "zh": "保持健康的生活方式能保护人体底切的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the undercut is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，底切功能运转完全正常健康。"
       }
     ]
   },
@@ -1550,127 +1825,77 @@
     ]
   },
   {
-    "id": "digestion",
-    "word": "digestion",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/di'dʒestʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=digestion&type=2",
-    "definition_en": "n. the process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat\\nn. the organic process by which food is converted into substances that can be absorbed into the body\\nn. learning and coming to understand ideas and information",
-    "definition_zh": "n. 消化力, 领悟； 消化; 消化作用; 蒸煮; 蒸煮作用; 煮解; 浸提; 陈化",
-    "frq": 13954,
-    "composite_rank": 21824,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the digestion.",
-        "zh": "保持健康的生活方式能保护人体消化力的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the digestion is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，消化力功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "topography",
-    "word": "topography",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/tә'pɒgrәfi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=topography&type=2",
-    "definition_en": "n. the configuration of a surface and the relations among its man-made and natural features\\nn. precise detailed study of the surface features of a region",
-    "definition_zh": "n. 地志, 地形学, 地势, 局部解剖学； 局部解剖, 局部记载",
-    "frq": 13053,
-    "composite_rank": 22190,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the topography.",
-        "zh": "保持健康的生活方式能保护人体地志的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the topography is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，地志功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "articulated",
-    "word": "articulated",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/ɑ:'tikju:leitid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=articulated&type=2",
-    "definition_en": "a. consisting of segments held together by joints",
-    "definition_zh": "a. 铰接式的；清晰的；组织缜密的；有关节的",
-    "frq": 17134,
-    "composite_rank": 22274,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the articulated.",
-        "zh": "保持健康的生活方式能保护人体铰接式的的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the articulated is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，铰接式的功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "retina",
-    "word": "retina",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/'retinә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=retina&type=2",
-    "definition_en": "n. the innermost light-sensitive membrane covering the back wall of the eyeball; it is continuous with the optic nerve",
-    "definition_zh": "n. 视网膜； 视网膜",
-    "frq": 14778,
-    "composite_rank": 23113,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the retina.",
-        "zh": "保持健康的生活方式能保护人体视网膜的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the retina is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，视网膜功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "articulation",
-    "word": "articulation",
+    "id": "cerebral",
+    "word": "cerebral",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/ɑ:.tikju'leiʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=articulation&type=2",
-    "definition_en": "n. the aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech\\nn. the shape or manner in which things come together and a connection is made\\nn. expressing in coherent verbal form",
-    "definition_zh": "n. 关节, 接合, 连贯, 发音, 表达； 清晰度",
-    "frq": 11023,
-    "composite_rank": 24251,
+    "phonetic": "/'seribrәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cerebral&type=2",
+    "definition_en": "a. involving intelligence rather than emotions or instinct\\na. of or relating to the cerebrum or brain",
+    "definition_zh": "a. 脑的, 大脑的； 小脑的",
+    "frq": 10167,
+    "composite_rank": 20578,
     "badge": "normal",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the articulation.",
-        "zh": "保持健康的生活方式能保护人体关节的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the cerebral.",
+        "zh": "保持健康的生活方式能保护人体脑的的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the articulation is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，关节功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the cerebral is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，脑的功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "analogue",
+    "word": "analogue",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'ænәlɒg/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=analogue&type=2",
+    "definition_en": "n. something having the property of being analogous to something else\\na. of a circuit or device having an output that is proportional to the input",
+    "definition_zh": "n. 类似物, 相似情况； 类似物, 同型物, 相似器官, 同功异质体",
+    "frq": 19447,
+    "composite_rank": 23259,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the analogue.",
+        "zh": "保持健康的生活方式能保护人体类似物的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the analogue is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，类似物功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "cramp",
+    "word": "cramp",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/kræmp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cramp&type=2",
+    "definition_en": "n. a clamp for holding pieces of wood together while they are glued\\nn. a strip of metal with ends bent at right angles; used to hold masonry together\\nv. secure with a cramp\\nv. affect with or as if with a cramp",
+    "definition_zh": "n. 痉挛, 腹部绞痛, 铁夹钳； a. 狭窄的, 难认的； vt. 使抽筋, 以铁箍扣紧, 束缚",
+    "frq": 12410,
+    "composite_rank": 25118,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the cramp.",
+        "zh": "保持健康的生活方式能保护人体痉挛的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the cramp is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，痉挛功能运转完全正常健康。"
       }
     ]
   },
@@ -1700,10 +1925,110 @@
     ]
   },
   {
+    "id": "malevolent",
+    "word": "malevolent",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/mә'levәlәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=malevolent&type=2",
+    "definition_en": "s. wishing or appearing to wish evil to others; arising from intense ill will or hatred",
+    "definition_zh": "a. 有恶意的, 坏心肠的",
+    "frq": 16691,
+    "composite_rank": 26105,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the malevolent.",
+        "zh": "保持健康的生活方式能保护人体有恶意的的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the malevolent is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，有恶意的功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "pancreas",
+    "word": "pancreas",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/'pæŋkriәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pancreas&type=2",
+    "definition_en": "n. a large elongated exocrine gland located behind the stomach; secretes pancreatic juice and insulin",
+    "definition_zh": "n. 胰腺； 胰",
+    "frq": 17398,
+    "composite_rank": 27210,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the pancreas.",
+        "zh": "保持健康的生活方式能保护人体胰腺的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the pancreas is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，胰腺功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "arterial",
+    "word": "arterial",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/ɑ:'tiәriәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=arterial&type=2",
+    "definition_en": "a. of or involving or contained in the arteries",
+    "definition_zh": "a. 动脉的, 脉络状的, 干线的； 动脉的",
+    "frq": 16760,
+    "composite_rank": 28492,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the arterial.",
+        "zh": "保持健康的生活方式能保护人体动脉的的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the arterial is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，动脉的功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "articulated",
+    "word": "articulated",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/ɑ:'tikju:leitid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=articulated&type=2",
+    "definition_en": "a. consisting of segments held together by joints",
+    "definition_zh": "a. 铰接式的；清晰的；组织缜密的；有关节的",
+    "frq": 17134,
+    "composite_rank": 29128,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the articulated.",
+        "zh": "保持健康的生活方式能保护人体铰接式的的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the articulated is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，铰接式的功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
     "id": "donated",
     "word": "donated",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/dəuˈneitid/",
@@ -1711,7 +2036,7 @@
     "definition_en": "v give to a charity or good cause",
     "definition_zh": "v. （尤指向慈善机构）捐赠( donate的过去式和过去分词 ); 献（血）; 捐（血）; 捐献（器官）",
     "frq": 19891,
-    "composite_rank": 25858,
+    "composite_rank": 33815,
     "badge": "normal",
     "examples": [
       {
@@ -1728,7 +2053,7 @@
     "id": "heartwarming",
     "word": "heartwarming",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'ha:tˌwɔ:mɪŋ/",
@@ -1736,7 +2061,7 @@
     "definition_en": "s. causing gladness and pleasure",
     "definition_zh": "a. 暖人心房的, 感人的",
     "frq": 21395,
-    "composite_rank": 27814,
+    "composite_rank": 36372,
     "badge": "normal",
     "examples": [
       {
@@ -1753,7 +2078,7 @@
     "id": "hearted",
     "word": "hearted",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'hɑ:tid/",
@@ -1761,7 +2086,7 @@
     "definition_en": "a. Having a heart; having (such) a heart (regarded as the\\n   seat of the affections, disposition, or character).\\na. Shaped like a heart; cordate.\\na. Seated or laid up in the heart.",
     "definition_zh": "a. 有...心(肠)的",
     "frq": 29239,
-    "composite_rank": 29239,
+    "composite_rank": 49706,
     "badge": "normal",
     "examples": [
       {
@@ -1771,106 +2096,6 @@
       {
         "en": "Medical scans confirmed that the hearted is functioning normally and healthily.",
         "zh": "医学扫描检查证实，有心的功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "knees",
-    "word": "knees",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/ni:z/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=knees&type=2",
-    "definition_en": "n. hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella\\nn. joint between the femur and tibia in a quadruped; corresponds to the human knee\\nn. the part of a trouser leg that provides the cloth covering for the knee",
-    "definition_zh": "n. 膝( knee的复数形式 ); 膝盖; （裤子的）膝部; 坐下时)大腿朝上的面",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the knees.",
-        "zh": "保持健康的生活方式能保护人体膝的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the knees is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，膝功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "runs",
-    "word": "runs",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/runs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=runs&type=2",
-    "definition_en": "n a score in baseball made by a runner touching all four bases safely\\nn the act of testing something\\nn a race run on foot\\nn an unbroken series of events\\nn (American football) a play in which a player attempts to carry the ball through or past the opposing team\\nn a regular trip\\nn the act of running; traveling on foot at a fast pace\\nn the continuous period of time during which something (a machine or a factory) operates or continues in operation\\nn unrestricted freedom to use\\nn the production achieved during a continuous period of operation (of a machine or factory etc.)\\nn a small stream\\nn a race between candidates for elective office\\nn a row of unravelled stitches\\nn the pouring forth of a fluid\\nn an unbroken chronological sequence\\nn a short trip\\nv move fast by using one's feet, with one foot off the ground at any given time\\nv flee; take to one's heels; cut and run\\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\\nv direct or control; projects, businesses, etc.\\nv have a particular form\\nv move along, of liquids\\nv perform as expected when applied\\nv change or be different within limits\\nv run, stand, or compete for an office or a position\\nv cause to emit recorded audio or video\\nv move about freely and without restraint, or act as if running around in an uncontrolled way\\nv have a tendency or disposition to do or be something; be inclined\\nv be operating, running or functioning\\nv change from one state to another\\nv cause to perform\\nv be affected by; be subjected to\\nv continue to exist\\nv occur persistently\\nv carry out a process or program, as on a computer or a machine\\nv include as the content; broadcast or publicize\\nv carry out\\nv pass over, across, or through\\nv cause something to pass or lead somewhere\\nv make without a miss\\nv deal in illegally, such as arms or liquor\\nv cause an animal to move fast\\nv be diffused\\nv sail before the wind\\nv cover by running; run a certain distance\\nv extend or continue for a certain period of time\\nv set animals loose to graze\\nv keep company\\nv run with the ball; in such sports as football\\nv travel rapidly, by any (unspecified) means\\nv travel a route regularly\\nv pursue for food or sport (as of wild animals)\\nv compete in a race\\nv progress by being changed\\nv reduce or cause to be reduced from a solid to a liquid state, usually by heating\\nv come unraveled or undone as if by snagging\\nv become undone",
-    "definition_zh": "n. 顺串；泻肚子；流量（run的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the runs.",
-        "zh": "保持健康的生活方式能保护人体顺串的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the runs is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，顺串功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "shoulders",
-    "word": "shoulders",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/shoulders/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=shoulders&type=2",
-    "definition_en": "n the part of the body between the neck and the upper arm\\nn a cut of meat including the upper joint of the foreleg\\nn a ball-and-socket joint between the head of the humerus and a cavity of the scapula\\nn the part of a garment that covers or fits over the shoulder\\nn a narrow edge of land (usually unpaved) along the side of a road\\nv lift onto one's shoulders\\nv push with the shoulders\\nv carry a burden, either real or metaphoric",
-    "definition_zh": "n. 肩部；肩膀（shoulder的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the shoulders.",
-        "zh": "保持健康的生活方式能保护人体肩部的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the shoulders is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，肩部功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "toes",
-    "word": "toes",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/toes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=toes&type=2",
-    "definition_en": "n one of the digits of the foot\\nn the part of footwear that provides a covering for the toes\\nn forepart of a hoof\\nn (golf) the part of a clubhead farthest from the shaft\\nv walk so that the toes assume an indicated position or direction\\nv drive obliquely\\nv hit (a golf ball) with the toe of the club\\nv drive (a golf ball) with the toe of the club\\nv touch with the toe",
-    "definition_zh": "n. 脚趾（toe的复数）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the toes.",
-        "zh": "保持健康的生活方式能保护人体脚趾的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the toes is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，脚趾功能运转完全正常健康。"
       }
     ]
   },
@@ -1900,27 +2125,102 @@
     ]
   },
   {
-    "id": "organs",
-    "word": "organs",
+    "id": "jaws",
+    "word": "jaws",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
-    "phonetic": "/organs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=organs&type=2",
-    "definition_en": "n edible viscera of a butchered animal\\nn a fully differentiated structural and functional unit in an animal that is specialized for some particular function\\nn a government agency or instrument devoted to the performance of some specific function\\nn (music) an electronic simulation of a pipe organ\\nn a periodical that is published by a special interest group\\nn wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard\\nn a free-reed instrument in which air is forced through the reeds by bellows",
-    "definition_zh": "n. 器官；机构；风琴（organ的复数）",
+    "phonetic": "/jɒ:z/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jaws&type=2",
+    "definition_en": "n the part of the skull of a vertebrate that frames the mouth and holds the teeth\\nn the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth\\nn holding device consisting of one or both of the opposing parts of a tool that close to hold an object\\nv talk socially without exchanging too much information\\nv talk incessantly and tiresomely\\nv chew (food); to bite and grind with the teeth\\nv censure severely or angrily",
+    "definition_zh": "n. 口, 狭口, 咽喉, 险地",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the organs.",
-        "zh": "保持健康的生活方式能保护人体器官的重要生理机能。"
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the jaws.",
+        "zh": "保持健康的生活方式能保护人体口的重要生理机能。"
       },
       {
-        "en": "Medical scans confirmed that the organs is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，器官功能运转完全正常健康。"
+        "en": "Medical scans confirmed that the jaws is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，口功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "muscle-bound",
+    "word": "muscle-bound",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/muscle-bound/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=muscle-bound&type=2",
+    "definition_en": "s. having stiff muscles as the result of excessive exercise",
+    "definition_zh": "a. 肌肉紧张的, 死板的, 僵硬的",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the muscle-bound.",
+        "zh": "保持健康的生活方式能保护人体肌肉紧张的的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the muscle-bound is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，肌肉紧张的功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "runs",
+    "word": "runs",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/runs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=runs&type=2",
+    "definition_en": "n a score in baseball made by a runner touching all four bases safely\\nn the act of testing something\\nn a race run on foot\\nn an unbroken series of events\\nn (American football) a play in which a player attempts to carry the ball through or past the opposing team\\nn a regular trip\\nn the act of running; traveling on foot at a fast pace\\nn the continuous period of time during which something (a machine or a factory) operates or continues in operation\\nn unrestricted freedom to use\\nn the production achieved during a continuous period of operation (of a machine or factory etc.)\\nn a small stream\\nn a race between candidates for elective office\\nn a row of unravelled stitches\\nn the pouring forth of a fluid\\nn an unbroken chronological sequence\\nn a short trip\\nv move fast by using one's feet, with one foot off the ground at any given time\\nv flee; take to one's heels; cut and run\\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\\nv direct or control; projects, businesses, etc.\\nv have a particular form\\nv move along, of liquids\\nv perform as expected when applied\\nv change or be different within limits\\nv run, stand, or compete for an office or a position\\nv cause to emit recorded audio or video\\nv move about freely and without restraint, or act as if running around in an uncontrolled way\\nv have a tendency or disposition to do or be something; be inclined\\nv be operating, running or functioning\\nv change from one state to another\\nv cause to perform\\nv be affected by; be subjected to\\nv continue to exist\\nv occur persistently\\nv carry out a process or program, as on a computer or a machine\\nv include as the content; broadcast or publicize\\nv carry out\\nv pass over, across, or through\\nv cause something to pass or lead somewhere\\nv make without a miss\\nv deal in illegally, such as arms or liquor\\nv cause an animal to move fast\\nv be diffused\\nv sail before the wind\\nv cover by running; run a certain distance\\nv extend or continue for a certain period of time\\nv set animals loose to graze\\nv keep company\\nv run with the ball; in such sports as football\\nv travel rapidly, by any (unspecified) means\\nv travel a route regularly\\nv pursue for food or sport (as of wild animals)\\nv compete in a race\\nv progress by being changed\\nv reduce or cause to be reduced from a solid to a liquid state, usually by heating\\nv come unraveled or undone as if by snagging\\nv become undone",
+    "definition_zh": "n. 顺串；泻肚子；流量（run的复数形式）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the runs.",
+        "zh": "保持健康的生活方式能保护人体顺串的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the runs is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，顺串功能运转完全正常健康。"
+      }
+    ]
+  },
+  {
+    "id": "tastebud",
+    "word": "tastebud",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人体器官与生理解剖",
+    "category": "human_organs",
+    "phonetic": "/tastebud/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tastebud&type=2",
+    "definition_en": "",
+    "definition_zh": "na. 味蕾； 味觉器官称味蕾；味觉球",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Maintaining a healthy lifestyle protects the vital functions of the tastebud.",
+        "zh": "保持健康的生活方式能保护人体味蕾的重要生理机能。"
+      },
+      {
+        "en": "Medical scans confirmed that the tastebud is functioning normally and healthily.",
+        "zh": "医学扫描检查证实，味蕾功能运转完全正常健康。"
       }
     ]
   },
@@ -1950,185 +2250,10 @@
     ]
   },
   {
-    "id": "veins",
-    "word": "veins",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/veins/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=veins&type=2",
-    "definition_en": "n a blood vessel that carries blood from the capillaries toward the heart\\nn a distinctive style or manner\\nn any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ\\nn a layer of ore between layers of rock\\nn one of the horny ribs that stiffen and support the wing of an insect\\nv make a veinlike pattern",
-    "definition_zh": "n. 纹理；静脉（vein的复数）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the veins.",
-        "zh": "保持健康的生活方式能保护人体纹理的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the veins is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，纹理功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "arteries",
-    "word": "arteries",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/arteries/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=arteries&type=2",
-    "definition_en": "n a blood vessel that carries blood from the heart to the body\\nn a major thoroughfare that bears important traffic",
-    "definition_zh": "n. 动脉（artery的复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the arteries.",
-        "zh": "保持健康的生活方式能保护人体动脉的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the arteries is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，动脉功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "eyebrows",
-    "word": "eyebrows",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/eyebrows/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=eyebrows&type=2",
-    "definition_en": "n the arch of hair above each eye",
-    "definition_zh": "n. 眉毛（eyebrow的复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the eyebrows.",
-        "zh": "保持健康的生活方式能保护人体眉毛的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the eyebrows is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，眉毛功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "jaws",
-    "word": "jaws",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/jɒ:z/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=jaws&type=2",
-    "definition_en": "n the part of the skull of a vertebrate that frames the mouth and holds the teeth\\nn the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth\\nn holding device consisting of one or both of the opposing parts of a tool that close to hold an object\\nv talk socially without exchanging too much information\\nv talk incessantly and tiresomely\\nv chew (food); to bite and grind with the teeth\\nv censure severely or angrily",
-    "definition_zh": "n. 口, 狭口, 咽喉, 险地",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the jaws.",
-        "zh": "保持健康的生活方式能保护人体口的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the jaws is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，口功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "limbs",
-    "word": "limbs",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/limbs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=limbs&type=2",
-    "definition_en": "n one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper\\nn any of the main branches arising from the trunk or a bough of a tree\\nn (astronomy) the circumferential edge of the apparent disc of the sun or the moon or a planet\\nn either of the two halves of a bow from handle to tip\\nn the graduated arc that is attached to an instrument for measuring angles\\nn any projection that is thought to resemble a human arm",
-    "definition_zh": "n. 四肢（limb的复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the limbs.",
-        "zh": "保持健康的生活方式能保护人体四肢的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the limbs is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，四肢功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "spines",
-    "word": "spines",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/spainz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spines&type=2",
-    "definition_en": "n. the series of vertebrae forming the axis of the skeleton and protecting the spinal cord\\nn. any sharply pointed projection\\nn. a small sharp-pointed tip resembling a spike on a stem or leaf",
-    "definition_zh": "n. 脊柱( spine的复数形式 ); 脊椎; （动植物的）刺; 书脊",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the spines.",
-        "zh": "保持健康的生活方式能保护人体脊柱的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the spines is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，脊柱功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "thighs",
-    "word": "thighs",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/θaiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=thighs&type=2",
-    "definition_en": "n. the part of the leg between the hip and the knee\\nn. the upper joint of the leg of a fowl",
-    "definition_zh": "n. 股, 大腿( thigh的复数形式 ); 食用的鸡（等的）腿",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the thighs.",
-        "zh": "保持健康的生活方式能保护人体股的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the thighs is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，股功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
     "id": "well-built",
     "word": "well-built",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "人体器官与生理解剖",
     "category": "human_organs",
     "phonetic": "/'wel'bɪlt/",
@@ -2136,7 +2261,7 @@
     "definition_en": "",
     "definition_zh": "adj. 结实的; 坚固的; <口>肌肉发达的; 体格健美的",
     "frq": 50000,
-    "composite_rank": 65000,
+    "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
@@ -2146,31 +2271,6 @@
       {
         "en": "Medical scans confirmed that the well-built is functioning normally and healthily.",
         "zh": "医学扫描检查证实，结实的功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "bones",
-    "word": "bones",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/bәunz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bones&type=2",
-    "definition_en": "n. a percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by Spanish dancers) in rhythm with the dance",
-    "definition_zh": "n. 骨骼, 尸体",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the bones.",
-        "zh": "保持健康的生活方式能保护人体骨骼的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the bones is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，骨骼功能运转完全正常健康。"
       }
     ]
   },
@@ -2200,56 +2300,6 @@
     ]
   },
   {
-    "id": "muscles",
-    "word": "muscles",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/muscles/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=muscles&type=2",
-    "definition_en": "n one of the contractile organs of the body\\nn animal tissue consisting predominantly of contractile cells\\nn a bully employed as a thug or bodyguard\\nn authority or power or force (especially when used in a coercive way)\\nn possessing muscular strength\\nv make one's way by force",
-    "definition_zh": "n. 肌肉（muscle的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the muscles.",
-        "zh": "保持健康的生活方式能保护人体肌肉的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the muscles is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，肌肉功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "tastebud",
-    "word": "tastebud",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/tastebud/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tastebud&type=2",
-    "definition_en": "",
-    "definition_zh": "na. 味蕾； 味觉器官称味蕾；味觉球",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the tastebud.",
-        "zh": "保持健康的生活方式能保护人体味蕾的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the tastebud is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，味蕾功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
     "id": "teeth",
     "word": "teeth",
     "part_of_speech": "noun",
@@ -2271,31 +2321,6 @@
       {
         "en": "Medical scans confirmed that the teeth is functioning normally and healthily.",
         "zh": "医学扫描检查证实，牙齿功能运转完全正常健康。"
-      }
-    ]
-  },
-  {
-    "id": "muscle-bound",
-    "word": "muscle-bound",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人体器官与生理解剖",
-    "category": "human_organs",
-    "phonetic": "/muscle-bound/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=muscle-bound&type=2",
-    "definition_en": "s. having stiff muscles as the result of excessive exercise",
-    "definition_zh": "a. 肌肉紧张的, 死板的, 僵硬的",
-    "frq": 50000,
-    "composite_rank": 110000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Maintaining a healthy lifestyle protects the vital functions of the muscle-bound.",
-        "zh": "保持健康的生活方式能保护人体肌肉紧张的的重要生理机能。"
-      },
-      {
-        "en": "Medical scans confirmed that the muscle-bound is functioning normally and healthily.",
-        "zh": "医学扫描检查证实，肌肉紧张的功能运转完全正常健康。"
       }
     ]
   }

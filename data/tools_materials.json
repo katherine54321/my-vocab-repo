@@ -300,31 +300,6 @@
     ]
   },
   {
-    "id": "glass",
-    "word": "glass",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/glɑ:s/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=glass&type=2",
-    "definition_en": "n. a brittle transparent solid with irregular atomic structure\\nn. a container for holding liquids while drinking\\nn. the quantity a glass will hold\\nn. glassware collectively",
-    "definition_zh": "n. 玻璃, 玻璃杯, 透镜； vt. 装玻璃于, 反射, 反映； vi. 成玻璃状",
-    "frq": 820,
-    "composite_rank": 254,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable glass to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的玻璃以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the glass operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的玻璃平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "unit",
     "word": "unit",
     "part_of_speech": "noun",
@@ -450,6 +425,31 @@
     ]
   },
   {
+    "id": "stuff",
+    "word": "stuff",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/stʌf/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stuff&type=2",
+    "definition_en": "n. miscellaneous unspecified objects\\nn. informal terms for personal possessions\\nn. senseless talk\\nn. unspecified qualities required to do or be something",
+    "definition_zh": "n. 原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话； vt. 装填； vi. 狼吞虎咽",
+    "frq": 996,
+    "composite_rank": 379,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable stuff to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的原料以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the stuff operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的原料平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "wood",
     "word": "wood",
     "part_of_speech": "noun",
@@ -525,27 +525,27 @@
     ]
   },
   {
-    "id": "stuff",
-    "word": "stuff",
+    "id": "facility",
+    "word": "facility",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/stʌf/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=stuff&type=2",
-    "definition_en": "n. miscellaneous unspecified objects\\nn. informal terms for personal possessions\\nn. senseless talk\\nn. unspecified qualities required to do or be something",
-    "definition_zh": "n. 原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话； vt. 装填； vi. 狼吞虎咽",
-    "frq": 996,
-    "composite_rank": 474,
+    "phonetic": "/fә'siliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=facility&type=2",
+    "definition_en": "n. a building or place that provides a particular service or is used for a particular industry\\nn. a natural effortlessness\\nn. something designed and created to serve a particular function and to afford a particular convenience or service\\nn. a service that an organization or a piece of equipment offers you",
+    "definition_zh": "n. 容易, 灵巧, 设备； 设施; 设备; 装备",
+    "frq": 1297,
+    "composite_rank": 494,
     "badge": "core",
     "examples": [
       {
-        "en": "Craftsmen selected a durable stuff to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的原料以确保精度与安全。"
+        "en": "Craftsmen selected a durable facility to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的容易以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the stuff operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的原料平稳顺畅运作。"
+        "en": "Regular maintenance keeps the facility operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的容易平稳顺畅运作。"
       }
     ]
   },
@@ -700,27 +700,27 @@
     ]
   },
   {
-    "id": "facility",
-    "word": "facility",
+    "id": "device",
+    "word": "device",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/fә'siliti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=facility&type=2",
-    "definition_en": "n. a building or place that provides a particular service or is used for a particular industry\\nn. a natural effortlessness\\nn. something designed and created to serve a particular function and to afford a particular convenience or service\\nn. a service that an organization or a piece of equipment offers you",
-    "definition_zh": "n. 容易, 灵巧, 设备； 设施; 设备; 装备",
-    "frq": 1297,
-    "composite_rank": 617,
+    "phonetic": "/di'vais/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=device&type=2",
+    "definition_en": "n. an instrumentality invented for a particular purpose\\nn. something in an artistic work designed to achieve a particular effect\\nn. any clever maneuver\\nn. any ornamental pattern or design (as in embroidery)",
+    "definition_zh": "n. 装置, 设计, 策略, 发明物, 设备； 设备; DOS内部命令:该命令要求DOS安装一个设备驱动程序",
+    "frq": 1507,
+    "composite_rank": 641,
     "badge": "core",
     "examples": [
       {
-        "en": "Craftsmen selected a durable facility to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的容易以确保精度与安全。"
+        "en": "Craftsmen selected a durable device to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的装置以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the facility operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的容易平稳顺畅运作。"
+        "en": "Regular maintenance keeps the device operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的装置平稳顺畅运作。"
       }
     ]
   },
@@ -850,31 +850,6 @@
     ]
   },
   {
-    "id": "smith",
-    "word": "smith",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/smiθ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=smith&type=2",
-    "definition_en": "n. Rhodesian statesman who declared independence of Zimbabwe from Great Britain (born in 1919)\\nn. United States sculptor (1906-1965)\\nn. United States singer noted for her rendition of patriotic songs (1909-1986)",
-    "definition_zh": "n. 铁匠, 金属品工匠； 锻造工, 上手",
-    "frq": 1169,
-    "composite_rank": 760,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable smith to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的铁匠以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the smith operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的铁匠平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "chain",
     "word": "chain",
     "part_of_speech": "noun",
@@ -950,31 +925,6 @@
     ]
   },
   {
-    "id": "device",
-    "word": "device",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/di'vais/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=device&type=2",
-    "definition_en": "n. an instrumentality invented for a particular purpose\\nn. something in an artistic work designed to achieve a particular effect\\nn. any clever maneuver\\nn. any ornamental pattern or design (as in embroidery)",
-    "definition_zh": "n. 装置, 设计, 策略, 发明物, 设备； 设备; DOS内部命令:该命令要求DOS安装一个设备驱动程序",
-    "frq": 1507,
-    "composite_rank": 802,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable device to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的装置以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the device operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的装置平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "acquire",
     "word": "acquire",
     "part_of_speech": "noun",
@@ -1000,6 +950,31 @@
     ]
   },
   {
+    "id": "airline",
+    "word": "airline",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'єәlain/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=airline&type=2",
+    "definition_en": "n. a hose that carries air under pressure\\nn. a commercial enterprise that provides scheduled flights for passengers",
+    "definition_zh": "n. 航线, 航线的设备, 航空公司",
+    "frq": 2128,
+    "composite_rank": 941,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable airline to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的航线以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the airline operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的航线平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "wire",
     "word": "wire",
     "part_of_speech": "noun",
@@ -1021,6 +996,31 @@
       {
         "en": "Regular maintenance keeps the wire operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的电线平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "engineering",
+    "word": "engineering",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/.endʒi'niәriŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=engineering&type=2",
+    "definition_en": "n. the discipline dealing with the art or science of applying scientific knowledge to practical problems\\nn. a room (as on a ship) in which the engine is located",
+    "definition_zh": "n. 工程学, 工程, 操纵； 机器; 机器学",
+    "frq": 2385,
+    "composite_rank": 1015,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable engineering to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的工程学以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the engineering operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的工程学平稳顺畅运作。"
       }
     ]
   },
@@ -1075,6 +1075,31 @@
     ]
   },
   {
+    "id": "smith",
+    "word": "smith",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/smiθ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=smith&type=2",
+    "definition_en": "n. Rhodesian statesman who declared independence of Zimbabwe from Great Britain (born in 1919)\\nn. United States sculptor (1906-1965)\\nn. United States singer noted for her rendition of patriotic songs (1909-1986)",
+    "definition_zh": "n. 铁匠, 金属品工匠； 锻造工, 上手",
+    "frq": 1169,
+    "composite_rank": 1169,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable smith to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的铁匠以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the smith operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的铁匠平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "pipe",
     "word": "pipe",
     "part_of_speech": "noun",
@@ -1100,27 +1125,27 @@
     ]
   },
   {
-    "id": "engineering",
-    "word": "engineering",
+    "id": "works",
+    "word": "works",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/.endʒi'niәriŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=engineering&type=2",
-    "definition_en": "n. the discipline dealing with the art or science of applying scientific knowledge to practical problems\\nn. a room (as on a ship) in which the engine is located",
-    "definition_zh": "n. 工程学, 工程, 操纵； 机器; 机器学",
-    "frq": 2385,
-    "composite_rank": 1269,
+    "phonetic": "/works/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=works&type=2",
+    "definition_en": "n. performance of moral or religious acts\\nn. the internal mechanism of a device",
+    "definition_zh": "n. 工程, 工厂, 工事, 活动部件, 机件, 著作, 作品, 善行, 德行； 工厂, 工场",
+    "frq": 1637,
+    "composite_rank": 1310,
     "badge": "core",
     "examples": [
       {
-        "en": "Craftsmen selected a durable engineering to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的工程学以确保精度与安全。"
+        "en": "Craftsmen selected a durable works to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的工程以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the engineering operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的工程学平稳顺畅运作。"
+        "en": "Regular maintenance keeps the works operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的工程平稳顺畅运作。"
       }
     ]
   },
@@ -1175,27 +1200,27 @@
     ]
   },
   {
-    "id": "airline",
-    "word": "airline",
+    "id": "implement",
+    "word": "implement",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/'єәlain/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=airline&type=2",
-    "definition_en": "n. a hose that carries air under pressure\\nn. a commercial enterprise that provides scheduled flights for passengers",
-    "definition_zh": "n. 航线, 航线的设备, 航空公司",
-    "frq": 2128,
-    "composite_rank": 1447,
+    "phonetic": "/'implimәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=implement&type=2",
+    "definition_en": "n. instrumentation (a piece of equipment or tool) used to effect an end\\nv. apply in a manner consistent with its purpose or design",
+    "definition_zh": "n. 工具, 器具, 手段； vt. 实现, 使生效, 执行",
+    "frq": 2285,
+    "composite_rank": 1389,
     "badge": "core",
     "examples": [
       {
-        "en": "Craftsmen selected a durable airline to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的航线以确保精度与安全。"
+        "en": "Craftsmen selected a durable implement to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的工具以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the airline operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的航线平稳顺畅运作。"
+        "en": "Regular maintenance keeps the implement operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的工具平稳顺畅运作。"
       }
     ]
   },
@@ -1275,27 +1300,27 @@
     ]
   },
   {
-    "id": "works",
-    "word": "works",
+    "id": "provision",
+    "word": "provision",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/works/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=works&type=2",
-    "definition_en": "n. performance of moral or religious acts\\nn. the internal mechanism of a device",
-    "definition_zh": "n. 工程, 工厂, 工事, 活动部件, 机件, 著作, 作品, 善行, 德行； 工厂, 工场",
-    "frq": 1637,
-    "composite_rank": 1637,
+    "phonetic": "/prә'viʒәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=provision&type=2",
+    "definition_en": "n. a stipulated condition\\nn. the activity of supplying or providing something\\nn. a store or supply of something (especially of food or clothing or arms)\\nv. supply with provisions",
+    "definition_zh": "n. (政府提供的)钱和设备, 准备, 供应品, 规定, 条款； vt. 供给...食物及必需品",
+    "frq": 2612,
+    "composite_rank": 1588,
     "badge": "core",
     "examples": [
       {
-        "en": "Craftsmen selected a durable works to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的工程以确保精度与安全。"
+        "en": "Craftsmen selected a durable provision to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的钱和设备以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the works operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的工程平稳顺畅运作。"
+        "en": "Regular maintenance keeps the provision operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的钱和设备平稳顺畅运作。"
       }
     ]
   },
@@ -1325,27 +1350,27 @@
     ]
   },
   {
-    "id": "implement",
-    "word": "implement",
+    "id": "utility",
+    "word": "utility",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/'implimәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=implement&type=2",
-    "definition_en": "n. instrumentation (a piece of equipment or tool) used to effect an end\\nv. apply in a manner consistent with its purpose or design",
-    "definition_zh": "n. 工具, 器具, 手段； vt. 实现, 使生效, 执行",
-    "frq": 2285,
-    "composite_rank": 1737,
+    "phonetic": "/ju:'tiliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=utility&type=2",
+    "definition_en": "n. a company that performs a public service; subject to government regulation\\nn. the quality of being of practical use\\nn. the service (electric power or water or transportation) provided by a public utility\\nn. (economics) a measure that is to be maximized in any situation involving choice",
+    "definition_zh": "n. 功用, 有用之物, 实用, 公用事业, 实用程序； a. 实用的, 有多种用途的； 实用程序, 工具",
+    "frq": 2578,
+    "composite_rank": 1732,
     "badge": "core",
     "examples": [
       {
-        "en": "Craftsmen selected a durable implement to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的工具以确保精度与安全。"
+        "en": "Craftsmen selected a durable utility to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的功用以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the implement operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的工具平稳顺畅运作。"
+        "en": "Regular maintenance keeps the utility operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的功用平稳顺畅运作。"
       }
     ]
   },
@@ -1375,6 +1400,31 @@
     ]
   },
   {
+    "id": "vessel",
+    "word": "vessel",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'vesl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vessel&type=2",
+    "definition_en": "n. a tube in which a body fluid circulates\\nn. a craft designed for water transportation\\nn. an object used as a container (especially for liquids)",
+    "definition_zh": "n. 船, 容器, 脉管； 管, 脉管, (容)器",
+    "frq": 2940,
+    "composite_rank": 1788,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable vessel to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的船以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the vessel operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的船平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "rubber",
     "word": "rubber",
     "part_of_speech": "noun",
@@ -1400,27 +1450,77 @@
     ]
   },
   {
-    "id": "provision",
-    "word": "provision",
+    "id": "slave",
+    "word": "slave",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/sleiv/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=slave&type=2",
+    "definition_en": "n. a person who is owned by someone\\nn. someone who works as hard as a slave\\nn. someone entirely dominated by some influence or person\\nv. work very hard, like a slave",
+    "definition_zh": "n. 奴隶, 从动装置, 卑鄙的人； vi. 拼命工作； 从设备",
+    "frq": 2727,
+    "composite_rank": 1833,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable slave to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的奴隶以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the slave operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的奴隶平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "mode",
+    "word": "mode",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/mәud/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mode&type=2",
+    "definition_en": "n. a particular functioning condition or arrangement\\nn. any of various fixed orders of the various diatonic notes within an octave\\nn. the most frequent value of a random variable",
+    "definition_zh": "n. 模态, 调式, 样式, 文体, 状态, 方式, 风尚； 方式; DOS外部命令:设定各种设备命令",
+    "frq": 2793,
+    "composite_rank": 1877,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable mode to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的模态以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the mode operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的模态平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "mechanism",
+    "word": "mechanism",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/prә'viʒәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=provision&type=2",
-    "definition_en": "n. a stipulated condition\\nn. the activity of supplying or providing something\\nn. a store or supply of something (especially of food or clothing or arms)\\nv. supply with provisions",
-    "definition_zh": "n. (政府提供的)钱和设备, 准备, 供应品, 规定, 条款； vt. 供给...食物及必需品",
-    "frq": 2612,
-    "composite_rank": 1985,
+    "phonetic": "/'mekәnizm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mechanism&type=2",
+    "definition_en": "n. the atomic process that occurs during a chemical reaction\\nn. the technical aspects of doing something\\nn. a natural object resembling a machine in structure or function\\nn. (philosophy) the philosophical theory that all phenomena can be explained in terms of physical or biological causes",
+    "definition_zh": "n. 机械, 机构, 结构, 机理, 技巧； 机理; 历程; 机构",
+    "frq": 2677,
+    "composite_rank": 2035,
     "badge": "core",
     "examples": [
       {
-        "en": "Craftsmen selected a durable provision to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的钱和设备以确保精度与安全。"
+        "en": "Craftsmen selected a durable mechanism to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的机械以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the provision operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的钱和设备平稳顺畅运作。"
+        "en": "Regular maintenance keeps the mechanism operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的机械平稳顺畅运作。"
       }
     ]
   },
@@ -1450,31 +1550,6 @@
     ]
   },
   {
-    "id": "utility",
-    "word": "utility",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/ju:'tiliti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=utility&type=2",
-    "definition_en": "n. a company that performs a public service; subject to government regulation\\nn. the quality of being of practical use\\nn. the service (electric power or water or transportation) provided by a public utility\\nn. (economics) a measure that is to be maximized in any situation involving choice",
-    "definition_zh": "n. 功用, 有用之物, 实用, 公用事业, 实用程序； a. 实用的, 有多种用途的； 实用程序, 工具",
-    "frq": 2578,
-    "composite_rank": 2166,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable utility to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的功用以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the utility operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的功用平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "tackle",
     "word": "tackle",
     "part_of_speech": "noun",
@@ -1500,77 +1575,27 @@
     ]
   },
   {
-    "id": "vessel",
-    "word": "vessel",
+    "id": "trunk",
+    "word": "trunk",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/'vesl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=vessel&type=2",
-    "definition_en": "n. a tube in which a body fluid circulates\\nn. a craft designed for water transportation\\nn. an object used as a container (especially for liquids)",
-    "definition_zh": "n. 船, 容器, 脉管； 管, 脉管, (容)器",
-    "frq": 2940,
-    "composite_rank": 2234,
+    "phonetic": "/trʌŋk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=trunk&type=2",
+    "definition_en": "n. the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber\\nn. luggage consisting of a large strong case used when traveling or for storage",
+    "definition_zh": "n. 树干, 干线, 躯干, 主干, 象鼻, 箱子； vt. 把...放入旅行箱内； a. 树干的, 躯干的, 干线的, 箱形的； 中继线; 母线",
+    "frq": 3533,
+    "composite_rank": 2374,
     "badge": "core",
     "examples": [
       {
-        "en": "Craftsmen selected a durable vessel to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的船以确保精度与安全。"
+        "en": "Craftsmen selected a durable trunk to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的树干以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the vessel operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的船平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "slave",
-    "word": "slave",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/sleiv/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=slave&type=2",
-    "definition_en": "n. a person who is owned by someone\\nn. someone who works as hard as a slave\\nn. someone entirely dominated by some influence or person\\nv. work very hard, like a slave",
-    "definition_zh": "n. 奴隶, 从动装置, 卑鄙的人； vi. 拼命工作； 从设备",
-    "frq": 2727,
-    "composite_rank": 2291,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable slave to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的奴隶以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the slave operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的奴隶平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "mode",
-    "word": "mode",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/mәud/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mode&type=2",
-    "definition_en": "n. a particular functioning condition or arrangement\\nn. any of various fixed orders of the various diatonic notes within an octave\\nn. the most frequent value of a random variable",
-    "definition_zh": "n. 模态, 调式, 样式, 文体, 状态, 方式, 风尚； 方式; DOS外部命令:设定各种设备命令",
-    "frq": 2793,
-    "composite_rank": 2346,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable mode to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的模态以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the mode operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的模态平稳顺畅运作。"
+        "en": "Regular maintenance keeps the trunk operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的树干平稳顺畅运作。"
       }
     ]
   },
@@ -1625,31 +1650,6 @@
     ]
   },
   {
-    "id": "mechanism",
-    "word": "mechanism",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'mekәnizm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mechanism&type=2",
-    "definition_en": "n. the atomic process that occurs during a chemical reaction\\nn. the technical aspects of doing something\\nn. a natural object resembling a machine in structure or function\\nn. (philosophy) the philosophical theory that all phenomena can be explained in terms of physical or biological causes",
-    "definition_zh": "n. 机械, 机构, 结构, 机理, 技巧； 机理; 历程; 机构",
-    "frq": 2677,
-    "composite_rank": 2645,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable mechanism to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的机械以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the mechanism operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的机械平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "automatically",
     "word": "automatically",
     "part_of_speech": "noun",
@@ -1675,6 +1675,31 @@
     ]
   },
   {
+    "id": "equip",
+    "word": "equip",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/i'kwip/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=equip&type=2",
+    "definition_en": "v. provide with (something) usually for a specific purpose\\nv. provide with abilities or understanding",
+    "definition_zh": "vt. 装备, 配备； 设备, 装置",
+    "frq": 4145,
+    "composite_rank": 2785,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable equip to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的装备以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the equip operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的装备平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "reinforce",
     "word": "reinforce",
     "part_of_speech": "noun",
@@ -1696,31 +1721,6 @@
       {
         "en": "Regular maintenance keeps the reinforce operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的加固材料平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "trunk",
-    "word": "trunk",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/trʌŋk/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=trunk&type=2",
-    "definition_en": "n. the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber\\nn. luggage consisting of a large strong case used when traveling or for storage",
-    "definition_zh": "n. 树干, 干线, 躯干, 主干, 象鼻, 箱子； vt. 把...放入旅行箱内； a. 树干的, 躯干的, 干线的, 箱形的； 中继线; 母线",
-    "frq": 3533,
-    "composite_rank": 2968,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable trunk to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的树干以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the trunk operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的树干平稳顺畅运作。"
       }
     ]
   },
@@ -1775,6 +1775,81 @@
     ]
   },
   {
+    "id": "recipient",
+    "word": "recipient",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/ri'sipiәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=recipient&type=2",
+    "definition_en": "n. a person who receives something",
+    "definition_zh": "a. 领受的, 容易接受的, 感受性强的； n. 领受者, 容纳者, 容器",
+    "frq": 3919,
+    "composite_rank": 3292,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable recipient to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的领受者以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the recipient operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的领受者平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "robot",
+    "word": "robot",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'rәubәt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=robot&type=2",
+    "definition_en": "n a mechanism that can move automatically",
+    "definition_zh": "n. 机械人, 自动机械, 机械般工作的人； 机器人; 自动机",
+    "frq": 4523,
+    "composite_rank": 3329,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable robot to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的机械人以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the robot operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的机械人平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "kit",
+    "word": "kit",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/kit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=kit&type=2",
+    "definition_en": "n. a case for containing a set of articles\\nn. gear consisting of a set of articles or tools for a specified purpose\\nn. young of any of various fur-bearing animals",
+    "definition_zh": "n. 装备, 工具箱, 成套工具； 成套部件; 成套零件",
+    "frq": 4018,
+    "composite_rank": 3375,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable kit to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的装备以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the kit operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的装备平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "hardware",
     "word": "hardware",
     "part_of_speech": "noun",
@@ -1821,31 +1896,6 @@
       {
         "en": "Regular maintenance keeps the machinery operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的机器平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "equip",
-    "word": "equip",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/i'kwip/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=equip&type=2",
-    "definition_en": "v. provide with (something) usually for a specific purpose\\nv. provide with abilities or understanding",
-    "definition_zh": "vt. 装备, 配备； 设备, 装置",
-    "frq": 4145,
-    "composite_rank": 3482,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable equip to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的装备以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the equip operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的装备平稳顺畅运作。"
       }
     ]
   },
@@ -1925,6 +1975,106 @@
     ]
   },
   {
+    "id": "texture",
+    "word": "texture",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'tekstʃә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=texture&type=2",
+    "definition_en": "n. the feel of a surface or a fabric\\nn. the essential quality of something\\nn. the musical pattern created by parts being played or sung together\\nn. the characteristic appearance of a surface having a tactile quality",
+    "definition_zh": "n. (织物的)密度, (材料等的)结构, 纹理； 纹理",
+    "frq": 4413,
+    "composite_rank": 3707,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable texture to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的密度以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the texture operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的密度平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "commodity",
+    "word": "commodity",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/kә'mɒditi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=commodity&type=2",
+    "definition_en": "n. articles of commerce",
+    "definition_zh": "n. 农产品, 商品, 有用的物品； 商品, 货物, 日用品",
+    "frq": 4581,
+    "composite_rank": 3848,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable commodity to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的农产品以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the commodity operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的农产品平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "terminal",
+    "word": "terminal",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'tә:minәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=terminal&type=2",
+    "definition_en": "n. station where transport vehicles load or unload passengers or goods\\nn. a contact on an electrical device (such as a battery) at which electric current enters or leaves\\nn. electronic equipment consisting of a device providing access to a computer; has a keyboard and display\\na. of or relating to or situated at the ends of a delivery route",
+    "definition_zh": "n. 终端机, 终点, 末端, 极限, 终点站； a. 终点的, 定期的, 致死的, 结尾的, 末端的, 晚期的； 终端; 终端设备",
+    "frq": 5777,
+    "composite_rank": 3882,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable terminal to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的终端机以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the terminal operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的终端机平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "lighting",
+    "word": "lighting",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'laitiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lighting&type=2",
+    "definition_en": "n. apparatus for supplying artificial light effects for the stage or a film\\nn. the craft of providing artificial light",
+    "definition_zh": "n. 照明, 照明设备, 舞台灯光",
+    "frq": 4855,
+    "composite_rank": 4078,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable lighting to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的照明以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the lighting operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的照明平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "timber",
     "word": "timber",
     "part_of_speech": "noun",
@@ -1946,56 +2096,6 @@
       {
         "en": "Regular maintenance keeps the timber operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的木材平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "robot",
-    "word": "robot",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'rәubәt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=robot&type=2",
-    "definition_en": "n a mechanism that can move automatically",
-    "definition_zh": "n. 机械人, 自动机械, 机械般工作的人； 机器人; 自动机",
-    "frq": 4523,
-    "composite_rank": 4161,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable robot to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的机械人以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the robot operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的机械人平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "recipient",
-    "word": "recipient",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/ri'sipiәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=recipient&type=2",
-    "definition_en": "n. a person who receives something",
-    "definition_zh": "a. 领受的, 容易接受的, 感受性强的； n. 领受者, 容纳者, 容器",
-    "frq": 3919,
-    "composite_rank": 4280,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable recipient to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的领受者以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the recipient operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的领受者平稳顺畅运作。"
       }
     ]
   },
@@ -2050,27 +2150,27 @@
     ]
   },
   {
-    "id": "kit",
-    "word": "kit",
+    "id": "strand",
+    "word": "strand",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/kit/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=kit&type=2",
-    "definition_en": "n. a case for containing a set of articles\\nn. gear consisting of a set of articles or tools for a specified purpose\\nn. young of any of various fur-bearing animals",
-    "definition_zh": "n. 装备, 工具箱, 成套工具； 成套部件; 成套零件",
-    "frq": 4018,
-    "composite_rank": 4388,
+    "phonetic": "/strænd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=strand&type=2",
+    "definition_en": "n. a pattern forming a unity within a larger structural whole\\nn. line consisting of a complex of fibers or filaments that are twisted together to form a thread or a rope or a cable\\nn. a poetic term for a shore (as the area periodically covered and uncovered by the tides)\\nn. a street in west central London famous for its theaters and hotels",
+    "definition_zh": "n. (绳索的)股, 绳, 串, 海滨, 河岸； vi. 搁浅； vt. 使搁浅, 使落后, 使陷于困境, 弄断, 搓",
+    "frq": 5344,
+    "composite_rank": 4489,
     "badge": "high",
     "examples": [
       {
-        "en": "Craftsmen selected a durable kit to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的装备以确保精度与安全。"
+        "en": "Craftsmen selected a durable strand to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的股以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the kit operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的装备平稳顺畅运作。"
+        "en": "Regular maintenance keeps the strand operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的股平稳顺畅运作。"
       }
     ]
   },
@@ -2100,81 +2200,6 @@
     ]
   },
   {
-    "id": "texture",
-    "word": "texture",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'tekstʃә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=texture&type=2",
-    "definition_en": "n. the feel of a surface or a fabric\\nn. the essential quality of something\\nn. the musical pattern created by parts being played or sung together\\nn. the characteristic appearance of a surface having a tactile quality",
-    "definition_zh": "n. (织物的)密度, (材料等的)结构, 纹理； 纹理",
-    "frq": 4413,
-    "composite_rank": 4819,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable texture to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的密度以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the texture operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的密度平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "terminal",
-    "word": "terminal",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'tә:minәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=terminal&type=2",
-    "definition_en": "n. station where transport vehicles load or unload passengers or goods\\nn. a contact on an electrical device (such as a battery) at which electric current enters or leaves\\nn. electronic equipment consisting of a device providing access to a computer; has a keyboard and display\\na. of or relating to or situated at the ends of a delivery route",
-    "definition_zh": "n. 终端机, 终点, 末端, 极限, 终点站； a. 终点的, 定期的, 致死的, 结尾的, 末端的, 晚期的； 终端; 终端设备",
-    "frq": 5777,
-    "composite_rank": 4853,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable terminal to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的终端机以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the terminal operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的终端机平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "commodity",
-    "word": "commodity",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/kә'mɒditi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=commodity&type=2",
-    "definition_en": "n. articles of commerce",
-    "definition_zh": "n. 农产品, 商品, 有用的物品； 商品, 货物, 日用品",
-    "frq": 4581,
-    "composite_rank": 5002,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable commodity to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的农产品以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the commodity operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的农产品平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "appliance",
     "word": "appliance",
     "part_of_speech": "noun",
@@ -2196,31 +2221,6 @@
       {
         "en": "Regular maintenance keeps the appliance operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的器械平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "lighting",
-    "word": "lighting",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'laitiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=lighting&type=2",
-    "definition_en": "n. apparatus for supplying artificial light effects for the stage or a film\\nn. the craft of providing artificial light",
-    "definition_zh": "n. 照明, 照明设备, 舞台灯光",
-    "frq": 4855,
-    "composite_rank": 5302,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable lighting to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的照明以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the lighting operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的照明平稳顺畅运作。"
       }
     ]
   },
@@ -2275,6 +2275,31 @@
     ]
   },
   {
+    "id": "locker",
+    "word": "locker",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'lɒkә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=locker&type=2",
+    "definition_en": "n. a fastener that locks or closes",
+    "definition_zh": "n. 抽屉, 小柜, 上锁人； 锁柜",
+    "frq": 5009,
+    "composite_rank": 5991,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable locker to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的抽屉以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the locker operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的抽屉平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "apparatus",
     "word": "apparatus",
     "part_of_speech": "noun",
@@ -2321,31 +2346,6 @@
       {
         "en": "Regular maintenance keeps the lumber operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的木材平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "bedding",
-    "word": "bedding",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'bediŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bedding&type=2",
-    "definition_en": "n coverings that are used on a bed\\nn material used to provide a bed for animals\\nv furnish with a bed\\nv place (plants) in a prepared bed of soil\\nv put to bed\\nv have sexual intercourse with\\nv prepare for sleep",
-    "definition_zh": "n. 被褥, 寝具, 床上用品, 基床； 褥草, 被褥",
-    "frq": 11136,
-    "composite_rank": 6659,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable bedding to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的被褥以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the bedding operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的被褥平稳顺畅运作。"
       }
     ]
   },
@@ -2425,6 +2425,31 @@
     ]
   },
   {
+    "id": "windshield",
+    "word": "windshield",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'windʃi:ld/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=windshield&type=2",
+    "definition_en": "n. transparent screen (as of glass) to protect occupants of a vehicle",
+    "definition_zh": "n. 挡风玻璃； 风遮蔽",
+    "frq": 6995,
+    "composite_rank": 6995,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable windshield to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的挡风玻璃以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the windshield operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的挡风玻璃平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "linkage",
     "word": "linkage",
     "part_of_speech": "noun",
@@ -2500,31 +2525,6 @@
     ]
   },
   {
-    "id": "tubing",
-    "word": "tubing",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'tju:biŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tubing&type=2",
-    "definition_en": "n conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases\\nv provide with a tube or insert a tube into\\nv convey in a tube\\nv ride or float on an inflated tube\\nv place or enclose in a tube",
-    "definition_zh": "n. 管料, 管道系统, 管状组织； 管工; 管材; 管线; 管道; 管道系统; 铺设管道",
-    "frq": 12177,
-    "composite_rank": 7282,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable tubing to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的管料以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the tubing operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的管料平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "composite",
     "word": "composite",
     "part_of_speech": "noun",
@@ -2596,31 +2596,6 @@
       {
         "en": "Regular maintenance keeps the plaster operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的石膏平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "strand",
-    "word": "strand",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/strænd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=strand&type=2",
-    "definition_en": "n. a pattern forming a unity within a larger structural whole\\nn. line consisting of a complex of fibers or filaments that are twisted together to form a thread or a rope or a cable\\nn. a poetic term for a shore (as the area periodically covered and uncovered by the tides)\\nn. a street in west central London famous for its theaters and hotels",
-    "definition_zh": "n. (绳索的)股, 绳, 串, 海滨, 河岸； vi. 搁浅； vt. 使搁浅, 使落后, 使陷于困境, 弄断, 搓",
-    "frq": 5344,
-    "composite_rank": 7631,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable strand to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的股以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the strand operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的股平稳顺畅运作。"
       }
     ]
   },
@@ -2750,56 +2725,6 @@
     ]
   },
   {
-    "id": "logging",
-    "word": "logging",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'lɒgiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=logging&type=2",
-    "definition_en": "n. the work of cutting down trees for timber",
-    "definition_zh": "n. (木材)采运作业, (事物状况的)记录； 测井",
-    "frq": 9027,
-    "composite_rank": 8305,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable logging to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的采运作业以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the logging operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的采运作业平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "packing",
-    "word": "packing",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'pækiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=packing&type=2",
-    "definition_en": "n. the enclosure of something in a package or box\\nn. carrying something in a pack on the back",
-    "definition_zh": "n. 包装, 填垫材料, 封函, 行李； 填充物; 填料; 填充; 装柱; 装色谱柱; 垫革; 紧束; 敛集; 堆积",
-    "frq": 10288,
-    "composite_rank": 8642,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable packing to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的包装以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the packing operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的包装平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "shear",
     "word": "shear",
     "part_of_speech": "noun",
@@ -2825,31 +2750,6 @@
     ]
   },
   {
-    "id": "instrumentation",
-    "word": "instrumentation",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/.instrumen'teiʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=instrumentation&type=2",
-    "definition_en": "n. the act of providing or using the instruments needed for some implementation\\nn. the instruments called for in a musical score or arrangement for a band or orchestra",
-    "definition_zh": "n. 乐器法, 仪器制造学, 仪表化； 器械用法, 器械操作法",
-    "frq": 12089,
-    "composite_rank": 8898,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable instrumentation to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的乐器法以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the instrumentation operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的乐器法平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "wrapping",
     "word": "wrapping",
     "part_of_speech": "noun",
@@ -2871,31 +2771,6 @@
       {
         "en": "Regular maintenance keeps the wrapping operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的用于包裹的材料平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "windshield",
-    "word": "windshield",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'windʃi:ld/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=windshield&type=2",
-    "definition_en": "n. transparent screen (as of glass) to protect occupants of a vehicle",
-    "definition_zh": "n. 挡风玻璃； 风遮蔽",
-    "frq": 6995,
-    "composite_rank": 9094,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable windshield to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的挡风玻璃以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the windshield operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的挡风玻璃平稳顺畅运作。"
       }
     ]
   },
@@ -3000,6 +2875,106 @@
     ]
   },
   {
+    "id": "automated",
+    "word": "automated",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/automated/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=automated&type=2",
+    "definition_en": "s. operated by automation",
+    "definition_zh": "a. 自动化的；机械化的",
+    "frq": 8095,
+    "composite_rank": 10524,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable automated to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的自动化的以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the automated operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的自动化的平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "fm",
+    "word": "FM",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/fm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fm&type=2",
+    "definition_en": "n modulation of the frequency of the (radio) carrier wave\\nn a radioactive transuranic metallic element produced by bombarding plutonium with neutrons",
+    "definition_zh": "(英)陆军元帅, 外国使团, 调频, 频率调制； 设备管理, 快速存储器, 文件管理, 调频",
+    "frq": 12814,
+    "composite_rank": 10764,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable FM to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的陆军元帅以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the FM operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的陆军元帅平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "logging",
+    "word": "logging",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'lɒgiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=logging&type=2",
+    "definition_en": "n. the work of cutting down trees for timber",
+    "definition_zh": "n. (木材)采运作业, (事物状况的)记录； 测井",
+    "frq": 9027,
+    "composite_rank": 10796,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable logging to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的采运作业以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the logging operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的采运作业平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "glaze",
+    "word": "glaze",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'gleiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=glaze&type=2",
+    "definition_en": "n. any of various thin shiny (savory or sweet) coatings applied to foods\\nn. a glossy finish on a fabric\\nn. a coating for ceramics, metal, etc.\\nv. coat with a glaze",
+    "definition_zh": "n. 釉, 上光, 光滑面； vt. 装以玻璃, 上釉于； vi. 变得光滑, (目光)变呆滞",
+    "frq": 9176,
+    "composite_rank": 10974,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable glaze to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的釉以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the glaze operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的釉平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "waterproof",
     "word": "waterproof",
     "part_of_speech": "noun",
@@ -3021,6 +2996,31 @@
       {
         "en": "Regular maintenance keeps the waterproof operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的防水材料平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "locked",
+    "word": "locked",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/lɔkt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=locked&type=2",
+    "definition_en": "v fasten with a lock\\nv keep engaged\\nv become rigid or immoveable\\nv hold in a locking position\\nv become engaged or intermeshed with one another\\nv hold fast (in a certain state)\\nv place in a place where something cannot be removed or someone cannot escape\\nv pass by means through a lock in a waterway\\nv build locks in order to facilitate the navigation of vessels",
+    "definition_zh": "a. 上锁的；不灵活的；下定决心的",
+    "frq": 10214,
+    "composite_rank": 11154,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable locked to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的上锁的以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the locked operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的上锁的平稳顺畅运作。"
       }
     ]
   },
@@ -3050,6 +3050,56 @@
     ]
   },
   {
+    "id": "packing",
+    "word": "packing",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'pækiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=packing&type=2",
+    "definition_en": "n. the enclosure of something in a package or box\\nn. carrying something in a pack on the back",
+    "definition_zh": "n. 包装, 填垫材料, 封函, 行李； 填充物; 填料; 填充; 装柱; 装色谱柱; 垫革; 紧束; 敛集; 堆积",
+    "frq": 10288,
+    "composite_rank": 11234,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable packing to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的包装以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the packing operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的包装平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "plumbing",
+    "word": "plumbing",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'plʌmiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=plumbing&type=2",
+    "definition_en": "n. utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage\\nn. the occupation of a plumber (installing and repairing pipes and fixtures for water or gas or sewage in a building)",
+    "definition_zh": "n. 测深, 管子工行业, 管道设备",
+    "frq": 8854,
+    "composite_rank": 11510,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable plumbing to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的测深以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the plumbing operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的测深平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "rotary",
     "word": "rotary",
     "part_of_speech": "noun",
@@ -3075,27 +3125,102 @@
     ]
   },
   {
-    "id": "blocked",
-    "word": "blocked",
+    "id": "watchdog",
+    "word": "watchdog",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/blɔkt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=blocked&type=2",
-    "definition_en": "s. closed to traffic\\ns. completely obstructed or closed off",
-    "definition_zh": "a. 堵塞的；被封锁的",
-    "frq": 14896,
-    "composite_rank": 11917,
+    "phonetic": "/'wɒtʃdɒg/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=watchdog&type=2",
+    "definition_en": "n. a guardian or defender against theft or illegal practices or waste\\nn. a dog trained to guard property",
+    "definition_zh": "n. 看门狗, 监察人； 监控设备; 监视器",
+    "frq": 10046,
+    "composite_rank": 12015,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable watchdog to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的看门狗以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the watchdog operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的看门狗平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "sanitation",
+    "word": "sanitation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/sæni'teiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sanitation&type=2",
+    "definition_en": "n. the state of being clean and conducive to health\\nn. making something sanitary (free of germs) as by sterilizing",
+    "definition_zh": "n. (环境)卫生, 环境卫生的提倡/维持, 卫生设备, 下水道设施, 卫生设施； 环境卫生",
+    "frq": 10135,
+    "composite_rank": 12121,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable sanitation to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的卫生以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the sanitation operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的卫生平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "slug",
+    "word": "slug",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/slʌg/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=slug&type=2",
+    "definition_en": "n. a unit of mass equal to the mass that accelerates at 1 foot/sec/sec when acted upon by a force of 1 pound; approximately 14.5939 kilograms\\nn. a counterfeit coin\\nn. an amount of an alcoholic drink (usually liquor) that is poured or gulped\\nn. any of various terrestrial gastropods having an elongated slimy body and no external shell",
+    "definition_zh": "n. 鼻涕虫, 刺蛾, 懒汉, 弹丸, 金属小块, 重击； vi. 偷懒, 动作迟缓； vt. 重击",
+    "frq": 10241,
+    "composite_rank": 12248,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable slug to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的鼻涕虫以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the slug operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的鼻涕虫平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "serviceman",
+    "word": "serviceman",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'s\\\\\\\\:vismәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=serviceman&type=2",
+    "definition_en": "n. someone who serves in the armed forces; a member of a military force",
+    "definition_zh": "n. 军人, 维修人员； 机械师; 维修人员",
+    "frq": 11976,
+    "composite_rank": 13078,
     "badge": "high",
     "examples": [
       {
-        "en": "Craftsmen selected a durable blocked to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的堵塞的以确保精度与安全。"
+        "en": "Craftsmen selected a durable serviceman to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的军人以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the blocked operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的堵塞的平稳顺畅运作。"
+        "en": "Regular maintenance keeps the serviceman operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的军人平稳顺畅运作。"
       }
     ]
   },
@@ -3125,77 +3250,52 @@
     ]
   },
   {
-    "id": "automated",
-    "word": "automated",
+    "id": "bedding",
+    "word": "bedding",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/automated/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=automated&type=2",
-    "definition_en": "s. operated by automation",
-    "definition_zh": "a. 自动化的；机械化的",
-    "frq": 8095,
-    "composite_rank": 13762,
+    "phonetic": "/'bediŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bedding&type=2",
+    "definition_en": "n coverings that are used on a bed\\nn material used to provide a bed for animals\\nv furnish with a bed\\nv place (plants) in a prepared bed of soil\\nv put to bed\\nv have sexual intercourse with\\nv prepare for sleep",
+    "definition_zh": "n. 被褥, 寝具, 床上用品, 基床； 褥草, 被褥",
+    "frq": 11136,
+    "composite_rank": 13319,
     "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable automated to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的自动化的以确保精度与安全。"
+        "en": "Craftsmen selected a durable bedding to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的被褥以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the automated operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的自动化的平稳顺畅运作。"
+        "en": "Regular maintenance keeps the bedding operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的被褥平稳顺畅运作。"
       }
     ]
   },
   {
-    "id": "conveyor",
-    "word": "conveyor",
+    "id": "instrumentation",
+    "word": "instrumentation",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/conveyor/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=conveyor&type=2",
-    "definition_en": "n a person who conveys (carries or transmits)\\nn a moving belt that transports objects (as in a factory)",
-    "definition_zh": "n. 搬运者, 传达者, 转让财产者, 输送机, 输送设备； 传送机, 传送带",
-    "frq": 13937,
-    "composite_rank": 13937,
+    "phonetic": "/.instrumen'teiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=instrumentation&type=2",
+    "definition_en": "n. the act of providing or using the instruments needed for some implementation\\nn. the instruments called for in a musical score or arrangement for a band or orchestra",
+    "definition_zh": "n. 乐器法, 仪器制造学, 仪表化； 器械用法, 器械操作法",
+    "frq": 12089,
+    "composite_rank": 14458,
     "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable conveyor to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的搬运者以确保精度与安全。"
+        "en": "Craftsmen selected a durable instrumentation to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的乐器法以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the conveyor operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的搬运者平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "glaze",
-    "word": "glaze",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'gleiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=glaze&type=2",
-    "definition_en": "n. any of various thin shiny (savory or sweet) coatings applied to foods\\nn. a glossy finish on a fabric\\nn. a coating for ceramics, metal, etc.\\nv. coat with a glaze",
-    "definition_zh": "n. 釉, 上光, 光滑面； vt. 装以玻璃, 上釉于； vi. 变得光滑, (目光)变呆滞",
-    "frq": 9176,
-    "composite_rank": 14351,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable glaze to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的釉以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the glaze operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的釉平稳顺畅运作。"
+        "en": "Regular maintenance keeps the instrumentation operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的乐器法平稳顺畅运作。"
       }
     ]
   },
@@ -3225,52 +3325,152 @@
     ]
   },
   {
-    "id": "plumbing",
-    "word": "plumbing",
+    "id": "tubing",
+    "word": "tubing",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/'plʌmiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=plumbing&type=2",
-    "definition_en": "n. utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage\\nn. the occupation of a plumber (installing and repairing pipes and fixtures for water or gas or sewage in a building)",
-    "definition_zh": "n. 测深, 管子工行业, 管道设备",
-    "frq": 8854,
-    "composite_rank": 15052,
+    "phonetic": "/'tju:biŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tubing&type=2",
+    "definition_en": "n conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases\\nv provide with a tube or insert a tube into\\nv convey in a tube\\nv ride or float on an inflated tube\\nv place or enclose in a tube",
+    "definition_zh": "n. 管料, 管道系统, 管状组织； 管工; 管材; 管线; 管道; 管道系统; 铺设管道",
+    "frq": 12177,
+    "composite_rank": 14564,
     "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable plumbing to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的测深以确保精度与安全。"
+        "en": "Craftsmen selected a durable tubing to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的管料以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the plumbing operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的测深平稳顺畅运作。"
+        "en": "Regular maintenance keeps the tubing operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的管料平稳顺畅运作。"
       }
     ]
   },
   {
-    "id": "sanitation",
-    "word": "sanitation",
+    "id": "flimsy",
+    "word": "flimsy",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/sæni'teiʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sanitation&type=2",
-    "definition_en": "n. the state of being clean and conducive to health\\nn. making something sanitary (free of germs) as by sterilizing",
-    "definition_zh": "n. (环境)卫生, 环境卫生的提倡/维持, 卫生设备, 下水道设施, 卫生设施； 环境卫生",
-    "frq": 10135,
-    "composite_rank": 15851,
+    "phonetic": "/'flimzi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=flimsy&type=2",
+    "definition_en": "s. lacking solidity or strength\\ns. lacking substance or significance; a fragile claim to fame\"",
+    "definition_zh": "a. 易坏的, 脆弱的, 浅薄的； n. 易损坏的东西(或材料), 薄纸, 描图用薄纸, 薄纸稿纸",
+    "frq": 12968,
+    "composite_rank": 15510,
     "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable sanitation to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的卫生以确保精度与安全。"
+        "en": "Craftsmen selected a durable flimsy to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的易损坏的东西以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the sanitation operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的卫生平稳顺畅运作。"
+        "en": "Regular maintenance keeps the flimsy operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的易损坏的东西平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "cordless",
+    "word": "cordless",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'kɒ:dlis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cordless&type=2",
+    "definition_en": "a. not having a cord",
+    "definition_zh": "a. 无绳索的, 交直流两用的",
+    "frq": 15786,
+    "composite_rank": 15786,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable cordless to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的无绳索的以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the cordless operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的无绳索的平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "glazed",
+    "word": "glazed",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/ɡleizd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=glazed&type=2",
+    "definition_en": "a. fitted or covered with glass\\na. having a shiny surface or coating\\ns. (of foods) covered with a shiny coating by applying e.g. beaten egg or a sugar or gelatin mixture",
+    "definition_zh": "a. 像玻璃的；光滑的；上过釉的；呆滞无神的",
+    "frq": 14108,
+    "composite_rank": 16873,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable glazed to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的像玻璃的以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the glazed operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的像玻璃的平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "duct",
+    "word": "duct",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/dʌkt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=duct&type=2",
+    "definition_en": "n. a bodily passage or tube lined with epithelial cells and conveying a secretion or other substance\\nn. a continuous tube formed by a row of elongated cells lacking intervening end walls\\nn. an enclosed conduit for a fluid",
+    "definition_zh": "n. 管, 输送管； vt. 通过管道输送",
+    "frq": 8636,
+    "composite_rank": 17479,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable duct to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的管以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the duct operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的管平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "makeshift",
+    "word": "makeshift",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'meikʃift/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=makeshift&type=2",
+    "definition_en": "n. something contrived to meet an urgent need or emergency",
+    "definition_zh": "n. 权宜之计, 临时代用品； a. 权宜的, 临时代用的",
+    "frq": 8767,
+    "composite_rank": 17744,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable makeshift to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的权宜之计以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the makeshift operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的权宜之计平稳顺畅运作。"
       }
     ]
   },
@@ -3300,6 +3500,56 @@
     ]
   },
   {
+    "id": "surrogate",
+    "word": "surrogate",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'sʌrәgit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=surrogate&type=2",
+    "definition_en": "n. someone who takes the place of another person",
+    "definition_zh": "n. 替代者, 代用品； vt. 代理, 替代",
+    "frq": 8901,
+    "composite_rank": 18016,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable surrogate to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的替代者以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the surrogate operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的替代者平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "conveyor",
+    "word": "conveyor",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/conveyor/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=conveyor&type=2",
+    "definition_en": "n a person who conveys (carries or transmits)\\nn a moving belt that transports objects (as in a factory)",
+    "definition_zh": "n. 搬运者, 传达者, 转让财产者, 输送机, 输送设备； 传送机, 传送带",
+    "frq": 13937,
+    "composite_rank": 18118,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable conveyor to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的搬运者以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the conveyor operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的搬运者平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "gadget",
     "word": "gadget",
     "part_of_speech": "noun",
@@ -3325,27 +3575,52 @@
     ]
   },
   {
-    "id": "standby",
-    "word": "standby",
+    "id": "contraption",
+    "word": "contraption",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/'stændbai/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=standby&type=2",
-    "definition_en": "n. something that can be relied on when needed\\ns. ready for emergency use",
-    "definition_zh": "n. 可依靠的人, 被喜爱的食品, 备用品, 准备发报, 准备收报； 备用的",
-    "frq": 16644,
-    "composite_rank": 19906,
+    "phonetic": "/kәn'træpʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=contraption&type=2",
+    "definition_en": "n a device or control that is very useful for a particular job",
+    "definition_zh": "n. 奇妙的装置, 稀奇古怪的玩意儿, 新发明的玩意儿, 外形奇怪的机器/装置",
+    "frq": 14544,
+    "composite_rank": 18907,
     "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable standby to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的可依靠的人以确保精度与安全。"
+        "en": "Craftsmen selected a durable contraption to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的奇妙的装置以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the standby operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的可依靠的人平稳顺畅运作。"
+        "en": "Regular maintenance keeps the contraption operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的奇妙的装置平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "blocked",
+    "word": "blocked",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/blɔkt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blocked&type=2",
+    "definition_en": "s. closed to traffic\\ns. completely obstructed or closed off",
+    "definition_zh": "a. 堵塞的；被封锁的",
+    "frq": 14896,
+    "composite_rank": 19365,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable blocked to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的堵塞的以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the blocked operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的堵塞的平稳顺畅运作。"
       }
     ]
   },
@@ -3375,10 +3650,210 @@
     ]
   },
   {
+    "id": "sprig",
+    "word": "sprig",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/sprig/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sprig&type=2",
+    "definition_en": "n. an ornament that resembles a spray of leaves or flowers",
+    "definition_zh": "n. 小树枝, 无头钉； vt. 用小树枝装饰, 用钉子钉上, 使蔓生",
+    "frq": 10342,
+    "composite_rank": 20932,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable sprig to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的小树枝以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the sprig operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的小树枝平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "blockade",
+    "word": "blockade",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/blɒ'keid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blockade&type=2",
+    "definition_en": "n. a war measure that isolates some area of importance to the enemy\\nn. prevents access or progress\\nv. obstruct access to\\nv. impose a blockade on",
+    "definition_zh": "n. 阻塞； vt. 封锁",
+    "frq": 11548,
+    "composite_rank": 21341,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable blockade to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的阻塞以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the blockade operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的阻塞平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "drier",
+    "word": "drier",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'draiә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=drier&type=2",
+    "definition_en": "n a substance that promotes drying (e.g., calcium oxide absorbs water and is used to remove moisture)\\nn an appliance that removes moisture\\na free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet\\ns humorously sarcastic or mocking\\na lacking moisture or volatile components\\na opposed to or prohibiting the production and sale of alcoholic beverages\\na not producing milk\\na (of liquor) having a low residual sugar content because of decomposition of sugar during fermentation\\na without a mucous or watery discharge; a small child with a dry nose\"\\ns not shedding tears\\ns lacking interest or stimulation; dull and lifeless\\ns used of solid substances in contrast with liquid ones\\ns unproductive especially of the expected results\\ns having no adornment or coloration\\ns (of food) eaten without a spread or sauce or other garnish\\ns having a large proportion of strong liquor\\ns lacking warmth or emotional involvement\\ns practicing complete abstinence from alcoholic beverages; I happen to be teetotal\"",
+    "definition_zh": "n. 干燥机, 干燥剂； 干燥剂; 催干剂; 干燥设备; 干燥器; 烘缸",
+    "frq": 22822,
+    "composite_rank": 22822,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable drier to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的干燥机以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the drier operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的干燥机平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "pawn",
+    "word": "pawn",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/pɒ:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pawn&type=2",
+    "definition_en": "n. an article deposited as security\\nn. (chess) the least powerful piece; moves only forward and captures only to the side; it can be promoted to a more powerful piece if it reaches the 8th rank\\nn. borrowing and leaving an article as security for repayment of the loan\\nv. leave as a guarantee in return for money",
+    "definition_zh": "n. 典当, 抵押物, 人质, (象棋)兵, 马前卒, 工具； vt. 当掉, 以...担保",
+    "frq": 12632,
+    "composite_rank": 25567,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable pawn to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的典当以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the pawn operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的典当平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "standby",
+    "word": "standby",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'stændbai/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=standby&type=2",
+    "definition_en": "n. something that can be relied on when needed\\ns. ready for emergency use",
+    "definition_zh": "n. 可依靠的人, 被喜爱的食品, 备用品, 准备发报, 准备收报； 备用的",
+    "frq": 16644,
+    "composite_rank": 26031,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable standby to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的可依靠的人以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the standby operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的可依靠的人平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "spiky",
+    "word": "spiky",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'spaiki/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spiky&type=2",
+    "definition_en": "s having or as if having especially high-pitched spots",
+    "definition_zh": "a. 大钉一般的, 长而尖的, 钉满钉子的, 有穗的",
+    "frq": 17228,
+    "composite_rank": 26945,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable spiky to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的大钉一般的以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the spiky operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的大钉一般的平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "shackle",
+    "word": "shackle",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'ʃækl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shackle&type=2",
+    "definition_en": "n. a restraint that confines or restricts freedom (especially something used to tie down or restrain a prisoner)\\nn. a U-shaped bar; the open end can be passed through chain links and closed with a bar",
+    "definition_zh": "n. 桎梏, 束缚物； vt. 加枷锁, 束缚",
+    "frq": 17357,
+    "composite_rank": 27146,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable shackle to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的桎梏以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the shackle operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的桎梏平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "deadlock",
+    "word": "deadlock",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'dedlɒk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=deadlock&type=2",
+    "definition_en": "n. a situation in which no progress can be made or no advancement is possible",
+    "definition_zh": "n. 僵局, 停顿； v. (使)停顿, (使)相持不下； 死锁",
+    "frq": 17906,
+    "composite_rank": 28005,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable deadlock to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的僵局以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the deadlock operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的僵局平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "tightrope",
     "word": "tightrope",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
     "phonetic": "/'taitrәup/",
@@ -3386,7 +3861,7 @@
     "definition_en": "n. tightly stretched rope or wire on which acrobats perform high above the ground",
     "definition_zh": "n. 拉紧的绳索",
     "frq": 18172,
-    "composite_rank": 21734,
+    "composite_rank": 28421,
     "badge": "normal",
     "examples": [
       {
@@ -3400,52 +3875,27 @@
     ]
   },
   {
-    "id": "windscreen",
-    "word": "windscreen",
+    "id": "sharpener",
+    "word": "sharpener",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/'windskri:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=windscreen&type=2",
-    "definition_en": "n transparent screen (as of glass) to protect occupants of a vehicle",
-    "definition_zh": "n. 汽车的挡风玻璃",
-    "frq": 24876,
-    "composite_rank": 22886,
+    "phonetic": "/'ʃɑ:pnә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sharpener&type=2",
+    "definition_en": "n. any implement that is used to make something (an edge or a point) sharper",
+    "definition_zh": "n. 研磨者, 卷笔刀, 研磨工具",
+    "frq": 28736,
+    "composite_rank": 28736,
     "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable windscreen to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的汽车的挡风玻璃以确保精度与安全。"
+        "en": "Craftsmen selected a durable sharpener to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的研磨者以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the windscreen operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的汽车的挡风玻璃平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "laying",
-    "word": "laying",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'leiiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=laying&type=2",
-    "definition_en": "n. the production of eggs (especially in birds)",
-    "definition_zh": "布置, 敷设； 敷设; 铺设(管道等)",
-    "frq": 26083,
-    "composite_rank": 26083,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable laying to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的布置以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the laying operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的布置平稳顺畅运作。"
+        "en": "Regular maintenance keeps the sharpener operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的研磨者平稳顺畅运作。"
       }
     ]
   },
@@ -3471,181 +3921,6 @@
       {
         "en": "Regular maintenance keeps the interlocking operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的连锁的平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "mechanize",
-    "word": "mechanize",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'mekәnaiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mechanize&type=2",
-    "definition_en": "v. equip with armed and armored motor vehicles\\nv. make monotonous; make automatic or routine\\nv. make mechanical",
-    "definition_zh": "vt. 使机械化, 用机械装置, 机动化； 机械化之, 令其机械化",
-    "frq": 25544,
-    "composite_rank": 30551,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable mechanize to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的使机械化以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the mechanize operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的使机械化平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "contraption",
-    "word": "contraption",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/kәn'træpʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=contraption&type=2",
-    "definition_en": "n a device or control that is very useful for a particular job",
-    "definition_zh": "n. 奇妙的装置, 稀奇古怪的玩意儿, 新发明的玩意儿, 外形奇怪的机器/装置",
-    "frq": 14544,
-    "composite_rank": 31997,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable contraption to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的奇妙的装置以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the contraption operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的奇妙的装置平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "ate",
-    "word": "ate",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'eit/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ate&type=2",
-    "definition_en": "n. goddess of criminal rashness and its punishment",
-    "definition_zh": "eat的过去式； 自动测试设备, 自动测试执行程序",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable ate to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的的过去式以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the ate operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的的过去式平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "boxes",
-    "word": "boxes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/boxes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=boxes&type=2",
-    "definition_en": "n a (usually rectangular) container; may have a lid\\nn private area in a theater or grandstand where a small group can watch the performance\\nn the quantity contained in a box\\nn a predicament from which a skillful or graceful escape is impossible\\nn a rectangular drawing\\nn evergreen shrubs or small trees\\nn any one of several designated areas on a ball field where the batter or catcher or coaches are positioned\\nn the driver's seat on a coach\\nn separate partitioned area in a public place for a few people\\nn a blow with the hand (usually on the ear)\\nv put into a box\\nv hit with the fist\\nv engage in a boxing match",
-    "definition_zh": "n. 小木箱, 盒子",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable boxes to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的小木箱以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the boxes operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的小木箱平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "pieces",
-    "word": "pieces",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/pieces/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pieces&type=2",
-    "definition_en": "n a separate part of a whole\\nn an item that is an instance of some type; \\nn a portion of a natural object\\nn a musical work that has been created\\nn an instance of some kind\\nn an artistic or literary composition\\nn a portable gun\\nn a serving that has been cut from a larger portion\\nn a distance\\nn a work of art of some artistic value\\nn a period of indeterminate length (usually short) marked by some action or condition\\nn a share of something\\nn game equipment consisting of an object used in playing certain board games\\nv to join or unite the pieces of\\nv create by putting components or members together\\nv join during spinning\\nv eat intermittently; take small bites of\\nv repair by adding pieces",
-    "definition_zh": "n. 匹头, 毛束；件片块个工件零件",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable pieces to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的匹头以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the pieces operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的匹头平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "things",
-    "word": "things",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/things/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=things&type=2",
-    "definition_en": "n. any movable possession (especially articles of clothing)",
-    "definition_zh": "n. 所有物, 财产, 用具, 用品, 局面, 形势, 情况； 物",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable things to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的所有物以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the things operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的所有物平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "tubes",
-    "word": "tubes",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/tubes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tubes&type=2",
-    "definition_en": "n conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases\\nn electronic device consisting of a system of electrodes arranged in an evacuated glass or metal envelope\\nn a hollow cylindrical shape\\nn (anatomy) any hollow cylindrical body structure\\nn an electric railway operating below the surface of the ground (usually in a city)\\nv provide with a tube or insert a tube into\\nv convey in a tube\\nv ride or float on an inflated tube\\nv place or enclose in a tube",
-    "definition_zh": "n. 管子, 导管；管状虫；伦敦地铁（tube的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable tubes to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的管子以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the tubes operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的管子平稳顺畅运作。"
       }
     ]
   },
@@ -3700,177 +3975,102 @@
     ]
   },
   {
-    "id": "batteries",
-    "word": "batteries",
+    "id": "windscreen",
+    "word": "windscreen",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/batteries/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=batteries&type=2",
-    "definition_en": "n group of guns or missile launchers operated together at one place\\nn a device that produces electricity; may have several primary or secondary cells arranged in parallel or series\\nn a collection of related things intended for use together\\nn a unit composed of the pitcher and catcher\\nn a series of stamps operated in one mortar for crushing ores\\nn the heavy fire of artillery to saturate an area rather than hit a specific target\\nn an assault in which the assailant makes physical contact",
-    "definition_zh": "n. 电池（battery的复数形式）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
+    "phonetic": "/'windskri:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=windscreen&type=2",
+    "definition_en": "n transparent screen (as of glass) to protect occupants of a vehicle",
+    "definition_zh": "n. 汽车的挡风玻璃",
+    "frq": 24876,
+    "composite_rank": 38906,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable batteries to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的电池以确保精度与安全。"
+        "en": "Craftsmen selected a durable windscreen to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的汽车的挡风玻璃以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the batteries operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的电池平稳顺畅运作。"
+        "en": "Regular maintenance keeps the windscreen operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的汽车的挡风玻璃平稳顺畅运作。"
       }
     ]
   },
   {
-    "id": "behaviors",
-    "word": "behaviors",
+    "id": "glasshouse",
+    "word": "glasshouse",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/bɪheɪ'vi:əʊz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=behaviors&type=2",
-    "definition_en": "n. manner of acting or controlling yourself\\nn. the action or reaction of something (as a machine or substance) under specified circumstances\\nn. (behavioral attributes) the way a person behaves toward other people",
-    "definition_zh": "n. 行为( behavior的复数形式 ); 态度; （机器等的）运转状态; （事物的）反应",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
+    "phonetic": "/'glɑ:shaus/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=glasshouse&type=2",
+    "definition_en": "n a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions",
+    "definition_zh": "n. 温室, 玻璃工场, 禁闭房",
+    "frq": 39029,
+    "composite_rank": 39029,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable behaviors to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的行为以确保精度与安全。"
+        "en": "Craftsmen selected a durable glasshouse to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的温室以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the behaviors operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的行为平稳顺畅运作。"
+        "en": "Regular maintenance keeps the glasshouse operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的温室平稳顺畅运作。"
       }
     ]
   },
   {
-    "id": "bushes",
-    "word": "bushes",
+    "id": "mechanize",
+    "word": "mechanize",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/buʃiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bushes&type=2",
-    "definition_en": "n a low woody perennial plant usually having several major stems\\nn a large wilderness area\\nn dense vegetation consisting of stunted trees or bushes\\nn 43rd President of the United States; son of George Herbert Walker Bush (born in 1946)\\nn United States electrical engineer who designed an early analogue computer and who led the scientific program of the United States during World War II (1890-1974)\\nn vice president under Reagan and 41st President of the United States (born in 1924)\\nn hair growing in the pubic area\\nv provide with a bushing",
-    "definition_zh": "n. 灌木（丛）( bush的名词复数 ); （金属）衬套; （绝缘）套管; 类似灌木的东西（尤指浓密的毛发或皮毛）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
+    "phonetic": "/'mekәnaiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mechanize&type=2",
+    "definition_en": "v. equip with armed and armored motor vehicles\\nv. make monotonous; make automatic or routine\\nv. make mechanical",
+    "definition_zh": "vt. 使机械化, 用机械装置, 机动化； 机械化之, 令其机械化",
+    "frq": 25544,
+    "composite_rank": 39951,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable bushes to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的灌木以确保精度与安全。"
+        "en": "Craftsmen selected a durable mechanize to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的使机械化以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the bushes operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的灌木平稳顺畅运作。"
+        "en": "Regular maintenance keeps the mechanize operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的使机械化平稳顺畅运作。"
       }
     ]
   },
   {
-    "id": "containers",
-    "word": "containers",
+    "id": "laying",
+    "word": "laying",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/containers/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=containers&type=2",
-    "definition_en": "n any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)",
-    "definition_zh": "n. 集装箱；容器",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
+    "phonetic": "/'leiiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=laying&type=2",
+    "definition_en": "n. the production of eggs (especially in birds)",
+    "definition_zh": "布置, 敷设； 敷设; 铺设(管道等)",
+    "frq": 26083,
+    "composite_rank": 44341,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable containers to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的集装箱以确保精度与安全。"
+        "en": "Craftsmen selected a durable laying to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的布置以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the containers operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的集装箱平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "contexts",
-    "word": "contexts",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'kɒnteksts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=contexts&type=2",
-    "definition_en": "n. discourse that surrounds a language unit and helps to determine its interpretation\\nn. the set of facts or circumstances that surround a situation or event",
-    "definition_zh": "n. 上下文( context的复数形式 ); 背景; 投资环境; 设备场境",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable contexts to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的上下文以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the contexts operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的上下文平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "facts",
-    "word": "facts",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/facts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=facts&type=2",
-    "definition_en": "n a piece of information about circumstances that exist or events that have occurred\\nn a statement or assertion of verified information about something that is the case or has happened\\nn an event known to have happened or something known to have existed\\nn a concept whose truth can be proved",
-    "definition_zh": "abbr. 设备管理控制与时间调度程序；Facilities Administration Control and Time Schedule",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable facts to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的设备管理控制与时间调度程序以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the facts operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的设备管理控制与时间调度程序平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "ropes",
-    "word": "ropes",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/ropes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ropes&type=2",
-    "definition_en": "n a strong line\\nn street names for flunitrazepan\\nv catch with a lasso\\nv fasten with a rope",
-    "definition_zh": "n. 围绳；绳索（rope的复数）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable ropes to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的围绳以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the ropes operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的围绳平稳顺畅运作。"
+        "en": "Regular maintenance keeps the laying operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的布置平稳顺畅运作。"
       }
     ]
   },
@@ -3925,6 +4125,181 @@
     ]
   },
   {
+    "id": "assemblies",
+    "word": "assemblies",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/əˈsembliz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=assemblies&type=2",
+    "definition_en": "pl.  of Assembly",
+    "definition_zh": "n. 集合; 装配; 集会; 集结; 装配( assembly的名词复数 ); 集会; 1)。 集合; （供装配的）零件",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable assemblies to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的集合以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the assemblies operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的集合平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "ate",
+    "word": "ate",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'eit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ate&type=2",
+    "definition_en": "n. goddess of criminal rashness and its punishment",
+    "definition_zh": "eat的过去式； 自动测试设备, 自动测试执行程序",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable ate to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的的过去式以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the ate operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的的过去式平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "bedclothes",
+    "word": "bedclothes",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'bedklәuðz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bedclothes&type=2",
+    "definition_en": "n. coverings that are used on a bed",
+    "definition_zh": "n. 铺盖, 床上用品； 铺盖, 被褥",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable bedclothes to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的铺盖以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the bedclothes operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的铺盖平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "behaviors",
+    "word": "behaviors",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/bɪheɪ'vi:əʊz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=behaviors&type=2",
+    "definition_en": "n. manner of acting or controlling yourself\\nn. the action or reaction of something (as a machine or substance) under specified circumstances\\nn. (behavioral attributes) the way a person behaves toward other people",
+    "definition_zh": "n. 行为( behavior的复数形式 ); 态度; （机器等的）运转状态; （事物的）反应",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable behaviors to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的行为以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the behaviors operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的行为平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "bids",
+    "word": "bids",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/bids/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bids&type=2",
+    "definition_en": "n an authoritative direction or instruction to do something\\nn an attempt to get something\\nn a formal proposal to buy at a specified price\\nn (bridge) the number of tricks a bridge player is willing to contract to make\\nv propose a payment\\nv invoke upon\\nv ask for or request earnestly\\nv make a demand, as for a card or a suit or a show of hands\\nv make a serious effort to attain something\\nv ask someone in a friendly way to do something",
+    "definition_zh": "abbr. 商业智能开发工具集（Business Intelligence Development Studio）；本迪克斯综合数据系统（Bendix Integrated Data System）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable bids to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的商业智能开发工具集以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the bids operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的商业智能开发工具集平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "bolts",
+    "word": "bolts",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/bәults/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bolts&type=2",
+    "definition_en": "n a discharge of lightning accompanied by thunder\\nn a sliding bar in a breech-loading firearm that ejects an empty cartridge and replaces it and closes the breech\\nn the part of a lock that is engaged or withdrawn with a key\\nn the act of moving with great haste\\nn a roll of cloth or wallpaper of a definite length\\nn a screw that screws into a nut to form a fastener\\nn a sudden abandonment (as from a political party)\\nv move or jump suddenly\\nv secure or lock with a bolt\\nv swallow hastily\\nv run away; usually includes taking something or somebody along\\nv leave suddenly and as if in a hurry\\nv eat hastily without proper chewing\\nv make or roll into bolts",
+    "definition_zh": "n. 螺栓；膨胀锚钉；角钢螺丝；螺钉（bolt的复数）；毛边书",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable bolts to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的螺栓以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the bolts operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的螺栓平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "bushes",
+    "word": "bushes",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/buʃiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bushes&type=2",
+    "definition_en": "n a low woody perennial plant usually having several major stems\\nn a large wilderness area\\nn dense vegetation consisting of stunted trees or bushes\\nn 43rd President of the United States; son of George Herbert Walker Bush (born in 1946)\\nn United States electrical engineer who designed an early analogue computer and who led the scientific program of the United States during World War II (1890-1974)\\nn vice president under Reagan and 41st President of the United States (born in 1924)\\nn hair growing in the pubic area\\nv provide with a bushing",
+    "definition_zh": "n. 灌木（丛）( bush的名词复数 ); （金属）衬套; （绝缘）套管; 类似灌木的东西（尤指浓密的毛发或皮毛）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable bushes to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的灌木以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the bushes operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的灌木平稳顺畅运作。"
+      }
+    ]
+  },
+  {
     "id": "canals",
     "word": "canals",
     "part_of_speech": "noun",
@@ -3950,27 +4325,77 @@
     ]
   },
   {
-    "id": "devices",
-    "word": "devices",
+    "id": "components",
+    "word": "components",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/devices/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=devices&type=2",
-    "definition_en": "n. an inclination or desire; used in the plural in the phrase `left to your own devices'",
-    "definition_zh": "n. 设备；装置；器件（device的复数）",
+    "phonetic": "/components/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=components&type=2",
+    "definition_en": "n an abstract part of something\\nn something determined in relation to something that includes it\\nn an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system",
+    "definition_zh": "n. 部件；组件；成份（component复数）",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable devices to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的设备以确保精度与安全。"
+        "en": "Craftsmen selected a durable components to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的部件以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the devices operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的设备平稳顺畅运作。"
+        "en": "Regular maintenance keeps the components operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的部件平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "contexts",
+    "word": "contexts",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/'kɒnteksts/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=contexts&type=2",
+    "definition_en": "n. discourse that surrounds a language unit and helps to determine its interpretation\\nn. the set of facts or circumstances that surround a situation or event",
+    "definition_zh": "n. 上下文( context的复数形式 ); 背景; 投资环境; 设备场境",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable contexts to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的上下文以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the contexts operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的上下文平稳顺畅运作。"
+      }
+    ]
+  },
+  {
+    "id": "facts",
+    "word": "facts",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "生产工具、机械与材料用品",
+    "category": "tools_materials",
+    "phonetic": "/facts/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=facts&type=2",
+    "definition_en": "n a piece of information about circumstances that exist or events that have occurred\\nn a statement or assertion of verified information about something that is the case or has happened\\nn an event known to have happened or something known to have existed\\nn a concept whose truth can be proved",
+    "definition_zh": "abbr. 设备管理控制与时间调度程序；Facilities Administration Control and Time Schedule",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Craftsmen selected a durable facts to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的设备管理控制与时间调度程序以确保精度与安全。"
+      },
+      {
+        "en": "Regular maintenance keeps the facts operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的设备管理控制与时间调度程序平稳顺畅运作。"
       }
     ]
   },
@@ -4025,102 +4450,52 @@
     ]
   },
   {
-    "id": "mechanics",
-    "word": "mechanics",
+    "id": "operators",
+    "word": "operators",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/mi'kæniks/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mechanics&type=2",
-    "definition_en": "n. the branch of physics concerned with the motion of bodies in a frame of reference",
-    "definition_zh": "n. 机械学, 结构, 力学； 力学",
+    "phonetic": "/'ɒpəreɪtəz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=operators&type=2",
+    "definition_en": "n. (mathematics) a symbol or function representing a mathematical operation\\nn. an agent that operates some apparatus or machine\\nn. someone who owns or operates a business",
+    "definition_zh": "n. （某企业的）经营者( operator的复数形式 ); （机器、设备等的）操作员; 电话接线员; 投机取巧者",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable mechanics to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的机械学以确保精度与安全。"
+        "en": "Craftsmen selected a durable operators to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的经营者以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the mechanics operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的机械学平稳顺畅运作。"
+        "en": "Regular maintenance keeps the operators operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的经营者平稳顺畅运作。"
       }
     ]
   },
   {
-    "id": "nails",
-    "word": "nails",
+    "id": "ropes",
+    "word": "ropes",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "生产工具、机械与材料用品",
     "category": "tools_materials",
-    "phonetic": "/nails/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nails&type=2",
-    "definition_en": "n horny plate covering and protecting part of the dorsal surface of the digits\\nn a thin pointed piece of metal that is hammered into materials as a fastener\\nn a former unit of length for cloth equal to 1/16 of a yard\\nv attach something somewhere by means of nails\\nv take into custody\\nv hit hard\\nv succeed in obtaining a position\\nv succeed at easily\\nv locate exactly\\nv complete a pass",
-    "definition_zh": "n. 钉子（nail的复数）",
+    "phonetic": "/ropes/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ropes&type=2",
+    "definition_en": "n a strong line\\nn street names for flunitrazepan\\nv catch with a lasso\\nv fasten with a rope",
+    "definition_zh": "n. 围绳；绳索（rope的复数）",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Craftsmen selected a durable nails to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的钉子以确保精度与安全。"
+        "en": "Craftsmen selected a durable ropes to guarantee precision and safety.",
+        "zh": "工匠们选用了一种耐用的围绳以确保精度与安全。"
       },
       {
-        "en": "Regular maintenance keeps the nails operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的钉子平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "parts",
-    "word": "parts",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/pɑ:ts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=parts&type=2",
-    "definition_en": "n. the local environment",
-    "definition_zh": "n. 零件, 部件",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable parts to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的零件以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the parts operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的零件平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "pipes",
-    "word": "pipes",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/paips/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pipes&type=2",
-    "definition_en": "n a tube with a small bowl at one end; used for smoking tobacco\\nn a long tube made of metal or plastic that is used to carry water or oil or gas etc.\\nn a hollow cylindrical shape\\nn a tubular wind instrument\\nn the flues and stops on a pipe organ\\nv utter a shrill cry\\nv transport by pipeline\\nv play on a pipe\\nv trim with piping\\nv kill by firing a missile\\nv hit with a missile from a weapon\\nv defeat thoroughly",
-    "definition_zh": "n. 管线, 管道；管子（pipe复数形式）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable pipes to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的管线以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the pipes operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的管线平稳顺畅运作。"
+        "en": "Regular maintenance keeps the ropes operating smoothly in the workshop.",
+        "zh": "定期维护可确保车间内的围绳平稳顺畅运作。"
       }
     ]
   },
@@ -4175,31 +4550,6 @@
     ]
   },
   {
-    "id": "vessels",
-    "word": "vessels",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/vessels/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=vessels&type=2",
-    "definition_en": "n a tube in which a body fluid circulates\\nn a craft designed for water transportation\\nn an object used as a container (especially for liquids)",
-    "definition_zh": "n. 容器；船舶；血管（vessel的复数）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable vessels to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的容器以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the vessels operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的容器平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "flagging",
     "word": "flagging",
     "part_of_speech": "noun",
@@ -4225,206 +4575,6 @@
     ]
   },
   {
-    "id": "assemblies",
-    "word": "assemblies",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/əˈsembliz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=assemblies&type=2",
-    "definition_en": "pl.  of Assembly",
-    "definition_zh": "n. 集合; 装配; 集会; 集结; 装配( assembly的名词复数 ); 集会; 1)。 集合; （供装配的）零件",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable assemblies to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的集合以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the assemblies operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的集合平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "bids",
-    "word": "bids",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/bids/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bids&type=2",
-    "definition_en": "n an authoritative direction or instruction to do something\\nn an attempt to get something\\nn a formal proposal to buy at a specified price\\nn (bridge) the number of tricks a bridge player is willing to contract to make\\nv propose a payment\\nv invoke upon\\nv ask for or request earnestly\\nv make a demand, as for a card or a suit or a show of hands\\nv make a serious effort to attain something\\nv ask someone in a friendly way to do something",
-    "definition_zh": "abbr. 商业智能开发工具集（Business Intelligence Development Studio）；本迪克斯综合数据系统（Bendix Integrated Data System）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable bids to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的商业智能开发工具集以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the bids operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的商业智能开发工具集平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "bolts",
-    "word": "bolts",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/bәults/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bolts&type=2",
-    "definition_en": "n a discharge of lightning accompanied by thunder\\nn a sliding bar in a breech-loading firearm that ejects an empty cartridge and replaces it and closes the breech\\nn the part of a lock that is engaged or withdrawn with a key\\nn the act of moving with great haste\\nn a roll of cloth or wallpaper of a definite length\\nn a screw that screws into a nut to form a fastener\\nn a sudden abandonment (as from a political party)\\nv move or jump suddenly\\nv secure or lock with a bolt\\nv swallow hastily\\nv run away; usually includes taking something or somebody along\\nv leave suddenly and as if in a hurry\\nv eat hastily without proper chewing\\nv make or roll into bolts",
-    "definition_zh": "n. 螺栓；膨胀锚钉；角钢螺丝；螺钉（bolt的复数）；毛边书",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable bolts to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的螺栓以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the bolts operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的螺栓平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "components",
-    "word": "components",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/components/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=components&type=2",
-    "definition_en": "n an abstract part of something\\nn something determined in relation to something that includes it\\nn an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system",
-    "definition_zh": "n. 部件；组件；成份（component复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable components to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的部件以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the components operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的部件平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "implements",
-    "word": "implements",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/implements/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=implements&type=2",
-    "definition_en": "n instrumentation (a piece of equipment or tool) used to effect an end\\nv apply in a manner consistent with its purpose or design\\nv ensure observance of laws and rules; \\nv pursue to a conclusion or bring to a successful issue",
-    "definition_zh": "n. 甪具；工具（implement的复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable implements to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的甪具以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the implements operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的甪具平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "operators",
-    "word": "operators",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/'ɒpəreɪtəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=operators&type=2",
-    "definition_en": "n. (mathematics) a symbol or function representing a mathematical operation\\nn. an agent that operates some apparatus or machine\\nn. someone who owns or operates a business",
-    "definition_zh": "n. （某企业的）经营者( operator的复数形式 ); （机器、设备等的）操作员; 电话接线员; 投机取巧者",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable operators to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的经营者以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the operators operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的经营者平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "strands",
-    "word": "strands",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/strændz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=strands&type=2",
-    "definition_en": "n a pattern forming a unity within a larger structural whole\\nn line consisting of a complex of fibers or filaments that are twisted together to form a thread or a rope or a cable\\nn a necklace made by a stringing objects together; \\nn a very slender natural or synthetic fiber\\nn a poetic term for a shore (as the area periodically covered and uncovered by the tides)\\nn a street in west central London famous for its theaters and hotels\\nv leave stranded or isolated with little hope of rescue\\nv drive (a vessel) ashore\\nv bring to the ground",
-    "definition_zh": "n. （线、绳、金属线、毛发等的）股( strand的名词复数 ); 缕; 海洋、湖或河的)岸; （观点、计划、故事等的）部份； v. 使滞留, 使搁浅( strand的第三人称单数 )",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable strands to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的股以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the strands operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的股平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "utilities",
-    "word": "utilities",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/utilities/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=utilities&type=2",
-    "definition_en": "n a company that performs a public service; subject to government regulation\\nn the quality of being of practical use\\nn the service (electric power or water or transportation) provided by a public utility\\nn (economics) a measure that is to be maximized in any situation involving choice\\nn (computer science) a program designed for general support of the processes of a computer\\nn a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal",
-    "definition_zh": "n. 实用工具, 实用程序；公共事业设备；公用事业；公用程式（utility的复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable utilities to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的实用工具以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the utilities operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的实用工具平稳顺畅运作。"
-      }
-    ]
-  },
-  {
     "id": "engineers",
     "word": "engineers",
     "part_of_speech": "noun",
@@ -4446,131 +4596,6 @@
       {
         "en": "Regular maintenance keeps the engineers operating smoothly in the workshop.",
         "zh": "定期维护可确保车间内的工程师平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "facilities",
-    "word": "facilities",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/facilities/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=facilities&type=2",
-    "definition_en": "n a building or place that provides a particular service or is used for a particular industry\\nn skillful performance or ability without difficulty\\nn a natural effortlessness\\nn something designed and created to serve a particular function and to afford a particular convenience or service\\nn a service that an organization or a piece of equipment offers you",
-    "definition_zh": "n. 工具, 设施, 设备",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable facilities to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的工具以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the facilities operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的工具平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "instruments",
-    "word": "instruments",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/instruments/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=instruments&type=2",
-    "definition_en": "n a device that requires skill for proper use\\nn the means whereby some act is accomplished\\nn a person used by another to gain an end\\nn (law) a document that states some contractual relationship or grants some right\\nn the semantic role of the entity (usually inanimate) that the agent uses to perform an action or start a process\\nn any of various devices or contrivances that can be used to produce musical tones or sounds\\nv equip with instruments for measuring, recording, or controlling\\nv write an instrumental score for\\nv address a legal document to",
-    "definition_zh": "n. 乐器；工具；仪器（instrument的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable instruments to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的乐器以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the instruments operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的乐器平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "machines",
-    "word": "machines",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/machines/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=machines&type=2",
-    "definition_en": "n any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks\\nn an efficient person\\nn an intricate organization that accomplishes its goals efficiently\\nn a device for overcoming resistance at one point by applying force at some other point\\nn a group that controls the activities of a political party\\nn a motor vehicle with four wheels; usually propelled by an internal combustion engine\\nv turn, shape, mold, or otherwise finish by machinery\\nv make by machinery",
-    "definition_zh": "n. 机器；机械（machine的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable machines to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的机器以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the machines operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的机器平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "materials",
-    "word": "materials",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/materials/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=materials&type=2",
-    "definition_en": "n the tangible substance that goes into the makeup of a physical object\\nn information (data or ideas or observations) that can be used or reworked into a finished form\\nn artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers\\nn things needed for doing or making something\\nn a person judged suitable for admission or employment",
-    "definition_zh": "n. 材料；材料费；材料科学；材质（material的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable materials to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的材料以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the materials operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的材料平稳顺畅运作。"
-      }
-    ]
-  },
-  {
-    "id": "tools",
-    "word": "tools",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "生产工具、机械与材料用品",
-    "category": "tools_materials",
-    "phonetic": "/tu:lz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tools&type=2",
-    "definition_en": "n an implement used in the practice of a vocation\\nn the means whereby some act is accomplished\\nn a person who is controlled by others and is used to perform unpleasant or dishonest tasks for someone else\\nn obscene terms for penis\\nv drive\\nv ride in a car with no particular goal and just for the pleasure of it\\nv furnish with tools\\nv work with a tool",
-    "definition_zh": "n. 工具, 工具菜单；工具箱（tool的复数形式）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Craftsmen selected a durable tools to guarantee precision and safety.",
-        "zh": "工匠们选用了一种耐用的工具以确保精度与安全。"
-      },
-      {
-        "en": "Regular maintenance keeps the tools operating smoothly in the workshop.",
-        "zh": "定期维护可确保车间内的工具平稳顺畅运作。"
       }
     ]
   },

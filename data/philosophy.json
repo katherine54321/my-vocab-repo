@@ -78,7 +78,7 @@
     "id": "philosophy",
     "word": "philosophy",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
     "phonetic": "/fi'lɒsәfi/",
@@ -86,7 +86,7 @@
     "definition_en": "n. the rational investigation of questions about existence and knowledge and ethics\\nn. any personal belief about how to live or how to deal with a situation",
     "definition_zh": "n. 哲学, 人生观, 哲学思想, 哲理, 基本原理, 见解, 达观, 沉着",
     "frq": 2252,
-    "composite_rank": 1198,
+    "composite_rank": 958,
     "badge": "core",
     "examples": [
       {
@@ -125,6 +125,31 @@
     ]
   },
   {
+    "id": "wisdom",
+    "word": "wisdom",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'wizdәm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wisdom&type=2",
+    "definition_en": "n. accumulated knowledge or erudition or enlightenment\\nn. the trait of utilizing knowledge and experience with common sense and insight\\nn. ability to apply knowledge or experience or understanding or common sense and insight\\nn. the quality of being prudent and sensible",
+    "definition_zh": "n. 智慧, 明智行为, 学识, 名言, 贤人",
+    "frq": 2954,
+    "composite_rank": 1985,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of wisdom.",
+        "zh": "哲学家们深入探讨了智慧的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on wisdom encourages deeper critical thinking about human values.",
+        "zh": "反思智慧有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
     "id": "logic",
     "word": "logic",
     "part_of_speech": "noun",
@@ -150,27 +175,27 @@
     ]
   },
   {
-    "id": "wisdom",
-    "word": "wisdom",
+    "id": "virtue",
+    "word": "virtue",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
-    "phonetic": "/'wizdәm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wisdom&type=2",
-    "definition_en": "n. accumulated knowledge or erudition or enlightenment\\nn. the trait of utilizing knowledge and experience with common sense and insight\\nn. ability to apply knowledge or experience or understanding or common sense and insight\\nn. the quality of being prudent and sensible",
-    "definition_zh": "n. 智慧, 明智行为, 学识, 名言, 贤人",
-    "frq": 2954,
-    "composite_rank": 2481,
+    "phonetic": "/'vә:tju:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=virtue&type=2",
+    "definition_en": "n. the quality of doing what is right and avoiding what is wrong\\nn. morality with respect to sexual relations\\nn. a particular moral excellence",
+    "definition_zh": "n. 德行, 美德, 优点, 功效, 效力； 美德, 贞操, 优点",
+    "frq": 3362,
+    "composite_rank": 2259,
     "badge": "core",
     "examples": [
       {
-        "en": "Philosophers explore the ethical implications and fundamental nature of wisdom.",
-        "zh": "哲学家们深入探讨了智慧的伦理意蕴与本质根源。"
+        "en": "Philosophers explore the ethical implications and fundamental nature of virtue.",
+        "zh": "哲学家们深入探讨了德行的伦理意蕴与本质根源。"
       },
       {
-        "en": "Reflecting on wisdom encourages deeper critical thinking about human values.",
-        "zh": "反思智慧有助于激发对人类核心价值的深度批判性审视。"
+        "en": "Reflecting on virtue encourages deeper critical thinking about human values.",
+        "zh": "反思德行有助于激发对人类核心价值的深度批判性审视。"
       }
     ]
   },
@@ -200,35 +225,10 @@
     ]
   },
   {
-    "id": "virtue",
-    "word": "virtue",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学思想与伦理逻辑",
-    "category": "philosophy",
-    "phonetic": "/'vә:tju:/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=virtue&type=2",
-    "definition_en": "n. the quality of doing what is right and avoiding what is wrong\\nn. morality with respect to sexual relations\\nn. a particular moral excellence",
-    "definition_zh": "n. 德行, 美德, 优点, 功效, 效力； 美德, 贞操, 优点",
-    "frq": 3362,
-    "composite_rank": 2824,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Philosophers explore the ethical implications and fundamental nature of virtue.",
-        "zh": "哲学家们深入探讨了德行的伦理意蕴与本质根源。"
-      },
-      {
-        "en": "Reflecting on virtue encourages deeper critical thinking about human values.",
-        "zh": "反思德行有助于激发对人类核心价值的深度批判性审视。"
-      }
-    ]
-  },
-  {
     "id": "ethical",
     "word": "ethical",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
     "phonetic": "/'eθikәl/",
@@ -236,7 +236,7 @@
     "definition_en": "a. of or relating to the philosophical study of ethics\\na. conforming to accepted standards of social or professional behavior\\ns. adhering to ethical and moral principles",
     "definition_zh": "a. 伦理的, 民族的, 民族特有的； 伦理的, 道德的",
     "frq": 3454,
-    "composite_rank": 3772,
+    "composite_rank": 2901,
     "badge": "high",
     "examples": [
       {
@@ -253,7 +253,7 @@
     "id": "conscience",
     "word": "conscience",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
     "phonetic": "/'kɒnʃәns/",
@@ -261,7 +261,7 @@
     "definition_en": "n. motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions\\nn. conformity to one's own sense of right conduct\\nn. a feeling of shame when you do something immoral",
     "definition_zh": "n. 良心； 良心, 道德感, 正义感",
     "frq": 4641,
-    "composite_rank": 3898,
+    "composite_rank": 3119,
     "badge": "high",
     "examples": [
       {
@@ -278,7 +278,7 @@
     "id": "doctrine",
     "word": "doctrine",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
     "phonetic": "/'dɒktrin/",
@@ -286,7 +286,7 @@
     "definition_en": "n. a belief (or system of beliefs) accepted as authoritative by some group or school",
     "definition_zh": "n. 教条, 学说； 学说",
     "frq": 3746,
-    "composite_rank": 4091,
+    "composite_rank": 3147,
     "badge": "high",
     "examples": [
       {
@@ -300,27 +300,27 @@
     ]
   },
   {
-    "id": "ethics",
-    "word": "ethics",
+    "id": "philosophical",
+    "word": "philosophical",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
-    "phonetic": "/'eθiks/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ethics&type=2",
-    "definition_en": "n. the philosophical study of moral values and rules",
-    "definition_zh": "n. 道德规范； 伦理学",
-    "frq": 3231,
-    "composite_rank": 4200,
+    "phonetic": "/.filә'sɒfikl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=philosophical&type=2",
+    "definition_en": "s. characterized by the attitude of a philosopher; meeting trouble with level-headed detachment",
+    "definition_zh": "a. 哲学的, 冷静的, 达观的, 哲学上的, 哲学家似的",
+    "frq": 4661,
+    "composite_rank": 3915,
     "badge": "high",
     "examples": [
       {
-        "en": "Philosophers explore the ethical implications and fundamental nature of ethics.",
-        "zh": "哲学家们深入探讨了道德规范的伦理意蕴与本质根源。"
+        "en": "Philosophers explore the ethical implications and fundamental nature of philosophical.",
+        "zh": "哲学家们深入探讨了哲学的的伦理意蕴与本质根源。"
       },
       {
-        "en": "Reflecting on ethics encourages deeper critical thinking about human values.",
-        "zh": "反思道德规范有助于激发对人类核心价值的深度批判性审视。"
+        "en": "Reflecting on philosophical encourages deeper critical thinking about human values.",
+        "zh": "反思哲学的有助于激发对人类核心价值的深度批判性审视。"
       }
     ]
   },
@@ -375,27 +375,52 @@
     ]
   },
   {
-    "id": "philosophical",
-    "word": "philosophical",
+    "id": "gospel",
+    "word": "gospel",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
-    "phonetic": "/.filә'sɒfikl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=philosophical&type=2",
-    "definition_en": "s. characterized by the attitude of a philosopher; meeting trouble with level-headed detachment",
-    "definition_zh": "a. 哲学的, 冷静的, 达观的, 哲学上的, 哲学家似的",
-    "frq": 4661,
-    "composite_rank": 5090,
+    "phonetic": "/'gɒspәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gospel&type=2",
+    "definition_en": "n. the four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings\\nn. an unquestionable truth\\nn. folk music consisting of a genre of a cappella music originating with Black slaves in the United States and featuring call and response; influential on the development of other genres of popular music (especially soul)\\nn. a doctrine that is believed to be of great importance",
+    "definition_zh": "n. 福音, 信仰, 真理",
+    "frq": 5461,
+    "composite_rank": 4587,
     "badge": "high",
     "examples": [
       {
-        "en": "Philosophers explore the ethical implications and fundamental nature of philosophical.",
-        "zh": "哲学家们深入探讨了哲学的的伦理意蕴与本质根源。"
+        "en": "Philosophers explore the ethical implications and fundamental nature of gospel.",
+        "zh": "哲学家们深入探讨了福音的伦理意蕴与本质根源。"
       },
       {
-        "en": "Reflecting on philosophical encourages deeper critical thinking about human values.",
-        "zh": "反思哲学的有助于激发对人类核心价值的深度批判性审视。"
+        "en": "Reflecting on gospel encourages deeper critical thinking about human values.",
+        "zh": "反思福音有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
+    "id": "skeptical",
+    "word": "skeptical",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'skeptikәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=skeptical&type=2",
+    "definition_en": "s denying or questioning the tenets of especially a religion\\ns marked by or given to doubt",
+    "definition_zh": "a. 怀疑论的, 怀疑的, 不可知论的； 怀疑的, 不信的, 怀疑论者的",
+    "frq": 4963,
+    "composite_rank": 4963,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of skeptical.",
+        "zh": "哲学家们深入探讨了怀疑论的的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on skeptical encourages deeper critical thinking about human values.",
+        "zh": "反思怀疑论的有助于激发对人类核心价值的深度批判性审视。"
       }
     ]
   },
@@ -425,6 +450,31 @@
     ]
   },
   {
+    "id": "ethic",
+    "word": "ethic",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'eθik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ethic&type=2",
+    "definition_en": "n. the principles of right and wrong that are accepted by an individual or a social group\\nn. a system of principles governing morality and acceptable conduct",
+    "definition_zh": "n. 道德规范, 伦理",
+    "frq": 7137,
+    "composite_rank": 5995,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of ethic.",
+        "zh": "哲学家们深入探讨了道德规范的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on ethic encourages deeper critical thinking about human values.",
+        "zh": "反思道德规范有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
     "id": "immoral",
     "word": "immoral",
     "part_of_speech": "noun",
@@ -450,6 +500,31 @@
     ]
   },
   {
+    "id": "morale",
+    "word": "morale",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/mɒ'rɑ:l/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=morale&type=2",
+    "definition_en": "n. a state of individual psychological well-being based upon a sense of confidence and usefulness and purpose",
+    "definition_zh": "n. 士气, 道德",
+    "frq": 7507,
+    "composite_rank": 6306,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of morale.",
+        "zh": "哲学家们深入探讨了士气的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on morale encourages deeper critical thinking about human values.",
+        "zh": "反思士气有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
     "id": "intersection",
     "word": "intersection",
     "part_of_speech": "noun",
@@ -471,31 +546,6 @@
       {
         "en": "Reflecting on intersection encourages deeper critical thinking about human values.",
         "zh": "反思交集有助于激发对人类核心价值的深度批判性审视。"
-      }
-    ]
-  },
-  {
-    "id": "gospel",
-    "word": "gospel",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学思想与伦理逻辑",
-    "category": "philosophy",
-    "phonetic": "/'gɒspәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gospel&type=2",
-    "definition_en": "n. the four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings\\nn. an unquestionable truth\\nn. folk music consisting of a genre of a cappella music originating with Black slaves in the United States and featuring call and response; influential on the development of other genres of popular music (especially soul)\\nn. a doctrine that is believed to be of great importance",
-    "definition_zh": "n. 福音, 信仰, 真理",
-    "frq": 5461,
-    "composite_rank": 7798,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Philosophers explore the ethical implications and fundamental nature of gospel.",
-        "zh": "哲学家们深入探讨了福音的伦理意蕴与本质根源。"
-      },
-      {
-        "en": "Reflecting on gospel encourages deeper critical thinking about human values.",
-        "zh": "反思福音有助于激发对人类核心价值的深度批判性审视。"
       }
     ]
   },
@@ -550,81 +600,6 @@
     ]
   },
   {
-    "id": "ethic",
-    "word": "ethic",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学思想与伦理逻辑",
-    "category": "philosophy",
-    "phonetic": "/'eθik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ethic&type=2",
-    "definition_en": "n. the principles of right and wrong that are accepted by an individual or a social group\\nn. a system of principles governing morality and acceptable conduct",
-    "definition_zh": "n. 道德规范, 伦理",
-    "frq": 7137,
-    "composite_rank": 10192,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Philosophers explore the ethical implications and fundamental nature of ethic.",
-        "zh": "哲学家们深入探讨了道德规范的伦理意蕴与本质根源。"
-      },
-      {
-        "en": "Reflecting on ethic encourages deeper critical thinking about human values.",
-        "zh": "反思道德规范有助于激发对人类核心价值的深度批判性审视。"
-      }
-    ]
-  },
-  {
-    "id": "morale",
-    "word": "morale",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学思想与伦理逻辑",
-    "category": "philosophy",
-    "phonetic": "/mɒ'rɑ:l/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=morale&type=2",
-    "definition_en": "n. a state of individual psychological well-being based upon a sense of confidence and usefulness and purpose",
-    "definition_zh": "n. 士气, 道德",
-    "frq": 7507,
-    "composite_rank": 10720,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Philosophers explore the ethical implications and fundamental nature of morale.",
-        "zh": "哲学家们深入探讨了士气的伦理意蕴与本质根源。"
-      },
-      {
-        "en": "Reflecting on morale encourages deeper critical thinking about human values.",
-        "zh": "反思士气有助于激发对人类核心价值的深度批判性审视。"
-      }
-    ]
-  },
-  {
-    "id": "logically",
-    "word": "logically",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学思想与伦理逻辑",
-    "category": "philosophy",
-    "phonetic": "/'lɔdʒikәli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=logically&type=2",
-    "definition_en": "r. according to logical reasoning\\nr. in a logical manner",
-    "definition_zh": "adv. 逻辑, 合乎逻辑, 符合逻辑, 逻辑上, 有逻辑, 有逻辑头脑, 合理, 明智",
-    "frq": 11464,
-    "composite_rank": 11464,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Philosophers explore the ethical implications and fundamental nature of logically.",
-        "zh": "哲学家们深入探讨了逻辑的伦理意蕴与本质根源。"
-      },
-      {
-        "en": "Reflecting on logically encourages deeper critical thinking about human values.",
-        "zh": "反思逻辑有助于激发对人类核心价值的深度批判性审视。"
-      }
-    ]
-  },
-  {
     "id": "materialism",
     "word": "materialism",
     "part_of_speech": "noun",
@@ -671,6 +646,31 @@
       {
         "en": "Reflecting on undesirable encourages deeper critical thinking about human values.",
         "zh": "反思不受欢迎的有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
+    "id": "idealism",
+    "word": "idealism",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/ai'diәlizm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=idealism&type=2",
+    "definition_en": "n. (philosophy) the philosophical theory that ideas are the only reality\\nn. impracticality by virtue of thinking of things in their ideal form rather than as they really are",
+    "definition_zh": "n. 唯心主义, 观念论, 唯心论, 理想主义",
+    "frq": 11045,
+    "composite_rank": 13210,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of idealism.",
+        "zh": "哲学家们深入探讨了唯心主义的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on idealism encourages deeper critical thinking about human values.",
+        "zh": "反思唯心主义有助于激发对人类核心价值的深度批判性审视。"
       }
     ]
   },
@@ -750,6 +750,81 @@
     ]
   },
   {
+    "id": "dogma",
+    "word": "dogma",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'dɒgmә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dogma&type=2",
+    "definition_en": "n. a religious doctrine that is proclaimed as true without proof\\nn. a doctrine or code of beliefs accepted as authoritative",
+    "definition_zh": "n. 教条",
+    "frq": 11758,
+    "composite_rank": 14063,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of dogma.",
+        "zh": "哲学家们深入探讨了教条的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on dogma encourages deeper critical thinking about human values.",
+        "zh": "反思教条有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
+    "id": "utilitarian",
+    "word": "utilitarian",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/.ju:tili'tєәriәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=utilitarian&type=2",
+    "definition_en": "n. someone who believes that the value of a thing depends on its utility\\ns. having a useful function\\ns. having utility often to the exclusion of values",
+    "definition_zh": "a. 有效用的, 实利主义的, 功利主义的； n. 功利主义者",
+    "frq": 12219,
+    "composite_rank": 14614,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of utilitarian.",
+        "zh": "哲学家们深入探讨了功利主义者的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on utilitarian encourages deeper critical thinking about human values.",
+        "zh": "反思功利主义者有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
+    "id": "logically",
+    "word": "logically",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/'lɔdʒikәli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=logically&type=2",
+    "definition_en": "r. according to logical reasoning\\nr. in a logical manner",
+    "definition_zh": "adv. 逻辑, 合乎逻辑, 符合逻辑, 逻辑上, 有逻辑, 有逻辑头脑, 合理, 明智",
+    "frq": 11464,
+    "composite_rank": 14903,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of logically.",
+        "zh": "哲学家们深入探讨了逻辑的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on logically encourages deeper critical thinking about human values.",
+        "zh": "反思逻辑有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
     "id": "bishops",
     "word": "bishops",
     "part_of_speech": "noun",
@@ -800,35 +875,10 @@
     ]
   },
   {
-    "id": "utilitarian",
-    "word": "utilitarian",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "哲学思想与伦理逻辑",
-    "category": "philosophy",
-    "phonetic": "/.ju:tili'tєәriәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=utilitarian&type=2",
-    "definition_en": "n. someone who believes that the value of a thing depends on its utility\\ns. having a useful function\\ns. having utility often to the exclusion of values",
-    "definition_zh": "a. 有效用的, 实利主义的, 功利主义的； n. 功利主义者",
-    "frq": 12219,
-    "composite_rank": 19111,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Philosophers explore the ethical implications and fundamental nature of utilitarian.",
-        "zh": "哲学家们深入探讨了功利主义者的伦理意蕴与本质根源。"
-      },
-      {
-        "en": "Reflecting on utilitarian encourages deeper critical thinking about human values.",
-        "zh": "反思功利主义者有助于激发对人类核心价值的深度批判性审视。"
-      }
-    ]
-  },
-  {
     "id": "ethically",
     "word": "ethically",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
     "phonetic": "/ethically/",
@@ -836,7 +886,7 @@
     "definition_en": "r. in an ethical manner; from an ethical point of view; according to ethics",
     "definition_zh": "adv. 伦理上",
     "frq": 14021,
-    "composite_rank": 23836,
+    "composite_rank": 18227,
     "badge": "normal",
     "examples": [
       {
@@ -850,10 +900,35 @@
     ]
   },
   {
+    "id": "metaphysical",
+    "word": "metaphysical",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/.metә'fizikl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=metaphysical&type=2",
+    "definition_en": "a. pertaining to or of the nature of metaphysics\\ns. without material form or substance\\ns. highly abstract and overly theoretical",
+    "definition_zh": "a. 形而上学的, 纯粹哲学的, 抽象的",
+    "frq": 10851,
+    "composite_rank": 21962,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of metaphysical.",
+        "zh": "哲学家们深入探讨了形而上学的的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on metaphysical encourages deeper critical thinking about human values.",
+        "zh": "反思形而上学的有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
     "id": "sceptical",
     "word": "sceptical",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
     "phonetic": "/'skeptikl/",
@@ -861,7 +936,7 @@
     "definition_en": "s marked by or given to doubt\\ns denying or questioning the tenets of especially a religion",
     "definition_zh": "a. 怀疑论的, 怀疑的",
     "frq": 37694,
-    "composite_rank": 31663,
+    "composite_rank": 25330,
     "badge": "high",
     "examples": [
       {
@@ -871,6 +946,81 @@
       {
         "en": "Reflecting on sceptical encourages deeper critical thinking about human values.",
         "zh": "反思怀疑论的有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
+    "id": "dogmatic",
+    "word": "dogmatic",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/dɒg'mætik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dogmatic&type=2",
+    "definition_en": "s. characterized by assertion of unproved or unprovable principles\\na. of or pertaining to or characteristic of a doctrine or code of beliefs accepted as authoritative\\na. relating to or involving dogma",
+    "definition_zh": "a. 教条的, 武断的",
+    "frq": 16420,
+    "composite_rank": 25681,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of dogmatic.",
+        "zh": "哲学家们深入探讨了教条的的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on dogmatic encourages deeper critical thinking about human values.",
+        "zh": "反思教条的有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
+    "id": "unscrupulous",
+    "word": "unscrupulous",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/.ʌn'skru:pjulәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=unscrupulous&type=2",
+    "definition_en": "a. without scruples or principles",
+    "definition_zh": "a. 无道德原则的, 不审慎的, 肆无忌惮的",
+    "frq": 16684,
+    "composite_rank": 26094,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of unscrupulous.",
+        "zh": "哲学家们深入探讨了无道德原则的的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on unscrupulous encourages deeper critical thinking about human values.",
+        "zh": "反思无道德原则的有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
+    "id": "materialistic",
+    "word": "materialistic",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/mә.tiәriә'listik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=materialistic&type=2",
+    "definition_en": "s. marked by materialism",
+    "definition_zh": "a. 唯物论的, 唯物主义的",
+    "frq": 16990,
+    "composite_rank": 28883,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of materialistic.",
+        "zh": "哲学家们深入探讨了唯物论的的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on materialistic encourages deeper critical thinking about human values.",
+        "zh": "反思唯物论的有助于激发对人类核心价值的深度批判性审视。"
       }
     ]
   },
@@ -925,110 +1075,10 @@
     ]
   },
   {
-    "id": "materialistic",
-    "word": "materialistic",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "哲学思想与伦理逻辑",
-    "category": "philosophy",
-    "phonetic": "/mә.tiәriә'listik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=materialistic&type=2",
-    "definition_en": "s. marked by materialism",
-    "definition_zh": "a. 唯物论的, 唯物主义的",
-    "frq": 16990,
-    "composite_rank": 37378,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Philosophers explore the ethical implications and fundamental nature of materialistic.",
-        "zh": "哲学家们深入探讨了唯物论的的伦理意蕴与本质根源。"
-      },
-      {
-        "en": "Reflecting on materialistic encourages deeper critical thinking about human values.",
-        "zh": "反思唯物论的有助于激发对人类核心价值的深度批判性审视。"
-      }
-    ]
-  },
-  {
-    "id": "truths",
-    "word": "truths",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "哲学思想与伦理逻辑",
-    "category": "philosophy",
-    "phonetic": "/truths/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=truths&type=2",
-    "definition_en": "n a fact that has been verified\\nn conformity to reality or actuality\\nn a true statement\\nn the quality of being near to the true value\\nn United States abolitionist and feminist who was freed from slavery and became a leading advocate of the abolition of slavery and for the rights of women (1797-1883)",
-    "definition_zh": "真理, 真实, 实际情况, 真相, 真实性, 忠实性",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Philosophers explore the ethical implications and fundamental nature of truths.",
-        "zh": "哲学家们深入探讨了真理的伦理意蕴与本质根源。"
-      },
-      {
-        "en": "Reflecting on truths encourages deeper critical thinking about human values.",
-        "zh": "反思真理有助于激发对人类核心价值的深度批判性审视。"
-      }
-    ]
-  },
-  {
-    "id": "scholasticism",
-    "word": "scholasticism",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "哲学思想与伦理逻辑",
-    "category": "philosophy",
-    "phonetic": "/skә'læstisizm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scholasticism&type=2",
-    "definition_en": "n. the system of philosophy dominant in medieval Europe; based on Aristotle and the Church Fathers\\nn. orthodoxy of a scholastic variety",
-    "definition_zh": "n. 繁琐哲学, 墨守成规, 经院哲学； 宗教哲学",
-    "frq": 35448,
-    "composite_rank": 46082,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Philosophers explore the ethical implications and fundamental nature of scholasticism.",
-        "zh": "哲学家们深入探讨了繁琐哲学的伦理意蕴与本质根源。"
-      },
-      {
-        "en": "Reflecting on scholasticism encourages deeper critical thinking about human values.",
-        "zh": "反思繁琐哲学有助于激发对人类核心价值的深度批判性审视。"
-      }
-    ]
-  },
-  {
-    "id": "philosophers",
-    "word": "philosophers",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "哲学思想与伦理逻辑",
-    "category": "philosophy",
-    "phonetic": "/fɪ'lɒsəfəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=philosophers&type=2",
-    "definition_en": "n. a specialist in philosophy\\nn. a wise person who is calm and rational; someone who lives a life of reason with equanimity",
-    "definition_zh": "n. 哲学家( philosopher的复数形式 ); 豁达的人",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Philosophers explore the ethical implications and fundamental nature of philosophers.",
-        "zh": "哲学家们深入探讨了哲学家的伦理意蕴与本质根源。"
-      },
-      {
-        "en": "Reflecting on philosophers encourages deeper critical thinking about human values.",
-        "zh": "反思哲学家有助于激发对人类核心价值的深度批判性审视。"
-      }
-    ]
-  },
-  {
     "id": "puritanical",
     "word": "puritanical",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
     "phonetic": "/,pjuәri'tænikәl/",
@@ -1036,7 +1086,7 @@
     "definition_en": "a. of or relating to Puritans or Puritanism",
     "definition_zh": "a. 清教徒的, 清教主义的, 宗教上极端拘谨的, 道德上极端拘谨的",
     "frq": 23648,
-    "composite_rank": 52026,
+    "composite_rank": 40202,
     "badge": "normal",
     "examples": [
       {
@@ -1053,7 +1103,7 @@
     "id": "stoicism",
     "word": "stoicism",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
     "phonetic": "/'stәuisizәm/",
@@ -1061,7 +1111,7 @@
     "definition_en": "n. an indifference to pleasure or pain\\nn. (philosophy) the philosophical system of the Stoics following the teachings of the ancient Greek philosopher Zeno",
     "definition_zh": "n. 斯多葛哲学, 禁欲主义, 淡泊",
     "frq": 24476,
-    "composite_rank": 53847,
+    "composite_rank": 41609,
     "badge": "normal",
     "examples": [
       {
@@ -1071,6 +1121,31 @@
       {
         "en": "Reflecting on stoicism encourages deeper critical thinking about human values.",
         "zh": "反思斯多葛哲学有助于激发对人类核心价值的深度批判性审视。"
+      }
+    ]
+  },
+  {
+    "id": "plc",
+    "word": "plc",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "哲学思想与伦理逻辑",
+    "category": "philosophy",
+    "phonetic": "/plc/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=plc&type=2",
+    "definition_en": ": 可编程逻辑控制器",
+    "definition_zh": "可编程逻辑控制器",
+    "frq": 40463,
+    "composite_rank": 57781,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Philosophers explore the ethical implications and fundamental nature of plc.",
+        "zh": "哲学家们深入探讨了可编程逻辑控制器的伦理意蕴与本质根源。"
+      },
+      {
+        "en": "Reflecting on plc encourages deeper critical thinking about human values.",
+        "zh": "反思可编程逻辑控制器有助于激发对人类核心价值的深度批判性审视。"
       }
     ]
   },
@@ -1100,27 +1175,27 @@
     ]
   },
   {
-    "id": "virtues",
-    "word": "virtues",
+    "id": "scholasticism",
+    "word": "scholasticism",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
-    "phonetic": "/'vɜ:tʃu:z/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=virtues&type=2",
-    "definition_en": "n. the quality of doing what is right and avoiding what is wrong\\nn. any admirable quality or attribute\\nn. morality with respect to sexual relations",
-    "definition_zh": "n. 美德( virtue的复数形式 ); 德行; 优点; 长处",
-    "frq": 50000,
-    "composite_rank": 65000,
+    "phonetic": "/skә'læstisizm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scholasticism&type=2",
+    "definition_en": "n. the system of philosophy dominant in medieval Europe; based on Aristotle and the Church Fathers\\nn. orthodoxy of a scholastic variety",
+    "definition_zh": "n. 繁琐哲学, 墨守成规, 经院哲学； 宗教哲学",
+    "frq": 35448,
+    "composite_rank": 60262,
     "badge": "normal",
     "examples": [
       {
-        "en": "Philosophers explore the ethical implications and fundamental nature of virtues.",
-        "zh": "哲学家们深入探讨了美德的伦理意蕴与本质根源。"
+        "en": "Philosophers explore the ethical implications and fundamental nature of scholasticism.",
+        "zh": "哲学家们深入探讨了繁琐哲学的伦理意蕴与本质根源。"
       },
       {
-        "en": "Reflecting on virtues encourages deeper critical thinking about human values.",
-        "zh": "反思美德有助于激发对人类核心价值的深度批判性审视。"
+        "en": "Reflecting on scholasticism encourages deeper critical thinking about human values.",
+        "zh": "反思繁琐哲学有助于激发对人类核心价值的深度批判性审视。"
       }
     ]
   },
@@ -1128,7 +1203,7 @@
     "id": "demystification",
     "word": "demystification",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "哲学思想与伦理逻辑",
     "category": "philosophy",
     "phonetic": "/di:,mistifi'keiʃәn/",
@@ -1136,7 +1211,7 @@
     "definition_en": "",
     "definition_zh": "n. 非神秘化启蒙,启发",
     "frq": 38916,
-    "composite_rank": 85615,
+    "composite_rank": 66157,
     "badge": "normal",
     "examples": [
       {

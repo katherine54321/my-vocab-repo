@@ -525,6 +525,31 @@
     ]
   },
   {
+    "id": "emotional",
+    "word": "emotional",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/i'mәuʃәnәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=emotional&type=2",
+    "definition_en": "a. determined or actuated by emotion rather than reason\\na. of more than usual emotion\\na. of or pertaining to emotion",
+    "definition_zh": "a. 情绪的, 情感的； 情绪的",
+    "frq": 1617,
+    "composite_rank": 688,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of emotional during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的情绪的。"
+      },
+      {
+        "en": "Learning to express emotional constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达情绪的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "equal",
     "word": "equal",
     "part_of_speech": "noun",
@@ -600,31 +625,6 @@
     ]
   },
   {
-    "id": "emotional",
-    "word": "emotional",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/i'mәuʃәnәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=emotional&type=2",
-    "definition_en": "a. determined or actuated by emotion rather than reason\\na. of more than usual emotion\\na. of or pertaining to emotion",
-    "definition_zh": "a. 情绪的, 情感的； 情绪的",
-    "frq": 1617,
-    "composite_rank": 860,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of emotional during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的情绪的。"
-      },
-      {
-        "en": "Learning to express emotional constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达情绪的是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "mad",
     "word": "mad",
     "part_of_speech": "noun",
@@ -646,6 +646,31 @@
       {
         "en": "Learning to express mad constructively is key to emotional maturity.",
         "zh": "学会建设性地表达狂怒是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "emotion",
+    "word": "emotion",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/i'mәuʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=emotion&type=2",
+    "definition_en": "n. any strong feeling",
+    "definition_zh": "n. 情绪, 激动, 强烈的情感； 情绪, 情感",
+    "frq": 2117,
+    "composite_rank": 901,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of emotion during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的情绪。"
+      },
+      {
+        "en": "Learning to express emotion constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达情绪是情绪走向成熟的关键。"
       }
     ]
   },
@@ -700,6 +725,31 @@
     ]
   },
   {
+    "id": "mood",
+    "word": "mood",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/mu:d/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mood&type=2",
+    "definition_en": "n. verb inflections that express how the action or state is conceived by the speaker",
+    "definition_zh": "n. 心情, 气氛, 生气, 基调； 心境",
+    "frq": 2344,
+    "composite_rank": 998,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of mood during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的心情。"
+      },
+      {
+        "en": "Learning to express mood constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达心情是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "anxiety",
     "word": "anxiety",
     "part_of_speech": "noun",
@@ -725,6 +775,31 @@
     ]
   },
   {
+    "id": "gay",
+    "word": "gay",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/gei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gay&type=2",
+    "definition_en": "s. full of or showing high-spirited merriment\\ns. given to social pleasures often including dissipation\\ns. offering fun and gaiety\\ns. homosexual or arousing homosexual desires",
+    "definition_zh": "a. 欢快的, 艳丽的, 快乐的, 放荡的",
+    "frq": 2056,
+    "composite_rank": 1118,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of gay during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的欢快的。"
+      },
+      {
+        "en": "Learning to express gay constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达欢快的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "spin",
     "word": "spin",
     "part_of_speech": "noun",
@@ -746,31 +821,6 @@
       {
         "en": "Learning to express spin constructively is key to emotional maturity.",
         "zh": "学会建设性地表达旋转是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "emotion",
-    "word": "emotion",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/i'mәuʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=emotion&type=2",
-    "definition_en": "n. any strong feeling",
-    "definition_zh": "n. 情绪, 激动, 强烈的情感； 情绪, 情感",
-    "frq": 2117,
-    "composite_rank": 1126,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of emotion during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的情绪。"
-      },
-      {
-        "en": "Learning to express emotion constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达情绪是情绪走向成熟的关键。"
       }
     ]
   },
@@ -825,27 +875,27 @@
     ]
   },
   {
-    "id": "mood",
-    "word": "mood",
+    "id": "depression",
+    "word": "depression",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/mu:d/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mood&type=2",
-    "definition_en": "n. verb inflections that express how the action or state is conceived by the speaker",
-    "definition_zh": "n. 心情, 气氛, 生气, 基调； 心境",
-    "frq": 2344,
-    "composite_rank": 1247,
+    "phonetic": "/di'preʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=depression&type=2",
+    "definition_en": "n. a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity\\nn. a long-term economic state characterized by unemployment and low prices and low levels of trade and investment\\nn. sad feelings of gloom and inadequacy\\nn. a period during the 1930s when there was a worldwide economic depression and mass unemployment",
+    "definition_zh": "n. 不景气, 消沉, 沮丧, 洼地； 抑郁, 阻抑, 压低, 凹, 窝, 衰退, 俯角",
+    "frq": 2095,
+    "composite_rank": 1274,
     "badge": "core",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of mood during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的心情。"
+        "en": "His expressive face revealed a genuine sense of depression during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的不景气。"
       },
       {
-        "en": "Learning to express mood constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达心情是情绪走向成熟的关键。"
+        "en": "Learning to express depression constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达不景气是情绪走向成熟的关键。"
       }
     ]
   },
@@ -925,27 +975,27 @@
     ]
   },
   {
-    "id": "gay",
-    "word": "gay",
+    "id": "passion",
+    "word": "passion",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/gei/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gay&type=2",
-    "definition_en": "s. full of or showing high-spirited merriment\\ns. given to social pleasures often including dissipation\\ns. offering fun and gaiety\\ns. homosexual or arousing homosexual desires",
-    "definition_zh": "a. 欢快的, 艳丽的, 快乐的, 放荡的",
-    "frq": 2056,
-    "composite_rank": 1398,
+    "phonetic": "/'pæʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=passion&type=2",
+    "definition_en": "n. a strong feeling or emotion\\nn. a feeling of strong sexual desire\\nn. the suffering of Jesus at the Crucifixion",
+    "definition_zh": "n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)",
+    "frq": 2283,
+    "composite_rank": 1388,
     "badge": "core",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of gay during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的欢快的。"
+        "en": "His expressive face revealed a genuine sense of passion during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的激情。"
       },
       {
-        "en": "Learning to express gay constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达欢快的是情绪走向成熟的关键。"
+        "en": "Learning to express passion constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达激情是情绪走向成熟的关键。"
       }
     ]
   },
@@ -1025,31 +1075,6 @@
     ]
   },
   {
-    "id": "depression",
-    "word": "depression",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/di'preʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=depression&type=2",
-    "definition_en": "n. a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity\\nn. a long-term economic state characterized by unemployment and low prices and low levels of trade and investment\\nn. sad feelings of gloom and inadequacy\\nn. a period during the 1930s when there was a worldwide economic depression and mass unemployment",
-    "definition_zh": "n. 不景气, 消沉, 沮丧, 洼地； 抑郁, 阻抑, 压低, 凹, 窝, 衰退, 俯角",
-    "frq": 2095,
-    "composite_rank": 1592,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of depression during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的不景气。"
-      },
-      {
-        "en": "Learning to express depression constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达不景气是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "twist",
     "word": "twist",
     "part_of_speech": "noun",
@@ -1075,31 +1100,6 @@
     ]
   },
   {
-    "id": "passion",
-    "word": "passion",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'pæʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=passion&type=2",
-    "definition_en": "n. a strong feeling or emotion\\nn. a feeling of strong sexual desire\\nn. the suffering of Jesus at the Crucifixion",
-    "definition_zh": "n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)",
-    "frq": 2283,
-    "composite_rank": 1735,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of passion during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的激情。"
-      },
-      {
-        "en": "Learning to express passion constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达激情是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "scared",
     "word": "scared",
     "part_of_speech": "noun",
@@ -1121,6 +1121,31 @@
       {
         "en": "Learning to express scared constructively is key to emotional maturity.",
         "zh": "学会建设性地表达害怕的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "teen",
+    "word": "teen",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/ti:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=teen&type=2",
+    "definition_en": "n a juvenile between the onset of puberty and maturity\\ns being of the age 13 through 19",
+    "definition_zh": "n. 愤怒, 悲哀",
+    "frq": 2620,
+    "composite_rank": 1761,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of teen during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的愤怒。"
+      },
+      {
+        "en": "Learning to express teen constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达愤怒是情绪走向成熟的关键。"
       }
     ]
   },
@@ -1300,31 +1325,6 @@
     ]
   },
   {
-    "id": "teen",
-    "word": "teen",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/ti:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=teen&type=2",
-    "definition_en": "n a juvenile between the onset of puberty and maturity\\ns being of the age 13 through 19",
-    "definition_zh": "n. 愤怒, 悲哀",
-    "frq": 2620,
-    "composite_rank": 2201,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of teen during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的愤怒。"
-      },
-      {
-        "en": "Learning to express teen constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达愤怒是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "spite",
     "word": "spite",
     "part_of_speech": "noun",
@@ -1475,6 +1475,31 @@
     ]
   },
   {
+    "id": "panic",
+    "word": "panic",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'pænik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=panic&type=2",
+    "definition_en": "n. an overwhelming feeling of fear and anxiety\\nn. sudden mass fear and anxiety over anticipated events\\nv. be overcome by a sudden fear\\nv. cause sudden fear in or fill with sudden panic",
+    "definition_zh": "n. 恐慌, 惊慌； a. 惊慌的, 没有理由的, 恐慌的； vt. 使惊慌, 使狂热； vi. 惊慌",
+    "frq": 4310,
+    "composite_rank": 2620,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of panic during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的恐慌。"
+      },
+      {
+        "en": "Learning to express panic constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达恐慌是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "depressed",
     "word": "depressed",
     "part_of_speech": "noun",
@@ -1550,6 +1575,31 @@
     ]
   },
   {
+    "id": "glory",
+    "word": "glory",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'glɒ:ri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=glory&type=2",
+    "definition_en": "n. a state of high honor\\nn. brilliant radiant beauty\\nv. rejoice proudly",
+    "definition_zh": "n. 光荣, 荣耀, 荣誉, 壮丽, 繁荣； vi. 自豪",
+    "frq": 4113,
+    "composite_rank": 2764,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of glory during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的光荣。"
+      },
+      {
+        "en": "Learning to express glory constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达光荣是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "delighted",
     "word": "delighted",
     "part_of_speech": "noun",
@@ -1571,6 +1621,31 @@
       {
         "en": "Learning to express delighted constructively is key to emotional maturity.",
         "zh": "学会建设性地表达高兴的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "pulse",
+    "word": "pulse",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/pʌls/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pulse&type=2",
+    "definition_en": "n. the rhythmic contraction and expansion of the arteries with each beat of the heart\\nn. the rate at which the heart beats; usually measured to obtain a quick evaluation of a person's health\\nn. edible seeds of various pod-bearing plants (peas or beans or lentils etc.)\\nv. produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses",
+    "definition_zh": "n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类； vi. 跳动, 脉跳； vt. 使跳动, 用脉冲调制； 脉冲",
+    "frq": 4331,
+    "composite_rank": 2910,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of pulse during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的脉冲。"
+      },
+      {
+        "en": "Learning to express pulse constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达脉冲是情绪走向成熟的关键。"
       }
     ]
   },
@@ -1725,31 +1800,6 @@
     ]
   },
   {
-    "id": "panic",
-    "word": "panic",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'pænik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=panic&type=2",
-    "definition_en": "n. an overwhelming feeling of fear and anxiety\\nn. sudden mass fear and anxiety over anticipated events\\nv. be overcome by a sudden fear\\nv. cause sudden fear in or fill with sudden panic",
-    "definition_zh": "n. 恐慌, 惊慌； a. 惊慌的, 没有理由的, 恐慌的； vt. 使惊慌, 使狂热； vi. 惊慌",
-    "frq": 4310,
-    "composite_rank": 3276,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of panic during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的恐慌。"
-      },
-      {
-        "en": "Learning to express panic constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达恐慌是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "wildly",
     "word": "wildly",
     "part_of_speech": "noun",
@@ -1771,6 +1821,56 @@
       {
         "en": "Learning to express wildly constructively is key to emotional maturity.",
         "zh": "学会建设性地表达狂暴地是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "sentiment",
+    "word": "sentiment",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'sentimәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sentiment&type=2",
+    "definition_en": "n. tender, romantic, or nostalgic feeling or emotion",
+    "definition_zh": "n. 感情, 感伤, 情操, 情绪, 感想, 意见； 情感, 情操",
+    "frq": 4051,
+    "composite_rank": 3403,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of sentiment during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的感情。"
+      },
+      {
+        "en": "Learning to express sentiment constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达感情是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "grief",
+    "word": "grief",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/gri:f/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=grief&type=2",
+    "definition_en": "n. intense sorrow caused by loss of a loved one (especially by death)\\nn. something that causes great unhappiness",
+    "definition_zh": "n. 伤心, 忧愁, 悲痛, 不幸, 灾难",
+    "frq": 4092,
+    "composite_rank": 3437,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of grief during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的伤心。"
+      },
+      {
+        "en": "Learning to express grief constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达伤心是情绪走向成熟的关键。"
       }
     ]
   },
@@ -1800,52 +1900,52 @@
     ]
   },
   {
-    "id": "glory",
-    "word": "glory",
+    "id": "bleed",
+    "word": "bleed",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'glɒ:ri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=glory&type=2",
-    "definition_en": "n. a state of high honor\\nn. brilliant radiant beauty\\nv. rejoice proudly",
-    "definition_zh": "n. 光荣, 荣耀, 荣誉, 壮丽, 繁荣； vi. 自豪",
-    "frq": 4113,
-    "composite_rank": 3455,
+    "phonetic": "/bli:d/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bleed&type=2",
+    "definition_en": "v. draw blood\\nv. get or extort (money or other possessions) from someone\\nv. drain of liquid or steam",
+    "definition_zh": "vi. 流血, 悲痛, 渗出； vt. 使出血, 榨取",
+    "frq": 5218,
+    "composite_rank": 3506,
     "badge": "high",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of glory during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的光荣。"
+        "en": "His expressive face revealed a genuine sense of bleed during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的流血。"
       },
       {
-        "en": "Learning to express glory constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达光荣是情绪走向成熟的关键。"
+        "en": "Learning to express bleed constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达流血是情绪走向成熟的关键。"
       }
     ]
   },
   {
-    "id": "pulse",
-    "word": "pulse",
+    "id": "mercy",
+    "word": "mercy",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/pʌls/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pulse&type=2",
-    "definition_en": "n. the rhythmic contraction and expansion of the arteries with each beat of the heart\\nn. the rate at which the heart beats; usually measured to obtain a quick evaluation of a person's health\\nn. edible seeds of various pod-bearing plants (peas or beans or lentils etc.)\\nv. produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses",
-    "definition_zh": "n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类； vi. 跳动, 脉跳； vt. 使跳动, 用脉冲调制； 脉冲",
-    "frq": 4331,
-    "composite_rank": 3638,
+    "phonetic": "/'mә:si/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mercy&type=2",
+    "definition_en": "n. something for which to be thankful\\nn. alleviation of distress; showing great kindness toward the distressed",
+    "definition_zh": "n. 仁慈, 宽恕, 慈悲, 怜悯, 幸运； 权宜处置权, 决定权, 宽恕",
+    "frq": 5244,
+    "composite_rank": 3524,
     "badge": "high",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of pulse during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的脉冲。"
+        "en": "His expressive face revealed a genuine sense of mercy during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的仁慈。"
       },
       {
-        "en": "Learning to express pulse constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达脉冲是情绪走向成熟的关键。"
+        "en": "Learning to express mercy constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达仁慈是情绪走向成熟的关键。"
       }
     ]
   },
@@ -1925,6 +2025,31 @@
     ]
   },
   {
+    "id": "terrify",
+    "word": "terrify",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'terifai/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=terrify&type=2",
+    "definition_en": "v. fill with terror; frighten greatly",
+    "definition_zh": "vt. 使恐惧, 恐吓",
+    "frq": 5828,
+    "composite_rank": 3916,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of terrify during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的使恐惧。"
+      },
+      {
+        "en": "Learning to express terrify constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达使恐惧是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "sadly",
     "word": "sadly",
     "part_of_speech": "noun",
@@ -1975,6 +2100,31 @@
     ]
   },
   {
+    "id": "compassion",
+    "word": "compassion",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/kәm'pæʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
+    "definition_en": "n. a deep awareness of and sympathy for another's suffering\\nn. the humane quality of understanding the suffering of others and wanting to do something about it",
+    "definition_zh": "n. 同情, 怜悯",
+    "frq": 4986,
+    "composite_rank": 4188,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of compassion during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的同情。"
+      },
+      {
+        "en": "Learning to express compassion constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达同情是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "disappointing",
     "word": "disappointing",
     "part_of_speech": "noun",
@@ -2021,106 +2171,6 @@
       {
         "en": "Learning to express distress constructively is key to emotional maturity.",
         "zh": "学会建设性地表达苦恼是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "bleed",
-    "word": "bleed",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/bli:d/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bleed&type=2",
-    "definition_en": "v. draw blood\\nv. get or extort (money or other possessions) from someone\\nv. drain of liquid or steam",
-    "definition_zh": "vi. 流血, 悲痛, 渗出； vt. 使出血, 榨取",
-    "frq": 5218,
-    "composite_rank": 4383,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of bleed during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的流血。"
-      },
-      {
-        "en": "Learning to express bleed constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达流血是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "mercy",
-    "word": "mercy",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'mә:si/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mercy&type=2",
-    "definition_en": "n. something for which to be thankful\\nn. alleviation of distress; showing great kindness toward the distressed",
-    "definition_zh": "n. 仁慈, 宽恕, 慈悲, 怜悯, 幸运； 权宜处置权, 决定权, 宽恕",
-    "frq": 5244,
-    "composite_rank": 4405,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of mercy during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的仁慈。"
-      },
-      {
-        "en": "Learning to express mercy constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达仁慈是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "sentiment",
-    "word": "sentiment",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'sentimәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sentiment&type=2",
-    "definition_en": "n. tender, romantic, or nostalgic feeling or emotion",
-    "definition_zh": "n. 感情, 感伤, 情操, 情绪, 感想, 意见； 情感, 情操",
-    "frq": 4051,
-    "composite_rank": 4424,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of sentiment during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的感情。"
-      },
-      {
-        "en": "Learning to express sentiment constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达感情是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "grief",
-    "word": "grief",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/gri:f/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=grief&type=2",
-    "definition_en": "n. intense sorrow caused by loss of a loved one (especially by death)\\nn. something that causes great unhappiness",
-    "definition_zh": "n. 伤心, 忧愁, 悲痛, 不幸, 灾难",
-    "frq": 4092,
-    "composite_rank": 4468,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of grief during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的伤心。"
-      },
-      {
-        "en": "Learning to express grief constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达伤心是情绪走向成熟的关键。"
       }
     ]
   },
@@ -2200,31 +2250,6 @@
     ]
   },
   {
-    "id": "terrify",
-    "word": "terrify",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'terifai/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=terrify&type=2",
-    "definition_en": "v. fill with terror; frighten greatly",
-    "definition_zh": "vt. 使恐惧, 恐吓",
-    "frq": 5828,
-    "composite_rank": 4896,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of terrify during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的使恐惧。"
-      },
-      {
-        "en": "Learning to express terrify constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达使恐惧是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "enjoyment",
     "word": "enjoyment",
     "part_of_speech": "noun",
@@ -2250,27 +2275,52 @@
     ]
   },
   {
-    "id": "compassion",
-    "word": "compassion",
+    "id": "merry",
+    "word": "merry",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/kәm'pæʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
-    "definition_en": "n. a deep awareness of and sympathy for another's suffering\\nn. the humane quality of understanding the suffering of others and wanting to do something about it",
-    "definition_zh": "n. 同情, 怜悯",
-    "frq": 4986,
-    "composite_rank": 5445,
+    "phonetic": "/'meri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=merry&type=2",
+    "definition_en": "s full of or showing high-spirited merriment\\ns offering fun and gaiety\\ns quick and energetic",
+    "definition_zh": "a. 快乐的, 愉快的, 嬉戏作乐的",
+    "frq": 7420,
+    "composite_rank": 4986,
     "badge": "high",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of compassion during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的同情。"
+        "en": "His expressive face revealed a genuine sense of merry during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的快乐的。"
       },
       {
-        "en": "Learning to express compassion constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达同情是情绪走向成熟的关键。"
+        "en": "Learning to express merry constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达快乐的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "hopeless",
+    "word": "hopeless",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'hәuplis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hopeless&type=2",
+    "definition_en": "a. without hope because there seems to be no possibility of comfort or success\\ns. of a person unable to do something skillfully\\ns. certain to fail\\ns. (informal to emphasize how bad it is) beyond hope of management or reform",
+    "definition_zh": "a. 无希望的, 绝望的, 不可救药的",
+    "frq": 7926,
+    "composite_rank": 5326,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of hopeless during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的无希望的。"
+      },
+      {
+        "en": "Learning to express hopeless constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达无希望的是情绪走向成熟的关键。"
       }
     ]
   },
@@ -2321,6 +2371,31 @@
       {
         "en": "Learning to express angrily constructively is key to emotional maturity.",
         "zh": "学会建设性地表达愤怒地是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "envy",
+    "word": "envy",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'envi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=envy&type=2",
+    "definition_en": "n. a feeling of grudging admiration and desire to have something that is possessed by another\\nn. spite and resentment at seeing the success of another (personified as one of the deadly sins)\\nv. feel envious towards; admire enviously\\nv. be envious of; set one's heart on",
+    "definition_zh": "n. 羡慕, 嫉妒； vt. 羡慕, 嫉妒",
+    "frq": 8491,
+    "composite_rank": 5706,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of envy during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的羡慕。"
+      },
+      {
+        "en": "Learning to express envy constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达羡慕是情绪走向成熟的关键。"
       }
     ]
   },
@@ -2425,6 +2500,31 @@
     ]
   },
   {
+    "id": "sensibility",
+    "word": "sensibility",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/.sensi'biliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sensibility&type=2",
+    "definition_en": "n. mental responsiveness and awareness\\nn. refined sensitivity to pleasurable or painful impressions",
+    "definition_zh": "n. 感性, 感觉, 情感； 感觉性, 感受性; 感觉, 感觉能力",
+    "frq": 6698,
+    "composite_rank": 6162,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of sensibility during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的感性。"
+      },
+      {
+        "en": "Learning to express sensibility constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达感性是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "swollen",
     "word": "swollen",
     "part_of_speech": "noun",
@@ -2471,31 +2571,6 @@
       {
         "en": "Learning to express outrage constructively is key to emotional maturity.",
         "zh": "学会建设性地表达暴行是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "merry",
-    "word": "merry",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'meri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=merry&type=2",
-    "definition_en": "s full of or showing high-spirited merriment\\ns offering fun and gaiety\\ns quick and energetic",
-    "definition_zh": "a. 快乐的, 愉快的, 嬉戏作乐的",
-    "frq": 7420,
-    "composite_rank": 6233,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of merry during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的快乐的。"
-      },
-      {
-        "en": "Learning to express merry constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达快乐的是情绪走向成熟的关键。"
       }
     ]
   },
@@ -2550,27 +2625,52 @@
     ]
   },
   {
-    "id": "hopeless",
-    "word": "hopeless",
+    "id": "frenzy",
+    "word": "frenzy",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'hәuplis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hopeless&type=2",
-    "definition_en": "a. without hope because there seems to be no possibility of comfort or success\\ns. of a person unable to do something skillfully\\ns. certain to fail\\ns. (informal to emphasize how bad it is) beyond hope of management or reform",
-    "definition_zh": "a. 无希望的, 绝望的, 不可救药的",
-    "frq": 7926,
-    "composite_rank": 6658,
-    "badge": "high",
+    "phonetic": "/'frenzi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=frenzy&type=2",
+    "definition_en": "n state of violent mental agitation",
+    "definition_zh": "n. 疯狂, 狂暴, 狂怒； 暴怒, 狂乱",
+    "frq": 7279,
+    "composite_rank": 6697,
+    "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of hopeless during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的无希望的。"
+        "en": "His expressive face revealed a genuine sense of frenzy during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的疯狂。"
       },
       {
-        "en": "Learning to express hopeless constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达无希望的是情绪走向成熟的关键。"
+        "en": "Learning to express frenzy constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达疯狂是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "desperation",
+    "word": "desperation",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/.despә'reiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=desperation&type=2",
+    "definition_en": "n. desperate recklessness",
+    "definition_zh": "n. 绝望",
+    "frq": 7496,
+    "composite_rank": 6896,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of desperation during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的绝望。"
+      },
+      {
+        "en": "Learning to express desperation constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达绝望是情绪走向成熟的关键。"
       }
     ]
   },
@@ -2600,52 +2700,27 @@
     ]
   },
   {
-    "id": "envy",
-    "word": "envy",
+    "id": "loneliness",
+    "word": "loneliness",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'envi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=envy&type=2",
-    "definition_en": "n. a feeling of grudging admiration and desire to have something that is possessed by another\\nn. spite and resentment at seeing the success of another (personified as one of the deadly sins)\\nv. feel envious towards; admire enviously\\nv. be envious of; set one's heart on",
-    "definition_zh": "n. 羡慕, 嫉妒； vt. 羡慕, 嫉妒",
-    "frq": 8491,
-    "composite_rank": 7132,
-    "badge": "high",
+    "phonetic": "/'lәunlinis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=loneliness&type=2",
+    "definition_en": "n. the state of being alone in solitary isolation",
+    "definition_zh": "n. 寂寞, 孤独, 清静",
+    "frq": 7051,
+    "composite_rank": 7051,
+    "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of envy during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的羡慕。"
+        "en": "His expressive face revealed a genuine sense of loneliness during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的寂寞。"
       },
       {
-        "en": "Learning to express envy constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达羡慕是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "gladly",
-    "word": "gladly",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'glædli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gladly&type=2",
-    "definition_en": "r. in a willing manner",
-    "definition_zh": "adv. 高兴地, 乐意地, 欢喜地",
-    "frq": 10981,
-    "composite_rank": 7138,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of gladly during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的高兴地。"
-      },
-      {
-        "en": "Learning to express gladly constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达高兴地是情绪走向成熟的关键。"
+        "en": "Learning to express loneliness constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达寂寞是情绪走向成熟的关键。"
       }
     ]
   },
@@ -2850,31 +2925,6 @@
     ]
   },
   {
-    "id": "horrify",
-    "word": "horrify",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'hɒrifai/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=horrify&type=2",
-    "definition_en": "v fill with apprehension or alarm; cause to be unpleasantly surprised",
-    "definition_zh": "vt. 使恐惧, 使震惊",
-    "frq": 9604,
-    "composite_rank": 8067,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of horrify during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的使恐惧。"
-      },
-      {
-        "en": "Learning to express horrify constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达使恐惧是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "solitary",
     "word": "solitary",
     "part_of_speech": "noun",
@@ -2946,31 +2996,6 @@
       {
         "en": "Learning to express irritating constructively is key to emotional maturity.",
         "zh": "学会建设性地表达刺激的是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "desperation",
-    "word": "desperation",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/.despә'reiʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=desperation&type=2",
-    "definition_en": "n. desperate recklessness",
-    "definition_zh": "n. 绝望",
-    "frq": 7496,
-    "composite_rank": 8965,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of desperation during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的绝望。"
-      },
-      {
-        "en": "Learning to express desperation constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达绝望是情绪走向成熟的关键。"
       }
     ]
   },
@@ -3050,31 +3075,6 @@
     ]
   },
   {
-    "id": "loneliness",
-    "word": "loneliness",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'lәunlinis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=loneliness&type=2",
-    "definition_en": "n. the state of being alone in solitary isolation",
-    "definition_zh": "n. 寂寞, 孤独, 清静",
-    "frq": 7051,
-    "composite_rank": 9166,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of loneliness during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的寂寞。"
-      },
-      {
-        "en": "Learning to express loneliness constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达寂寞是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "caring",
     "word": "caring",
     "part_of_speech": "noun",
@@ -3100,27 +3100,27 @@
     ]
   },
   {
-    "id": "terrified",
-    "word": "terrified",
+    "id": "nostalgia",
+    "word": "nostalgia",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'terifaid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=terrified&type=2",
-    "definition_en": "v fill with terror; frighten greatly\\ns thrown into a state of intense fear or desperation",
-    "definition_zh": "a. 受惊吓的；感到恐惧的",
-    "frq": 9546,
-    "composite_rank": 9546,
+    "phonetic": "/nɒs'tældʒiә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nostalgia&type=2",
+    "definition_en": "n. longing for something past",
+    "definition_zh": "n. 乡愁, 向往过去, 怀旧之情； 怀乡病",
+    "frq": 8085,
+    "composite_rank": 9670,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of terrified during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的受惊吓的。"
+        "en": "His expressive face revealed a genuine sense of nostalgia during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的乡愁。"
       },
       {
-        "en": "Learning to express terrified constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达受惊吓的是情绪走向成熟的关键。"
+        "en": "Learning to express nostalgia constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达乡愁是情绪走向成熟的关键。"
       }
     ]
   },
@@ -3200,6 +3200,31 @@
     ]
   },
   {
+    "id": "ooh",
+    "word": "ooh",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/u:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ooh&type=2",
+    "definition_en": "v. express admiration and pleasure by uttering `ooh' or `aah'",
+    "definition_zh": "int. （表示惊异、热心、高兴或不悦的叫声）哦！",
+    "frq": 8968,
+    "composite_rank": 9793,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of ooh during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的哦。"
+      },
+      {
+        "en": "Learning to express ooh constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达哦是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "dismay",
     "word": "dismay",
     "part_of_speech": "noun",
@@ -3275,6 +3300,31 @@
     ]
   },
   {
+    "id": "gloom",
+    "word": "gloom",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/glu:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gloom&type=2",
+    "definition_en": "n. a state of partial or total darkness\\nn. a feeling of melancholy apprehension\\nn. an atmosphere of depression and melancholy",
+    "definition_zh": "n. 忧郁, 暗处, 幽暗； vi. 变忧沉, 变黑暗； vt. 使忧郁, 使黑暗",
+    "frq": 9432,
+    "composite_rank": 10300,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of gloom during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的忧郁。"
+      },
+      {
+        "en": "Learning to express gloom constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达忧郁是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "yearn",
     "word": "yearn",
     "part_of_speech": "noun",
@@ -3296,6 +3346,31 @@
       {
         "en": "Learning to express yearn constructively is key to emotional maturity.",
         "zh": "学会建设性地表达渴望是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "horrify",
+    "word": "horrify",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'hɒrifai/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=horrify&type=2",
+    "definition_en": "v fill with apprehension or alarm; cause to be unpleasantly surprised",
+    "definition_zh": "vt. 使恐惧, 使震惊",
+    "frq": 9604,
+    "composite_rank": 10488,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of horrify during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的使恐惧。"
+      },
+      {
+        "en": "Learning to express horrify constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达使恐惧是情绪走向成熟的关键。"
       }
     ]
   },
@@ -3525,6 +3600,106 @@
     ]
   },
   {
+    "id": "terrifying",
+    "word": "terrifying",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'tәrifaiiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=terrifying&type=2",
+    "definition_en": "v fill with terror; frighten greatly\\ns causing extreme terror",
+    "definition_zh": "a. 令人恐惧的；骇人的；极大的",
+    "frq": 8585,
+    "composite_rank": 11160,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of terrifying during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的令人恐惧的。"
+      },
+      {
+        "en": "Learning to express terrifying constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达令人恐惧的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "affective",
+    "word": "affective",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/ә'fektiv/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=affective&type=2",
+    "definition_en": "s characterized by emotion",
+    "definition_zh": "a. 情感的, 表达感情的； 感情的, 情感的",
+    "frq": 8614,
+    "composite_rank": 11198,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of affective during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的情感的。"
+      },
+      {
+        "en": "Learning to express affective constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达情感的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "ecstasy",
+    "word": "ecstasy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'ekstәsi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ecstasy&type=2",
+    "definition_en": "n. a state of being carried away by overwhelming emotion\\nn. a state of elated bliss",
+    "definition_zh": "n. 狂喜, 心醉神迷, 忘形； 入迷",
+    "frq": 9422,
+    "composite_rank": 11269,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of ecstasy during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的狂喜。"
+      },
+      {
+        "en": "Learning to express ecstasy constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达狂喜是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "dismal",
+    "word": "dismal",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'dizmәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dismal&type=2",
+    "definition_en": "s causing dejection",
+    "definition_zh": "a. 阴沉的, 凄凉的, 令人忧郁的； n. 低落的情绪, 沼泽",
+    "frq": 9459,
+    "composite_rank": 11313,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of dismal during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的低落的情绪。"
+      },
+      {
+        "en": "Learning to express dismal constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达低落的情绪是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "tickle",
     "word": "tickle",
     "part_of_speech": "noun",
@@ -3546,31 +3721,6 @@
       {
         "en": "Learning to express tickle constructively is key to emotional maturity.",
         "zh": "学会建设性地表达胳肢是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "frenzy",
-    "word": "frenzy",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'frenzi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=frenzy&type=2",
-    "definition_en": "n state of violent mental agitation",
-    "definition_zh": "n. 疯狂, 狂暴, 狂怒； 暴怒, 狂乱",
-    "frq": 7279,
-    "composite_rank": 11384,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of frenzy during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的疯狂。"
-      },
-      {
-        "en": "Learning to express frenzy constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达疯狂是情绪走向成熟的关键。"
       }
     ]
   },
@@ -3600,6 +3750,31 @@
     ]
   },
   {
+    "id": "touching",
+    "word": "touching",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'tʌtʃiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=touching&type=2",
+    "definition_en": "n the event of something coming in contact with the body\\nn the act of putting two things together with no space between them\\nv make physical contact with, come in contact with\\nv perceive via the tactile sense\\nv affect emotionally\\nv be relevant to\\nv be in direct physical contact with; make contact\\nv have an effect upon\\nv deal with; usually used with a form of negation\\nv cause to be in brief contact with\\nv to extend as far as\\nv be equal to in quality or ability\\nv tamper with\\nv make a more or less disguised reference to\\nv comprehend\\nv consume\\nv color lightly\\ns arousing affect",
+    "definition_zh": "a. 动人的, 令人同情的",
+    "frq": 9116,
+    "composite_rank": 11851,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of touching during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的动人的。"
+      },
+      {
+        "en": "Learning to express touching constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达动人的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "fret",
     "word": "fret",
     "part_of_speech": "noun",
@@ -3625,27 +3800,27 @@
     ]
   },
   {
-    "id": "laughing",
-    "word": "laughing",
+    "id": "serene",
+    "word": "serene",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'lɑ:fiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=laughing&type=2",
-    "definition_en": "s. showing or feeling mirth or pleasure or happiness",
-    "definition_zh": "a. 一笑置之的, 高兴的； n. 笑",
-    "frq": 14892,
-    "composite_rank": 11914,
-    "badge": "high",
+    "phonetic": "/si'ri:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=serene&type=2",
+    "definition_en": "s. completely clear and fine",
+    "definition_zh": "a. 宁静的, 沉着的, 安详的, 晴朗的； n. 晴朗, 平静",
+    "frq": 10132,
+    "composite_rank": 12118,
+    "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of laughing during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的笑。"
+        "en": "His expressive face revealed a genuine sense of serene during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的晴朗。"
       },
       {
-        "en": "Learning to express laughing constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达笑是情绪走向成熟的关键。"
+        "en": "Learning to express serene constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达晴朗是情绪走向成熟的关键。"
       }
     ]
   },
@@ -3675,6 +3850,31 @@
     ]
   },
   {
+    "id": "terrified",
+    "word": "terrified",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'terifaid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=terrified&type=2",
+    "definition_en": "v fill with terror; frighten greatly\\ns thrown into a state of intense fear or desperation",
+    "definition_zh": "a. 受惊吓的；感到恐惧的",
+    "frq": 9546,
+    "composite_rank": 12410,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of terrified during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的受惊吓的。"
+      },
+      {
+        "en": "Learning to express terrified constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达受惊吓的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "afflict",
     "word": "afflict",
     "part_of_speech": "noun",
@@ -3696,6 +3896,31 @@
       {
         "en": "Learning to express afflict constructively is key to emotional maturity.",
         "zh": "学会建设性地表达使苦恼是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "remorse",
+    "word": "remorse",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/ri'mɒ:s/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=remorse&type=2",
+    "definition_en": "n a feeling of deep regret (usually for some misdeed)",
+    "definition_zh": "n. 懊悔, 良心不安, 自责, 同情； 悔恨, 自责, 懊悔",
+    "frq": 10471,
+    "composite_rank": 12523,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of remorse during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的懊悔。"
+      },
+      {
+        "en": "Learning to express remorse constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达懊悔是情绪走向成熟的关键。"
       }
     ]
   },
@@ -3725,27 +3950,27 @@
     ]
   },
   {
-    "id": "nostalgia",
-    "word": "nostalgia",
+    "id": "rave",
+    "word": "rave",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/nɒs'tældʒiә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nostalgia&type=2",
-    "definition_en": "n. longing for something past",
-    "definition_zh": "n. 乡愁, 向往过去, 怀旧之情； 怀乡病",
-    "frq": 8085,
-    "composite_rank": 12645,
-    "badge": "normal",
+    "phonetic": "/reiv/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rave&type=2",
+    "definition_en": "n. a dance party that lasts all night and electronically synthesized music is played\\nn. an extravagantly enthusiastic review\\nv. participate in an all-night techno dance party\\nv. praise enthusiastically",
+    "definition_zh": "n. 狂吼, 狂暴； v. 愤怒地说, 叫嚷, 咆哮",
+    "frq": 11575,
+    "composite_rank": 12640,
+    "badge": "high",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of nostalgia during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的乡愁。"
+        "en": "His expressive face revealed a genuine sense of rave during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的狂吼。"
       },
       {
-        "en": "Learning to express nostalgia constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达乡愁是情绪走向成熟的关键。"
+        "en": "Learning to express rave constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达狂吼是情绪走向成熟的关键。"
       }
     ]
   },
@@ -3775,6 +4000,56 @@
     ]
   },
   {
+    "id": "ambivalent",
+    "word": "ambivalent",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/æm'bivәlәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ambivalent&type=2",
+    "definition_en": "s. uncertain or unable to decide about what course to follow",
+    "definition_zh": "a. 矛盾的, 模棱两可的； 矛盾情绪的",
+    "frq": 10693,
+    "composite_rank": 12789,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of ambivalent during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的矛盾的。"
+      },
+      {
+        "en": "Learning to express ambivalent constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达矛盾的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "ambivalence",
+    "word": "ambivalence",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/æm'bivәlәns/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ambivalence&type=2",
+    "definition_en": "n. mixed feelings or emotions",
+    "definition_zh": "n. 矛盾情绪； 矛盾情绪(两种情感互相冲突)",
+    "frq": 9873,
+    "composite_rank": 12835,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of ambivalence during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的矛盾情绪。"
+      },
+      {
+        "en": "Learning to express ambivalence constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达矛盾情绪是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "flatter",
     "word": "flatter",
     "part_of_speech": "noun",
@@ -3796,6 +4071,56 @@
       {
         "en": "Learning to express flatter constructively is key to emotional maturity.",
         "zh": "学会建设性地表达奉承是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "dampen",
+    "word": "dampen",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'dæmpәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dampen&type=2",
+    "definition_en": "v. reduce the amplitude (of oscillations or waves)\\nv. make vague or obscure or make (an image) less visible\\nv. check; keep in check (a fire)\\nv. lessen in force or effect",
+    "definition_zh": "vt. 弄湿, 使沮丧； vi. 变湿, 丧气",
+    "frq": 10919,
+    "composite_rank": 13059,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of dampen during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的弄湿。"
+      },
+      {
+        "en": "Learning to express dampen constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达弄湿是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "hideous",
+    "word": "hideous",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'hidiәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hideous&type=2",
+    "definition_en": "s. grossly offensive to decency or morality; causing horror\\ns. so extremely ugly as to be terrifying",
+    "definition_zh": "a. 丑恶的, 可憎的, 令人沮丧的",
+    "frq": 10934,
+    "composite_rank": 13077,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of hideous during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的丑恶的。"
+      },
+      {
+        "en": "Learning to express hideous constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达丑恶的是情绪走向成熟的关键。"
       }
     ]
   },
@@ -3825,27 +4150,27 @@
     ]
   },
   {
-    "id": "gloom",
-    "word": "gloom",
+    "id": "laden",
+    "word": "laden",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/glu:m/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gloom&type=2",
-    "definition_en": "n. a state of partial or total darkness\\nn. a feeling of melancholy apprehension\\nn. an atmosphere of depression and melancholy",
-    "definition_zh": "n. 忧郁, 暗处, 幽暗； vi. 变忧沉, 变黑暗； vt. 使忧郁, 使黑暗",
-    "frq": 9432,
-    "composite_rank": 13469,
-    "badge": "high",
+    "phonetic": "/'leidn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=laden&type=2",
+    "definition_en": "s. filled with a great quantity\\ns. burdened psychologically or mentally",
+    "definition_zh": "a. 装满的, 负载的, 苦恼的； lade的过去分词",
+    "frq": 11041,
+    "composite_rank": 13205,
+    "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of gloom during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的忧郁。"
+        "en": "His expressive face revealed a genuine sense of laden during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的装满的。"
       },
       {
-        "en": "Learning to express gloom constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达忧郁是情绪走向成熟的关键。"
+        "en": "Learning to express laden constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达装满的是情绪走向成熟的关键。"
       }
     ]
   },
@@ -3875,31 +4200,6 @@
     ]
   },
   {
-    "id": "nervousness",
-    "word": "nervousness",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/nervousness/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nervousness&type=2",
-    "definition_en": "n. an uneasy psychological state\\nn. a sensitive or highly strung temperament",
-    "definition_zh": "n. 神经, 神经元, 易激动, 紧张不安, 神经过敏, 神经质, 担忧, 害怕, 简练, 刚劲； 神经过敏",
-    "frq": 13680,
-    "composite_rank": 13680,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of nervousness during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的神经。"
-      },
-      {
-        "en": "Learning to express nervousness constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达神经是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "humiliating",
     "word": "humiliating",
     "part_of_speech": "noun",
@@ -3925,102 +4225,227 @@
     ]
   },
   {
-    "id": "terrifying",
-    "word": "terrifying",
+    "id": "gladly",
+    "word": "gladly",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'tәrifaiiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=terrifying&type=2",
-    "definition_en": "v fill with terror; frighten greatly\\ns causing extreme terror",
-    "definition_zh": "a. 令人恐惧的；骇人的；极大的",
-    "frq": 8585,
-    "composite_rank": 14594,
+    "phonetic": "/'glædli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gladly&type=2",
+    "definition_en": "r. in a willing manner",
+    "definition_zh": "adv. 高兴地, 乐意地, 欢喜地",
+    "frq": 10981,
+    "composite_rank": 14275,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of terrifying during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的令人恐惧的。"
+        "en": "His expressive face revealed a genuine sense of gladly during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的高兴地。"
       },
       {
-        "en": "Learning to express terrifying constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达令人恐惧的是情绪走向成熟的关键。"
+        "en": "Learning to express gladly constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达高兴地是情绪走向成熟的关键。"
       }
     ]
   },
   {
-    "id": "ecstasy",
-    "word": "ecstasy",
+    "id": "suspense",
+    "word": "suspense",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'ekstәsi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ecstasy&type=2",
-    "definition_en": "n. a state of being carried away by overwhelming emotion\\nn. a state of elated bliss",
-    "definition_zh": "n. 狂喜, 心醉神迷, 忘形； 入迷",
-    "frq": 9422,
-    "composite_rank": 14736,
+    "phonetic": "/sә'spens/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=suspense&type=2",
+    "definition_en": "n. apprehension about what is going to happen\\nn. an uncertain cognitive state\\nn. excited anticipation of an approaching climax",
+    "definition_zh": "n. 悬疑, 焦虑, 悬念, 悬而不决； 未定, 暂记",
+    "frq": 12056,
+    "composite_rank": 14419,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of ecstasy during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的狂喜。"
+        "en": "His expressive face revealed a genuine sense of suspense during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的悬疑。"
       },
       {
-        "en": "Learning to express ecstasy constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达狂喜是情绪走向成熟的关键。"
+        "en": "Learning to express suspense constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达悬疑是情绪走向成熟的关键。"
       }
     ]
   },
   {
-    "id": "dismal",
-    "word": "dismal",
+    "id": "joyous",
+    "word": "joyous",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'dizmәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dismal&type=2",
-    "definition_en": "s causing dejection",
-    "definition_zh": "a. 阴沉的, 凄凉的, 令人忧郁的； n. 低落的情绪, 沼泽",
-    "frq": 9459,
-    "composite_rank": 14794,
+    "phonetic": "/'dʒɒiәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=joyous&type=2",
+    "definition_en": "a. full of or characterized by joy",
+    "definition_zh": "a. 快乐的, 高兴的",
+    "frq": 12213,
+    "composite_rank": 14607,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of dismal during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的低落的情绪。"
+        "en": "His expressive face revealed a genuine sense of joyous during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的快乐的。"
       },
       {
-        "en": "Learning to express dismal constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达低落的情绪是情绪走向成熟的关键。"
+        "en": "Learning to express joyous constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达快乐的是情绪走向成熟的关键。"
       }
     ]
   },
   {
-    "id": "touching",
-    "word": "touching",
+    "id": "exuberant",
+    "word": "exuberant",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'tʌtʃiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=touching&type=2",
-    "definition_en": "n the event of something coming in contact with the body\\nn the act of putting two things together with no space between them\\nv make physical contact with, come in contact with\\nv perceive via the tactile sense\\nv affect emotionally\\nv be relevant to\\nv be in direct physical contact with; make contact\\nv have an effect upon\\nv deal with; usually used with a form of negation\\nv cause to be in brief contact with\\nv to extend as far as\\nv be equal to in quality or ability\\nv tamper with\\nv make a more or less disguised reference to\\nv comprehend\\nv consume\\nv color lightly\\ns arousing affect",
-    "definition_zh": "a. 动人的, 令人同情的",
-    "frq": 9116,
+    "phonetic": "/ig'zju:bәrәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=exuberant&type=2",
+    "definition_en": "s. produced or growing in extreme abundance",
+    "definition_zh": "a. 繁茂的, 丰富的, 生气勃勃的； 生成过多的, 高度增生的",
+    "frq": 12368,
+    "composite_rank": 14792,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of exuberant during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的繁茂的。"
+      },
+      {
+        "en": "Learning to express exuberant constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达繁茂的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "placid",
+    "word": "placid",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'plæsid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=placid&type=2",
+    "definition_en": "s. (of a body of water) free from disturbance by heavy waves",
+    "definition_zh": "a. 平静的, 温和的, 沉着的, 平稳的",
+    "frq": 12548,
+    "composite_rank": 15007,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of placid during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的平静的。"
+      },
+      {
+        "en": "Learning to express placid constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达平静的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "pessimism",
+    "word": "pessimism",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'pesimizm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pessimism&type=2",
+    "definition_en": "n. the feeling that things will turn out badly\\nn. a general disposition to look on the dark side and to expect the worst in all things",
+    "definition_zh": "n. 悲观, 悲观情绪, 悲观主义； 悲观主义",
+    "frq": 12662,
+    "composite_rank": 15144,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of pessimism during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的悲观。"
+      },
+      {
+        "en": "Learning to express pessimism constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达悲观是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "pitiful",
+    "word": "pitiful",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'pitiful/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pitiful&type=2",
+    "definition_en": "s inspiring mixed contempt and pity\\ns bad; unfortunate\\ns deserving or inciting pity",
+    "definition_zh": "a. 慈悲的, 可怜的, 令人同情的, 可鄙的",
+    "frq": 12810,
+    "composite_rank": 15321,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of pitiful during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的慈悲的。"
+      },
+      {
+        "en": "Learning to express pitiful constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达慈悲的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "enrage",
+    "word": "enrage",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/in'reidʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=enrage&type=2",
+    "definition_en": "v. put into a rage; make violently angry",
+    "definition_zh": "vt. 激怒, 使暴怒",
+    "frq": 12957,
     "composite_rank": 15497,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of touching during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的动人的。"
+        "en": "His expressive face revealed a genuine sense of enrage during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的激怒。"
       },
       {
-        "en": "Learning to express touching constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达动人的是情绪走向成熟的关键。"
+        "en": "Learning to express enrage constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达激怒是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "thorny",
+    "word": "thorny",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'θɒ:ni/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=thorny&type=2",
+    "definition_en": "s. bristling with perplexities",
+    "definition_zh": "a. 多刺的, 令人苦恼的",
+    "frq": 13200,
+    "composite_rank": 15787,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of thorny during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的多刺的。"
+      },
+      {
+        "en": "Learning to express thorny constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达多刺的是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4050,27 +4475,77 @@
     ]
   },
   {
-    "id": "serene",
-    "word": "serene",
+    "id": "angst",
+    "word": "angst",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/si'ri:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=serene&type=2",
-    "definition_en": "s. completely clear and fine",
-    "definition_zh": "a. 宁静的, 沉着的, 安详的, 晴朗的； n. 晴朗, 平静",
-    "frq": 10132,
-    "composite_rank": 15846,
+    "phonetic": "/æŋst/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=angst&type=2",
+    "definition_en": "n. an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom",
+    "definition_zh": "n. 焦虑, 疑惧； 恐怖",
+    "frq": 13234,
+    "composite_rank": 15828,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of serene during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的晴朗。"
+        "en": "His expressive face revealed a genuine sense of angst during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的焦虑。"
       },
       {
-        "en": "Learning to express serene constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达晴朗是情绪走向成熟的关键。"
+        "en": "Learning to express angst constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达焦虑是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "lull",
+    "word": "lull",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/lʌl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lull&type=2",
+    "definition_en": "n. a period of calm weather\\nv. calm by deception\\nv. become quiet or less intensive",
+    "definition_zh": "n. 暂停, 间歇, 稍息, 使人安静的东西； vt. 使平静, 哄骗, 使安静； vi. 变平静",
+    "frq": 13314,
+    "composite_rank": 15924,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of lull during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的暂停。"
+      },
+      {
+        "en": "Learning to express lull constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达暂停是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "misgiving",
+    "word": "misgiving",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/mis'^iviŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=misgiving&type=2",
+    "definition_en": "n. doubt about someone's honesty",
+    "definition_zh": "n. 疑虑, 不安, 害怕, 担扰, 疑惧",
+    "frq": 13315,
+    "composite_rank": 15925,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of misgiving during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的疑虑。"
+      },
+      {
+        "en": "Learning to express misgiving constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达疑虑是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4096,6 +4571,81 @@
       {
         "en": "Learning to express funk constructively is key to emotional maturity.",
         "zh": "学会建设性地表达怯懦是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "indignation",
+    "word": "indignation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/.indig'neiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=indignation&type=2",
+    "definition_en": "n. a feeling of righteous anger",
+    "definition_zh": "n. 愤怒, 愤慨, 义愤",
+    "frq": 12282,
+    "composite_rank": 15967,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of indignation during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的愤怒。"
+      },
+      {
+        "en": "Learning to express indignation constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达愤怒是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "beset",
+    "word": "beset",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/bi'set/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=beset&type=2",
+    "definition_en": "v. assail or attack on all sides: \"The zebra was beset by leopards\"",
+    "definition_zh": "vt. 围绕, 使苦恼, 镶嵌",
+    "frq": 13356,
+    "composite_rank": 15974,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of beset during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的围绕。"
+      },
+      {
+        "en": "Learning to express beset constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达围绕是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "ruffle",
+    "word": "ruffle",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'rʌfl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ruffle&type=2",
+    "definition_en": "v. trouble or vex\\nv. discompose\\nv. erect or fluff up\\nv. disturb the smoothness of",
+    "definition_zh": "n. 皱褶, 波纹, 生气, 混乱； vt. 弄皱, 触怒, 洗(牌), 连续轻擂(鼓)； vi. 起皱, 发脾气, 连续轻擂",
+    "frq": 13470,
+    "composite_rank": 16110,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of ruffle during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的皱褶。"
+      },
+      {
+        "en": "Learning to express ruffle constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达皱褶是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4175,56 +4725,6 @@
     ]
   },
   {
-    "id": "remorse",
-    "word": "remorse",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/ri'mɒ:s/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=remorse&type=2",
-    "definition_en": "n a feeling of deep regret (usually for some misdeed)",
-    "definition_zh": "n. 懊悔, 良心不安, 自责, 同情； 悔恨, 自责, 懊悔",
-    "frq": 10471,
-    "composite_rank": 16377,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of remorse during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的懊悔。"
-      },
-      {
-        "en": "Learning to express remorse constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达懊悔是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "rave",
-    "word": "rave",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/reiv/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=rave&type=2",
-    "definition_en": "n. a dance party that lasts all night and electronically synthesized music is played\\nn. an extravagantly enthusiastic review\\nv. participate in an all-night techno dance party\\nv. praise enthusiastically",
-    "definition_zh": "n. 狂吼, 狂暴； v. 愤怒地说, 叫嚷, 咆哮",
-    "frq": 11575,
-    "composite_rank": 16529,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of rave during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的狂吼。"
-      },
-      {
-        "en": "Learning to express rave constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达狂吼是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "animation",
     "word": "animation",
     "part_of_speech": "noun",
@@ -4250,27 +4750,127 @@
     ]
   },
   {
-    "id": "dampen",
-    "word": "dampen",
+    "id": "impassioned",
+    "word": "impassioned",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'dæmpәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dampen&type=2",
-    "definition_en": "v. reduce the amplitude (of oscillations or waves)\\nv. make vague or obscure or make (an image) less visible\\nv. check; keep in check (a fire)\\nv. lessen in force or effect",
-    "definition_zh": "vt. 弄湿, 使沮丧； vi. 变湿, 丧气",
-    "frq": 10919,
-    "composite_rank": 17077,
+    "phonetic": "/im'pæʃәnd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=impassioned&type=2",
+    "definition_en": "s characterized by intense emotion",
+    "definition_zh": "a. 充满激情的, 狂热的, 热烈的",
+    "frq": 13977,
+    "composite_rank": 16716,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of dampen during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的弄湿。"
+        "en": "His expressive face revealed a genuine sense of impassioned during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的充满激情的。"
       },
       {
-        "en": "Learning to express dampen constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达弄湿是情绪走向成熟的关键。"
+        "en": "Learning to express impassioned constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达充满激情的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "agitation",
+    "word": "agitation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/.ædʒi'teiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=agitation&type=2",
+    "definition_en": "n. a mental state of extreme emotional disturbance\\nn. a state of agitation or turbulent change or development\\nn. the feeling of being agitated; not calm",
+    "definition_zh": "n. 激动, 焦虑, 煽动, 搅动, 摇动； 搅拌; 搅拌作用",
+    "frq": 12905,
+    "composite_rank": 16776,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of agitation during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的激动。"
+      },
+      {
+        "en": "Learning to express agitation constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达激动是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "grudge",
+    "word": "grudge",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/grʌdʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=grudge&type=2",
+    "definition_en": "n. a resentment strong enough to justify retaliation\\nv. accept or admit unwillingly",
+    "definition_zh": "n. 怨恨, 恶意； vt. 怀恨, 嫉妒, 吝惜",
+    "frq": 14032,
+    "composite_rank": 16782,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of grudge during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的怨恨。"
+      },
+      {
+        "en": "Learning to express grudge constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达怨恨是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "resentful",
+    "word": "resentful",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/ri'zentful/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=resentful&type=2",
+    "definition_en": "a. full of or marked by resentment or indignant ill will",
+    "definition_zh": "a. 岔恨的, 易怨恨的, 不满的, 显然不满的",
+    "frq": 14259,
+    "composite_rank": 17054,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of resentful during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的岔恨的。"
+      },
+      {
+        "en": "Learning to express resentful constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达岔恨的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "pleasurable",
+    "word": "pleasurable",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'pleʒәrәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pleasurable&type=2",
+    "definition_en": "s affording satisfaction or pleasure",
+    "definition_zh": "a. 快乐的, 愉快的, 舒适的, 心情舒畅的",
+    "frq": 14379,
+    "composite_rank": 17197,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of pleasurable during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的快乐的。"
+      },
+      {
+        "en": "Learning to express pleasurable constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达快乐的是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4300,6 +4900,31 @@
     ]
   },
   {
+    "id": "pretension",
+    "word": "pretension",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/pri'tenʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pretension&type=2",
+    "definition_en": "n. a false or unsupportable quality\\nn. the advancing of a claim",
+    "definition_zh": "n. 自负, 骄傲, 主张",
+    "frq": 14551,
+    "composite_rank": 17403,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of pretension during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的自负。"
+      },
+      {
+        "en": "Learning to express pretension constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达自负是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "vex",
     "word": "vex",
     "part_of_speech": "noun",
@@ -4321,31 +4946,6 @@
       {
         "en": "Learning to express vex constructively is key to emotional maturity.",
         "zh": "学会建设性地表达使烦恼是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "feared",
-    "word": "feared",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/fiəd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=feared&type=2",
-    "definition_en": "v be afraid or feel anxious or apprehensive about a possible or probable situation or event\\nv be afraid or scared of; be frightened of\\nv be sorry; used to introduce an unpleasant statement\\nv be uneasy or apprehensive about\\nv regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of",
-    "definition_zh": "v. 畏惧( fear的过去式和过去分词 ); 为…忧虑（或担心、焦虑）; 敬畏（神等）; 感到害怕",
-    "frq": 17669,
-    "composite_rank": 17669,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of feared during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的畏惧。"
-      },
-      {
-        "en": "Learning to express feared constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达畏惧是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4375,77 +4975,152 @@
     ]
   },
   {
-    "id": "overjoyed",
-    "word": "overjoyed",
+    "id": "nervousness",
+    "word": "nervousness",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/әjvә'dʒɔid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=overjoyed&type=2",
-    "definition_en": "s. extremely joyful",
-    "definition_zh": "a. 狂喜的, 非常高兴的",
-    "frq": 18676,
-    "composite_rank": 18676,
+    "phonetic": "/nervousness/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nervousness&type=2",
+    "definition_en": "n. an uneasy psychological state\\nn. a sensitive or highly strung temperament",
+    "definition_zh": "n. 神经, 神经元, 易激动, 紧张不安, 神经过敏, 神经质, 担忧, 害怕, 简练, 刚劲； 神经过敏",
+    "frq": 13680,
+    "composite_rank": 17784,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of overjoyed during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的狂喜的。"
+        "en": "His expressive face revealed a genuine sense of nervousness during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的神经。"
       },
       {
-        "en": "Learning to express overjoyed constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达狂喜的是情绪走向成熟的关键。"
+        "en": "Learning to express nervousness constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达神经是情绪走向成熟的关键。"
       }
     ]
   },
   {
-    "id": "exuberant",
-    "word": "exuberant",
+    "id": "forlorn",
+    "word": "forlorn",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/ig'zju:bәrәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=exuberant&type=2",
-    "definition_en": "s. produced or growing in extreme abundance",
-    "definition_zh": "a. 繁茂的, 丰富的, 生气勃勃的； 生成过多的, 高度增生的",
-    "frq": 12368,
-    "composite_rank": 19344,
+    "phonetic": "/fә'lɒ:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=forlorn&type=2",
+    "definition_en": "s. marked by or showing hopelessness",
+    "definition_zh": "a. 孤独的, 悲惨的, 凄凉的",
+    "frq": 14953,
+    "composite_rank": 17884,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of exuberant during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的繁茂的。"
+        "en": "His expressive face revealed a genuine sense of forlorn during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的孤独的。"
       },
       {
-        "en": "Learning to express exuberant constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达繁茂的是情绪走向成熟的关键。"
+        "en": "Learning to express forlorn constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达孤独的是情绪走向成熟的关键。"
       }
     ]
   },
   {
-    "id": "placid",
-    "word": "placid",
+    "id": "envious",
+    "word": "envious",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'plæsid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=placid&type=2",
-    "definition_en": "s. (of a body of water) free from disturbance by heavy waves",
-    "definition_zh": "a. 平静的, 温和的, 沉着的, 平稳的",
-    "frq": 12548,
-    "composite_rank": 19625,
+    "phonetic": "/'enviәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=envious&type=2",
+    "definition_en": "s showing extreme cupidity; painfully desirous of another's advantages",
+    "definition_zh": "a. 嫉妒的, 羡慕的",
+    "frq": 15366,
+    "composite_rank": 18378,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of placid during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的平静的。"
+        "en": "His expressive face revealed a genuine sense of envious during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的嫉妒的。"
       },
       {
-        "en": "Learning to express placid constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达平静的是情绪走向成熟的关键。"
+        "en": "Learning to express envious constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达嫉妒的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "horrific",
+    "word": "horrific",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/hɒ'rifik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=horrific&type=2",
+    "definition_en": "s grossly offensive to decency or morality; causing horror\\ns causing fear or dread or terror",
+    "definition_zh": "a. 令人毛骨悚然的, 感到恐惧的",
+    "frq": 9137,
+    "composite_rank": 18493,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of horrific during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的令人毛骨悚然的。"
+      },
+      {
+        "en": "Learning to express horrific constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达令人毛骨悚然的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "laughing",
+    "word": "laughing",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'lɑ:fiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=laughing&type=2",
+    "definition_en": "s. showing or feeling mirth or pleasure or happiness",
+    "definition_zh": "a. 一笑置之的, 高兴的； n. 笑",
+    "frq": 14892,
+    "composite_rank": 19360,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of laughing during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的笑。"
+      },
+      {
+        "en": "Learning to express laughing constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达笑是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "tranquility",
+    "word": "tranquility",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/.træŋ'kwiliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tranquility&type=2",
+    "definition_en": "n a disposition free from stress or emotion\\nn an untroubled state; free from disturbances\\nn a state of peace and quiet",
+    "definition_zh": "n. 宁静",
+    "frq": 15014,
+    "composite_rank": 19518,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of tranquility during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的宁静。"
+      },
+      {
+        "en": "Learning to express tranquility constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达宁静是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4471,6 +5146,31 @@
       {
         "en": "Learning to express displease constructively is key to emotional maturity.",
         "zh": "学会建设性地表达使不愉快是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "ferocity",
+    "word": "ferocity",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/fә'rɒsiti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ferocity&type=2",
+    "definition_en": "n. the property of being wild or turbulent",
+    "definition_zh": "n. 凶猛, 残忍, 狂暴的行为",
+    "frq": 15993,
+    "composite_rank": 20791,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of ferocity during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的凶猛。"
+      },
+      {
+        "en": "Learning to express ferocity constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达凶猛是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4550,77 +5250,27 @@
     ]
   },
   {
-    "id": "calmness",
-    "word": "calmness",
+    "id": "revitalize",
+    "word": "revitalize",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'kɑ:mnis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=calmness&type=2",
-    "definition_en": "n. an absence of strong winds or rain\\nn. a feeling of calm; an absence of agitation or excitement",
-    "definition_zh": "n. 平静, 镇静, 冷静",
-    "frq": 21340,
-    "composite_rank": 21340,
+    "phonetic": "/.ri:'vaitәlaiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=revitalize&type=2",
+    "definition_en": "v. give new life or vigor to",
+    "definition_zh": "vt. 使恢复生气, 使复活, 使复兴",
+    "frq": 10590,
+    "composite_rank": 21434,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of calmness during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的平静。"
+        "en": "His expressive face revealed a genuine sense of revitalize during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的使恢复生气。"
       },
       {
-        "en": "Learning to express calmness constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达平静是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "pleasurable",
-    "word": "pleasurable",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'pleʒәrәbl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pleasurable&type=2",
-    "definition_en": "s affording satisfaction or pleasure",
-    "definition_zh": "a. 快乐的, 愉快的, 舒适的, 心情舒畅的",
-    "frq": 14379,
-    "composite_rank": 22489,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of pleasurable during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的快乐的。"
-      },
-      {
-        "en": "Learning to express pleasurable constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达快乐的是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "forlorn",
-    "word": "forlorn",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/fә'lɒ:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=forlorn&type=2",
-    "definition_en": "s. marked by or showing hopelessness",
-    "definition_zh": "a. 孤独的, 悲惨的, 凄凉的",
-    "frq": 14953,
-    "composite_rank": 23386,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of forlorn during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的孤独的。"
-      },
-      {
-        "en": "Learning to express forlorn constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达孤独的是情绪走向成熟的关键。"
+        "en": "Learning to express revitalize constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达使恢复生气是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4675,31 +5325,6 @@
     ]
   },
   {
-    "id": "tranquility",
-    "word": "tranquility",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/.træŋ'kwiliti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tranquility&type=2",
-    "definition_en": "n a disposition free from stress or emotion\\nn an untroubled state; free from disturbances\\nn a state of peace and quiet",
-    "definition_zh": "n. 宁静",
-    "frq": 15014,
-    "composite_rank": 25524,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of tranquility during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的宁静。"
-      },
-      {
-        "en": "Learning to express tranquility constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达宁静是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "glee",
     "word": "glee",
     "part_of_speech": "noun",
@@ -4725,52 +5350,52 @@
     ]
   },
   {
-    "id": "angst",
-    "word": "angst",
+    "id": "harry",
+    "word": "harry",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/æŋst/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=angst&type=2",
-    "definition_en": "n. an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom",
-    "definition_zh": "n. 焦虑, 疑惧； 恐怖",
-    "frq": 13234,
-    "composite_rank": 26786,
+    "phonetic": "/'hæri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=harry&type=2",
+    "definition_en": "v. make a pillaging or destructive raid on (a place), as in wartimes",
+    "definition_zh": "vt. 掠夺, 使苦恼, 强使前行, 折磨, 骚扰",
+    "frq": 17022,
+    "composite_rank": 26622,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of angst during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的焦虑。"
+        "en": "His expressive face revealed a genuine sense of harry during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的掠夺。"
       },
       {
-        "en": "Learning to express angst constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达焦虑是情绪走向成熟的关键。"
+        "en": "Learning to express harry constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达掠夺是情绪走向成熟的关键。"
       }
     ]
   },
   {
-    "id": "fulfilling",
-    "word": "fulfilling",
+    "id": "grumpy",
+    "word": "grumpy",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/fulfilling/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=fulfilling&type=2",
-    "definition_en": "v put in effect\\nv fill or meet a want or need\\nv meet the requirements or expectations of\\nv put in effect\\nv meet the requirements or expectations of\\nv fill or meet a want or need",
-    "definition_zh": "a. 能实现个人抱负的；令人高兴的；令人满意的",
-    "frq": 20865,
-    "composite_rank": 27124,
+    "phonetic": "/'grʌmpi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=grumpy&type=2",
+    "definition_en": "s annoyed and irritable",
+    "definition_zh": "a. 性情乖戾的, 脾气暴躁的, 生气的",
+    "frq": 17444,
+    "composite_rank": 27282,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of fulfilling during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的能实现个人抱负的。"
+        "en": "His expressive face revealed a genuine sense of grumpy during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的性情乖戾的。"
       },
       {
-        "en": "Learning to express fulfilling constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达能实现个人抱负的是情绪走向成熟的关键。"
+        "en": "Learning to express grumpy constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达性情乖戾的是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4825,27 +5450,77 @@
     ]
   },
   {
-    "id": "jealously",
-    "word": "jealously",
+    "id": "spleen",
+    "word": "spleen",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/jealously/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=jealously&type=2",
-    "definition_en": "r. with jealousy",
-    "definition_zh": "adv. 嫉妒, 羡慕, 留心, 戒备",
-    "frq": 22042,
-    "composite_rank": 28655,
+    "phonetic": "/spli:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spleen&type=2",
+    "definition_en": "n. a large dark-red oval organ on the left side of the body between the stomach and the diaphragm; produces cells involved in immune responses",
+    "definition_zh": "n. 脾脏, 坏脾气, 怨恨； 脾",
+    "frq": 18619,
+    "composite_rank": 29120,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of jealously during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的嫉妒。"
+        "en": "His expressive face revealed a genuine sense of spleen during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的脾脏。"
       },
       {
-        "en": "Learning to express jealously constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达嫉妒是情绪走向成熟的关键。"
+        "en": "Learning to express spleen constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达脾脏是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "pacify",
+    "word": "pacify",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'pæsifai/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pacify&type=2",
+    "definition_en": "v. cause to be more favorably inclined; gain the good will of\\nv. fight violence and try to establish peace in (a location)",
+    "definition_zh": "vt. 使平静, 安慰, 绥靖, 使服从",
+    "frq": 18896,
+    "composite_rank": 29553,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of pacify during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的使平静。"
+      },
+      {
+        "en": "Learning to express pacify constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达使平静是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "plaintive",
+    "word": "plaintive",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'pleintiv/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=plaintive&type=2",
+    "definition_en": "s expressing sorrow",
+    "definition_zh": "a. 悲哀的, 哀伤的, 伤心的, 表示痛苦的",
+    "frq": 19048,
+    "composite_rank": 29791,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of plaintive during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的悲哀的。"
+      },
+      {
+        "en": "Learning to express plaintive constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达悲哀的是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4900,6 +5575,31 @@
     ]
   },
   {
+    "id": "feared",
+    "word": "feared",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/fiəd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=feared&type=2",
+    "definition_en": "v be afraid or feel anxious or apprehensive about a possible or probable situation or event\\nv be afraid or scared of; be frightened of\\nv be sorry; used to introduce an unpleasant statement\\nv be uneasy or apprehensive about\\nv regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of",
+    "definition_zh": "v. 畏惧( fear的过去式和过去分词 ); 为…忧虑（或担心、焦虑）; 敬畏（神等）; 感到害怕",
+    "frq": 17669,
+    "composite_rank": 30037,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of feared during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的畏惧。"
+      },
+      {
+        "en": "Learning to express feared constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达畏惧是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "droop",
     "word": "droop",
     "part_of_speech": "noun",
@@ -4925,27 +5625,27 @@
     ]
   },
   {
-    "id": "hearts",
-    "word": "hearts",
+    "id": "overjoyed",
+    "word": "overjoyed",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/hearts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hearts&type=2",
-    "definition_en": "n. a form of whist in which players avoid winning tricks containing hearts or the queen of spades",
-    "definition_zh": "n. 心；中心；内心；同情心；心形物（heart的复数）",
-    "frq": 47370,
-    "composite_rank": 30790,
-    "badge": "core",
+    "phonetic": "/әjvә'dʒɔid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=overjoyed&type=2",
+    "definition_en": "s. extremely joyful",
+    "definition_zh": "a. 狂喜的, 非常高兴的",
+    "frq": 18676,
+    "composite_rank": 31749,
+    "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of hearts during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的心。"
+        "en": "His expressive face revealed a genuine sense of overjoyed during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的狂喜的。"
       },
       {
-        "en": "Learning to express hearts constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达心是情绪走向成熟的关键。"
+        "en": "Learning to express overjoyed constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达狂喜的是情绪走向成熟的关键。"
       }
     ]
   },
@@ -4971,131 +5671,6 @@
       {
         "en": "Learning to express lethargic constructively is key to emotional maturity.",
         "zh": "学会建设性地表达昏睡的是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "enjoyed",
-    "word": "enjoyed",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/ɪn'dʒɔɪd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=enjoyed&type=2",
-    "definition_en": "imp. & p. p. of Enjoy",
-    "definition_zh": "v. 享有（ enjoy的过去式和过去分词 ）; 玩得快乐; 喜欢",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of enjoyed during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的享有。"
-      },
-      {
-        "en": "Learning to express enjoyed constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达享有是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "enjoying",
-    "word": "enjoying",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/end'ʒɔɪɪŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=enjoying&type=2",
-    "definition_en": "p. pr. & vb. n. of Enjoy",
-    "definition_zh": "v. 享有( enjoy的现在分词 ); 玩得快乐; 喜欢; enjoy yourself （祝愿时说）玩痛快些",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of enjoying during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的享有。"
-      },
-      {
-        "en": "Learning to express enjoying constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达享有是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "enjoys",
-    "word": "enjoys",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/inˈdʒɔiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=enjoys&type=2",
-    "definition_en": "v derive or receive pleasure from; get enjoyment from; take pleasure in\\nv have benefit from\\nv get pleasure from\\nv have for one's benefit\\nv take delight in",
-    "definition_zh": "v. 享有( enjoy的第三人称单数 ); 玩得快乐; 喜欢; enjoy yourself （祝愿时说）玩痛快些",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of enjoys during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的享有。"
-      },
-      {
-        "en": "Learning to express enjoys constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达享有是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "feelings",
-    "word": "feelings",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/feelings/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=feelings&type=2",
-    "definition_en": "n. emotional or moral sensitivity (especially in relation to personal principles or dignity)",
-    "definition_zh": "n. 感情, 情绪, 心情, 情感",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of feelings during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的感情。"
-      },
-      {
-        "en": "Learning to express feelings constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达感情是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "happier",
-    "word": "happier",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/happier/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=happier&type=2",
-    "definition_en": "a enjoying or showing or marked by joy or pleasure\\ns marked by good fortune\\ns eagerly disposed to act or to be of service\\ns well expressed and to the point",
-    "definition_zh": "a. 更快乐的, 更幸福的",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of happier during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的更快乐的。"
-      },
-      {
-        "en": "Learning to express happier constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达更快乐的是情绪走向成熟的关键。"
       }
     ]
   },
@@ -5175,31 +5750,6 @@
     ]
   },
   {
-    "id": "cheerfulness",
-    "word": "cheerfulness",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'tʃiәfulnis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cheerfulness&type=2",
-    "definition_en": "n. the quality of being cheerful and dispelling gloom\\nn. a feeling of spontaneous good spirits",
-    "definition_zh": "n. 高兴, 快活",
-    "frq": 26277,
-    "composite_rank": 34160,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of cheerfulness during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的高兴。"
-      },
-      {
-        "en": "Learning to express cheerfulness constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达高兴是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
     "id": "glumly",
     "word": "glumly",
     "part_of_speech": "noun",
@@ -5250,27 +5800,77 @@
     ]
   },
   {
-    "id": "ferocity",
-    "word": "ferocity",
+    "id": "fulfilling",
+    "word": "fulfilling",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/fә'rɒsiti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ferocity&type=2",
-    "definition_en": "n. the property of being wild or turbulent",
-    "definition_zh": "n. 凶猛, 残忍, 狂暴的行为",
-    "frq": 15993,
-    "composite_rank": 35185,
+    "phonetic": "/fulfilling/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fulfilling&type=2",
+    "definition_en": "v put in effect\\nv fill or meet a want or need\\nv meet the requirements or expectations of\\nv put in effect\\nv meet the requirements or expectations of\\nv fill or meet a want or need",
+    "definition_zh": "a. 能实现个人抱负的；令人高兴的；令人满意的",
+    "frq": 20865,
+    "composite_rank": 35470,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of ferocity during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的凶猛。"
+        "en": "His expressive face revealed a genuine sense of fulfilling during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的能实现个人抱负的。"
       },
       {
-        "en": "Learning to express ferocity constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达凶猛是情绪走向成熟的关键。"
+        "en": "Learning to express fulfilling constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达能实现个人抱负的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "calmness",
+    "word": "calmness",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'kɑ:mnis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=calmness&type=2",
+    "definition_en": "n. an absence of strong winds or rain\\nn. a feeling of calm; an absence of agitation or excitement",
+    "definition_zh": "n. 平静, 镇静, 冷静",
+    "frq": 21340,
+    "composite_rank": 36278,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of calmness during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的平静。"
+      },
+      {
+        "en": "Learning to express calmness constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达平静是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "indignantly",
+    "word": "indignantly",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/in'dignәntli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=indignantly&type=2",
+    "definition_en": "r. in an indignant manner",
+    "definition_zh": "adv. 愤怒地",
+    "frq": 21572,
+    "composite_rank": 36672,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of indignantly during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的愤怒地。"
+      },
+      {
+        "en": "Learning to express indignantly constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达愤怒地是情绪走向成熟的关键。"
       }
     ]
   },
@@ -5400,6 +6000,106 @@
     ]
   },
   {
+    "id": "jealously",
+    "word": "jealously",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/jealously/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jealously&type=2",
+    "definition_en": "r. with jealousy",
+    "definition_zh": "adv. 嫉妒, 羡慕, 留心, 戒备",
+    "frq": 22042,
+    "composite_rank": 37471,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of jealously during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的嫉妒。"
+      },
+      {
+        "en": "Learning to express jealously constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达嫉妒是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "rue",
+    "word": "rue",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/ru:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rue&type=2",
+    "definition_en": "n. European strong-scented perennial herb with grey-green bitter-tasting leaves; an irritant similar to poison ivy\\nn. leaves sometimes used for flavoring fruit or claret cup but should be used with great caution: can cause irritation like poison ivy\\nn. (French) a street or road in France",
+    "definition_zh": "n. 懊悔, 后悔, 芸香； v. 后悔, 悲伤, 懊悔",
+    "frq": 22011,
+    "composite_rank": 40676,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of rue during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的懊悔。"
+      },
+      {
+        "en": "Learning to express rue constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达懊悔是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "rapturous",
+    "word": "rapturous",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'ræptʃәrәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rapturous&type=2",
+    "definition_en": "s feeling great rapture or delight",
+    "definition_zh": "a. 兴高采烈的, 狂喜的, 欢天喜地的",
+    "frq": 25127,
+    "composite_rank": 42716,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of rapturous during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的兴高采烈的。"
+      },
+      {
+        "en": "Learning to express rapturous constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达兴高采烈的是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "cheerfulness",
+    "word": "cheerfulness",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'tʃiәfulnis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cheerfulness&type=2",
+    "definition_en": "n. the quality of being cheerful and dispelling gloom\\nn. a feeling of spontaneous good spirits",
+    "definition_zh": "n. 高兴, 快活",
+    "frq": 26277,
+    "composite_rank": 44671,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of cheerfulness during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的高兴。"
+      },
+      {
+        "en": "Learning to express cheerfulness constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达高兴是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "unenviable",
     "word": "unenviable",
     "part_of_speech": "noun",
@@ -5475,27 +6175,27 @@
     ]
   },
   {
-    "id": "indignantly",
-    "word": "indignantly",
+    "id": "hearts",
+    "word": "hearts",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/in'dignәntli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=indignantly&type=2",
-    "definition_en": "r. in an indignant manner",
-    "definition_zh": "adv. 愤怒地",
-    "frq": 21572,
-    "composite_rank": 47458,
+    "phonetic": "/hearts/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hearts&type=2",
+    "definition_en": "n. a form of whist in which players avoid winning tricks containing hearts or the queen of spades",
+    "definition_zh": "n. 心；中心；内心；同情心；心形物（heart的复数）",
+    "frq": 47370,
+    "composite_rank": 47370,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of indignantly during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的愤怒地。"
+        "en": "His expressive face revealed a genuine sense of hearts during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的心。"
       },
       {
-        "en": "Learning to express indignantly constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达愤怒地是情绪走向成熟的关键。"
+        "en": "Learning to express hearts constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达心是情绪走向成熟的关键。"
       }
     ]
   },
@@ -5525,6 +6225,31 @@
     ]
   },
   {
+    "id": "nostalgically",
+    "word": "nostalgically",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/nɔˈstældʒɪkəlɪ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nostalgically&type=2",
+    "definition_en": "r. in a nostalgic manner",
+    "definition_zh": "adv. 怀乡地, 怀旧地, 恋旧地",
+    "frq": 28299,
+    "composite_rank": 48108,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of nostalgically during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的怀乡地。"
+      },
+      {
+        "en": "Learning to express nostalgically constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达怀乡地是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "remorseless",
     "word": "remorseless",
     "part_of_speech": "noun",
@@ -5550,27 +6275,102 @@
     ]
   },
   {
-    "id": "emotions",
-    "word": "emotions",
+    "id": "enjoyed",
+    "word": "enjoyed",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/emotions/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=emotions&type=2",
-    "definition_en": "n any strong feeling",
-    "definition_zh": "n. 情绪；情感（emotion的复数形式）",
+    "phonetic": "/ɪn'dʒɔɪd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=enjoyed&type=2",
+    "definition_en": "imp. & p. p. of Enjoy",
+    "definition_zh": "v. 享有（ enjoy的过去式和过去分词 ）; 玩得快乐; 喜欢",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of emotions during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的情绪。"
+        "en": "His expressive face revealed a genuine sense of enjoyed during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的享有。"
       },
       {
-        "en": "Learning to express emotions constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达情绪是情绪走向成熟的关键。"
+        "en": "Learning to express enjoyed constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达享有是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "enjoying",
+    "word": "enjoying",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/end'ʒɔɪɪŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=enjoying&type=2",
+    "definition_en": "p. pr. & vb. n. of Enjoy",
+    "definition_zh": "v. 享有( enjoy的现在分词 ); 玩得快乐; 喜欢; enjoy yourself （祝愿时说）玩痛快些",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of enjoying during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的享有。"
+      },
+      {
+        "en": "Learning to express enjoying constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达享有是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "enjoys",
+    "word": "enjoys",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/inˈdʒɔiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=enjoys&type=2",
+    "definition_en": "v derive or receive pleasure from; get enjoyment from; take pleasure in\\nv have benefit from\\nv get pleasure from\\nv have for one's benefit\\nv take delight in",
+    "definition_zh": "v. 享有( enjoy的第三人称单数 ); 玩得快乐; 喜欢; enjoy yourself （祝愿时说）玩痛快些",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of enjoys during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的享有。"
+      },
+      {
+        "en": "Learning to express enjoys constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达享有是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
+    "id": "euphorically",
+    "word": "euphorically",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/euphorically/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=euphorically&type=2",
+    "definition_en": "",
+    "definition_zh": "情绪高涨地； 心情愉快地； 心满意足地",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of euphorically during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的情绪高涨地。"
+      },
+      {
+        "en": "Learning to express euphorically constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达情绪高涨地是情绪走向成熟的关键。"
       }
     ]
   },
@@ -5600,77 +6400,52 @@
     ]
   },
   {
-    "id": "fears",
-    "word": "fears",
+    "id": "happier",
+    "word": "happier",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/fears/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=fears&type=2",
-    "definition_en": "n an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)\\nn an anxious feeling\\nn a feeling of profound respect for someone or something\\nv be afraid or feel anxious or apprehensive about a possible or probable situation or event\\nv be afraid or scared of; be frightened of\\nv be sorry; used to introduce an unpleasant statement\\nv be uneasy or apprehensive about\\nv regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of",
-    "definition_zh": "n. 恐惧；担心",
+    "phonetic": "/happier/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=happier&type=2",
+    "definition_en": "a enjoying or showing or marked by joy or pleasure\\ns marked by good fortune\\ns eagerly disposed to act or to be of service\\ns well expressed and to the point",
+    "definition_zh": "a. 更快乐的, 更幸福的",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of fears during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的恐惧。"
+        "en": "His expressive face revealed a genuine sense of happier during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的更快乐的。"
       },
       {
-        "en": "Learning to express fears constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达恐惧是情绪走向成熟的关键。"
+        "en": "Learning to express happier constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达更快乐的是情绪走向成熟的关键。"
       }
     ]
   },
   {
-    "id": "passions",
-    "word": "passions",
+    "id": "haughtily",
+    "word": "haughtily",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C1",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/'pæʃnz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=passions&type=2",
-    "definition_en": "n. a strong feeling or emotion\\nn. the trait of being intensely emotional\\nn. something that is desired intensely",
-    "definition_zh": "n. 激情( passion的复数形式 ); 爱情; 感情（与理智相对而言）; 爱好",
-    "frq": 50000,
-    "composite_rank": 50000,
+    "phonetic": "/'hɒ:tili/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=haughtily&type=2",
+    "definition_en": "r. in a haughty manner",
+    "definition_zh": "adv. 傲慢地, 骄傲地",
+    "frq": 30635,
+    "composite_rank": 52080,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of passions during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的激情。"
+        "en": "His expressive face revealed a genuine sense of haughtily during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的傲慢地。"
       },
       {
-        "en": "Learning to express passions constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达激情是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "rapturous",
-    "word": "rapturous",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'ræptʃәrәs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=rapturous&type=2",
-    "definition_en": "s feeling great rapture or delight",
-    "definition_zh": "a. 兴高采烈的, 狂喜的, 欢天喜地的",
-    "frq": 25127,
-    "composite_rank": 55279,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of rapturous during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的兴高采烈的。"
-      },
-      {
-        "en": "Learning to express rapturous constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达兴高采烈的是情绪走向成熟的关键。"
+        "en": "Learning to express haughtily constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达傲慢地是情绪走向成熟的关键。"
       }
     ]
   },
@@ -5700,6 +6475,31 @@
     ]
   },
   {
+    "id": "rapturously",
+    "word": "rapturously",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "人类情感与心境体验",
+    "category": "human_emotions",
+    "phonetic": "/'ræptʃərəslɪ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rapturously&type=2",
+    "definition_en": "r in an ecstatic manner",
+    "definition_zh": "adv. 兴高采烈地, 狂喜地",
+    "frq": 36461,
+    "composite_rank": 61984,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "His expressive face revealed a genuine sense of rapturously during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的兴高采烈地。"
+      },
+      {
+        "en": "Learning to express rapturously constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达兴高采烈地是情绪走向成熟的关键。"
+      }
+    ]
+  },
+  {
     "id": "sentimentally",
     "word": "sentimentally",
     "part_of_speech": "noun",
@@ -5721,81 +6521,6 @@
       {
         "en": "Learning to express sentimentally constructively is key to emotional maturity.",
         "zh": "学会建设性地表达富情感地是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "nostalgically",
-    "word": "nostalgically",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/nɔˈstældʒɪkəlɪ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nostalgically&type=2",
-    "definition_en": "r. in a nostalgic manner",
-    "definition_zh": "adv. 怀乡地, 怀旧地, 恋旧地",
-    "frq": 28299,
-    "composite_rank": 62258,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of nostalgically during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的怀乡地。"
-      },
-      {
-        "en": "Learning to express nostalgically constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达怀乡地是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "haughtily",
-    "word": "haughtily",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'hɒ:tili/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=haughtily&type=2",
-    "definition_en": "r. in a haughty manner",
-    "definition_zh": "adv. 傲慢地, 骄傲地",
-    "frq": 30635,
-    "composite_rank": 67397,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of haughtily during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的傲慢地。"
-      },
-      {
-        "en": "Learning to express haughtily constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达傲慢地是情绪走向成熟的关键。"
-      }
-    ]
-  },
-  {
-    "id": "rapturously",
-    "word": "rapturously",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "人类情感与心境体验",
-    "category": "human_emotions",
-    "phonetic": "/'ræptʃərəslɪ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=rapturously&type=2",
-    "definition_en": "r in an ecstatic manner",
-    "definition_zh": "adv. 兴高采烈地, 狂喜地",
-    "frq": 36461,
-    "composite_rank": 80214,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "His expressive face revealed a genuine sense of rapturously during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的兴高采烈地。"
-      },
-      {
-        "en": "Learning to express rapturously constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达兴高采烈地是情绪走向成熟的关键。"
       }
     ]
   },
@@ -5850,27 +6575,27 @@
     ]
   },
   {
-    "id": "euphorically",
-    "word": "euphorically",
+    "id": "doldrums",
+    "word": "doldrums",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "人类情感与心境体验",
     "category": "human_emotions",
-    "phonetic": "/euphorically/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=euphorically&type=2",
-    "definition_en": "",
-    "definition_zh": "情绪高涨地； 心情愉快地； 心满意足地",
+    "phonetic": "/'dɒldrәmz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=doldrums&type=2",
+    "definition_en": "n. a belt of calms and light winds between the northern and southern trade winds of the Atlantic and Pacific",
+    "definition_zh": "n. 忧郁, 赤道无风带",
     "frq": 50000,
-    "composite_rank": 110000,
+    "composite_rank": 101200,
     "badge": "normal",
     "examples": [
       {
-        "en": "His expressive face revealed a genuine sense of euphorically during the celebration.",
-        "zh": "庆祝活动中，他生动的面容流露出真切的情绪高涨地。"
+        "en": "His expressive face revealed a genuine sense of doldrums during the celebration.",
+        "zh": "庆祝活动中，他生动的面容流露出真切的忧郁。"
       },
       {
-        "en": "Learning to express euphorically constructively is key to emotional maturity.",
-        "zh": "学会建设性地表达情绪高涨地是情绪走向成熟的关键。"
+        "en": "Learning to express doldrums constructively is key to emotional maturity.",
+        "zh": "学会建设性地表达忧郁是情绪走向成熟的关键。"
       }
     ]
   }

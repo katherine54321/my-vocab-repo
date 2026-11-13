@@ -825,6 +825,31 @@
     ]
   },
   {
+    "id": "environmental",
+    "word": "environmental",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/in.vaiәrәn'mentәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=environmental&type=2",
+    "definition_en": "a. of or relating to the external conditions or surroundings\\na. concerned with the ecological effects of altering the environment",
+    "definition_zh": "a. 周围的, 环境的； 环境的, 环保的",
+    "frq": 819,
+    "composite_rank": 312,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new environmental.",
+        "zh": "项目团队根据新的周围的制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming environmental ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的周围的进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
     "id": "december",
     "word": "december",
     "part_of_speech": "noun",
@@ -996,31 +1021,6 @@
       {
         "en": "Planning around the upcoming date ensures efficient coordination for all members.",
         "zh": "围绕即将到来的日期进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "environmental",
-    "word": "environmental",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/in.vaiәrәn'mentәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=environmental&type=2",
-    "definition_en": "a. of or relating to the external conditions or surroundings\\na. concerned with the ecological effects of altering the environment",
-    "definition_zh": "a. 周围的, 环境的； 环境的, 环保的",
-    "frq": 819,
-    "composite_rank": 390,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new environmental.",
-        "zh": "项目团队根据新的周围的制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming environmental ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的周围的进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -1350,6 +1350,31 @@
     ]
   },
   {
+    "id": "stretch",
+    "word": "stretch",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/stretʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=stretch&type=2",
+    "definition_en": "n. a large and unbroken expanse or distance\\nn. a straightaway section of a racetrack\\nn. exercise designed to extend the limbs and muscles to their full extent\\nn. extension to or beyond the ordinary limit",
+    "definition_zh": "n. 伸展, 张开, 连绵, 一段路, 一段时间； a. 可伸缩的, 弹性的； vt. 伸展, 张开, 曲解, 使过度伸展； vi. 伸展, 延伸； 伸展",
+    "frq": 1915,
+    "composite_rank": 815,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new stretch.",
+        "zh": "项目团队根据新的伸展制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming stretch ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的伸展进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
     "id": "schedule",
     "word": "schedule",
     "part_of_speech": "noun",
@@ -1450,31 +1475,6 @@
     ]
   },
   {
-    "id": "stretch",
-    "word": "stretch",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/stretʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=stretch&type=2",
-    "definition_en": "n. a large and unbroken expanse or distance\\nn. a straightaway section of a racetrack\\nn. exercise designed to extend the limbs and muscles to their full extent\\nn. extension to or beyond the ordinary limit",
-    "definition_zh": "n. 伸展, 张开, 连绵, 一段路, 一段时间； a. 可伸缩的, 弹性的； vt. 伸展, 张开, 曲解, 使过度伸展； vi. 伸展, 延伸； 伸展",
-    "frq": 1915,
-    "composite_rank": 1019,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new stretch.",
-        "zh": "项目团队根据新的伸展制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming stretch ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的伸展进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
     "id": "routine",
     "word": "routine",
     "part_of_speech": "noun",
@@ -1496,6 +1496,31 @@
       {
         "en": "Planning around the upcoming routine ensures efficient coordination for all members.",
         "zh": "围绕即将到来的常规进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "era",
+    "word": "era",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'iәrә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=era&type=2",
+    "definition_en": "n. a period marked by distinctive character or reckoned from a fixed point or event\\nn. a major division of geological time; an era is usually divided into two or more periods",
+    "definition_zh": "n. 时代, 纪元, 时期",
+    "frq": 1884,
+    "composite_rank": 1145,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new era.",
+        "zh": "项目团队根据新的时代制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming era ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的时代进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -1575,6 +1600,31 @@
     ]
   },
   {
+    "id": "agenda",
+    "word": "agenda",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/ә'dʒendә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=agenda&type=2",
+    "definition_en": "n. a temporally organized plan for matters to be attended to\\nn. a list of matters to be taken up (as at a meeting)",
+    "definition_zh": "pl. 议程, 日常工作事项； 待议事件",
+    "frq": 2130,
+    "composite_rank": 1295,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new agenda.",
+        "zh": "项目团队根据新的议程制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming agenda ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的议程进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
     "id": "weekly",
     "word": "weekly",
     "part_of_speech": "noun",
@@ -1596,31 +1646,6 @@
       {
         "en": "Planning around the upcoming weekly ensures efficient coordination for all members.",
         "zh": "围绕即将到来的周刊进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "era",
-    "word": "era",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/'iәrә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=era&type=2",
-    "definition_en": "n. a period marked by distinctive character or reckoned from a fixed point or event\\nn. a major division of geological time; an era is usually divided into two or more periods",
-    "definition_zh": "n. 时代, 纪元, 时期",
-    "frq": 1884,
-    "composite_rank": 1432,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new era.",
-        "zh": "项目团队根据新的时代制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming era ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的时代进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -1700,27 +1725,27 @@
     ]
   },
   {
-    "id": "agenda",
-    "word": "agenda",
+    "id": "jan",
+    "word": "Jan",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/ә'dʒendә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=agenda&type=2",
-    "definition_en": "n. a temporally organized plan for matters to be attended to\\nn. a list of matters to be taken up (as at a meeting)",
-    "definition_zh": "pl. 议程, 日常工作事项； 待议事件",
-    "frq": 2130,
-    "composite_rank": 1619,
+    "phonetic": "/dʒæn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jan&type=2",
+    "definition_en": "n the first month of the year; begins 10 days after the winter solstice",
+    "definition_zh": "n. 一月",
+    "frq": 2032,
+    "composite_rank": 1707,
     "badge": "core",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new agenda.",
-        "zh": "项目团队根据新的议程制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new Jan.",
+        "zh": "项目团队根据新的一月制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming agenda ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的议程进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming Jan ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的一月进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -1750,31 +1775,6 @@
     ]
   },
   {
-    "id": "o'clock",
-    "word": "o'clock",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/ә'klɔk/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=o'clock&type=2",
-    "definition_en": "r. according to the clock",
-    "definition_zh": "n. ...点钟, 钟头",
-    "frq": 4064,
-    "composite_rank": 2008,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new o'clock.",
-        "zh": "项目团队根据新的点钟制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming o'clock ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的点钟进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
     "id": "interval",
     "word": "interval",
     "part_of_speech": "noun",
@@ -1800,6 +1800,56 @@
     ]
   },
   {
+    "id": "everyday",
+    "word": "everyday",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'evri'dei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=everyday&type=2",
+    "definition_en": "s. found in the ordinary course of events\\ns. commonplace and ordinary",
+    "definition_zh": "a. 每天的, 日常的, 平常的",
+    "frq": 3291,
+    "composite_rank": 2212,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new everyday.",
+        "zh": "项目团队根据新的每天的制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming everyday ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的每天的进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "aug",
+    "word": "Aug",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/aug/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aug&type=2",
+    "definition_en": "n the month following July and preceding September",
+    "definition_zh": "abbr. 八月（August）",
+    "frq": 2804,
+    "composite_rank": 2355,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new Aug.",
+        "zh": "项目团队根据新的八月制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming Aug ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的八月进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
     "id": "surrounding",
     "word": "surrounding",
     "part_of_speech": "noun",
@@ -1821,6 +1871,31 @@
       {
         "en": "Planning around the upcoming surrounding ensures efficient coordination for all members.",
         "zh": "围绕即将到来的环境进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "noon",
+    "word": "noon",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/nu:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=noon&type=2",
+    "definition_en": "n. the middle of the day",
+    "definition_zh": "n. 正午, 中午, 全盛期",
+    "frq": 3820,
+    "composite_rank": 2567,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new noon.",
+        "zh": "项目团队根据新的正午制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming noon ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的正午进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -1875,27 +1950,52 @@
     ]
   },
   {
-    "id": "everyday",
-    "word": "everyday",
+    "id": "dawn",
+    "word": "dawn",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/'evri'dei/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=everyday&type=2",
-    "definition_en": "s. found in the ordinary course of events\\ns. commonplace and ordinary",
-    "definition_zh": "a. 每天的, 日常的, 平常的",
-    "frq": 3291,
-    "composite_rank": 2764,
+    "phonetic": "/dɒ:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dawn&type=2",
+    "definition_en": "n. the first light of day\\nn. the earliest period\\nn. an opening time period\\nv. appear or develop",
+    "definition_zh": "n. 破晓, 黎明； vi. 破晓",
+    "frq": 4004,
+    "composite_rank": 2691,
     "badge": "high",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new everyday.",
-        "zh": "项目团队根据新的每天的制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new dawn.",
+        "zh": "项目团队根据新的破晓制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming everyday ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的每天的进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming dawn ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的破晓进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "instant",
+    "word": "instant",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'instәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=instant&type=2",
+    "definition_en": "s. in or of the present month",
+    "definition_zh": "n. 立即, 瞬间； a. 紧急的, 立即的, 即时的",
+    "frq": 4453,
+    "composite_rank": 2707,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new instant.",
+        "zh": "项目团队根据新的立即制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming instant ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的立即进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -1950,77 +2050,52 @@
     ]
   },
   {
-    "id": "noon",
-    "word": "noon",
+    "id": "o'clock",
+    "word": "o'clock",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/nu:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=noon&type=2",
-    "definition_en": "n. the middle of the day",
-    "definition_zh": "n. 正午, 中午, 全盛期",
-    "frq": 3820,
-    "composite_rank": 3209,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new noon.",
-        "zh": "项目团队根据新的正午制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming noon ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的正午进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "dawn",
-    "word": "dawn",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/dɒ:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dawn&type=2",
-    "definition_en": "n. the first light of day\\nn. the earliest period\\nn. an opening time period\\nv. appear or develop",
-    "definition_zh": "n. 破晓, 黎明； vi. 破晓",
-    "frq": 4004,
-    "composite_rank": 3363,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new dawn.",
-        "zh": "项目团队根据新的破晓制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming dawn ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的破晓进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "instant",
-    "word": "instant",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/'instәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=instant&type=2",
-    "definition_en": "s. in or of the present month",
-    "definition_zh": "n. 立即, 瞬间； a. 紧急的, 立即的, 即时的",
-    "frq": 4453,
-    "composite_rank": 3384,
+    "phonetic": "/ә'klɔk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=o'clock&type=2",
+    "definition_en": "r. according to the clock",
+    "definition_zh": "n. ...点钟, 钟头",
+    "frq": 4064,
+    "composite_rank": 3089,
     "badge": "core",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new instant.",
-        "zh": "项目团队根据新的立即制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new o'clock.",
+        "zh": "项目团队根据新的点钟制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming instant ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的立即进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming o'clock ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的点钟进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "timing",
+    "word": "timing",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'taimiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=timing&type=2",
+    "definition_en": "n. the time when something happens\\nn. the regulation of occurrence, pace, or coordination to achieve a desired effect (as in music, theater, athletics, mechanics)",
+    "definition_zh": "n. 时间选择, 时间测定, 定时, 调速； 定时器时钟",
+    "frq": 3808,
+    "composite_rank": 3199,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new timing.",
+        "zh": "项目团队根据新的时间选择制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming timing ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的时间选择进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -2050,27 +2125,27 @@
     ]
   },
   {
-    "id": "surroundings",
-    "word": "surroundings",
+    "id": "blink",
+    "word": "blink",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/sә'rajndiŋz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=surroundings&type=2",
-    "definition_en": "n the environmental condition\\nn the area in which something exists or lives\\nv extend on all sides of simultaneously; encircle\\nv envelop completely\\nv surround so as to force to give up\\nv surround with a wall in order to fortify",
-    "definition_zh": "n. 环境, 周围的事物； 环境",
-    "frq": 6249,
-    "composite_rank": 3674,
-    "badge": "core",
+    "phonetic": "/bliŋk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blink&type=2",
+    "definition_en": "n. a reflex that closes and opens the eyes rapidly\\nv. briefly shut the eyes",
+    "definition_zh": "vi. 眨眼, 闪亮； vt. 眨眼, 使闪亮； n. 眨眼, 瞬间, 闪光, 闪烁； 闪烁",
+    "frq": 4607,
+    "composite_rank": 3870,
+    "badge": "high",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new surroundings.",
-        "zh": "项目团队根据新的环境制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new blink.",
+        "zh": "项目团队根据新的眨眼制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming surroundings ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的环境进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming blink ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的眨眼进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -2175,31 +2250,6 @@
     ]
   },
   {
-    "id": "timing",
-    "word": "timing",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/'taimiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=timing&type=2",
-    "definition_en": "n. the time when something happens\\nn. the regulation of occurrence, pace, or coordination to achieve a desired effect (as in music, theater, athletics, mechanics)",
-    "definition_zh": "n. 时间选择, 时间测定, 定时, 调速； 定时器时钟",
-    "frq": 3808,
-    "composite_rank": 4158,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new timing.",
-        "zh": "项目团队根据新的时间选择制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming timing ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的时间选择进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
     "id": "duration",
     "word": "duration",
     "part_of_speech": "noun",
@@ -2221,6 +2271,31 @@
       {
         "en": "Planning around the upcoming duration ensures efficient coordination for all members.",
         "zh": "围绕即将到来的持续时间进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "worthwhile",
+    "word": "worthwhile",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'wә:θ'hwail/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=worthwhile&type=2",
+    "definition_en": "s. sufficiently valuable to justify the investment of time or interest",
+    "definition_zh": "a. 值得花时间的, 值得做的, 有真实价值的",
+    "frq": 6958,
+    "composite_rank": 4676,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new worthwhile.",
+        "zh": "项目团队根据新的值得花时间的制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming worthwhile ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的值得花时间的进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -2275,27 +2350,52 @@
     ]
   },
   {
-    "id": "blink",
-    "word": "blink",
+    "id": "tick",
+    "word": "tick",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/bliŋk/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=blink&type=2",
-    "definition_en": "n. a reflex that closes and opens the eyes rapidly\\nv. briefly shut the eyes",
-    "definition_zh": "vi. 眨眼, 闪亮； vt. 眨眼, 使闪亮； n. 眨眼, 瞬间, 闪光, 闪烁； 闪烁",
-    "frq": 4607,
-    "composite_rank": 5031,
+    "phonetic": "/tik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tick&type=2",
+    "definition_en": "n. a metallic tapping sound\\nn. any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals\\nn. a light mattress\\nv. make a sound like a clock or a timer",
+    "definition_zh": "n. 滴答声, 一瞬间, 壁虱, 褥套, 信用, 赊欠； vi. 滴答响, 活动； vt. 滴答地记录, 标记号于",
+    "frq": 7358,
+    "composite_rank": 4945,
     "badge": "high",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new blink.",
-        "zh": "项目团队根据新的眨眼制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new tick.",
+        "zh": "项目团队根据新的滴答声制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming blink ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的眨眼进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming tick ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的滴答声进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "seasonal",
+    "word": "seasonal",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'si:znәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=seasonal&type=2",
+    "definition_en": "a. occurring at or dependent on a particular season",
+    "definition_zh": "a. 季节的, 依照季节的, 周期性的； 季节性的, 季节的",
+    "frq": 6279,
+    "composite_rank": 5274,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new seasonal.",
+        "zh": "项目团队根据新的季节的制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming seasonal ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的季节的进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -2325,52 +2425,77 @@
     ]
   },
   {
-    "id": "worthwhile",
-    "word": "worthwhile",
+    "id": "weekday",
+    "word": "weekday",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/'wә:θ'hwail/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=worthwhile&type=2",
-    "definition_en": "s. sufficiently valuable to justify the investment of time or interest",
-    "definition_zh": "a. 值得花时间的, 值得做的, 有真实价值的",
-    "frq": 6958,
-    "composite_rank": 5845,
+    "phonetic": "/'wi:kdei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=weekday&type=2",
+    "definition_en": "n. any day except Sunday (and sometimes except Saturday)",
+    "definition_zh": "n. 周日, 平日； 工作日",
+    "frq": 8312,
+    "composite_rank": 6118,
     "badge": "high",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new worthwhile.",
-        "zh": "项目团队根据新的值得花时间的制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new weekday.",
+        "zh": "项目团队根据新的周日制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming worthwhile ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的值得花时间的进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming weekday ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的周日进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
   {
-    "id": "tick",
-    "word": "tick",
+    "id": "prolonged",
+    "word": "prolonged",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/tik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tick&type=2",
-    "definition_en": "n. a metallic tapping sound\\nn. any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals\\nn. a light mattress\\nv. make a sound like a clock or a timer",
-    "definition_zh": "n. 滴答声, 一瞬间, 壁虱, 褥套, 信用, 赊欠； vi. 滴答响, 活动； vt. 滴答地记录, 标记号于",
-    "frq": 7358,
-    "composite_rank": 6181,
+    "phonetic": "/prә'lɔŋd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=prolonged&type=2",
+    "definition_en": "v lengthen in time; cause to be or last longer\\nv lengthen or extend in duration or space\\ns relatively long in duration; tediously protracted\\ns drawn out or made longer spatially",
+    "definition_zh": "a. 延续的, 长时间的",
+    "frq": 7369,
+    "composite_rank": 6190,
     "badge": "high",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new tick.",
-        "zh": "项目团队根据新的滴答声制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new prolonged.",
+        "zh": "项目团队根据新的延续的制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming tick ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的滴答声进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming prolonged ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的延续的进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "gmt",
+    "word": "GMT",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/gmt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gmt&type=2",
+    "definition_en": "n the local time at the 0 meridian passing through Greenwich, England; it is the same everywhere",
+    "definition_zh": "格林威治平均时； 格林威治平均时间",
+    "frq": 7510,
+    "composite_rank": 6308,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new GMT.",
+        "zh": "项目团队根据新的格林威治平均时制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming GMT ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的格林威治平均时进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -2525,6 +2650,56 @@
     ]
   },
   {
+    "id": "periodically",
+    "word": "periodically",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/,piәri'ɔdikəli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=periodically&type=2",
+    "definition_en": "r in a sporadic manner",
+    "definition_zh": "adv. 定期, 循环, 间歇, 周期, 定期刊行, 期刊",
+    "frq": 7046,
+    "composite_rank": 7046,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new periodically.",
+        "zh": "项目团队根据新的定期制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming periodically ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的定期进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "moonlight",
+    "word": "moonlight",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'mu:nlait/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=moonlight&type=2",
+    "definition_en": "n. the light of the Moon\\nv. work a second job, usually after hours",
+    "definition_zh": "n. 月光； a. 有月光的, 月夜的",
+    "frq": 7941,
+    "composite_rank": 7306,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new moonlight.",
+        "zh": "项目团队根据新的月光制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming moonlight ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的月光进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
     "id": "honeymoon",
     "word": "honeymoon",
     "part_of_speech": "noun",
@@ -2546,31 +2721,6 @@
       {
         "en": "Planning around the upcoming honeymoon ensures efficient coordination for all members.",
         "zh": "围绕即将到来的蜜月进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "weekday",
-    "word": "weekday",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/'wi:kdei/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=weekday&type=2",
-    "definition_en": "n. any day except Sunday (and sometimes except Saturday)",
-    "definition_zh": "n. 周日, 平日； 工作日",
-    "frq": 8312,
-    "composite_rank": 7647,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new weekday.",
-        "zh": "项目团队根据新的周日制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming weekday ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的周日进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -2700,27 +2850,27 @@
     ]
   },
   {
-    "id": "seasonal",
-    "word": "seasonal",
+    "id": "blueprint",
+    "word": "blueprint",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/'si:znәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=seasonal&type=2",
-    "definition_en": "a. occurring at or dependent on a particular season",
-    "definition_zh": "a. 季节的, 依照季节的, 周期性的； 季节性的, 季节的",
-    "frq": 6279,
-    "composite_rank": 8966,
-    "badge": "high",
+    "phonetic": "/'blu:'print/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blueprint&type=2",
+    "definition_en": "n. something intended as a guide for making something else\\nn. photographic print of plans or technical drawings etc.\\nv. make a blueprint of",
+    "definition_zh": "n. 蓝图, 设计图, (周详的)计划； vt. 制成蓝图, 计划",
+    "frq": 7570,
+    "composite_rank": 9054,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new seasonal.",
-        "zh": "项目团队根据新的季节的制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new blueprint.",
+        "zh": "项目团队根据新的蓝图制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming seasonal ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的季节的进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming blueprint ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的蓝图进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -2775,6 +2925,31 @@
     ]
   },
   {
+    "id": "mar",
+    "word": "mar",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/mɑ:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mar&type=2",
+    "definition_en": "v. make imperfect",
+    "definition_zh": "vt. 损毁, 损伤, 糟蹋； n. 三月",
+    "frq": 8573,
+    "composite_rank": 9362,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new mar.",
+        "zh": "项目团队根据新的三月制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming mar ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的三月进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
     "id": "wink",
     "word": "wink",
     "part_of_speech": "noun",
@@ -2796,31 +2971,6 @@
       {
         "en": "Planning around the upcoming wink ensures efficient coordination for all members.",
         "zh": "围绕即将到来的眨眼进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "moonlight",
-    "word": "moonlight",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/'mu:nlait/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=moonlight&type=2",
-    "definition_en": "n. the light of the Moon\\nv. work a second job, usually after hours",
-    "definition_zh": "n. 月光； a. 有月光的, 月夜的",
-    "frq": 7941,
-    "composite_rank": 9497,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new moonlight.",
-        "zh": "项目团队根据新的月光制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming moonlight ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的月光进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -2875,31 +3025,6 @@
     ]
   },
   {
-    "id": "times",
-    "word": "times",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/taimz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=times&type=2",
-    "definition_en": "n. a more or less definite period of time now or previously present",
-    "definition_zh": "n. 时代, 境遇, 时报",
-    "frq": 7805,
-    "composite_rank": 10146,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new times.",
-        "zh": "项目团队根据新的时代制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming times ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的时代进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
     "id": "cradle",
     "word": "cradle",
     "part_of_speech": "noun",
@@ -2946,6 +3071,31 @@
       {
         "en": "Planning around the upcoming perpetual ensures efficient coordination for all members.",
         "zh": "围绕即将到来的永久的进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "chronicle",
+    "word": "chronicle",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'krɒnikl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chronicle&type=2",
+    "definition_en": "v. record in chronological order; make a historical record",
+    "definition_zh": "n. 年代记, 记录, 编年史； vt. 把...载入编年史",
+    "frq": 8992,
+    "composite_rank": 10754,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new chronicle.",
+        "zh": "项目团队根据新的年代记制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming chronicle ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的年代记进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -3000,52 +3150,52 @@
     ]
   },
   {
-    "id": "scheduling",
-    "word": "scheduling",
+    "id": "wane",
+    "word": "wane",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/'skedʒuәliŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scheduling&type=2",
-    "definition_en": "n. setting an order and time for planned events",
-    "definition_zh": "n. 行程安排, 时间表制定； 调度",
-    "frq": 11971,
+    "phonetic": "/wein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wane&type=2",
+    "definition_en": "v. become smaller\\nv. decrease in phase",
+    "definition_zh": "n. 减少, 衰微, 败落, 亏缺, 月亏； vi. 变小, 亏缺, 衰落, 消逝, 退潮",
+    "frq": 10009,
     "composite_rank": 11971,
     "badge": "normal",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new scheduling.",
-        "zh": "项目团队根据新的行程安排制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new wane.",
+        "zh": "项目团队根据新的减少制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming scheduling ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的行程安排进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming wane ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的减少进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
   {
-    "id": "periodically",
-    "word": "periodically",
+    "id": "periphery",
+    "word": "periphery",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/,piәri'ɔdikəli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=periodically&type=2",
-    "definition_en": "r in a sporadic manner",
-    "definition_zh": "adv. 定期, 循环, 间歇, 周期, 定期刊行, 期刊",
-    "frq": 7046,
-    "composite_rank": 11978,
+    "phonetic": "/pә'rifәri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=periphery&type=2",
+    "definition_en": "n. the outside boundary or surface of something",
+    "definition_zh": "n. 外围, 边缘地区, 圆周； 外周, 周围",
+    "frq": 10065,
+    "composite_rank": 12038,
     "badge": "normal",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new periodically.",
-        "zh": "项目团队根据新的定期制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new periphery.",
+        "zh": "项目团队根据新的外围制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming periodically ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的定期进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming periphery ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的外围进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -3075,27 +3225,102 @@
     ]
   },
   {
-    "id": "mar",
-    "word": "mar",
+    "id": "georgian",
+    "word": "Georgian",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/mɑ:/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mar&type=2",
-    "definition_en": "v. make imperfect",
-    "definition_zh": "vt. 损毁, 损伤, 糟蹋； n. 三月",
-    "frq": 8573,
-    "composite_rank": 12242,
+    "phonetic": "/'dʒɒ:dʒjәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=georgian&type=2",
+    "definition_en": "n. a native or resident of the American state of Georgia\\nn. a native or inhabitant of Georgia in Asia\\nn. a southern Caucasian language with 3 million speakers and a long literary tradition\\na. of or relating to the former British colony of Georgia",
+    "definition_zh": "n. 乔治亚州人, 乔治亚人； a. 乔治王时代的, 乔治王时代艺术风格的, 乔治亚的",
+    "frq": 11484,
+    "composite_rank": 12541,
     "badge": "high",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new mar.",
-        "zh": "项目团队根据新的三月制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new Georgian.",
+        "zh": "项目团队根据新的乔治亚州人制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming mar ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的三月进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming Georgian ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的乔治亚州人进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "flashy",
+    "word": "flashy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'flæʃi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=flashy&type=2",
+    "definition_en": "s. (used especially of clothes) marked by conspicuous display",
+    "definition_zh": "a. 闪光的, 一瞬间的, 浮华的",
+    "frq": 10814,
+    "composite_rank": 12934,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new flashy.",
+        "zh": "项目团队根据新的闪光的制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming flashy ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的闪光的进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "centennial",
+    "word": "centennial",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/sen'tenjәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=centennial&type=2",
+    "definition_en": "n. the 100th anniversary (or the celebration of it)\\na. of or relating to or completing a period of 100 years",
+    "definition_zh": "n. 百年纪念； a. 一百年的",
+    "frq": 10841,
+    "composite_rank": 12966,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new centennial.",
+        "zh": "项目团队根据新的百年纪念制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming centennial ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的百年纪念进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "milieu",
+    "word": "milieu",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'mi:ljә:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=milieu&type=2",
+    "definition_en": "n. the environmental condition",
+    "definition_zh": "n. 周围, 社会环境, 环境, 表达的手法； 环境",
+    "frq": 11563,
+    "composite_rank": 13829,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new milieu.",
+        "zh": "项目团队根据新的周围制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming milieu ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的周围进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -3175,6 +3400,56 @@
     ]
   },
   {
+    "id": "watchful",
+    "word": "watchful",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'wɒtʃful/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=watchful&type=2",
+    "definition_en": "a engaged in or accustomed to close observation\\ns experiencing or accompanied by sleeplessness",
+    "definition_zh": "a. 注意的, 警戒的, 警醒的, (时间)醒着换过的",
+    "frq": 12369,
+    "composite_rank": 14793,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new watchful.",
+        "zh": "项目团队根据新的注意的制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming watchful ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的注意的进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "fortnight",
+    "word": "fortnight",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'fɒ:tnait/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fortnight&type=2",
+    "definition_en": "n. a period of fourteen consecutive days",
+    "definition_zh": "n. 两星期",
+    "frq": 22633,
+    "composite_rank": 15209,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new fortnight.",
+        "zh": "项目团队根据新的两星期制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming fortnight ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的两星期进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
     "id": "epoch",
     "word": "epoch",
     "part_of_speech": "noun",
@@ -3250,27 +3525,27 @@
     ]
   },
   {
-    "id": "wane",
-    "word": "wane",
+    "id": "scheduling",
+    "word": "scheduling",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/wein/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wane&type=2",
-    "definition_en": "v. become smaller\\nv. decrease in phase",
-    "definition_zh": "n. 减少, 衰微, 败落, 亏缺, 月亏； vi. 变小, 亏缺, 衰落, 消逝, 退潮",
-    "frq": 10009,
-    "composite_rank": 15654,
+    "phonetic": "/'skedʒuәliŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scheduling&type=2",
+    "definition_en": "n. setting an order and time for planned events",
+    "definition_zh": "n. 行程安排, 时间表制定； 调度",
+    "frq": 11971,
+    "composite_rank": 15562,
     "badge": "normal",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new wane.",
-        "zh": "项目团队根据新的减少制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new scheduling.",
+        "zh": "项目团队根据新的行程安排制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming wane ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的减少进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming scheduling ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的行程安排进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -3300,31 +3575,6 @@
     ]
   },
   {
-    "id": "periphery",
-    "word": "periphery",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/pә'rifәri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=periphery&type=2",
-    "definition_en": "n. the outside boundary or surface of something",
-    "definition_zh": "n. 外围, 边缘地区, 圆周； 外周, 周围",
-    "frq": 10065,
-    "composite_rank": 15742,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new periphery.",
-        "zh": "项目团队根据新的外围制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming periphery ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的外围进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
     "id": "circumference",
     "word": "circumference",
     "part_of_speech": "noun",
@@ -3346,6 +3596,81 @@
       {
         "en": "Planning around the upcoming circumference ensures efficient coordination for all members.",
         "zh": "围绕即将到来的圆周进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "chronological",
+    "word": "chronological",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/, krɔnә'lɔdʒikәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chronological&type=2",
+    "definition_en": "a. relating to or arranged according to temporal order",
+    "definition_zh": "a. 年代学的, 按时间顺序的, 按照年月顺序的； 编年的, 按年月日顺序的",
+    "frq": 13403,
+    "composite_rank": 16030,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new chronological.",
+        "zh": "项目团队根据新的年代学的制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming chronological ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的年代学的进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "laurel",
+    "word": "laurel",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'lɒ:rәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=laurel&type=2",
+    "definition_en": "n. any of various aromatic trees of the laurel family\\nn. United States slapstick comedian (born in England) who played the scatterbrained and often tearful member of the Laurel and Hardy duo who made many films (1890-1965)\\nn. (antiquity) a wreath of laurel foliage worn on the head as an emblem of victory",
+    "definition_zh": "n. 月桂树, 荣誉； vt. 使戴桂冠, 授予荣誉",
+    "frq": 13523,
+    "composite_rank": 16174,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new laurel.",
+        "zh": "项目团队根据新的月桂树制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming laurel ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的月桂树进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "chronology",
+    "word": "chronology",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/krә'nɔlәdʒi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chronology&type=2",
+    "definition_en": "n. an arrangement of events in time\\nn. a record of events in the order of their occurrence\\nn. the determination of the actual temporal sequence of past events",
+    "definition_zh": "n. 年代学, 资料按年月次序的排列, 按时间顺序编制的表格, 年表",
+    "frq": 12696,
+    "composite_rank": 16505,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new chronology.",
+        "zh": "项目团队根据新的年代学制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming chronology ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的年代学进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -3375,6 +3700,31 @@
     ]
   },
   {
+    "id": "ambience",
+    "word": "ambience",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'æmbiәns/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ambience&type=2",
+    "definition_en": "n a particular environment or surrounding influence\\nn the atmosphere of an environment",
+    "definition_zh": "n. 周围环境, 气氛",
+    "frq": 14090,
+    "composite_rank": 16852,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new ambience.",
+        "zh": "项目团队根据新的周围环境制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming ambience ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的周围环境进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
     "id": "instantaneous",
     "word": "instantaneous",
     "part_of_speech": "noun",
@@ -3400,77 +3750,27 @@
     ]
   },
   {
-    "id": "milieu",
-    "word": "milieu",
+    "id": "hospitable",
+    "word": "hospitable",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/'mi:ljә:/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=milieu&type=2",
-    "definition_en": "n. the environmental condition",
-    "definition_zh": "n. 周围, 社会环境, 环境, 表达的手法； 环境",
-    "frq": 11563,
-    "composite_rank": 18085,
+    "phonetic": "/'hɒspitәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hospitable&type=2",
+    "definition_en": "a. favorable to life and growth\\na. disposed to treat guests and strangers with cordiality and generosity\\ns. having an open mind",
+    "definition_zh": "a. 好客的, 招待周到的",
+    "frq": 14491,
+    "composite_rank": 17331,
     "badge": "normal",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new milieu.",
-        "zh": "项目团队根据新的周围制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new hospitable.",
+        "zh": "项目团队根据新的好客的制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming milieu ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的周围进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "fortnight",
-    "word": "fortnight",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/'fɒ:tnait/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=fortnight&type=2",
-    "definition_en": "n. a period of fourteen consecutive days",
-    "definition_zh": "n. 两星期",
-    "frq": 22633,
-    "composite_rank": 19012,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new fortnight.",
-        "zh": "项目团队根据新的两星期制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming fortnight ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的两星期进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "seasonally",
-    "word": "seasonally",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/seasonally/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=seasonally&type=2",
-    "definition_en": "r. depending on the season",
-    "definition_zh": "adv. 季节性地；周期性地",
-    "frq": 19743,
-    "composite_rank": 19743,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new seasonally.",
-        "zh": "项目团队根据新的季节性地制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming seasonally ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的季节性地进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming hospitable ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的好客的进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -3500,127 +3800,27 @@
     ]
   },
   {
-    "id": "chronological",
-    "word": "chronological",
+    "id": "cyclical",
+    "word": "cyclical",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "C2",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/, krɔnә'lɔdʒikәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chronological&type=2",
-    "definition_en": "a. relating to or arranged according to temporal order",
-    "definition_zh": "a. 年代学的, 按时间顺序的, 按照年月顺序的； 编年的, 按年月日顺序的",
-    "frq": 13403,
-    "composite_rank": 20962,
+    "phonetic": "/'siklik(e)l/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cyclical&type=2",
+    "definition_en": "a recurring in cycles",
+    "definition_zh": "a. 周期的, 轮转的, 循环的, 轮列的, 轮卷的, 环状的, 环的, 组诗的, 始末的； 循环的",
+    "frq": 12518,
+    "composite_rank": 25336,
     "badge": "normal",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new chronological.",
-        "zh": "项目团队根据新的年代学的制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new cyclical.",
+        "zh": "项目团队根据新的周期的制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming chronological ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的年代学的进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "chronology",
-    "word": "chronology",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/krә'nɔlәdʒi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chronology&type=2",
-    "definition_en": "n. an arrangement of events in time\\nn. a record of events in the order of their occurrence\\nn. the determination of the actual temporal sequence of past events",
-    "definition_zh": "n. 年代学, 资料按年月次序的排列, 按时间顺序编制的表格, 年表",
-    "frq": 12696,
-    "composite_rank": 21583,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new chronology.",
-        "zh": "项目团队根据新的年代学制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming chronology ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的年代学进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "corona",
-    "word": "corona",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/'kɔrәnә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=corona&type=2",
-    "definition_en": "n. (botany) the trumpet-shaped or cup-shaped outgrowth of the corolla of a daffodil or narcissus flower\\nn. one or more circles of light seen around a luminous object\\nn. (anatomy) any structure that resembles a crown in shape",
-    "definition_zh": "n. 冠, 冠状物, 副冠, 根颈, 头顶, 牙冠, 檐板, 日冕, 月华, 日华, 电晕, 光圈； 电晕, 冠",
-    "frq": 17199,
-    "composite_rank": 22359,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new corona.",
-        "zh": "项目团队根据新的冠制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming corona ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的冠进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "hospitable",
-    "word": "hospitable",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/'hɒspitәbl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hospitable&type=2",
-    "definition_en": "a. favorable to life and growth\\na. disposed to treat guests and strangers with cordiality and generosity\\ns. having an open mind",
-    "definition_zh": "a. 好客的, 招待周到的",
-    "frq": 14491,
-    "composite_rank": 22664,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new hospitable.",
-        "zh": "项目团队根据新的好客的制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming hospitable ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的好客的进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "pi",
-    "word": "pi",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/pai/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pi&type=2",
-    "definition_en": "n. the ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846...\\nn. the 16th letter of the Greek alphabet",
-    "definition_zh": "n. 圆周率； 处理器接口, 程序中断",
-    "frq": 18727,
-    "composite_rank": 24345,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new pi.",
-        "zh": "项目团队根据新的圆周率制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming pi ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的圆周率进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming cyclical ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的周期的进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -3650,10 +3850,185 @@
     ]
   },
   {
+    "id": "corona",
+    "word": "corona",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/'kɔrәnә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=corona&type=2",
+    "definition_en": "n. (botany) the trumpet-shaped or cup-shaped outgrowth of the corolla of a daffodil or narcissus flower\\nn. one or more circles of light seen around a luminous object\\nn. (anatomy) any structure that resembles a crown in shape",
+    "definition_zh": "n. 冠, 冠状物, 副冠, 根颈, 头顶, 牙冠, 檐板, 日冕, 月华, 日华, 电晕, 光圈； 电晕, 冠",
+    "frq": 17199,
+    "composite_rank": 29238,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new corona.",
+        "zh": "项目团队根据新的冠制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming corona ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的冠进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "pi",
+    "word": "pi",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/pai/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pi&type=2",
+    "definition_en": "n. the ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846...\\nn. the 16th letter of the Greek alphabet",
+    "definition_zh": "n. 圆周率； 处理器接口, 程序中断",
+    "frq": 18727,
+    "composite_rank": 31836,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new pi.",
+        "zh": "项目团队根据新的圆周率制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming pi ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的圆周率进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "courses",
+    "word": "courses",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/courses/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=courses&type=2",
+    "definition_en": "n education imparted in a series of lessons or meetings\\nn a connected series of events or actions or developments\\nn general line of orientation\\nn a mode of action\\nn a line or route along which something travels or moves\\nn a body of students who are taught together\\nn part of a meal served at one time\\nn (construction) a layer of masonry\\nn facility consisting of a circumscribed area of land or water laid out for a sport\\nv move swiftly through or over\\nv move along, of liquids\\nv hunt with hounds",
+    "definition_zh": "月经",
+    "frq": 50000,
+    "composite_rank": 32500,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new courses.",
+        "zh": "项目团队根据新的月经制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming courses ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的月经进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "seasonally",
+    "word": "seasonally",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/seasonally/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=seasonally&type=2",
+    "definition_en": "r. depending on the season",
+    "definition_zh": "adv. 季节性地；周期性地",
+    "frq": 19743,
+    "composite_rank": 33563,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new seasonally.",
+        "zh": "项目团队根据新的季节性地制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming seasonally ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的季节性地进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "thurs",
+    "word": "Thurs",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/thurs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=thurs&type=2",
+    "definition_en": ": 星期四",
+    "definition_zh": "星期四",
+    "frq": 41136,
+    "composite_rank": 34554,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new Thurs.",
+        "zh": "项目团队根据新的星期四制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming Thurs ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的星期四进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "centenary",
+    "word": "centenary",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/sen'ti:nәri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=centenary&type=2",
+    "definition_en": "n the 100th anniversary (or the celebration of it)\\na of or relating to or completing a period of 100 years",
+    "definition_zh": "n. 一百年； a. 一百年的",
+    "frq": 23708,
+    "composite_rank": 37079,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new centenary.",
+        "zh": "项目团队根据新的一百年制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming centenary ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的一百年进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "chronologically",
+    "word": "chronologically",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/ˌkrɒnə'lɒdʒɪklɪ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chronologically&type=2",
+    "definition_en": "r. with respect to chronology",
+    "definition_zh": "adv. 按时间的前后顺序排列地",
+    "frq": 21969,
+    "composite_rank": 37347,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new chronologically.",
+        "zh": "项目团队根据新的按时间的前后顺序排列地制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming chronologically ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的按时间的前后顺序排列地进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
     "id": "timeliness",
     "word": "timeliness",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
     "phonetic": "/timeliness/",
@@ -3661,7 +4036,7 @@
     "definition_en": "n being at the right time\\nn timely convenience",
     "definition_zh": "时间性, 及时性",
     "frq": 24040,
-    "composite_rank": 31252,
+    "composite_rank": 40868,
     "badge": "normal",
     "examples": [
       {
@@ -3675,352 +4050,27 @@
     ]
   },
   {
-    "id": "blanks",
-    "word": "blanks",
+    "id": "day-to-day",
+    "word": "day-to-day",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/blanks/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=blanks&type=2",
-    "definition_en": "n a blank character used to separate successive words in writing or printing\\nn a blank gap or missing part\\nn a piece of material ready to be made into something\\nn a cartridge containing an explosive charge but no bullet\\nv keep the opposing (baseball) team from winning",
-    "definition_zh": "n. 空闲时间；空白页（blank的复数）",
+    "phonetic": "/day-to-day/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=day-to-day&type=2",
+    "definition_en": "s of or belonging to or occurring every day",
+    "definition_zh": "adv. 天天； 日常, 暂时的",
     "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new blanks.",
-        "zh": "项目团队根据新的空闲时间制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming blanks ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的空闲时间进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "hours",
-    "word": "hours",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/hours/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hours&type=2",
-    "definition_en": "n. a period of time assigned for work\\nn. an indefinite period of time",
-    "definition_zh": "n. 小时（hour的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new hours.",
-        "zh": "项目团队根据新的小时制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming hours ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的小时进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "months",
-    "word": "months",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/months/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=months&type=2",
-    "definition_en": "n one of the twelve divisions of the calendar year\\nn a time unit of approximately 30 days",
-    "definition_zh": "月份（month的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new months.",
-        "zh": "项目团队根据新的月份制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming months ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的月份进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "nights",
-    "word": "nights",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/naits/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nights&type=2",
-    "definition_en": "n the time after sunset and before sunrise while it is dark outside\\nn a period of ignorance or backwardness or gloom\\nn the period spent sleeping\\nn the dark part of the diurnal cycle considered a time unit\\nn darkness\\nn a shortening of nightfall\\nn the time between sunset and midnight\\nn Roman goddess of night; daughter of Erebus; counterpart of Greek Nyx",
-    "definition_zh": "n. 每夜, 在任何夜晚",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new nights.",
-        "zh": "项目团队根据新的每夜制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming nights ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的每夜进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "periods",
-    "word": "periods",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/periods/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=periods&type=2",
-    "definition_en": "n an amount of time\\nn the interval taken to complete one cycle of a regularly repeating phenomenon\\nn (ice hockey) one of three divisions into which play is divided in hockey games\\nn a unit of geological time during which a system of rocks formed\\nn the end or completion of something\\nn the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause\\nn a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations",
-    "definition_zh": "n. 周期（period的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new periods.",
-        "zh": "项目团队根据新的周期制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming periods ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的周期进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "spends",
-    "word": "spends",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/s'pendz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spends&type=2",
-    "definition_en": "v pass time in a specific way\\nv pay out\\nv spend completely",
-    "definition_zh": "v. 用钱, 花钱( spend的第三人称单数 ); 花费; 消耗; 花（时间）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new spends.",
-        "zh": "项目团队根据新的用钱制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming spends ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的用钱进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "sundays",
-    "word": "sundays",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/'sʌndiz, -deiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sundays&type=2",
-    "definition_en": "n first day of the week; observed as a day of rest and worship by most Christians\\nn United States evangelist (1862-1935)",
-    "definition_zh": "adv. 每星期日, 在任何星期日",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new sundays.",
-        "zh": "项目团队根据新的每星期日制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming sundays ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的每星期日进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "years",
-    "word": "years",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/years/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=years&type=2",
-    "definition_en": "n a late time of life\\nn a prolonged period of time\\nn the time during which someone's life continues\\nn a period of time containing 365 (or 366) days\\nn a period of time occupying a regular part of a calendar year that is used for some particular activity\\nn the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun\\nn a body of students who graduate together",
-    "definition_zh": "n. 年代；岁月；年；年龄",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new years.",
-        "zh": "项目团队根据新的年代制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming years ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的年代进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "punctuality",
-    "word": "punctuality",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/.pʌŋktʃu'æliti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=punctuality&type=2",
-    "definition_en": "n. the quality or habit of adhering to an appointed time",
-    "definition_zh": "n. 严守时间, 正确",
-    "frq": 26459,
-    "composite_rank": 34397,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new punctuality.",
-        "zh": "项目团队根据新的严守时间制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming punctuality ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的严守时间进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "centuries",
-    "word": "centuries",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/'sentʃərɪz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=centuries&type=2",
-    "definition_en": "pl.  of Century",
-    "definition_zh": "n. 100年, 一世纪( century的名词复数 ); 100分; 千秋",
-    "frq": 50000,
-    "composite_rank": 40000,
+    "composite_rank": 42000,
     "badge": "high",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new centuries.",
-        "zh": "项目团队根据新的年制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new day-to-day.",
+        "zh": "项目团队根据新的天天制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming centuries ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的年进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "diets",
-    "word": "diets",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/ˈdaiəts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=diets&type=2",
-    "definition_en": "n a prescribed selection of foods\\nn a legislative assembly in certain countries (e.g., Japan)\\nn the usual food and drink consumed by an organism (person or animal)\\nn the act of restricting your food intake (or your intake of particular foods)\\nv follow a regimen or a diet, as for health reasons\\nv eat sparingly, for health reasons or to lose weight",
-    "definition_zh": "n. 日常饮食( diet的名词复数 ); 规定饮食",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new diets.",
-        "zh": "项目团队根据新的日常饮食制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming diets ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的日常饮食进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "improves",
-    "word": "improves",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/imˈpru:vz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=improves&type=2",
-    "definition_en": "v to make better\\nv get better",
-    "definition_zh": "v. 改善, 改进, 提高( improve的第三人称单数 ); 提高（土地、地产）的价值; 利用（机会）; 抓紧（时间）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new improves.",
-        "zh": "项目团队根据新的改善制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming improves ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的改善进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "lamps",
-    "word": "lamps",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/lamps/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=lamps&type=2",
-    "definition_en": "n an artificial source of visible illumination\\nn a piece of furniture holding one or more electric light bulbs",
-    "definition_zh": "n. 日月星辰；眼睛；灯具（lamp的复数）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new lamps.",
-        "zh": "项目团队根据新的日月星辰制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming lamps ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的日月星辰进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "youths",
-    "word": "youths",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/youths/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=youths&type=2",
-    "definition_en": "n a young person (especially a young man or boy)\\nn young people collectively\\nn the time of life between childhood and maturity\\nn early maturity; the state of being young or immature or inexperienced\\nn an early period of development\\nn the freshness and vitality characteristic of a young person",
-    "definition_zh": "年轻, 青年时代, 青年们, 青春",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new youths.",
-        "zh": "项目团队根据新的年轻制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming youths ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的年轻进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming day-to-day ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的天天进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -4050,27 +4100,102 @@
     ]
   },
   {
-    "id": "chronologically",
-    "word": "chronologically",
+    "id": "punctuality",
+    "word": "punctuality",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "时间历法、时段与季节周期",
     "category": "time_calendar",
-    "phonetic": "/ˌkrɒnə'lɒdʒɪklɪ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chronologically&type=2",
-    "definition_en": "r. with respect to chronology",
-    "definition_zh": "adv. 按时间的前后顺序排列地",
-    "frq": 21969,
-    "composite_rank": 48332,
+    "phonetic": "/.pʌŋktʃu'æliti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=punctuality&type=2",
+    "definition_en": "n. the quality or habit of adhering to an appointed time",
+    "definition_zh": "n. 严守时间, 正确",
+    "frq": 26459,
+    "composite_rank": 44980,
     "badge": "normal",
     "examples": [
       {
-        "en": "The project team established a milestone timeline according to the new chronologically.",
-        "zh": "项目团队根据新的按时间的前后顺序排列地制定了里程碑时间表。"
+        "en": "The project team established a milestone timeline according to the new punctuality.",
+        "zh": "项目团队根据新的严守时间制定了里程碑时间表。"
       },
       {
-        "en": "Planning around the upcoming chronologically ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的按时间的前后顺序排列地进行规划，确保了全体成员的高效协作。"
+        "en": "Planning around the upcoming punctuality ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的严守时间进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "confessed",
+    "word": "confessed",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/kәn'fest/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=confessed&type=2",
+    "definition_en": "v confess to a punishable or reprehensible deed, usually under pressure\\nv admit (to a wrongdoing)\\nv confess to God in the presence of a priest, as in the Catholic faith",
+    "definition_zh": "a. 公开的, 有定论的, 明白的, 众所周知的, 已认罪的, 自认的, 自称的； 坦白的, 认罪的, 自己承认的",
+    "frq": 50000,
+    "composite_rank": 46000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new confessed.",
+        "zh": "项目团队根据新的公开的制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming confessed ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的公开的进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "elapsed",
+    "word": "elapsed",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/elapsed/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=elapsed&type=2",
+    "definition_en": "a. (of time) having passed or slipped by",
+    "definition_zh": "v. 时间过去；消逝（elapse的过去分词）",
+    "frq": 28023,
+    "composite_rank": 47639,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new elapsed.",
+        "zh": "项目团队根据新的时间过去制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming elapsed ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的时间过去进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "blanks",
+    "word": "blanks",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/blanks/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blanks&type=2",
+    "definition_en": "n a blank character used to separate successive words in writing or printing\\nn a blank gap or missing part\\nn a piece of material ready to be made into something\\nn a cartridge containing an explosive charge but no bullet\\nv keep the opposing (baseball) team from winning",
+    "definition_zh": "n. 空闲时间；空白页（blank的复数）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new blanks.",
+        "zh": "项目团队根据新的空闲时间制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming blanks ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的空闲时间进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -4125,31 +4250,6 @@
     ]
   },
   {
-    "id": "cycles",
-    "word": "cycles",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/cycles/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cycles&type=2",
-    "definition_en": "n an interval during which a recurring sequence of events occurs\\nn a series of poems or songs on the same theme\\nn a periodically repeated sequence of events\\nn the unit of frequency; one hertz has a periodic interval of one second\\nn a single complete execution of a periodically repeated phenomenon\\nn a wheeled vehicle that has two wheels and is moved by foot pedals\\nv cause to go through a recurring sequence\\nv pass through a cycle\\nv ride a motorcycle\\nv ride a bicycle\\nv recur in repeating sequences",
-    "definition_zh": "n. 循环动作；圈数；周期（cycle的复数）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new cycles.",
-        "zh": "项目团队根据新的循环动作制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming cycles ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的循环动作进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
     "id": "distances",
     "word": "distances",
     "part_of_speech": "noun",
@@ -4196,6 +4296,56 @@
       {
         "en": "Planning around the upcoming endured ensures efficient coordination for all members.",
         "zh": "围绕即将到来的吃苦耐劳的进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "improves",
+    "word": "improves",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/imˈpru:vz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=improves&type=2",
+    "definition_en": "v to make better\\nv get better",
+    "definition_zh": "v. 改善, 改进, 提高( improve的第三人称单数 ); 提高（土地、地产）的价值; 利用（机会）; 抓紧（时间）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new improves.",
+        "zh": "项目团队根据新的改善制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming improves ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的改善进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
+    "id": "lamps",
+    "word": "lamps",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/lamps/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lamps&type=2",
+    "definition_en": "n an artificial source of visible illumination\\nn a piece of furniture holding one or more electric light bulbs",
+    "definition_zh": "n. 日月星辰；眼睛；灯具（lamp的复数）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new lamps.",
+        "zh": "项目团队根据新的日月星辰制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming lamps ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的日月星辰进行规划，确保了全体成员的高效协作。"
       }
     ]
   },
@@ -4250,31 +4400,6 @@
     ]
   },
   {
-    "id": "schedules",
-    "word": "schedules",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/schedules/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=schedules&type=2",
-    "definition_en": "n a temporally organized plan for matters to be attended to\\nn an ordered list of times at which things are planned to occur\\nv plan for an activity or event\\nv make a schedule; plan the time and place for events",
-    "definition_zh": "n. 时间表；待办事项；日程安排（schedule的复数形式）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new schedules.",
-        "zh": "项目团队根据新的时间表制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming schedules ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的时间表进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
     "id": "seasons",
     "word": "seasons",
     "part_of_speech": "noun",
@@ -4300,6 +4425,31 @@
     ]
   },
   {
+    "id": "spends",
+    "word": "spends",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时间历法、时段与季节周期",
+    "category": "time_calendar",
+    "phonetic": "/s'pendz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spends&type=2",
+    "definition_en": "v pass time in a specific way\\nv pay out\\nv spend completely",
+    "definition_zh": "v. 用钱, 花钱( spend的第三人称单数 ); 花费; 消耗; 花（时间）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The project team established a milestone timeline according to the new spends.",
+        "zh": "项目团队根据新的用钱制定了里程碑时间表。"
+      },
+      {
+        "en": "Planning around the upcoming spends ensures efficient coordination for all members.",
+        "zh": "围绕即将到来的用钱进行规划，确保了全体成员的高效协作。"
+      }
+    ]
+  },
+  {
     "id": "well-known",
     "word": "well-known",
     "part_of_speech": "noun",
@@ -4321,56 +4471,6 @@
       {
         "en": "Planning around the upcoming well-known ensures efficient coordination for all members.",
         "zh": "围绕即将到来的众所周知的进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "confessed",
-    "word": "confessed",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/kәn'fest/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=confessed&type=2",
-    "definition_en": "v confess to a punishable or reprehensible deed, usually under pressure\\nv admit (to a wrongdoing)\\nv confess to God in the presence of a priest, as in the Catholic faith",
-    "definition_zh": "a. 公开的, 有定论的, 明白的, 众所周知的, 已认罪的, 自认的, 自称的； 坦白的, 认罪的, 自己承认的",
-    "frq": 50000,
-    "composite_rank": 59800,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new confessed.",
-        "zh": "项目团队根据新的公开的制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming confessed ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的公开的进行规划，确保了全体成员的高效协作。"
-      }
-    ]
-  },
-  {
-    "id": "elapsed",
-    "word": "elapsed",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "时间历法、时段与季节周期",
-    "category": "time_calendar",
-    "phonetic": "/elapsed/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=elapsed&type=2",
-    "definition_en": "a. (of time) having passed or slipped by",
-    "definition_zh": "v. 时间过去；消逝（elapse的过去分词）",
-    "frq": 28023,
-    "composite_rank": 61651,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The project team established a milestone timeline according to the new elapsed.",
-        "zh": "项目团队根据新的时间过去制定了里程碑时间表。"
-      },
-      {
-        "en": "Planning around the upcoming elapsed ensures efficient coordination for all members.",
-        "zh": "围绕即将到来的时间过去进行规划，确保了全体成员的高效协作。"
       }
     ]
   },

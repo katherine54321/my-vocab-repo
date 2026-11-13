@@ -128,7 +128,7 @@
     "id": "analyst",
     "word": "analyst",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/'ænәlist/",
@@ -136,7 +136,7 @@
     "definition_en": "n. someone who is skilled at analyzing data\\nn. an expert who studies financial data (on credit or securities or sales or financial patterns etc.) and recommends appropriate business actions\\nn. a licensed practitioner of psychoanalysis",
     "definition_zh": "n. 分析者, 精神分析学家； 分析员; 化验员",
     "frq": 1672,
-    "composite_rank": 1478,
+    "composite_rank": 1137,
     "badge": "core",
     "examples": [
       {
@@ -146,6 +146,81 @@
       {
         "en": "Understanding psychological aspects of analyst helps improve mental well-being.",
         "zh": "了解分析者背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "psychological",
+    "word": "psychological",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/.saikә'lɒdʒikәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychological&type=2",
+    "definition_en": "s. mental or emotional as opposed to physical in nature\\na. of or relating to or determined by psychology",
+    "definition_zh": "a. 心理学的, 精神上的, 心灵的； 心理上的, 心理学的",
+    "frq": 2361,
+    "composite_rank": 1435,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious psychological affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的心理学的如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of psychological helps improve mental well-being.",
+        "zh": "了解心理学的背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "perceive",
+    "word": "perceive",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/pә'si:v/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=perceive&type=2",
+    "definition_en": "v. to become aware of through the senses\\nv. become conscious of",
+    "definition_zh": "vt. 感觉, 认知, 理解, 意识到",
+    "frq": 2165,
+    "composite_rank": 1455,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious perceive affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的感觉如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of perceive helps improve mental well-being.",
+        "zh": "了解感觉背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "perception",
+    "word": "perception",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/pә'sepʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=perception&type=2",
+    "definition_en": "n. a way of conceiving something\\nn. the process of perceiving\\nn. knowledge gained by perceiving",
+    "definition_zh": "n. 知觉, 感觉, 领悟力, 获取； 知觉",
+    "frq": 1866,
+    "composite_rank": 1567,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious perception affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的知觉如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of perception helps improve mental well-being.",
+        "zh": "了解知觉背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -175,77 +250,27 @@
     ]
   },
   {
-    "id": "psychological",
-    "word": "psychological",
+    "id": "psychology",
+    "word": "psychology",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "/.saikә'lɒdʒikәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=psychological&type=2",
-    "definition_en": "s. mental or emotional as opposed to physical in nature\\na. of or relating to or determined by psychology",
-    "definition_zh": "a. 心理学的, 精神上的, 心灵的； 心理上的, 心理学的",
-    "frq": 2361,
-    "composite_rank": 1794,
+    "phonetic": "/sai'kɒlәdʒi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychology&type=2",
+    "definition_en": "n. the science of mental life",
+    "definition_zh": "n. 心理学, 心理状态； 心理学",
+    "frq": 2972,
+    "composite_rank": 1807,
     "badge": "core",
     "examples": [
       {
-        "en": "Cognitive scientists study how subconscious psychological affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的心理学的如何影响人类的决策机制。"
+        "en": "Cognitive scientists study how subconscious psychology affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的心理学如何影响人类的决策机制。"
       },
       {
-        "en": "Understanding psychological aspects of psychological helps improve mental well-being.",
-        "zh": "了解心理学的背后的心理机制有助于促进身心健康。"
-      }
-    ]
-  },
-  {
-    "id": "perceive",
-    "word": "perceive",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/pә'si:v/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=perceive&type=2",
-    "definition_en": "v. to become aware of through the senses\\nv. become conscious of",
-    "definition_zh": "vt. 感觉, 认知, 理解, 意识到",
-    "frq": 2165,
-    "composite_rank": 1819,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Cognitive scientists study how subconscious perceive affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的感觉如何影响人类的决策机制。"
-      },
-      {
-        "en": "Understanding psychological aspects of perceive helps improve mental well-being.",
-        "zh": "了解感觉背后的心理机制有助于促进身心健康。"
-      }
-    ]
-  },
-  {
-    "id": "perception",
-    "word": "perception",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/pә'sepʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=perception&type=2",
-    "definition_en": "n. a way of conceiving something\\nn. the process of perceiving\\nn. knowledge gained by perceiving",
-    "definition_zh": "n. 知觉, 感觉, 领悟力, 获取； 知觉",
-    "frq": 1866,
-    "composite_rank": 2038,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Cognitive scientists study how subconscious perception affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的知觉如何影响人类的决策机制。"
-      },
-      {
-        "en": "Understanding psychological aspects of perception helps improve mental well-being.",
-        "zh": "了解知觉背后的心理机制有助于促进身心健康。"
+        "en": "Understanding psychological aspects of psychology helps improve mental well-being.",
+        "zh": "了解心理学背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -275,27 +300,27 @@
     ]
   },
   {
-    "id": "psychology",
-    "word": "psychology",
+    "id": "psychologist",
+    "word": "psychologist",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "/sai'kɒlәdʒi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=psychology&type=2",
-    "definition_en": "n. the science of mental life",
-    "definition_zh": "n. 心理学, 心理状态； 心理学",
-    "frq": 2972,
-    "composite_rank": 2259,
+    "phonetic": "/sai'kɒlәdʒist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychologist&type=2",
+    "definition_en": "n. a scientist trained in psychology",
+    "definition_zh": "n. 心理学家； 心理学家",
+    "frq": 3014,
+    "composite_rank": 2411,
     "badge": "core",
     "examples": [
       {
-        "en": "Cognitive scientists study how subconscious psychology affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的心理学如何影响人类的决策机制。"
+        "en": "Cognitive scientists study how subconscious psychologist affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的心理学家如何影响人类的决策机制。"
       },
       {
-        "en": "Understanding psychological aspects of psychology helps improve mental well-being.",
-        "zh": "了解心理学背后的心理机制有助于促进身心健康。"
+        "en": "Understanding psychological aspects of psychologist helps improve mental well-being.",
+        "zh": "了解心理学家背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -375,6 +400,31 @@
     ]
   },
   {
+    "id": "cognitive",
+    "word": "cognitive",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/'kɒgnitiv/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cognitive&type=2",
+    "definition_en": "a. of or being or relating to or involving cognition",
+    "definition_zh": "a. 认知的, 认识的",
+    "frq": 3344,
+    "composite_rank": 3076,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious cognitive affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的认知的如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of cognitive helps improve mental well-being.",
+        "zh": "了解认知的背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
     "id": "instinct",
     "word": "instinct",
     "part_of_speech": "noun",
@@ -396,31 +446,6 @@
       {
         "en": "Understanding psychological aspects of instinct helps improve mental well-being.",
         "zh": "了解本能背后的心理机制有助于促进身心健康。"
-      }
-    ]
-  },
-  {
-    "id": "cognitive",
-    "word": "cognitive",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/'kɒgnitiv/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cognitive&type=2",
-    "definition_en": "a. of or being or relating to or involving cognition",
-    "definition_zh": "a. 认知的, 认识的",
-    "frq": 3344,
-    "composite_rank": 3999,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Cognitive scientists study how subconscious cognitive affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的认知的如何影响人类的决策机制。"
-      },
-      {
-        "en": "Understanding psychological aspects of cognitive helps improve mental well-being.",
-        "zh": "了解认知的背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -450,27 +475,52 @@
     ]
   },
   {
-    "id": "psychologist",
-    "word": "psychologist",
+    "id": "psychiatrist",
+    "word": "psychiatrist",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "/sai'kɒlәdʒist/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=psychologist&type=2",
-    "definition_en": "n. a scientist trained in psychology",
-    "definition_zh": "n. 心理学家； 心理学家",
-    "frq": 3014,
-    "composite_rank": 5124,
+    "phonetic": "/sai'kaiәtrist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychiatrist&type=2",
+    "definition_en": "n. a physician who specializes in psychiatry",
+    "definition_zh": "n. 精神病医生, 精神病学家； 精神病学家",
+    "frq": 5180,
+    "composite_rank": 5180,
     "badge": "high",
     "examples": [
       {
-        "en": "Cognitive scientists study how subconscious psychologist affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的心理学家如何影响人类的决策机制。"
+        "en": "Cognitive scientists study how subconscious psychiatrist affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的精神病医生如何影响人类的决策机制。"
       },
       {
-        "en": "Understanding psychological aspects of psychologist helps improve mental well-being.",
-        "zh": "了解心理学家背后的心理机制有助于促进身心健康。"
+        "en": "Understanding psychological aspects of psychiatrist helps improve mental well-being.",
+        "zh": "了解精神病医生背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "psychiatric",
+    "word": "psychiatric",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/saiki'ætrik; (?@) si-/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychiatric&type=2",
+    "definition_en": "a. relating to or used in or engaged in the practice of psychiatry",
+    "definition_zh": "a. 精神病学的, 医精神病的； 精神病学的",
+    "frq": 5478,
+    "composite_rank": 5478,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious psychiatric affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的精神病学的如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of psychiatric helps improve mental well-being.",
+        "zh": "了解精神病学的背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -550,52 +600,77 @@
     ]
   },
   {
-    "id": "psychiatrist",
-    "word": "psychiatrist",
+    "id": "narcotic",
+    "word": "narcotic",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "/sai'kaiәtrist/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=psychiatrist&type=2",
-    "definition_en": "n. a physician who specializes in psychiatry",
-    "definition_zh": "n. 精神病医生, 精神病学家； 精神病学家",
-    "frq": 5180,
-    "composite_rank": 8806,
+    "phonetic": "/nɑ:'kɒtik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=narcotic&type=2",
+    "definition_en": "n. a drug that produces numbness or stupor; often taken for pleasure or to reduce pain; extensive use can lead to addiction\\na. of or relating to or designating narcotics\\ns. inducing stupor or narcosis\\ns. inducing mental lethargy",
+    "definition_zh": "n. 麻醉药, 镇静剂； a. 麻醉的, 催眠的",
+    "frq": 8433,
+    "composite_rank": 10086,
     "badge": "normal",
     "examples": [
       {
-        "en": "Cognitive scientists study how subconscious psychiatrist affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的精神病医生如何影响人类的决策机制。"
+        "en": "Cognitive scientists study how subconscious narcotic affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的麻醉药如何影响人类的决策机制。"
       },
       {
-        "en": "Understanding psychological aspects of psychiatrist helps improve mental well-being.",
-        "zh": "了解精神病医生背后的心理机制有助于促进身心健康。"
+        "en": "Understanding psychological aspects of narcotic helps improve mental well-being.",
+        "zh": "了解麻醉药背后的心理机制有助于促进身心健康。"
       }
     ]
   },
   {
-    "id": "psychiatric",
-    "word": "psychiatric",
+    "id": "sensory",
+    "word": "sensory",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "/saiki'ætrik; (?@) si-/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=psychiatric&type=2",
-    "definition_en": "a. relating to or used in or engaged in the practice of psychiatry",
-    "definition_zh": "a. 精神病学的, 医精神病的； 精神病学的",
-    "frq": 5478,
-    "composite_rank": 9313,
+    "phonetic": "/'sensәri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sensory&type=2",
+    "definition_en": "a. involving or derived from the senses",
+    "definition_zh": "a. 知觉的, 感觉的, 传递感觉的； 感觉的",
+    "frq": 8489,
+    "composite_rank": 10153,
     "badge": "normal",
     "examples": [
       {
-        "en": "Cognitive scientists study how subconscious psychiatric affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的精神病学的如何影响人类的决策机制。"
+        "en": "Cognitive scientists study how subconscious sensory affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的知觉的如何影响人类的决策机制。"
       },
       {
-        "en": "Understanding psychological aspects of psychiatric helps improve mental well-being.",
-        "zh": "了解精神病学的背后的心理机制有助于促进身心健康。"
+        "en": "Understanding psychological aspects of sensory helps improve mental well-being.",
+        "zh": "了解知觉的背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "phenomenal",
+    "word": "phenomenal",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/fi'nɒminәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=phenomenal&type=2",
+    "definition_en": "a. of or relating to a phenomenon\\ns. exceedingly or unbelievably great",
+    "definition_zh": "a. 现象的, 能知觉的, 异常的, 显著的, 惊人的",
+    "frq": 9058,
+    "composite_rank": 10833,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious phenomenal affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的现象的如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of phenomenal helps improve mental well-being.",
+        "zh": "了解现象的背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -675,6 +750,31 @@
     ]
   },
   {
+    "id": "paranoia",
+    "word": "paranoia",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/.pærә'nɒiә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=paranoia&type=2",
+    "definition_en": "n. a psychological disorder characterized by delusions of persecution or grandeur",
+    "definition_zh": "n. 偏执狂, 多疑症； 妄想狂, 偏执狂",
+    "frq": 10527,
+    "composite_rank": 12590,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious paranoia affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的偏执狂如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of paranoia helps improve mental well-being.",
+        "zh": "了解偏执狂背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
     "id": "insanity",
     "word": "insanity",
     "part_of_speech": "noun",
@@ -725,27 +825,52 @@
     ]
   },
   {
-    "id": "narcotic",
-    "word": "narcotic",
+    "id": "involuntary",
+    "word": "involuntary",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "/nɑ:'kɒtik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=narcotic&type=2",
-    "definition_en": "n. a drug that produces numbness or stupor; often taken for pleasure or to reduce pain; extensive use can lead to addiction\\na. of or relating to or designating narcotics\\ns. inducing stupor or narcosis\\ns. inducing mental lethargy",
-    "definition_zh": "n. 麻醉药, 镇静剂； a. 麻醉的, 催眠的",
-    "frq": 8433,
-    "composite_rank": 13189,
+    "phonetic": "/in'vɒlәntәri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=involuntary&type=2",
+    "definition_en": "a. not subject to the control of the will\\na. controlled by the autonomic nervous system; without conscious control",
+    "definition_zh": "a. 自然而然的, 无意识的, 不知不觉的, 偶然的, 不随意的； 不随意的",
+    "frq": 11042,
+    "composite_rank": 13206,
     "badge": "normal",
     "examples": [
       {
-        "en": "Cognitive scientists study how subconscious narcotic affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的麻醉药如何影响人类的决策机制。"
+        "en": "Cognitive scientists study how subconscious involuntary affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的自然而然的如何影响人类的决策机制。"
       },
       {
-        "en": "Understanding psychological aspects of narcotic helps improve mental well-being.",
-        "zh": "了解麻醉药背后的心理机制有助于促进身心健康。"
+        "en": "Understanding psychological aspects of involuntary helps improve mental well-being.",
+        "zh": "了解自然而然的背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "psychotherapy",
+    "word": "psychotherapy",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/.saikәu'θerәpi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychotherapy&type=2",
+    "definition_en": "n. the branch of psychiatry concerned with psychological methods\\nn. the treatment of mental or emotional problems by psychological means",
+    "definition_zh": "n. 精神疗法, 心理疗法； 精神疗法, 心理疗法",
+    "frq": 12460,
+    "composite_rank": 13606,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious psychotherapy affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的精神疗法如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of psychotherapy helps improve mental well-being.",
+        "zh": "了解精神疗法背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -800,52 +925,77 @@
     ]
   },
   {
-    "id": "phenomenal",
-    "word": "phenomenal",
+    "id": "mesmerize",
+    "word": "mesmerize",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "/fi'nɒminәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=phenomenal&type=2",
-    "definition_en": "a. of or relating to a phenomenon\\ns. exceedingly or unbelievably great",
-    "definition_zh": "a. 现象的, 能知觉的, 异常的, 显著的, 惊人的",
-    "frq": 9058,
-    "composite_rank": 14167,
+    "phonetic": "/'mezmәraiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mesmerize&type=2",
+    "definition_en": "v attract strongly, as if with a magnet\\nv induce hypnosis in",
+    "definition_zh": "vt. 施催眠术, 迷住, 迷惑； 催眠",
+    "frq": 11762,
+    "composite_rank": 14067,
     "badge": "normal",
     "examples": [
       {
-        "en": "Cognitive scientists study how subconscious phenomenal affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的现象的如何影响人类的决策机制。"
+        "en": "Cognitive scientists study how subconscious mesmerize affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的施催眠术如何影响人类的决策机制。"
       },
       {
-        "en": "Understanding psychological aspects of phenomenal helps improve mental well-being.",
-        "zh": "了解现象的背后的心理机制有助于促进身心健康。"
+        "en": "Understanding psychological aspects of mesmerize helps improve mental well-being.",
+        "zh": "了解施催眠术背后的心理机制有助于促进身心健康。"
       }
     ]
   },
   {
-    "id": "involuntarily",
-    "word": "involuntarily",
+    "id": "mania",
+    "word": "mania",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "/in'vɒlәntәrili/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=involuntarily&type=2",
-    "definition_en": "r. against your will",
-    "definition_zh": "adv. 不知不觉地, 无意识地",
-    "frq": 15439,
-    "composite_rank": 15439,
+    "phonetic": "/'meiniә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mania&type=2",
+    "definition_en": "n. an irrational but irresistible motive for a belief or action\\nn. a mood disorder; an affective disorder in which the victim tends to respond excessively and sometimes violently",
+    "definition_zh": "n. 狂躁, 热衷, 狂热； 躁狂, 狂",
+    "frq": 12415,
+    "composite_rank": 14848,
     "badge": "normal",
     "examples": [
       {
-        "en": "Cognitive scientists study how subconscious involuntarily affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的不知不觉地如何影响人类的决策机制。"
+        "en": "Cognitive scientists study how subconscious mania affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的狂躁如何影响人类的决策机制。"
       },
       {
-        "en": "Understanding psychological aspects of involuntarily helps improve mental well-being.",
-        "zh": "了解不知不觉地背后的心理机制有助于促进身心健康。"
+        "en": "Understanding psychological aspects of mania helps improve mental well-being.",
+        "zh": "了解狂躁背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "senseless",
+    "word": "senseless",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/'senslis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=senseless&type=2",
+    "definition_en": "s not marked by the use of reason\\ns unresponsive to stimulation\\ns serving no useful purpose; having no excuse for being\\ns (of especially persons) lacking sense or understanding or judgment",
+    "definition_zh": "a. 无感觉的, 无意识的, 不省人事的",
+    "frq": 12428,
+    "composite_rank": 14864,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious senseless affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的无感觉的如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of senseless helps improve mental well-being.",
+        "zh": "了解无感觉的背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -853,7 +1003,7 @@
     "id": "instinctive",
     "word": "instinctive",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/in'stiŋktiv/",
@@ -861,7 +1011,7 @@
     "definition_en": "s unthinking; prompted by (or as if by) instinct",
     "definition_zh": "a. 本能的, 天生的, 直觉的； 本能的",
     "frq": 14454,
-    "composite_rank": 20640,
+    "composite_rank": 15784,
     "badge": "high",
     "examples": [
       {
@@ -875,27 +1025,52 @@
     ]
   },
   {
-    "id": "subconscious",
-    "word": "subconscious",
+    "id": "psychoanalysis",
+    "word": "psychoanalysis",
     "part_of_speech": "noun",
     "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
-    "phonetic": "/.sʌb'kɒnʃәs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=subconscious&type=2",
-    "definition_en": "s. just below the level of consciousness",
-    "definition_zh": "n. 潜在意识, 下意识； a. 下意识的, 潜意识的",
-    "frq": 18135,
-    "composite_rank": 21689,
+    "phonetic": "/.saikәuә'nælәsis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=psychoanalysis&type=2",
+    "definition_en": "n. a set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of Sigmund Freud",
+    "definition_zh": "n. 心理分析； 精神分析",
+    "frq": 14180,
+    "composite_rank": 16959,
     "badge": "normal",
     "examples": [
       {
-        "en": "Cognitive scientists study how subconscious subconscious affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的潜在意识如何影响人类的决策机制。"
+        "en": "Cognitive scientists study how subconscious psychoanalysis affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的心理分析如何影响人类的决策机制。"
       },
       {
-        "en": "Understanding psychological aspects of subconscious helps improve mental well-being.",
-        "zh": "了解潜在意识背后的心理机制有助于促进身心健康。"
+        "en": "Understanding psychological aspects of psychoanalysis helps improve mental well-being.",
+        "zh": "了解心理分析背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "paranoid",
+    "word": "paranoid",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/'pærәnɔid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=paranoid&type=2",
+    "definition_en": "n. a person afflicted with paranoia\\ns. suffering from paranoia",
+    "definition_zh": "a. (似)患妄想狂的, (似)患偏执狂的； n. 患妄想狂的人",
+    "frq": 8652,
+    "composite_rank": 17512,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious paranoid affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的患妄想狂的人如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of paranoid helps improve mental well-being.",
+        "zh": "了解患妄想狂的人背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -903,7 +1078,7 @@
     "id": "fallacy",
     "word": "fallacy",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/'fælәsi/",
@@ -911,7 +1086,7 @@
     "definition_en": "n. a misconception resulting from incorrect reasoning",
     "definition_zh": "n. 错误的观念(或信念), 谬见, 谬论； 错觉, 幻觉, 虚妄",
     "frq": 14946,
-    "composite_rank": 23376,
+    "composite_rank": 17875,
     "badge": "normal",
     "examples": [
       {
@@ -928,7 +1103,7 @@
     "id": "perceptive",
     "word": "perceptive",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/pә'septiv/",
@@ -936,7 +1111,7 @@
     "definition_en": "a. of or relating to perception\\na. having the ability to perceive or understand; keen in discernment",
     "definition_zh": "a. 知觉的, 有知觉力的, 感知的； 知觉的",
     "frq": 15291,
-    "composite_rank": 23915,
+    "composite_rank": 18288,
     "badge": "normal",
     "examples": [
       {
@@ -946,6 +1121,81 @@
       {
         "en": "Understanding psychological aspects of perceptive helps improve mental well-being.",
         "zh": "了解知觉的背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "phobia",
+    "word": "phobia",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/'fәubiә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=phobia&type=2",
+    "definition_en": "n. an anxiety disorder characterized by extreme and irrational fear of simple things or social situations",
+    "definition_zh": "n. 恐怖病, 恐惧症, 惧怕, 憎恶； 恐怖",
+    "frq": 15469,
+    "composite_rank": 18501,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious phobia affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的恐怖病如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of phobia helps improve mental well-being.",
+        "zh": "了解恐怖病背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "inferiority",
+    "word": "inferiority",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/in.fiәri'ɒriti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=inferiority&type=2",
+    "definition_en": "n. the state of being inferior\\nn. an inferior quality\\nn. the quality of being a competitive disadvantage",
+    "definition_zh": "n. 自卑, 次等； 下位, 下级, 次级, 劣等",
+    "frq": 15138,
+    "composite_rank": 19679,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious inferiority affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的自卑如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of inferiority helps improve mental well-being.",
+        "zh": "了解自卑背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "involuntarily",
+    "word": "involuntarily",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/in'vɒlәntәrili/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=involuntarily&type=2",
+    "definition_en": "r. against your will",
+    "definition_zh": "adv. 不知不觉地, 无意识地",
+    "frq": 15439,
+    "composite_rank": 20071,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious involuntarily affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的不知不觉地如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of involuntarily helps improve mental well-being.",
+        "zh": "了解不知不觉地背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -971,6 +1221,31 @@
       {
         "en": "Understanding psychological aspects of aberration helps improve mental well-being.",
         "zh": "了解离开正路背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "hallucination",
+    "word": "hallucination",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/hә.lu:si'neiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hallucination&type=2",
+    "definition_en": "n. illusory perception; a common symptom of severe mental disorder\\nn. an object perceived during a hallucinatory episode",
+    "definition_zh": "n. 幻觉, 幻想； 幻觉",
+    "frq": 12535,
+    "composite_rank": 25371,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious hallucination affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的幻觉如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of hallucination helps improve mental well-being.",
+        "zh": "了解幻觉背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -1021,6 +1296,31 @@
       {
         "en": "Understanding psychological aspects of inanimate helps improve mental well-being.",
         "zh": "了解失去知觉的背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
+    "id": "subconscious",
+    "word": "subconscious",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/.sʌb'kɒnʃәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=subconscious&type=2",
+    "definition_en": "s. just below the level of consciousness",
+    "definition_zh": "n. 潜在意识, 下意识； a. 下意识的, 潜意识的",
+    "frq": 18135,
+    "composite_rank": 28363,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious subconscious affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的潜在意识如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of subconscious helps improve mental well-being.",
+        "zh": "了解潜在意识背后的心理机制有助于促进身心健康。"
       }
     ]
   },
@@ -1100,56 +1400,6 @@
     ]
   },
   {
-    "id": "denying",
-    "word": "denying",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/diˈnaiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=denying&type=2",
-    "definition_en": "v declare untrue; contradict\\nv refuse to accept or believe\\nv refuse to grant, as of a petition or request\\nv refuse to let have\\nv deny oneself (something); restrain, especially from indulging in some pleasure\\nv deny formally (an allegation of fact by the opposing party) in a legal suit\\nv refuse to recognize or acknowledge",
-    "definition_zh": "v. 拒绝( deny的现在分词 ); 拒绝承认; 拒绝…占有; 否认知情",
-    "frq": 38695,
-    "composite_rank": 38695,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Cognitive scientists study how subconscious denying affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的拒绝如何影响人类的决策机制。"
-      },
-      {
-        "en": "Understanding psychological aspects of denying helps improve mental well-being.",
-        "zh": "了解拒绝背后的心理机制有助于促进身心健康。"
-      }
-    ]
-  },
-  {
-    "id": "psychologists",
-    "word": "psychologists",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/saɪˈkɔlədʒɪsts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=psychologists&type=2",
-    "definition_en": "n. a scientist trained in psychology",
-    "definition_zh": "n. 心理学研究者, 心理学家( psychologist的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Cognitive scientists study how subconscious psychologists affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的心理学研究者如何影响人类的决策机制。"
-      },
-      {
-        "en": "Understanding psychological aspects of psychologists helps improve mental well-being.",
-        "zh": "了解心理学研究者背后的心理机制有助于促进身心健康。"
-      }
-    ]
-  },
-  {
     "id": "denies",
     "word": "denies",
     "part_of_speech": "noun",
@@ -1200,31 +1450,6 @@
     ]
   },
   {
-    "id": "senses",
-    "word": "senses",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/senses/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=senses&type=2",
-    "definition_en": "n a general conscious awareness\\nn the meaning of a word or expression; the way in which a word or expression or situation can be interpreted\\nn the faculty through which the external world is apprehended\\nn sound practical judgment\\nn a natural appreciation or ability\\nn street names for marijuana\\nv perceive by a physical sensation, e.g., coming from the skin or muscles\\nv detect some circumstance or entity automatically\\nv become aware of not through the senses but instinctively\\nv comprehend",
-    "definition_zh": "n. 五官的感觉, 知觉, 理性, 理智",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Cognitive scientists study how subconscious senses affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的五官的感觉如何影响人类的决策机制。"
-      },
-      {
-        "en": "Understanding psychological aspects of senses helps improve mental well-being.",
-        "zh": "了解五官的感觉背后的心理机制有助于促进身心健康。"
-      }
-    ]
-  },
-  {
     "id": "visions",
     "word": "visions",
     "part_of_speech": "noun",
@@ -1250,35 +1475,10 @@
     ]
   },
   {
-    "id": "instincts",
-    "word": "instincts",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "心理学与心智认知",
-    "category": "psychology",
-    "phonetic": "/instincts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=instincts&type=2",
-    "definition_en": "n inborn pattern of behavior often responsive to specific stimuli",
-    "definition_zh": "n. 直觉；本能（instinct的复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Cognitive scientists study how subconscious instincts affects human decision-making.",
-        "zh": "认知科学家研究潜意识中的直觉如何影响人类的决策机制。"
-      },
-      {
-        "en": "Understanding psychological aspects of instincts helps improve mental well-being.",
-        "zh": "了解直觉背后的心理机制有助于促进身心健康。"
-      }
-    ]
-  },
-  {
     "id": "hypnotherapy",
     "word": "hypnotherapy",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/.hipnә'θerәpi/",
@@ -1286,7 +1486,7 @@
     "definition_en": "n. the use of hypnosis in psychotherapy",
     "definition_zh": "n. 催眠疗法； 催眠疗法",
     "frq": 37303,
-    "composite_rank": 82067,
+    "composite_rank": 63415,
     "badge": "normal",
     "examples": [
       {
@@ -1300,10 +1500,35 @@
     ]
   },
   {
+    "id": "denying",
+    "word": "denying",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "心理学与心智认知",
+    "category": "psychology",
+    "phonetic": "/diˈnaiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=denying&type=2",
+    "definition_en": "v declare untrue; contradict\\nv refuse to accept or believe\\nv refuse to grant, as of a petition or request\\nv refuse to let have\\nv deny oneself (something); restrain, especially from indulging in some pleasure\\nv deny formally (an allegation of fact by the opposing party) in a legal suit\\nv refuse to recognize or acknowledge",
+    "definition_zh": "v. 拒绝( deny的现在分词 ); 拒绝承认; 拒绝…占有; 否认知情",
+    "frq": 38695,
+    "composite_rank": 65782,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Cognitive scientists study how subconscious denying affects human decision-making.",
+        "zh": "认知科学家研究潜意识中的拒绝如何影响人类的决策机制。"
+      },
+      {
+        "en": "Understanding psychological aspects of denying helps improve mental well-being.",
+        "zh": "了解拒绝背后的心理机制有助于促进身心健康。"
+      }
+    ]
+  },
+  {
     "id": "mesmeric",
     "word": "mesmeric",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "心理学与心智认知",
     "category": "psychology",
     "phonetic": "/mes'merik/",
@@ -1311,7 +1536,7 @@
     "definition_en": "s attracting and holding interest as if by a spell",
     "definition_zh": "a. 催眠术的； 催眠术的",
     "frq": 45133,
-    "composite_rank": 99293,
+    "composite_rank": 76726,
     "badge": "normal",
     "examples": [
       {

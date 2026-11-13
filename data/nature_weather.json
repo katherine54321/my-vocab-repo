@@ -475,6 +475,31 @@
     ]
   },
   {
+    "id": "native",
+    "word": "native",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'neitiv/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=native&type=2",
+    "definition_en": "n. an indigenous person who was born in a particular place\\nn. a person born in a particular place or country\\nn. indigenous plants and animals\\na. characteristic of or existing by virtue of geographic origin",
+    "definition_zh": "n. 本地人, 土产, 当地人； a. 本国的, 与生俱来的, 自然的",
+    "frq": 1403,
+    "composite_rank": 853,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "A remarkable shift in native brought noticeable changes to the ecosystem.",
+        "zh": "本地人的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of native throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪本地人的变化规律。"
+      }
+    ]
+  },
+  {
     "id": "wet",
     "word": "wet",
     "part_of_speech": "noun",
@@ -546,31 +571,6 @@
       {
         "en": "Meteorologists closely track the patterns of universe throughout the season.",
         "zh": "气象学家在整个季节中密切跟踪宇宙的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "native",
-    "word": "native",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'neitiv/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=native&type=2",
-    "definition_en": "n. an indigenous person who was born in a particular place\\nn. a person born in a particular place or country\\nn. indigenous plants and animals\\na. characteristic of or existing by virtue of geographic origin",
-    "definition_zh": "n. 本地人, 土产, 当地人； a. 本国的, 与生俱来的, 自然的",
-    "frq": 1403,
-    "composite_rank": 1066,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "A remarkable shift in native brought noticeable changes to the ecosystem.",
-        "zh": "本地人的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of native throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪本地人的变化规律。"
       }
     ]
   },
@@ -725,35 +725,10 @@
     ]
   },
   {
-    "id": "steam",
-    "word": "steam",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/sti:m/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=steam&type=2",
-    "definition_en": "n. water at boiling temperature diffused in the atmosphere\\nv. emit steam\\nv. rise as vapor\\nv. get very angry",
-    "definition_zh": "n. 蒸汽, 精力； a. 蒸汽的； vi. 蒸发, 行驶, 发怒； vt. 蒸, 煮, 散发",
-    "frq": 4139,
-    "composite_rank": 1762,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "A remarkable shift in steam brought noticeable changes to the ecosystem.",
-        "zh": "蒸汽的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of steam throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪蒸汽的变化规律。"
-      }
-    ]
-  },
-  {
     "id": "snap",
     "word": "snap",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
     "phonetic": "/snæp/",
@@ -761,7 +736,7 @@
     "definition_en": "n. a spell of cold weather\\nn. the noise produced by the rapid movement of a finger from the tip to the base of the thumb on the same hand\\nn. a sudden breaking\\nn. a fastener used on clothing; fastens with a snapping sound",
     "definition_zh": "vt. 使突然中断, 猛咬, 争夺, 拉断, 使有啪啪声, 厉声说, 突然射击, 用快照拍摄； vi. 咬, 扑, 抓, 折断, 劈啪地响, 厉声说, 砰然关上； n. 猛咬, 猛扑, 劈啪声, 申斥, 快照, 活力, 一般时期的寒冷天气, 揿钮； a. 突然的, 装搭扣的； adv. 猛地； 子网访问协议",
     "frq": 2597,
-    "composite_rank": 1974,
+    "composite_rank": 1579,
     "badge": "core",
     "examples": [
       {
@@ -771,6 +746,56 @@
       {
         "en": "Meteorologists closely track the patterns of snap throughout the season.",
         "zh": "气象学家在整个季节中密切跟踪猛咬的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "solar",
+    "word": "solar",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'sәulә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=solar&type=2",
+    "definition_en": "a. relating to or derived from the sun or utilizing the energies of the sun",
+    "definition_zh": "a. 太阳的, 日光的, 源自太阳的； 太阳的; 腹腔丛的",
+    "frq": 2744,
+    "composite_rank": 1844,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "A remarkable shift in solar brought noticeable changes to the ecosystem.",
+        "zh": "太阳的的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of solar throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪太阳的的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "steam",
+    "word": "steam",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/sti:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=steam&type=2",
+    "definition_en": "n. water at boiling temperature diffused in the atmosphere\\nv. emit steam\\nv. rise as vapor\\nv. get very angry",
+    "definition_zh": "n. 蒸汽, 精力； a. 蒸汽的； vi. 蒸发, 行驶, 发怒； vt. 蒸, 煮, 散发",
+    "frq": 4139,
+    "composite_rank": 2202,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "A remarkable shift in steam brought noticeable changes to the ecosystem.",
+        "zh": "蒸汽的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of steam throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪蒸汽的变化规律。"
       }
     ]
   },
@@ -800,27 +825,152 @@
     ]
   },
   {
-    "id": "solar",
-    "word": "solar",
+    "id": "wildlife",
+    "word": "wildlife",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'waildlaif/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wildlife&type=2",
+    "definition_en": "n. all living things (except people) that are undomesticated",
+    "definition_zh": "n. 野生动植物",
+    "frq": 3859,
+    "composite_rank": 2593,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in wildlife brought noticeable changes to the ecosystem.",
+        "zh": "野生动植物的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of wildlife throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪野生动植物的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "sunlight",
+    "word": "sunlight",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'sʌnlait/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sunlight&type=2",
+    "definition_en": "n. the rays of the sun",
+    "definition_zh": "n. 日光； 日光, 太阳光",
+    "frq": 3895,
+    "composite_rank": 2617,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in sunlight brought noticeable changes to the ecosystem.",
+        "zh": "日光的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of sunlight throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪日光的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "earthquake",
+    "word": "earthquake",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'ә:θkweik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=earthquake&type=2",
+    "definition_en": "n. shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity\\nn. a disturbance that is extremely disruptive",
+    "definition_zh": "n. 地震",
+    "frq": 4261,
+    "composite_rank": 2863,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in earthquake brought noticeable changes to the ecosystem.",
+        "zh": "地震的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of earthquake throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪地震的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "hurricane",
+    "word": "hurricane",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'hә:rikәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hurricane&type=2",
+    "definition_en": "n. a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale)",
+    "definition_zh": "n. 飓风, 暴风, 暴风雨",
+    "frq": 4512,
+    "composite_rank": 3032,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in hurricane brought noticeable changes to the ecosystem.",
+        "zh": "飓风的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of hurricane throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪飓风的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "weird",
+    "word": "weird",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'sәulә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=solar&type=2",
-    "definition_en": "a. relating to or derived from the sun or utilizing the energies of the sun",
-    "definition_zh": "a. 太阳的, 日光的, 源自太阳的； 太阳的; 腹腔丛的",
-    "frq": 2744,
-    "composite_rank": 2305,
-    "badge": "core",
+    "phonetic": "/wiәd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=weird&type=2",
+    "definition_en": "s. strikingly odd or unusual; some weird effect of shadow\"- Bram Stoker",
+    "definition_zh": "a. 怪异的, 超自然的, 不可思议的； n. 命运, 预言, 符咒",
+    "frq": 3632,
+    "composite_rank": 3051,
+    "badge": "high",
     "examples": [
       {
-        "en": "A remarkable shift in solar brought noticeable changes to the ecosystem.",
-        "zh": "太阳的的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in weird brought noticeable changes to the ecosystem.",
+        "zh": "命运的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of solar throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪太阳的的变化规律。"
+        "en": "Meteorologists closely track the patterns of weird throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪命运的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "lightning",
+    "word": "lightning",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'laitniŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lightning&type=2",
+    "definition_en": "n. abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light\\nn. the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash); can scintillate for a second or more",
+    "definition_zh": "n. 闪电； vi. 闪电； a. 闪电的",
+    "frq": 4562,
+    "composite_rank": 3066,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in lightning brought noticeable changes to the ecosystem.",
+        "zh": "闪电的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of lightning throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪闪电的变化规律。"
       }
     ]
   },
@@ -850,77 +1000,52 @@
     ]
   },
   {
-    "id": "wildlife",
-    "word": "wildlife",
+    "id": "clay",
+    "word": "clay",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'waildlaif/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wildlife&type=2",
-    "definition_en": "n. all living things (except people) that are undomesticated",
-    "definition_zh": "n. 野生动植物",
-    "frq": 3859,
-    "composite_rank": 3242,
+    "phonetic": "/klei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=clay&type=2",
+    "definition_en": "n. a very fine-grained soil that is plastic when moist but hard when fired\\nn. United States general who commanded United States forces in Europe from 1945 to 1949 and who oversaw the Berlin airlift (1897-1978)\\nn. United States politician responsible for the Missouri Compromise between free and slave states (1777-1852)",
+    "definition_zh": "n. 泥土, 肉体, 黏土； 粘土",
+    "frq": 4771,
+    "composite_rank": 3206,
     "badge": "high",
     "examples": [
       {
-        "en": "A remarkable shift in wildlife brought noticeable changes to the ecosystem.",
-        "zh": "野生动植物的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in clay brought noticeable changes to the ecosystem.",
+        "zh": "泥土的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of wildlife throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪野生动植物的变化规律。"
+        "en": "Meteorologists closely track the patterns of clay throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪泥土的变化规律。"
       }
     ]
   },
   {
-    "id": "sunlight",
-    "word": "sunlight",
+    "id": "sunny",
+    "word": "sunny",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'sʌnlait/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sunlight&type=2",
-    "definition_en": "n. the rays of the sun",
-    "definition_zh": "n. 日光； 日光, 太阳光",
-    "frq": 3895,
-    "composite_rank": 3272,
+    "phonetic": "/'sʌni/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sunny&type=2",
+    "definition_en": "s bright and pleasant; promoting a feeling of cheer",
+    "definition_zh": "a. 阳光充足的, 乐观的, 快乐的, 像太阳的",
+    "frq": 4866,
+    "composite_rank": 3270,
     "badge": "high",
     "examples": [
       {
-        "en": "A remarkable shift in sunlight brought noticeable changes to the ecosystem.",
-        "zh": "日光的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in sunny brought noticeable changes to the ecosystem.",
+        "zh": "阳光充足的的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of sunlight throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪日光的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "earthquake",
-    "word": "earthquake",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'ә:θkweik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=earthquake&type=2",
-    "definition_en": "n. shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity\\nn. a disturbance that is extremely disruptive",
-    "definition_zh": "n. 地震",
-    "frq": 4261,
-    "composite_rank": 3579,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in earthquake brought noticeable changes to the ecosystem.",
-        "zh": "地震的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of earthquake throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪地震的变化规律。"
+        "en": "Meteorologists closely track the patterns of sunny throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪阳光充足的的变化规律。"
       }
     ]
   },
@@ -950,27 +1075,27 @@
     ]
   },
   {
-    "id": "hurricane",
-    "word": "hurricane",
+    "id": "ecological",
+    "word": "ecological",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'hә:rikәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hurricane&type=2",
-    "definition_en": "n. a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale)",
-    "definition_zh": "n. 飓风, 暴风, 暴风雨",
-    "frq": 4512,
-    "composite_rank": 3790,
+    "phonetic": "/.i:kә'lɒdʒikәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ecological&type=2",
+    "definition_en": "a. characterized by the interdependence of living organisms in an environment\\na. of or relating to the science of ecology",
+    "definition_zh": "a. 生态学的, 主张生态保护的； 生态的, 生态学的",
+    "frq": 4396,
+    "composite_rank": 3693,
     "badge": "high",
     "examples": [
       {
-        "en": "A remarkable shift in hurricane brought noticeable changes to the ecosystem.",
-        "zh": "飓风的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in ecological brought noticeable changes to the ecosystem.",
+        "zh": "生态学的的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of hurricane throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪飓风的变化规律。"
+        "en": "Meteorologists closely track the patterns of ecological throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪生态学的的变化规律。"
       }
     ]
   },
@@ -1000,106 +1125,6 @@
     ]
   },
   {
-    "id": "lightning",
-    "word": "lightning",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'laitniŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=lightning&type=2",
-    "definition_en": "n. abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light\\nn. the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash); can scintillate for a second or more",
-    "definition_zh": "n. 闪电； vi. 闪电； a. 闪电的",
-    "frq": 4562,
-    "composite_rank": 3832,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in lightning brought noticeable changes to the ecosystem.",
-        "zh": "闪电的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of lightning throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪闪电的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "weird",
-    "word": "weird",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/wiәd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=weird&type=2",
-    "definition_en": "s. strikingly odd or unusual; some weird effect of shadow\"- Bram Stoker",
-    "definition_zh": "a. 怪异的, 超自然的, 不可思议的； n. 命运, 预言, 符咒",
-    "frq": 3632,
-    "composite_rank": 3966,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in weird brought noticeable changes to the ecosystem.",
-        "zh": "命运的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of weird throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪命运的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "clay",
-    "word": "clay",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/klei/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=clay&type=2",
-    "definition_en": "n. a very fine-grained soil that is plastic when moist but hard when fired\\nn. United States general who commanded United States forces in Europe from 1945 to 1949 and who oversaw the Berlin airlift (1897-1978)\\nn. United States politician responsible for the Missouri Compromise between free and slave states (1777-1852)",
-    "definition_zh": "n. 泥土, 肉体, 黏土； 粘土",
-    "frq": 4771,
-    "composite_rank": 4008,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in clay brought noticeable changes to the ecosystem.",
-        "zh": "泥土的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of clay throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪泥土的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "sunny",
-    "word": "sunny",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'sʌni/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sunny&type=2",
-    "definition_en": "s bright and pleasant; promoting a feeling of cheer",
-    "definition_zh": "a. 阳光充足的, 乐观的, 快乐的, 像太阳的",
-    "frq": 4866,
-    "composite_rank": 4087,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in sunny brought noticeable changes to the ecosystem.",
-        "zh": "阳光充足的的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of sunny throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪阳光充足的的变化规律。"
-      }
-    ]
-  },
-  {
     "id": "bolt",
     "word": "bolt",
     "part_of_speech": "noun",
@@ -1121,6 +1146,31 @@
       {
         "en": "Meteorologists closely track the patterns of bolt throughout the season.",
         "zh": "气象学家在整个季节中密切跟踪门闩的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "ecosystem",
+    "word": "ecosystem",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'i:kәu.sistәm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ecosystem&type=2",
+    "definition_en": "n. a system formed by the interaction of a community of organisms with their physical environment",
+    "definition_zh": "n. 生态系统； 生态系",
+    "frq": 4528,
+    "composite_rank": 4166,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in ecosystem brought noticeable changes to the ecosystem.",
+        "zh": "生态系统的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of ecosystem throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪生态系统的变化规律。"
       }
     ]
   },
@@ -1175,6 +1225,56 @@
     ]
   },
   {
+    "id": "wax",
+    "word": "wax",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/wæks/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wax&type=2",
+    "definition_en": "n. any of various substances of either mineral origin or plant or animal origin; they are solid at normal temperatures and insoluble in water\\nv. cover with wax\\nv. go up or advance\\nv. increase in phase",
+    "definition_zh": "n. 蜡, 蜡状物, 一阵发怒, 增加, (月亮)渐盈； vi. 变大, 增大, 月亮渐满； vt. 上蜡于",
+    "frq": 7228,
+    "composite_rank": 4857,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in wax brought noticeable changes to the ecosystem.",
+        "zh": "蜡的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of wax throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪蜡的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "rainbow",
+    "word": "rainbow",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'reinbәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rainbow&type=2",
+    "definition_en": "n. an arc of colored light in the sky caused by refraction of the sun's rays by rain\\nn. an illusory hope",
+    "definition_zh": "n. 彩虹； a. 五彩缤纷的",
+    "frq": 7427,
+    "composite_rank": 4991,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in rainbow brought noticeable changes to the ecosystem.",
+        "zh": "彩虹的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of rainbow throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪彩虹的变化规律。"
+      }
+    ]
+  },
+  {
     "id": "meadow",
     "word": "meadow",
     "part_of_speech": "noun",
@@ -1200,27 +1300,77 @@
     ]
   },
   {
-    "id": "ecosystem",
-    "word": "ecosystem",
+    "id": "sunshine",
+    "word": "sunshine",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'i:kәu.sistәm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ecosystem&type=2",
-    "definition_en": "n. a system formed by the interaction of a community of organisms with their physical environment",
-    "definition_zh": "n. 生态系统； 生态系",
-    "frq": 4528,
-    "composite_rank": 5415,
+    "phonetic": "/'sʌnʃain/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sunshine&type=2",
+    "definition_en": "n the rays of the sun\\nn moderate weather; suitable for outdoor activities\\nn the quality of being cheerful and dispelling gloom",
+    "definition_zh": "n. 阳光, 光明, 晴天",
+    "frq": 7752,
+    "composite_rank": 5209,
     "badge": "high",
     "examples": [
       {
-        "en": "A remarkable shift in ecosystem brought noticeable changes to the ecosystem.",
-        "zh": "生态系统的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in sunshine brought noticeable changes to the ecosystem.",
+        "zh": "阳光的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of ecosystem throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪生态系统的变化规律。"
+        "en": "Meteorologists closely track the patterns of sunshine throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪阳光的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "thunder",
+    "word": "thunder",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'θʌndә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=thunder&type=2",
+    "definition_en": "n. a booming or crashing noise caused by air expanding along the path of a bolt of lightning\\nv. move fast, noisily, and heavily\\nv. utter words loudly and forcefully\\nv. be the case that thunder is being heard",
+    "definition_zh": "n. 雷, 雷声； vi. 打雷, 轰隆地响, 怒喝； vt. 大声喊出, 轰隆地发出",
+    "frq": 8090,
+    "composite_rank": 5436,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in thunder brought noticeable changes to the ecosystem.",
+        "zh": "雷的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of thunder throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪雷的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "rainy",
+    "word": "rainy",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'reini/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rainy&type=2",
+    "definition_en": "s (of weather) wet by periods of rain",
+    "definition_zh": "a. 下雨的, 多雨的",
+    "frq": 7477,
+    "composite_rank": 5503,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in rainy brought noticeable changes to the ecosystem.",
+        "zh": "下雨的的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of rainy throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪下雨的的变化规律。"
       }
     ]
   },
@@ -1246,6 +1396,31 @@
       {
         "en": "Meteorologists closely track the patterns of spontaneous throughout the season.",
         "zh": "气象学家在整个季节中密切跟踪自然的的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "asteroid",
+    "word": "asteroid",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'æstәrɒid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=asteroid&type=2",
+    "definition_en": "n. any of numerous small celestial bodies composed of rock and metal that move around the sun (mainly between the orbits of Mars and Jupiter)\\ns. shaped like a star",
+    "definition_zh": "n. 小行星, 海盘车； a. 星状的",
+    "frq": 6181,
+    "composite_rank": 5687,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in asteroid brought noticeable changes to the ecosystem.",
+        "zh": "小行星的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of asteroid throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪小行星的变化规律。"
       }
     ]
   },
@@ -1300,77 +1475,27 @@
     ]
   },
   {
-    "id": "wax",
-    "word": "wax",
+    "id": "temporal",
+    "word": "temporal",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/wæks/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wax&type=2",
-    "definition_en": "n. any of various substances of either mineral origin or plant or animal origin; they are solid at normal temperatures and insoluble in water\\nv. cover with wax\\nv. go up or advance\\nv. increase in phase",
-    "definition_zh": "n. 蜡, 蜡状物, 一阵发怒, 增加, (月亮)渐盈； vi. 变大, 增大, 月亮渐满； vt. 上蜡于",
-    "frq": 7228,
-    "composite_rank": 6072,
+    "phonetic": "/'tempәrәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=temporal&type=2",
+    "definition_en": "s. not eternal\\na. of or relating to or limited by time\\na. of or relating to the temples (the sides of the skull behind the orbit)\\ns. of this earth or world",
+    "definition_zh": "a. 时间的, 暂时的, 现世的, 世俗的, 颞的, 太阳穴的； n. 世间万物, 教会财产",
+    "frq": 6868,
+    "composite_rank": 6319,
     "badge": "high",
     "examples": [
       {
-        "en": "A remarkable shift in wax brought noticeable changes to the ecosystem.",
-        "zh": "蜡的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in temporal brought noticeable changes to the ecosystem.",
+        "zh": "世间万物的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of wax throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪蜡的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "rainbow",
-    "word": "rainbow",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'reinbәu/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=rainbow&type=2",
-    "definition_en": "n. an arc of colored light in the sky caused by refraction of the sun's rays by rain\\nn. an illusory hope",
-    "definition_zh": "n. 彩虹； a. 五彩缤纷的",
-    "frq": 7427,
-    "composite_rank": 6239,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in rainbow brought noticeable changes to the ecosystem.",
-        "zh": "彩虹的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of rainbow throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪彩虹的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "ecological",
-    "word": "ecological",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/.i:kә'lɒdʒikәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ecological&type=2",
-    "definition_en": "a. characterized by the interdependence of living organisms in an environment\\na. of or relating to the science of ecology",
-    "definition_zh": "a. 生态学的, 主张生态保护的； 生态的, 生态学的",
-    "frq": 4396,
-    "composite_rank": 6277,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in ecological brought noticeable changes to the ecosystem.",
-        "zh": "生态学的的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of ecological throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪生态学的的变化规律。"
+        "en": "Meteorologists closely track the patterns of temporal throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪世间万物的变化规律。"
       }
     ]
   },
@@ -1396,31 +1521,6 @@
       {
         "en": "Meteorologists closely track the patterns of sunglasses throughout the season.",
         "zh": "气象学家在整个季节中密切跟踪太阳镜的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "sunshine",
-    "word": "sunshine",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'sʌnʃain/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sunshine&type=2",
-    "definition_en": "n the rays of the sun\\nn moderate weather; suitable for outdoor activities\\nn the quality of being cheerful and dispelling gloom",
-    "definition_zh": "n. 阳光, 光明, 晴天",
-    "frq": 7752,
-    "composite_rank": 6512,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in sunshine brought noticeable changes to the ecosystem.",
-        "zh": "阳光的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of sunshine throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪阳光的变化规律。"
       }
     ]
   },
@@ -1475,52 +1575,102 @@
     ]
   },
   {
-    "id": "thunder",
-    "word": "thunder",
+    "id": "foliage",
+    "word": "foliage",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'θʌndә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=thunder&type=2",
-    "definition_en": "n. a booming or crashing noise caused by air expanding along the path of a bolt of lightning\\nv. move fast, noisily, and heavily\\nv. utter words loudly and forcefully\\nv. be the case that thunder is being heard",
-    "definition_zh": "n. 雷, 雷声； vi. 打雷, 轰隆地响, 怒喝； vt. 大声喊出, 轰隆地发出",
-    "frq": 8090,
-    "composite_rank": 6796,
-    "badge": "high",
+    "phonetic": "/'fәuliidʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=foliage&type=2",
+    "definition_en": "n the main organ of photosynthesis and transpiration in higher plants\\nn (architecture) leaf-like architectural ornament",
+    "definition_zh": "n. 树叶, 植物",
+    "frq": 7345,
+    "composite_rank": 6757,
+    "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in thunder brought noticeable changes to the ecosystem.",
-        "zh": "雷的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in foliage brought noticeable changes to the ecosystem.",
+        "zh": "树叶的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of thunder throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪雷的变化规律。"
+        "en": "Meteorologists closely track the patterns of foliage throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪树叶的变化规律。"
       }
     ]
   },
   {
-    "id": "rainy",
-    "word": "rainy",
+    "id": "planetary",
+    "word": "planetary",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'reini/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=rainy&type=2",
-    "definition_en": "s (of weather) wet by periods of rain",
-    "definition_zh": "a. 下雨的, 多雨的",
-    "frq": 7477,
-    "composite_rank": 6879,
+    "phonetic": "/'plænitri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=planetary&type=2",
+    "definition_en": "a. of or relating to or characteristic of the planet Earth or its inhabitants",
+    "definition_zh": "a. 行星的, 流浪的, 迁移不定的, 地球上的, 现世的",
+    "frq": 6943,
+    "composite_rank": 6943,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in rainy brought noticeable changes to the ecosystem.",
-        "zh": "下雨的的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in planetary brought noticeable changes to the ecosystem.",
+        "zh": "行星的的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of rainy throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪下雨的的变化规律。"
+        "en": "Meteorologists closely track the patterns of planetary throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪行星的的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "snowy",
+    "word": "snowy",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'snәui/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=snowy&type=2",
+    "definition_en": "s marked by the presence of snow\\ns covered with snow\\ns of the white color of snow",
+    "definition_zh": "a. 多雪的, 雪的, 被雪所覆盖着的, 下雪的",
+    "frq": 9600,
+    "composite_rank": 7066,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in snowy brought noticeable changes to the ecosystem.",
+        "zh": "多雪的的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of snowy throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪多雪的的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "observatory",
+    "word": "observatory",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/әb'zә:vәtәri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=observatory&type=2",
+    "definition_en": "n. a building designed and equipped to observe astronomical phenomena",
+    "definition_zh": "n. 天文台, 气象台, 了望台",
+    "frq": 7738,
+    "composite_rank": 7119,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in observatory brought noticeable changes to the ecosystem.",
+        "zh": "天文台的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of observatory throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪天文台的变化规律。"
       }
     ]
   },
@@ -1596,6 +1746,31 @@
       {
         "en": "Meteorologists closely track the patterns of vegetation throughout the season.",
         "zh": "气象学家在整个季节中密切跟踪植物的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "cloudy",
+    "word": "cloudy",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'klaudi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cloudy&type=2",
+    "definition_en": "s. lacking definite form or limits\\na. full of or covered with clouds\\ns. (of liquids) clouded as with sediment",
+    "definition_zh": "a. 多云的, 有愁容的, 云的, 浑浊的； (混)浊的",
+    "frq": 10229,
+    "composite_rank": 7529,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "A remarkable shift in cloudy brought noticeable changes to the ecosystem.",
+        "zh": "多云的的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of cloudy throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪多云的的变化规律。"
       }
     ]
   },
@@ -1775,31 +1950,6 @@
     ]
   },
   {
-    "id": "snowy",
-    "word": "snowy",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'snәui/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=snowy&type=2",
-    "definition_en": "s marked by the presence of snow\\ns covered with snow\\ns of the white color of snow",
-    "definition_zh": "a. 多雪的, 雪的, 被雪所覆盖着的, 下雪的",
-    "frq": 9600,
-    "composite_rank": 8832,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in snowy brought noticeable changes to the ecosystem.",
-        "zh": "多雪的的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of snowy throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪多雪的的变化规律。"
-      }
-    ]
-  },
-  {
     "id": "botanical",
     "word": "botanical",
     "part_of_speech": "noun",
@@ -1821,56 +1971,6 @@
       {
         "en": "Meteorologists closely track the patterns of botanical throughout the season.",
         "zh": "气象学家在整个季节中密切跟踪植物性药材的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "cloudy",
-    "word": "cloudy",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'klaudi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cloudy&type=2",
-    "definition_en": "s. lacking definite form or limits\\na. full of or covered with clouds\\ns. (of liquids) clouded as with sediment",
-    "definition_zh": "a. 多云的, 有愁容的, 云的, 浑浊的； (混)浊的",
-    "frq": 10229,
-    "composite_rank": 9411,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in cloudy brought noticeable changes to the ecosystem.",
-        "zh": "多云的的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of cloudy throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪多云的的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "asteroid",
-    "word": "asteroid",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'æstәrɒid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=asteroid&type=2",
-    "definition_en": "n. any of numerous small celestial bodies composed of rock and metal that move around the sun (mainly between the orbits of Mars and Jupiter)\\ns. shaped like a star",
-    "definition_zh": "n. 小行星, 海盘车； a. 星状的",
-    "frq": 6181,
-    "composite_rank": 9667,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in asteroid brought noticeable changes to the ecosystem.",
-        "zh": "小行星的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of asteroid throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪小行星的变化规律。"
       }
     ]
   },
@@ -1900,6 +2000,106 @@
     ]
   },
   {
+    "id": "floral",
+    "word": "floral",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'flɒ:rәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=floral&type=2",
+    "definition_en": "s. resembling or made of or suggestive of flowers\\na. relating to or associated with flowers\\na. of or relating to the plant life in a particular region",
+    "definition_zh": "a. 花似的, 花的, 植物的",
+    "frq": 8357,
+    "composite_rank": 9995,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in floral brought noticeable changes to the ecosystem.",
+        "zh": "花似的的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of floral throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪花似的的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "supernatural",
+    "word": "supernatural",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/.sju:pә'nætʃәrәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=supernatural&type=2",
+    "definition_en": "n. supernatural forces and events and beings collectively\\na. not existing in nature or subject to explanation according to natural laws; not physical or material",
+    "definition_zh": "a. 超自然的, 神奇的； 超自然的",
+    "frq": 8600,
+    "composite_rank": 10286,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in supernatural brought noticeable changes to the ecosystem.",
+        "zh": "超自然的的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of supernatural throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪超自然的的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "seep",
+    "word": "seep",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/si:p/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=seep&type=2",
+    "definition_en": "v. pass gradually or leak through or as if through small openings",
+    "definition_zh": "vi. 渗出, 渗流, 漏； n. 小泉, 水陆两用吉普车",
+    "frq": 8656,
+    "composite_rank": 10353,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in seep brought noticeable changes to the ecosystem.",
+        "zh": "小泉的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of seep throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪小泉的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "mundane",
+    "word": "mundane",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'mʌndein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mundane&type=2",
+    "definition_en": "s. concerned with the world or worldly matters\\ns. belonging to this earth or world; not ideal or heavenly; yet a mundane wonder of unimagined kind\"",
+    "definition_zh": "a. 现世的, 世俗的, 宇宙的",
+    "frq": 8820,
+    "composite_rank": 10549,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in mundane brought noticeable changes to the ecosystem.",
+        "zh": "现世的的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of mundane throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪现世的的变化规律。"
+      }
+    ]
+  },
+  {
     "id": "stormy",
     "word": "stormy",
     "part_of_speech": "noun",
@@ -1925,52 +2125,52 @@
     ]
   },
   {
-    "id": "temporal",
-    "word": "temporal",
+    "id": "puddle",
+    "word": "puddle",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'tempәrәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=temporal&type=2",
-    "definition_en": "s. not eternal\\na. of or relating to or limited by time\\na. of or relating to the temples (the sides of the skull behind the orbit)\\ns. of this earth or world",
-    "definition_zh": "a. 时间的, 暂时的, 现世的, 世俗的, 颞的, 太阳穴的； n. 世间万物, 教会财产",
-    "frq": 6868,
-    "composite_rank": 10742,
+    "phonetic": "/'pʌdl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=puddle&type=2",
+    "definition_en": "n. a mixture of wet clay and sand that can be used to line a pond and that is impervious to water when dry\\nv. wade or dabble in a puddle\\nv. subject to puddling or form by puddling\\nv. dip into mud before planting",
+    "definition_zh": "n. 小池, 水坑, 胶土； vt. 搅浊, 搅炼； vi. 在泥污中打滚, (把黏土等)捣制成胶土",
+    "frq": 9010,
+    "composite_rank": 10776,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in temporal brought noticeable changes to the ecosystem.",
-        "zh": "世间万物的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in puddle brought noticeable changes to the ecosystem.",
+        "zh": "小池的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of temporal throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪世间万物的变化规律。"
+        "en": "Meteorologists closely track the patterns of puddle throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪小池的变化规律。"
       }
     ]
   },
   {
-    "id": "foliage",
-    "word": "foliage",
+    "id": "terrestrial",
+    "word": "terrestrial",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'fәuliidʒ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=foliage&type=2",
-    "definition_en": "n the main organ of photosynthesis and transpiration in higher plants\\nn (architecture) leaf-like architectural ornament",
-    "definition_zh": "n. 树叶, 植物",
-    "frq": 7345,
-    "composite_rank": 11488,
+    "phonetic": "/tә'restriәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=terrestrial&type=2",
+    "definition_en": "a. operating or living or growing on land",
+    "definition_zh": "n. 地球上的人； a. 地球的, 陆生的, 陆地的, 人间的",
+    "frq": 9615,
+    "composite_rank": 11500,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in foliage brought noticeable changes to the ecosystem.",
-        "zh": "树叶的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in terrestrial brought noticeable changes to the ecosystem.",
+        "zh": "地球上的人的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of foliage throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪树叶的变化规律。"
+        "en": "Meteorologists closely track the patterns of terrestrial throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪地球上的人的变化规律。"
       }
     ]
   },
@@ -2025,27 +2225,102 @@
     ]
   },
   {
-    "id": "planetary",
-    "word": "planetary",
+    "id": "iris",
+    "word": "iris",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'plænitri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=planetary&type=2",
-    "definition_en": "a. of or relating to or characteristic of the planet Earth or its inhabitants",
-    "definition_zh": "a. 行星的, 流浪的, 迁移不定的, 地球上的, 现世的",
-    "frq": 6943,
-    "composite_rank": 11803,
+    "phonetic": "/'airis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=iris&type=2",
+    "definition_en": "n. plants with sword-shaped leaves and erect stalks bearing bright-colored flowers composed of three petals and three drooping sepals\\nn. muscular diaphragm that controls the size of the pupil which in turn controls the amount of light that enters the eye; it forms the colored portion of the eye\\nn. diaphragm consisting of thin overlapping plates that can be adjusted to change the diameter of a central opening",
+    "definition_zh": "n. 虹膜, 鸢尾属植物, 虹, 虹彩； 可变光阑",
+    "frq": 9741,
+    "composite_rank": 11650,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in planetary brought noticeable changes to the ecosystem.",
-        "zh": "行星的的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in iris brought noticeable changes to the ecosystem.",
+        "zh": "虹膜的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of planetary throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪行星的的变化规律。"
+        "en": "Meteorologists closely track the patterns of iris throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪虹膜的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "wooded",
+    "word": "wooded",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'wudid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wooded&type=2",
+    "definition_en": "a. covered with growing trees and bushes etc",
+    "definition_zh": "a. 树木繁茂的",
+    "frq": 9850,
+    "composite_rank": 11781,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in wooded brought noticeable changes to the ecosystem.",
+        "zh": "树木繁茂的的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of wooded throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪树木繁茂的的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "scribble",
+    "word": "scribble",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'skribl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scribble&type=2",
+    "definition_en": "n. poor handwriting\\nn. an aimless drawing\\nv. write down quickly without much attention to detail\\nv. write carelessly",
+    "definition_zh": "n. 潦草的写法, 潦草写成的东西, 拙劣的作品； v. 潦草地书写, 乱写, 滥写",
+    "frq": 9854,
+    "composite_rank": 11785,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in scribble brought noticeable changes to the ecosystem.",
+        "zh": "潦草的写法的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of scribble throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪潦草的写法的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "blizzard",
+    "word": "blizzard",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'blizәd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blizzard&type=2",
+    "definition_en": "n. a storm with widespread snowfall accompanied by strong winds",
+    "definition_zh": "n. 大风雪, 暴风雪",
+    "frq": 9875,
+    "composite_rank": 11810,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in blizzard brought noticeable changes to the ecosystem.",
+        "zh": "大风雪的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of blizzard throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪大风雪的变化规律。"
       }
     ]
   },
@@ -2100,27 +2375,102 @@
     ]
   },
   {
-    "id": "observatory",
-    "word": "observatory",
+    "id": "orchid",
+    "word": "orchid",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/әb'zә:vәtәri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=observatory&type=2",
-    "definition_en": "n. a building designed and equipped to observe astronomical phenomena",
-    "definition_zh": "n. 天文台, 气象台, 了望台",
-    "frq": 7738,
-    "composite_rank": 12102,
+    "phonetic": "/'ɒ:kid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=orchid&type=2",
+    "definition_en": "n. any of numerous plants of the orchid family usually having flowers of unusual shapes and beautiful colors",
+    "definition_zh": "n. 兰花, 淡紫色； 兰科植物",
+    "frq": 9332,
+    "composite_rank": 12132,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in observatory brought noticeable changes to the ecosystem.",
-        "zh": "天文台的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in orchid brought noticeable changes to the ecosystem.",
+        "zh": "兰花的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of observatory throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪天文台的变化规律。"
+        "en": "Meteorologists closely track the patterns of orchid throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪兰花的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "evergreen",
+    "word": "evergreen",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'evәgri:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=evergreen&type=2",
+    "definition_en": "n. a plant having foliage that persists and remains green throughout the year\\na. (of plants and shrubs) bearing foliage throughout the year",
+    "definition_zh": "n. 常绿树, 常绿植物； a. 常绿的",
+    "frq": 10763,
+    "composite_rank": 12873,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in evergreen brought noticeable changes to the ecosystem.",
+        "zh": "常绿树的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of evergreen throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪常绿树的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "naturalist",
+    "word": "naturalist",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'nætʃәrәlist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=naturalist&type=2",
+    "definition_en": "n. an advocate of the doctrine that the world can be understood in scientific terms\\nn. a biologist knowledgeable about natural history (especially botany and zoology)",
+    "definition_zh": "n. 自然主义者",
+    "frq": 10840,
+    "composite_rank": 12965,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in naturalist brought noticeable changes to the ecosystem.",
+        "zh": "自然主义者的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of naturalist throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪自然主义者的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "seismic",
+    "word": "seismic",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'saizmik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=seismic&type=2",
+    "definition_en": "s. subject to or caused by an earthquake or earth vibration",
+    "definition_zh": "a. 地震的",
+    "frq": 11220,
+    "composite_rank": 13419,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in seismic brought noticeable changes to the ecosystem.",
+        "zh": "地震的的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of seismic throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪地震的的变化规律。"
       }
     ]
   },
@@ -2150,102 +2500,152 @@
     ]
   },
   {
-    "id": "supernatural",
-    "word": "supernatural",
+    "id": "forestry",
+    "word": "forestry",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/.sju:pә'nætʃәrәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=supernatural&type=2",
-    "definition_en": "n. supernatural forces and events and beings collectively\\na. not existing in nature or subject to explanation according to natural laws; not physical or material",
-    "definition_zh": "a. 超自然的, 神奇的； 超自然的",
-    "frq": 8600,
-    "composite_rank": 13450,
+    "phonetic": "/'fɒristri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=forestry&type=2",
+    "definition_en": "n. the science of planting and caring for forests and the management of growing timber",
+    "definition_zh": "n. 林学, 森林地； 林地, 林学, 林业",
+    "frq": 10394,
+    "composite_rank": 13512,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in supernatural brought noticeable changes to the ecosystem.",
-        "zh": "超自然的的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in forestry brought noticeable changes to the ecosystem.",
+        "zh": "林学的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of supernatural throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪超自然的的变化规律。"
+        "en": "Meteorologists closely track the patterns of forestry throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪林学的变化规律。"
       }
     ]
   },
   {
-    "id": "seep",
-    "word": "seep",
+    "id": "flora",
+    "word": "flora",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/si:p/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=seep&type=2",
-    "definition_en": "v. pass gradually or leak through or as if through small openings",
-    "definition_zh": "vi. 渗出, 渗流, 漏； n. 小泉, 水陆两用吉普车",
-    "frq": 8656,
-    "composite_rank": 13538,
+    "phonetic": "/'flɒ:rә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=flora&type=2",
+    "definition_en": "n all the plant life in a particular region or period\\nn (botany) a living organism lacking the power of locomotion",
+    "definition_zh": "n. 植物群； 植物区系, 植物丛, 植物群, 菌丛",
+    "frq": 11331,
+    "composite_rank": 13552,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in seep brought noticeable changes to the ecosystem.",
-        "zh": "小泉的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in flora brought noticeable changes to the ecosystem.",
+        "zh": "植物群的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of seep throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪小泉的变化规律。"
+        "en": "Meteorologists closely track the patterns of flora throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪植物群的变化规律。"
       }
     ]
   },
   {
-    "id": "mundane",
-    "word": "mundane",
+    "id": "oats",
+    "word": "oats",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'mʌndein/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mundane&type=2",
-    "definition_en": "s. concerned with the world or worldly matters\\ns. belonging to this earth or world; not ideal or heavenly; yet a mundane wonder of unimagined kind\"",
-    "definition_zh": "a. 现世的, 世俗的, 宇宙的",
-    "frq": 8820,
-    "composite_rank": 13794,
+    "phonetic": "/oats/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=oats&type=2",
+    "definition_en": "n annual grass of Europe and North Africa; grains used as food and fodder (referred to primarily in the plural: `oats')\\nn seed of the annual grass Avena sativa (spoken of primarily in the plural as `oats')",
+    "definition_zh": "n. 燕麦, 燕麦属植物, 燕麦粥, 麦片粥",
+    "frq": 11366,
+    "composite_rank": 13594,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in mundane brought noticeable changes to the ecosystem.",
-        "zh": "现世的的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in oats brought noticeable changes to the ecosystem.",
+        "zh": "燕麦的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of mundane throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪现世的的变化规律。"
+        "en": "Meteorologists closely track the patterns of oats throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪燕麦的变化规律。"
       }
     ]
   },
   {
-    "id": "puddle",
-    "word": "puddle",
+    "id": "bask",
+    "word": "bask",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'pʌdl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=puddle&type=2",
-    "definition_en": "n. a mixture of wet clay and sand that can be used to line a pond and that is impervious to water when dry\\nv. wade or dabble in a puddle\\nv. subject to puddling or form by puddling\\nv. dip into mud before planting",
-    "definition_zh": "n. 小池, 水坑, 胶土； vt. 搅浊, 搅炼； vi. 在泥污中打滚, (把黏土等)捣制成胶土",
-    "frq": 9010,
-    "composite_rank": 14092,
+    "phonetic": "/bɑ:sk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bask&type=2",
+    "definition_en": "v. be exposed",
+    "definition_zh": "vi. 晒太阳, 感到舒适",
+    "frq": 11655,
+    "composite_rank": 13939,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in puddle brought noticeable changes to the ecosystem.",
-        "zh": "小池的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in bask brought noticeable changes to the ecosystem.",
+        "zh": "晒太阳的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of puddle throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪小池的变化规律。"
+        "en": "Meteorologists closely track the patterns of bask throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪晒太阳的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "conservationist",
+    "word": "conservationist",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/,kәnsә'veiʃәnist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=conservationist&type=2",
+    "definition_en": "n someone who works to protect the environment from destruction or pollution",
+    "definition_zh": "n. 自然资源保护论者",
+    "frq": 11943,
+    "composite_rank": 14284,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in conservationist brought noticeable changes to the ecosystem.",
+        "zh": "自然资源保护论者的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of conservationist throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪自然资源保护论者的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "spontaneously",
+    "word": "spontaneously",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/spontaneously/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spontaneously&type=2",
+    "definition_en": "r. in a spontaneous manner",
+    "definition_zh": "adv. 自发, 一时冲动, 出自自然, 不依赖人工, 自然产生, 本能, 自动, 自然而优雅",
+    "frq": 11104,
+    "composite_rank": 14435,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in spontaneously brought noticeable changes to the ecosystem.",
+        "zh": "自发的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of spontaneously throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪自发的变化规律。"
       }
     ]
   },
@@ -2275,177 +2675,127 @@
     ]
   },
   {
-    "id": "seawater",
-    "word": "seawater",
+    "id": "ecologist",
+    "word": "ecologist",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'si:.wɒtә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=seawater&type=2",
-    "definition_en": "n. water containing salts",
-    "definition_zh": "n. 海水； 海水",
-    "frq": 14585,
-    "composite_rank": 14585,
+    "phonetic": "/i:'kɒlәdʒist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ecologist&type=2",
+    "definition_en": "n. a biologist who studies the relation between organisms and their environment",
+    "definition_zh": "n. 生态学者",
+    "frq": 11275,
+    "composite_rank": 14658,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in seawater brought noticeable changes to the ecosystem.",
-        "zh": "海水的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in ecologist brought noticeable changes to the ecosystem.",
+        "zh": "生态学者的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of seawater throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪海水的变化规律。"
+        "en": "Meteorologists closely track the patterns of ecologist throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪生态学者的变化规律。"
       }
     ]
   },
   {
-    "id": "terrestrial",
-    "word": "terrestrial",
+    "id": "blitz",
+    "word": "blitz",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/tә'restriәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=terrestrial&type=2",
-    "definition_en": "a. operating or living or growing on land",
-    "definition_zh": "n. 地球上的人； a. 地球的, 陆生的, 陆地的, 人间的",
-    "frq": 9615,
-    "composite_rank": 15038,
+    "phonetic": "/blits/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=blitz&type=2",
+    "definition_en": "n. a swift and violent military offensive with intensive aerial bombardment\\nv. attack suddenly and without warning",
+    "definition_zh": "n. 闪电战； vt. 以闪电战攻击",
+    "frq": 12387,
+    "composite_rank": 14815,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in terrestrial brought noticeable changes to the ecosystem.",
-        "zh": "地球上的人的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in blitz brought noticeable changes to the ecosystem.",
+        "zh": "闪电战的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of terrestrial throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪地球上的人的变化规律。"
+        "en": "Meteorologists closely track the patterns of blitz throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪闪电战的变化规律。"
       }
     ]
   },
   {
-    "id": "thunderous",
-    "word": "thunderous",
+    "id": "aptitude",
+    "word": "aptitude",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'θʌndәrәs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=thunderous&type=2",
-    "definition_en": "s. extremely ominous",
-    "definition_zh": "a. 将要打雷的, 像打雷的",
-    "frq": 16604,
-    "composite_rank": 15276,
+    "phonetic": "/'æptitju:d/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aptitude&type=2",
+    "definition_en": "n. inherent ability",
+    "definition_zh": "n. 资质, 才能, 自然倾向； 资质, 才能",
+    "frq": 12448,
+    "composite_rank": 14888,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in thunderous brought noticeable changes to the ecosystem.",
-        "zh": "将要打雷的的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in aptitude brought noticeable changes to the ecosystem.",
+        "zh": "资质的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of thunderous throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪将要打雷的的变化规律。"
+        "en": "Meteorologists closely track the patterns of aptitude throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪资质的变化规律。"
       }
     ]
   },
   {
-    "id": "wooded",
-    "word": "wooded",
+    "id": "microorganism",
+    "word": "microorganism",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'wudid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wooded&type=2",
-    "definition_en": "a. covered with growing trees and bushes etc",
-    "definition_zh": "a. 树木繁茂的",
-    "frq": 9850,
-    "composite_rank": 15405,
+    "phonetic": "/.maikrәu'ɒ:gәnizm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=microorganism&type=2",
+    "definition_en": "n. any organism of microscopic size",
+    "definition_zh": "n. 微生物, 微小动植物； 微生物",
+    "frq": 11483,
+    "composite_rank": 14928,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in wooded brought noticeable changes to the ecosystem.",
-        "zh": "树木繁茂的的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in microorganism brought noticeable changes to the ecosystem.",
+        "zh": "微生物的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of wooded throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪树木繁茂的的变化规律。"
+        "en": "Meteorologists closely track the patterns of microorganism throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪微生物的变化规律。"
       }
     ]
   },
   {
-    "id": "scribble",
-    "word": "scribble",
+    "id": "climatic",
+    "word": "climatic",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'skribl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scribble&type=2",
-    "definition_en": "n. poor handwriting\\nn. an aimless drawing\\nv. write down quickly without much attention to detail\\nv. write carelessly",
-    "definition_zh": "n. 潦草的写法, 潦草写成的东西, 拙劣的作品； v. 潦草地书写, 乱写, 滥写",
-    "frq": 9854,
-    "composite_rank": 15412,
+    "phonetic": "/klai'mætik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=climatic&type=2",
+    "definition_en": "a. of or relating to a climate",
+    "definition_zh": "a. 气候的",
+    "frq": 13339,
+    "composite_rank": 15953,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in scribble brought noticeable changes to the ecosystem.",
-        "zh": "潦草的写法的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in climatic brought noticeable changes to the ecosystem.",
+        "zh": "气候的的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of scribble throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪潦草的写法的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "blizzard",
-    "word": "blizzard",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'blizәd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=blizzard&type=2",
-    "definition_en": "n. a storm with widespread snowfall accompanied by strong winds",
-    "definition_zh": "n. 大风雪, 暴风雪",
-    "frq": 9875,
-    "composite_rank": 15444,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in blizzard brought noticeable changes to the ecosystem.",
-        "zh": "大风雪的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of blizzard throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪大风雪的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "orchid",
-    "word": "orchid",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'ɒ:kid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=orchid&type=2",
-    "definition_en": "n. any of numerous plants of the orchid family usually having flowers of unusual shapes and beautiful colors",
-    "definition_zh": "n. 兰花, 淡紫色； 兰科植物",
-    "frq": 9332,
-    "composite_rank": 15864,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in orchid brought noticeable changes to the ecosystem.",
-        "zh": "兰花的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of orchid throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪兰花的变化规律。"
+        "en": "Meteorologists closely track the patterns of climatic throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪气候的的变化规律。"
       }
     ]
   },
@@ -2500,77 +2850,52 @@
     ]
   },
   {
-    "id": "mica",
-    "word": "mica",
+    "id": "frosty",
+    "word": "frosty",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'maikә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mica&type=2",
-    "definition_en": "n. any of various minerals consisting of hydrous silicates of aluminum or potassium etc. that crystallize in forms that allow perfect cleavage into very thin leaves; used as dielectrics because of their resistance to electricity",
-    "definition_zh": "n. 云母； 云母",
-    "frq": 26041,
-    "composite_rank": 16927,
-    "badge": "core",
+    "phonetic": "/'frɒsti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=frosty&type=2",
+    "definition_en": "s. covered with frost",
+    "definition_zh": "a. 霜冻的, 严寒的, 冷淡的",
+    "frq": 14399,
+    "composite_rank": 17221,
+    "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in mica brought noticeable changes to the ecosystem.",
-        "zh": "云母的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in frosty brought noticeable changes to the ecosystem.",
+        "zh": "霜冻的的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of mica throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪云母的变化规律。"
+        "en": "Meteorologists closely track the patterns of frosty throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪霜冻的的变化规律。"
       }
     ]
   },
   {
-    "id": "seismic",
-    "word": "seismic",
+    "id": "spontaneity",
+    "word": "spontaneity",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'saizmik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=seismic&type=2",
-    "definition_en": "s. subject to or caused by an earthquake or earth vibration",
-    "definition_zh": "a. 地震的",
-    "frq": 11220,
-    "composite_rank": 17548,
+    "phonetic": "/.spɒntә'ni:iti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spontaneity&type=2",
+    "definition_en": "n. the quality of being spontaneous and coming from natural feelings without constraint",
+    "definition_zh": "n. 自然发生, 自生, 自发",
+    "frq": 14710,
+    "composite_rank": 17593,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in seismic brought noticeable changes to the ecosystem.",
-        "zh": "地震的的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in spontaneity brought noticeable changes to the ecosystem.",
+        "zh": "自然发生的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of seismic throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪地震的的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "forestry",
-    "word": "forestry",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'fɒristri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=forestry&type=2",
-    "definition_en": "n. the science of planting and caring for forests and the management of growing timber",
-    "definition_zh": "n. 林学, 森林地； 林地, 林学, 林业",
-    "frq": 10394,
-    "composite_rank": 17670,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in forestry brought noticeable changes to the ecosystem.",
-        "zh": "林学的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of forestry throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪林学的变化规律。"
+        "en": "Meteorologists closely track the patterns of spontaneity throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪自然发生的变化规律。"
       }
     ]
   },
@@ -2596,6 +2921,31 @@
       {
         "en": "Meteorologists closely track the patterns of hemp throughout the season.",
         "zh": "气象学家在整个季节中密切跟踪大麻烟卷的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "fern",
+    "word": "fern",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/fә:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fern&type=2",
+    "definition_en": "n. any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores",
+    "definition_zh": "n. 蕨类植物； 蕨类植物",
+    "frq": 8976,
+    "composite_rank": 18167,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in fern brought noticeable changes to the ecosystem.",
+        "zh": "蕨类植物的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of fern throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪蕨类植物的变化规律。"
       }
     ]
   },
@@ -2675,127 +3025,77 @@
     ]
   },
   {
-    "id": "spontaneously",
-    "word": "spontaneously",
+    "id": "seawater",
+    "word": "seawater",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/spontaneously/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spontaneously&type=2",
-    "definition_en": "r. in a spontaneous manner",
-    "definition_zh": "adv. 自发, 一时冲动, 出自自然, 不依赖人工, 自然产生, 本能, 自动, 自然而优雅",
-    "frq": 11104,
-    "composite_rank": 18877,
+    "phonetic": "/'si:.wɒtә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=seawater&type=2",
+    "definition_en": "n. water containing salts",
+    "definition_zh": "n. 海水； 海水",
+    "frq": 14585,
+    "composite_rank": 18960,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in spontaneously brought noticeable changes to the ecosystem.",
-        "zh": "自发的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in seawater brought noticeable changes to the ecosystem.",
+        "zh": "海水的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of spontaneously throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪自发的变化规律。"
+        "en": "Meteorologists closely track the patterns of seawater throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪海水的变化规律。"
       }
     ]
   },
   {
-    "id": "ecologist",
-    "word": "ecologist",
+    "id": "weatherman",
+    "word": "weatherman",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/i:'kɒlәdʒist/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ecologist&type=2",
-    "definition_en": "n. a biologist who studies the relation between organisms and their environment",
-    "definition_zh": "n. 生态学者",
-    "frq": 11275,
-    "composite_rank": 19168,
+    "phonetic": "/'weðәmæn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=weatherman&type=2",
+    "definition_en": "n. predicts the weather",
+    "definition_zh": "n. 气象员；天气预报员",
+    "frq": 19246,
+    "composite_rank": 19246,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in ecologist brought noticeable changes to the ecosystem.",
-        "zh": "生态学者的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in weatherman brought noticeable changes to the ecosystem.",
+        "zh": "气象员的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of ecologist throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪生态学者的变化规律。"
+        "en": "Meteorologists closely track the patterns of weatherman throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪气象员的变化规律。"
       }
     ]
   },
   {
-    "id": "aptitude",
-    "word": "aptitude",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'æptitju:d/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=aptitude&type=2",
-    "definition_en": "n. inherent ability",
-    "definition_zh": "n. 资质, 才能, 自然倾向； 资质, 才能",
-    "frq": 12448,
-    "composite_rank": 19469,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in aptitude brought noticeable changes to the ecosystem.",
-        "zh": "资质的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of aptitude throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪资质的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "microorganism",
-    "word": "microorganism",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/.maikrәu'ɒ:gәnizm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=microorganism&type=2",
-    "definition_en": "n. any organism of microscopic size",
-    "definition_zh": "n. 微生物, 微小动植物； 微生物",
-    "frq": 11483,
-    "composite_rank": 19521,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in microorganism brought noticeable changes to the ecosystem.",
-        "zh": "微生物的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of microorganism throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪微生物的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "iris",
-    "word": "iris",
+    "id": "mare",
+    "word": "mare",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'airis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=iris&type=2",
-    "definition_en": "n. plants with sword-shaped leaves and erect stalks bearing bright-colored flowers composed of three petals and three drooping sepals\\nn. muscular diaphragm that controls the size of the pupil which in turn controls the amount of light that enters the eye; it forms the colored portion of the eye\\nn. diaphragm consisting of thin overlapping plates that can be adjusted to change the diameter of a central opening",
-    "definition_zh": "n. 虹膜, 鸢尾属植物, 虹, 虹彩； 可变光阑",
-    "frq": 9741,
-    "composite_rank": 19716,
-    "badge": "normal",
+    "phonetic": "/mєә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mare&type=2",
+    "definition_en": "n. female equine animal\\nn. a dark region of considerable extent on the surface of the moon",
+    "definition_zh": "n. 母马, 母驴, 月球表面阴暗部； 海",
+    "frq": 10747,
+    "composite_rank": 19860,
+    "badge": "high",
     "examples": [
       {
-        "en": "A remarkable shift in iris brought noticeable changes to the ecosystem.",
-        "zh": "虹膜的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in mare brought noticeable changes to the ecosystem.",
+        "zh": "母马的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of iris throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪虹膜的变化规律。"
+        "en": "Meteorologists closely track the patterns of mare throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪母马的变化规律。"
       }
     ]
   },
@@ -2900,31 +3200,6 @@
     ]
   },
   {
-    "id": "frosty",
-    "word": "frosty",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'frɒsti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=frosty&type=2",
-    "definition_en": "s. covered with frost",
-    "definition_zh": "a. 霜冻的, 严寒的, 冷淡的",
-    "frq": 14399,
-    "composite_rank": 22520,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in frosty brought noticeable changes to the ecosystem.",
-        "zh": "霜冻的的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of frosty throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪霜冻的的变化规律。"
-      }
-    ]
-  },
-  {
     "id": "contrived",
     "word": "contrived",
     "part_of_speech": "noun",
@@ -2975,81 +3250,6 @@
     ]
   },
   {
-    "id": "oats",
-    "word": "oats",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/oats/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=oats&type=2",
-    "definition_en": "n annual grass of Europe and North Africa; grains used as food and fodder (referred to primarily in the plural: `oats')\\nn seed of the annual grass Avena sativa (spoken of primarily in the plural as `oats')",
-    "definition_zh": "n. 燕麦, 燕麦属植物, 燕麦粥, 麦片粥",
-    "frq": 11366,
-    "composite_rank": 23005,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in oats brought noticeable changes to the ecosystem.",
-        "zh": "燕麦的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of oats throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪燕麦的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "spontaneity",
-    "word": "spontaneity",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/.spɒntә'ni:iti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spontaneity&type=2",
-    "definition_en": "n. the quality of being spontaneous and coming from natural feelings without constraint",
-    "definition_zh": "n. 自然发生, 自生, 自发",
-    "frq": 14710,
-    "composite_rank": 23006,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in spontaneity brought noticeable changes to the ecosystem.",
-        "zh": "自然发生的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of spontaneity throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪自然发生的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "establishing",
-    "word": "establishing",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/isˈtæbliʃɪŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=establishing&type=2",
-    "definition_en": "v set up or found\\nv set up or lay the groundwork for\\nv establish the validity of something, as by an example, explanation or experiment\\nv institute, enact, or establish\\nv bring about\\nv place\\nv build or establish something abstract\\nv use as a basis for; found on",
-    "definition_zh": "v. 建立( establish的现在分词 ); 确定; 使（植物）定植; 使成为",
-    "frq": 30416,
-    "composite_rank": 24333,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in establishing brought noticeable changes to the ecosystem.",
-        "zh": "建立的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of establishing throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪建立的变化规律。"
-      }
-    ]
-  },
-  {
     "id": "accrue",
     "word": "accrue",
     "part_of_speech": "noun",
@@ -3075,27 +3275,102 @@
     ]
   },
   {
-    "id": "blitz",
-    "word": "blitz",
+    "id": "spruce",
+    "word": "spruce",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/blits/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=blitz&type=2",
-    "definition_en": "n. a swift and violent military offensive with intensive aerial bombardment\\nv. attack suddenly and without warning",
-    "definition_zh": "n. 闪电战； vt. 以闪电战攻击",
-    "frq": 12387,
-    "composite_rank": 25071,
+    "phonetic": "/spru:s/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spruce&type=2",
+    "definition_en": "n. light soft moderately strong wood of spruce trees; used especially for timbers and millwork\\nn. any coniferous tree of the genus Picea",
+    "definition_zh": "n. 云杉； a. 颇为干净的, 俏的, 整洁的； v. (使)显干净, 打扮整齐",
+    "frq": 12470,
+    "composite_rank": 25239,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in blitz brought noticeable changes to the ecosystem.",
-        "zh": "闪电战的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in spruce brought noticeable changes to the ecosystem.",
+        "zh": "云杉的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of blitz throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪闪电战的变化规律。"
+        "en": "Meteorologists closely track the patterns of spruce throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪云杉的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "deluge",
+    "word": "deluge",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'delju:dʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=deluge&type=2",
+    "definition_en": "v. fill quickly beyond capacity; as with a liquid",
+    "definition_zh": "n. 大洪水, 泛滥； vt. 使泛滥",
+    "frq": 16257,
+    "composite_rank": 25426,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in deluge brought noticeable changes to the ecosystem.",
+        "zh": "大洪水的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of deluge throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪大洪水的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "conifer",
+    "word": "conifer",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'kɒnifә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=conifer&type=2",
+    "definition_en": "n. any gymnospermous tree or shrub bearing cones",
+    "definition_zh": "n. 松柏目植物, 针叶树",
+    "frq": 16342,
+    "composite_rank": 25559,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in conifer brought noticeable changes to the ecosystem.",
+        "zh": "松柏目植物的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of conifer throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪松柏目植物的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "thunderous",
+    "word": "thunderous",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'θʌndәrәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=thunderous&type=2",
+    "definition_en": "s. extremely ominous",
+    "definition_zh": "a. 将要打雷的, 像打雷的",
+    "frq": 16604,
+    "composite_rank": 25969,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in thunderous brought noticeable changes to the ecosystem.",
+        "zh": "将要打雷的的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of thunderous throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪将要打雷的的变化规律。"
       }
     ]
   },
@@ -3150,27 +3425,27 @@
     ]
   },
   {
-    "id": "forcing",
-    "word": "forcing",
+    "id": "meteorological",
+    "word": "meteorological",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'fɔ:siŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=forcing&type=2",
-    "definition_en": "v to cause to do through pressure or necessity, by physical, moral or intellectual means :\"She forced him to take a job in the city\"\\nv urge or force (a person) to an action; constrain or motivate\\nv move with force, \"He pushed the table into a corner\"\\nv impose urgently, importunately, or inexorably\\nv squeeze like a wedge into a tight space\\nv force into or from an action or state, either physically or metaphorically\\nv cause to move by pulling\\nv do forcibly; exert force\\nv take by force",
-    "definition_zh": "n. 强迫, 培育, 夺取, 施加压力； a. 强迫的, 促成(植物早熟)的, 施加压力的； 强制的, 强迫的",
-    "frq": 28498,
-    "composite_rank": 28498,
+    "phonetic": "/meteorological/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=meteorological&type=2",
+    "definition_en": "a of or pertaining to atmospheric phenomena, especially weather and weather conditions",
+    "definition_zh": "a. 气象的, 气象学的",
+    "frq": 17336,
+    "composite_rank": 27114,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in forcing brought noticeable changes to the ecosystem.",
-        "zh": "强迫的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in meteorological brought noticeable changes to the ecosystem.",
+        "zh": "气象的的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of forcing throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪强迫的变化规律。"
+        "en": "Meteorologists closely track the patterns of meteorological throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪气象的的变化规律。"
       }
     ]
   },
@@ -3225,127 +3500,27 @@
     ]
   },
   {
-    "id": "clouds",
-    "word": "clouds",
+    "id": "ecotourism",
+    "word": "ecotourism",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/clouds/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=clouds&type=2",
-    "definition_en": "n any collection of particles (e.g., smoke or dust) or gases that is visible\\nn a visible mass of water or ice particles suspended at a considerable altitude\\nn out of touch with reality\\nn a cause of worry or gloom or trouble\\nn suspicion affecting your reputation\\nn a group of many things in the air or on the ground\\nv make overcast or cloudy\\nv make less visible or unclear\\nv billow up in the form of a cloud\\nv make gloomy or depressed\\nv place under suspicion or cast doubt upon\\nv make less clear\\nv colour with streaks or blotches of different shades\\nv make milky or dull",
-    "definition_zh": "n. 云彩, 白云（cloud复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "A remarkable shift in clouds brought noticeable changes to the ecosystem.",
-        "zh": "云彩的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of clouds throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪云彩的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "grasses",
-    "word": "grasses",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/grasses/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=grasses&type=2",
-    "definition_en": "n narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay\\nn German writer of novels and poetry and plays (born 1927)\\nn a police informer who implicates many people\\nn bulky food like grass or hay for browsing or grazing horses or cattle\\nn street names for marijuana\\nv shoot down, of birds\\nv cover with grass\\nv spread out clothes on the grass to let it dry and bleach\\nv cover with grass\\nv feed with grass\\nv give away information about somebody",
-    "definition_zh": "n. 稻科植物类；禾本种；草地（grass的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "A remarkable shift in grasses brought noticeable changes to the ecosystem.",
-        "zh": "稻科植物类的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of grasses throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪稻科植物类的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "sunbeam",
-    "word": "sunbeam",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'sʌnbi:m/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sunbeam&type=2",
-    "definition_en": "n. a ray of sunlight",
-    "definition_zh": "n. 阳光",
-    "frq": 25774,
-    "composite_rank": 33506,
+    "phonetic": "/ˈi:kəʊtʊərɪzəm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ecotourism&type=2",
+    "definition_en": "n. tourism to exotic or threatened ecosystems to observe wildlife or to help preserve nature",
+    "definition_zh": "n. 生态旅游",
+    "frq": 19763,
+    "composite_rank": 33597,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in sunbeam brought noticeable changes to the ecosystem.",
-        "zh": "阳光的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in ecotourism brought noticeable changes to the ecosystem.",
+        "zh": "生态旅游的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of sunbeam throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪阳光的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "meteorological",
-    "word": "meteorological",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/meteorological/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=meteorological&type=2",
-    "definition_en": "a of or pertaining to atmospheric phenomena, especially weather and weather conditions",
-    "definition_zh": "a. 气象的, 气象学的",
-    "frq": 17336,
-    "composite_rank": 35088,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in meteorological brought noticeable changes to the ecosystem.",
-        "zh": "气象的的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of meteorological throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪气象的的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "moonscape",
-    "word": "moonscape",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/'mu:nskeip/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=moonscape&type=2",
-    "definition_en": "",
-    "definition_zh": "n. 月球表面",
-    "frq": 28771,
-    "composite_rank": 37402,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in moonscape brought noticeable changes to the ecosystem.",
-        "zh": "月球表面的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of moonscape throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪月球表面的变化规律。"
+        "en": "Meteorologists closely track the patterns of ecotourism throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪生态旅游的变化规律。"
       }
     ]
   },
@@ -3375,156 +3550,6 @@
     ]
   },
   {
-    "id": "earthquakes",
-    "word": "earthquakes",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/earthquakes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=earthquakes&type=2",
-    "definition_en": "n shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity\\nn a disturbance that is extremely disruptive",
-    "definition_zh": "n. 地震（earthquake的复数形式）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in earthquakes brought noticeable changes to the ecosystem.",
-        "zh": "地震的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of earthquakes throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪地震的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "establishes",
-    "word": "establishes",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/isˈtæbliʃiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=establishes&type=2",
-    "definition_en": "v set up or found\\nv set up or lay the groundwork for\\nv establish the validity of something, as by an example, explanation or experiment\\nv institute, enact, or establish\\nv bring about\\nv place\\nv build or establish something abstract\\nv use as a basis for; found on",
-    "definition_zh": "v. 建立( establish的第三人称单数 ); 确定; 使（植物）定植; 使成为",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in establishes brought noticeable changes to the ecosystem.",
-        "zh": "建立的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of establishes throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪建立的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "forests",
-    "word": "forests",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/ˈfɔrists/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=forests&type=2",
-    "definition_en": "n the trees and other plants in a large densely wooded area\\nn land that is covered with trees and shrubs\\nv establish a forest on previously unforested land",
-    "definition_zh": "n. 森林( forest的名词复数 ); 丛林; （森林似的）一丛; 一片",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in forests brought noticeable changes to the ecosystem.",
-        "zh": "森林的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of forests throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪森林的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "hosts",
-    "word": "hosts",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/həusts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hosts&type=2",
-    "definition_en": "n a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there\\nn a vast multitude\\nn an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association\\nn a person who acts as host at formal occasions (makes an introductory speech and introduces other speakers)\\nn archaic terms for army\\nn any organization that provides resources and facilities for a function or event\\nn (medicine) recipient of transplanted tissue or organ from a donor\\nn the owner or manager of an inn\\nn a technical name for the bread used in the service of Mass or Holy Communion\\nn (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network\\nv be the host of or for",
-    "definition_zh": "n. 主机( host的名词复数 ); 军队; （寄生动植物的）寄主; 主办人",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in hosts brought noticeable changes to the ecosystem.",
-        "zh": "主机的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of hosts throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪主机的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "planets",
-    "word": "planets",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/p'lænɪts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=planets&type=2",
-    "definition_en": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction\\nn. a person who follows or serves another\\nn. any celestial body (other than comets or satellites) that revolves around a star",
-    "definition_zh": "n. 行星( planet的复数形式 ); 地球（尤指环境）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in planets brought noticeable changes to the ecosystem.",
-        "zh": "行星的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of planets throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪行星的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "storms",
-    "word": "storms",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/storms/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=storms&type=2",
-    "definition_en": "n a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning\\nn a violent commotion or disturbance\\nn a direct and violent assault on a stronghold\\nv behave violently, as if in state of a great anger\\nv take by force\\nv rain, hail, or snow hard and be very windy, often with thunder or lightning\\nv blow hard\\nv attack by storm; attack suddenly",
-    "definition_zh": "n. 暴风雨；风暴；暴风（storm复数）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "A remarkable shift in storms brought noticeable changes to the ecosystem.",
-        "zh": "暴风雨的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of storms throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪暴风雨的变化规律。"
-      }
-    ]
-  },
-  {
     "id": "naturalness",
     "word": "naturalness",
     "part_of_speech": "noun",
@@ -3550,77 +3575,252 @@
     ]
   },
   {
-    "id": "skylark",
-    "word": "skylark",
+    "id": "sunbeam",
+    "word": "sunbeam",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'skailɑ:k/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=skylark&type=2",
-    "definition_en": "n. brown-speckled European lark noted for singing while hovering at a great height",
-    "definition_zh": "n. 云雀； vi. 嘻闹, 闲荡",
-    "frq": 32923,
-    "composite_rank": 42800,
+    "phonetic": "/'sʌnbi:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sunbeam&type=2",
+    "definition_en": "n. a ray of sunlight",
+    "definition_zh": "n. 阳光",
+    "frq": 25774,
+    "composite_rank": 43816,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in skylark brought noticeable changes to the ecosystem.",
-        "zh": "云雀的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in sunbeam brought noticeable changes to the ecosystem.",
+        "zh": "阳光的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of skylark throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪云雀的变化规律。"
+        "en": "Meteorologists closely track the patterns of sunbeam throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪阳光的变化规律。"
       }
     ]
   },
   {
-    "id": "ecotourism",
-    "word": "ecotourism",
+    "id": "mica",
+    "word": "mica",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/ˈi:kəʊtʊərɪzəm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ecotourism&type=2",
-    "definition_en": "n. tourism to exotic or threatened ecosystems to observe wildlife or to help preserve nature",
-    "definition_zh": "n. 生态旅游",
-    "frq": 19763,
-    "composite_rank": 43479,
+    "phonetic": "/'maikә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mica&type=2",
+    "definition_en": "n. any of various minerals consisting of hydrous silicates of aluminum or potassium etc. that crystallize in forms that allow perfect cleavage into very thin leaves; used as dielectrics because of their resistance to electricity",
+    "definition_zh": "n. 云母； 云母",
+    "frq": 26041,
+    "composite_rank": 44270,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in ecotourism brought noticeable changes to the ecosystem.",
-        "zh": "生态旅游的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in mica brought noticeable changes to the ecosystem.",
+        "zh": "云母的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of ecotourism throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪生态旅游的变化规律。"
+        "en": "Meteorologists closely track the patterns of mica throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪云母的变化规律。"
       }
     ]
   },
   {
-    "id": "ecosystems",
-    "word": "ecosystems",
+    "id": "forcing",
+    "word": "forcing",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'fɔ:siŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=forcing&type=2",
+    "definition_en": "v to cause to do through pressure or necessity, by physical, moral or intellectual means :\"She forced him to take a job in the city\"\\nv urge or force (a person) to an action; constrain or motivate\\nv move with force, \"He pushed the table into a corner\"\\nv impose urgently, importunately, or inexorably\\nv squeeze like a wedge into a tight space\\nv force into or from an action or state, either physically or metaphorically\\nv cause to move by pulling\\nv do forcibly; exert force\\nv take by force",
+    "definition_zh": "n. 强迫, 培育, 夺取, 施加压力； a. 强迫的, 促成(植物早熟)的, 施加压力的； 强制的, 强迫的",
+    "frq": 28498,
+    "composite_rank": 48447,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in forcing brought noticeable changes to the ecosystem.",
+        "zh": "强迫的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of forcing throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪强迫的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "moonscape",
+    "word": "moonscape",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'mu:nskeip/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=moonscape&type=2",
+    "definition_en": "",
+    "definition_zh": "n. 月球表面",
+    "frq": 28771,
+    "composite_rank": 48911,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in moonscape brought noticeable changes to the ecosystem.",
+        "zh": "月球表面的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of moonscape throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪月球表面的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "classifications",
+    "word": "classifications",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/ˈekəʊˌsɪstəmz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ecosystems&type=2",
-    "definition_en": "n. a system formed by the interaction of a community of organisms with their physical environment",
-    "definition_zh": "n. <生>生态系统( ecosystem的复数形式 )",
+    "phonetic": "/klæsɪfɪ'keɪʃnz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=classifications&type=2",
+    "definition_en": "n. the act of distributing things into classes or categories of the same type\\nn. a group of people or things arranged by class or category\\nn. the basic cognitive process of arranging into classes or categories",
+    "definition_zh": "n. 分类( classification的复数形式 ); 分级; 类别; （动植物等的）分类学",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in ecosystems brought noticeable changes to the ecosystem.",
-        "zh": "生生态系统的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in classifications brought noticeable changes to the ecosystem.",
+        "zh": "分类的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of ecosystems throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪生生态系统的变化规律。"
+        "en": "Meteorologists closely track the patterns of classifications throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪分类的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "establishes",
+    "word": "establishes",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/isˈtæbliʃiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=establishes&type=2",
+    "definition_en": "v set up or found\\nv set up or lay the groundwork for\\nv establish the validity of something, as by an example, explanation or experiment\\nv institute, enact, or establish\\nv bring about\\nv place\\nv build or establish something abstract\\nv use as a basis for; found on",
+    "definition_zh": "v. 建立( establish的第三人称单数 ); 确定; 使（植物）定植; 使成为",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in establishes brought noticeable changes to the ecosystem.",
+        "zh": "建立的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of establishes throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪建立的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "fibres",
+    "word": "fibres",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/'faɪbəz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fibres&type=2",
+    "definition_en": "n. a slender and greatly elongated substance capable of being spun into yarn\\nn. any of several elongated, threadlike cells (especially a muscle fiber or a nerve fiber)\\nn. the inherent complex of attributes that determines a persons moral and ethical actions and reactions",
+    "definition_zh": "n. （动植物的）纤维( fibre的复数形式 ); 纤维质",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in fibres brought noticeable changes to the ecosystem.",
+        "zh": "纤维的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of fibres throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪纤维的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "grasses",
+    "word": "grasses",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/grasses/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=grasses&type=2",
+    "definition_en": "n narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay\\nn German writer of novels and poetry and plays (born 1927)\\nn a police informer who implicates many people\\nn bulky food like grass or hay for browsing or grazing horses or cattle\\nn street names for marijuana\\nv shoot down, of birds\\nv cover with grass\\nv spread out clothes on the grass to let it dry and bleach\\nv cover with grass\\nv feed with grass\\nv give away information about somebody",
+    "definition_zh": "n. 稻科植物类；禾本种；草地（grass的复数）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in grasses brought noticeable changes to the ecosystem.",
+        "zh": "稻科植物类的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of grasses throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪稻科植物类的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "hosts",
+    "word": "hosts",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/həusts/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hosts&type=2",
+    "definition_en": "n a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there\\nn a vast multitude\\nn an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association\\nn a person who acts as host at formal occasions (makes an introductory speech and introduces other speakers)\\nn archaic terms for army\\nn any organization that provides resources and facilities for a function or event\\nn (medicine) recipient of transplanted tissue or organ from a donor\\nn the owner or manager of an inn\\nn a technical name for the bread used in the service of Mass or Holy Communion\\nn (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network\\nv be the host of or for",
+    "definition_zh": "n. 主机( host的名词复数 ); 军队; （寄生动植物的）寄主; 主办人",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in hosts brought noticeable changes to the ecosystem.",
+        "zh": "主机的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of hosts throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪主机的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "necessities",
+    "word": "necessities",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/nɪ'sesɪtɪz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=necessities&type=2",
+    "definition_en": "pl.  of Necessity",
+    "definition_zh": "n. 必要（性）( necessity的名词复数 ); （迫切）需要; 必需品; 自然规律",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in necessities brought noticeable changes to the ecosystem.",
+        "zh": "必要的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of necessities throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪必要的变化规律。"
       }
     ]
   },
@@ -3650,27 +3850,52 @@
     ]
   },
   {
-    "id": "spheres",
-    "word": "spheres",
+    "id": "spores",
+    "word": "spores",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/sfiəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spheres&type=2",
-    "definition_en": "n. a particular environment or walk of life\\nn. any spherically shaped artifact\\nn. the geographical area in which one nation is very influential",
-    "definition_zh": "n. 球（体）( sphere的复数形式 ); （兴趣或活动的）范围; （包围地球等的大气的）层; 圆球",
+    "phonetic": "/spɔ:z/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spores&type=2",
+    "definition_en": "n. a small usually single-celled asexual reproductive body produced by many nonflowering plants and fungi and some bacteria and protozoans and that are capable of developing into a new individual without sexual fusion",
+    "definition_zh": "n. （细菌、苔藓、蕨类植物）孢子( spore的复数形式 )； v. （细菌、苔藓、蕨类植物）孢子( spore的第三人称单数 )",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in spheres brought noticeable changes to the ecosystem.",
-        "zh": "球的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in spores brought noticeable changes to the ecosystem.",
+        "zh": "孢子的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of spheres throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪球的变化规律。"
+        "en": "Meteorologists closely track the patterns of spores throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪孢子的变化规律。"
+      }
+    ]
+  },
+  {
+    "id": "tribes",
+    "word": "tribes",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "自然生态、天气气候与宇宙",
+    "category": "nature_weather",
+    "phonetic": "/traibz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tribes&type=2",
+    "definition_en": "n. a social division of (usually preliterate) people\\nn. a federation (as of American Indians)\\nn. (biology) a taxonomic category between a genus and a subfamily",
+    "definition_zh": "n. 部落( tribe的复数形式 ); （动、植物的）族; （一）帮; 大群",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "A remarkable shift in tribes brought noticeable changes to the ecosystem.",
+        "zh": "部落的显著变化给生态系统带来了明显影响。"
+      },
+      {
+        "en": "Meteorologists closely track the patterns of tribes throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪部落的变化规律。"
       }
     ]
   },
@@ -3700,102 +3925,52 @@
     ]
   },
   {
-    "id": "classifications",
-    "word": "classifications",
+    "id": "establishing",
+    "word": "establishing",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/klæsɪfɪ'keɪʃnz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=classifications&type=2",
-    "definition_en": "n. the act of distributing things into classes or categories of the same type\\nn. a group of people or things arranged by class or category\\nn. the basic cognitive process of arranging into classes or categories",
-    "definition_zh": "n. 分类( classification的复数形式 ); 分级; 类别; （动植物等的）分类学",
-    "frq": 50000,
-    "composite_rank": 65000,
+    "phonetic": "/isˈtæbliʃɪŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=establishing&type=2",
+    "definition_en": "v set up or found\\nv set up or lay the groundwork for\\nv establish the validity of something, as by an example, explanation or experiment\\nv institute, enact, or establish\\nv bring about\\nv place\\nv build or establish something abstract\\nv use as a basis for; found on",
+    "definition_zh": "v. 建立( establish的现在分词 ); 确定; 使（植物）定植; 使成为",
+    "frq": 30416,
+    "composite_rank": 51707,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in classifications brought noticeable changes to the ecosystem.",
-        "zh": "分类的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in establishing brought noticeable changes to the ecosystem.",
+        "zh": "建立的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of classifications throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪分类的变化规律。"
+        "en": "Meteorologists closely track the patterns of establishing throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪建立的变化规律。"
       }
     ]
   },
   {
-    "id": "fibres",
-    "word": "fibres",
+    "id": "skylark",
+    "word": "skylark",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/'faɪbəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=fibres&type=2",
-    "definition_en": "n. a slender and greatly elongated substance capable of being spun into yarn\\nn. any of several elongated, threadlike cells (especially a muscle fiber or a nerve fiber)\\nn. the inherent complex of attributes that determines a persons moral and ethical actions and reactions",
-    "definition_zh": "n. （动植物的）纤维( fibre的复数形式 ); 纤维质",
-    "frq": 50000,
-    "composite_rank": 65000,
+    "phonetic": "/'skailɑ:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=skylark&type=2",
+    "definition_en": "n. brown-speckled European lark noted for singing while hovering at a great height",
+    "definition_zh": "n. 云雀； vi. 嘻闹, 闲荡",
+    "frq": 32923,
+    "composite_rank": 55969,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in fibres brought noticeable changes to the ecosystem.",
-        "zh": "纤维的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in skylark brought noticeable changes to the ecosystem.",
+        "zh": "云雀的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of fibres throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪纤维的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "necessities",
-    "word": "necessities",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/nɪ'sesɪtɪz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=necessities&type=2",
-    "definition_en": "pl.  of Necessity",
-    "definition_zh": "n. 必要（性）( necessity的名词复数 ); （迫切）需要; 必需品; 自然规律",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in necessities brought noticeable changes to the ecosystem.",
-        "zh": "必要的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of necessities throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪必要的变化规律。"
-      }
-    ]
-  },
-  {
-    "id": "tribes",
-    "word": "tribes",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "自然生态、天气气候与宇宙",
-    "category": "nature_weather",
-    "phonetic": "/traibz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tribes&type=2",
-    "definition_en": "n. a social division of (usually preliterate) people\\nn. a federation (as of American Indians)\\nn. (biology) a taxonomic category between a genus and a subfamily",
-    "definition_zh": "n. 部落( tribe的复数形式 ); （动、植物的）族; （一）帮; 大群",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "A remarkable shift in tribes brought noticeable changes to the ecosystem.",
-        "zh": "部落的显著变化给生态系统带来了明显影响。"
-      },
-      {
-        "en": "Meteorologists closely track the patterns of tribes throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪部落的变化规律。"
+        "en": "Meteorologists closely track the patterns of skylark throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪云雀的变化规律。"
       }
     ]
   },
@@ -3875,27 +4050,27 @@
     ]
   },
   {
-    "id": "spores",
-    "word": "spores",
+    "id": "deforest",
+    "word": "deforest",
     "part_of_speech": "noun",
     "level": "C2",
     "topic": "自然生态、天气气候与宇宙",
     "category": "nature_weather",
-    "phonetic": "/spɔ:z/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spores&type=2",
-    "definition_en": "n. a small usually single-celled asexual reproductive body produced by many nonflowering plants and fungi and some bacteria and protozoans and that are capable of developing into a new individual without sexual fusion",
-    "definition_zh": "n. （细菌、苔藓、蕨类植物）孢子( spore的复数形式 )； v. （细菌、苔藓、蕨类植物）孢子( spore的第三人称单数 )",
+    "phonetic": "/.di:'fɒrist/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=deforest&type=2",
+    "definition_en": "v. remove the trees from",
+    "definition_zh": "vt. 滥伐森林, 砍掉...上的树林",
     "frq": 50000,
-    "composite_rank": 110000,
+    "composite_rank": 101200,
     "badge": "normal",
     "examples": [
       {
-        "en": "A remarkable shift in spores brought noticeable changes to the ecosystem.",
-        "zh": "孢子的显著变化给生态系统带来了明显影响。"
+        "en": "A remarkable shift in deforest brought noticeable changes to the ecosystem.",
+        "zh": "滥伐森林的显著变化给生态系统带来了明显影响。"
       },
       {
-        "en": "Meteorologists closely track the patterns of spores throughout the season.",
-        "zh": "气象学家在整个季节中密切跟踪孢子的变化规律。"
+        "en": "Meteorologists closely track the patterns of deforest throughout the season.",
+        "zh": "气象学家在整个季节中密切跟踪滥伐森林的变化规律。"
       }
     ]
   }

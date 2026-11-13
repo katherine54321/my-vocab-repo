@@ -153,7 +153,7 @@
     "id": "lean",
     "word": "lean",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/li:n/",
@@ -161,7 +161,7 @@
     "definition_en": "v. to incline or bend from a vertical position\\nv. cause to lean or incline\\nv. rely on for support\\na. lacking in mineral content or combustible material",
     "definition_zh": "n. 瘦肉, 倾斜, 倾斜度； a. 瘦的, 贫乏的, 歉收的； vi. 倚靠, 倾斜, 依赖； vt. 使倾斜",
     "frq": 1520,
-    "composite_rank": 809,
+    "composite_rank": 647,
     "badge": "core",
     "examples": [
       {
@@ -178,7 +178,7 @@
     "id": "fishing",
     "word": "fishing",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/'fiʃiŋ/",
@@ -186,7 +186,7 @@
     "definition_en": "n. the act of someone who fishes as a diversion\\nn. the occupation of catching fish for a living",
     "definition_zh": "n. 钓鱼, 鱼业； a. 钓鱼的",
     "frq": 2022,
-    "composite_rank": 1076,
+    "composite_rank": 861,
     "badge": "core",
     "examples": [
       {
@@ -275,6 +275,106 @@
     ]
   },
   {
+    "id": "salmon",
+    "word": "salmon",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'sæmәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=salmon&type=2",
+    "definition_en": "n. any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn\\nn. a tributary of the Snake River in Idaho\\nn. flesh of any of various marine or freshwater fish of the family Salmonidae\\nn. a pale pinkish orange color",
+    "definition_zh": "n. 鲑鱼, 大麻哈鱼； 鲑",
+    "frq": 3406,
+    "composite_rank": 2861,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender salmon seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鲑鱼而闻名。"
+      },
+      {
+        "en": "They grilled the fresh salmon over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的鲑鱼在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "pork",
+    "word": "pork",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/pɒ:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pork&type=2",
+    "definition_en": "n. meat from a domestic hog or pig",
+    "definition_zh": "n. 猪肉； 猪肉",
+    "frq": 4267,
+    "composite_rank": 2867,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender pork seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的猪肉而闻名。"
+      },
+      {
+        "en": "They grilled the fresh pork over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的猪肉在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "fisherman",
+    "word": "fisherman",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'fiʃәmәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fisherman&type=2",
+    "definition_en": "n. someone whose occupation is catching fish",
+    "definition_zh": "n. 渔夫, 钓鱼者, 渔船",
+    "frq": 4272,
+    "composite_rank": 2871,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender fisherman seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的渔夫而闻名。"
+      },
+      {
+        "en": "They grilled the fresh fisherman over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的渔夫在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "jungle",
+    "word": "jungle",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'dʒʌŋgl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jungle&type=2",
+    "definition_en": "n. a location marked by an intense competition and struggle for survival\\nn. an impenetrable equatorial forest",
+    "definition_zh": "n. 丛林, 杂乱的一堆, 弱肉强食的地方",
+    "frq": 4507,
+    "composite_rank": 3029,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender jungle seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的丛林而闻名。"
+      },
+      {
+        "en": "They grilled the fresh jungle over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的丛林在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
     "id": "separately",
     "word": "separately",
     "part_of_speech": "noun",
@@ -325,110 +425,10 @@
     ]
   },
   {
-    "id": "pork",
-    "word": "pork",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/pɒ:k/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pork&type=2",
-    "definition_en": "n. meat from a domestic hog or pig",
-    "definition_zh": "n. 猪肉； 猪肉",
-    "frq": 4267,
-    "composite_rank": 3584,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender pork seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的猪肉而闻名。"
-      },
-      {
-        "en": "They grilled the fresh pork over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的猪肉在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
-    "id": "fisherman",
-    "word": "fisherman",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'fiʃәmәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=fisherman&type=2",
-    "definition_en": "n. someone whose occupation is catching fish",
-    "definition_zh": "n. 渔夫, 钓鱼者, 渔船",
-    "frq": 4272,
-    "composite_rank": 3588,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender fisherman seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的渔夫而闻名。"
-      },
-      {
-        "en": "They grilled the fresh fisherman over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的渔夫在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
-    "id": "salmon",
-    "word": "salmon",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'sæmәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=salmon&type=2",
-    "definition_en": "n. any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn\\nn. a tributary of the Snake River in Idaho\\nn. flesh of any of various marine or freshwater fish of the family Salmonidae\\nn. a pale pinkish orange color",
-    "definition_zh": "n. 鲑鱼, 大麻哈鱼； 鲑",
-    "frq": 3406,
-    "composite_rank": 3719,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender salmon seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鲑鱼而闻名。"
-      },
-      {
-        "en": "They grilled the fresh salmon over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的鲑鱼在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
-    "id": "jungle",
-    "word": "jungle",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'dʒʌŋgl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=jungle&type=2",
-    "definition_en": "n. a location marked by an intense competition and struggle for survival\\nn. an impenetrable equatorial forest",
-    "definition_zh": "n. 丛林, 杂乱的一堆, 弱肉强食的地方",
-    "frq": 4507,
-    "composite_rank": 3786,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender jungle seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的丛林而闻名。"
-      },
-      {
-        "en": "They grilled the fresh jungle over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的丛林在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
     "id": "goose",
     "word": "goose",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/gu:s/",
@@ -436,7 +436,7 @@
     "definition_en": "n. web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks\\nn. flesh of a goose (domestic or wild)\\nv. pinch in the buttocks\\nv. prod into action",
     "definition_zh": "n. 鹅, 雌鹅, 鹅肉, 弯把熨斗； vt. 与...性交, 突然加大油门, 使生色, 喝倒彩",
     "frq": 5529,
-    "composite_rank": 4644,
+    "composite_rank": 3715,
     "badge": "high",
     "examples": [
       {
@@ -453,7 +453,7 @@
     "id": "shrimp",
     "word": "shrimp",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/ʃrimp/",
@@ -461,7 +461,7 @@
     "definition_en": "n. small slender-bodied chiefly marine decapod crustaceans with a long tail and single pair of pincers; many species are edible\\nv. fish for shrimp",
     "definition_zh": "n. 虾, 小虾, 矮子； vi. 捕小虾",
     "frq": 4144,
-    "composite_rank": 4956,
+    "composite_rank": 3812,
     "badge": "high",
     "examples": [
       {
@@ -471,6 +471,81 @@
       {
         "en": "They grilled the fresh shrimp over charcoal for an authentic rustic flavor.",
         "zh": "他们将新鲜的虾在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "angler",
+    "word": "angler",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'æŋ^lә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=angler&type=2",
+    "definition_en": "n. a scheming person; someone who schemes to gain an advantage\\nn. a fisherman who uses a hook and line",
+    "definition_zh": "n. 钓鱼, 攫取, 追逐",
+    "frq": 6803,
+    "composite_rank": 5715,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender angler seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的钓鱼而闻名。"
+      },
+      {
+        "en": "They grilled the fresh angler over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的钓鱼在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "lobster",
+    "word": "lobster",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'lɒbstә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lobster&type=2",
+    "definition_en": "n. flesh of a lobster\\nn. any of several edible marine crustaceans of the families Homaridae and Nephropsidae and Palinuridae",
+    "definition_zh": "n. 龙虾",
+    "frq": 6212,
+    "composite_rank": 5715,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender lobster seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的龙虾而闻名。"
+      },
+      {
+        "en": "They grilled the fresh lobster over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的龙虾在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "spawn",
+    "word": "spawn",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/spɒ:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spawn&type=2",
+    "definition_en": "n. the mass of eggs deposited by fish or amphibians or molluscs\\nv. lay spawn",
+    "definition_zh": "n. (鱼)卵, 产物； vt. 产卵, 酿成, 大量生产； vi. 产卵, 大量生产",
+    "frq": 6476,
+    "composite_rank": 5958,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender spawn seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的卵而闻名。"
+      },
+      {
+        "en": "They grilled the fresh spawn over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的卵在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
@@ -500,31 +575,6 @@
     ]
   },
   {
-    "id": "herring",
-    "word": "herring",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "肉禽蛋类与海鲜水产",
-    "category": "food_meat_seafood",
-    "phonetic": "/'heriŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=herring&type=2",
-    "definition_en": "n. valuable flesh of fatty fish from shallow waters of northern Atlantic or Pacific; usually salted or pickled\\nn. commercially important food fish of northern waters of both Atlantic and Pacific",
-    "definition_zh": "n. 青鱼, 鲱",
-    "frq": 10304,
-    "composite_rank": 6162,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The restaurant is famous for serving tender herring seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的青鱼而闻名。"
-      },
-      {
-        "en": "They grilled the fresh herring over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的青鱼在炭火上烤制，呈现出正宗的原木风味。"
-      }
-    ]
-  },
-  {
     "id": "jerk",
     "word": "jerk",
     "part_of_speech": "noun",
@@ -546,6 +596,31 @@
       {
         "en": "They grilled the fresh jerk over charcoal for an authentic rustic flavor.",
         "zh": "他们将新鲜的性情古怪的人在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "seafood",
+    "word": "seafood",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'si:fu:d/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=seafood&type=2",
+    "definition_en": "n. edible fish (broadly including freshwater fish) or shellfish or roe etc",
+    "definition_zh": "n. 海味, 海鲜, 鱼类",
+    "frq": 6817,
+    "composite_rank": 6272,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender seafood seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的海味而闻名。"
+      },
+      {
+        "en": "They grilled the fresh seafood over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的海味在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
@@ -650,6 +725,31 @@
     ]
   },
   {
+    "id": "fin",
+    "word": "fin",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/fin/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fin&type=2",
+    "definition_en": "n. a stabilizer on a ship that resembles the fin of a fish\\nn. organ of locomotion and balance in fishes and some other aquatic animals\\nv. equip (a car) with fins\\nv. propel oneself through the water in a finning motion",
+    "definition_zh": "n. 鳍, 鱼翅, 鳍状物, 五元纸币； vi. 猛挥鳍； vt. 装上翅, 切除鳍",
+    "frq": 8333,
+    "composite_rank": 9100,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender fin seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鳍而闻名。"
+      },
+      {
+        "en": "They grilled the fresh fin over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的鳍在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
     "id": "poultry",
     "word": "poultry",
     "part_of_speech": "noun",
@@ -725,27 +825,52 @@
     ]
   },
   {
-    "id": "spawn",
-    "word": "spawn",
+    "id": "chuck",
+    "word": "chuck",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/spɒ:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spawn&type=2",
-    "definition_en": "n. the mass of eggs deposited by fish or amphibians or molluscs\\nv. lay spawn",
-    "definition_zh": "n. (鱼)卵, 产物； vt. 产卵, 酿成, 大量生产； vi. 产卵, 大量生产",
-    "frq": 6476,
-    "composite_rank": 10128,
+    "phonetic": "/tʃʌk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chuck&type=2",
+    "definition_en": "n. the part of a forequarter from the neck to the ribs and including the shoulder blade\\nn. a holding device consisting of adjustable jaws that center a workpiece in a lathe or center a tool in a drill\\nv. throw carelessly\\nv. throw away",
+    "definition_zh": "n. 抚弄, 赶走, 抛掷, 咯咯声, 颈肉, 卡盘； vt. 轻拍, 抛掷, 驱逐, 丢弃, 用卡盘夹住； vi. 咯咯叫",
+    "frq": 8786,
+    "composite_rank": 9594,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender chuck seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的抚弄而闻名。"
+      },
+      {
+        "en": "They grilled the fresh chuck over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的抚弄在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "pulp",
+    "word": "pulp",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/pʌlp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pulp&type=2",
+    "definition_en": "n. any soft or soggy mass\\nn. a soft moist part of a fruit\\nn. a mixture of cellulose fibers\\nn. an inexpensive magazine printed on poor quality paper",
+    "definition_zh": "n. 果肉, 纸浆； vt. 使化成纸浆, 除去...果肉； vi. 变成纸浆",
+    "frq": 8643,
+    "composite_rank": 10337,
     "badge": "normal",
     "examples": [
       {
-        "en": "The restaurant is famous for serving tender spawn seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的卵而闻名。"
+        "en": "The restaurant is famous for serving tender pulp seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的果肉而闻名。"
       },
       {
-        "en": "They grilled the fresh spawn over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的卵在炭火上烤制，呈现出正宗的原木风味。"
+        "en": "They grilled the fresh pulp over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的果肉在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
@@ -775,27 +900,27 @@
     ]
   },
   {
-    "id": "seafood",
-    "word": "seafood",
+    "id": "gravy",
+    "word": "gravy",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/'si:fu:d/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=seafood&type=2",
-    "definition_en": "n. edible fish (broadly including freshwater fish) or shellfish or roe etc",
-    "definition_zh": "n. 海味, 海鲜, 鱼类",
-    "frq": 6817,
-    "composite_rank": 10662,
+    "phonetic": "/'greivi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gravy&type=2",
+    "definition_en": "n. a sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats\\nn. the seasoned but not thickened juices that drip from cooking meats; often a little water is added",
+    "definition_zh": "n. 肉汁, 外快",
+    "frq": 9062,
+    "composite_rank": 10838,
     "badge": "normal",
     "examples": [
       {
-        "en": "The restaurant is famous for serving tender seafood seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的海味而闻名。"
+        "en": "The restaurant is famous for serving tender gravy seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的肉汁而闻名。"
       },
       {
-        "en": "They grilled the fresh seafood over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的海味在炭火上烤制，呈现出正宗的原木风味。"
+        "en": "They grilled the fresh gravy over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的肉汁在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
@@ -825,27 +950,102 @@
     ]
   },
   {
-    "id": "pulp",
-    "word": "pulp",
+    "id": "herring",
+    "word": "herring",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/pʌlp/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pulp&type=2",
-    "definition_en": "n. any soft or soggy mass\\nn. a soft moist part of a fruit\\nn. a mixture of cellulose fibers\\nn. an inexpensive magazine printed on poor quality paper",
-    "definition_zh": "n. 果肉, 纸浆； vt. 使化成纸浆, 除去...果肉； vi. 变成纸浆",
-    "frq": 8643,
-    "composite_rank": 13518,
+    "phonetic": "/'heriŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=herring&type=2",
+    "definition_en": "n. valuable flesh of fatty fish from shallow waters of northern Atlantic or Pacific; usually salted or pickled\\nn. commercially important food fish of northern waters of both Atlantic and Pacific",
+    "definition_zh": "n. 青鱼, 鲱",
+    "frq": 10304,
+    "composite_rank": 12324,
     "badge": "normal",
     "examples": [
       {
-        "en": "The restaurant is famous for serving tender pulp seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的果肉而闻名。"
+        "en": "The restaurant is famous for serving tender herring seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的青鱼而闻名。"
       },
       {
-        "en": "They grilled the fresh pulp over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的果肉在炭火上烤制，呈现出正宗的原木风味。"
+        "en": "They grilled the fresh herring over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的青鱼在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "aquarium",
+    "word": "aquarium",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/ә'kwєәriәm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aquarium&type=2",
+    "definition_en": "n. a tank or pool or bowl filled with water for keeping live fish and underwater animals",
+    "definition_zh": "n. 水族馆, 养鱼池, 水草缸； 培养缸",
+    "frq": 10321,
+    "composite_rank": 12344,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender aquarium seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的水族馆而闻名。"
+      },
+      {
+        "en": "They grilled the fresh aquarium over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的水族馆在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "speck",
+    "word": "speck",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/spek/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=speck&type=2",
+    "definition_en": "n. a very small spot\\nv. produce specks in or on",
+    "definition_zh": "n. 斑点, 有斑点的东西, 污点, 缺点, 微粒, 肥肉； vt. 使有斑点",
+    "frq": 10442,
+    "composite_rank": 12489,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender speck seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的斑点而闻名。"
+      },
+      {
+        "en": "They grilled the fresh speck over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的斑点在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "eel",
+    "word": "eel",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/i:l/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=eel&type=2",
+    "definition_en": "n. the fatty flesh of eel; an elongate fish found in fresh water in Europe and America; large eels are usually smoked or pickled\\nn. voracious snakelike marine or freshwater fishes with smooth slimy usually scaleless skin and having a continuous vertical fin but no ventral fins",
+    "definition_zh": "n. 鳗鱼, 鳝鱼",
+    "frq": 13160,
+    "composite_rank": 14371,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender eel seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鳗鱼而闻名。"
+      },
+      {
+        "en": "They grilled the fresh eel over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的鳗鱼在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
@@ -875,52 +1075,152 @@
     ]
   },
   {
-    "id": "scaling",
-    "word": "scaling",
+    "id": "nude",
+    "word": "nude",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/'skeiliŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scaling&type=2",
-    "definition_en": "n. the act of arranging in a graduated series\\nn. act of measuring or arranging or adjusting according to a scale\\nn. ascent by or as if by a ladder",
-    "definition_zh": "n. 鱼鳞, 鳞片排列, 去鳞, 鳞片剥落, 攀登进攻, 按比例测量, 按比例缩放； 缩放比例",
-    "frq": 18917,
-    "composite_rank": 15134,
-    "badge": "high",
+    "phonetic": "/nju:d/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nude&type=2",
+    "definition_en": "n. a painting of a naked human figure\\nn. without clothing (especially in the phrase `in the nude')\\nn. a naked person\\nn. a statue of a naked human figure",
+    "definition_zh": "a. 裸的, 肉色的, 无装饰的； n. 裸体画, 裸体",
+    "frq": 7575,
+    "composite_rank": 15332,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The restaurant is famous for serving tender scaling seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鱼鳞而闻名。"
+        "en": "The restaurant is famous for serving tender nude seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的裸体画而闻名。"
       },
       {
-        "en": "They grilled the fresh scaling over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的鱼鳞在炭火上烤制，呈现出正宗的原木风味。"
+        "en": "They grilled the fresh nude over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的裸体画在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
   {
-    "id": "aquarium",
-    "word": "aquarium",
+    "id": "shellfish",
+    "word": "shellfish",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/ә'kwєәriәm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=aquarium&type=2",
-    "definition_en": "n. a tank or pool or bowl filled with water for keeping live fish and underwater animals",
-    "definition_zh": "n. 水族馆, 养鱼池, 水草缸； 培养缸",
-    "frq": 10321,
-    "composite_rank": 16142,
+    "phonetic": "/'ʃelfiʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shellfish&type=2",
+    "definition_en": "n. meat of edible aquatic invertebrate with a shell (especially a mollusk or crustacean)",
+    "definition_zh": "n. 贝, 甲壳类水生物； 牡蛎",
+    "frq": 13065,
+    "composite_rank": 15626,
     "badge": "normal",
     "examples": [
       {
-        "en": "The restaurant is famous for serving tender aquarium seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的水族馆而闻名。"
+        "en": "The restaurant is famous for serving tender shellfish seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的贝而闻名。"
       },
       {
-        "en": "They grilled the fresh aquarium over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的水族馆在炭火上烤制，呈现出正宗的原木风味。"
+        "en": "They grilled the fresh shellfish over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的贝在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "sardine",
+    "word": "sardine",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/sɑ:'di:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sardine&type=2",
+    "definition_en": "n. small fatty fish usually canned\\nn. any of various small edible herring or related food fishes frequently canned",
+    "definition_zh": "n. 沙丁鱼",
+    "frq": 15458,
+    "composite_rank": 18488,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender sardine seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的沙丁鱼而闻名。"
+      },
+      {
+        "en": "They grilled the fresh sardine over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的沙丁鱼在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "hunch",
+    "word": "hunch",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/hʌntʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hunch&type=2",
+    "definition_en": "n. the act of bending yourself into a humped position\\nv. round one's back by bending forward and drawing the shoulders forward",
+    "definition_zh": "n. 肉峰, 预感, 大块； vt. 弯腰驼背, 预感到, 耸肩； vi. 向前移动, 隆起",
+    "frq": 9261,
+    "composite_rank": 18744,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender hunch seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的肉峰而闻名。"
+      },
+      {
+        "en": "They grilled the fresh hunch over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的肉峰在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "sensual",
+    "word": "sensual",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'senʃuәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sensual&type=2",
+    "definition_en": "s. sexually exciting or gratifying",
+    "definition_zh": "a. 肉欲的, 感觉的, 感觉论的",
+    "frq": 10089,
+    "composite_rank": 20420,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender sensual seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的肉欲的而闻名。"
+      },
+      {
+        "en": "They grilled the fresh sensual over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的肉欲的在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "gobble",
+    "word": "gobble",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'gɒbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gobble&type=2",
+    "definition_en": "n. the characteristic sound made by a turkey cock\\nv. eat hastily without proper chewing\\nv. make a gurgling sound, characteristic of turkeys",
+    "definition_zh": "n. 火鸡叫声； vt. 狼吞虎咽； vi. 贪食, 咯咯叫",
+    "frq": 10836,
+    "composite_rank": 21932,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender gobble seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的火鸡叫声而闻名。"
+      },
+      {
+        "en": "They grilled the fresh gobble over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的火鸡叫声在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
@@ -950,10 +1250,35 @@
     ]
   },
   {
+    "id": "skewer",
+    "word": "skewer",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/skju:ә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=skewer&type=2",
+    "definition_en": "n. a long pin for holding meat in position while it is being roasted\\nv. drive a skewer through",
+    "definition_zh": "n. 串肉棒, 烤肉叉子, 针状物； vt. 刺穿, 串住, 讽刺",
+    "frq": 12721,
+    "composite_rank": 25747,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender skewer seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的串肉棒而闻名。"
+      },
+      {
+        "en": "They grilled the fresh skewer over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的串肉棒在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
     "id": "prawn",
     "word": "prawn",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
     "phonetic": "/prɒ:n/",
@@ -961,7 +1286,7 @@
     "definition_en": "n. any of various edible decapod crustaceans\\nn. shrimp-like decapod crustacean having two pairs of pincers; most are edible\\nv. fish for prawns",
     "definition_zh": "n. 明虾, 对虾； vi. 捕虾",
     "frq": 19467,
-    "composite_rank": 23283,
+    "composite_rank": 30446,
     "badge": "normal",
     "examples": [
       {
@@ -975,52 +1300,77 @@
     ]
   },
   {
-    "id": "chickens",
-    "word": "chickens",
+    "id": "filet",
+    "word": "filet",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/ˈtʃikinz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chickens&type=2",
-    "definition_en": "n. the flesh of a chicken used for food\\nn. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl\\nn. a person who lacks confidence, is irresolute and wishy-washy",
-    "definition_zh": "n. 鸡( chicken的复数形式 ); 鸡肉",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
+    "phonetic": "/fi'lei, 'fi:lei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=filet&type=2",
+    "definition_en": "n. lace having a square mesh",
+    "definition_zh": "n. 头带, 轮廓线, 带状物, 带子, 束发带, 肉片, 鱼片, 襻, 嵌条, 丘带, (内)圆角； vt. 用带缚, 把(肉/鱼)切成片, 用饰带装饰",
+    "frq": 17951,
+    "composite_rank": 30517,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The restaurant is famous for serving tender chickens seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鸡而闻名。"
+        "en": "The restaurant is famous for serving tender filet seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的头带而闻名。"
       },
       {
-        "en": "They grilled the fresh chickens over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的鸡在炭火上烤制，呈现出正宗的原木风味。"
+        "en": "They grilled the fresh filet over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的头带在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
   {
-    "id": "meats",
-    "word": "meats",
+    "id": "carp",
+    "word": "carp",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/meats/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=meats&type=2",
-    "definition_en": "n the flesh of animals (including fishes and birds and snails) used as food\\nn the inner and usually edible part of a seed or grain or nut or fruit stone\\nn the choicest or most essential or most vital part of some idea or experience",
-    "definition_zh": "n. 肉类（meat的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
+    "phonetic": "/kɑ:p/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=carp&type=2",
+    "definition_en": "n. the lean flesh of a fish that is often farmed; can be baked or braised\\nn. any of various freshwater fish of the family Cyprinidae",
+    "definition_zh": "n. 鲤鱼； vi. 吹毛求疵, 挑剔",
+    "frq": 16653,
+    "composite_rank": 30775,
+    "badge": "high",
     "examples": [
       {
-        "en": "The restaurant is famous for serving tender meats seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的肉类而闻名。"
+        "en": "The restaurant is famous for serving tender carp seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鲤鱼而闻名。"
       },
       {
-        "en": "They grilled the fresh meats over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的肉类在炭火上烤制，呈现出正宗的原木风味。"
+        "en": "They grilled the fresh carp over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的鲤鱼在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "scaling",
+    "word": "scaling",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/'skeiliŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scaling&type=2",
+    "definition_en": "n. the act of arranging in a graduated series\\nn. act of measuring or arranging or adjusting according to a scale\\nn. ascent by or as if by a ladder",
+    "definition_zh": "n. 鱼鳞, 鳞片排列, 去鳞, 鳞片剥落, 攀登进攻, 按比例测量, 按比例缩放； 缩放比例",
+    "frq": 18917,
+    "composite_rank": 32159,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender scaling seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鱼鳞而闻名。"
+      },
+      {
+        "en": "They grilled the fresh scaling over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的鱼鳞在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
@@ -1100,52 +1450,77 @@
     ]
   },
   {
-    "id": "fishes",
-    "word": "fishes",
+    "id": "sausages",
+    "word": "sausages",
     "part_of_speech": "noun",
     "level": "A2",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/'fiʃiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=fishes&type=2",
-    "definition_en": "n any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\\nn the flesh of fish used as food\\nn (astrology) a person who is born while the sun is in Pisces\\nn the twelfth sign of the zodiac; the sun is in this sign from about February 19 to March 20\\nv seek indirectly\\nv catch or try to catch fish or shellfish",
-    "definition_zh": "n. 鱼类（fish的复数）",
+    "phonetic": "/'sɒsɪdʒɪz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sausages&type=2",
+    "definition_en": "n. highly seasoned minced meat stuffed in casings\\nn. a small nonrigid airship used for observation or as a barrage balloon",
+    "definition_zh": "n. 腊肠, 香肠; 香肠( sausage的复数形式 )",
     "frq": 50000,
     "composite_rank": 40000,
     "badge": "high",
     "examples": [
       {
-        "en": "The restaurant is famous for serving tender fishes seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鱼类而闻名。"
+        "en": "The restaurant is famous for serving tender sausages seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的腊肠而闻名。"
       },
       {
-        "en": "They grilled the fresh fishes over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的鱼类在炭火上烤制，呈现出正宗的原木风味。"
+        "en": "They grilled the fresh sausages over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的腊肠在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
   {
-    "id": "ling",
-    "word": "ling",
+    "id": "wasabi",
+    "word": "wasabi",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/liŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ling&type=2",
-    "definition_en": "n. water chestnut whose spiny fruit has two rather than 4 prongs\\nn. elongated marine food fish of Greenland and northern Europe; often salted and dried\\nn. American hakes",
-    "definition_zh": "n. 鳕鱼, 帚石南",
-    "frq": 30960,
-    "composite_rank": 40248,
+    "phonetic": "/wəˈsɑ:bi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wasabi&type=2",
+    "definition_en": "n. a Japanese plant of the family Cruciferae with a thick green root\\nn. the thick green root of the wasabi plant that the Japanese use in cooking and that tastes like strong horseradish; in powder or paste form it is often eaten with raw fish",
+    "definition_zh": "n. （吃生鱼片沾用）山葵",
+    "frq": 25294,
+    "composite_rank": 43000,
     "badge": "normal",
     "examples": [
       {
-        "en": "The restaurant is famous for serving tender ling seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鳕鱼而闻名。"
+        "en": "The restaurant is famous for serving tender wasabi seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的山葵而闻名。"
       },
       {
-        "en": "They grilled the fresh ling over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的鳕鱼在炭火上烤制，呈现出正宗的原木风味。"
+        "en": "They grilled the fresh wasabi over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的山葵在炭火上烤制，呈现出正宗的原木风味。"
+      }
+    ]
+  },
+  {
+    "id": "grains",
+    "word": "grains",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "肉禽蛋类与海鲜水产",
+    "category": "food_meat_seafood",
+    "phonetic": "/^reinz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=grains&type=2",
+    "definition_en": "n a relatively small granular particle of a substance\\nn foodstuff prepared from the starchy grains of cereal grasses\\nn the side of leather from which the hair has been removed\\nn a weight unit used for pearls or diamonds: 50 mg or 1/4 carat\\nn 1/60 dram; equals an avoirdupois grain or 64.799 milligrams\\nn 1/7000 pound; equals a troy grain or 64.799 milligrams\\nn dry seed-like fruit produced by the cereal grasses: e.g. wheat, barley, Indian corn\\nn a cereal grass\\nn the smallest possible unit of anything\\nn the direction, texture, or pattern of fibers found in wood or leather or stone or in a woven fabric\\nn the physical composition of something (especially with respect to the size and shape of the small constituents of a substance)\\nv thoroughly work in\\nv paint (a surface) to make it look like stone or wood\\nv form into grains\\nv become granular",
+    "definition_zh": "n. 双齿/多齿鱼叉； 糟; 酒糟",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The restaurant is famous for serving tender grains seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的双齿而闻名。"
+      },
+      {
+        "en": "They grilled the fresh grains over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的双齿在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },
@@ -1175,27 +1550,27 @@
     ]
   },
   {
-    "id": "grains",
-    "word": "grains",
+    "id": "ling",
+    "word": "ling",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "肉禽蛋类与海鲜水产",
     "category": "food_meat_seafood",
-    "phonetic": "/^reinz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=grains&type=2",
-    "definition_en": "n a relatively small granular particle of a substance\\nn foodstuff prepared from the starchy grains of cereal grasses\\nn the side of leather from which the hair has been removed\\nn a weight unit used for pearls or diamonds: 50 mg or 1/4 carat\\nn 1/60 dram; equals an avoirdupois grain or 64.799 milligrams\\nn 1/7000 pound; equals a troy grain or 64.799 milligrams\\nn dry seed-like fruit produced by the cereal grasses: e.g. wheat, barley, Indian corn\\nn a cereal grass\\nn the smallest possible unit of anything\\nn the direction, texture, or pattern of fibers found in wood or leather or stone or in a woven fabric\\nn the physical composition of something (especially with respect to the size and shape of the small constituents of a substance)\\nv thoroughly work in\\nv paint (a surface) to make it look like stone or wood\\nv form into grains\\nv become granular",
-    "definition_zh": "n. 双齿/多齿鱼叉； 糟; 酒糟",
-    "frq": 50000,
-    "composite_rank": 65000,
+    "phonetic": "/liŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ling&type=2",
+    "definition_en": "n. water chestnut whose spiny fruit has two rather than 4 prongs\\nn. elongated marine food fish of Greenland and northern Europe; often salted and dried\\nn. American hakes",
+    "definition_zh": "n. 鳕鱼, 帚石南",
+    "frq": 30960,
+    "composite_rank": 52632,
     "badge": "normal",
     "examples": [
       {
-        "en": "The restaurant is famous for serving tender grains seasoned with aromatic herbs.",
-        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的双齿而闻名。"
+        "en": "The restaurant is famous for serving tender ling seasoned with aromatic herbs.",
+        "zh": "该餐厅以供应佐以芳香草本、口感鲜嫩的鳕鱼而闻名。"
       },
       {
-        "en": "They grilled the fresh grains over charcoal for an authentic rustic flavor.",
-        "zh": "他们将新鲜的双齿在炭火上烤制，呈现出正宗的原木风味。"
+        "en": "They grilled the fresh ling over charcoal for an authentic rustic flavor.",
+        "zh": "他们将新鲜的鳕鱼在炭火上烤制，呈现出正宗的原木风味。"
       }
     ]
   },

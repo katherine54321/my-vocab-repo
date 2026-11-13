@@ -400,6 +400,31 @@
     ]
   },
   {
+    "id": "bathe",
+    "word": "bathe",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "日常生活习惯与起居作息",
+    "category": "daily_actions",
+    "phonetic": "/beið/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bathe&type=2",
+    "definition_en": "n. the act of swimming\\nv. cleanse the entire body\\nv. suffuse with or as if with light\\nv. clean one's body by immersion into water",
+    "definition_zh": "vt. 沐浴, 用水洗； vi. 洗澡",
+    "frq": 7550,
+    "composite_rank": 5074,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Establishing a healthy bathe contributes greatly to long-term vitality.",
+        "zh": "养成健康的沐浴对保持长久活力大有裨益。"
+      },
+      {
+        "en": "A balanced daily bathe allows for both productive work and restful relaxation.",
+        "zh": "均衡的日常沐浴既能保证高效工作，又能让人得到充分放松。"
+      }
+    ]
+  },
+  {
     "id": "yawn",
     "word": "yawn",
     "part_of_speech": "noun",
@@ -421,6 +446,31 @@
       {
         "en": "A balanced daily yawn allows for both productive work and restful relaxation.",
         "zh": "均衡的日常哈欠既能保证高效工作，又能让人得到充分放松。"
+      }
+    ]
+  },
+  {
+    "id": "chore",
+    "word": "chore",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "日常生活习惯与起居作息",
+    "category": "daily_actions",
+    "phonetic": "/tʃɒ:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chore&type=2",
+    "definition_en": "n a specific piece of work required to be done as a duty or for a specific fee",
+    "definition_zh": "n. 零工, 家务； 零工",
+    "frq": 6028,
+    "composite_rank": 5546,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Establishing a healthy chore contributes greatly to long-term vitality.",
+        "zh": "养成健康的零工对保持长久活力大有裨益。"
+      },
+      {
+        "en": "A balanced daily chore allows for both productive work and restful relaxation.",
+        "zh": "均衡的日常零工既能保证高效工作，又能让人得到充分放松。"
       }
     ]
   },
@@ -475,31 +525,6 @@
     ]
   },
   {
-    "id": "bathe",
-    "word": "bathe",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "日常生活习惯与起居作息",
-    "category": "daily_actions",
-    "phonetic": "/beið/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bathe&type=2",
-    "definition_en": "n. the act of swimming\\nv. cleanse the entire body\\nv. suffuse with or as if with light\\nv. clean one's body by immersion into water",
-    "definition_zh": "vt. 沐浴, 用水洗； vi. 洗澡",
-    "frq": 7550,
-    "composite_rank": 6342,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Establishing a healthy bathe contributes greatly to long-term vitality.",
-        "zh": "养成健康的沐浴对保持长久活力大有裨益。"
-      },
-      {
-        "en": "A balanced daily bathe allows for both productive work and restful relaxation.",
-        "zh": "均衡的日常沐浴既能保证高效工作，又能让人得到充分放松。"
-      }
-    ]
-  },
-  {
     "id": "comb",
     "word": "comb",
     "part_of_speech": "noun",
@@ -525,31 +550,6 @@
     ]
   },
   {
-    "id": "chore",
-    "word": "chore",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "日常生活习惯与起居作息",
-    "category": "daily_actions",
-    "phonetic": "/tʃɒ:/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chore&type=2",
-    "definition_en": "n a specific piece of work required to be done as a duty or for a specific fee",
-    "definition_zh": "n. 零工, 家务； 零工",
-    "frq": 6028,
-    "composite_rank": 9428,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Establishing a healthy chore contributes greatly to long-term vitality.",
-        "zh": "养成健康的零工对保持长久活力大有裨益。"
-      },
-      {
-        "en": "A balanced daily chore allows for both productive work and restful relaxation.",
-        "zh": "均衡的日常零工既能保证高效工作，又能让人得到充分放松。"
-      }
-    ]
-  },
-  {
     "id": "rouse",
     "word": "rouse",
     "part_of_speech": "noun",
@@ -571,6 +571,56 @@
       {
         "en": "A balanced daily rouse allows for both productive work and restful relaxation.",
         "zh": "均衡的日常觉醒既能保证高效工作，又能让人得到充分放松。"
+      }
+    ]
+  },
+  {
+    "id": "rearrange",
+    "word": "rearrange",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "日常生活习惯与起居作息",
+    "category": "daily_actions",
+    "phonetic": "/.ri:ә'reindʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rearrange&type=2",
+    "definition_en": "v. put into a new order or arrangement",
+    "definition_zh": "vt. 再排列, 重新整理； 重新排列; 重新整理",
+    "frq": 9441,
+    "composite_rank": 11291,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Establishing a healthy rearrange contributes greatly to long-term vitality.",
+        "zh": "养成健康的再排列对保持长久活力大有裨益。"
+      },
+      {
+        "en": "A balanced daily rearrange allows for both productive work and restful relaxation.",
+        "zh": "均衡的日常再排列既能保证高效工作，又能让人得到充分放松。"
+      }
+    ]
+  },
+  {
+    "id": "housework",
+    "word": "housework",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "日常生活习惯与起居作息",
+    "category": "daily_actions",
+    "phonetic": "/'hauswә:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=housework&type=2",
+    "definition_en": "n. the work of cleaning and running a house",
+    "definition_zh": "n. 家事, 家务",
+    "frq": 15787,
+    "composite_rank": 11619,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Establishing a healthy housework contributes greatly to long-term vitality.",
+        "zh": "养成健康的家事对保持长久活力大有裨益。"
+      },
+      {
+        "en": "A balanced daily housework allows for both productive work and restful relaxation.",
+        "zh": "均衡的日常家事既能保证高效工作，又能让人得到充分放松。"
       }
     ]
   },
@@ -625,56 +675,6 @@
     ]
   },
   {
-    "id": "housework",
-    "word": "housework",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "日常生活习惯与起居作息",
-    "category": "daily_actions",
-    "phonetic": "/'hauswә:k/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=housework&type=2",
-    "definition_en": "n. the work of cleaning and running a house",
-    "definition_zh": "n. 家事, 家务",
-    "frq": 15787,
-    "composite_rank": 14524,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Establishing a healthy housework contributes greatly to long-term vitality.",
-        "zh": "养成健康的家事对保持长久活力大有裨益。"
-      },
-      {
-        "en": "A balanced daily housework allows for both productive work and restful relaxation.",
-        "zh": "均衡的日常家事既能保证高效工作，又能让人得到充分放松。"
-      }
-    ]
-  },
-  {
-    "id": "rearrange",
-    "word": "rearrange",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "日常生活习惯与起居作息",
-    "category": "daily_actions",
-    "phonetic": "/.ri:ә'reindʒ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=rearrange&type=2",
-    "definition_en": "v. put into a new order or arrangement",
-    "definition_zh": "vt. 再排列, 重新整理； 重新排列; 重新整理",
-    "frq": 9441,
-    "composite_rank": 14766,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Establishing a healthy rearrange contributes greatly to long-term vitality.",
-        "zh": "养成健康的再排列对保持长久活力大有裨益。"
-      },
-      {
-        "en": "A balanced daily rearrange allows for both productive work and restful relaxation.",
-        "zh": "均衡的日常再排列既能保证高效工作，又能让人得到充分放松。"
-      }
-    ]
-  },
-  {
     "id": "trifle",
     "word": "trifle",
     "part_of_speech": "noun",
@@ -696,6 +696,31 @@
       {
         "en": "A balanced daily trifle allows for both productive work and restful relaxation.",
         "zh": "均衡的日常琐事既能保证高效工作，又能让人得到充分放松。"
+      }
+    ]
+  },
+  {
+    "id": "gape",
+    "word": "gape",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "日常生活习惯与起居作息",
+    "category": "daily_actions",
+    "phonetic": "/geip/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gape&type=2",
+    "definition_en": "n. an expression of openmouthed astonishment\\nn. a stare of amazement (usually with the mouth open)\\nv. be wide open",
+    "definition_zh": "n. 裂口, 张嘴, 打哈欠； vi. 裂开, 张嘴, 打哈欠",
+    "frq": 14282,
+    "composite_rank": 17081,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Establishing a healthy gape contributes greatly to long-term vitality.",
+        "zh": "养成健康的裂口对保持长久活力大有裨益。"
+      },
+      {
+        "en": "A balanced daily gape allows for both productive work and restful relaxation.",
+        "zh": "均衡的日常裂口既能保证高效工作，又能让人得到充分放松。"
       }
     ]
   },
@@ -775,35 +800,10 @@
     ]
   },
   {
-    "id": "gape",
-    "word": "gape",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "日常生活习惯与起居作息",
-    "category": "daily_actions",
-    "phonetic": "/geip/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gape&type=2",
-    "definition_en": "n. an expression of openmouthed astonishment\\nn. a stare of amazement (usually with the mouth open)\\nv. be wide open",
-    "definition_zh": "n. 裂口, 张嘴, 打哈欠； vi. 裂开, 张嘴, 打哈欠",
-    "frq": 14282,
-    "composite_rank": 22337,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Establishing a healthy gape contributes greatly to long-term vitality.",
-        "zh": "养成健康的裂口对保持长久活力大有裨益。"
-      },
-      {
-        "en": "A balanced daily gape allows for both productive work and restful relaxation.",
-        "zh": "均衡的日常裂口既能保证高效工作，又能让人得到充分放松。"
-      }
-    ]
-  },
-  {
     "id": "domesticity",
     "word": "domesticity",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "日常生活习惯与起居作息",
     "category": "daily_actions",
     "phonetic": "/.dәumes'tisiti/",
@@ -811,7 +811,7 @@
     "definition_en": "n. the quality of being domestic or domesticated\\nn. domestic activities or life",
     "definition_zh": "n. 专心于家务, 恋家, 家庭生活",
     "frq": 19895,
-    "composite_rank": 43769,
+    "composite_rank": 33822,
     "badge": "normal",
     "examples": [
       {
@@ -821,6 +821,56 @@
       {
         "en": "A balanced daily domesticity allows for both productive work and restful relaxation.",
         "zh": "均衡的日常专心于家务既能保证高效工作，又能让人得到充分放松。"
+      }
+    ]
+  },
+  {
+    "id": "collate",
+    "word": "collate",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "日常生活习惯与起居作息",
+    "category": "daily_actions",
+    "phonetic": "/kә'leit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=collate&type=2",
+    "definition_en": "v. compare critically; of texts\\nv. to assemble in proper sequence",
+    "definition_zh": "vt. 校对, 校勘； 整理",
+    "frq": 26353,
+    "composite_rank": 41216,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Establishing a healthy collate contributes greatly to long-term vitality.",
+        "zh": "养成健康的校对对保持长久活力大有裨益。"
+      },
+      {
+        "en": "A balanced daily collate allows for both productive work and restful relaxation.",
+        "zh": "均衡的日常校对既能保证高效工作，又能让人得到充分放松。"
+      }
+    ]
+  },
+  {
+    "id": "commode",
+    "word": "commode",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "日常生活习惯与起居作息",
+    "category": "daily_actions",
+    "phonetic": "/kә'mәud/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=commode&type=2",
+    "definition_en": "n a plumbing fixture for defecation and urination\\nn a tall elegant chest of drawers",
+    "definition_zh": "n. 洗脸台, 五斗橱, 便桶",
+    "frq": 24466,
+    "composite_rank": 41592,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Establishing a healthy commode contributes greatly to long-term vitality.",
+        "zh": "养成健康的洗脸台对保持长久活力大有裨益。"
+      },
+      {
+        "en": "A balanced daily commode allows for both productive work and restful relaxation.",
+        "zh": "均衡的日常洗脸台既能保证高效工作，又能让人得到充分放松。"
       }
     ]
   },
@@ -896,31 +946,6 @@
       {
         "en": "A balanced daily washbowl allows for both productive work and restful relaxation.",
         "zh": "均衡的日常洗脸盆既能保证高效工作，又能让人得到充分放松。"
-      }
-    ]
-  },
-  {
-    "id": "commode",
-    "word": "commode",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "日常生活习惯与起居作息",
-    "category": "daily_actions",
-    "phonetic": "/kә'mәud/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=commode&type=2",
-    "definition_en": "n a plumbing fixture for defecation and urination\\nn a tall elegant chest of drawers",
-    "definition_zh": "n. 洗脸台, 五斗橱, 便桶",
-    "frq": 24466,
-    "composite_rank": 53825,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Establishing a healthy commode contributes greatly to long-term vitality.",
-        "zh": "养成健康的洗脸台对保持长久活力大有裨益。"
-      },
-      {
-        "en": "A balanced daily commode allows for both productive work and restful relaxation.",
-        "zh": "均衡的日常洗脸台既能保证高效工作，又能让人得到充分放松。"
       }
     ]
   },

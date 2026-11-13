@@ -500,6 +500,31 @@
     ]
   },
   {
+    "id": "reader",
+    "word": "reader",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'ri:dә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=reader&type=2",
+    "definition_en": "n. a person who enjoys reading\\nn. a person who can read; a literate person\\nn. one of a series of texts for students learning to read",
+    "definition_zh": "n. 读者, 读物, 文选, 校对人, 讲师； 阅读程序; 阅读器",
+    "frq": 1268,
+    "composite_rank": 483,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive reader.",
+        "zh": "该教学项目对全面的读者给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore reader to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究读者，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
     "id": "grade",
     "word": "grade",
     "part_of_speech": "noun",
@@ -600,31 +625,6 @@
     ]
   },
   {
-    "id": "reader",
-    "word": "reader",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'ri:dә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=reader&type=2",
-    "definition_en": "n. a person who enjoys reading\\nn. a person who can read; a literate person\\nn. one of a series of texts for students learning to read",
-    "definition_zh": "n. 读者, 读物, 文选, 校对人, 讲师； 阅读程序; 阅读器",
-    "frq": 1268,
-    "composite_rank": 604,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive reader.",
-        "zh": "该教学项目对全面的读者给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore reader to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究读者，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
     "id": "academic",
     "word": "academic",
     "part_of_speech": "noun",
@@ -650,6 +650,31 @@
     ]
   },
   {
+    "id": "teaching",
+    "word": "teaching",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'ti:tʃiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=teaching&type=2",
+    "definition_en": "n. the profession of a teacher\\nn. a doctrine that is taught",
+    "definition_zh": "n. 教学, 学说, 教导",
+    "frq": 1638,
+    "composite_rank": 697,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive teaching.",
+        "zh": "该教学项目对全面的教学给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore teaching to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究教学，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
     "id": "library",
     "word": "library",
     "part_of_speech": "noun",
@@ -671,31 +696,6 @@
       {
         "en": "Students actively explore library to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究图书馆，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "teaching",
-    "word": "teaching",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'ti:tʃiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=teaching&type=2",
-    "definition_en": "n. the profession of a teacher\\nn. a doctrine that is taught",
-    "definition_zh": "n. 教学, 学说, 教导",
-    "frq": 1638,
-    "composite_rank": 871,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive teaching.",
-        "zh": "该教学项目对全面的教学给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore teaching to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究教学，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -750,10 +750,35 @@
     ]
   },
   {
+    "id": "percent",
+    "word": "percent",
+    "part_of_speech": "noun",
+    "level": "A1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/pә'sent/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=percent&type=2",
+    "definition_en": "n a proportion in relation to a whole (which is usually the amount per hundred)",
+    "definition_zh": "n. 百分比, 百分数, 部分； 百分率",
+    "frq": 2802,
+    "composite_rank": 1093,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive percent.",
+        "zh": "该教学项目对全面的百分比给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore percent to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究百分比，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
     "id": "learning",
     "word": "learning",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'lә:niŋ/",
@@ -761,7 +786,7 @@
     "definition_en": "n. the cognitive process of acquiring skill or knowledge",
     "definition_zh": "n. 学问, 学识, 学习； 学习",
     "frq": 1455,
-    "composite_rank": 1455,
+    "composite_rank": 1164,
     "badge": "core",
     "examples": [
       {
@@ -778,7 +803,7 @@
     "id": "graduate",
     "word": "graduate",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
     "phonetic": "/'grædʒueit/",
@@ -786,7 +811,7 @@
     "definition_en": "n. a measuring instrument for measuring fluid volume; a glass container (cup or cylinder or flask) whose sides are marked with or divided into amounts\\nv. receive an academic degree upon completion of one's studies\\nv. confer an academic degree upon\\ns. of or relating to studies beyond a bachelor's degree",
     "definition_zh": "n. 毕业生, 量杯； a. 已得学位的, 研究生的, 毕业的； vi. 毕业, 得学位, 逐渐变为； vt. 准予...毕业, 授予...学位, 分等级, 刻刻度",
     "frq": 2115,
-    "composite_rank": 1607,
+    "composite_rank": 1286,
     "badge": "core",
     "examples": [
       {
@@ -796,6 +821,106 @@
       {
         "en": "Students actively explore graduate to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究毕业生，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "faculty",
+    "word": "faculty",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'fækәlti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=faculty&type=2",
+    "definition_en": "n. one of the inherent cognitive or perceptual powers of the mind",
+    "definition_zh": "n. 才能, 能力, 全体教员, (大学的)系； 能力, 院系",
+    "frq": 1985,
+    "composite_rank": 1334,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive faculty.",
+        "zh": "该教学项目对全面的才能给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore faculty to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究才能，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "campus",
+    "word": "campus",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'kæmpәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=campus&type=2",
+    "definition_en": "n. a field on which the buildings of a university are situated",
+    "definition_zh": "n. 校园, 大学生活",
+    "frq": 2059,
+    "composite_rank": 1384,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive campus.",
+        "zh": "该教学项目对全面的校园给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore campus to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究校园，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "curriculum",
+    "word": "curriculum",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/kә'rikjulәm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=curriculum&type=2",
+    "definition_en": "n an integrated course of academic studies",
+    "definition_zh": "n. 课程； 课程, 学程",
+    "frq": 2077,
+    "composite_rank": 1396,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive curriculum.",
+        "zh": "该教学项目对全面的课程给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore curriculum to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究课程，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "scholar",
+    "word": "scholar",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'skɒlә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scholar&type=2",
+    "definition_en": "n. a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines\\nn. a student who holds a scholarship",
+    "definition_zh": "n. 学者, 奖学金获得者, 有文化者, 学习者",
+    "frq": 2101,
+    "composite_rank": 1412,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive scholar.",
+        "zh": "该教学项目对全面的学者给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore scholar to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究学者，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -850,102 +975,27 @@
     ]
   },
   {
-    "id": "faculty",
-    "word": "faculty",
+    "id": "adviser",
+    "word": "adviser",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'fækәlti/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=faculty&type=2",
-    "definition_en": "n. one of the inherent cognitive or perceptual powers of the mind",
-    "definition_zh": "n. 才能, 能力, 全体教员, (大学的)系； 能力, 院系",
-    "frq": 1985,
-    "composite_rank": 1667,
+    "phonetic": "/әd'vaizә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=adviser&type=2",
+    "definition_en": "n. an expert who gives advice",
+    "definition_zh": "n. 顾问, 劝告者, 指导教师； 顾问, 劝告者",
+    "frq": 2720,
+    "composite_rank": 1654,
     "badge": "core",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive faculty.",
-        "zh": "该教学项目对全面的才能给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive adviser.",
+        "zh": "该教学项目对全面的顾问给予了高度重视。"
       },
       {
-        "en": "Students actively explore faculty to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究才能，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "percent",
-    "word": "percent",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/pә'sent/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=percent&type=2",
-    "definition_en": "n a proportion in relation to a whole (which is usually the amount per hundred)",
-    "definition_zh": "n. 百分比, 百分数, 部分； 百分率",
-    "frq": 2802,
-    "composite_rank": 1681,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive percent.",
-        "zh": "该教学项目对全面的百分比给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore percent to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究百分比，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "campus",
-    "word": "campus",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'kæmpәs/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=campus&type=2",
-    "definition_en": "n. a field on which the buildings of a university are situated",
-    "definition_zh": "n. 校园, 大学生活",
-    "frq": 2059,
-    "composite_rank": 1730,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive campus.",
-        "zh": "该教学项目对全面的校园给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore campus to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究校园，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "curriculum",
-    "word": "curriculum",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/kә'rikjulәm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=curriculum&type=2",
-    "definition_en": "n an integrated course of academic studies",
-    "definition_zh": "n. 课程； 课程, 学程",
-    "frq": 2077,
-    "composite_rank": 1745,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive curriculum.",
-        "zh": "该教学项目对全面的课程给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore curriculum to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究课程，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore adviser to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究顾问，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -975,27 +1025,27 @@
     ]
   },
   {
-    "id": "scholar",
-    "word": "scholar",
+    "id": "demonstration",
+    "word": "demonstration",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'skɒlә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scholar&type=2",
-    "definition_en": "n. a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines\\nn. a student who holds a scholarship",
-    "definition_zh": "n. 学者, 奖学金获得者, 有文化者, 学习者",
-    "frq": 2101,
-    "composite_rank": 1765,
+    "phonetic": "/.demәn'streiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=demonstration&type=2",
+    "definition_en": "n. a show of military force or preparedness\\nn. a public display of group feelings (usually of a political nature)\\nn. proof by a process of argument or a series of proposition proving an asserted conclusion\\nn. a visual presentation showing how something works",
+    "definition_zh": "n. 示范, 实证； 示教, 实物教授",
+    "frq": 3142,
+    "composite_rank": 1910,
     "badge": "core",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive scholar.",
-        "zh": "该教学项目对全面的学者给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive demonstration.",
+        "zh": "该教学项目对全面的示范给予了高度重视。"
       },
       {
-        "en": "Students actively explore scholar to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学者，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore demonstration to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究示范，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1025,27 +1075,27 @@
     ]
   },
   {
-    "id": "adviser",
-    "word": "adviser",
+    "id": "scholarship",
+    "word": "scholarship",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/әd'vaizә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=adviser&type=2",
-    "definition_en": "n. an expert who gives advice",
-    "definition_zh": "n. 顾问, 劝告者, 指导教师； 顾问, 劝告者",
-    "frq": 2720,
-    "composite_rank": 2067,
+    "phonetic": "/'skɒlәʃip/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scholarship&type=2",
+    "definition_en": "n. financial aid provided to a student on the basis of academic merit",
+    "definition_zh": "n. 学问, 学术成就, 奖学金",
+    "frq": 3044,
+    "composite_rank": 2046,
     "badge": "core",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive adviser.",
-        "zh": "该教学项目对全面的顾问给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive scholarship.",
+        "zh": "该教学项目对全面的学问给予了高度重视。"
       },
       {
-        "en": "Students actively explore adviser to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究顾问，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore scholarship to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究学问，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1071,31 +1121,6 @@
       {
         "en": "Students actively explore proceeding to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究进行，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "scholarship",
-    "word": "scholarship",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'skɒlәʃip/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scholarship&type=2",
-    "definition_en": "n. financial aid provided to a student on the basis of academic merit",
-    "definition_zh": "n. 学问, 学术成就, 奖学金",
-    "frq": 3044,
-    "composite_rank": 2557,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive scholarship.",
-        "zh": "该教学项目对全面的学问给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore scholarship to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学问，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1175,6 +1200,31 @@
     ]
   },
   {
+    "id": "instructor",
+    "word": "instructor",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/in'strʌktә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=instructor&type=2",
+    "definition_en": "n a person whose occupation is teaching",
+    "definition_zh": "n. 教员, 讲师； 指导者, 教员, 讲师",
+    "frq": 3211,
+    "composite_rank": 2697,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive instructor.",
+        "zh": "该教学项目对全面的教员给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore instructor to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究教员，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
     "id": "institute",
     "word": "institute",
     "part_of_speech": "noun",
@@ -1196,6 +1246,56 @@
       {
         "en": "Students actively explore institute to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究学会，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "academy",
+    "word": "academy",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/ә'kædәmi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=academy&type=2",
+    "definition_en": "n. a secondary school (usually private)\\nn. an institution for the advancement of art or science or literature\\nn. a school for special training\\nn. a learned establishment for the advancement of knowledge",
+    "definition_zh": "n. 学院, 院校, 学会",
+    "frq": 4895,
+    "composite_rank": 3289,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive academy.",
+        "zh": "该教学项目对全面的学院给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore academy to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究学院，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "textbook",
+    "word": "textbook",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'tekstbuk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=textbook&type=2",
+    "definition_en": "n. a book prepared for use in schools or colleges",
+    "definition_zh": "n. 教科书",
+    "frq": 4473,
+    "composite_rank": 3292,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive textbook.",
+        "zh": "该教学项目对全面的教科书给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore textbook to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究教科书，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1225,27 +1325,52 @@
     ]
   },
   {
-    "id": "instructor",
-    "word": "instructor",
+    "id": "gown",
+    "word": "gown",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/in'strʌktә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=instructor&type=2",
-    "definition_en": "n a person whose occupation is teaching",
-    "definition_zh": "n. 教员, 讲师； 指导者, 教员, 讲师",
-    "frq": 3211,
-    "composite_rank": 3506,
+    "phonetic": "/gaun/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gown&type=2",
+    "definition_en": "n. a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions\\nn. the members of a university as distinguished from the other residents of the town in which the university is located\\nn. protective garment worn by surgeons during operations\\nn. outerwear consisting of a long flowing garment used for official or ceremonial occasions",
+    "definition_zh": "n. 睡衣, 法衣, 大学全体师生； vt. 使穿睡衣",
+    "frq": 5262,
+    "composite_rank": 3536,
     "badge": "high",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive instructor.",
-        "zh": "该教学项目对全面的教员给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive gown.",
+        "zh": "该教学项目对全面的睡衣给予了高度重视。"
       },
       {
-        "en": "Students actively explore instructor to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究教员，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore gown to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究睡衣，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "skull",
+    "word": "skull",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/skʌl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=skull&type=2",
+    "definition_en": "n. the bony skeleton of the head of vertebrates",
+    "definition_zh": "n. 头盖骨, 头脑, 好学生； 头颅",
+    "frq": 4244,
+    "composite_rank": 3565,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive skull.",
+        "zh": "该教学项目对全面的头盖骨给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore skull to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究头盖骨，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1271,106 +1396,6 @@
       {
         "en": "Students actively explore fraction to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究小部分，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "demonstration",
-    "word": "demonstration",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/.demәn'streiʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=demonstration&type=2",
-    "definition_en": "n. a show of military force or preparedness\\nn. a public display of group feelings (usually of a political nature)\\nn. proof by a process of argument or a series of proposition proving an asserted conclusion\\nn. a visual presentation showing how something works",
-    "definition_zh": "n. 示范, 实证； 示教, 实物教授",
-    "frq": 3142,
-    "composite_rank": 4059,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive demonstration.",
-        "zh": "该教学项目对全面的示范给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore demonstration to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究示范，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "learner",
-    "word": "learner",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'lә:nә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=learner&type=2",
-    "definition_en": "n. someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs",
-    "definition_zh": "n. 学习者, 初学者",
-    "frq": 5078,
-    "composite_rank": 4062,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive learner.",
-        "zh": "该教学项目对全面的学习者给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore learner to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学习者，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "academy",
-    "word": "academy",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/ә'kædәmi/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=academy&type=2",
-    "definition_en": "n. a secondary school (usually private)\\nn. an institution for the advancement of art or science or literature\\nn. a school for special training\\nn. a learned establishment for the advancement of knowledge",
-    "definition_zh": "n. 学院, 院校, 学会",
-    "frq": 4895,
-    "composite_rank": 4112,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive academy.",
-        "zh": "该教学项目对全面的学院给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore academy to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学院，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "textbook",
-    "word": "textbook",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'tekstbuk/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=textbook&type=2",
-    "definition_en": "n. a book prepared for use in schools or colleges",
-    "definition_zh": "n. 教科书",
-    "frq": 4473,
-    "composite_rank": 4115,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive textbook.",
-        "zh": "该教学项目对全面的教科书给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore textbook to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究教科书，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1425,31 +1450,6 @@
     ]
   },
   {
-    "id": "gown",
-    "word": "gown",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/gaun/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gown&type=2",
-    "definition_en": "n. a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions\\nn. the members of a university as distinguished from the other residents of the town in which the university is located\\nn. protective garment worn by surgeons during operations\\nn. outerwear consisting of a long flowing garment used for official or ceremonial occasions",
-    "definition_zh": "n. 睡衣, 法衣, 大学全体师生； vt. 使穿睡衣",
-    "frq": 5262,
-    "composite_rank": 4420,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive gown.",
-        "zh": "该教学项目对全面的睡衣给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore gown to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究睡衣，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
     "id": "catalog",
     "word": "catalog",
     "part_of_speech": "noun",
@@ -1500,77 +1500,152 @@
     ]
   },
   {
-    "id": "skull",
-    "word": "skull",
+    "id": "dean",
+    "word": "dean",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/skʌl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=skull&type=2",
-    "definition_en": "n. the bony skeleton of the head of vertebrates",
-    "definition_zh": "n. 头盖骨, 头脑, 好学生； 头颅",
-    "frq": 4244,
-    "composite_rank": 4634,
+    "phonetic": "/di:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dean&type=2",
+    "definition_en": "n. an administrator in charge of a division of a university or college\\nn. United States film actor whose moody rebellious roles made him a cult figure (1931-1955)\\nn. a man who is the senior member of a group\\nn. (Roman Catholic Church) the head of the College of Cardinals",
+    "definition_zh": "n. 院长, 主持牧师； 外交团长, 学院院长, 教务长",
+    "frq": 4946,
+    "composite_rank": 4550,
     "badge": "high",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive skull.",
-        "zh": "该教学项目对全面的头盖骨给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive dean.",
+        "zh": "该教学项目对全面的院长给予了高度重视。"
       },
       {
-        "en": "Students actively explore skull to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究头盖骨，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore dean to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究院长，以拓宽视野并丰富认知体系。"
       }
     ]
   },
   {
-    "id": "schooling",
-    "word": "schooling",
+    "id": "catalogue",
+    "word": "catalogue",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'sku:liŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=schooling&type=2",
-    "definition_en": "n. the act of teaching at school\\nn. the training of an animal (especially the training of a horse for dressage)",
-    "definition_zh": "n. 学校教育, 学费",
-    "frq": 7968,
-    "composite_rank": 4765,
-    "badge": "core",
+    "phonetic": "/'kætәlɒg/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=catalogue&type=2",
+    "definition_en": "v. make an itemized list or catalog of; classify\\nv. make a catalogue, compile a catalogue",
+    "definition_zh": "n. 目录, 大学情况一览； vt. 编入目录",
+    "frq": 6793,
+    "composite_rank": 4565,
+    "badge": "high",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive schooling.",
-        "zh": "该教学项目对全面的学校教育给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive catalogue.",
+        "zh": "该教学项目对全面的目录给予了高度重视。"
       },
       {
-        "en": "Students actively explore schooling to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学校教育，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore catalogue to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究目录，以拓宽视野并丰富认知体系。"
       }
     ]
   },
   {
-    "id": "doctoral",
-    "word": "doctoral",
+    "id": "critique",
+    "word": "critique",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'dɒktәrәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=doctoral&type=2",
-    "definition_en": "a. of or relating to a doctor or doctorate",
-    "definition_zh": "a. 博士的",
-    "frq": 7920,
-    "composite_rank": 5148,
-    "badge": "core",
+    "phonetic": "/kri'ti:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=critique&type=2",
+    "definition_en": "n an essay or article that gives a critical evaluation (as of a book or play)\\nn a serious examination and judgment of something\\nv appraise critically",
+    "definition_zh": "n. 评论文章, 评论",
+    "frq": 4982,
+    "composite_rank": 4583,
+    "badge": "high",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive doctoral.",
-        "zh": "该教学项目对全面的博士的给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive critique.",
+        "zh": "该教学项目对全面的评论文章给予了高度重视。"
       },
       {
-        "en": "Students actively explore doctoral to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究博士的，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore critique to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究评论文章，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "superintendent",
+    "word": "superintendent",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/,sju:pәrin'tendәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=superintendent&type=2",
+    "definition_en": "n. a caretaker for an apartment house; represents the owner as janitor and rent collector",
+    "definition_zh": "n. 监督人, 主管人, 主日学校校长； 监督人, 主管人(部门)",
+    "frq": 5496,
+    "composite_rank": 4617,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive superintendent.",
+        "zh": "该教学项目对全面的监督人给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore superintendent to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究监督人，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "learner",
+    "word": "learner",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'lә:nә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=learner&type=2",
+    "definition_en": "n. someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs",
+    "definition_zh": "n. 学习者, 初学者",
+    "frq": 5078,
+    "composite_rank": 5078,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive learner.",
+        "zh": "该教学项目对全面的学习者给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore learner to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究学习者，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "transcript",
+    "word": "transcript",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'trænskript/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=transcript&type=2",
+    "definition_en": "n. something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech\\nn. a reproduction of a written record (e.g. of a legal or school record)",
+    "definition_zh": "n. 抄本, 副本, 成绩单； 法院文本, 官方记录, 记录的副本",
+    "frq": 6204,
+    "composite_rank": 5211,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive transcript.",
+        "zh": "该教学项目对全面的抄本给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore transcript to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究抄本，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1600,6 +1675,31 @@
     ]
   },
   {
+    "id": "technically",
+    "word": "technically",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'teknikli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=technically&type=2",
+    "definition_en": "r. with regard to technique\\nr. with regard to technical skill and the technology available\\nr. according to the exact meaning; according to the facts",
+    "definition_zh": "adv. 技术上, 学术上, 专门地",
+    "frq": 5848,
+    "composite_rank": 5380,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive technically.",
+        "zh": "该教学项目对全面的技术上给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore technically to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究技术上，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
     "id": "notify",
     "word": "notify",
     "part_of_speech": "noun",
@@ -1625,27 +1725,27 @@
     ]
   },
   {
-    "id": "catalogue",
-    "word": "catalogue",
+    "id": "scholarly",
+    "word": "scholarly",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'kætәlɒg/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=catalogue&type=2",
-    "definition_en": "v. make an itemized list or catalog of; classify\\nv. make a catalogue, compile a catalogue",
-    "definition_zh": "n. 目录, 大学情况一览； vt. 编入目录",
-    "frq": 6793,
-    "composite_rank": 5706,
+    "phonetic": "/'skɔlәli/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scholarly&type=2",
+    "definition_en": "a. characteristic of scholars or scholarship",
+    "definition_zh": "a. 学者派头的, 学者风度的, 有学问的, 博学的, 好学的",
+    "frq": 6310,
+    "composite_rank": 5805,
     "badge": "high",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive catalogue.",
-        "zh": "该教学项目对全面的目录给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive scholarly.",
+        "zh": "该教学项目对全面的学者派头的给予了高度重视。"
       },
       {
-        "en": "Students actively explore catalogue to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究目录，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore scholarly to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究学者派头的，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1675,27 +1775,27 @@
     ]
   },
   {
-    "id": "dean",
-    "word": "dean",
+    "id": "tutor",
+    "word": "tutor",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/di:n/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dean&type=2",
-    "definition_en": "n. an administrator in charge of a division of a university or college\\nn. United States film actor whose moody rebellious roles made him a cult figure (1931-1955)\\nn. a man who is the senior member of a group\\nn. (Roman Catholic Church) the head of the College of Cardinals",
-    "definition_zh": "n. 院长, 主持牧师； 外交团长, 学院院长, 教务长",
-    "frq": 4946,
-    "composite_rank": 5915,
+    "phonetic": "/'tju:tә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tutor&type=2",
+    "definition_en": "v. be a tutor to someone; give individual instruction\\nv. act as a guardian to someone",
+    "definition_zh": "n. 家庭教师, 导师, 助教, 监护人； vt. 当...的教师, 教, 指导, 约束, 克制； vi. 当家庭教师, 受家庭教师的指导",
+    "frq": 9093,
+    "composite_rank": 6110,
     "badge": "high",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive dean.",
-        "zh": "该教学项目对全面的院长给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive tutor.",
+        "zh": "该教学项目对全面的家庭教师给予了高度重视。"
       },
       {
-        "en": "Students actively explore dean to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究院长，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore tutor to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究家庭教师，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1725,6 +1825,31 @@
     ]
   },
   {
+    "id": "novice",
+    "word": "novice",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'nɒvis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=novice&type=2",
+    "definition_en": "n. someone new to a field or activity",
+    "definition_zh": "n. 新手, 初学者",
+    "frq": 7564,
+    "composite_rank": 6354,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive novice.",
+        "zh": "该教学项目对全面的新手给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore novice to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究新手，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
     "id": "thesis",
     "word": "thesis",
     "part_of_speech": "noun",
@@ -1746,6 +1871,56 @@
       {
         "en": "Students actively explore thesis to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究论题，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "memoir",
+    "word": "memoir",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'memwɑ:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=memoir&type=2",
+    "definition_en": "n. an account of the author's personal experiences\\nn. an essay on a scientific or scholarly topic",
+    "definition_zh": "n. 传记, 实录, 追思录, 回忆录, 自传； 研究报告",
+    "frq": 5572,
+    "composite_rank": 6664,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive memoir.",
+        "zh": "该教学项目对全面的传记给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore memoir to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究传记，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "alumnus",
+    "word": "alumnus",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/ә'lʌmnәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=alumnus&type=2",
+    "definition_en": "n. a person who has received a degree from a school (high school or college or university)",
+    "definition_zh": "n. 男毕业生, 男校友",
+    "frq": 7409,
+    "composite_rank": 6816,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive alumnus.",
+        "zh": "该教学项目对全面的男毕业生给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore alumnus to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究男毕业生，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1800,27 +1975,52 @@
     ]
   },
   {
-    "id": "technically",
-    "word": "technically",
+    "id": "phd",
+    "word": "phd",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'teknikli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=technically&type=2",
-    "definition_en": "r. with regard to technique\\nr. with regard to technical skill and the technology available\\nr. according to the exact meaning; according to the facts",
-    "definition_zh": "adv. 技术上, 学术上, 专门地",
-    "frq": 5848,
-    "composite_rank": 6994,
+    "phonetic": "/phd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=phd&type=2",
+    "definition_en": "d a doctorate usually based on at least 3 years graduate study and a dissertation; the highest degree awarded graduate study",
+    "definition_zh": "abbr. 哲学博士学位（Doctor of Philosophy）",
+    "frq": 7607,
+    "composite_rank": 6998,
     "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive technically.",
-        "zh": "该教学项目对全面的技术上给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive phd.",
+        "zh": "该教学项目对全面的哲学博士学位给予了高度重视。"
       },
       {
-        "en": "Students actively explore technically to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究技术上，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore phd to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究哲学博士学位，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "schooling",
+    "word": "schooling",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'sku:liŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=schooling&type=2",
+    "definition_en": "n. the act of teaching at school\\nn. the training of an animal (especially the training of a horse for dressage)",
+    "definition_zh": "n. 学校教育, 学费",
+    "frq": 7968,
+    "composite_rank": 7331,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive schooling.",
+        "zh": "该教学项目对全面的学校教育给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore schooling to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究学校教育，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1846,31 +2046,6 @@
       {
         "en": "Students actively explore beginner to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究初学者，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "tutor",
-    "word": "tutor",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'tju:tә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tutor&type=2",
-    "definition_en": "v. be a tutor to someone; give individual instruction\\nv. act as a guardian to someone",
-    "definition_zh": "n. 家庭教师, 导师, 助教, 监护人； vt. 当...的教师, 教, 指导, 约束, 克制； vi. 当家庭教师, 受家庭教师的指导",
-    "frq": 9093,
-    "composite_rank": 7638,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive tutor.",
-        "zh": "该教学项目对全面的家庭教师给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore tutor to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究家庭教师，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1925,52 +2100,52 @@
     ]
   },
   {
-    "id": "critique",
-    "word": "critique",
+    "id": "doctoral",
+    "word": "doctoral",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/kri'ti:k/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=critique&type=2",
-    "definition_en": "n an essay or article that gives a critical evaluation (as of a book or play)\\nn a serious examination and judgment of something\\nv appraise critically",
-    "definition_zh": "n. 评论文章, 评论",
-    "frq": 4982,
-    "composite_rank": 7792,
+    "phonetic": "/'dɒktәrәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=doctoral&type=2",
+    "definition_en": "a. of or relating to a doctor or doctorate",
+    "definition_zh": "a. 博士的",
+    "frq": 7920,
+    "composite_rank": 7920,
     "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive critique.",
-        "zh": "该教学项目对全面的评论文章给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive doctoral.",
+        "zh": "该教学项目对全面的博士的给予了高度重视。"
       },
       {
-        "en": "Students actively explore critique to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究评论文章，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore doctoral to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究博士的，以拓宽视野并丰富认知体系。"
       }
     ]
   },
   {
-    "id": "superintendent",
-    "word": "superintendent",
+    "id": "dropout",
+    "word": "dropout",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/,sju:pәrin'tendәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=superintendent&type=2",
-    "definition_en": "n. a caretaker for an apartment house; represents the owner as janitor and rent collector",
-    "definition_zh": "n. 监督人, 主管人, 主日学校校长； 监督人, 主管人(部门)",
-    "frq": 5496,
-    "composite_rank": 7848,
-    "badge": "high",
+    "phonetic": "/'drɒpaut/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dropout&type=2",
+    "definition_en": "n. someone who quits school before graduation\\nn. someone who withdraws from a social group or environment",
+    "definition_zh": "n. 退学学生, 中途退学； 离去",
+    "frq": 7969,
+    "composite_rank": 7969,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive superintendent.",
-        "zh": "该教学项目对全面的监督人给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive dropout.",
+        "zh": "该教学项目对全面的退学学生给予了高度重视。"
       },
       {
-        "en": "Students actively explore superintendent to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究监督人，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore dropout to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究退学学生，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -1996,81 +2171,6 @@
       {
         "en": "Students actively explore quiz to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究考查，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "transcript",
-    "word": "transcript",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'trænskript/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=transcript&type=2",
-    "definition_en": "n. something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech\\nn. a reproduction of a written record (e.g. of a legal or school record)",
-    "definition_zh": "n. 抄本, 副本, 成绩单； 法院文本, 官方记录, 记录的副本",
-    "frq": 6204,
-    "composite_rank": 8859,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive transcript.",
-        "zh": "该教学项目对全面的抄本给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore transcript to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究抄本，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "schoolteacher",
-    "word": "schoolteacher",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'sku:lti:tʃә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=schoolteacher&type=2",
-    "definition_en": "n. a teacher in a school below the college level",
-    "definition_zh": "n. 教师",
-    "frq": 10624,
-    "composite_rank": 9774,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive schoolteacher.",
-        "zh": "该教学项目对全面的教师给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore schoolteacher to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究教师，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "scholarly",
-    "word": "scholarly",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'skɔlәli/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scholarly&type=2",
-    "definition_en": "a. characteristic of scholars or scholarship",
-    "definition_zh": "a. 学者派头的, 学者风度的, 有学问的, 博学的, 好学的",
-    "frq": 6310,
-    "composite_rank": 9869,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive scholarly.",
-        "zh": "该教学项目对全面的学者派头的给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore scholarly to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学者派头的，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -2125,31 +2225,6 @@
     ]
   },
   {
-    "id": "novice",
-    "word": "novice",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'nɒvis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=novice&type=2",
-    "definition_en": "n. someone new to a field or activity",
-    "definition_zh": "n. 新手, 初学者",
-    "frq": 7564,
-    "composite_rank": 10801,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive novice.",
-        "zh": "该教学项目对全面的新手给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore novice to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究新手，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
     "id": "headteacher",
     "word": "headteacher",
     "part_of_speech": "noun",
@@ -2175,31 +2250,6 @@
     ]
   },
   {
-    "id": "penn",
-    "word": "penn",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/pen/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=penn&type=2",
-    "definition_en": "n. Englishman and Quaker who founded the colony of Pennsylvania (1644-1718)",
-    "definition_zh": "abbr. 宾夕法尼亚大学（Pennsylvania）",
-    "frq": 16829,
-    "composite_rank": 10939,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive penn.",
-        "zh": "该教学项目对全面的宾夕法尼亚大学给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore penn to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究宾夕法尼亚大学，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
     "id": "fellowship",
     "word": "fellowship",
     "part_of_speech": "noun",
@@ -2221,6 +2271,31 @@
       {
         "en": "Students actively explore fellowship to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究伙伴关系，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "dissertation",
+    "word": "dissertation",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/.disә'teiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dissertation&type=2",
+    "definition_en": "n. a treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree",
+    "definition_zh": "n. 论文",
+    "frq": 9303,
+    "composite_rank": 11126,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive dissertation.",
+        "zh": "该教学项目对全面的论文给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore dissertation to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究论文，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -2300,27 +2375,52 @@
     ]
   },
   {
-    "id": "schoolwork",
-    "word": "schoolwork",
+    "id": "profess",
+    "word": "profess",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'sku:lw\\\\\\\\:k/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=schoolwork&type=2",
-    "definition_en": "n a school task performed by a student to satisfy the teacher",
-    "definition_zh": "n. 学校作业, 家庭作业",
-    "frq": 16911,
-    "composite_rank": 13529,
-    "badge": "high",
+    "phonetic": "/prә'fes/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=profess&type=2",
+    "definition_en": "v. practice as a profession, teach, or claim to be knowledgeable about\\nv. confess one's faith in, or allegiance to\\nv. state freely\\nv. receive into a religious order or congregation",
+    "definition_zh": "vt. 声称, 以...为业, 伪称, 讲授； vi. 表白, 承认, 当教授",
+    "frq": 10336,
+    "composite_rank": 12362,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive schoolwork.",
-        "zh": "该教学项目对全面的学校作业给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive profess.",
+        "zh": "该教学项目对全面的声称给予了高度重视。"
       },
       {
-        "en": "Students actively explore schoolwork to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学校作业，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore profess to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究声称，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "schoolteacher",
+    "word": "schoolteacher",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'sku:lti:tʃә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=schoolteacher&type=2",
+    "definition_en": "n. a teacher in a school below the college level",
+    "definition_zh": "n. 教师",
+    "frq": 10624,
+    "composite_rank": 12706,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive schoolteacher.",
+        "zh": "该教学项目对全面的教师给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore schoolteacher to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究教师，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -2350,51 +2450,26 @@
     ]
   },
   {
-    "id": "dropout",
-    "word": "dropout",
+    "id": "treatise",
+    "word": "treatise",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/'drɒpaut/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dropout&type=2",
-    "definition_en": "n. someone who quits school before graduation\\nn. someone who withdraws from a social group or environment",
-    "definition_zh": "n. 退学学生, 中途退学； 离去",
-    "frq": 7969,
-    "composite_rank": 13547,
+    "phonetic": "/'tri:tis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=treatise&type=2",
+    "definition_en": "n. a formal exposition",
+    "definition_zh": "n. 论文, 专著",
+    "frq": 11509,
+    "composite_rank": 13765,
     "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive dropout.",
-        "zh": "该教学项目对全面的退学学生给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore dropout to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究退学学生，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "dissertation",
-    "word": "dissertation",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/.disә'teiʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dissertation&type=2",
-    "definition_en": "n. a treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree",
-    "definition_zh": "n. 论文",
-    "frq": 9303,
-    "composite_rank": 14550,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive dissertation.",
+        "en": "The academic program places strong emphasis on comprehensive treatise.",
         "zh": "该教学项目对全面的论文给予了高度重视。"
       },
       {
-        "en": "Students actively explore dissertation to expand their horizons and critical knowledge.",
+        "en": "Students actively explore treatise to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究论文，以拓宽视野并丰富认知体系。"
       }
     ]
@@ -2421,31 +2496,6 @@
       {
         "en": "Students actively explore chancellor to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究大臣，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "med",
-    "word": "med",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/med/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=med&type=2",
-    "definition_en": "n a master's degree in education",
-    "definition_zh": "教育学硕士",
-    "frq": 23314,
-    "composite_rank": 15154,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive med.",
-        "zh": "该教学项目对全面的教育学硕士给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore med to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究教育学硕士，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -2500,27 +2550,127 @@
     ]
   },
   {
-    "id": "profess",
-    "word": "profess",
+    "id": "pedagogy",
+    "word": "pedagogy",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/prә'fes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=profess&type=2",
-    "definition_en": "v. practice as a profession, teach, or claim to be knowledgeable about\\nv. confess one's faith in, or allegiance to\\nv. state freely\\nv. receive into a religious order or congregation",
-    "definition_zh": "vt. 声称, 以...为业, 伪称, 讲授； vi. 表白, 承认, 当教授",
-    "frq": 10336,
-    "composite_rank": 16166,
+    "phonetic": "/'pedәgәudʒi/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pedagogy&type=2",
+    "definition_en": "n the principles and methods of instruction\\nn the profession of a teacher\\nn the activities of educating or instructing; activities that impart knowledge or skill",
+    "definition_zh": "n. 教育学, 教授法, 教学工作",
+    "frq": 12445,
+    "composite_rank": 16178,
     "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive profess.",
-        "zh": "该教学项目对全面的声称给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive pedagogy.",
+        "zh": "该教学项目对全面的教育学给予了高度重视。"
       },
       {
-        "en": "Students actively explore profess to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究声称，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore pedagogy to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究教育学，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "cadet",
+    "word": "cadet",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/kә'det/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cadet&type=2",
+    "definition_en": "n. a military trainee (as at a military academy)",
+    "definition_zh": "n. 军官学校学生； 军校学生",
+    "frq": 8115,
+    "composite_rank": 16425,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive cadet.",
+        "zh": "该教学项目对全面的军官学校学生给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore cadet to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究军官学校学生，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "penn",
+    "word": "penn",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/pen/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=penn&type=2",
+    "definition_en": "n. Englishman and Quaker who founded the colony of Pennsylvania (1644-1718)",
+    "definition_zh": "abbr. 宾夕法尼亚大学（Pennsylvania）",
+    "frq": 16829,
+    "composite_rank": 16829,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive penn.",
+        "zh": "该教学项目对全面的宾夕法尼亚大学给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore penn to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究宾夕法尼亚大学，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "syllabus",
+    "word": "syllabus",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'silәbәs/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=syllabus&type=2",
+    "definition_en": "n an integrated course of academic studies",
+    "definition_zh": "n. 摘要, 提纲, 课程表, 教学大纲； 摘要, 要目",
+    "frq": 15285,
+    "composite_rank": 18281,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive syllabus.",
+        "zh": "该教学项目对全面的摘要给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore syllabus to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究摘要，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "fraternity",
+    "word": "fraternity",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/frә'tә:niti/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fraternity&type=2",
+    "definition_en": "n. a social club for male undergraduates",
+    "definition_zh": "n. 友爱, 互助会, 大学生联谊会",
+    "frq": 9247,
+    "composite_rank": 18716,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive fraternity.",
+        "zh": "该教学项目对全面的友爱给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore fraternity to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究友爱，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -2550,6 +2700,81 @@
     ]
   },
   {
+    "id": "tutorial",
+    "word": "tutorial",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/tju:'tɒ:riәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tutorial&type=2",
+    "definition_en": "n. a session of intensive tuition given by a tutor to an individual or to a small number of students\\na. of or relating to tutors or tutoring",
+    "definition_zh": "n. 个别指导, 论文, 学习指南, 指导手册； a. 个别指导的, 家庭教师的, 辅导的； 教程",
+    "frq": 15959,
+    "composite_rank": 19087,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive tutorial.",
+        "zh": "该教学项目对全面的个别指导给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore tutorial to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究个别指导，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "pollster",
+    "word": "pollster",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'pәulstә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pollster&type=2",
+    "definition_en": "n. someone who conducts surveys of public opinion",
+    "definition_zh": "n. 民意调查人, 民意测验经办人",
+    "frq": 9635,
+    "composite_rank": 19501,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive pollster.",
+        "zh": "该教学项目对全面的民意调查人给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore pollster to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究民意调查人，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "inception",
+    "word": "inception",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/in'sepʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=inception&type=2",
+    "definition_en": "n an event that is a beginning; a first part or stage of subsequent events",
+    "definition_zh": "n. 起初, 获得学位",
+    "frq": 10325,
+    "composite_rank": 20898,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive inception.",
+        "zh": "该教学项目对全面的起初给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore inception to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究起初，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
     "id": "examining",
     "word": "examining",
     "part_of_speech": "noun",
@@ -2571,6 +2796,31 @@
       {
         "en": "Students actively explore examining to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究审查的，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "med",
+    "word": "med",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/med/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=med&type=2",
+    "definition_en": "n a master's degree in education",
+    "definition_zh": "教育学硕士",
+    "frq": 23314,
+    "composite_rank": 23314,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive med.",
+        "zh": "该教学项目对全面的教育学硕士给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore med to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究教育学硕士，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -2600,27 +2850,77 @@
     ]
   },
   {
-    "id": "notified",
-    "word": "notified",
+    "id": "alumni",
+    "word": "alumni",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/ˈnəutifaid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=notified&type=2",
-    "definition_en": "v inform (somebody) of something",
-    "definition_zh": "v. 通知, 告知, 报告( notify的过去式和过去分词 )",
-    "frq": 45269,
-    "composite_rank": 29425,
-    "badge": "core",
+    "phonetic": "/ә'lʌmni/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=alumni&type=2",
+    "definition_en": "n a person who has received a degree from a school (high school or college or university)",
+    "definition_zh": "pl. 男毕业生, 男校友",
+    "frq": 25813,
+    "composite_rank": 25813,
+    "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive notified.",
-        "zh": "该教学项目对全面的通知给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive alumni.",
+        "zh": "该教学项目对全面的男毕业生给予了高度重视。"
       },
       {
-        "en": "Students actively explore notified to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究通知，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore alumni to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究男毕业生，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "postgraduate",
+    "word": "postgraduate",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'pәust'^rædjuit, 'pәust'^rædʒuit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=postgraduate&type=2",
+    "definition_en": "n a student who continues studies after graduation\\ns of or relating to studies beyond a bachelor's degree",
+    "definition_zh": "a. 大学毕业后的, 大学研究院的； n. 研究生",
+    "frq": 17033,
+    "composite_rank": 26640,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive postgraduate.",
+        "zh": "该教学项目对全面的研究生给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore postgraduate to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究研究生，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "schoolwork",
+    "word": "schoolwork",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'sku:lw\\\\\\\\:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=schoolwork&type=2",
+    "definition_en": "n a school task performed by a student to satisfy the teacher",
+    "definition_zh": "n. 学校作业, 家庭作业",
+    "frq": 16911,
+    "composite_rank": 28749,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive schoolwork.",
+        "zh": "该教学项目对全面的学校作业给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore schoolwork to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究学校作业，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -2650,156 +2950,6 @@
     ]
   },
   {
-    "id": "classrooms",
-    "word": "classrooms",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/k'læsru:mz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=classrooms&type=2",
-    "definition_en": "n. a room in a school where lessons take place",
-    "definition_zh": "n. 教室, 课堂( classroom的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive classrooms.",
-        "zh": "该教学项目对全面的教室给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore classrooms to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究教室，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "learns",
-    "word": "learns",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/lə:nz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=learns&type=2",
-    "definition_en": "v gain knowledge or skills\\nv get to know or become aware of, usually accidentally\\nv commit to memory; learn by heart\\nv be a student of a certain subject\\nv impart skills or knowledge to\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort",
-    "definition_zh": "v. 学习( learn的第三人称单数 ); 学会; 得知; 记住",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive learns.",
-        "zh": "该教学项目对全面的学习给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore learns to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学习，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "schools",
-    "word": "schools",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/schools/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=schools&type=2",
-    "definition_en": "n an educational institution\\nn a building where young people receive education\\nn the process of being formally educated at a school\\nn a body of creative artists or writers or thinkers linked by a similar style or by similar teachers\\nn the period of instruction in a school; the time period when school is in session\\nn an educational institution's faculty and students\\nn a large group of fish\\nv educate in or as if in a school\\nv teach or refine to be discriminative in taste or judgment\\nv swim in or form a large group of fish",
-    "definition_zh": "n. 学校（school的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive schools.",
-        "zh": "该教学项目对全面的学校给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore schools to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学校，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "students",
-    "word": "students",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/students/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=students&type=2",
-    "definition_en": "n a learner who is enrolled in an educational institution\\nn a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines",
-    "definition_zh": "n. （尤指大专院校的）学生（student的复数）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive students.",
-        "zh": "该教学项目对全面的学生给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore students to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学生，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "teachers",
-    "word": "teachers",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/teachers/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=teachers&type=2",
-    "definition_en": "n a person whose occupation is teaching\\nn a personified abstraction that teaches",
-    "definition_zh": "n. 教师（teacher的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive teachers.",
-        "zh": "该教学项目对全面的教师给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore teachers to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究教师，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "teaches",
-    "word": "teaches",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'ti:tʃɪz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=teaches&type=2",
-    "definition_en": "n an English pirate who operated in the Caribbean and off the Atlantic coast of North America (died in 1718)\\nv impart skills or knowledge to\\nv accustom gradually to some action or attitude",
-    "definition_zh": "v. 教( teach的第三人称单数 ); 教书; 训练; 教育",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive teaches.",
-        "zh": "该教学项目对全面的教给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore teaches to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究教，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
     "id": "flunk",
     "word": "flunk",
     "part_of_speech": "noun",
@@ -2821,31 +2971,6 @@
       {
         "en": "Students actively explore flunk to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究失败，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "pedantic",
-    "word": "pedantic",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/pi'dæntik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pedantic&type=2",
-    "definition_en": "s marked by a narrow focus on or display of learning especially its trivial aspects",
-    "definition_zh": "a. 卖弄学问的, 学究式的, 假装学者的",
-    "frq": 26651,
-    "composite_rank": 34646,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive pedantic.",
-        "zh": "该教学项目对全面的卖弄学问的给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore pedantic to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究卖弄学问的，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -2900,127 +3025,152 @@
     ]
   },
   {
-    "id": "essays",
-    "word": "essays",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/ˈeseiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=essays&type=2",
-    "definition_en": "pl.  of Essay",
-    "definition_zh": "n. 散文( essay的名词复数 ); （作为课程作业, 学生写的）文章; 企图; （用来刊登的）论说文",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive essays.",
-        "zh": "该教学项目对全面的散文给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore essays to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究散文，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "learners",
-    "word": "learners",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'lɜ:nəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=learners&type=2",
-    "definition_en": "n. someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs\\nn. works for an expert to learn a trade",
-    "definition_zh": "n. 学习者, 初学者, 见习驾驶员( learner的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive learners.",
-        "zh": "该教学项目对全面的学习者给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore learners to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学习者，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "textbooks",
-    "word": "textbooks",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'teksbʊks/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=textbooks&type=2",
-    "definition_en": "n. a book prepared for use in schools or colleges",
-    "definition_zh": "n. 教科书, 课本( textbook的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive textbooks.",
-        "zh": "该教学项目对全面的教科书给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore textbooks to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究教科书，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "examinee",
-    "word": "examinee",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/ig.zæmi'ni:/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=examinee&type=2",
-    "definition_en": "n someone who is tested (as by an intelligence test or an academic examination)",
-    "definition_zh": "n. 受试人, 应试者； 受审人, 接受讯问者, 接受考试者",
-    "frq": 36171,
-    "composite_rank": 47022,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive examinee.",
-        "zh": "该教学项目对全面的受试人给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore examinee to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究受试人，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "advisers",
-    "word": "advisers",
+    "id": "ple",
+    "word": "ple",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/əd'vaɪzəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=advisers&type=2",
-    "definition_en": "n. an expert who gives advice",
-    "definition_zh": "n. 顾问, 劝告者( adviser的复数形式 ); <美>（指导大学新生学科问题等的）指导教授",
+    "phonetic": "/ple/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ple&type=2",
+    "definition_en": ": abbr. 个性化学习环境（Personal Learning Environment）",
+    "definition_zh": "abbr. 个性化学习环境（Personal Learning Environment）",
+    "frq": 50000,
+    "composite_rank": 42000,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive ple.",
+        "zh": "该教学项目对全面的个性化学习环境给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore ple to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究个性化学习环境，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "pedantic",
+    "word": "pedantic",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/pi'dæntik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pedantic&type=2",
+    "definition_en": "s marked by a narrow focus on or display of learning especially its trivial aspects",
+    "definition_zh": "a. 卖弄学问的, 学究式的, 假装学者的",
+    "frq": 26651,
+    "composite_rank": 45307,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive pedantic.",
+        "zh": "该教学项目对全面的卖弄学问的给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore pedantic to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究卖弄学问的，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "acquisitions",
+    "word": "acquisitions",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/ˌækwiˈziʃənz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=acquisitions&type=2",
+    "definition_en": "n. the act of contracting or assuming or acquiring possession of something\\nn. something acquired\\nn. the cognitive process of acquiring skill or knowledge",
+    "definition_zh": "n. 获得( acquisition的复数形式 ); 获得者; （企业的）合并; （图书馆通过采购、交换赠阅等）图书资料的获得",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive advisers.",
-        "zh": "该教学项目对全面的顾问给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive acquisitions.",
+        "zh": "该教学项目对全面的获得给予了高度重视。"
       },
       {
-        "en": "Students actively explore advisers to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究顾问，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore acquisitions to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究获得，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "auditors",
+    "word": "auditors",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'ɔ:dɪtəz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=auditors&type=2",
+    "definition_en": "n. someone who listens attentively\\nn. a student who attends a course but does not take it for credit\\nn. a qualified accountant who inspects the accounting records and practices of a business or other organization",
+    "definition_zh": "n. 审计员, 稽核员( auditor的复数形式 ); （大学课程的）旁听生",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive auditors.",
+        "zh": "该教学项目对全面的审计员给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore auditors to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究审计员，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "candidates",
+    "word": "candidates",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/'kændɪdeɪts/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=candidates&type=2",
+    "definition_en": "n. a politician who is running for public office\\nn. someone who is considered for something (for an office or prize or honor etc.)",
+    "definition_zh": "n. 报考者( candidate的复数形式 ); 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive candidates.",
+        "zh": "该教学项目对全面的报考者给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore candidates to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究报考者，以拓宽视野并丰富认知体系。"
+      }
+    ]
+  },
+  {
+    "id": "criticisms",
+    "word": "criticisms",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "学校教育、学术科研与学业",
+    "category": "education_learning",
+    "phonetic": "/k'rɪtɪsɪzəmz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=criticisms&type=2",
+    "definition_en": "n. disapproval expressed by pointing out faults or shortcomings\\nn. a serious examination and judgment of something\\nn. a written evaluation of a work of literature",
+    "definition_zh": "n. 批评( criticism的复数形式 ); 批判; 评论; 评论文章",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "The academic program places strong emphasis on comprehensive criticisms.",
+        "zh": "该教学项目对全面的批评给予了高度重视。"
+      },
+      {
+        "en": "Students actively explore criticisms to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究批评，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -3075,52 +3225,27 @@
     ]
   },
   {
-    "id": "examinations",
-    "word": "examinations",
+    "id": "essays",
+    "word": "essays",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/iɡˌzæmiˈneiʃənz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=examinations&type=2",
-    "definition_en": "n. the act of examining something closely (as for mistakes)\\nn. a set of questions or exercises evaluating skill or knowledge\\nn. formal systematic questioning",
-    "definition_zh": "n. 检查( examination的复数形式 ); 考试; 考查; 试题",
+    "phonetic": "/ˈeseiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=essays&type=2",
+    "definition_en": "pl.  of Essay",
+    "definition_zh": "n. 散文( essay的名词复数 ); （作为课程作业, 学生写的）文章; 企图; （用来刊登的）论说文",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive examinations.",
-        "zh": "该教学项目对全面的检查给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive essays.",
+        "zh": "该教学项目对全面的散文给予了高度重视。"
       },
       {
-        "en": "Students actively explore examinations to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究检查，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "examines",
-    "word": "examines",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/iɡˈzæminz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=examines&type=2",
-    "definition_en": "v consider in detail and subject to an analysis in order to discover essential features or meaning\\nv observe, check out, and look over carefully or inspect\\nv question or examine thoroughly and closely\\nv question closely\\nv put to the test, as for its quality, or give experimental use to",
-    "definition_zh": "v. 仔细检查( examine的第三人称单数 ); 考试; 审查",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive examines.",
-        "zh": "该教学项目对全面的仔细检查给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore examines to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究仔细检查，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore essays to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究散文，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -3225,31 +3350,6 @@
     ]
   },
   {
-    "id": "librarians",
-    "word": "librarians",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/laɪb'reərɪənz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=librarians&type=2",
-    "definition_en": "n. a professional person trained in library science and engaged in library services",
-    "definition_zh": "n. 图书馆馆长, 图书馆管理员( librarian的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive librarians.",
-        "zh": "该教学项目对全面的图书馆馆长给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore librarians to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究图书馆馆长，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
     "id": "presentations",
     "word": "presentations",
     "part_of_speech": "noun",
@@ -3300,31 +3400,6 @@
     ]
   },
   {
-    "id": "professors",
-    "word": "professors",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/prə'fesəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=professors&type=2",
-    "definition_en": "n. someone who is a member of the faculty at a college or university",
-    "definition_zh": "n. 教授( professor的复数形式 ); （大学的）讲师, 教员",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive professors.",
-        "zh": "该教学项目对全面的教授给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore professors to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究教授，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
     "id": "promotes",
     "word": "promotes",
     "part_of_speech": "noun",
@@ -3346,31 +3421,6 @@
       {
         "en": "Students actively explore promotes to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究正促进，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "pupils",
-    "word": "pupils",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'pju:plz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pupils&type=2",
-    "definition_en": "n. a learner who is enrolled in an educational institution\\nn. the contractile aperture in the center of the iris of the eye; resembles a large black dot\\nn. a young person attending school (up through senior high school)",
-    "definition_zh": "n. 学生( pupil的复数形式 ); 瞳孔; 弟子; 门生",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive pupils.",
-        "zh": "该教学项目对全面的学生给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore pupils to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学生，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -3400,56 +3450,6 @@
     ]
   },
   {
-    "id": "scholars",
-    "word": "scholars",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/s'kɒləz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scholars&type=2",
-    "definition_en": "n. a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines\\nn. someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs\\nn. a student who holds a scholarship",
-    "definition_zh": "n. 奖学金获得者( scholar的复数形式 ); 学者; 聪颖勤奋的学生; 文人学士",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive scholars.",
-        "zh": "该教学项目对全面的奖学金获得者给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore scholars to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究奖学金获得者，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "scholarships",
-    "word": "scholarships",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/ˈskɔləʃips/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scholarships&type=2",
-    "definition_en": "n. financial aid provided to a student on the basis of academic merit\\nn. profound scholarly knowledge",
-    "definition_zh": "n. 学问, 学识( scholarship的复数形式 ); 奖学金",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive scholarships.",
-        "zh": "该教学项目对全面的学问给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore scholarships to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学问，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
     "id": "trustees",
     "word": "trustees",
     "part_of_speech": "noun",
@@ -3475,127 +3475,52 @@
     ]
   },
   {
-    "id": "alumni",
-    "word": "alumni",
+    "id": "polytechnic",
+    "word": "polytechnic",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/ә'lʌmni/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=alumni&type=2",
-    "definition_en": "n a person who has received a degree from a school (high school or college or university)",
-    "definition_zh": "pl. 男毕业生, 男校友",
-    "frq": 25813,
-    "composite_rank": 56789,
-    "badge": "normal",
+    "phonetic": "/.pɒli'teknik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=polytechnic&type=2",
+    "definition_en": "n a technical school offering instruction in many industrial arts and applied sciences",
+    "definition_zh": "a. 各种工艺的, 工艺教育的； n. 工艺专科学校, 理工专科学校",
+    "frq": 39431,
+    "composite_rank": 56307,
+    "badge": "high",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive alumni.",
-        "zh": "该教学项目对全面的男毕业生给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive polytechnic.",
+        "zh": "该教学项目对全面的工艺专科学校给予了高度重视。"
       },
       {
-        "en": "Students actively explore alumni to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究男毕业生，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore polytechnic to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究工艺专科学校，以拓宽视野并丰富认知体系。"
       }
     ]
   },
   {
-    "id": "acquisitions",
-    "word": "acquisitions",
+    "id": "examinee",
+    "word": "examinee",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/ˌækwiˈziʃənz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=acquisitions&type=2",
-    "definition_en": "n. the act of contracting or assuming or acquiring possession of something\\nn. something acquired\\nn. the cognitive process of acquiring skill or knowledge",
-    "definition_zh": "n. 获得( acquisition的复数形式 ); 获得者; （企业的）合并; （图书馆通过采购、交换赠阅等）图书资料的获得",
-    "frq": 50000,
-    "composite_rank": 65000,
+    "phonetic": "/ig.zæmi'ni:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=examinee&type=2",
+    "definition_en": "n someone who is tested (as by an intelligence test or an academic examination)",
+    "definition_zh": "n. 受试人, 应试者； 受审人, 接受讯问者, 接受考试者",
+    "frq": 36171,
+    "composite_rank": 61491,
     "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive acquisitions.",
-        "zh": "该教学项目对全面的获得给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive examinee.",
+        "zh": "该教学项目对全面的受试人给予了高度重视。"
       },
       {
-        "en": "Students actively explore acquisitions to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究获得，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "auditors",
-    "word": "auditors",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'ɔ:dɪtəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=auditors&type=2",
-    "definition_en": "n. someone who listens attentively\\nn. a student who attends a course but does not take it for credit\\nn. a qualified accountant who inspects the accounting records and practices of a business or other organization",
-    "definition_zh": "n. 审计员, 稽核员( auditor的复数形式 ); （大学课程的）旁听生",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive auditors.",
-        "zh": "该教学项目对全面的审计员给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore auditors to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究审计员，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "candidates",
-    "word": "candidates",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/'kændɪdeɪts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=candidates&type=2",
-    "definition_en": "n. a politician who is running for public office\\nn. someone who is considered for something (for an office or prize or honor etc.)",
-    "definition_zh": "n. 报考者( candidate的复数形式 ); 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive candidates.",
-        "zh": "该教学项目对全面的报考者给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore candidates to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究报考者，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "criticisms",
-    "word": "criticisms",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/k'rɪtɪsɪzəmz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=criticisms&type=2",
-    "definition_en": "n. disapproval expressed by pointing out faults or shortcomings\\nn. a serious examination and judgment of something\\nn. a written evaluation of a work of literature",
-    "definition_zh": "n. 批评( criticism的复数形式 ); 批判; 评论; 评论文章",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive criticisms.",
-        "zh": "该教学项目对全面的批评给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore criticisms to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究批评，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore examinee to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究受试人，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -3625,31 +3550,6 @@
     ]
   },
   {
-    "id": "masters",
-    "word": "masters",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/masters/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=masters&type=2",
-    "definition_en": "n. United States poet (1869-1950)",
-    "definition_zh": "n. 主人；硕士；大师赛（master的复数形式）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive masters.",
-        "zh": "该教学项目对全面的主人给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore masters to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究主人，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
     "id": "primitively",
     "word": "primitively",
     "part_of_speech": "noun",
@@ -3675,102 +3575,27 @@
     ]
   },
   {
-    "id": "assignments",
-    "word": "assignments",
+    "id": "notified",
+    "word": "notified",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "学校教育、学术科研与学业",
     "category": "education_learning",
-    "phonetic": "/assignments/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=assignments&type=2",
-    "definition_en": "n a duty that you are assigned to perform (especially in the armed forces)\\nn the instrument by which a claim or right or interest or property is transferred from one person to another\\nn the act of distributing something to designated places or persons\\nn (law) a transfer of property by deed of conveyance\\nn an undertaking that you have been assigned to do (as by an instructor)\\nn the act of putting a person into a non-elective position",
-    "definition_zh": "n. 分配；作业（assignment的复数形式）",
-    "frq": 50000,
-    "composite_rank": 85000,
+    "phonetic": "/ˈnəutifaid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=notified&type=2",
+    "definition_en": "v inform (somebody) of something",
+    "definition_zh": "v. 通知, 告知, 报告( notify的过去式和过去分词 )",
+    "frq": 45269,
+    "composite_rank": 76957,
     "badge": "normal",
     "examples": [
       {
-        "en": "The academic program places strong emphasis on comprehensive assignments.",
-        "zh": "该教学项目对全面的分配给予了高度重视。"
+        "en": "The academic program places strong emphasis on comprehensive notified.",
+        "zh": "该教学项目对全面的通知给予了高度重视。"
       },
       {
-        "en": "Students actively explore assignments to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究分配，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "colleges",
-    "word": "colleges",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/colleges/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=colleges&type=2",
-    "definition_en": "n the body of faculty and students of a college\\nn an institution of higher education created to educate and grant degrees; often a part of a university\\nn a complex of buildings in which an institution of higher education is housed",
-    "definition_zh": "n. 专科学院（college复数形式）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive colleges.",
-        "zh": "该教学项目对全面的专科学院给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore colleges to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究专科学院，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "institutes",
-    "word": "institutes",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/institutes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=institutes&type=2",
-    "definition_en": "n an association organized to promote art or science or education\\nv set up or lay the groundwork for\\nv advance or set forth in court",
-    "definition_zh": "n. 学院（institute的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive institutes.",
-        "zh": "该教学项目对全面的学院给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore institutes to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究学院，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "instructors",
-    "word": "instructors",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/ɪnst'rʌktəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=instructors&type=2",
-    "definition_en": "n a person whose occupation is teaching",
-    "definition_zh": "n. 指导者, 教师( instructor的名词复数 )",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive instructors.",
-        "zh": "该教学项目对全面的指导者给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore instructors to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究指导者，以拓宽视野并丰富认知体系。"
+        "en": "Students actively explore notified to expand their horizons and critical knowledge.",
+        "zh": "学生们主动探究通知，以拓宽视野并丰富认知体系。"
       }
     ]
   },
@@ -3796,81 +3621,6 @@
       {
         "en": "Students actively explore lessons to expand their horizons and critical knowledge.",
         "zh": "学生们主动探究功课，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "libraries",
-    "word": "libraries",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/libraries/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=libraries&type=2",
-    "definition_en": "n a room where books are kept\\nn a collection of literary documents or records kept for reference or borrowing\\nn a depository built to contain books and other materials for reading and study\\nn (computing) a collection of standard programs and subroutines that are stored and available for immediate use\\nn a building that houses a collection of books and other materials",
-    "definition_zh": "n. 图书馆查询系统；函数库；图书馆（library的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive libraries.",
-        "zh": "该教学项目对全面的图书馆查询系统给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore libraries to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究图书馆查询系统，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "results",
-    "word": "results",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/results/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=results&type=2",
-    "definition_en": "n a phenomenon that follows and is caused by some previous phenomenon\\nn a statement that solves a problem or explains how to solve the problem\\nn something that results\\nn the semantic role of the noun phrase whose referent exists only by virtue of the activity denoted by the verb in the clause\\nv issue or terminate (in a specified way, state, etc.); end\\nv have as a result or residue\\nv come about or follow as a consequence",
-    "definition_zh": "n. 结果；成绩（result的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive results.",
-        "zh": "该教学项目对全面的结果给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore results to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究结果，以拓宽视野并丰富认知体系。"
-      }
-    ]
-  },
-  {
-    "id": "universities",
-    "word": "universities",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "学校教育、学术科研与学业",
-    "category": "education_learning",
-    "phonetic": "/ˌjuːnɪˈvɜː(r)sətiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=universities&type=2",
-    "definition_en": "n the body of faculty and students at a university\\nn establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching\\nn a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees",
-    "definition_zh": "n. 大学( university的名词复数 )",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "The academic program places strong emphasis on comprehensive universities.",
-        "zh": "该教学项目对全面的大学给予了高度重视。"
-      },
-      {
-        "en": "Students actively explore universities to expand their horizons and critical knowledge.",
-        "zh": "学生们主动探究大学，以拓宽视野并丰富认知体系。"
       }
     ]
   },

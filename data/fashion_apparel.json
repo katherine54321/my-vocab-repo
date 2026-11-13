@@ -450,6 +450,31 @@
     ]
   },
   {
+    "id": "wrap",
+    "word": "wrap",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/ræp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=wrap&type=2",
+    "definition_en": "n. cloak that is folded or wrapped around a person\\nn. a sandwich in which the filling is rolled up in a soft tortilla\\nv. arrange or fold as a cover or protection\\nv. crash into so as to coil around",
+    "definition_zh": "n. 外套, 围巾, 包裹物, 限制, 约束, 秘密, 换行； vt. 包装, 卷, 缠绕, 包, 裹, 覆盖, 遮蔽, 隐藏, 掩护； vi. 缠绕, 穿外衣, 包起来； 换行",
+    "frq": 2090,
+    "composite_rank": 890,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "She selected an elegant wrap that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的外套，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile wrap pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的外套无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
     "id": "clock",
     "word": "clock",
     "part_of_speech": "noun",
@@ -496,31 +521,6 @@
       {
         "en": "This versatile belt pairs effortlessly with both casual and professional outfits.",
         "zh": "这款百搭的带子无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "wrap",
-    "word": "wrap",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/ræp/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=wrap&type=2",
-    "definition_en": "n. cloak that is folded or wrapped around a person\\nn. a sandwich in which the filling is rolled up in a soft tortilla\\nv. arrange or fold as a cover or protection\\nv. crash into so as to coil around",
-    "definition_zh": "n. 外套, 围巾, 包裹物, 限制, 约束, 秘密, 换行； vt. 包装, 卷, 缠绕, 包, 裹, 覆盖, 遮蔽, 隐藏, 掩护； vi. 缠绕, 穿外衣, 包起来； 换行",
-    "frq": 2090,
-    "composite_rank": 1112,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "She selected an elegant wrap that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的外套，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile wrap pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的外套无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -750,27 +750,27 @@
     ]
   },
   {
-    "id": "peel",
-    "word": "peel",
+    "id": "array",
+    "word": "array",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/pi:l/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=peel&type=2",
-    "definition_en": "n. British politician (1788-1850)\\nn. the rind of a fruit or vegetable",
-    "definition_zh": "n. 皮, 外壳； vt. 削...皮, 剥去...的壳； vi. 蜕皮, 剥落, 脱皮, 脱去衣服",
-    "frq": 3920,
-    "composite_rank": 3293,
+    "phonetic": "/ә'rei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=array&type=2",
+    "definition_en": "n. an orderly arrangement\\nn. an impressive display\\nn. especially fine or decorative clothing\\nn. an arrangement of aerials spaced to give desired directional characteristics",
+    "definition_zh": "n. 排列, 衣服, 大批, 军队； vt. 布署, 打扮, 排列； 数组; 阵列",
+    "frq": 3554,
+    "composite_rank": 2985,
     "badge": "high",
     "examples": [
       {
-        "en": "She selected an elegant peel that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的皮，与正式场合相得益彰。"
+        "en": "She selected an elegant array that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的排列，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile peel pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的皮无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile array pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的排列无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -778,7 +778,7 @@
     "id": "ladder",
     "word": "ladder",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
     "phonetic": "/'lædә/",
@@ -786,7 +786,7 @@
     "definition_en": "n. steps consisting of two parallel members connected by rungs; for climbing up or down\\nn. ascending stages by which somebody or something can progress\\nv. come unraveled or undone as if by snagging",
     "definition_zh": "n. 梯, 梯状物, 发迹的途径； vi. 袜子抽丝, 成名",
     "frq": 4505,
-    "composite_rank": 3784,
+    "composite_rank": 3027,
     "badge": "high",
     "examples": [
       {
@@ -796,6 +796,56 @@
       {
         "en": "This versatile ladder pairs effortlessly with both casual and professional outfits.",
         "zh": "这款百搭的梯无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "jewelry",
+    "word": "jewelry",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'dʒu:әlri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jewelry&type=2",
+    "definition_en": "n. an adornment (as a bracelet or ring or necklace) made of precious metals and set with gems (or imitation gems)",
+    "definition_zh": "n. 珠宝, 珠宝类",
+    "frq": 4187,
+    "composite_rank": 3350,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "She selected an elegant jewelry that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的珠宝，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile jewelry pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的珠宝无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "costume",
+    "word": "costume",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'kɒstju:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=costume&type=2",
+    "definition_en": "n. the attire worn in a play or at a fancy dress ball\\nn. unusual or period attire not characteristic of or appropriate to the time and place\\nn. the prevalent fashion of dress (including accessories and hair style as well as garments)\\nn. the attire characteristic of a country or a time or a social class",
+    "definition_zh": "n. 装束, 服装",
+    "frq": 4152,
+    "composite_rank": 3488,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "She selected an elegant costume that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的装束，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile costume pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的装束无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -825,77 +875,202 @@
     ]
   },
   {
-    "id": "array",
-    "word": "array",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/ә'rei/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=array&type=2",
-    "definition_en": "n. an orderly arrangement\\nn. an impressive display\\nn. especially fine or decorative clothing\\nn. an arrangement of aerials spaced to give desired directional characteristics",
-    "definition_zh": "n. 排列, 衣服, 大批, 军队； vt. 布署, 打扮, 排列； 数组; 阵列",
-    "frq": 3554,
-    "composite_rank": 3881,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant array that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的排列，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile array pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的排列无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "jewelry",
-    "word": "jewelry",
+    "id": "sneak",
+    "word": "sneak",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/'dʒu:әlri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=jewelry&type=2",
-    "definition_en": "n. an adornment (as a bracelet or ring or necklace) made of precious metals and set with gems (or imitation gems)",
-    "definition_zh": "n. 珠宝, 珠宝类",
-    "frq": 4187,
-    "composite_rank": 4187,
+    "phonetic": "/sni:k/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sneak&type=2",
+    "definition_en": "n. a person who is regarded as underhanded and furtive and contemptible\\nv. to go stealthily or furtively\\nv. put, bring, or take in a secretive or furtive manner",
+    "definition_zh": "vi. 鬼鬼祟祟做事； vt. 偷偷地做； n. 鬼鬼祟祟的人, 偷偷摸摸的行为, 帆布胶底运动鞋； a. 暗中进行的",
+    "frq": 4557,
+    "composite_rank": 3828,
     "badge": "high",
     "examples": [
       {
-        "en": "She selected an elegant jewelry that matched the formal occasion.",
+        "en": "She selected an elegant sneak that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的鬼鬼祟祟的人，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile sneak pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的鬼鬼祟祟的人无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "overwhelm",
+    "word": "overwhelm",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/.әuvә'hwelm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=overwhelm&type=2",
+    "definition_en": "v. overcome, as with emotions or perceptual stimuli\\nv. charge someone with too many tasks",
+    "definition_zh": "vt. 淹没, 受打击, 制服, 压倒, 使不知所措； 打翻, 倾覆, 覆盖",
+    "frq": 4804,
+    "composite_rank": 4035,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "She selected an elegant overwhelm that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的淹没，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile overwhelm pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的淹没无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "jewel",
+    "word": "jewel",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'dʒu:әl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jewel&type=2",
+    "definition_en": "n. a precious or semiprecious stone incorporated into a piece of jewelry\\nn. a person who is as brilliant and precious as a piece of jewelry",
+    "definition_zh": "n. 珠宝, 贵重物, 镶珠宝的饰物； vt. 饰以珠宝, 镶以宝石",
+    "frq": 6074,
+    "composite_rank": 4082,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "She selected an elegant jewel that matched the formal occasion.",
         "zh": "她挑选了一件优雅的珠宝，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile jewelry pairs effortlessly with both casual and professional outfits.",
+        "en": "This versatile jewel pairs effortlessly with both casual and professional outfits.",
         "zh": "这款百搭的珠宝无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
   {
-    "id": "costume",
-    "word": "costume",
+    "id": "garment",
+    "word": "garment",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/'kɒstju:m/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=costume&type=2",
-    "definition_en": "n. the attire worn in a play or at a fancy dress ball\\nn. unusual or period attire not characteristic of or appropriate to the time and place\\nn. the prevalent fashion of dress (including accessories and hair style as well as garments)\\nn. the attire characteristic of a country or a time or a social class",
-    "definition_zh": "n. 装束, 服装",
-    "frq": 4152,
-    "composite_rank": 4534,
+    "phonetic": "/'gɑ:mәnt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=garment&type=2",
+    "definition_en": "n. an article of clothing",
+    "definition_zh": "n. 衣服, 衣装, 外表",
+    "frq": 6112,
+    "composite_rank": 4107,
     "badge": "high",
     "examples": [
       {
-        "en": "She selected an elegant costume that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的装束，与正式场合相得益彰。"
+        "en": "She selected an elegant garment that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的衣服，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile costume pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的装束无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile garment pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的衣服无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "perfume",
+    "word": "perfume",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'pә:fju:m/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=perfume&type=2",
+    "definition_en": "n. a toiletry that emits and diffuses a fragrant odor\\nv. fill or impregnate with an odor\\nv. apply perfume to",
+    "definition_zh": "n. 香水, 香气, (悦人的)气氛, 美名； vt. 洒香水于, 薰香, 使充满香气",
+    "frq": 6592,
+    "composite_rank": 4430,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "She selected an elegant perfume that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的香水，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile perfume pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的香水无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "rag",
+    "word": "rag",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/ræg/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=rag&type=2",
+    "definition_en": "n. a small piece of cloth or paper\\nn. a week at British universities during which side-shows and processions of floats are organized to raise money for charities\\nn. a boisterous practical joke (especially by college students)\\nv. play in ragtime",
+    "definition_zh": "n. 碎布, 抹布, 碎片, 碎屑, 少量, 破旧衣服； vt. 责骂, 揶揄, 戏弄； vi. 喧闹",
+    "frq": 6662,
+    "composite_rank": 4477,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "She selected an elegant rag that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的碎布，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile rag pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的碎布无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "vest",
+    "word": "vest",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/vest/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vest&type=2",
+    "definition_en": "n. a man's sleeveless garment worn underneath a coat\\nv. place (authority, property, or rights) in the control of a person or group of persons\\nv. become legally vested\\nv. clothe oneself in ecclesiastical garments",
+    "definition_zh": "n. 背心, 汗背心； vt. 使穿衣服, 授予； vi. 穿衣服, 归属",
+    "frq": 6686,
+    "composite_rank": 4493,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "She selected an elegant vest that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的背心，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile vest pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的背心无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "scarf",
+    "word": "scarf",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/skɑ:f/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=scarf&type=2",
+    "definition_en": "n. a garment worn around the head or neck or shoulders for warmth or decoration\\nv. masturbate while strangling oneself\\nv. unite by a scarf joint\\nv. wrap in or adorn with a scarf",
+    "definition_zh": "n. 围巾, 头巾, 领带, 领巾, 嵌接； vt. 用围巾围, 嵌接",
+    "frq": 6140,
+    "composite_rank": 4519,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "She selected an elegant scarf that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的围巾，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile scarf pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的围巾无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -950,6 +1125,31 @@
     ]
   },
   {
+    "id": "ensemble",
+    "word": "ensemble",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/ɒn'sɒŋblә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ensemble&type=2",
+    "definition_en": "n. a group of musicians playing or singing together\\nn. a cast other than the principals\\nn. an assemblage of parts or details (as in a work of art) considered as forming a whole\\nn. a coordinated outfit (set of clothing)",
+    "definition_zh": "n. 全体, 合唱曲, (女人的)全套服装； 总体; 整体; 系综",
+    "frq": 5224,
+    "composite_rank": 4806,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "She selected an elegant ensemble that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的全体，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile ensemble pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的全体无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
     "id": "robe",
     "word": "robe",
     "part_of_speech": "noun",
@@ -1000,127 +1200,27 @@
     ]
   },
   {
-    "id": "sneak",
-    "word": "sneak",
+    "id": "tailor",
+    "word": "tailor",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/sni:k/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sneak&type=2",
-    "definition_en": "n. a person who is regarded as underhanded and furtive and contemptible\\nv. to go stealthily or furtively\\nv. put, bring, or take in a secretive or furtive manner",
-    "definition_zh": "vi. 鬼鬼祟祟做事； vt. 偷偷地做； n. 鬼鬼祟祟的人, 偷偷摸摸的行为, 帆布胶底运动鞋； a. 暗中进行的",
-    "frq": 4557,
-    "composite_rank": 4976,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant sneak that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的鬼鬼祟祟的人，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile sneak pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的鬼鬼祟祟的人无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "jewel",
-    "word": "jewel",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/'dʒu:әl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=jewel&type=2",
-    "definition_en": "n. a precious or semiprecious stone incorporated into a piece of jewelry\\nn. a person who is as brilliant and precious as a piece of jewelry",
-    "definition_zh": "n. 珠宝, 贵重物, 镶珠宝的饰物； vt. 饰以珠宝, 镶以宝石",
-    "frq": 6074,
-    "composite_rank": 5102,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant jewel that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的珠宝，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile jewel pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的珠宝无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "garment",
-    "word": "garment",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/'gɑ:mәnt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=garment&type=2",
-    "definition_en": "n. an article of clothing",
-    "definition_zh": "n. 衣服, 衣装, 外表",
-    "frq": 6112,
-    "composite_rank": 5134,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant garment that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的衣服，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile garment pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的衣服无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "overwhelm",
-    "word": "overwhelm",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/.әuvә'hwelm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=overwhelm&type=2",
-    "definition_en": "v. overcome, as with emotions or perceptual stimuli\\nv. charge someone with too many tasks",
-    "definition_zh": "vt. 淹没, 受打击, 制服, 压倒, 使不知所措； 打翻, 倾覆, 覆盖",
-    "frq": 4804,
+    "phonetic": "/'teilә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tailor&type=2",
+    "definition_en": "n. a person whose occupation is making and altering garments\\nv. adjust to a specific need or market",
+    "definition_zh": "n. 裁缝, 成衣匠； vt. 缝制, 制作, 使适应； vi. 做裁缝",
+    "frq": 7806,
     "composite_rank": 5246,
     "badge": "high",
     "examples": [
       {
-        "en": "She selected an elegant overwhelm that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的淹没，与正式场合相得益彰。"
+        "en": "She selected an elegant tailor that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的裁缝，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile overwhelm pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的淹没无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "perfume",
-    "word": "perfume",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/'pә:fju:m/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=perfume&type=2",
-    "definition_en": "n. a toiletry that emits and diffuses a fragrant odor\\nv. fill or impregnate with an odor\\nv. apply perfume to",
-    "definition_zh": "n. 香水, 香气, (悦人的)气氛, 美名； vt. 洒香水于, 薰香, 使充满香气",
-    "frq": 6592,
-    "composite_rank": 5537,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant perfume that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的香水，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile perfume pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的香水无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile tailor pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的裁缝无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -1150,81 +1250,6 @@
     ]
   },
   {
-    "id": "rag",
-    "word": "rag",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/ræg/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=rag&type=2",
-    "definition_en": "n. a small piece of cloth or paper\\nn. a week at British universities during which side-shows and processions of floats are organized to raise money for charities\\nn. a boisterous practical joke (especially by college students)\\nv. play in ragtime",
-    "definition_zh": "n. 碎布, 抹布, 碎片, 碎屑, 少量, 破旧衣服； vt. 责骂, 揶揄, 戏弄； vi. 喧闹",
-    "frq": 6662,
-    "composite_rank": 5596,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant rag that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的碎布，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile rag pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的碎布无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "vest",
-    "word": "vest",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/vest/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=vest&type=2",
-    "definition_en": "n. a man's sleeveless garment worn underneath a coat\\nv. place (authority, property, or rights) in the control of a person or group of persons\\nv. become legally vested\\nv. clothe oneself in ecclesiastical garments",
-    "definition_zh": "n. 背心, 汗背心； vt. 使穿衣服, 授予； vi. 穿衣服, 归属",
-    "frq": 6686,
-    "composite_rank": 5616,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant vest that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的背心，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile vest pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的背心无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "scarf",
-    "word": "scarf",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/skɑ:f/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=scarf&type=2",
-    "definition_en": "n. a garment worn around the head or neck or shoulders for warmth or decoration\\nv. masturbate while strangling oneself\\nv. unite by a scarf joint\\nv. wrap in or adorn with a scarf",
-    "definition_zh": "n. 围巾, 头巾, 领带, 领巾, 嵌接； vt. 用围巾围, 嵌接",
-    "frq": 6140,
-    "composite_rank": 5649,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant scarf that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的围巾，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile scarf pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的围巾无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
     "id": "necklace",
     "word": "necklace",
     "part_of_speech": "noun",
@@ -1250,27 +1275,77 @@
     ]
   },
   {
-    "id": "tailor",
-    "word": "tailor",
+    "id": "spike",
+    "word": "spike",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/'teilә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tailor&type=2",
-    "definition_en": "n. a person whose occupation is making and altering garments\\nv. adjust to a specific need or market",
-    "definition_zh": "n. 裁缝, 成衣匠； vt. 缝制, 制作, 使适应； vi. 做裁缝",
-    "frq": 7806,
-    "composite_rank": 6557,
+    "phonetic": "/spaik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=spike&type=2",
+    "definition_en": "n. a transient variation in voltage or current\\nn. sports equipment consisting of a sharp point on the sole of a shoe worn by athletes\\nn. (botany) an indeterminate inflorescence bearing sessile flowers on an unbranched axis\\nn. a sharp rise followed by a sharp decline",
+    "definition_zh": "n. 长钉, 鞋钉, 钉状物, 尖峰状物, 穗； vt. 以大钉钉牢, 用尖物刺穿, 阻止, 弃置不用； 尖峰信号",
+    "frq": 7383,
+    "composite_rank": 6202,
     "badge": "high",
     "examples": [
       {
-        "en": "She selected an elegant tailor that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的裁缝，与正式场合相得益彰。"
+        "en": "She selected an elegant spike that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的长钉，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile tailor pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的裁缝无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile spike pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的长钉无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "backpack",
+    "word": "backpack",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'bækpæk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=backpack&type=2",
+    "definition_en": "n. a bag carried by a strap on your back or shoulder\\nv. hike with a backpack",
+    "definition_zh": "n. 远足用的背包；双肩背包, 背包",
+    "frq": 6456,
+    "composite_rank": 6456,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "She selected an elegant backpack that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的远足用的背包，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile backpack pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的远足用的背包无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "sewer",
+    "word": "sewer",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'su:ә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sewer&type=2",
+    "definition_en": "n. a waste pipe that carries away sewage or surface water\\nn. someone who sews",
+    "definition_zh": "n. 下水道, 阴沟, 裁缝师； vt. 用下水道排, 铺设下水道于",
+    "frq": 7453,
+    "composite_rank": 6857,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant sewer that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的下水道，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile sewer pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的下水道无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -1296,6 +1371,56 @@
       {
         "en": "This versatile cassette pairs effortlessly with both casual and professional outfits.",
         "zh": "这款百搭的盒式磁带无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "gem",
+    "word": "gem",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/dʒem/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=gem&type=2",
+    "definition_en": "n. art highly prized for its beauty or perfection\\nn. a crystalline rock that can be cut and polished for jewelry",
+    "definition_zh": "n. 珠宝, 宝石, 珍贵之物； vt. 饰以宝石",
+    "frq": 7808,
+    "composite_rank": 7183,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant gem that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的珠宝，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile gem pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的珠宝无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "walker",
+    "word": "walker",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'wɒ:kә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=walker&type=2",
+    "definition_en": "n. New Zealand runner who in 1975 became the first person to run a mile in less that 3 minutes and 50 seconds (born in 1952)\\nn. United States writer (born in 1944)\\nn. a shoe designed for comfortable walking\\nn. a light enclosing framework (trade name Zimmer) with rubber castors or wheels and handles; helps invalids or the handicapped or the aged to walk",
+    "definition_zh": "n. 徒步者, 轻便鞋； 山林巡视官",
+    "frq": 7956,
+    "composite_rank": 7320,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant walker that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的徒步者，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile walker pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的徒步者无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -1375,31 +1500,6 @@
     ]
   },
   {
-    "id": "ensemble",
-    "word": "ensemble",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/ɒn'sɒŋblә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ensemble&type=2",
-    "definition_en": "n. a group of musicians playing or singing together\\nn. a cast other than the principals\\nn. an assemblage of parts or details (as in a work of art) considered as forming a whole\\nn. a coordinated outfit (set of clothing)",
-    "definition_zh": "n. 全体, 合唱曲, (女人的)全套服装； 总体; 整体; 系综",
-    "frq": 5224,
-    "composite_rank": 8170,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant ensemble that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的全体，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile ensemble pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的全体无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
     "id": "zip",
     "word": "zip",
     "part_of_speech": "noun",
@@ -1475,27 +1575,27 @@
     ]
   },
   {
-    "id": "walker",
-    "word": "walker",
+    "id": "overcoat",
+    "word": "overcoat",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/'wɒ:kә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=walker&type=2",
-    "definition_en": "n. New Zealand runner who in 1975 became the first person to run a mile in less that 3 minutes and 50 seconds (born in 1952)\\nn. United States writer (born in 1944)\\nn. a shoe designed for comfortable walking\\nn. a light enclosing framework (trade name Zimmer) with rubber castors or wheels and handles; helps invalids or the handicapped or the aged to walk",
-    "definition_zh": "n. 徒步者, 轻便鞋； 山林巡视官",
-    "frq": 7956,
-    "composite_rank": 9515,
-    "badge": "normal",
+    "phonetic": "/'әuvәkәut/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=overcoat&type=2",
+    "definition_en": "n. an additional protective coating (as of paint or varnish)",
+    "definition_zh": "n. 外套大衣",
+    "frq": 12679,
+    "composite_rank": 9332,
+    "badge": "high",
     "examples": [
       {
-        "en": "She selected an elegant walker that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的徒步者，与正式场合相得益彰。"
+        "en": "She selected an elegant overcoat that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的外套大衣，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile walker pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的徒步者无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile overcoat pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的外套大衣无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -1525,127 +1625,152 @@
     ]
   },
   {
-    "id": "spike",
-    "word": "spike",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/spaik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=spike&type=2",
-    "definition_en": "n. a transient variation in voltage or current\\nn. sports equipment consisting of a sharp point on the sole of a shoe worn by athletes\\nn. (botany) an indeterminate inflorescence bearing sessile flowers on an unbranched axis\\nn. a sharp rise followed by a sharp decline",
-    "definition_zh": "n. 长钉, 鞋钉, 钉状物, 尖峰状物, 穗； vt. 以大钉钉牢, 用尖物刺穿, 阻止, 弃置不用； 尖峰信号",
-    "frq": 7383,
-    "composite_rank": 10543,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant spike that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的长钉，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile spike pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的长钉无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "backpack",
-    "word": "backpack",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/'bækpæk/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=backpack&type=2",
-    "definition_en": "n. a bag carried by a strap on your back or shoulder\\nv. hike with a backpack",
-    "definition_zh": "n. 远足用的背包；双肩背包, 背包",
-    "frq": 6456,
-    "composite_rank": 10975,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant backpack that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的远足用的背包，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile backpack pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的远足用的背包无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "undress",
-    "word": "undress",
+    "id": "zipper",
+    "word": "zipper",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/.ʌn'dres/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=undress&type=2",
-    "definition_en": "n. partial or complete nakedness\\nv. get undressed",
-    "definition_zh": "vt. 使脱衣服, 暴露, 使卸去装饰； vi. 脱衣服",
-    "frq": 12150,
-    "composite_rank": 11178,
+    "phonetic": "/'zipә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=zipper&type=2",
+    "definition_en": "n a fastener for locking together two toothed edges by means of a sliding tab\\nv close with a zipper",
+    "definition_zh": "n. 拉链",
+    "frq": 10432,
+    "composite_rank": 10432,
     "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant undress that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的使脱衣服，与正式场合相得益彰。"
+        "en": "She selected an elegant zipper that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的拉链，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile undress pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的使脱衣服无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile zipper pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的拉链无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
   {
-    "id": "sewer",
-    "word": "sewer",
+    "id": "apparel",
+    "word": "apparel",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/'su:ә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sewer&type=2",
-    "definition_en": "n. a waste pipe that carries away sewage or surface water\\nn. someone who sews",
-    "definition_zh": "n. 下水道, 阴沟, 裁缝师； vt. 用下水道排, 铺设下水道于",
-    "frq": 7453,
-    "composite_rank": 11656,
+    "phonetic": "/ә'pærәl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=apparel&type=2",
+    "definition_en": "n. clothing in general",
+    "definition_zh": "n. 衣服, 外表； vt. 使穿衣, 装饰",
+    "frq": 8945,
+    "composite_rank": 10698,
     "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant sewer that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的下水道，与正式场合相得益彰。"
+        "en": "She selected an elegant apparel that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的衣服，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile sewer pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的下水道无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile apparel pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的衣服无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
   {
-    "id": "overcoat",
-    "word": "overcoat",
+    "id": "buckle",
+    "word": "buckle",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "B2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/'әuvәkәut/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=overcoat&type=2",
-    "definition_en": "n. an additional protective coating (as of paint or varnish)",
-    "definition_zh": "n. 外套大衣",
-    "frq": 12679,
-    "composite_rank": 11665,
+    "phonetic": "/'bʌkl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=buckle&type=2",
+    "definition_en": "n. fastener that fastens together two ends of a belt or strap; often has loose prong\\nv. fasten with a buckle or buckles\\nv. fold or collapse",
+    "definition_zh": "n. 皮带扣, 扣子； vt. 扣住, 使弯曲； vi. 扣住, 变弯曲, 屈服",
+    "frq": 8961,
+    "composite_rank": 10717,
     "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant overcoat that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的外套大衣，与正式场合相得益彰。"
+        "en": "She selected an elegant buckle that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的皮带扣，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile overcoat pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的外套大衣无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile buckle pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的皮带扣无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "override",
+    "word": "override",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/.әuvә'raid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=override&type=2",
+    "definition_en": "n. a manually operated device to correct the operation of an automatic device\\nv. prevail over\\nv. counteract the normal operation of (an automatic gear shift in a vehicle)\\nv. ride (a horse) too hard",
+    "definition_zh": "vt. 推翻, 无视, 对...有最后发言权, 制服, 践踏, 奔越过； 代理佣金, 代销佣金",
+    "frq": 9471,
+    "composite_rank": 11327,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant override that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的推翻，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile override pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的推翻无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "snag",
+    "word": "snag",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/snæg/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=snag&type=2",
+    "definition_en": "n. a sharp protuberance\\nn. a dead tree that is still standing, usually in an undisturbed forest\\nv. catch on a snag\\nv. get by acting quickly and smartly",
+    "definition_zh": "n. (尖利的)突出物, (衣服等的)戳破处, 断牙, 意外障碍； vt. 造成阻碍, 抓住机会, 抢到, 清除障碍物",
+    "frq": 9696,
+    "composite_rank": 11596,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant snag that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的突出物，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile snag pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的突出物无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "mantle",
+    "word": "mantle",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'mæntl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mantle&type=2",
+    "definition_en": "n. the cloak as a symbol of authority\\nn. United States baseball player (1931-1997)\\nn. the layer of the earth between the crust and the core\\nn. (zoology) a protective layer of epidermis in mollusks or brachiopods that secretes a substance forming the shell",
+    "definition_zh": "n. 斗篷, 罩子, 披风； vt. 罩住, 覆盖； vi. 覆盖, 脸红",
+    "frq": 9827,
+    "composite_rank": 11753,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant mantle that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的斗篷，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile mantle pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的斗篷无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -1700,52 +1825,27 @@
     ]
   },
   {
-    "id": "gem",
-    "word": "gem",
+    "id": "guise",
+    "word": "guise",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/dʒem/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gem&type=2",
-    "definition_en": "n. art highly prized for its beauty or perfection\\nn. a crystalline rock that can be cut and polished for jewelry",
-    "definition_zh": "n. 珠宝, 宝石, 珍贵之物； vt. 饰以宝石",
-    "frq": 7808,
-    "composite_rank": 12212,
+    "phonetic": "/gaiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=guise&type=2",
+    "definition_en": "n. an artful or simulated semblance",
+    "definition_zh": "n. 相似, 外观, 伪装； v. 穿戴, 伪装",
+    "frq": 10606,
+    "composite_rank": 12685,
     "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant gem that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的珠宝，与正式场合相得益彰。"
+        "en": "She selected an elegant guise that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的相似，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile gem pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的珠宝无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "piping",
-    "word": "piping",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/'paipiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=piping&type=2",
-    "definition_en": "n. a thin strip of covered cord used to edge hems\\nn. playing a pipe or the bagpipes\\nr. (used of heat) extremely",
-    "definition_zh": "n. 吹笛, 笛声, 管道, 尖锐声音, 衣服滚边； a. 吹笛的, 高音的, 平静的, 乐声优雅的",
-    "frq": 13689,
-    "composite_rank": 12594,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant piping that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的吹笛，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile piping pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的吹笛无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile guise pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的相似无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -1800,52 +1900,27 @@
     ]
   },
   {
-    "id": "apparel",
-    "word": "apparel",
+    "id": "attire",
+    "word": "attire",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/ә'pærәl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=apparel&type=2",
-    "definition_en": "n. clothing in general",
-    "definition_zh": "n. 衣服, 外表； vt. 使穿衣, 装饰",
-    "frq": 8945,
-    "composite_rank": 13990,
+    "phonetic": "/ә'taiә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=attire&type=2",
+    "definition_en": "n. clothing of a distinctive style or for a particular occasion",
+    "definition_zh": "n. 服装, 盛装； vt. 使穿衣, 打扮",
+    "frq": 10764,
+    "composite_rank": 13993,
     "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant apparel that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的衣服，与正式场合相得益彰。"
+        "en": "She selected an elegant attire that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的服装，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile apparel pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的衣服无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "buckle",
-    "word": "buckle",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/'bʌkl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=buckle&type=2",
-    "definition_en": "n. fastener that fastens together two ends of a belt or strap; often has loose prong\\nv. fasten with a buckle or buckles\\nv. fold or collapse",
-    "definition_zh": "n. 皮带扣, 扣子； vt. 扣住, 使弯曲； vi. 扣住, 变弯曲, 屈服",
-    "frq": 8961,
-    "composite_rank": 14015,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant buckle that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的皮带扣，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile buckle pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的皮带扣无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile attire pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的服装无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -1875,6 +1950,31 @@
     ]
   },
   {
+    "id": "leash",
+    "word": "leash",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/li:ʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=leash&type=2",
+    "definition_en": "n. restraint consisting of a rope (or light chain) used to restrain an animal",
+    "definition_zh": "n. (拴狗颈的)皮带； vt. 以皮带束缚, 束缚",
+    "frq": 10882,
+    "composite_rank": 14147,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant leash that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的皮带，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile leash pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的皮带无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
     "id": "flannel",
     "word": "flannel",
     "part_of_speech": "noun",
@@ -1900,27 +2000,52 @@
     ]
   },
   {
-    "id": "override",
-    "word": "override",
+    "id": "disarray",
+    "word": "disarray",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/.әuvә'raid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=override&type=2",
-    "definition_en": "n. a manually operated device to correct the operation of an automatic device\\nv. prevail over\\nv. counteract the normal operation of (an automatic gear shift in a vehicle)\\nv. ride (a horse) too hard",
-    "definition_zh": "vt. 推翻, 无视, 对...有最后发言权, 制服, 践踏, 奔越过； 代理佣金, 代销佣金",
-    "frq": 9471,
-    "composite_rank": 14813,
+    "phonetic": "/.disә'rei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=disarray&type=2",
+    "definition_en": "n. untidiness (especially of clothing and appearance)",
+    "definition_zh": "vt. 弄乱, 使混乱, 使脱去衣服； n. 无秩序, 杂乱, 不整齐的衣着",
+    "frq": 12019,
+    "composite_rank": 14375,
     "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant override that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的推翻，与正式场合相得益彰。"
+        "en": "She selected an elegant disarray that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的无秩序，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile override pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的推翻无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile disarray pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的无秩序无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "undress",
+    "word": "undress",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/.ʌn'dres/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=undress&type=2",
+    "definition_en": "n. partial or complete nakedness\\nv. get undressed",
+    "definition_zh": "vt. 使脱衣服, 暴露, 使卸去装饰； vi. 脱衣服",
+    "frq": 12150,
+    "composite_rank": 14531,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant undress that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的使脱衣服，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile undress pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的使脱衣服无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -1950,6 +2075,31 @@
     ]
   },
   {
+    "id": "ouch",
+    "word": "ouch",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/autʃ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ouch&type=2",
+    "definition_en": "n. A socket or bezel holding a precious stone; hence, a jewel or\\n   ornament worn on the person.",
+    "definition_zh": "interj. 哎唷(表剧痛)； n. 扣环, 胸针, 珠宝饰物",
+    "frq": 15065,
+    "composite_rank": 15065,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant ouch that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的扣环，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile ouch pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的扣环无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
     "id": "boots",
     "word": "boots",
     "part_of_speech": "noun",
@@ -1971,31 +2121,6 @@
       {
         "en": "This versatile boots pairs effortlessly with both casual and professional outfits.",
         "zh": "这款百搭的擦靴的仆役无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "mantle",
-    "word": "mantle",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/'mæntl/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=mantle&type=2",
-    "definition_en": "n. the cloak as a symbol of authority\\nn. United States baseball player (1931-1997)\\nn. the layer of the earth between the crust and the core\\nn. (zoology) a protective layer of epidermis in mollusks or brachiopods that secretes a substance forming the shell",
-    "definition_zh": "n. 斗篷, 罩子, 披风； vt. 罩住, 覆盖； vi. 覆盖, 脸红",
-    "frq": 9827,
-    "composite_rank": 15369,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant mantle that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的斗篷，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile mantle pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的斗篷无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -2025,52 +2150,52 @@
     ]
   },
   {
-    "id": "coated",
-    "word": "coated",
+    "id": "vogue",
+    "word": "vogue",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/'kәutid/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=coated&type=2",
-    "definition_en": "a. having a coating; covered with an outer layer or film; often used in combination\\ns. having or dressed in a coat",
-    "definition_zh": "a. 穿外套的, 上涂料的； 包著的, 套著的, 涂过",
-    "frq": 24878,
-    "composite_rank": 16171,
-    "badge": "core",
+    "phonetic": "/vәug/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vogue&type=2",
+    "definition_en": "n. the popular taste at a given time\\nn. a current state of general acceptance and use",
+    "definition_zh": "n. 时尚, 时髦, 流行； a. 流行的, 时髦的",
+    "frq": 14657,
+    "composite_rank": 16005,
+    "badge": "high",
     "examples": [
       {
-        "en": "She selected an elegant coated that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的穿外套的，与正式场合相得益彰。"
+        "en": "She selected an elegant vogue that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的时尚，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile coated pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的穿外套的无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile vogue pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的时尚无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
   {
-    "id": "coats",
-    "word": "coats",
+    "id": "piping",
+    "word": "piping",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/coats/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=coats&type=2",
-    "definition_en": "n an outer garment that has sleeves and covers the body from shoulder down; worn outdoors\\nn a thin layer covering something\\nn growth of hair or wool or fur covering the body of an animal\\nv put a coat on; cover the surface of; furnish with a surface\\nv cover or provide with a coat\\nv form a coat over",
-    "definition_zh": "n. 外套（coat的复数）",
-    "frq": 25005,
-    "composite_rank": 16253,
-    "badge": "core",
+    "phonetic": "/'paipiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=piping&type=2",
+    "definition_en": "n. a thin strip of covered cord used to edge hems\\nn. playing a pipe or the bagpipes\\nr. (used of heat) extremely",
+    "definition_zh": "n. 吹笛, 笛声, 管道, 尖锐声音, 衣服滚边； a. 吹笛的, 高音的, 平静的, 乐声优雅的",
+    "frq": 13689,
+    "composite_rank": 16372,
+    "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant coats that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的外套，与正式场合相得益彰。"
+        "en": "She selected an elegant piping that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的吹笛，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile coats pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的外套无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile piping pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的吹笛无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -2100,6 +2225,31 @@
     ]
   },
   {
+    "id": "jeweler",
+    "word": "jeweler",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'dʒu:әlә(r)/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=jeweler&type=2",
+    "definition_en": "n. someone in the business of selling jewelry",
+    "definition_zh": "n. 宝石商, 宝石匠, 珠宝商",
+    "frq": 13520,
+    "composite_rank": 17576,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant jeweler that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的宝石商，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile jeweler pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的宝石商无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
     "id": "groom",
     "word": "groom",
     "part_of_speech": "noun",
@@ -2125,52 +2275,27 @@
     ]
   },
   {
-    "id": "leash",
-    "word": "leash",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/li:ʃ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=leash&type=2",
-    "definition_en": "n. restraint consisting of a rope (or light chain) used to restrain an animal",
-    "definition_zh": "n. (拴狗颈的)皮带； vt. 以皮带束缚, 束缚",
-    "frq": 10882,
-    "composite_rank": 18499,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant leash that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的皮带，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile leash pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的皮带无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "backpacker",
-    "word": "backpacker",
+    "id": "tatter",
+    "word": "tatter",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/'bæk.pækә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=backpacker&type=2",
-    "definition_en": "n. a hiker who wears a backpack",
-    "definition_zh": "n. 背包旅行者",
-    "frq": 18639,
-    "composite_rank": 18639,
+    "phonetic": "/'tætә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tatter&type=2",
+    "definition_en": "n a small piece of cloth or paper",
+    "definition_zh": "n. 破布条, 破衣服, 梭编工人； vt. 把...扯碎； vi. 变破烂",
+    "frq": 19809,
+    "composite_rank": 19809,
     "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant backpacker that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的背包旅行者，与正式场合相得益彰。"
+        "en": "She selected an elegant tatter that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的破布条，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile backpacker pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的背包旅行者无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile tatter pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的破布条无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -2225,102 +2350,77 @@
     ]
   },
   {
-    "id": "vogue",
-    "word": "vogue",
+    "id": "mitten",
+    "word": "mitten",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/vәug/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=vogue&type=2",
-    "definition_en": "n. the popular taste at a given time\\nn. a current state of general acceptance and use",
-    "definition_zh": "n. 时尚, 时髦, 流行； a. 流行的, 时髦的",
-    "frq": 14657,
-    "composite_rank": 20930,
-    "badge": "high",
+    "phonetic": "/'mitn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=mitten&type=2",
+    "definition_en": "n. glove that encases the thumb separately and the other four fingers together",
+    "definition_zh": "n. 连指手套, 拳击手套",
+    "frq": 16533,
+    "composite_rank": 21493,
+    "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant vogue that matched the formal occasion.",
+        "en": "She selected an elegant mitten that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的连指手套，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile mitten pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的连指手套无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "fad",
+    "word": "fad",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/fæd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fad&type=2",
+    "definition_en": "n. an interest followed with exaggerated zeal",
+    "definition_zh": "n. 时尚； 黄素腺嘌呤二核苷酸",
+    "frq": 11194,
+    "composite_rank": 22657,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant fad that matched the formal occasion.",
         "zh": "她挑选了一件优雅的时尚，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile vogue pairs effortlessly with both casual and professional outfits.",
+        "en": "This versatile fad pairs effortlessly with both casual and professional outfits.",
         "zh": "这款百搭的时尚无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
   {
-    "id": "uncovered",
-    "word": "uncovered",
+    "id": "shawl",
+    "word": "shawl",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C2",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/.ʌn'kʌvәd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=uncovered&type=2",
-    "definition_en": "v make visible\\nv remove all or part of one's clothes to show one's body\\ns not covered with clothing",
-    "definition_zh": "a. 无遮盖的, 未戴帽子的, 未保险的； 无担保的, 未补进的(空头), 未保险的",
-    "frq": 21315,
-    "composite_rank": 21315,
+    "phonetic": "/ʃɒ:l/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shawl&type=2",
+    "definition_en": "n. cloak consisting of an oblong piece of cloth used to cover the head and shoulders",
+    "definition_zh": "n. 披肩, 围巾； vt. 用披肩裹",
+    "frq": 11627,
+    "composite_rank": 23533,
     "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant uncovered that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的无遮盖的，与正式场合相得益彰。"
+        "en": "She selected an elegant shawl that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的披肩，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile uncovered pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的无遮盖的无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "jeweler",
-    "word": "jeweler",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/'dʒu:әlә(r)/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=jeweler&type=2",
-    "definition_en": "n. someone in the business of selling jewelry",
-    "definition_zh": "n. 宝石商, 宝石匠, 珠宝商",
-    "frq": 13520,
-    "composite_rank": 22984,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant jeweler that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的宝石商，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile jeweler pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的宝石商无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "tatter",
-    "word": "tatter",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/'tætә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tatter&type=2",
-    "definition_en": "n a small piece of cloth or paper",
-    "definition_zh": "n. 破布条, 破衣服, 梭编工人； vt. 把...扯碎； vi. 变破烂",
-    "frq": 19809,
-    "composite_rank": 25752,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant tatter that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的破布条，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile tatter pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的破布条无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile shawl pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的披肩无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -2350,77 +2450,27 @@
     ]
   },
   {
-    "id": "buttons",
-    "word": "buttons",
+    "id": "backpacker",
+    "word": "backpacker",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/buttons/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=buttons&type=2",
-    "definition_en": "n a round fastener sewn to shirts and coats etc to fit through buttonholes\\nn an electrical switch operated by pressing\\nn any of various plant parts that resemble buttons\\nn a round flat badge displaying information and suitable for pinning onto a garment\\nn a female sexual organ homologous to the penis\\nn a device that when pressed will release part of a mechanism\\nn any artifact that resembles a button\\nv provide with buttons\\nv fasten with buttons",
-    "definition_zh": "n. 纽扣；按钮（button的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
+    "phonetic": "/'bæk.pækә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=backpacker&type=2",
+    "definition_en": "n. a hiker who wears a backpack",
+    "definition_zh": "n. 背包旅行者",
+    "frq": 18639,
+    "composite_rank": 31686,
+    "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant buttons that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的纽扣，与正式场合相得益彰。"
+        "en": "She selected an elegant backpacker that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的背包旅行者，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile buttons pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的纽扣无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "flies",
-    "word": "flies",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/flies/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=flies&type=2",
-    "definition_en": "n. (theater) the space over the stage (out of view of the audience) used to store scenery (drop curtains)",
-    "definition_zh": "n. 裤子前面的开口",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "She selected an elegant flies that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的裤子前面的开口，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile flies pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的裤子前面的开口无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "shirts",
-    "word": "shirts",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/shirts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=shirts&type=2",
-    "definition_en": "n a garment worn on the upper half of the body\\nv put a shirt on",
-    "definition_zh": "n. 衬衫（shirt的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "She selected an elegant shirts that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的衬衫，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile shirts pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的衬衫无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile backpacker pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的背包旅行者无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -2450,10 +2500,60 @@
     ]
   },
   {
+    "id": "uncovered",
+    "word": "uncovered",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/.ʌn'kʌvәd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=uncovered&type=2",
+    "definition_en": "v make visible\\nv remove all or part of one's clothes to show one's body\\ns not covered with clothing",
+    "definition_zh": "a. 无遮盖的, 未戴帽子的, 未保险的； 无担保的, 未补进的(空头), 未保险的",
+    "frq": 21315,
+    "composite_rank": 36236,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant uncovered that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的无遮盖的，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile uncovered pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的无遮盖的无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "coated",
+    "word": "coated",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/'kәutid/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=coated&type=2",
+    "definition_en": "a. having a coating; covered with an outer layer or film; often used in combination\\ns. having or dressed in a coat",
+    "definition_zh": "a. 穿外套的, 上涂料的； 包著的, 套著的, 涂过",
+    "frq": 24878,
+    "composite_rank": 42293,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant coated that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的穿外套的，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile coated pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的穿外套的无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
     "id": "undressed",
     "word": "undressed",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
     "phonetic": "/'ʌn'drest/",
@@ -2461,7 +2561,7 @@
     "definition_en": "s. of lumber or stone or hides; not finished or dressed",
     "definition_zh": "a. 不穿衣服的, 便服的, 没加调味品的, 未梳理的, 未修剪的, 未加工的, 粗糙的； 未经处理的",
     "frq": 28680,
-    "composite_rank": 37284,
+    "composite_rank": 48756,
     "badge": "normal",
     "examples": [
       {
@@ -2475,10 +2575,35 @@
     ]
   },
   {
+    "id": "buttons",
+    "word": "buttons",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/buttons/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=buttons&type=2",
+    "definition_en": "n a round fastener sewn to shirts and coats etc to fit through buttonholes\\nn an electrical switch operated by pressing\\nn any of various plant parts that resemble buttons\\nn a round flat badge displaying information and suitable for pinning onto a garment\\nn a female sexual organ homologous to the penis\\nn a device that when pressed will release part of a mechanism\\nn any artifact that resembles a button\\nv provide with buttons\\nv fasten with buttons",
+    "definition_zh": "n. 纽扣；按钮（button的复数形式）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant buttons that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的纽扣，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile buttons pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的纽扣无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
     "id": "ducks",
     "word": "ducks",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
     "phonetic": "/ducks/",
@@ -2486,8 +2611,8 @@
     "definition_en": "n small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs\\nn (cricket) a score of nothing by a batsman\\nn flesh of a duck (domestic or wild)\\nn a heavy cotton fabric of plain weave; used for clothing and tents\\nv to move (the head or body) quickly downwards or away\\nv submerge or plunge suddenly\\nv dip into a liquid\\nv avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
     "definition_zh": "n. 薄帆布工作服, 帆布裤子；鸭子（duck的复数）",
     "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
+    "composite_rank": 50000,
+    "badge": "normal",
     "examples": [
       {
         "en": "She selected an elegant ducks that matched the formal occasion.",
@@ -2496,56 +2621,6 @@
       {
         "en": "This versatile ducks pairs effortlessly with both casual and professional outfits.",
         "zh": "这款百搭的薄帆布工作服无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "gloves",
-    "word": "gloves",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/gloves/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=gloves&type=2",
-    "definition_en": "n the handwear used by fielders in playing baseball\\nn handwear: covers the hand and wrist\\nn boxing equipment consisting of big and padded coverings for the fists of the fighters; worn for the sport of boxing",
-    "definition_zh": "n. 手套（glove的复数）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant gloves that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的手套，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile gloves pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的手套无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "uniforms",
-    "word": "uniforms",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/uniforms/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=uniforms&type=2",
-    "definition_en": "n clothing of distinctive design worn by members of a particular group as a means of identification\\nv provide with uniforms",
-    "definition_zh": "n. 制服（uniform的复数）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "She selected an elegant uniforms that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的制服，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile uniforms pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的制服无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -2575,27 +2650,52 @@
     ]
   },
   {
-    "id": "garments",
-    "word": "garments",
+    "id": "flies",
+    "word": "flies",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
-    "phonetic": "/garments/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=garments&type=2",
-    "definition_en": "n an article of clothing\\nv provide with clothes or put clothes on",
-    "definition_zh": "n. 服装, 衣着",
+    "phonetic": "/flies/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=flies&type=2",
+    "definition_en": "n. (theater) the space over the stage (out of view of the audience) used to store scenery (drop curtains)",
+    "definition_zh": "n. 裤子前面的开口",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "She selected an elegant garments that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的服装，与正式场合相得益彰。"
+        "en": "She selected an elegant flies that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的裤子前面的开口，与正式场合相得益彰。"
       },
       {
-        "en": "This versatile garments pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的服装无论是日常休闲还是职场着装都能轻松相配。"
+        "en": "This versatile flies pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的裤子前面的开口无论是日常休闲还是职场着装都能轻松相配。"
+      }
+    ]
+  },
+  {
+    "id": "overalls",
+    "word": "overalls",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "时尚服饰与穿搭鞋包",
+    "category": "fashion_apparel",
+    "phonetic": "/overalls/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=overalls&type=2",
+    "definition_en": "n (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\\nn a loose protective coverall or smock worn over ordinary clothing for dirty work",
+    "definition_zh": "n. 工装裤； 工作服, 工装",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "She selected an elegant overalls that matched the formal occasion.",
+        "zh": "她挑选了一件优雅的工装裤，与正式场合相得益彰。"
+      },
+      {
+        "en": "This versatile overalls pairs effortlessly with both casual and professional outfits.",
+        "zh": "这款百搭的工装裤无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   },
@@ -2625,35 +2725,10 @@
     ]
   },
   {
-    "id": "costumes",
-    "word": "costumes",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/costumes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=costumes&type=2",
-    "definition_en": "n the attire worn in a play or at a fancy dress ball\\nn unusual or period attire not characteristic of or appropriate to the time and place\\nn the prevalent fashion of dress (including accessories and hair style as well as garments)\\nn the attire characteristic of a country or a time or a social class\\nv dress in a costume\\nv furnish with costumes; as for a film or play",
-    "definition_zh": "n. 服装（costume的复数形式）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant costumes that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的服装，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile costumes pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的服装无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
     "id": "tails",
     "word": "tails",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "时尚服饰与穿搭鞋包",
     "category": "fashion_apparel",
     "phonetic": "/tails/",
@@ -2661,7 +2736,7 @@
     "definition_en": "n formalwear consisting of full evening dress for men\\nn the posterior part of the body of a vertebrate especially when elongated and extending beyond the trunk or main part of the body\\nn the time of the last part of something\\nn any projection that resembles the tail of an animal\\nn the fleshy part of the human body that you sit on\\nn a spy employed to follow someone and report their movements\\nn (usually plural) the reverse side of a coin that does not bear the representation of a person's head\\nn the rear part of an aircraft\\nn the rear part of a ship\\nv go after with the intent to catch\\nv remove or shorten the tail of an animal\\nv remove the stalk of fruits or berries",
     "definition_zh": "n. (非正式)燕尾服, 男子夜礼服, 钱币背面, 硬币的背面； (复)尾矿; 尾砂",
     "frq": 50000,
-    "composite_rank": 65000,
+    "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
@@ -2671,81 +2746,6 @@
       {
         "en": "This versatile tails pairs effortlessly with both casual and professional outfits.",
         "zh": "这款百搭的燕尾服无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "belts",
-    "word": "belts",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/belts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=belts&type=2",
-    "definition_en": "n endless loop of flexible material between two rotating shafts or pulleys\\nn a band to tie or buckle around the body (usually at the waist)\\nn an elongated region where a specific condition or characteristic is found\\nn a vigorous blow\\nn a path or strip (as cut by one course of mowing)\\nn ammunition (usually of small caliber) loaded in flexible linked strips for use in a machine gun\\nn the act of hitting vigorously\\nv sing loudly and forcefully\\nv deliver a blow to\\nv fasten with a belt",
-    "definition_zh": "n. 带子；皮带（belt的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant belts that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的带子，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile belts pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的带子无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "overalls",
-    "word": "overalls",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/overalls/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=overalls&type=2",
-    "definition_en": "n (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)\\nn a loose protective coverall or smock worn over ordinary clothing for dirty work",
-    "definition_zh": "n. 工装裤； 工作服, 工装",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant overalls that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的工装裤，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile overalls pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的工装裤无论是日常休闲还是职场着装都能轻松相配。"
-      }
-    ]
-  },
-  {
-    "id": "shoes",
-    "word": "shoes",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "时尚服饰与穿搭鞋包",
-    "category": "fashion_apparel",
-    "phonetic": "/shoes/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=shoes&type=2",
-    "definition_en": "n a particular situation\\nn footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material\\nn (card games) a case from which playing cards are dealt one at a time\\nn U-shaped plate nailed to underside of horse's hoof\\nn a restraint provided when the brake linings are moved hydraulically against the brake drum to retard the wheel's rotation\\nv furnish with shoes",
-    "definition_zh": "n. 鞋子（shoe的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "She selected an elegant shoes that matched the formal occasion.",
-        "zh": "她挑选了一件优雅的鞋子，与正式场合相得益彰。"
-      },
-      {
-        "en": "This versatile shoes pairs effortlessly with both casual and professional outfits.",
-        "zh": "这款百搭的鞋子无论是日常休闲还是职场着装都能轻松相配。"
       }
     ]
   }

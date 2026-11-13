@@ -675,6 +675,31 @@
     ]
   },
   {
+    "id": "route",
+    "word": "route",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ru:t/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=route&type=2",
+    "definition_en": "v. send documents or materials to appropriate destinations\\nv. send via a specific route\\nv. divert in a specified direction",
+    "definition_zh": "n. 路径, 途径, 路线； vt. 确定路线, 按规定路线发送； 传递, 路由设定程序",
+    "frq": 1946,
+    "composite_rank": 741,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Modern route provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的路径为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional route significantly reduces travel times for commuters.",
+        "zh": "升级区域内的路径大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
     "id": "tourist",
     "word": "tourist",
     "part_of_speech": "noun",
@@ -696,31 +721,6 @@
       {
         "en": "Upgrading regional tourist significantly reduces travel times for commuters.",
         "zh": "升级区域内的观光客大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "route",
-    "word": "route",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/ru:t/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=route&type=2",
-    "definition_en": "v. send documents or materials to appropriate destinations\\nv. send via a specific route\\nv. divert in a specified direction",
-    "definition_zh": "n. 路径, 途径, 路线； vt. 确定路线, 按规定路线发送； 传递, 路由设定程序",
-    "frq": 1946,
-    "composite_rank": 926,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern route provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的路径为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional route significantly reduces travel times for commuters.",
-        "zh": "升级区域内的路径大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -850,6 +850,31 @@
     ]
   },
   {
+    "id": "transportation",
+    "word": "transportation",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/.trænspә'teiʃәn/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=transportation&type=2",
+    "definition_en": "n. the act of moving something from one location to another\\nn. the commercial enterprise of moving goods and materials",
+    "definition_zh": "n. 运输, 输送, 交通车辆； 运转, 运输, 运输费",
+    "frq": 2374,
+    "composite_rank": 1595,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Modern transportation provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的运输为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional transportation significantly reduces travel times for commuters.",
+        "zh": "升级区域内的运输大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
     "id": "bicycle",
     "word": "bicycle",
     "part_of_speech": "noun",
@@ -871,6 +896,31 @@
       {
         "en": "Upgrading regional bicycle significantly reduces travel times for commuters.",
         "zh": "升级区域内的自行车大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "deck",
+    "word": "deck",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/dek/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=deck&type=2",
+    "definition_en": "n. any of various platforms built into a vessel\\nn. street name for a packet of illegal drugs\\nn. a porch that resembles the deck on a ship\\nv. be beautiful to look at",
+    "definition_zh": "n. 甲板, (汽车后部的)行李仓； vt. 装饰, 打扮, 装甲板； 纸牌背面图案",
+    "frq": 2788,
+    "composite_rank": 1695,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Modern deck provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的甲板为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional deck significantly reduces travel times for commuters.",
+        "zh": "升级区域内的甲板大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -925,52 +975,27 @@
     ]
   },
   {
-    "id": "transportation",
-    "word": "transportation",
+    "id": "airplane",
+    "word": "airplane",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/.trænspә'teiʃәn/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=transportation&type=2",
-    "definition_en": "n. the act of moving something from one location to another\\nn. the commercial enterprise of moving goods and materials",
-    "definition_zh": "n. 运输, 输送, 交通车辆； 运转, 运输, 运输费",
-    "frq": 2374,
-    "composite_rank": 1994,
+    "phonetic": "/'єәplein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=airplane&type=2",
+    "definition_en": "n. an aircraft that has a fixed wing and is powered by propellers or jets",
+    "definition_zh": "n. 飞机； 飞机",
+    "frq": 3519,
+    "composite_rank": 2365,
     "badge": "core",
     "examples": [
       {
-        "en": "Modern transportation provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的运输为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern airplane provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的飞机为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional transportation significantly reduces travel times for commuters.",
-        "zh": "升级区域内的运输大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "deck",
-    "word": "deck",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/dek/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=deck&type=2",
-    "definition_en": "n. any of various platforms built into a vessel\\nn. street name for a packet of illegal drugs\\nn. a porch that resembles the deck on a ship\\nv. be beautiful to look at",
-    "definition_zh": "n. 甲板, (汽车后部的)行李仓； vt. 装饰, 打扮, 装甲板； 纸牌背面图案",
-    "frq": 2788,
-    "composite_rank": 2119,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern deck provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的甲板为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional deck significantly reduces travel times for commuters.",
-        "zh": "升级区域内的甲板大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional airplane significantly reduces travel times for commuters.",
+        "zh": "升级区域内的飞机大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -1075,6 +1100,31 @@
     ]
   },
   {
+    "id": "guideline",
+    "word": "guideline",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'gaidlain/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=guideline&type=2",
+    "definition_en": "n. a light line that is used in lettering to help align the letters",
+    "definition_zh": "n. 指导路线, 方针, 指标； 指导路线, 方针, 准则",
+    "frq": 3064,
+    "composite_rank": 2574,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern guideline provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的指导路线为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional guideline significantly reduces travel times for commuters.",
+        "zh": "升级区域内的指导路线大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
     "id": "steer",
     "word": "steer",
     "part_of_speech": "noun",
@@ -1096,6 +1146,31 @@
       {
         "en": "Upgrading regional steer significantly reduces travel times for commuters.",
         "zh": "升级区域内的驾驶指示大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "cab",
+    "word": "cab",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/kæb/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cab&type=2",
+    "definition_en": "n. a compartment at the front of a motor vehicle or locomotive where driver sits\\nn. small two-wheeled horse-drawn carriage; with two seats and a folding hood\\nn. a car driven by a person whose job is to take passengers where they want to go in exchange for money",
+    "definition_zh": "n. 出租车, 出租汽车, 出租马车； vi. 乘出租马车(或汽车)",
+    "frq": 4220,
+    "composite_rank": 2836,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern cab provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的出租车为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional cab significantly reduces travel times for commuters.",
+        "zh": "升级区域内的出租车大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -1150,52 +1225,127 @@
     ]
   },
   {
-    "id": "airplane",
-    "word": "airplane",
+    "id": "fare",
+    "word": "fare",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'єәplein/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=airplane&type=2",
-    "definition_en": "n. an aircraft that has a fixed wing and is powered by propellers or jets",
-    "definition_zh": "n. 飞机； 飞机",
-    "frq": 3519,
-    "composite_rank": 2956,
-    "badge": "high",
+    "phonetic": "/fєә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=fare&type=2",
+    "definition_en": "n. the sum charged for riding in a public conveyance\\nn. a paying (taxi) passenger\\nn. the food and drink that are regularly served or consumed\\nv. eat well",
+    "definition_zh": "n. 费用, 旅客, 食物； vi. 进展, 进步, 经营, 过活",
+    "frq": 4776,
+    "composite_rank": 2904,
+    "badge": "core",
     "examples": [
       {
-        "en": "Modern airplane provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的飞机为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern fare provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的费用为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional airplane significantly reduces travel times for commuters.",
-        "zh": "升级区域内的飞机大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional fare significantly reduces travel times for commuters.",
+        "zh": "升级区域内的费用大幅缩短了通勤者的出行时间。"
       }
     ]
   },
   {
-    "id": "guideline",
-    "word": "guideline",
+    "id": "traveler",
+    "word": "traveler",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "A2",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'gaidlain/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=guideline&type=2",
-    "definition_en": "n. a light line that is used in lettering to help align the letters",
-    "definition_zh": "n. 指导路线, 方针, 指标； 指导路线, 方针, 准则",
-    "frq": 3064,
-    "composite_rank": 3346,
+    "phonetic": "/'trævlә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=traveler&type=2",
+    "definition_en": "n. a person who changes location",
+    "definition_zh": "n. 旅行者, 游客, 旅客, 旅行推销员, 活动起重架, 行车, 临时记帐单",
+    "frq": 3795,
+    "composite_rank": 3036,
     "badge": "high",
     "examples": [
       {
-        "en": "Modern guideline provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的指导路线为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern traveler provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的旅行者为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional guideline significantly reduces travel times for commuters.",
-        "zh": "升级区域内的指导路线大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional traveler significantly reduces travel times for commuters.",
+        "zh": "升级区域内的旅行者大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "tourism",
+    "word": "tourism",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'tuәrizm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tourism&type=2",
+    "definition_en": "n. the business of providing services to tourists",
+    "definition_zh": "n. 观光业, 游览； 旅游业",
+    "frq": 4721,
+    "composite_rank": 3173,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern tourism provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的观光业为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional tourism significantly reduces travel times for commuters.",
+        "zh": "升级区域内的观光业大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "trainer",
+    "word": "trainer",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'treinә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=trainer&type=2",
+    "definition_en": "n. one who trains other persons or animals",
+    "definition_zh": "n. 训练员, 驯马师； 列车器",
+    "frq": 4458,
+    "composite_rank": 3281,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern trainer provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的训练员为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional trainer significantly reduces travel times for commuters.",
+        "zh": "升级区域内的训练员大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "aboard",
+    "word": "aboard",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ә'bɒ:d/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aboard&type=2",
+    "definition_en": "r. on a ship, train, plane or other vehicle\\nr. on first or second or third base\\nr. side by side\\nr. part of a group",
+    "definition_zh": "adv. 在船上, 在火车上, 在飞机上； prep. 在...之上",
+    "frq": 4984,
+    "composite_rank": 3349,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern aboard provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的在船上为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional aboard significantly reduces travel times for commuters.",
+        "zh": "升级区域内的在船上大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -1250,52 +1400,77 @@
     ]
   },
   {
-    "id": "cab",
-    "word": "cab",
+    "id": "bug",
+    "word": "bug",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/kæb/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cab&type=2",
-    "definition_en": "n. a compartment at the front of a motor vehicle or locomotive where driver sits\\nn. small two-wheeled horse-drawn carriage; with two seats and a folding hood\\nn. a car driven by a person whose job is to take passengers where they want to go in exchange for money",
-    "definition_zh": "n. 出租车, 出租汽车, 出租马车； vi. 乘出租马车(或汽车)",
-    "frq": 4220,
-    "composite_rank": 3545,
+    "phonetic": "/bʌg/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bug&type=2",
+    "definition_en": "n. general term for any insect or similar creeping or crawling invertebrate\\nn. a fault or defect in a computer program, system, or machine\\nn. a small hidden microphone; for listening secretly",
+    "definition_zh": "n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人； vt. 装防盗报警器, 装窃听器, 激怒； vi. 捉虫, 暴突； 缺点, 错误",
+    "frq": 4159,
+    "composite_rank": 3494,
     "badge": "high",
     "examples": [
       {
-        "en": "Modern cab provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的出租车为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern bug provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的错误为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional cab significantly reduces travel times for commuters.",
-        "zh": "升级区域内的出租车大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional bug significantly reduces travel times for commuters.",
+        "zh": "升级区域内的错误大幅缩短了通勤者的出行时间。"
       }
     ]
   },
   {
-    "id": "fare",
-    "word": "fare",
+    "id": "visa",
+    "word": "visa",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'vi:zә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=visa&type=2",
+    "definition_en": "n. an endorsement made in a passport that allows the bearer to enter the country issuing it\\nv. provide (a passport) with a visa\\nv. approve officially",
+    "definition_zh": "n. 签证； vt. 签发",
+    "frq": 5525,
+    "composite_rank": 3713,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern visa provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的签证为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional visa significantly reduces travel times for commuters.",
+        "zh": "升级区域内的签证大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "hike",
+    "word": "hike",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/fєә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=fare&type=2",
-    "definition_en": "n. the sum charged for riding in a public conveyance\\nn. a paying (taxi) passenger\\nn. the food and drink that are regularly served or consumed\\nv. eat well",
-    "definition_zh": "n. 费用, 旅客, 食物； vi. 进展, 进步, 经营, 过活",
-    "frq": 4776,
-    "composite_rank": 3630,
-    "badge": "core",
+    "phonetic": "/haik/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hike&type=2",
+    "definition_en": "n. a long walk usually for exercise or pleasure\\nv. increase\\nv. walk a long way, as for pleasure or physical exercise",
+    "definition_zh": "n. 徒步旅行, 远足, 涨价, 提高； vi. 步行, 徒步旅行, 上升； vt. 使高涨, 拉起",
+    "frq": 4456,
+    "composite_rank": 3743,
+    "badge": "high",
     "examples": [
       {
-        "en": "Modern fare provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的费用为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern hike provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的徒步旅行为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional fare significantly reduces travel times for commuters.",
-        "zh": "升级区域内的费用大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional hike significantly reduces travel times for commuters.",
+        "zh": "升级区域内的徒步旅行大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -1350,152 +1525,27 @@
     ]
   },
   {
-    "id": "traveler",
-    "word": "traveler",
+    "id": "voyage",
+    "word": "voyage",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'trævlә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=traveler&type=2",
-    "definition_en": "n. a person who changes location",
-    "definition_zh": "n. 旅行者, 游客, 旅客, 旅行推销员, 活动起重架, 行车, 临时记帐单",
-    "frq": 3795,
-    "composite_rank": 3795,
+    "phonetic": "/'vɒiidʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=voyage&type=2",
+    "definition_en": "n. a journey to some distant place\\nv. travel on water propelled by wind or by other means",
+    "definition_zh": "n. 航行, 航海, 航程, 旅行, 航空； vi. 航海, 航行； vt. 航行越过, 飞过",
+    "frq": 6619,
+    "composite_rank": 4448,
     "badge": "high",
     "examples": [
       {
-        "en": "Modern traveler provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的旅行者为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern voyage provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的航行为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional traveler significantly reduces travel times for commuters.",
-        "zh": "升级区域内的旅行者大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "tourism",
-    "word": "tourism",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'tuәrizm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tourism&type=2",
-    "definition_en": "n. the business of providing services to tourists",
-    "definition_zh": "n. 观光业, 游览； 旅游业",
-    "frq": 4721,
-    "composite_rank": 3966,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern tourism provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的观光业为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional tourism significantly reduces travel times for commuters.",
-        "zh": "升级区域内的观光业大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "trainer",
-    "word": "trainer",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'treinә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=trainer&type=2",
-    "definition_en": "n. one who trains other persons or animals",
-    "definition_zh": "n. 训练员, 驯马师； 列车器",
-    "frq": 4458,
-    "composite_rank": 4101,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern trainer provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的训练员为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional trainer significantly reduces travel times for commuters.",
-        "zh": "升级区域内的训练员大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "aboard",
-    "word": "aboard",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/ә'bɒ:d/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=aboard&type=2",
-    "definition_en": "r. on a ship, train, plane or other vehicle\\nr. on first or second or third base\\nr. side by side\\nr. part of a group",
-    "definition_zh": "adv. 在船上, 在火车上, 在飞机上； prep. 在...之上",
-    "frq": 4984,
-    "composite_rank": 4187,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern aboard provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的在船上为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional aboard significantly reduces travel times for commuters.",
-        "zh": "升级区域内的在船上大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "bug",
-    "word": "bug",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/bʌg/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bug&type=2",
-    "definition_en": "n. general term for any insect or similar creeping or crawling invertebrate\\nn. a fault or defect in a computer program, system, or machine\\nn. a small hidden microphone; for listening secretly",
-    "definition_zh": "n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人； vt. 装防盗报警器, 装窃听器, 激怒； vi. 捉虫, 暴突； 缺点, 错误",
-    "frq": 4159,
-    "composite_rank": 4542,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern bug provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的错误为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional bug significantly reduces travel times for commuters.",
-        "zh": "升级区域内的错误大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "visa",
-    "word": "visa",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'vi:zә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=visa&type=2",
-    "definition_en": "n. an endorsement made in a passport that allows the bearer to enter the country issuing it\\nv. provide (a passport) with a visa\\nv. approve officially",
-    "definition_zh": "n. 签证； vt. 签发",
-    "frq": 5525,
-    "composite_rank": 4641,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern visa provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的签证为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional visa significantly reduces travel times for commuters.",
-        "zh": "升级区域内的签证大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional voyage significantly reduces travel times for commuters.",
+        "zh": "升级区域内的航行大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -1550,31 +1600,6 @@
     ]
   },
   {
-    "id": "hike",
-    "word": "hike",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/haik/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hike&type=2",
-    "definition_en": "n. a long walk usually for exercise or pleasure\\nv. increase\\nv. walk a long way, as for pleasure or physical exercise",
-    "definition_zh": "n. 徒步旅行, 远足, 涨价, 提高； vi. 步行, 徒步旅行, 上升； vt. 使高涨, 拉起",
-    "frq": 4456,
-    "composite_rank": 4866,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern hike provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的徒步旅行为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional hike significantly reduces travel times for commuters.",
-        "zh": "升级区域内的徒步旅行大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
     "id": "subway",
     "word": "subway",
     "part_of_speech": "noun",
@@ -1596,31 +1621,6 @@
       {
         "en": "Upgrading regional subway significantly reduces travel times for commuters.",
         "zh": "升级区域内的地铁大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "voyage",
-    "word": "voyage",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'vɒiidʒ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=voyage&type=2",
-    "definition_en": "n. a journey to some distant place\\nv. travel on water propelled by wind or by other means",
-    "definition_zh": "n. 航行, 航海, 航程, 旅行, 航空； vi. 航海, 航行； vt. 航行越过, 飞过",
-    "frq": 6619,
-    "composite_rank": 5560,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern voyage provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的航行为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional voyage significantly reduces travel times for commuters.",
-        "zh": "升级区域内的航行大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -1675,6 +1675,131 @@
     ]
   },
   {
+    "id": "navigate",
+    "word": "navigate",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'nævigeit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=navigate&type=2",
+    "definition_en": "v. act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance\\nv. direct carefully and safely",
+    "definition_zh": "vi. 航行； vt. 航行于, 驾驶, 操纵, 使通过",
+    "frq": 6416,
+    "composite_rank": 5903,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern navigate provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的航行为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional navigate significantly reduces travel times for commuters.",
+        "zh": "升级区域内的航行大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "shipping",
+    "word": "shipping",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'ʃipiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shipping&type=2",
+    "definition_en": "n. conveyance provided by the ships belonging to one country or industry",
+    "definition_zh": "n. 装运, 航行, 船舶, 船舶吨数； 装运, 运送, 海运",
+    "frq": 7029,
+    "composite_rank": 5904,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern shipping provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的装运为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional shipping significantly reduces travel times for commuters.",
+        "zh": "升级区域内的装运大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "underway",
+    "word": "underway",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'ʌndә'wei/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=underway&type=2",
+    "definition_en": "s currently in progress",
+    "definition_zh": "a. 航行中的；进行中的；起步的",
+    "frq": 7154,
+    "composite_rank": 6009,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern underway provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的航行中的为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional underway significantly reduces travel times for commuters.",
+        "zh": "升级区域内的航行中的大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "cockpit",
+    "word": "cockpit",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'kɒkpit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cockpit&type=2",
+    "definition_en": "n. compartment where the pilot sits while flying the aircraft\\nn. a pit for cockfights\\nn. seat where the driver sits while driving a racing car",
+    "definition_zh": "n. 驾驶员座舱, 战场",
+    "frq": 7162,
+    "composite_rank": 6016,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern cockpit provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的驾驶员座舱为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional cockpit significantly reduces travel times for commuters.",
+        "zh": "升级区域内的驾驶员座舱大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "tanker",
+    "word": "tanker",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'tæŋkә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=tanker&type=2",
+    "definition_en": "n. a soldier who drives a tank",
+    "definition_zh": "n. 坦克手, 油船, 空中加油飞机, 运油飞机, 油槽/水槽汽车； 槽车; 油槽船",
+    "frq": 9275,
+    "composite_rank": 6233,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern tanker provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的坦克手为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional tanker significantly reduces travel times for commuters.",
+        "zh": "升级区域内的坦克手大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
     "id": "manifest",
     "word": "manifest",
     "part_of_speech": "noun",
@@ -1721,6 +1846,31 @@
       {
         "en": "Upgrading regional smoker significantly reduces travel times for commuters.",
         "zh": "升级区域内的吸烟者大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "steward",
+    "word": "steward",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'stju:wәd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=steward&type=2",
+    "definition_en": "n. someone who manages property or other affairs for someone else\\nn. the ship's officer who is in charge of provisions and dining arrangements\\nn. an attendant on an airplane",
+    "definition_zh": "n. 管理人, 招待员, 管家, 乘务员； 轮船, 飞机的服务员, (财务)管理员",
+    "frq": 10595,
+    "composite_rank": 7120,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern steward provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的管理人为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional steward significantly reduces travel times for commuters.",
+        "zh": "升级区域内的管理人大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -1800,106 +1950,6 @@
     ]
   },
   {
-    "id": "shipping",
-    "word": "shipping",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'ʃipiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=shipping&type=2",
-    "definition_en": "n. conveyance provided by the ships belonging to one country or industry",
-    "definition_zh": "n. 装运, 航行, 船舶, 船舶吨数； 装运, 运送, 海运",
-    "frq": 7029,
-    "composite_rank": 7676,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern shipping provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的装运为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional shipping significantly reduces travel times for commuters.",
-        "zh": "升级区域内的装运大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "tanker",
-    "word": "tanker",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'tæŋkә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tanker&type=2",
-    "definition_en": "n. a soldier who drives a tank",
-    "definition_zh": "n. 坦克手, 油船, 空中加油飞机, 运油飞机, 油槽/水槽汽车； 槽车; 油槽船",
-    "frq": 9275,
-    "composite_rank": 7791,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern tanker provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的坦克手为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional tanker significantly reduces travel times for commuters.",
-        "zh": "升级区域内的坦克手大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "casing",
-    "word": "casing",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'keisiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=casing&type=2",
-    "definition_en": "n. the outermost covering of a pneumatic tire\\nn. the enclosing frame around a door or window opening",
-    "definition_zh": "n. 箱, 盒, 包装, 框, 套管； 汽车外胎",
-    "frq": 12258,
-    "composite_rank": 7968,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern casing provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的箱为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional casing significantly reduces travel times for commuters.",
-        "zh": "升级区域内的箱大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "steward",
-    "word": "steward",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'stju:wәd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=steward&type=2",
-    "definition_en": "n. someone who manages property or other affairs for someone else\\nn. the ship's officer who is in charge of provisions and dining arrangements\\nn. an attendant on an airplane",
-    "definition_zh": "n. 管理人, 招待员, 管家, 乘务员； 轮船, 飞机的服务员, (财务)管理员",
-    "frq": 10595,
-    "composite_rank": 8900,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern steward provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的管理人为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional steward significantly reduces travel times for commuters.",
-        "zh": "升级区域内的管理人大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
     "id": "locomotive",
     "word": "locomotive",
     "part_of_speech": "noun",
@@ -1950,27 +2000,27 @@
     ]
   },
   {
-    "id": "navigate",
-    "word": "navigate",
+    "id": "trek",
+    "word": "trek",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'nævigeit/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=navigate&type=2",
-    "definition_en": "v. act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance\\nv. direct carefully and safely",
-    "definition_zh": "vi. 航行； vt. 航行于, 驾驶, 操纵, 使通过",
-    "frq": 6416,
-    "composite_rank": 10035,
-    "badge": "normal",
+    "phonetic": "/trek/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=trek&type=2",
+    "definition_en": "n. a journey by ox wagon (especially an organized migration by a group of settlers)\\nn. any long and difficult trip\\nv. journey on foot, especially in the mountains\\nv. make a long and difficult journey",
+    "definition_zh": "vi. 牛拉货车, 艰苦跋涉； n. 牛车旅行, 艰苦跋涉",
+    "frq": 9100,
+    "composite_rank": 9937,
+    "badge": "high",
     "examples": [
       {
-        "en": "Modern navigate provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的航行为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern trek provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的牛车旅行为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional navigate significantly reduces travel times for commuters.",
-        "zh": "升级区域内的航行大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional trek significantly reduces travel times for commuters.",
+        "zh": "升级区域内的牛车旅行大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2000,27 +2050,27 @@
     ]
   },
   {
-    "id": "hiking",
-    "word": "hiking",
+    "id": "automotive",
+    "word": "automotive",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "B2",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'haikiŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=hiking&type=2",
-    "definition_en": "n a long walk usually for exercise or pleasure\\nv increase\\nv walk a long way, as for pleasure or physical exercise",
-    "definition_zh": "n. 徒步旅行",
-    "frq": 13099,
-    "composite_rank": 10479,
-    "badge": "high",
+    "phonetic": "/.ɒ:tәu'mәutiv/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=automotive&type=2",
+    "definition_en": "a. of or relating to motor vehicles\\ns. containing within itself the means of propulsion or movement",
+    "definition_zh": "a. 汽车的",
+    "frq": 8714,
+    "composite_rank": 10422,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Modern hiking provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的徒步旅行为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern automotive provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的汽车的为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional hiking significantly reduces travel times for commuters.",
-        "zh": "升级区域内的徒步旅行大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional automotive significantly reduces travel times for commuters.",
+        "zh": "升级区域内的汽车的大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2100,6 +2150,31 @@
     ]
   },
   {
+    "id": "depot",
+    "word": "depot",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'depәu/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=depot&type=2",
+    "definition_en": "n station where transport vehicles load or unload passengers or goods\\nn a depository for goods",
+    "definition_zh": "n. 停车场, 车站, 贮藏所, 仓库； 仓库, 贮存, 积存",
+    "frq": 10213,
+    "composite_rank": 12215,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern depot provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的停车场为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional depot significantly reduces travel times for commuters.",
+        "zh": "升级区域内的停车场大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
     "id": "steamer",
     "word": "steamer",
     "part_of_speech": "noun",
@@ -2150,27 +2225,77 @@
     ]
   },
   {
-    "id": "trek",
-    "word": "trek",
+    "id": "itinerary",
+    "word": "itinerary",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/trek/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=trek&type=2",
-    "definition_en": "n. a journey by ox wagon (especially an organized migration by a group of settlers)\\nn. any long and difficult trip\\nv. journey on foot, especially in the mountains\\nv. make a long and difficult journey",
-    "definition_zh": "vi. 牛拉货车, 艰苦跋涉； n. 牛车旅行, 艰苦跋涉",
-    "frq": 9100,
-    "composite_rank": 12995,
-    "badge": "high",
+    "phonetic": "/ai'tinәrәri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=itinerary&type=2",
+    "definition_en": "n an established line of travel or access\\nn a guidebook for travelers\\nn a proposed route of travel",
+    "definition_zh": "n. 旅程, 旅行指南, 游记； a. 巡回的, 旅程的",
+    "frq": 11240,
+    "composite_rank": 13443,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Modern trek provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的牛车旅行为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern itinerary provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的旅程为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional trek significantly reduces travel times for commuters.",
-        "zh": "升级区域内的牛车旅行大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional itinerary significantly reduces travel times for commuters.",
+        "zh": "升级区域内的旅程大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "beaver",
+    "word": "beaver",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'bi:vә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=beaver&type=2",
+    "definition_en": "n. the soft brown fur of the beaver\\nn. a full beard\\nn. a movable piece of armor on a medieval helmet used to protect the lower face\\nn. a hat made with the fur of a beaver (or similar material)",
+    "definition_zh": "n. 海狸(毛皮)； 轻型及中型飞机加油",
+    "frq": 11726,
+    "composite_rank": 14024,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern beaver provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的海狸为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional beaver significantly reduces travel times for commuters.",
+        "zh": "升级区域内的海狸大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "shortcut",
+    "word": "shortcut",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'ʃɒ:tkʌt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shortcut&type=2",
+    "definition_en": "n. a route shorter than the usual one",
+    "definition_zh": "n. 捷径, 最短路线； 快捷方式",
+    "frq": 11087,
+    "composite_rank": 14413,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern shortcut provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的捷径为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional shortcut significantly reduces travel times for commuters.",
+        "zh": "升级区域内的捷径大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2196,6 +2321,31 @@
       {
         "en": "Upgrading regional sightseeing significantly reduces travel times for commuters.",
         "zh": "升级区域内的观光大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "safari",
+    "word": "safari",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/sә'fɑ:ri/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=safari&type=2",
+    "definition_en": "n an overland journey by hunters (especially in Africa)",
+    "definition_zh": "n. 旅行, 旅行队, 科学考察",
+    "frq": 13813,
+    "composite_rank": 15084,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern safari provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的旅行为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional safari significantly reduces travel times for commuters.",
+        "zh": "升级区域内的旅行大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2250,27 +2400,102 @@
     ]
   },
   {
-    "id": "depot",
-    "word": "depot",
+    "id": "ply",
+    "word": "ply",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'depәu/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=depot&type=2",
-    "definition_en": "n station where transport vehicles load or unload passengers or goods\\nn a depository for goods",
-    "definition_zh": "n. 停车场, 车站, 贮藏所, 仓库； 仓库, 贮存, 积存",
-    "frq": 10213,
-    "composite_rank": 15973,
+    "phonetic": "/plai/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ply&type=2",
+    "definition_en": "n. one of the strands twisted together to make yarn or rope or thread; often used in combination\\nn. (usually in combinations) one of several layers of cloth or paper or wood as in plywood\\nv. apply oneself diligently\\nv. travel a route regularly",
+    "definition_zh": "n. 厚度, 板层； vt. 使用, 使劲挥舞, 从事, 折, 弯； vi. 辛勤工作, 定期航行",
+    "frq": 13164,
+    "composite_rank": 15744,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern depot provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的停车场为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern ply provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的厚度为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional depot significantly reduces travel times for commuters.",
-        "zh": "升级区域内的停车场大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional ply significantly reduces travel times for commuters.",
+        "zh": "升级区域内的厚度大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "casing",
+    "word": "casing",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'keisiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=casing&type=2",
+    "definition_en": "n. the outermost covering of a pneumatic tire\\nn. the enclosing frame around a door or window opening",
+    "definition_zh": "n. 箱, 盒, 包装, 框, 套管； 汽车外胎",
+    "frq": 12258,
+    "composite_rank": 15935,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern casing provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的箱为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional casing significantly reduces travel times for commuters.",
+        "zh": "升级区域内的箱大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "honk",
+    "word": "honk",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/hɒŋk/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=honk&type=2",
+    "definition_en": "n. the cry of a goose (or any sound resembling this)\\nv. make a loud noise\\nv. use the horn of a car",
+    "definition_zh": "n. 雁鸣, 汽车的喇叭声； vi. 雁鸣叫, 按汽车喇叭； vt. 揿(喇叭)",
+    "frq": 12629,
+    "composite_rank": 16418,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern honk provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的雁鸣为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional honk significantly reduces travel times for commuters.",
+        "zh": "升级区域内的雁鸣大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "hiking",
+    "word": "hiking",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'haikiŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hiking&type=2",
+    "definition_en": "n a long walk usually for exercise or pleasure\\nv increase\\nv walk a long way, as for pleasure or physical exercise",
+    "definition_zh": "n. 徒步旅行",
+    "frq": 13099,
+    "composite_rank": 17029,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern hiking provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的徒步旅行为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional hiking significantly reduces travel times for commuters.",
+        "zh": "升级区域内的徒步旅行大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2325,77 +2550,52 @@
     ]
   },
   {
-    "id": "itinerary",
-    "word": "itinerary",
+    "id": "convertible",
+    "word": "convertible",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "C2",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/ai'tinәrәri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=itinerary&type=2",
-    "definition_en": "n an established line of travel or access\\nn a guidebook for travelers\\nn a proposed route of travel",
-    "definition_zh": "n. 旅程, 旅行指南, 游记； a. 巡回的, 旅程的",
-    "frq": 11240,
-    "composite_rank": 17579,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern itinerary provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的旅程为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional itinerary significantly reduces travel times for commuters.",
-        "zh": "升级区域内的旅程大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "beaver",
-    "word": "beaver",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'bi:vә/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=beaver&type=2",
-    "definition_en": "n. the soft brown fur of the beaver\\nn. a full beard\\nn. a movable piece of armor on a medieval helmet used to protect the lower face\\nn. a hat made with the fur of a beaver (or similar material)",
-    "definition_zh": "n. 海狸(毛皮)； 轻型及中型飞机加油",
-    "frq": 11726,
-    "composite_rank": 18339,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern beaver provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的海狸为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional beaver significantly reduces travel times for commuters.",
-        "zh": "升级区域内的海狸大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "safari",
-    "word": "safari",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/sә'fɑ:ri/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=safari&type=2",
-    "definition_en": "n an overland journey by hunters (especially in Africa)",
-    "definition_zh": "n. 旅行, 旅行队, 科学考察",
-    "frq": 13813,
-    "composite_rank": 19725,
+    "phonetic": "/kәn'vә:tәbl/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=convertible&type=2",
+    "definition_en": "n. a car that has top that can be folded or removed\\nn. a corporate security (usually bonds or preferred stock) that can be exchanged for another form of security (usually common stock)\\nn. a sofa that can be converted into a bed\\na. capable of being exchanged for or replaced by something of equal value",
+    "definition_zh": "a. 可改变的, 可交换的； n. 有活动篷的汽车",
+    "frq": 10346,
+    "composite_rank": 19119,
     "badge": "high",
     "examples": [
       {
-        "en": "Modern safari provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的旅行为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern convertible provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的有活动篷的汽车为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional safari significantly reduces travel times for commuters.",
-        "zh": "升级区域内的旅行大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional convertible significantly reduces travel times for commuters.",
+        "zh": "升级区域内的有活动篷的汽车大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "limousine",
+    "word": "limousine",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'limәzi:n/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=limousine&type=2",
+    "definition_en": "n. large luxurious car; usually driven by a chauffeur",
+    "definition_zh": "n. 轿车",
+    "frq": 9586,
+    "composite_rank": 19402,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern limousine provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的轿车为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional limousine significantly reduces travel times for commuters.",
+        "zh": "升级区域内的轿车大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2425,6 +2625,31 @@
     ]
   },
   {
+    "id": "aeroplane",
+    "word": "aeroplane",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'єәrәplein/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=aeroplane&type=2",
+    "definition_en": "n an aircraft that has a fixed wing and is powered by propellers or jets",
+    "definition_zh": "n. 飞机； 飞机",
+    "frq": 30278,
+    "composite_rank": 20347,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern aeroplane provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的飞机为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional aeroplane significantly reduces travel times for commuters.",
+        "zh": "升级区域内的飞机大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
     "id": "motorbike",
     "word": "motorbike",
     "part_of_speech": "noun",
@@ -2450,52 +2675,77 @@
     ]
   },
   {
-    "id": "honk",
-    "word": "honk",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/hɒŋk/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=honk&type=2",
-    "definition_en": "n. the cry of a goose (or any sound resembling this)\\nv. make a loud noise\\nv. use the horn of a car",
-    "definition_zh": "n. 雁鸣, 汽车的喇叭声； vi. 雁鸣叫, 按汽车喇叭； vt. 揿(喇叭)",
-    "frq": 12629,
-    "composite_rank": 21469,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern honk provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的雁鸣为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional honk significantly reduces travel times for commuters.",
-        "zh": "升级区域内的雁鸣大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "steamship",
-    "word": "steamship",
+    "id": "walkabout",
+    "word": "walkabout",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'sti:mʃip/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=steamship&type=2",
-    "definition_en": "n a ship powered by one or more steam engines",
-    "definition_zh": "n. 汽船, 轮船",
-    "frq": 22090,
-    "composite_rank": 22090,
+    "phonetic": "/'wɔ:kәbajt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=walkabout&type=2",
+    "definition_en": "n. a walking trip or tour\\nn. a public stroll by a celebrity to meet people informally\\nn. nomadic excursions into the bush made by an Aborigine",
+    "definition_zh": "n. 徒步旅行",
+    "frq": 21261,
+    "composite_rank": 21261,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern steamship provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的汽船为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern walkabout provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的徒步旅行为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional steamship significantly reduces travel times for commuters.",
-        "zh": "升级区域内的汽船大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional walkabout significantly reduces travel times for commuters.",
+        "zh": "升级区域内的徒步旅行大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "hardliner",
+    "word": "hardliner",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ˌhɑ:d'laɪnə(r)/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hardliner&type=2",
+    "definition_en": "n. a conservative who is uncompromising",
+    "definition_zh": "n. 强硬路线者",
+    "frq": 26056,
+    "composite_rank": 21887,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern hardliner provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的强硬路线者为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional hardliner significantly reduces travel times for commuters.",
+        "zh": "升级区域内的强硬路线者大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "drone",
+    "word": "drone",
+    "part_of_speech": "noun",
+    "level": "C2",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/drәun/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=drone&type=2",
+    "definition_en": "n. stingless male bee in a colony of social bees (especially honeybees) whose sole function is to mate with the queen\\nn. an aircraft without a pilot that is operated by remote control\\nn. a pipe of the bagpipe that is tuned to produce a single continuous tone\\nv. make a monotonous low dull sound",
+    "definition_zh": "n. 雄蜂, 懒惰者, 嗡嗡的声音, 无人驾驶飞机(或船)； vi. 嗡嗡作声, 混日子； vt. 低沉地说",
+    "frq": 11442,
+    "composite_rank": 23159,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern drone provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的雄蜂为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional drone significantly reduces travel times for commuters.",
+        "zh": "升级区域内的雄蜂大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2525,52 +2775,27 @@
     ]
   },
   {
-    "id": "backpacking",
-    "word": "backpacking",
+    "id": "hangar",
+    "word": "hangar",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "C2",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'bæk,pækɪŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=backpacking&type=2",
-    "definition_en": "n carrying something in a pack on the back\\nv hike with a backpack",
-    "definition_zh": "n. 徒步旅行",
-    "frq": 25154,
-    "composite_rank": 25154,
+    "phonetic": "/'hæŋә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hangar&type=2",
+    "definition_en": "n a large structure at an airport where aircraft can be stored and maintained",
+    "definition_zh": "n. 棚厂, 飞机库",
+    "frq": 12040,
+    "composite_rank": 24369,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern backpacking provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的徒步旅行为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern hangar provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的棚厂为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional backpacking significantly reduces travel times for commuters.",
-        "zh": "升级区域内的徒步旅行大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "aeroplane",
-    "word": "aeroplane",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'єәrәplein/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=aeroplane&type=2",
-    "definition_en": "n an aircraft that has a fixed wing and is powered by propellers or jets",
-    "definition_zh": "n. 飞机； 飞机",
-    "frq": 30278,
-    "composite_rank": 25434,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern aeroplane provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的飞机为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional aeroplane significantly reduces travel times for commuters.",
-        "zh": "升级区域内的飞机大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional hangar significantly reduces travel times for commuters.",
+        "zh": "升级区域内的棚厂大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2600,27 +2825,27 @@
     ]
   },
   {
-    "id": "walkabout",
-    "word": "walkabout",
+    "id": "condor",
+    "word": "condor",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'wɔ:kәbajt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=walkabout&type=2",
-    "definition_en": "n. a walking trip or tour\\nn. a public stroll by a celebrity to meet people informally\\nn. nomadic excursions into the bush made by an Aborigine",
-    "definition_zh": "n. 徒步旅行",
-    "frq": 21261,
-    "composite_rank": 27639,
+    "phonetic": "/'kɒndɒ:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=condor&type=2",
+    "definition_en": "n. the largest flying birds in the western hemisphere",
+    "definition_zh": "n. 神鹰； 一种等幅航行系统",
+    "frq": 16894,
+    "composite_rank": 26422,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern walkabout provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的徒步旅行为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern condor provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的神鹰为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional walkabout significantly reduces travel times for commuters.",
-        "zh": "升级区域内的徒步旅行大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional condor significantly reduces travel times for commuters.",
+        "zh": "升级区域内的神鹰大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2675,77 +2900,27 @@
     ]
   },
   {
-    "id": "airplanes",
-    "word": "airplanes",
+    "id": "autopilot",
+    "word": "autopilot",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/ˈɛəpleinz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=airplanes&type=2",
-    "definition_en": "n. an aircraft that has a fixed wing and is powered by propellers or jets",
-    "definition_zh": "n. <美>飞机( airplane的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
+    "phonetic": "/'ɔ:tәpailәt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=autopilot&type=2",
+    "definition_en": "n. a navigational device that automatically keeps ships or planes or spacecraft on a steady course",
+    "definition_zh": "自动驾驶仪",
+    "frq": 18668,
+    "composite_rank": 31736,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Modern airplanes provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的美飞机为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern autopilot provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的自动驾驶仪为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional airplanes significantly reduces travel times for commuters.",
-        "zh": "升级区域内的美飞机大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "airports",
-    "word": "airports",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'eəpɔ:ts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=airports&type=2",
-    "definition_en": "n. an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
-    "definition_zh": "n. 航空站, 机场, 航空港( airport的复数形式 )",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern airports provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的航空站为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional airports significantly reduces travel times for commuters.",
-        "zh": "升级区域内的航空站大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "buses",
-    "word": "buses",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/buses/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=buses&type=2",
-    "definition_en": "n a vehicle carrying many passengers; used for public transport\\nn the topology of a network whose components are connected by a busbar\\nn an electrical conductor that makes a common connection between several circuits\\nn a car that is old and unreliable\\nv send or move around by bus\\nv ride in a bus\\nv remove used dishes from the table in restaurants",
-    "definition_zh": "n. 公共汽车（bus的复数形式）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern buses provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的公共汽车为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional buses significantly reduces travel times for commuters.",
-        "zh": "升级区域内的公共汽车大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional autopilot significantly reduces travel times for commuters.",
+        "zh": "升级区域内的自动驾驶仪大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2775,27 +2950,27 @@
     ]
   },
   {
-    "id": "carpool",
-    "word": "carpool",
+    "id": "steamship",
+    "word": "steamship",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "C1",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'kɑ:pu:l/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=carpool&type=2",
-    "definition_en": "",
-    "definition_zh": "v. 合伙使用汽车",
-    "frq": 26276,
-    "composite_rank": 34159,
+    "phonetic": "/'sti:mʃip/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=steamship&type=2",
+    "definition_en": "n a ship powered by one or more steam engines",
+    "definition_zh": "n. 汽船, 轮船",
+    "frq": 22090,
+    "composite_rank": 37553,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern carpool provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的合伙使用汽车为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern steamship provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的汽船为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional carpool significantly reduces travel times for commuters.",
-        "zh": "升级区域内的合伙使用汽车大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional steamship significantly reduces travel times for commuters.",
+        "zh": "升级区域内的汽船大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2825,127 +3000,152 @@
     ]
   },
   {
-    "id": "communications",
-    "word": "communications",
+    "id": "ford",
+    "word": "ford",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/kәmju:ni'keiʃ(ә)nz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=communications&type=2",
-    "definition_en": "n. the discipline that studies the principles of transmiting information and the methods by which it is delivered (as print or radio or television etc.)",
-    "definition_zh": "n. 交通设施, 通讯系统",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern communications provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的交通设施为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional communications significantly reduces travel times for commuters.",
-        "zh": "升级区域内的交通设施大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "highways",
-    "word": "highways",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/highways/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=highways&type=2",
-    "definition_en": "n a major road for any form of motor transport",
-    "definition_zh": "n. 公路；高速公路（highway的复数）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern highways provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的公路为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional highways significantly reduces travel times for commuters.",
-        "zh": "升级区域内的公路大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "pilots",
-    "word": "pilots",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/pilots/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=pilots&type=2",
-    "definition_en": "n someone who is licensed to operate an aircraft in flight\\nn a person qualified to guide ships through difficult waters going into or out of a harbor\\nn a program exemplifying a contemplated series; intended to attract sponsors\\nn something that serves as a model or a basis for making copies\\nn small auxiliary gas burner that provides a flame to ignite a larger gas burner\\nn an inclined metal frame at the front of a locomotive to clear the track\\nv operate an airplane\\nv act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance",
-    "definition_zh": "n. 飞行员；向导；试播节目；自动驾驶仪（pilot的复数）",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern pilots provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的飞行员为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional pilots significantly reduces travel times for commuters.",
-        "zh": "升级区域内的飞行员大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "travellers",
-    "word": "travellers",
-    "part_of_speech": "noun",
-    "level": "A2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/ˈtrævələz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=travellers&type=2",
-    "definition_en": "n. a person who changes location",
-    "definition_zh": "n. 旅行者（ traveller的复数形式 ）; 旅游者; 旅客; 游客",
-    "frq": 50000,
-    "composite_rank": 40000,
-    "badge": "high",
-    "examples": [
-      {
-        "en": "Modern travellers provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的旅行者为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional travellers significantly reduces travel times for commuters.",
-        "zh": "升级区域内的旅行者大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "autopilot",
-    "word": "autopilot",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'ɔ:tәpailәt/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=autopilot&type=2",
-    "definition_en": "n. a navigational device that automatically keeps ships or planes or spacecraft on a steady course",
-    "definition_zh": "自动驾驶仪",
-    "frq": 18668,
-    "composite_rank": 41070,
+    "phonetic": "/fɒ:d/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ford&type=2",
+    "definition_en": "n. United States film maker (1896-1973)\\nn. grandson of Henry Ford (1917-1987)\\nn. son of Henry Ford (1893-1943)\\nn. English writer and editor (1873-1939)",
+    "definition_zh": "n. 浅滩, 福特汽车； v. 涉过, 涉水",
+    "frq": 25884,
+    "composite_rank": 40483,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern autopilot provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的自动驾驶仪为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern ford provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的浅滩为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional autopilot significantly reduces travel times for commuters.",
-        "zh": "升级区域内的自动驾驶仪大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional ford significantly reduces travel times for commuters.",
+        "zh": "升级区域内的浅滩大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "hard-line",
+    "word": "hard-line",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/hard-line/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=hard-line&type=2",
+    "definition_en": "s firm and uncompromising",
+    "definition_zh": "主张强硬路线者",
+    "frq": 50000,
+    "composite_rank": 42000,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern hard-line provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的主张强硬路线者为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional hard-line significantly reduces travel times for commuters.",
+        "zh": "升级区域内的主张强硬路线者大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "backpacking",
+    "word": "backpacking",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'bæk,pækɪŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=backpacking&type=2",
+    "definition_en": "n carrying something in a pack on the back\\nv hike with a backpack",
+    "definition_zh": "n. 徒步旅行",
+    "frq": 25154,
+    "composite_rank": 42762,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern backpacking provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的徒步旅行为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional backpacking significantly reduces travel times for commuters.",
+        "zh": "升级区域内的徒步旅行大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "carpool",
+    "word": "carpool",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/'kɑ:pu:l/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=carpool&type=2",
+    "definition_en": "",
+    "definition_zh": "v. 合伙使用汽车",
+    "frq": 26276,
+    "composite_rank": 44669,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern carpool provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的合伙使用汽车为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional carpool significantly reduces travel times for commuters.",
+        "zh": "升级区域内的合伙使用汽车大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "circumnavigate",
+    "word": "circumnavigate",
+    "part_of_speech": "noun",
+    "level": "C1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/.sә:kәm'nævigeit/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=circumnavigate&type=2",
+    "definition_en": "v. travel around, either by plane or ship",
+    "definition_zh": "vt. 环绕航行",
+    "frq": 27902,
+    "composite_rank": 47433,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern circumnavigate provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的环绕航行为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional circumnavigate significantly reduces travel times for commuters.",
+        "zh": "升级区域内的环绕航行大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "distributors",
+    "word": "distributors",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/dɪst'rɪbju:təz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=distributors&type=2",
+    "definition_en": "n. someone who markets merchandise\\nn. a person with authority to allot or deal out or apportion\\nn. a company that markets merchandise",
+    "definition_zh": "n. 批发公司, 批发商( distributor的复数形式 ); （汽车上的）配电器",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern distributors provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的批发公司为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional distributors significantly reduces travel times for commuters.",
+        "zh": "升级区域内的批发公司大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -2975,27 +3175,52 @@
     ]
   },
   {
-    "id": "motors",
-    "word": "motors",
+    "id": "highways",
+    "word": "highways",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/motors/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=motors&type=2",
-    "definition_en": "n machine that converts other forms of energy into mechanical energy and so imparts motion\\nn a nonspecific agent that imparts motion\\nv travel or be transported in a vehicle",
-    "definition_zh": "n. 汽车公司证券；汽车；发动机（motor的复数）",
+    "phonetic": "/highways/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=highways&type=2",
+    "definition_en": "n a major road for any form of motor transport",
+    "definition_zh": "n. 公路；高速公路（highway的复数）",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern motors provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的汽车公司证券为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern highways provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的公路为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional motors significantly reduces travel times for commuters.",
-        "zh": "升级区域内的汽车公司证券大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional highways significantly reduces travel times for commuters.",
+        "zh": "升级区域内的公路大幅缩短了通勤者的出行时间。"
+      }
+    ]
+  },
+  {
+    "id": "inspectors",
+    "word": "inspectors",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "旅行出行、交通工具与路径",
+    "category": "travel_transport",
+    "phonetic": "/ɪnˈspektəz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=inspectors&type=2",
+    "definition_en": "n. a high ranking police officer\\nn. an investigator who observes carefully",
+    "definition_zh": "n. 检查员( inspector的复数形式 ); （英国公共汽车或火车上的）查票员; （警察）巡官; 检阅官",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern inspectors provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的检查员为市民在大都市范围内的顺畅出行提供了便利。"
+      },
+      {
+        "en": "Upgrading regional inspectors significantly reduces travel times for commuters.",
+        "zh": "升级区域内的检查员大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -3075,27 +3300,27 @@
     ]
   },
   {
-    "id": "railways",
-    "word": "railways",
+    "id": "sailed",
+    "word": "sailed",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/'reɪlweɪz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=railways&type=2",
-    "definition_en": "n. line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight\\nn. a line of track providing a runway for wheels",
-    "definition_zh": "n. 铁路, 铁道( railway的复数形式 ); 铁路系统",
+    "phonetic": "/seild/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sailed&type=2",
+    "definition_en": "imp. & p. p. of Sail",
+    "definition_zh": "v. 驾驶( sail的过去式和过去分词 ); 起航; 坐船旅行; 掠",
     "frq": 50000,
     "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern railways provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的铁路为市民在大都市范围内的顺畅出行提供了便利。"
+        "en": "Modern sailed provides citizens with smooth transit across the metropolitan area.",
+        "zh": "现代化的驾驶为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional railways significantly reduces travel times for commuters.",
-        "zh": "升级区域内的铁路大幅缩短了通勤者的出行时间。"
+        "en": "Upgrading regional sailed significantly reduces travel times for commuters.",
+        "zh": "升级区域内的驾驶大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -3125,31 +3350,6 @@
     ]
   },
   {
-    "id": "steamers",
-    "word": "steamers",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/s'ti:məz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=steamers&type=2",
-    "definition_en": "n. a clam that is usually steamed in the shell\\nn. a cooking utensil that can be used to cook food by steaming it\\nn. a ship powered by one or more steam engines",
-    "definition_zh": "abbr. steamed clams 汽船, 蒸汽机； n. 汽船( steamer的复数形式 ); 大轮船; 汽锅; 蒸锅",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern steamers provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的汽船为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional steamers significantly reduces travel times for commuters.",
-        "zh": "升级区域内的汽船大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
     "id": "tents",
     "word": "tents",
     "part_of_speech": "noun",
@@ -3171,31 +3371,6 @@
       {
         "en": "Upgrading regional tents significantly reduces travel times for commuters.",
         "zh": "升级区域内的旅游帐篷大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "vehicles",
-    "word": "vehicles",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/vehicles/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=vehicles&type=2",
-    "definition_en": "n a conveyance that transports people or objects\\nn a medium for the expression or achievement of something\\nn any substance that facilitates the use of a drug or pigment or other material that is mixed with it\\nn any inanimate object (as a towel or money or clothing or dishes or books or toys etc.) that can transmit infectious agents from one person to another",
-    "definition_zh": "n. 交通工具；车辆（vehicle的复数形式）",
-    "frq": 50000,
-    "composite_rank": 50000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern vehicles provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的交通工具为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional vehicles significantly reduces travel times for commuters.",
-        "zh": "升级区域内的交通工具大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -3225,102 +3400,27 @@
     ]
   },
   {
-    "id": "circumnavigate",
-    "word": "circumnavigate",
+    "id": "circumnavigation",
+    "word": "circumnavigation",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "旅行出行、交通工具与路径",
     "category": "travel_transport",
-    "phonetic": "/.sә:kәm'nævigeit/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=circumnavigate&type=2",
-    "definition_en": "v. travel around, either by plane or ship",
-    "definition_zh": "vt. 环绕航行",
-    "frq": 27902,
-    "composite_rank": 61384,
+    "phonetic": "/circumnavigation/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=circumnavigation&type=2",
+    "definition_en": "n. traveling around something (by ship or plane)",
+    "definition_zh": "n. 环绕航行",
+    "frq": 34465,
+    "composite_rank": 58590,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern circumnavigate provides citizens with smooth transit across the metropolitan area.",
+        "en": "Modern circumnavigation provides citizens with smooth transit across the metropolitan area.",
         "zh": "现代化的环绕航行为市民在大都市范围内的顺畅出行提供了便利。"
       },
       {
-        "en": "Upgrading regional circumnavigate significantly reduces travel times for commuters.",
+        "en": "Upgrading regional circumnavigation significantly reduces travel times for commuters.",
         "zh": "升级区域内的环绕航行大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "distributors",
-    "word": "distributors",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/dɪst'rɪbju:təz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=distributors&type=2",
-    "definition_en": "n. someone who markets merchandise\\nn. a person with authority to allot or deal out or apportion\\nn. a company that markets merchandise",
-    "definition_zh": "n. 批发公司, 批发商( distributor的复数形式 ); （汽车上的）配电器",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern distributors provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的批发公司为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional distributors significantly reduces travel times for commuters.",
-        "zh": "升级区域内的批发公司大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "inspectors",
-    "word": "inspectors",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/ɪnˈspektəz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=inspectors&type=2",
-    "definition_en": "n. a high ranking police officer\\nn. an investigator who observes carefully",
-    "definition_zh": "n. 检查员( inspector的复数形式 ); （英国公共汽车或火车上的）查票员; （警察）巡官; 检阅官",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern inspectors provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的检查员为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional inspectors significantly reduces travel times for commuters.",
-        "zh": "升级区域内的检查员大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "sailed",
-    "word": "sailed",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/seild/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sailed&type=2",
-    "definition_en": "imp. & p. p. of Sail",
-    "definition_zh": "v. 驾驶( sail的过去式和过去分词 ); 起航; 坐船旅行; 掠",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern sailed provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的驾驶为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional sailed significantly reduces travel times for commuters.",
-        "zh": "升级区域内的驾驶大幅缩短了通勤者的出行时间。"
       }
     ]
   },
@@ -3346,156 +3446,6 @@
       {
         "en": "Upgrading regional docilely significantly reduces travel times for commuters.",
         "zh": "升级区域内的容易教地大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "circumnavigation",
-    "word": "circumnavigation",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/circumnavigation/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=circumnavigation&type=2",
-    "definition_en": "n. traveling around something (by ship or plane)",
-    "definition_zh": "n. 环绕航行",
-    "frq": 34465,
-    "composite_rank": 75823,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern circumnavigation provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的环绕航行为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional circumnavigation significantly reduces travel times for commuters.",
-        "zh": "升级区域内的环绕航行大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "passengers",
-    "word": "passengers",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'pæsndʒɚ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=passengers&type=2",
-    "definition_en": "n a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it",
-    "definition_zh": "n. 乘客( passenger的名词复数 ); 旅客; 白吃饭的人; 闲散人员",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern passengers provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的乘客为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional passengers significantly reduces travel times for commuters.",
-        "zh": "升级区域内的乘客大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "stations",
-    "word": "stations",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/stations/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=stations&type=2",
-    "definition_en": "n. (Roman Catholic Church) a devotion consisting of fourteen prayers said before a series of fourteen pictures or carvings representing successive incidents during Jesus' passage from Pilate's house to his crucifixion at Calvary",
-    "definition_zh": "n. 车站；驻地；位置（station的复数形式）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern stations provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的车站为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional stations significantly reduces travel times for commuters.",
-        "zh": "升级区域内的车站大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "tourists",
-    "word": "tourists",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/'tʊərɪsts/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=tourists&type=2",
-    "definition_en": "n someone who travels for pleasure",
-    "definition_zh": "n. 旅行者, 观光客( tourist的名词复数 )",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern tourists provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的旅行者为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional tourists significantly reduces travel times for commuters.",
-        "zh": "升级区域内的旅行者大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "travelers",
-    "word": "travelers",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/travelers/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=travelers&type=2",
-    "definition_en": "n a person who changes location",
-    "definition_zh": "n. 旅行者；旅客（traveler的复数形式）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern travelers provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的旅行者为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional travelers significantly reduces travel times for commuters.",
-        "zh": "升级区域内的旅行者大幅缩短了通勤者的出行时间。"
-      }
-    ]
-  },
-  {
-    "id": "visitors",
-    "word": "visitors",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "旅行出行、交通工具与路径",
-    "category": "travel_transport",
-    "phonetic": "/visitors/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=visitors&type=2",
-    "definition_en": "n someone who visits",
-    "definition_zh": "n. 访问者, 游客（visitor 复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern visitors provides citizens with smooth transit across the metropolitan area.",
-        "zh": "现代化的访问者为市民在大都市范围内的顺畅出行提供了便利。"
-      },
-      {
-        "en": "Upgrading regional visitors significantly reduces travel times for commuters.",
-        "zh": "升级区域内的访问者大幅缩短了通勤者的出行时间。"
       }
     ]
   }

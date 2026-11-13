@@ -250,6 +250,31 @@
     ]
   },
   {
+    "id": "chip",
+    "word": "chip",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/tʃip/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=chip&type=2",
+    "definition_en": "n. a triangular wooden float attached to the end of a log line\\nn. a piece of dried bovine dung\\nn. a thin crisp slice of potato fried in deep fat\\nn. a small disk-shaped counter used to represent money when gambling",
+    "definition_zh": "n. 屑片, 薄片, 碎片； vt. 削, 切, 削成碎片, 使摔倒, 凿； vi. 削下屑片； 孔屑; 组件; 晶片; 芯片",
+    "frq": 2159,
+    "composite_rank": 919,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize chip to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用屑片来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in chip pave the way for next-generation innovations.",
+        "zh": "屑片领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
     "id": "attach",
     "word": "attach",
     "part_of_speech": "noun",
@@ -271,31 +296,6 @@
       {
         "en": "Cutting-edge developments in attach pave the way for next-generation innovations.",
         "zh": "附上领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
-    "id": "chip",
-    "word": "chip",
-    "part_of_speech": "noun",
-    "level": "B1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/tʃip/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=chip&type=2",
-    "definition_en": "n. a triangular wooden float attached to the end of a log line\\nn. a piece of dried bovine dung\\nn. a thin crisp slice of potato fried in deep fat\\nn. a small disk-shaped counter used to represent money when gambling",
-    "definition_zh": "n. 屑片, 薄片, 碎片； vt. 削, 切, 削成碎片, 使摔倒, 凿； vi. 削下屑片； 孔屑; 组件; 晶片; 芯片",
-    "frq": 2159,
-    "composite_rank": 1149,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize chip to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用屑片来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in chip pave the way for next-generation innovations.",
-        "zh": "屑片领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
@@ -350,6 +350,31 @@
     ]
   },
   {
+    "id": "dna",
+    "word": "dna",
+    "part_of_speech": "noun",
+    "level": "A2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/dna/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dna&type=2",
+    "definition_en": "n (biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information",
+    "definition_zh": "脱氧核糖核酸； 无效数据, 数字网络体系结构, 分布式网络体系结构",
+    "frq": 2829,
+    "composite_rank": 1901,
+    "badge": "core",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize dna to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用脱氧核糖核酸来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in dna pave the way for next-generation innovations.",
+        "zh": "脱氧核糖核酸领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
     "id": "pc",
     "word": "pc",
     "part_of_speech": "noun",
@@ -375,27 +400,27 @@
     ]
   },
   {
-    "id": "dna",
-    "word": "dna",
+    "id": "ai",
+    "word": "ai",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/dna/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dna&type=2",
-    "definition_en": "n (biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information",
-    "definition_zh": "脱氧核糖核酸； 无效数据, 数字网络体系结构, 分布式网络体系结构",
-    "frq": 2829,
-    "composite_rank": 3089,
-    "badge": "high",
+    "phonetic": "/ai/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ai&type=2",
+    "definition_en": "n an agency of the United States Army responsible for providing timely and relevant and accurate and synchronized intelligence to tactical and operational and strategic level commanders\\nn the branch of computer science that deal with writing computer programs that can solve problems creatively\\nn a sloth that has three long claws on each forefoot and each hindfoot\\nn the introduction of semen into the oviduct or uterus by some means other than sexual intercourse",
+    "definition_zh": "附加信息, 人工智能； 人工智能",
+    "frq": 2413,
+    "composite_rank": 2413,
+    "badge": "core",
     "examples": [
       {
-        "en": "Modern computing platforms utilize dna to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用脱氧核糖核酸来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize ai to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用附加信息来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in dna pave the way for next-generation innovations.",
-        "zh": "脱氧核糖核酸领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in ai pave the way for next-generation innovations.",
+        "zh": "附加信息领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
@@ -403,7 +428,7 @@
     "id": "database",
     "word": "database",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/'deitәbeis/",
@@ -411,7 +436,7 @@
     "definition_en": "n. an organized body of related information",
     "definition_zh": "n. 数据库； 数据库",
     "frq": 3638,
-    "composite_rank": 3347,
+    "composite_rank": 2678,
     "badge": "high",
     "examples": [
       {
@@ -428,7 +453,7 @@
     "id": "scan",
     "word": "scan",
     "part_of_speech": "noun",
-    "level": "B1",
+    "level": "A2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
     "phonetic": "/skæn/",
@@ -436,7 +461,7 @@
     "definition_en": "n. the act of scanning; systematic examination of a prescribed region\\nn. an image produced by scanning\\nv. examine minutely or intensely\\nv. examine hastily",
     "definition_zh": "n. 审视, 浏览, 扫描, 细查； vt. 细看, 浏览, 扫描, 详细调查, 标出格律； vi. 押韵, 扫描； 网络软件目录, 编码与分析系统",
     "frq": 4031,
-    "composite_rank": 3386,
+    "composite_rank": 2709,
     "badge": "high",
     "examples": [
       {
@@ -450,77 +475,52 @@
     ]
   },
   {
-    "id": "dos",
-    "word": "dos",
+    "id": "vendor",
+    "word": "vendor",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/du:z/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=dos&type=2",
-    "definition_en": "n. an operating system that is on a disk",
-    "definition_zh": "磁盘操作系统； 磁盘操作系统; DOS内部命令:该命令用于将DOS核心部分装入高内存区； 且允许其设备驱动程序或常驻程序装入上层内存块",
-    "frq": 6314,
-    "composite_rank": 4104,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize dos to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用磁盘操作系统来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in dos pave the way for next-generation innovations.",
-        "zh": "磁盘操作系统领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
-    "id": "computerized",
-    "word": "computerized",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/kәm'pju:tәraizd/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=computerized&type=2",
-    "definition_en": "v provide with computers\\nv store in a computer\\nv control a function, process, or creation by a computer",
-    "definition_zh": "a. 电脑的；用电脑处理的；电脑化的",
-    "frq": 8037,
-    "composite_rank": 5224,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize computerized to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用电脑的来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in computerized pave the way for next-generation innovations.",
-        "zh": "电脑的领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
-    "id": "ai",
-    "word": "ai",
-    "part_of_speech": "noun",
-    "level": "C2",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/ai/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=ai&type=2",
-    "definition_en": "n an agency of the United States Army responsible for providing timely and relevant and accurate and synchronized intelligence to tactical and operational and strategic level commanders\\nn the branch of computer science that deal with writing computer programs that can solve problems creatively\\nn a sloth that has three long claws on each forefoot and each hindfoot\\nn the introduction of semen into the oviduct or uterus by some means other than sexual intercourse",
-    "definition_zh": "附加信息, 人工智能； 人工智能",
-    "frq": 2413,
-    "composite_rank": 5309,
+    "phonetic": "/'vendә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=vendor&type=2",
+    "definition_en": "n someone who promotes or exchanges goods or services for money",
+    "definition_zh": "n. 小贩, 卖主, 自动售货机； 计算机销售商",
+    "frq": 4625,
+    "composite_rank": 5532,
     "badge": "high",
     "examples": [
       {
-        "en": "Modern computing platforms utilize ai to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用附加信息来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize vendor to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用小贩来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in ai pave the way for next-generation innovations.",
-        "zh": "附加信息领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in vendor pave the way for next-generation innovations.",
+        "zh": "小贩领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "lp",
+    "word": "LP",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'єәl'pi:/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=lp&type=2",
+    "definition_en": "n. a long-playing phonograph record; designed to be played at 33.3 rpm",
+    "definition_zh": "n. 密纹唱片； 语言处理程序, 主程序员, 光笔, 线性协议, 表处理, 逻辑探头",
+    "frq": 6793,
+    "composite_rank": 5706,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize LP to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用密纹唱片来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in LP pave the way for next-generation innovations.",
+        "zh": "密纹唱片领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
@@ -550,6 +550,56 @@
     ]
   },
   {
+    "id": "dos",
+    "word": "dos",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/du:z/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=dos&type=2",
+    "definition_en": "n. an operating system that is on a disk",
+    "definition_zh": "磁盘操作系统； 磁盘操作系统; DOS内部命令:该命令用于将DOS核心部分装入高内存区； 且允许其设备驱动程序或常驻程序装入上层内存块",
+    "frq": 6314,
+    "composite_rank": 6314,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize dos to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用磁盘操作系统来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in dos pave the way for next-generation innovations.",
+        "zh": "磁盘操作系统领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "cia",
+    "word": "CIA",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/cia/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cia&type=2",
+    "definition_en": "n an independent agency of the United States government responsible for collecting and coordinating intelligence and counterintelligence activities abroad in the national interest; headed by the Director of Central Intelligence under the supervision of the President and National Security Council",
+    "definition_zh": "中央情报局； 中国互联网络协会",
+    "frq": 8276,
+    "composite_rank": 6952,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize CIA to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用中央情报局来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in CIA pave the way for next-generation innovations.",
+        "zh": "中央情报局领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
     "id": "blog",
     "word": "blog",
     "part_of_speech": "noun",
@@ -571,6 +621,31 @@
       {
         "en": "Cutting-edge developments in blog pave the way for next-generation innovations.",
         "zh": "博客领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "computerized",
+    "word": "computerized",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/kәm'pju:tәraizd/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=computerized&type=2",
+    "definition_en": "v provide with computers\\nv store in a computer\\nv control a function, process, or creation by a computer",
+    "definition_zh": "a. 电脑的；用电脑处理的；电脑化的",
+    "frq": 8037,
+    "composite_rank": 10448,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize computerized to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用电脑的来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in computerized pave the way for next-generation innovations.",
+        "zh": "电脑的领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
@@ -600,6 +675,106 @@
     ]
   },
   {
+    "id": "purge",
+    "word": "purge",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/pә:dʒ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=purge&type=2",
+    "definition_en": "n. the act of clearing yourself (or another) from some stigma or charge\\nn. an act of removing by cleansing; ridding of sediment or other undesired elements\\nn. an abrupt or sudden removal of a person or group from an organization or place\\nv. oust politically",
+    "definition_zh": "n. 净化, 清除, 泻药； v. (使)净化, 清除, (使)通便； 服务器文件删除实用程序",
+    "frq": 11512,
+    "composite_rank": 13768,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize purge to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用净化来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in purge pave the way for next-generation innovations.",
+        "zh": "净化领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "bliss",
+    "word": "bliss",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/blis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=bliss&type=2",
+    "definition_en": "n. a state of extreme happiness",
+    "definition_zh": "n. 福佑, 天赐的福； 实现系统软件的基本语言",
+    "frq": 11965,
+    "composite_rank": 14310,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize bliss to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用福佑来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in bliss pave the way for next-generation innovations.",
+        "zh": "福佑领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "ace",
+    "word": "ace",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/eis/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=ace&type=2",
+    "definition_en": "n. one of four playing cards in a deck having a single pip on its face\\nn. someone who is dazzlingly skilled in any field\\nn. a serve that the receiver is unable to reach\\nv. score an ace against",
+    "definition_zh": "n. 幺点, 好手, 少许, 发球得分； a. 一流的, 杰出的； 应答允许, 自适应计算机试验, 自动呼叫设备, 自动执行控制",
+    "frq": 13343,
+    "composite_rank": 14571,
+    "badge": "high",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize ace to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用幺点来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in ace pave the way for next-generation innovations.",
+        "zh": "幺点领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "microprocessor",
+    "word": "microprocessor",
+    "part_of_speech": "noun",
+    "level": "B2",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/.maikrәu'prәusesә/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=microprocessor&type=2",
+    "definition_en": "n. integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system",
+    "definition_zh": "n. 微处理器； 微处理器; 微处理机",
+    "frq": 12718,
+    "composite_rank": 15211,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize microprocessor to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用微处理器来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in microprocessor pave the way for next-generation innovations.",
+        "zh": "微处理器领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
     "id": "spreadsheet",
     "word": "spreadsheet",
     "part_of_speech": "noun",
@@ -625,52 +800,52 @@
     ]
   },
   {
-    "id": "nos",
-    "word": "nos",
+    "id": "sap",
+    "word": "sap",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/nos/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=nos&type=2",
-    "definition_en": "n a negative\\nn a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known",
-    "definition_zh": "网络操作系统",
-    "frq": 28215,
-    "composite_rank": 18340,
-    "badge": "core",
+    "phonetic": "/sæp/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=sap&type=2",
+    "definition_en": "n. a watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant\\nv. excavate the earth beneath",
+    "definition_zh": "n. 树液, 体液, 活力, 坑道, 消弱, 警棍； vt. 使排出体液, 使伤元气, 使衰竭, 挖坑道逼近, 逐渐侵蚀； vi. 挖坑道, 消弱； 共享汇编程序, 结构分析程序, 符号汇编程序, 服务器广告协议",
+    "frq": 14653,
+    "composite_rank": 17525,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Modern computing platforms utilize nos to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用网络操作系统来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize sap to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用树液来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in nos pave the way for next-generation innovations.",
-        "zh": "网络操作系统领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in sap pave the way for next-generation innovations.",
+        "zh": "树液领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
   {
-    "id": "bliss",
-    "word": "bliss",
+    "id": "pivot",
+    "word": "pivot",
     "part_of_speech": "noun",
-    "level": "C1",
+    "level": "B2",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/blis/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=bliss&type=2",
-    "definition_en": "n. a state of extreme happiness",
-    "definition_zh": "n. 福佑, 天赐的福； 实现系统软件的基本语言",
-    "frq": 11965,
-    "composite_rank": 18713,
+    "phonetic": "/'pivәt/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=pivot&type=2",
+    "definition_en": "n. the person in a rank around whom the others wheel and maneuver\\nn. axis consisting of a short shaft that supports something that turns\\nn. the act of turning on (or as if on) a pivot\\nv. turn on a pivot",
+    "definition_zh": "n. 枢轴, 支点, 旋转运动, 中枢, 关键人物； a. 枢轴的, (如)在枢轴上转动的； vi. 在枢轴上转动, 随着转移； vt. 装枢轴于, 以...为中心旋转； 程序员交互验证和编制工具, 数据透视表",
+    "frq": 15361,
+    "composite_rank": 18372,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern computing platforms utilize bliss to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用福佑来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize pivot to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用枢轴来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in bliss pave the way for next-generation innovations.",
-        "zh": "福佑领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in pivot pave the way for next-generation innovations.",
+        "zh": "枢轴领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
@@ -725,31 +900,6 @@
     ]
   },
   {
-    "id": "cs",
-    "word": "cs",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/'si:,es/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cs&type=2",
-    "definition_en": "n a soft silver-white ductile metallic element (liquid at normal temperatures); the most electropositive and alkaline metal\\nn a degree on the centigrade scale of temperature\\nn the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second\\nn a vitamin found in fresh fruits (especially citrus fruits) and vegetables; prevents scurvy\\nn one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)\\nn a base found in DNA and RNA and derived from pyrimidine; pairs with guanine\\nn an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds\\nn ten 10s\\nn a unit of electrical charge equal to the amount of charge transferred by a current of 1 ampere in 1 second\\nn a general-purpose programing language closely associated with the UNIX operating system\\nn (music) the keynote of the scale of C major\\nn the 3rd letter of the Roman alphabet\\nn street names for cocaine",
-    "definition_zh": "文职人员, 行政机构； 通道状态, 通信仿真器, 公用源, 计算机软件",
-    "frq": 34015,
-    "composite_rank": 22110,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize cs to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用文职人员来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in cs pave the way for next-generation innovations.",
-        "zh": "文职人员领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
     "id": "microcomputer",
     "word": "microcomputer",
     "part_of_speech": "noun",
@@ -775,52 +925,27 @@
     ]
   },
   {
-    "id": "sap",
-    "word": "sap",
-    "part_of_speech": "noun",
-    "level": "C1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/sæp/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=sap&type=2",
-    "definition_en": "n. a watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant\\nv. excavate the earth beneath",
-    "definition_zh": "n. 树液, 体液, 活力, 坑道, 消弱, 警棍； vt. 使排出体液, 使伤元气, 使衰竭, 挖坑道逼近, 逐渐侵蚀； vi. 挖坑道, 消弱； 共享汇编程序, 结构分析程序, 符号汇编程序, 服务器广告协议",
-    "frq": 14653,
-    "composite_rank": 22917,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize sap to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用树液来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in sap pave the way for next-generation innovations.",
-        "zh": "树液领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
-    "id": "webcam",
-    "word": "webcam",
+    "id": "nos",
+    "word": "nos",
     "part_of_speech": "noun",
     "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/'webkæm/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=webcam&type=2",
-    "definition_en": "n. a digital camera designed to take digital photographs and transmit them over the internet",
-    "definition_zh": "n. 网络摄像头",
-    "frq": 27321,
-    "composite_rank": 27321,
+    "phonetic": "/nos/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=nos&type=2",
+    "definition_en": "n a negative\\nn a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known",
+    "definition_zh": "网络操作系统",
+    "frq": 28215,
+    "composite_rank": 28215,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern computing platforms utilize webcam to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用网络摄像头来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize nos to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用网络操作系统来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in webcam pave the way for next-generation innovations.",
-        "zh": "网络摄像头领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in nos pave the way for next-generation innovations.",
+        "zh": "网络操作系统领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
@@ -850,102 +975,52 @@
     ]
   },
   {
-    "id": "caps",
-    "word": "caps",
+    "id": "distilled",
+    "word": "distilled",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "C1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/caps/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=caps&type=2",
-    "definition_en": "n a tight-fitting headdress\\nn a top (as for a bottle)\\nn a mechanical or electrical explosive device or a small amount of explosive; can be used to initiate the reaction of a disrupting explosive\\nn something serving as a cover or protection\\nn a fruiting structure resembling an umbrella or a cone that forms the top of a stalked fleshy fungus such as a mushroom\\nn a protective covering that is part of a plant\\nn an upper limit on what is allowed\\nn (dentistry) dental appliance consisting of an artificial crown for a broken or decayed tooth\\nn the upper part of a column that supports the entablature\\nv lie at the top of\\nv restrict the number or amount of",
-    "definition_zh": "abbr. 盒式磁带程序设计系统（Cassette Programming System）；计算机辅助产品检索（Computer Assisted Product Search）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
+    "phonetic": "/dis'tild/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=distilled&type=2",
+    "definition_en": "v undergo condensation; change from a gaseous to a liquid state and fall in drops\\nv extract by the process of distillation\\nv undergo the process of distillation\\nv give off (a liquid)\\nv remove impurities from, increase the concentration of, and separate through the process of distillation\\nv undergo the process of distillation\\nv extract by the process of distillation\\nv undergo condensation; change from a gaseous to a liquid state and fall in drops\\nv give off (a liquid)",
+    "definition_zh": "a. 由蒸馏得来的；净化的",
+    "frq": 19599,
+    "composite_rank": 33318,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Modern computing platforms utilize caps to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用盒式磁带程序设计系统来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize distilled to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用由蒸馏得来的来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in caps pave the way for next-generation innovations.",
-        "zh": "盒式磁带程序设计系统领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in distilled pave the way for next-generation innovations.",
+        "zh": "由蒸馏得来的领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
   {
-    "id": "cars",
-    "word": "cars",
+    "id": "cs",
+    "word": "cs",
     "part_of_speech": "noun",
-    "level": "A1",
+    "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/cars/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cars&type=2",
-    "definition_en": "n a motor vehicle with four wheels; usually propelled by an internal combustion engine\\nn a wheeled vehicle adapted to the rails of railroad\\nn the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\\nn where passengers ride up and down\\nn a conveyance for passengers or freight on a cable railway",
-    "definition_zh": "abbr. 中美洲研究站（Central America Research Station）；计算机化自动额定值系统（computerized automatic rating system）；汽车收据结账证书（Certificates for Automobile Receivables）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
+    "phonetic": "/'si:,es/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cs&type=2",
+    "definition_en": "n a soft silver-white ductile metallic element (liquid at normal temperatures); the most electropositive and alkaline metal\\nn a degree on the centigrade scale of temperature\\nn the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second\\nn a vitamin found in fresh fruits (especially citrus fruits) and vegetables; prevents scurvy\\nn one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)\\nn a base found in DNA and RNA and derived from pyrimidine; pairs with guanine\\nn an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds\\nn ten 10s\\nn a unit of electrical charge equal to the amount of charge transferred by a current of 1 ampere in 1 second\\nn a general-purpose programing language closely associated with the UNIX operating system\\nn (music) the keynote of the scale of C major\\nn the 3rd letter of the Roman alphabet\\nn street names for cocaine",
+    "definition_zh": "文职人员, 行政机构； 通道状态, 通信仿真器, 公用源, 计算机软件",
+    "frq": 34015,
+    "composite_rank": 34015,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Modern computing platforms utilize cars to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用中美洲研究站来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize cs to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用文职人员来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in cars pave the way for next-generation innovations.",
-        "zh": "中美洲研究站领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
-    "id": "cats",
-    "word": "cats",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/cats/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cats&type=2",
-    "definition_en": "n feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\\nn an informal term for a youth or man\\nn a spiteful woman gossip\\nn the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant\\nn a whip with nine knotted cords\\nn a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work\\nn any of several large cats typically able to roar and living in the wild\\nn a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis\\nv beat with a cat-o'-nine-tails\\nv eject the contents of the stomach through the mouth",
-    "definition_zh": "abbr. 高级电视研究中心（Centre for Advanced Television Studies）；计算机自动测试系统（Computer Automated Test System）；通信和跟踪系统（Communications and Tracking System）；综合分析试验系统（Comprehensive Analytical Test System）",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize cats to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用高级电视研究中心来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in cats pave the way for next-generation innovations.",
-        "zh": "高级电视研究中心领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
-    "id": "windows",
-    "word": "windows",
-    "part_of_speech": "noun",
-    "level": "A1",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/'windәjz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=windows&type=2",
-    "definition_en": "n. (trademark) an operating system with a graphical user interface",
-    "definition_zh": "n. 微软公司生产的“视窗”操作系统",
-    "frq": 50000,
-    "composite_rank": 32500,
-    "badge": "core",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize windows to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用微软公司生产的视窗操作系统来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in windows pave the way for next-generation innovations.",
-        "zh": "微软公司生产的视窗操作系统领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in cs pave the way for next-generation innovations.",
+        "zh": "文职人员领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
@@ -975,52 +1050,52 @@
     ]
   },
   {
-    "id": "publishes",
-    "word": "publishes",
+    "id": "computerize",
+    "word": "computerize",
     "part_of_speech": "noun",
-    "level": "A2",
+    "level": "C1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/ˈpʌbliʃiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=publishes&type=2",
-    "definition_en": "v put into print\\nv prepare and issue for public distribution or sale\\nv have (one's written work) issued for publication",
-    "definition_zh": "v. 出版( publish的第三人称单数 ); （在互联网上）发表; 公布; 在报刊)发表",
-    "frq": 50000,
-    "composite_rank": 40000,
+    "phonetic": "/kәm'pju:tәraiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=computerize&type=2",
+    "definition_en": "v. provide with computers\\nv. store in a computer",
+    "definition_zh": "vt. 用电脑处理, 使电脑化； 给...装备电脑, 用电脑计算",
+    "frq": 30944,
+    "composite_rank": 44188,
     "badge": "high",
     "examples": [
       {
-        "en": "Modern computing platforms utilize publishes to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用出版来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize computerize to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用用电脑处理来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in publishes pave the way for next-generation innovations.",
-        "zh": "出版领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in computerize pave the way for next-generation innovations.",
+        "zh": "用电脑处理领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
   {
-    "id": "distilled",
-    "word": "distilled",
+    "id": "webcam",
+    "word": "webcam",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "C1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/dis'tild/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=distilled&type=2",
-    "definition_en": "v undergo condensation; change from a gaseous to a liquid state and fall in drops\\nv extract by the process of distillation\\nv undergo the process of distillation\\nv give off (a liquid)\\nv remove impurities from, increase the concentration of, and separate through the process of distillation\\nv undergo the process of distillation\\nv extract by the process of distillation\\nv undergo condensation; change from a gaseous to a liquid state and fall in drops\\nv give off (a liquid)",
-    "definition_zh": "a. 由蒸馏得来的；净化的",
-    "frq": 19599,
-    "composite_rank": 43118,
+    "phonetic": "/'webkæm/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=webcam&type=2",
+    "definition_en": "n. a digital camera designed to take digital photographs and transmit them over the internet",
+    "definition_zh": "n. 网络摄像头",
+    "frq": 27321,
+    "composite_rank": 46446,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern computing platforms utilize distilled to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用由蒸馏得来的来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize webcam to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用网络摄像头来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in distilled pave the way for next-generation innovations.",
-        "zh": "由蒸馏得来的领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in webcam pave the way for next-generation innovations.",
+        "zh": "网络摄像头领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
@@ -1100,52 +1175,127 @@
     ]
   },
   {
-    "id": "enhancing",
-    "word": "enhancing",
+    "id": "cars",
+    "word": "cars",
     "part_of_speech": "noun",
-    "level": "B2",
+    "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/inˈhɑ:nsɪŋ/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=enhancing&type=2",
-    "definition_en": "v increase\\nv make better or more attractive",
-    "definition_zh": "v. 提高( enhance的现在分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）; 探溯语源, 指示语源( etymologize的过去式和过去分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）",
-    "frq": 43288,
-    "composite_rank": 56274,
+    "phonetic": "/cars/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cars&type=2",
+    "definition_en": "n a motor vehicle with four wheels; usually propelled by an internal combustion engine\\nn a wheeled vehicle adapted to the rails of railroad\\nn the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\\nn where passengers ride up and down\\nn a conveyance for passengers or freight on a cable railway",
+    "definition_zh": "abbr. 中美洲研究站（Central America Research Station）；计算机化自动额定值系统（computerized automatic rating system）；汽车收据结账证书（Certificates for Automobile Receivables）",
+    "frq": 50000,
+    "composite_rank": 50000,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern computing platforms utilize enhancing to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用提高来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize cars to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用中美洲研究站来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in enhancing pave the way for next-generation innovations.",
-        "zh": "提高领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in cars pave the way for next-generation innovations.",
+        "zh": "中美洲研究站领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
   {
-    "id": "computerize",
-    "word": "computerize",
+    "id": "cybercrime",
+    "word": "cybercrime",
     "part_of_speech": "noun",
-    "level": "C2",
+    "level": "B1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/kәm'pju:tәraiz/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=computerize&type=2",
-    "definition_en": "v. provide with computers\\nv. store in a computer",
-    "definition_zh": "vt. 用电脑处理, 使电脑化； 给...装备电脑, 用电脑计算",
-    "frq": 30944,
-    "composite_rank": 57185,
-    "badge": "high",
+    "phonetic": "/cybercrime/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=cybercrime&type=2",
+    "definition_en": "n. crime committed using a computer and the internet to steal a person's identity or sell contraband or stalk victims or disrupt operations with malevolent programs",
+    "definition_zh": "n. 网络犯罪",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
     "examples": [
       {
-        "en": "Modern computing platforms utilize computerize to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用用电脑处理来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize cybercrime to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用网络犯罪来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in computerize pave the way for next-generation innovations.",
-        "zh": "用电脑处理领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in cybercrime pave the way for next-generation innovations.",
+        "zh": "网络犯罪领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "environments",
+    "word": "environments",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/environments/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=environments&type=2",
+    "definition_en": "n the totality of surrounding conditions\\nn the area in which something exists or lives",
+    "definition_zh": "n. 环境；生态环境；（计算机系统运行的）环境（environment的复数）",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize environments to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用环境来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in environments pave the way for next-generation innovations.",
+        "zh": "环境领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "publishes",
+    "word": "publishes",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/ˈpʌbliʃiz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=publishes&type=2",
+    "definition_en": "v put into print\\nv prepare and issue for public distribution or sale\\nv have (one's written work) issued for publication",
+    "definition_zh": "v. 出版( publish的第三人称单数 ); （在互联网上）发表; 公布; 在报刊)发表",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize publishes to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用出版来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in publishes pave the way for next-generation innovations.",
+        "zh": "出版领域的尖端进展为下一代科技创新铺平了道路。"
+      }
+    ]
+  },
+  {
+    "id": "windows",
+    "word": "windows",
+    "part_of_speech": "noun",
+    "level": "B1",
+    "topic": "计算机、AI与信息技术",
+    "category": "science_tech",
+    "phonetic": "/'windәjz/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=windows&type=2",
+    "definition_en": "n. (trademark) an operating system with a graphical user interface",
+    "definition_zh": "n. 微软公司生产的“视窗”操作系统",
+    "frq": 50000,
+    "composite_rank": 50000,
+    "badge": "normal",
+    "examples": [
+      {
+        "en": "Modern computing platforms utilize windows to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用微软公司生产的视窗操作系统来大幅提高处理速度与运行效率。"
+      },
+      {
+        "en": "Cutting-edge developments in windows pave the way for next-generation innovations.",
+        "zh": "微软公司生产的视窗操作系统领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
@@ -1175,31 +1325,6 @@
     ]
   },
   {
-    "id": "cybercrime",
-    "word": "cybercrime",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/cybercrime/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=cybercrime&type=2",
-    "definition_en": "n. crime committed using a computer and the internet to steal a person's identity or sell contraband or stalk victims or disrupt operations with malevolent programs",
-    "definition_zh": "n. 网络犯罪",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize cybercrime to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用网络犯罪来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in cybercrime pave the way for next-generation innovations.",
-        "zh": "网络犯罪领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
     "id": "cyberpet",
     "word": "cyberpet",
     "part_of_speech": "noun",
@@ -1225,77 +1350,27 @@
     ]
   },
   {
-    "id": "databases",
-    "word": "databases",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/databases/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=databases&type=2",
-    "definition_en": "n an organized body of related information",
-    "definition_zh": "n. 数据库；资料库（database的复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize databases to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用数据库来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in databases pave the way for next-generation innovations.",
-        "zh": "数据库领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
-    "id": "environments",
-    "word": "environments",
-    "part_of_speech": "noun",
-    "level": "B2",
-    "topic": "计算机、AI与信息技术",
-    "category": "science_tech",
-    "phonetic": "/environments/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=environments&type=2",
-    "definition_en": "n the totality of surrounding conditions\\nn the area in which something exists or lives",
-    "definition_zh": "n. 环境；生态环境；（计算机系统运行的）环境（environment的复数）",
-    "frq": 50000,
-    "composite_rank": 65000,
-    "badge": "normal",
-    "examples": [
-      {
-        "en": "Modern computing platforms utilize environments to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用环境来大幅提高处理速度与运行效率。"
-      },
-      {
-        "en": "Cutting-edge developments in environments pave the way for next-generation innovations.",
-        "zh": "环境领域的尖端进展为下一代科技创新铺平了道路。"
-      }
-    ]
-  },
-  {
-    "id": "computers",
-    "word": "computers",
+    "id": "enhancing",
+    "word": "enhancing",
     "part_of_speech": "noun",
     "level": "C1",
     "topic": "计算机、AI与信息技术",
     "category": "science_tech",
-    "phonetic": "/computers/",
-    "audio": "https://dict.youdao.com/dictvoice?audio=computers&type=2",
-    "definition_en": "n a machine for performing calculations automatically\\nn an expert at calculation (or at operating calculating machines)",
-    "definition_zh": "n. 计算机, 电脑（computer的复数）",
-    "frq": 50000,
-    "composite_rank": 85000,
+    "phonetic": "/inˈhɑ:nsɪŋ/",
+    "audio": "https://dict.youdao.com/dictvoice?audio=enhancing&type=2",
+    "definition_en": "v increase\\nv make better or more attractive",
+    "definition_zh": "v. 提高( enhance的现在分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）; 探溯语源, 指示语源( etymologize的过去式和过去分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）",
+    "frq": 43288,
+    "composite_rank": 73590,
     "badge": "normal",
     "examples": [
       {
-        "en": "Modern computing platforms utilize computers to boost processing speed and efficiency.",
-        "zh": "现代计算平台运用计算机来大幅提高处理速度与运行效率。"
+        "en": "Modern computing platforms utilize enhancing to boost processing speed and efficiency.",
+        "zh": "现代计算平台运用提高来大幅提高处理速度与运行效率。"
       },
       {
-        "en": "Cutting-edge developments in computers pave the way for next-generation innovations.",
-        "zh": "计算机领域的尖端进展为下一代科技创新铺平了道路。"
+        "en": "Cutting-edge developments in enhancing pave the way for next-generation innovations.",
+        "zh": "提高领域的尖端进展为下一代科技创新铺平了道路。"
       }
     ]
   },
